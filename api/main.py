@@ -34,7 +34,7 @@ for t in ['confirmed', 'deaths', 'recovered']:
     df['date'] = df['date'].dt.strftime('%Y-%m-%d')
     df['country'] = df['country'].apply(clean_country)
 
-    df.to_csv(f'treatment/cases/{t}.csv', index=False)
+    df.to_csv(f'api/cases/{t}.csv', index=False)
 
     dfs[t] = df
 
@@ -44,22 +44,25 @@ joinCols = ['state', 'country', 'lat', 'long', 'date']
 df = pd.merge(dfs['confirmed'], dfs['deaths'], how='left', on=joinCols)
 df = pd.merge(df, dfs['recovered'], how='left', on=joinCols).fillna(0)
 
+# Get latest date
+today = df['date'].iloc[-1]
+
 # Everything
-df.to_csv(f'treatment/cases/all.csv', index=False)
+df.to_csv(f'api/cases/all.csv', index=False)
 
 # Global Level
 df_global = df.groupby(['date']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
-df_global.to_csv(f'treatment/cases/global.csv', index=False)
+df_global.to_csv(f'api/cases/global.csv', index=False)
 
 # Country Level
-df_global = df.groupby(['date','country']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
-df_global.to_csv(f'treatment/cases/country.csv', index=False)
+df_country = df.groupby(['date','country']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
+df_country.to_csv(f'api/cases/country.csv', index=False)
 
 # %%
 ### COUNTRIES
 for country in df['country'].unique().tolist():
-    df_country = df[df['country'] == country]
-    df_country.to_csv(f'treatment/countries/{country}.csv', index=False)
+    df_tmp = df[df['country'] == country]
+    df_tmp.to_csv(f'api/country/{country}.csv', index=False)
 
 
 # %%
@@ -67,19 +70,18 @@ for country in df['country'].unique().tolist():
 for Date in df['date'].unique().tolist():
     df_date = df[df['date'] == Date]
 
-    df_date.to_csv(f'treatment/date/{Date}.csv', index=False)
+    df_date.to_csv(f'api/date/{Date}.csv', index=False)
 
 
 #%%
-## STATS
+## STATS - WIP
 stats = {}
 
 # Now
+stats['now'] = {}
+stats['now']['global'] = df_global[df_global['date'] == today]
+stats['now']['countries'] = df_country[df_country['date'] == today]
 
-
-
-#%%
-## SANDBOX
-    
-
-# %%
+# N days ago
+for Date in df['date'].unique().tolist():
+    df_date = df[df['date'] == Date]
