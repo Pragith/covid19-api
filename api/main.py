@@ -69,6 +69,15 @@ for Date in df['date'].unique().tolist():
 
     df_date.to_csv(f'treatment/date/{Date}.csv', index=False)
 
+
+#%%
+## STATS
+stats = {}
+
+# Now
+
+
+
 #%%
 ## SANDBOX
     
