@@ -1,0 +1,976 @@
+state,country,lat,long,date,confirmed,deaths,recovered
+Alberta,canada,53.9333,-116.5765,2020-01-22,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-01-22,0,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-01-22,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-01-22,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-01-22,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-01-22,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-01-22,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-01-22,0,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-01-22,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-01-22,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-01-22,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-01-22,0,0,0.0
+Recovered,canada,0.0,0.0,2020-01-22,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-01-22,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-01-22,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-01-23,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-01-23,0,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-01-23,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-01-23,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-01-23,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-01-23,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-01-23,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-01-23,0,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-01-23,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-01-23,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-01-23,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-01-23,0,0,0.0
+Recovered,canada,0.0,0.0,2020-01-23,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-01-23,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-01-23,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-01-24,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-01-24,0,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-01-24,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-01-24,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-01-24,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-01-24,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-01-24,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-01-24,0,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-01-24,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-01-24,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-01-24,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-01-24,0,0,0.0
+Recovered,canada,0.0,0.0,2020-01-24,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-01-24,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-01-24,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-01-25,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-01-25,0,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-01-25,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-01-25,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-01-25,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-01-25,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-01-25,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-01-25,0,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-01-25,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-01-25,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-01-25,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-01-25,0,0,0.0
+Recovered,canada,0.0,0.0,2020-01-25,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-01-25,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-01-25,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-01-26,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-01-26,0,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-01-26,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-01-26,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-01-26,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-01-26,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-01-26,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-01-26,1,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-01-26,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-01-26,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-01-26,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-01-26,0,0,0.0
+Recovered,canada,0.0,0.0,2020-01-26,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-01-26,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-01-26,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-01-27,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-01-27,0,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-01-27,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-01-27,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-01-27,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-01-27,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-01-27,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-01-27,1,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-01-27,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-01-27,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-01-27,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-01-27,0,0,0.0
+Recovered,canada,0.0,0.0,2020-01-27,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-01-27,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-01-27,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-01-28,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-01-28,1,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-01-28,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-01-28,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-01-28,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-01-28,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-01-28,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-01-28,1,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-01-28,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-01-28,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-01-28,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-01-28,0,0,0.0
+Recovered,canada,0.0,0.0,2020-01-28,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-01-28,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-01-28,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-01-29,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-01-29,1,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-01-29,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-01-29,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-01-29,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-01-29,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-01-29,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-01-29,1,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-01-29,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-01-29,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-01-29,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-01-29,0,0,0.0
+Recovered,canada,0.0,0.0,2020-01-29,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-01-29,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-01-29,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-01-30,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-01-30,1,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-01-30,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-01-30,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-01-30,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-01-30,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-01-30,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-01-30,1,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-01-30,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-01-30,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-01-30,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-01-30,0,0,0.0
+Recovered,canada,0.0,0.0,2020-01-30,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-01-30,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-01-30,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-01-31,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-01-31,1,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-01-31,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-01-31,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-01-31,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-01-31,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-01-31,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-01-31,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-01-31,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-01-31,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-01-31,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-01-31,0,0,0.0
+Recovered,canada,0.0,0.0,2020-01-31,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-01-31,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-01-31,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-01,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-01,1,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-01,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-01,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-01,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-01,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-01,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-01,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-01,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-01,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-01,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-01,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-01,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-01,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-01,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-02,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-02,1,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-02,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-02,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-02,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-02,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-02,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-02,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-02,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-02,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-02,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-02,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-02,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-02,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-02,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-03,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-03,1,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-03,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-03,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-03,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-03,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-03,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-03,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-03,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-03,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-03,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-03,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-03,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-03,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-03,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-04,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-04,1,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-04,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-04,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-04,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-04,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-04,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-04,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-04,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-04,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-04,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-04,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-04,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-04,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-04,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-05,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-05,2,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-05,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-05,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-05,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-05,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-05,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-05,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-05,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-05,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-05,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-05,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-05,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-05,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-05,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-06,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-06,2,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-06,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-06,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-06,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-06,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-06,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-06,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-06,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-06,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-06,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-06,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-06,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-06,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-06,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-07,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-07,4,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-07,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-07,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-07,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-07,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-07,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-07,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-07,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-07,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-07,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-07,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-07,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-07,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-07,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-08,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-08,4,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-08,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-08,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-08,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-08,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-08,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-08,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-08,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-08,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-08,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-08,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-08,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-08,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-08,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-09,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-09,4,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-09,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-09,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-09,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-09,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-09,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-09,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-09,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-09,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-09,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-09,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-09,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-09,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-09,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-10,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-10,4,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-10,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-10,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-10,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-10,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-10,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-10,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-10,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-10,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-10,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-10,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-10,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-10,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-10,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-11,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-11,4,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-11,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-11,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-11,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-11,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-11,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-11,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-11,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-11,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-11,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-11,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-11,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-11,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-11,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-12,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-12,4,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-12,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-12,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-12,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-12,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-12,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-12,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-12,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-12,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-12,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-12,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-12,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-12,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-12,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-13,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-13,4,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-13,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-13,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-13,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-13,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-13,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-13,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-13,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-13,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-13,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-13,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-13,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-13,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-13,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-14,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-14,4,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-14,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-14,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-14,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-14,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-14,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-14,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-14,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-14,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-14,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-14,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-14,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-14,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-14,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-15,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-15,4,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-15,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-15,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-15,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-15,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-15,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-15,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-15,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-15,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-15,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-15,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-15,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-15,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-15,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-16,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-16,4,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-16,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-16,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-16,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-16,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-16,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-16,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-16,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-16,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-16,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-16,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-16,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-16,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-16,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-17,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-17,5,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-17,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-17,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-17,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-17,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-17,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-17,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-17,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-17,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-17,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-17,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-17,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-17,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-17,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-18,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-18,5,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-18,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-18,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-18,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-18,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-18,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-18,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-18,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-18,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-18,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-18,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-18,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-18,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-18,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-19,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-19,5,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-19,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-19,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-19,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-19,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-19,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-19,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-19,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-19,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-19,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-19,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-19,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-19,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-19,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-20,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-20,5,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-20,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-20,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-20,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-20,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-20,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-20,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-20,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-20,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-20,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-20,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-20,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-20,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-20,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-21,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-21,6,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-21,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-21,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-21,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-21,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-21,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-21,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-21,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-21,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-21,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-21,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-21,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-21,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-21,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-22,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-22,6,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-22,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-22,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-22,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-22,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-22,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-22,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-22,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-22,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-22,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-22,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-22,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-22,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-22,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-23,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-23,6,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-23,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-23,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-23,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-23,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-23,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-23,3,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-23,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-23,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-23,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-23,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-23,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-23,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-23,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-24,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-24,6,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-24,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-24,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-24,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-24,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-24,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-24,4,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-24,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-24,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-24,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-24,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-24,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-24,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-24,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-25,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-25,7,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-25,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-25,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-25,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-25,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-25,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-25,4,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-25,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-25,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-25,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-25,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-25,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-25,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-25,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-26,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-26,7,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-26,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-26,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-26,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-26,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-26,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-26,4,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-26,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-26,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-26,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-26,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-26,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-26,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-26,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-27,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-27,7,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-27,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-27,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-27,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-27,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-27,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-27,6,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-27,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-27,0,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-27,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-27,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-27,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-27,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-27,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-28,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-28,7,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-28,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-28,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-28,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-28,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-28,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-28,6,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-28,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-28,1,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-28,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-28,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-28,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-28,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-28,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-02-29,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-02-29,8,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-02-29,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-02-29,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-02-29,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-02-29,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-02-29,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-02-29,11,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-02-29,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-02-29,1,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-02-29,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-02-29,0,0,0.0
+Recovered,canada,0.0,0.0,2020-02-29,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-02-29,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-02-29,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-01,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-01,8,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-01,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-01,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-01,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-01,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-01,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-01,15,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-01,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-01,1,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-01,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-01,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-01,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-01,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-01,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-02,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-02,8,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-02,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-02,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-02,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-02,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-02,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-02,18,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-02,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-02,1,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-02,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-02,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-02,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-02,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-02,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-03,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-03,9,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-03,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-03,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-03,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-03,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-03,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-03,20,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-03,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-03,1,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-03,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-03,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-03,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-03,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-03,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-04,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-04,12,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-04,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-04,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-04,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-04,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-04,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-04,20,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-04,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-04,1,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-04,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-04,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-04,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-04,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-04,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-05,0,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-05,13,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-05,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-05,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-05,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-05,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-05,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-05,22,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-05,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-05,2,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-05,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-05,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-05,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-05,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-05,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-06,1,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-06,21,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-06,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-06,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-06,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-06,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-06,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-06,25,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-06,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-06,2,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-06,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-06,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-06,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-06,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-06,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-07,2,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-07,21,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-07,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-07,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-07,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-07,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-07,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-07,28,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-07,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-07,3,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-07,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-07,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-07,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-07,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-07,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-08,4,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-08,27,0,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-08,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-08,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-08,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-08,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-08,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-08,29,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-08,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-08,4,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-08,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-08,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-08,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-08,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-08,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-09,7,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-09,32,1,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-09,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-09,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-09,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-09,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-09,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-09,34,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-09,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-09,4,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-09,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-09,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-09,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-09,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-09,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-10,7,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-10,32,1,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-10,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-10,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-10,0,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-10,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-10,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-10,36,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-10,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-10,4,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-10,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-10,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-10,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-10,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-10,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-11,19,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-11,39,1,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-11,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-11,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-11,1,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-11,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-11,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-11,41,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-11,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-11,8,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-11,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-11,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-11,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-11,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-11,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-12,19,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-12,46,1,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-12,0,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-12,0,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-12,1,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-12,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-12,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-12,42,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-12,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-12,9,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-12,0,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-12,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-12,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-12,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-12,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-13,29,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-13,64,1,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-13,2,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-13,4,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-13,1,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-13,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-13,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-13,74,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-13,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-13,17,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-13,2,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-13,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-13,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-13,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-13,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-14,29,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-14,64,1,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-14,2,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-14,4,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-14,1,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-14,0,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-14,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-14,79,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-14,0,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-14,17,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-14,2,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-14,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-14,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-14,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-14,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-15,39,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-15,73,1,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-15,2,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-15,4,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-15,2,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-15,1,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-15,0,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-15,104,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-15,1,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-15,24,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-15,2,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-15,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-15,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-15,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-15,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-16,56,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-16,103,4,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-16,2,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-16,7,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-16,6,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-16,1,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-16,5,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-16,177,0,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-16,1,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-16,50,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-16,7,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-16,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-16,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-16,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-16,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-17,74,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-17,103,4,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-17,8,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-17,8,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-17,8,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-17,3,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-17,7,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-17,185,1,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-17,1,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-17,74,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-17,7,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-17,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-17,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-17,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-17,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-18,97,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-18,186,7,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-18,9,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-18,15,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-18,11,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-18,3,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-18,12,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-18,221,1,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-18,1,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-18,94,0,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-18,8,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-18,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-18,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-18,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-18,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-19,119,0,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-19,231,7,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-19,9,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-19,17,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-19,11,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-19,3,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-19,14,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-19,257,1,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-19,2,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-19,121,1,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-19,16,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-19,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-19,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-19,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-19,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-20,146,1,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-20,271,8,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-20,10,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-20,17,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-20,11,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-20,4,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-20,15,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-20,308,2,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-20,2,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-20,139,1,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-20,20,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-20,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-20,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-20,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-20,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-21,195,1,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-21,424,10,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-21,10,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-21,18,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-21,17,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-21,6,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-21,21,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-21,377,3,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-21,2,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-21,181,5,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-21,26,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-21,0,0,0.0
+Recovered,canada,0.0,0.0,2020-03-21,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-21,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-21,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-22,259,1,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-22,424,10,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-22,13,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-22,20,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-22,17,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-22,9,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-22,28,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-22,425,5,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-22,3,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-22,219,4,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-22,52,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-22,0,1,0.0
+Recovered,canada,0.0,0.0,2020-03-22,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-22,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-22,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-23,301,1,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-23,472,13,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-23,13,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-23,20,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-23,17,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-23,24,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-23,41,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-23,503,6,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-23,3,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-23,628,4,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-23,66,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-23,0,1,0.0
+Recovered,canada,0.0,0.0,2020-03-23,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-23,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-23,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-24,359,1,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-24,617,13,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-24,13,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-24,21,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-24,18,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-24,35,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-24,51,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-24,588,7,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-24,3,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-24,1013,4,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-24,72,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-24,0,1,0.0
+Recovered,canada,0.0,0.0,2020-03-24,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-24,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-24,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-25,358,2,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-25,617,13,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-25,13,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-25,35,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-25,18,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-25,35,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-25,68,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-25,688,8,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-25,5,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-25,1342,6,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-25,72,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-25,0,1,0.0
+Recovered,canada,0.0,0.0,2020-03-25,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-25,0,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-25,0,0,0.0
+Alberta,canada,53.9333,-116.5765,2020-03-26,486,2,0.0
+British Columbia,canada,49.2827,-123.1207,2020-03-26,725,14,0.0
+Grand Princess,canada,37.6489,-122.6655,2020-03-26,13,0,0.0
+Manitoba,canada,53.7609,-98.8139,2020-03-26,36,0,0.0
+New Brunswick,canada,46.5653,-66.4619,2020-03-26,33,0,0.0
+Newfoundland and Labrador,canada,53.1355,-57.6604,2020-03-26,82,0,0.0
+Nova Scotia,canada,44.682,-63.7443,2020-03-26,73,0,0.0
+Ontario,canada,51.2538,-85.3232,2020-03-26,858,13,0.0
+Prince Edward Island,canada,46.5107,-63.4168,2020-03-26,5,0,0.0
+Quebec,canada,52.9399,-73.5491,2020-03-26,1632,8,0.0
+Saskatchewan,canada,52.9399,-106.4509,2020-03-26,95,0,0.0
+Diamond Princess,canada,0.0,0.0,2020-03-26,0,1,0.0
+Recovered,canada,0.0,0.0,2020-03-26,0,0,0.0
+Northwest Territories,canada,64.8255,-124.8457,2020-03-26,1,0,0.0
+Yukon,canada,64.2823,-135.0,2020-03-26,3,0,0.0

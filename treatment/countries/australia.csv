@@ -1,0 +1,521 @@
+state,country,lat,long,date,confirmed,deaths,recovered
+Australian Capital Territory,australia,-35.4735,149.0124,2020-01-22,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-01-22,0,0,0.0
+Northern Territory,australia,-12.4634,130.8456,2020-01-22,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-01-22,0,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-01-22,0,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-01-22,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-01-22,0,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-01-22,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-01-23,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-01-23,0,0,0.0
+Northern Territory,australia,-12.4634,130.8456,2020-01-23,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-01-23,0,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-01-23,0,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-01-23,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-01-23,0,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-01-23,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-01-24,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-01-24,0,0,0.0
+Northern Territory,australia,-12.4634,130.8456,2020-01-24,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-01-24,0,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-01-24,0,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-01-24,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-01-24,0,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-01-24,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-01-25,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-01-25,0,0,0.0
+Northern Territory,australia,-12.4634,130.8456,2020-01-25,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-01-25,0,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-01-25,0,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-01-25,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-01-25,0,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-01-25,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-01-26,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-01-26,3,0,0.0
+Northern Territory,australia,-12.4634,130.8456,2020-01-26,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-01-26,0,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-01-26,0,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-01-26,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-01-26,1,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-01-26,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-01-27,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-01-27,4,0,0.0
+Northern Territory,australia,-12.4634,130.8456,2020-01-27,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-01-27,0,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-01-27,0,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-01-27,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-01-27,1,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-01-27,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-01-28,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-01-28,4,0,0.0
+Northern Territory,australia,-12.4634,130.8456,2020-01-28,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-01-28,0,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-01-28,0,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-01-28,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-01-28,1,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-01-28,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-01-29,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-01-29,4,0,0.0
+Northern Territory,australia,-12.4634,130.8456,2020-01-29,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-01-29,1,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-01-29,0,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-01-29,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-01-29,1,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-01-29,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-01-30,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-01-30,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-01-30,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-01-30,3,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-01-30,0,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-01-30,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-01-30,2,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-01-30,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-01-31,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-01-31,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-01-31,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-01-31,2,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-01-31,0,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-01-31,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-01-31,3,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-01-31,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-01,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-01,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-01,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-01,3,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-01,1,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-01,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-01,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-01,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-02,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-02,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-02,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-02,2,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-02,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-02,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-02,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-02,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-03,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-03,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-03,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-03,2,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-03,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-03,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-03,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-03,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-04,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-04,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-04,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-04,3,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-04,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-04,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-04,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-04,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-05,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-05,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-05,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-05,3,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-05,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-05,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-05,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-05,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-06,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-06,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-06,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-06,4,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-06,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-06,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-06,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-06,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-07,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-07,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-07,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-07,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-07,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-07,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-07,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-07,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-08,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-08,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-08,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-08,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-08,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-08,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-08,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-08,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-09,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-09,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-09,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-09,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-09,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-09,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-09,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-09,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-10,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-10,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-10,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-10,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-10,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-10,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-10,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-10,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-11,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-11,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-11,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-11,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-11,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-11,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-11,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-11,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-12,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-12,4,0,2.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-12,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-12,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-12,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-12,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-12,4,0,0.0
+Western Australia,australia,-31.9505,115.8605,2020-02-12,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-13,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-13,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-13,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-13,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-13,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-13,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-13,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-13,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-14,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-14,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-14,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-14,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-14,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-14,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-14,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-14,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-15,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-15,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-15,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-15,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-15,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-15,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-15,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-15,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-16,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-16,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-16,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-16,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-16,2,0,0.0
+Tasmania,australia,-41.4545,145.9707,2020-02-16,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-16,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-16,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-17,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-17,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-17,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-17,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-17,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-17,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-17,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-17,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-18,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-18,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-18,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-18,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-18,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-18,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-18,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-18,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-19,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-19,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-19,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-19,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-19,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-19,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-19,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-19,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-20,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-20,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-20,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-20,5,0,0.0
+South Australia,australia,-34.9285,138.6007,2020-02-20,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-20,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-20,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-20,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-21,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-21,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-21,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-21,5,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-02-21,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-21,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-21,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-21,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-22,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-22,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-22,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-22,5,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-02-22,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-22,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-22,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-22,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-23,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-23,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-23,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-23,5,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-02-23,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-23,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-23,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-23,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-24,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-24,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-24,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-24,5,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-02-24,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-24,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-24,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-24,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-25,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-25,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-25,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-25,5,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-02-25,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-25,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-25,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-25,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-26,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-26,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-26,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-26,5,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-02-26,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-26,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-26,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-26,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-27,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-27,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-27,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-27,5,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-02-27,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-27,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-27,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-27,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-28,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-28,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-28,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-28,5,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-02-28,2,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-28,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-28,4,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-28,0,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-02-29,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-02-29,4,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-02-29,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-02-29,9,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-02-29,3,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-02-29,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-02-29,7,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-02-29,2,0,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-01,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-01,6,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-01,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-01,9,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-03-01,3,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-01,0,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-01,7,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-03-01,2,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-02,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-02,6,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-02,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-02,9,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-03-02,3,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-02,1,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-02,9,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-03-02,2,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-03,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-03,13,0,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-03,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-03,11,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-03-03,3,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-03,1,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-03,9,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-03-03,2,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-04,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-04,22,1,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-04,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-04,11,0,1.0
+South Australia,australia,-34.9285,138.6007,2020-03-04,5,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-04,1,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-04,10,0,4.0
+Western Australia,australia,-31.9505,115.8605,2020-03-04,2,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-05,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-05,22,1,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-05,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-05,13,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-05,5,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-05,1,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-05,10,0,7.0
+Western Australia,australia,-31.9505,115.8605,2020-03-05,3,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-06,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-06,26,1,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-06,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-06,13,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-06,7,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-06,1,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-06,10,0,7.0
+Western Australia,australia,-31.9505,115.8605,2020-03-06,3,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-07,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-07,28,1,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-07,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-07,13,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-07,7,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-07,1,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-07,11,0,7.0
+Western Australia,australia,-31.9505,115.8605,2020-03-07,3,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-08,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-08,38,2,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-08,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-08,15,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-08,7,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-08,2,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-08,11,0,7.0
+Western Australia,australia,-31.9505,115.8605,2020-03-08,3,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-09,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-09,48,2,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-09,0,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-09,15,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-09,7,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-09,2,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-09,15,0,7.0
+Western Australia,australia,-31.9505,115.8605,2020-03-09,4,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-10,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-10,55,2,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-10,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-10,18,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-10,7,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-10,2,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-10,18,0,7.0
+Western Australia,australia,-31.9505,115.8605,2020-03-10,6,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-11,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-11,65,2,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-11,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-11,20,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-11,9,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-11,3,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-11,21,0,7.0
+Western Australia,australia,-31.9505,115.8605,2020-03-11,9,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-12,0,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-12,65,2,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-12,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-12,20,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-12,9,0,2.0
+Tasmania,australia,-41.4545,145.9707,2020-03-12,3,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-12,21,0,7.0
+Western Australia,australia,-31.9505,115.8605,2020-03-12,9,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-13,1,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-13,92,2,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-13,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-13,35,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-13,16,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-13,5,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-13,36,0,8.0
+Western Australia,australia,-31.9505,115.8605,2020-03-13,14,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-14,1,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-14,112,2,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-14,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-14,46,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-14,19,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-14,5,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-14,49,0,8.0
+Western Australia,australia,-31.9505,115.8605,2020-03-14,17,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-15,1,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-15,134,2,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-15,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-15,61,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-15,20,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-15,6,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-15,57,0,8.0
+Western Australia,australia,-31.9505,115.8605,2020-03-15,17,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-16,2,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-16,171,2,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-16,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-16,68,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-16,29,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-16,7,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-16,71,0,8.0
+Western Australia,australia,-31.9505,115.8605,2020-03-16,28,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-17,2,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-17,210,4,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-17,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-17,78,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-17,29,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-17,7,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-17,94,0,8.0
+Western Australia,australia,-31.9505,115.8605,2020-03-17,31,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-18,3,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-18,267,5,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-18,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-18,94,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-18,37,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-18,10,0,0.0
+Victoria,australia,-37.8136,144.9631,2020-03-18,121,0,8.0
+Western Australia,australia,-31.9505,115.8605,2020-03-18,35,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-19,4,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-19,307,5,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-19,1,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-19,144,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-19,42,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-19,10,0,3.0
+Victoria,australia,-37.8136,144.9631,2020-03-19,121,0,8.0
+Western Australia,australia,-31.9505,115.8605,2020-03-19,52,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-20,6,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-20,353,6,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-20,3,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-20,184,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-20,50,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-20,10,0,3.0
+Victoria,australia,-37.8136,144.9631,2020-03-20,121,0,8.0
+Western Australia,australia,-31.9505,115.8605,2020-03-20,64,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-21,9,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-21,436,6,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-21,3,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-21,221,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-21,67,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-21,16,0,3.0
+Victoria,australia,-37.8136,144.9631,2020-03-21,229,0,8.0
+Western Australia,australia,-31.9505,115.8605,2020-03-21,90,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-22,19,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-22,669,6,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-22,5,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-22,259,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-22,100,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-22,22,0,3.0
+Victoria,australia,-37.8136,144.9631,2020-03-22,355,0,70.0
+Western Australia,australia,-31.9505,115.8605,2020-03-22,120,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-23,32,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-23,669,6,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-23,5,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-23,319,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-23,134,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-23,28,0,3.0
+Victoria,australia,-37.8136,144.9631,2020-03-23,355,0,70.0
+Western Australia,australia,-31.9505,115.8605,2020-03-23,140,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-24,39,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-24,818,7,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-24,6,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-24,397,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-24,170,0,3.0
+Tasmania,australia,-41.4545,145.9707,2020-03-24,28,0,3.0
+Victoria,australia,-37.8136,144.9631,2020-03-24,411,0,97.0
+Western Australia,australia,-31.9505,115.8605,2020-03-24,175,1,0.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-25,39,0,0.0
+New South Wales,australia,-33.8688,151.2093,2020-03-25,1029,7,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-25,6,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-25,443,0,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-25,170,0,6.0
+Tasmania,australia,-41.4545,145.9707,2020-03-25,36,0,3.0
+Victoria,australia,-37.8136,144.9631,2020-03-25,466,0,97.0
+Western Australia,australia,-31.9505,115.8605,2020-03-25,175,1,1.0
+Australian Capital Territory,australia,-35.4735,149.0124,2020-03-26,53,0,1.0
+New South Wales,australia,-33.8688,151.2093,2020-03-26,1219,7,4.0
+Northern Territory,australia,-12.4634,130.8456,2020-03-26,12,0,0.0
+Queensland,australia,-28.0167,153.4,2020-03-26,493,1,8.0
+South Australia,australia,-34.9285,138.6007,2020-03-26,235,0,6.0
+Tasmania,australia,-41.4545,145.9707,2020-03-26,47,0,3.0
+Victoria,australia,-37.8136,144.9631,2020-03-26,520,3,149.0
+Western Australia,australia,-31.9505,115.8605,2020-03-26,231,2,1.0
