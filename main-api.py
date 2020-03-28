@@ -1,14 +1,13 @@
 #%%
-import pandas as pd
-import json, re
+import json, re, os, pandas as pd
 
-#%%
 ## Functions
-def clean_country(country):
+def sanitize_data(country):
     country = country.lower()
     country = re.sub(pattern='[^A-Za-z]', repl='-', string=country)
     country = re.sub('\-+', '-', country)
-    country = country[:-1] if country[-1] == '-' else country
+    if len(country) > 0:
+        country = country[:-1] if country[-1] == '-' else country
     return country
 
 def export(data, api):
@@ -52,7 +51,8 @@ for t in ['confirmed', 'deaths', 'recovered']:
 
     df['date'] = pd.to_datetime(df['date'])
     df['date'] = df['date'].dt.strftime('%Y-%m-%d')
-    df['country'] = df['country'].apply(clean_country)
+    df['country'] = df['country'].apply(sanitize_data)
+    df['state'] = df['state'].apply(sanitize_data)
 
     export(data=df, api=f'cases/{t}')
 
@@ -78,12 +78,20 @@ export(data=df_global, api='cases/global')
 df_country = df.groupby(['date','country']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
 export(data=df_country, api='cases/country')
 
-
 ### COUNTRIES
 for country in df['country'].unique().tolist():
-    df_tmp = df[df['country'] == country]
-    export(data=df_tmp, api=f'country/{country}')
 
+    # Export country data
+    df_tmp_country = df[df['country'] == country]
+    export(data=df_tmp_country, api=f'country/{country}')
+
+    # Export state data
+    if not os.path.isdir(f'api/country/{country}'):
+        os.mkdir(f'api/country/{country}')
+
+    for state in df_tmp_country['state'].unique().tolist():
+        df_tmp_state = df_tmp_country[df_tmp_country['state'] == state]
+        export(data=df_tmp_state, api=f'country/{country}/{state}')
 
 ### DATE
 for Date in df['date'].unique().tolist():
