@@ -64,3 +64,4 @@ state,country,lat,long,date,confirmed,deaths,recovered
 ,venezuela,6.4238,-66.5897,2020-03-24,84,0,15.0
 ,venezuela,6.4238,-66.5897,2020-03-25,91,0,15.0
 ,venezuela,6.4238,-66.5897,2020-03-26,107,0,15.0
+,venezuela,6.4238,-66.5897,2020-03-27,107,1,31.0

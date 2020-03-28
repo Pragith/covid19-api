@@ -64,3 +64,4 @@ state,country,lat,long,date,confirmed,deaths,recovered
 ,jordan,31.24,36.51,2020-03-24,154,0,1.0
 ,jordan,31.24,36.51,2020-03-25,172,0,1.0
 ,jordan,31.24,36.51,2020-03-26,212,0,1.0
+,jordan,31.24,36.51,2020-03-27,235,1,18.0

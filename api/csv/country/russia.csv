@@ -64,3 +64,4 @@ state,country,lat,long,date,confirmed,deaths,recovered
 ,russia,60.0,90.0,2020-03-24,495,1,22.0
 ,russia,60.0,90.0,2020-03-25,658,3,29.0
 ,russia,60.0,90.0,2020-03-26,840,3,38.0
+,russia,60.0,90.0,2020-03-27,1036,4,45.0

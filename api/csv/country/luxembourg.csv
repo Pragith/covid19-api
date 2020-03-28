@@ -64,3 +64,4 @@ state,country,lat,long,date,confirmed,deaths,recovered
 ,luxembourg,49.8153,6.1296,2020-03-24,1099,8,6.0
 ,luxembourg,49.8153,6.1296,2020-03-25,1333,8,6.0
 ,luxembourg,49.8153,6.1296,2020-03-26,1453,9,6.0
+,luxembourg,49.8153,6.1296,2020-03-27,1605,15,40.0

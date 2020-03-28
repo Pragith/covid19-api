@@ -64,3 +64,4 @@ state,country,lat,long,date,confirmed,deaths,recovered
 ,south-africa,-30.5595,22.9375,2020-03-24,554,0,4.0
 ,south-africa,-30.5595,22.9375,2020-03-25,709,0,12.0
 ,south-africa,-30.5595,22.9375,2020-03-26,927,0,12.0
+,south-africa,-30.5595,22.9375,2020-03-27,1170,1,31.0

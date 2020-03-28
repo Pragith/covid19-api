@@ -78,20 +78,17 @@ export(data=df_global, api='cases/global')
 df_country = df.groupby(['date','country']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
 export(data=df_country, api='cases/country')
 
-# %%
+
 ### COUNTRIES
 for country in df['country'].unique().tolist():
     df_tmp = df[df['country'] == country]
-    df_tmp.to_csv(f'api/country/{country}.csv', index=False)
+    export(data=df_tmp, api=f'country/{country}')
 
 
-# %%
 ### DATE
 for Date in df['date'].unique().tolist():
     df_date = df[df['date'] == Date]
-
-    df_date.to_csv(f'api/date/{Date}.csv', index=False)
-
+    export(data=df_date, api=f'date/{Date}')
 
 #%%
 ## STATS - WIP
