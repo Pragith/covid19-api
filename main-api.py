@@ -90,6 +90,7 @@ for country in df['country'].unique().tolist():
         os.mkdir(f'api/country/{country}')
 
     for state in df_tmp_country['state'].unique().tolist():
+        state = state if state else country
         df_tmp_state = df_tmp_country[df_tmp_country['state'] == state]
         export(data=df_tmp_state, api=f'country/{country}/{state}')
 
