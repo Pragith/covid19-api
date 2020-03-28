@@ -1,28 +1,27 @@
 #%%
 import json, re, os, pandas as pd
+from shutil import rmtree
 
 ## Functions
-def sanitize_data(country):
-    country = country.lower()
-    country = re.sub(pattern='[^A-Za-z]', repl='-', string=country)
-    country = re.sub('\-+', '-', country)
-    if len(country) > 0:
-        country = country[:-1] if country[-1] == '-' else country
-    return country
+unique_vals = lambda l: l.unique().tolist()
+
+def sanitize_data(data):
+    data = re.sub('\-+', '-', string=re.sub(pattern='[^A-Za-z]', repl='-', string=data.lower()))
+    if len(data) > 0:
+        data = data[:-1] if data[-1] == '-' else data
+    return data
 
 def export(data, api):
     print(f'> Exporting: {api}')
+
     # Export to CSV
     try:
-        # print('Exporting to CSV...')
-        data.to_csv(f'api/{api}.csv', index=False)
-        # print('Exported to CSV!')
+        data.to_csv(f'api/{api}.csv', index=False)        
     except Exception as e:
         print('[Error] - ', e)
 
     # Export to JSON
     try:
-        # print('Exporting to JSON...')
         data = data.to_json(orient='records')
         f = open(f'api/{api}.json', 'w', encoding='utf-8')
         f.write(json.dumps(json.loads(data)))
@@ -78,8 +77,9 @@ export(data=df_global, api='cases/global')
 df_country = df.groupby(['date','country']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
 export(data=df_country, api='cases/country')
 
+
 ### COUNTRIES
-for country in df['country'].unique().tolist():
+for country in unique_vals(df['country']):
 
     # Export country data
     df_tmp_country = df[df['country'] == country]
@@ -90,19 +90,30 @@ for country in df['country'].unique().tolist():
     export(data=df_tmp_country_main, api=f'country/{country}')
 
     # Export state data
-    if not os.path.isdir(f'api/country/{country}'):
-        os.mkdir(f'api/country/{country}')
+    if os.path.isdir(f'api/country/{country}'):
+        rmtree(f'api/country/{country}')
+    os.mkdir(f'api/country/{country}')
 
-    for state in df_tmp_country['state'].unique().tolist():
+    for state in unique_vals(df_tmp_country['state']):
         state = state if state else country
         df_tmp_state = df_tmp_country[df_tmp_country['state'] == state]
         export(data=df_tmp_state, api=f'country/{country}/{state}')
 
+
 ### DATE
-for Date in df['date'].unique().tolist():
+for Date in unique_vals(df['date']):
     df_date = df[df['date'] == Date]
     export(data=df_date, api=f'date/{Date}')
 
+
+### DIMENSIONS
+countries_states = df[df['date'] == today][['country', 'state', 'lat', 'long']]
+
+for dim in ['country', 'state', 'date']:
+    df_dim = pd.DataFrame({ dim: unique_vals(df[dim]) })
+    export(data=df_dim, api=f'dimensions/{dim}')
+
+export(data=countries_states, api=f'dimensions/countries_states')
 #%%
 ## STATS - WIP
 stats = {}
