@@ -1,661 +1,661 @@
 state,country,lat,long,date,confirmed,deaths,recovered
-French Guiana,france,3.9339,-53.1258,2020-01-22,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-01-22,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-01-22,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-01-22,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-01-22,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-01-22,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-01-22,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-01-22,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-01-22,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-01-22,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-01-22,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-01-22,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-01-22,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-01-22,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-01-22,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-01-22,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-01-22,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-01-22,0,0,0.0
 ,france,46.2276,2.2137,2020-01-22,0,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-01-23,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-01-23,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-01-23,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-01-23,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-01-23,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-01-23,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-01-23,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-01-23,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-01-23,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-01-23,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-01-23,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-01-23,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-01-23,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-01-23,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-01-23,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-01-23,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-01-23,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-01-23,0,0,0.0
 ,france,46.2276,2.2137,2020-01-23,0,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-01-24,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-01-24,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-01-24,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-01-24,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-01-24,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-01-24,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-01-24,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-01-24,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-01-24,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-01-24,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-01-24,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-01-24,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-01-24,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-01-24,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-01-24,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-01-24,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-01-24,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-01-24,0,0,0.0
 ,france,46.2276,2.2137,2020-01-24,2,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-01-25,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-01-25,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-01-25,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-01-25,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-01-25,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-01-25,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-01-25,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-01-25,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-01-25,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-01-25,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-01-25,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-01-25,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-01-25,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-01-25,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-01-25,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-01-25,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-01-25,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-01-25,0,0,0.0
 ,france,46.2276,2.2137,2020-01-25,3,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-01-26,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-01-26,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-01-26,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-01-26,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-01-26,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-01-26,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-01-26,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-01-26,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-01-26,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-01-26,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-01-26,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-01-26,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-01-26,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-01-26,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-01-26,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-01-26,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-01-26,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-01-26,0,0,0.0
 ,france,46.2276,2.2137,2020-01-26,3,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-01-27,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-01-27,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-01-27,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-01-27,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-01-27,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-01-27,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-01-27,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-01-27,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-01-27,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-01-27,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-01-27,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-01-27,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-01-27,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-01-27,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-01-27,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-01-27,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-01-27,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-01-27,0,0,0.0
 ,france,46.2276,2.2137,2020-01-27,3,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-01-28,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-01-28,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-01-28,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-01-28,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-01-28,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-01-28,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-01-28,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-01-28,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-01-28,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-01-28,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-01-28,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-01-28,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-01-28,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-01-28,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-01-28,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-01-28,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-01-28,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-01-28,0,0,0.0
 ,france,46.2276,2.2137,2020-01-28,4,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-01-29,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-01-29,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-01-29,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-01-29,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-01-29,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-01-29,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-01-29,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-01-29,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-01-29,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-01-29,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-01-29,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-01-29,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-01-29,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-01-29,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-01-29,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-01-29,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-01-29,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-01-29,0,0,0.0
 ,france,46.2276,2.2137,2020-01-29,5,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-01-30,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-01-30,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-01-30,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-01-30,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-01-30,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-01-30,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-01-30,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-01-30,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-01-30,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-01-30,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-01-30,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-01-30,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-01-30,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-01-30,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-01-30,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-01-30,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-01-30,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-01-30,0,0,0.0
 ,france,46.2276,2.2137,2020-01-30,5,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-01-31,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-01-31,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-01-31,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-01-31,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-01-31,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-01-31,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-01-31,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-01-31,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-01-31,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-01-31,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-01-31,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-01-31,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-01-31,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-01-31,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-01-31,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-01-31,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-01-31,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-01-31,0,0,0.0
 ,france,46.2276,2.2137,2020-01-31,5,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-01,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-01,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-01,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-01,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-01,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-01,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-01,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-01,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-01,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-01,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-01,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-01,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-01,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-01,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-01,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-01,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-01,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-01,0,0,0.0
 ,france,46.2276,2.2137,2020-02-01,6,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-02,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-02,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-02,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-02,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-02,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-02,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-02,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-02,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-02,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-02,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-02,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-02,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-02,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-02,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-02,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-02,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-02,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-02,0,0,0.0
 ,france,46.2276,2.2137,2020-02-02,6,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-03,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-03,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-03,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-03,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-03,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-03,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-03,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-03,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-03,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-03,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-03,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-03,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-03,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-03,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-03,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-03,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-03,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-03,0,0,0.0
 ,france,46.2276,2.2137,2020-02-03,6,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-04,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-04,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-04,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-04,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-04,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-04,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-04,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-04,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-04,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-04,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-04,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-04,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-04,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-04,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-04,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-04,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-04,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-04,0,0,0.0
 ,france,46.2276,2.2137,2020-02-04,6,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-05,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-05,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-05,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-05,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-05,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-05,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-05,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-05,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-05,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-05,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-05,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-05,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-05,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-05,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-05,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-05,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-05,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-05,0,0,0.0
 ,france,46.2276,2.2137,2020-02-05,6,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-06,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-06,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-06,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-06,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-06,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-06,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-06,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-06,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-06,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-06,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-06,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-06,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-06,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-06,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-06,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-06,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-06,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-06,0,0,0.0
 ,france,46.2276,2.2137,2020-02-06,6,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-07,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-07,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-07,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-07,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-07,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-07,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-07,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-07,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-07,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-07,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-07,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-07,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-07,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-07,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-07,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-07,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-07,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-07,0,0,0.0
 ,france,46.2276,2.2137,2020-02-07,6,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-08,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-08,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-08,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-08,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-08,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-08,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-08,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-08,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-08,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-08,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-08,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-08,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-08,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-08,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-08,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-08,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-08,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-08,0,0,0.0
 ,france,46.2276,2.2137,2020-02-08,11,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-09,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-09,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-09,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-09,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-09,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-09,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-09,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-09,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-09,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-09,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-09,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-09,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-09,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-09,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-09,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-09,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-09,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-09,0,0,0.0
 ,france,46.2276,2.2137,2020-02-09,11,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-10,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-10,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-10,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-10,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-10,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-10,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-10,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-10,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-10,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-10,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-10,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-10,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-10,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-10,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-10,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-10,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-10,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-10,0,0,0.0
 ,france,46.2276,2.2137,2020-02-10,11,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-11,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-11,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-11,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-11,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-11,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-11,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-11,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-11,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-11,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-11,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-11,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-11,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-11,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-11,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-11,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-11,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-11,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-11,0,0,0.0
 ,france,46.2276,2.2137,2020-02-11,11,0,0.0
-French Guiana,france,3.9339,-53.1258,2020-02-12,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-12,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-12,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-12,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-12,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-12,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-12,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-12,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-12,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-12,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-12,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-12,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-12,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-12,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-12,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-12,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-12,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-12,0,0,0.0
 ,france,46.2276,2.2137,2020-02-12,11,0,2.0
-French Guiana,france,3.9339,-53.1258,2020-02-13,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-13,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-13,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-13,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-13,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-13,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-13,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-13,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-13,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-13,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-13,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-13,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-13,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-13,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-13,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-13,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-13,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-13,0,0,0.0
 ,france,46.2276,2.2137,2020-02-13,11,0,2.0
-French Guiana,france,3.9339,-53.1258,2020-02-14,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-14,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-14,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-14,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-14,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-14,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-14,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-14,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-14,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-14,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-14,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-14,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-14,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-14,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-14,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-14,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-14,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-14,0,0,0.0
 ,france,46.2276,2.2137,2020-02-14,11,0,2.0
-French Guiana,france,3.9339,-53.1258,2020-02-15,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-15,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-15,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-15,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-15,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-15,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-15,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-15,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-15,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-15,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-15,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-15,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-15,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-15,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-15,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-15,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-15,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-15,0,0,0.0
 ,france,46.2276,2.2137,2020-02-15,12,1,4.0
-French Guiana,france,3.9339,-53.1258,2020-02-16,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-16,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-16,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-16,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-16,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-16,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-16,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-16,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-16,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-16,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-16,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-16,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-16,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-16,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-16,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-16,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-16,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-16,0,0,0.0
 ,france,46.2276,2.2137,2020-02-16,12,1,4.0
-French Guiana,france,3.9339,-53.1258,2020-02-17,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-17,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-17,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-17,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-17,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-17,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-17,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-17,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-17,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-17,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-17,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-17,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-17,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-17,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-17,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-17,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-17,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-17,0,0,0.0
 ,france,46.2276,2.2137,2020-02-17,12,1,4.0
-French Guiana,france,3.9339,-53.1258,2020-02-18,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-18,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-18,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-18,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-18,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-18,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-18,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-18,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-18,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-18,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-18,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-18,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-18,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-18,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-18,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-18,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-18,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-18,0,0,0.0
 ,france,46.2276,2.2137,2020-02-18,12,1,4.0
-French Guiana,france,3.9339,-53.1258,2020-02-19,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-19,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-19,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-19,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-19,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-19,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-19,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-19,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-19,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-19,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-19,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-19,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-19,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-19,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-19,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-19,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-19,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-19,0,0,0.0
 ,france,46.2276,2.2137,2020-02-19,12,1,4.0
-French Guiana,france,3.9339,-53.1258,2020-02-20,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-20,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-20,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-20,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-20,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-20,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-20,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-20,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-20,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-20,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-20,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-20,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-20,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-20,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-20,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-20,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-20,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-20,0,0,0.0
 ,france,46.2276,2.2137,2020-02-20,12,1,4.0
-French Guiana,france,3.9339,-53.1258,2020-02-21,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-21,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-21,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-21,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-21,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-21,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-21,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-21,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-21,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-21,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-21,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-21,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-21,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-21,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-21,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-21,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-21,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-21,0,0,0.0
 ,france,46.2276,2.2137,2020-02-21,12,1,4.0
-French Guiana,france,3.9339,-53.1258,2020-02-22,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-22,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-22,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-22,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-22,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-22,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-22,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-22,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-22,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-22,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-22,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-22,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-22,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-22,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-22,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-22,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-22,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-22,0,0,0.0
 ,france,46.2276,2.2137,2020-02-22,12,1,4.0
-French Guiana,france,3.9339,-53.1258,2020-02-23,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-23,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-23,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-23,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-23,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-23,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-23,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-23,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-23,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-23,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-23,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-23,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-23,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-23,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-23,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-23,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-23,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-23,0,0,0.0
 ,france,46.2276,2.2137,2020-02-23,12,1,4.0
-French Guiana,france,3.9339,-53.1258,2020-02-24,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-24,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-24,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-24,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-24,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-24,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-24,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-24,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-24,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-24,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-24,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-24,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-24,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-24,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-24,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-24,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-24,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-24,0,0,0.0
 ,france,46.2276,2.2137,2020-02-24,12,1,4.0
-French Guiana,france,3.9339,-53.1258,2020-02-25,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-25,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-25,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-25,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-25,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-25,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-25,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-25,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-25,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-25,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-25,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-25,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-25,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-25,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-25,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-25,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-25,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-25,0,0,0.0
 ,france,46.2276,2.2137,2020-02-25,14,1,11.0
-French Guiana,france,3.9339,-53.1258,2020-02-26,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-26,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-26,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-26,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-26,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-26,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-26,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-26,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-26,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-26,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-26,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-26,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-26,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-26,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-26,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-26,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-26,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-26,0,0,0.0
 ,france,46.2276,2.2137,2020-02-26,18,2,11.0
-French Guiana,france,3.9339,-53.1258,2020-02-27,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-27,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-27,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-27,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-27,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-27,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-27,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-27,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-27,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-27,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-27,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-27,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-27,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-27,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-27,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-27,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-27,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-27,0,0,0.0
 ,france,46.2276,2.2137,2020-02-27,38,2,11.0
-French Guiana,france,3.9339,-53.1258,2020-02-28,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-28,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-28,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-28,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-28,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-28,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-28,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-28,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-28,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-28,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-28,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-28,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-28,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-28,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-28,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-28,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-28,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-28,0,0,0.0
 ,france,46.2276,2.2137,2020-02-28,57,2,11.0
-French Guiana,france,3.9339,-53.1258,2020-02-29,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-02-29,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-02-29,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-02-29,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-02-29,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-02-29,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-02-29,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-02-29,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-02-29,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-02-29,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-02-29,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-02-29,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-02-29,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-02-29,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-02-29,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-02-29,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-02-29,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-02-29,0,0,0.0
 ,france,46.2276,2.2137,2020-02-29,100,2,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-01,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-01,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-01,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-01,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-01,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-01,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-01,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-01,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-01,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-01,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-01,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-01,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-01,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-01,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-01,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-01,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-01,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-01,0,0,0.0
 ,france,46.2276,2.2137,2020-03-01,130,2,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-02,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-02,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-02,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-02,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-02,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-02,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-02,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-02,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-02,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-02,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-02,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-02,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-02,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-02,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-02,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-02,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-02,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-02,0,0,0.0
 ,france,46.2276,2.2137,2020-03-02,191,3,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-03,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-03,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-03,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-03,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-03,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-03,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-03,0,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-03,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-03,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-03,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-03,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-03,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-03,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-03,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-03,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-03,0,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-03,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-03,0,0,0.0
 ,france,46.2276,2.2137,2020-03-03,204,4,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-04,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-04,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-04,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-04,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-04,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-04,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-04,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-04,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-04,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-04,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-04,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-04,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-04,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-04,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-04,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-04,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-04,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-04,0,0,0.0
 ,france,46.2276,2.2137,2020-03-04,285,4,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-05,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-05,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-05,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-05,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-05,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-05,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-05,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-05,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-05,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-05,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-05,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-05,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-05,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-05,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-05,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-05,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-05,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-05,0,0,0.0
 ,france,46.2276,2.2137,2020-03-05,377,6,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-06,0,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-06,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-06,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-06,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-06,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-06,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-06,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-06,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-06,0,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-06,0,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-06,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-06,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-06,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-06,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-06,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-06,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-06,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-06,0,0,0.0
 ,france,46.2276,2.2137,2020-03-06,653,9,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-07,5,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-07,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-07,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-07,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-07,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-07,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-07,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-07,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-07,2,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-07,5,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-07,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-07,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-07,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-07,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-07,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-07,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-07,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-07,2,0,0.0
 ,france,46.2276,2.2137,2020-03-07,949,11,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-08,5,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-08,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-08,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-08,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-08,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-08,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-08,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-08,0,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-08,2,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-08,5,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-08,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-08,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-08,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-08,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-08,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-08,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-08,0,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-08,2,0,0.0
 ,france,46.2276,2.2137,2020-03-08,1126,19,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-09,5,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-09,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-09,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-09,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-09,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-09,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-09,1,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-09,2,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-09,2,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-09,5,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-09,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-09,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-09,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-09,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-09,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-09,1,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-09,2,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-09,2,0,0.0
 ,france,46.2276,2.2137,2020-03-09,1209,19,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-10,5,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-10,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-10,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-10,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-10,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-10,0,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-10,1,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-10,2,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-10,2,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-10,5,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-10,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-10,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-10,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-10,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-10,0,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-10,1,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-10,2,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-10,2,0,0.0
 ,france,46.2276,2.2137,2020-03-10,1784,33,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-11,5,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-11,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-11,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-11,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-11,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-11,1,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-11,1,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-11,2,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-11,3,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-11,5,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-11,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-11,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-11,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-11,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-11,1,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-11,1,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-11,2,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-11,3,0,0.0
 ,france,46.2276,2.2137,2020-03-11,2281,48,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-12,5,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-12,0,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-12,0,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-12,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-12,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-12,1,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-12,1,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-12,2,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-12,3,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-12,5,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-12,0,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-12,0,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-12,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-12,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-12,1,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-12,1,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-12,2,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-12,3,0,0.0
 ,france,46.2276,2.2137,2020-03-12,2281,48,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-13,5,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-13,3,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-13,1,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-13,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-13,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-13,5,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-13,1,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-13,2,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-13,3,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-13,5,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-13,3,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-13,1,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-13,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-13,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-13,5,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-13,1,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-13,2,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-13,3,0,0.0
 ,france,46.2276,2.2137,2020-03-13,3661,79,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-14,5,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-14,3,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-14,1,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-14,0,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-14,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-14,6,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-14,1,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-14,2,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-14,9,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-14,5,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-14,3,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-14,1,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-14,0,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-14,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-14,6,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-14,1,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-14,2,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-14,9,0,0.0
 ,france,46.2276,2.2137,2020-03-14,4469,91,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-15,7,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-15,3,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-15,3,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-15,1,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-15,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-15,7,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-15,1,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-15,2,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-15,9,0,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-15,7,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-15,3,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-15,3,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-15,1,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-15,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-15,7,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-15,1,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-15,2,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-15,9,0,0.0
 ,france,46.2276,2.2137,2020-03-15,4499,91,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-16,11,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-16,3,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-16,6,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-16,1,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-16,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-16,9,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-16,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-16,2,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-16,15,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-16,11,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-16,3,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-16,6,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-16,1,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-16,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-16,9,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-16,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-16,2,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-16,15,1,0.0
 ,france,46.2276,2.2137,2020-03-16,6633,148,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-17,11,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-17,3,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-17,18,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-17,1,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-17,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-17,9,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-17,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-17,2,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-17,16,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-17,11,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-17,3,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-17,18,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-17,1,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-17,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-17,9,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-17,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-17,2,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-17,16,1,0.0
 ,france,46.2276,2.2137,2020-03-17,7652,148,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-18,11,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-18,3,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-18,27,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-18,3,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-18,0,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-18,12,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-18,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-18,3,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-18,19,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-18,11,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-18,3,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-18,27,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-18,3,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-18,0,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-18,12,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-18,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-18,3,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-18,19,1,0.0
 ,france,46.2276,2.2137,2020-03-18,9043,148,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-19,11,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-19,6,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-19,33,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-19,3,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-19,2,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-19,14,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-19,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-19,4,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-19,23,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-19,11,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-19,6,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-19,33,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-19,3,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-19,2,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-19,14,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-19,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-19,4,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-19,23,1,0.0
 ,france,46.2276,2.2137,2020-03-19,10871,243,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-20,15,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-20,11,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-20,45,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-20,6,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-20,2,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-20,28,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-20,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-20,4,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-20,32,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-20,15,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-20,11,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-20,45,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-20,6,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-20,2,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-20,28,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-20,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-20,4,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-20,32,1,0.0
 ,france,46.2276,2.2137,2020-03-20,12612,450,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-21,18,0,0.0
-French Polynesia,france,-17.6797,149.4068,2020-03-21,15,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-21,53,0,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-21,7,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-21,4,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-21,45,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-21,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-21,4,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-21,32,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-21,18,0,0.0
+french-polynesia,france,-17.6797,149.4068,2020-03-21,15,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-21,53,0,0.0
+mayotte,france,-12.8275,45.1662,2020-03-21,7,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-21,4,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-21,45,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-21,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-21,4,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-21,32,1,0.0
 ,france,46.2276,2.2137,2020-03-21,14282,562,12.0
-French Guiana,france,3.9339,-53.1258,2020-03-22,18,0,6.0
-French Polynesia,france,-17.6797,149.4068,2020-03-22,18,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-22,58,1,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-22,11,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-22,4,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-22,64,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-22,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-22,5,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-22,44,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-22,18,0,6.0
+french-polynesia,france,-17.6797,149.4068,2020-03-22,18,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-22,58,1,0.0
+mayotte,france,-12.8275,45.1662,2020-03-22,11,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-22,4,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-22,64,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-22,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-22,5,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-22,44,1,0.0
 ,france,46.2276,2.2137,2020-03-22,16018,674,2200.0
-French Guiana,france,3.9339,-53.1258,2020-03-23,20,0,6.0
-French Polynesia,france,-17.6797,149.4068,2020-03-23,18,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-23,62,1,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-23,24,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-23,8,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-23,71,0,0.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-23,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-23,8,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-23,53,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-23,20,0,6.0
+french-polynesia,france,-17.6797,149.4068,2020-03-23,18,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-23,62,1,0.0
+mayotte,france,-12.8275,45.1662,2020-03-23,24,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-23,8,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-23,71,0,0.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-23,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-23,8,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-23,53,1,0.0
 ,france,46.2276,2.2137,2020-03-23,19856,860,2200.0
-French Guiana,france,3.9339,-53.1258,2020-03-24,23,0,6.0
-French Polynesia,france,-17.6797,149.4068,2020-03-24,25,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-24,62,1,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-24,36,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-24,10,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-24,94,0,1.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-24,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-24,8,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-24,57,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-24,23,0,6.0
+french-polynesia,france,-17.6797,149.4068,2020-03-24,25,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-24,62,1,0.0
+mayotte,france,-12.8275,45.1662,2020-03-24,36,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-24,10,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-24,94,0,1.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-24,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-24,8,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-24,57,1,0.0
 ,france,46.2276,2.2137,2020-03-24,22304,1100,3243.0
-French Guiana,france,3.9339,-53.1258,2020-03-25,28,0,6.0
-French Polynesia,france,-17.6797,149.4068,2020-03-25,25,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-25,73,1,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-25,36,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-25,14,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-25,111,0,1.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-25,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-25,11,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-25,66,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-25,28,0,6.0
+french-polynesia,france,-17.6797,149.4068,2020-03-25,25,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-25,73,1,0.0
+mayotte,france,-12.8275,45.1662,2020-03-25,36,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-25,14,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-25,111,0,1.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-25,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-25,11,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-25,66,1,0.0
 ,france,46.2276,2.2137,2020-03-25,25233,1331,3900.0
-French Guiana,france,3.9339,-53.1258,2020-03-26,28,0,6.0
-French Polynesia,france,-17.6797,149.4068,2020-03-26,30,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-26,73,1,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-26,36,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-26,14,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-26,135,0,1.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-26,3,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-26,11,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-26,66,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-26,28,0,6.0
+french-polynesia,france,-17.6797,149.4068,2020-03-26,30,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-26,73,1,0.0
+mayotte,france,-12.8275,45.1662,2020-03-26,36,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-26,14,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-26,135,0,1.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-26,3,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-26,11,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-26,66,1,0.0
 ,france,46.2276,2.2137,2020-03-26,29155,1696,4948.0
-French Guiana,france,3.9339,-53.1258,2020-03-27,28,0,6.0
-French Polynesia,france,-17.6797,149.4068,2020-03-27,30,0,0.0
-Guadeloupe,france,16.25,-61.5833,2020-03-27,73,1,0.0
-Mayotte,france,-12.8275,45.1662,2020-03-27,50,0,0.0
-New Caledonia,france,-20.9043,165.618,2020-03-27,15,0,0.0
-Reunion,france,-21.1351,55.2471,2020-03-27,145,0,1.0
-Saint Barthelemy,france,17.9,-62.8333,2020-03-27,5,0,0.0
-St Martin,france,18.0708,-63.0501,2020-03-27,11,0,0.0
-Martinique,france,14.6415,-61.0242,2020-03-27,81,1,0.0
+french-guiana,france,3.9339,-53.1258,2020-03-27,28,0,6.0
+french-polynesia,france,-17.6797,149.4068,2020-03-27,30,0,0.0
+guadeloupe,france,16.25,-61.5833,2020-03-27,73,1,0.0
+mayotte,france,-12.8275,45.1662,2020-03-27,50,0,0.0
+new-caledonia,france,-20.9043,165.618,2020-03-27,15,0,0.0
+reunion,france,-21.1351,55.2471,2020-03-27,145,0,1.0
+saint-barthelemy,france,17.9,-62.8333,2020-03-27,5,0,0.0
+st-martin,france,18.0708,-63.0501,2020-03-27,11,0,0.0
+martinique,france,14.6415,-61.0242,2020-03-27,81,1,0.0
 ,france,46.2276,2.2137,2020-03-27,32964,1995,5700.0
