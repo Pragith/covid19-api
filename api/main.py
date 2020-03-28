@@ -1,6 +1,6 @@
 #%%
 import pandas as pd
-import json
+import json, re
 
 #%%
 ## Functions
@@ -10,6 +10,26 @@ def clean_country(country):
     country = re.sub('\-+', '-', country)
     country = country[:-1] if country[-1] == '-' else country
     return country
+
+def export(data, api):
+    print(f'> Exporting: {api}')
+    # Export to CSV
+    try:
+        # print('Exporting to CSV...')
+        data.to_csv(f'api/csv/{api}.csv', index=False)
+        # print('Exported to CSV!')
+    except Exception as e:
+        print('[Error] - ', e)
+
+    # Export to JSON
+    try:
+        # print('Exporting to JSON...')
+        data = data.to_json(orient='records')
+        f = open(f'api/json/{api}.json', 'w', encoding='utf-8')
+        f.write(json.dumps(json.loads(data)))
+        f.close()
+    except Exception as e:
+        print('[Error] - ', e)
 
 ### CASES
 # Build a single dataframe from 3 types of datasets
@@ -34,7 +54,7 @@ for t in ['confirmed', 'deaths', 'recovered']:
     df['date'] = df['date'].dt.strftime('%Y-%m-%d')
     df['country'] = df['country'].apply(clean_country)
 
-    df.to_csv(f'api/cases/{t}.csv', index=False)
+    export(data=df, api=f'cases/{t}')
 
     dfs[t] = df
 
@@ -48,15 +68,15 @@ df = pd.merge(df, dfs['recovered'], how='left', on=joinCols).fillna(0)
 today = df['date'].iloc[-1]
 
 # Everything
-df.to_csv(f'api/cases/all.csv', index=False)
+export(data=df, api='cases/all')
 
 # Global Level
 df_global = df.groupby(['date']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
-df_global.to_csv(f'api/cases/global.csv', index=False)
+export(data=df_global, api='cases/global')
 
 # Country Level
 df_country = df.groupby(['date','country']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
-df_country.to_csv(f'api/cases/country.csv', index=False)
+export(data=df_country, api='cases/country')
 
 # %%
 ### COUNTRIES
