@@ -83,7 +83,11 @@ for country in df['country'].unique().tolist():
 
     # Export country data
     df_tmp_country = df[df['country'] == country]
-    export(data=df_tmp_country, api=f'country/{country}')
+    
+    df_tmp_country_main = df[df['country'] == country].groupby(['country', 'date']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
+    df_tmp_country_main['lat'] = df_tmp_country['lat'].iloc[0]
+    df_tmp_country_main['long'] = df_tmp_country['long'].iloc[0]
+    export(data=df_tmp_country_main, api=f'country/{country}')
 
     # Export state data
     if not os.path.isdir(f'api/country/{country}'):
