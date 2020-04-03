@@ -53,17 +53,17 @@ for t in ['confirmed', 'deaths', 'recovered']:
     df['country'] = df['country'].apply(sanitize_data)
     df['state'] = df['state'].apply(sanitize_data)
 
-    df_grouped = df.groupby(['country'])
+    df_grouped = df.groupby(['country', 'state'])
     new_dfs = []
-    for k,grouped_df in df_grouped:          
-        grouped_df[f'{t}_new'] = grouped_df[t] - grouped_df[t].shift(1, fill_value=0)        
+    for k,grouped_df in df_grouped:
+        grouped_df = grouped_df.reset_index()      
+        grouped_df.loc[:,f'{t}_new'] = grouped_df[t] - grouped_df[t].shift(1, fill_value=0)        
         new_dfs.append(grouped_df)
     df = pd.concat(new_dfs)
 
     export(data=df, api=f'cases/{t}')
 
     dfs[t] = df
-
 
 joinCols = ['state', 'country', 'lat', 'long', 'date']
 groupByCols = {'confirmed':'sum', 'deaths':'sum', 'recovered':'sum', 'confirmed_new':'sum', 'deaths_new':'sum', 'recovered_new':'sum'}
@@ -85,16 +85,19 @@ export(data=df_global, api='cases/global')
 df_country = df.groupby(['date','country']).agg(groupByCols).reset_index()
 export(data=df_country, api='cases/country')
 
+#%%
 
+df[df['country'] == 'canada'].groupby(['country', 'date']).agg(groupByCols).reset_index()
+#%%
 ### COUNTRIES
 for country in unique_vals(df['country']):
 
     # Export country data
-    df_tmp_country = df[df['country'] == country]
-    
-    df_tmp_country_main = df[df['country'] == country].groupby(['country', 'date']).agg(groupByCols).reset_index()
+    df_tmp_country = df[df['country'] == country]    
+    df_tmp_country_main = df[df['country'] == country].groupby(['date', 'country', 'state']).agg(groupByCols).reset_index()
     df_tmp_country_main['lat'] = df_tmp_country['lat'].iloc[0]
     df_tmp_country_main['long'] = df_tmp_country['long'].iloc[0]
+
     export(data=df_tmp_country_main, api=f'country/{country}')
 
     # Export state data
@@ -107,7 +110,7 @@ for country in unique_vals(df['country']):
         df_tmp_state = df_tmp_country[df_tmp_country['state'] == state]
         export(data=df_tmp_state, api=f'country/{country}/{state}')
 
-
+#%%
 ### DATE
 for Date in unique_vals(df['date']):
     df_date = df[df['date'] == Date]
