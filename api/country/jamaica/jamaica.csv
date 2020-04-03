@@ -1,1 +1,1 @@
-index_x,state,country,lat,long,date,confirmed,confirmed_new,index_y,deaths,deaths_new,index,recovered,recovered_new
+date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,recovered_new
