@@ -53,7 +53,7 @@ for t in ['confirmed', 'deaths', 'recovered']:
     df['country'] = df['country'].apply(sanitize_data)
     df['state'] = df['state'].apply(sanitize_data)
 
-    df_grouped = df.groupby(['country', 'state'])
+    df_grouped = df.groupby(['country', 'state', 'lat', 'long'])
     new_dfs = []
     for k,grouped_df in df_grouped:
         grouped_df = grouped_df.reset_index()      
@@ -94,9 +94,9 @@ for country in unique_vals(df['country']):
 
     # Export country data
     df_tmp_country = df[df['country'] == country]    
-    df_tmp_country_main = df[df['country'] == country].groupby(['date', 'country', 'state']).agg(groupByCols).reset_index()
-    df_tmp_country_main['lat'] = df_tmp_country['lat'].iloc[0]
-    df_tmp_country_main['long'] = df_tmp_country['long'].iloc[0]
+    df_tmp_country_main = df[df['country'] == country].groupby(['date', 'country', 'state', 'lat', 'long']).agg(groupByCols).reset_index()
+    #df_tmp_country_main['lat'] = df_tmp_country['lat'].iloc[0]
+    #df_tmp_country_main['long'] = df_tmp_country['long'].iloc[0]
 
     export(data=df_tmp_country_main, api=f'country/{country}')
 
