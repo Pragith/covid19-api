@@ -70,6 +70,9 @@ groupByCols = {'confirmed':'sum', 'deaths':'sum', 'recovered':'sum', 'confirmed_
 
 df = pd.merge(dfs['confirmed'], dfs['deaths'], how='left', on=joinCols)
 df = pd.merge(df, dfs['recovered'], how='left', on=joinCols).fillna(0)
+df = df.loc[:,['date', 'country', 'state', 'lat', 'long', 'confirmed', 'confirmed_new', 'deaths', 'deaths_new', 'recovered', 'recovered_new']]
+
+#%%
 
 # Get latest date
 today = df['date'].iloc[-1]
@@ -95,8 +98,14 @@ for country in unique_vals(df['country']):
     # Export country data
     df_tmp_country = df[df['country'] == country]    
     df_tmp_country_main = df[df['country'] == country].groupby(['date', 'country', 'state', 'lat', 'long']).agg(groupByCols).reset_index()
-    #df_tmp_country_main['lat'] = df_tmp_country['lat'].iloc[0]
-    #df_tmp_country_main['long'] = df_tmp_country['long'].iloc[0]
+    # df_grouped = df[df['country'] == country].groupby(['date', 'country', 'state', 'lat', 'long'])
+    # new_dfs = []
+    # for t in ['confirmed', 'deaths', 'recovered']:
+    #     for k,grouped_df in df_grouped:        
+    #         grouped_df = grouped_df.reset_index()    
+    #         grouped_df.loc[:,f'{t}_new'] = grouped_df[t] - grouped_df[t].shift(1, fill_value=0)        
+    #         new_dfs.append(grouped_df)
+    # df_tmp_country_main = pd.concat(new_dfs)
 
     export(data=df_tmp_country_main, api=f'country/{country}')
 
