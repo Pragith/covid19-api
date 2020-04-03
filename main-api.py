@@ -53,6 +53,13 @@ for t in ['confirmed', 'deaths', 'recovered']:
     df['country'] = df['country'].apply(sanitize_data)
     df['state'] = df['state'].apply(sanitize_data)
 
+    df_grouped = df.groupby(['country'])
+    new_dfs = []
+    for k,grouped_df in df_grouped:          
+        grouped_df[f'{t}_new'] = grouped_df[t] - grouped_df[t].shift(1, fill_value=0)        
+        new_dfs.append(grouped_df)
+    df = pd.concat(new_dfs)
+
     export(data=df, api=f'cases/{t}')
 
     dfs[t] = df
@@ -84,7 +91,7 @@ for country in unique_vals(df['country']):
     # Export country data
     df_tmp_country = df[df['country'] == country]
     
-    df_tmp_country_main = df[df['country'] == country].groupby(['country', 'date']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
+    df_tmp_country_main = df[df['country'] == country].groupby(['country', 'date']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum', 'confirmed_new':'sum', 'deaths_new':'sum', 'recovered_new':'sum'}).reset_index()
     df_tmp_country_main['lat'] = df_tmp_country['lat'].iloc[0]
     df_tmp_country_main['long'] = df_tmp_country['long'].iloc[0]
     export(data=df_tmp_country_main, api=f'country/{country}')
@@ -115,14 +122,14 @@ for dim in ['country', 'state', 'date']:
 
 export(data=countries_states, api=f'dimensions/countries_states')
 #%%
-## STATS - WIP
-stats = {}
+# ## STATS - WIP
+# stats = {}
 
-# Now
-stats['now'] = {}
-stats['now']['global'] = df_global[df_global['date'] == today]
-stats['now']['countries'] = df_country[df_country['date'] == today]
+# # Now
+# stats['now'] = {}
+# stats['now']['global'] = df_global[df_global['date'] == today]
+# stats['now']['countries'] = df_country[df_country['date'] == today]
 
-# N days ago
-for Date in df['date'].unique().tolist():
-    df_date = df[df['date'] == Date]
+# # N days ago
+# for Date in df['date'].unique().tolist():
+#     df_date = df[df['date'] == Date]
