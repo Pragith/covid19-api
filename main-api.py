@@ -127,6 +127,7 @@ for dim in ['country', 'state', 'date']:
 export(data=countries_states, api=f'dimensions/countries_states')
 #%%
 # ## STATS - WIP
+# TODO - Create datasets for everything based on charts required
 # stats = {}
 
 # # Now
