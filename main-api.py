@@ -66,6 +66,7 @@ for t in ['confirmed', 'deaths', 'recovered']:
 
 
 joinCols = ['state', 'country', 'lat', 'long', 'date']
+groupByCols = {'confirmed':'sum', 'deaths':'sum', 'recovered':'sum', 'confirmed_new':'sum', 'deaths_new':'sum', 'recovered_new':'sum'}
 
 df = pd.merge(dfs['confirmed'], dfs['deaths'], how='left', on=joinCols)
 df = pd.merge(df, dfs['recovered'], how='left', on=joinCols).fillna(0)
@@ -77,11 +78,11 @@ today = df['date'].iloc[-1]
 export(data=df, api='cases/all')
 
 # Global Level
-df_global = df.groupby(['date']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
+df_global = df.groupby(['date']).agg(groupByCols).reset_index()
 export(data=df_global, api='cases/global')
 
 # Country Level
-df_country = df.groupby(['date','country']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum'}).reset_index()
+df_country = df.groupby(['date','country']).agg(groupByCols).reset_index()
 export(data=df_country, api='cases/country')
 
 
@@ -91,7 +92,7 @@ for country in unique_vals(df['country']):
     # Export country data
     df_tmp_country = df[df['country'] == country]
     
-    df_tmp_country_main = df[df['country'] == country].groupby(['country', 'date']).agg({'confirmed':'sum', 'deaths':'sum', 'recovered':'sum', 'confirmed_new':'sum', 'deaths_new':'sum', 'recovered_new':'sum'}).reset_index()
+    df_tmp_country_main = df[df['country'] == country].groupby(['country', 'date']).agg(groupByCols).reset_index()
     df_tmp_country_main['lat'] = df_tmp_country['lat'].iloc[0]
     df_tmp_country_main['long'] = df_tmp_country['long'].iloc[0]
     export(data=df_tmp_country_main, api=f'country/{country}')
