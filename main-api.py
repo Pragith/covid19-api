@@ -52,6 +52,7 @@ for t in ['confirmed', 'deaths', 'recovered']:
     df['date'] = df['date'].dt.strftime('%Y-%m-%d')
     df['country'] = df['country'].apply(sanitize_data)
     df['state'] = df['state'].apply(sanitize_data)
+    df[t] = df[t].astype('int64')
 
     df_grouped = df.groupby(['country', 'state', 'lat', 'long'])
     new_dfs = []
