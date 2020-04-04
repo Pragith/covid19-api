@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-31,china,beijing,40.1824,116.4142,580,3,8,0,418.0,3.0
 2020-04-01,china,beijing,40.1824,116.4142,580,0,8,0,418.0,0.0
 2020-04-02,china,beijing,40.1824,116.4142,582,2,8,0,424.0,6.0
+2020-04-03,china,beijing,40.1824,116.4142,584,2,8,0,434.0,10.0

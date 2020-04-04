@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-31,australia,western-australia,-31.9505,115.8605,364,9,2,0,41.0,0.0
 2020-04-01,australia,western-australia,-31.9505,115.8605,392,28,2,0,48.0,7.0
 2020-04-02,australia,western-australia,-31.9505,115.8605,400,8,2,0,64.0,16.0
+2020-04-03,australia,western-australia,-31.9505,115.8605,400,0,2,0,92.0,28.0

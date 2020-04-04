@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-31,armenia,,40.0691,45.0382,532,3,30.0,50,0,0.0
 2020-04-01,armenia,,40.0691,45.0382,571,4,31.0,39,1,1.0
 2020-04-02,armenia,,40.0691,45.0382,663,7,33.0,92,3,2.0
+2020-04-03,armenia,,40.0691,45.0382,736,7,43.0,73,0,10.0

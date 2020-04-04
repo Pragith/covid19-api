@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-31,burma,,21.9162,95.956,15,1,0.0,1,1,0.0
 2020-04-01,burma,,21.9162,95.956,15,1,0.0,0,0,0.0
 2020-04-02,burma,,21.9162,95.956,20,1,0.0,5,0,0.0
+2020-04-03,burma,,21.9162,95.956,20,1,0.0,0,0,0.0

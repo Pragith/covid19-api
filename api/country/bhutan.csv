@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-31,bhutan,,27.5142,90.4336,4,0,0.0,0,0,0.0
 2020-04-01,bhutan,,27.5142,90.4336,4,0,0.0,0,0,0.0
 2020-04-02,bhutan,,27.5142,90.4336,5,0,1.0,1,0,1.0
+2020-04-03,bhutan,,27.5142,90.4336,5,0,2.0,0,0,1.0

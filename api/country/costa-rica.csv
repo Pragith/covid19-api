@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-31,costa-rica,,9.7489,-83.7534,347,2,4.0,17,0,0.0
 2020-04-01,costa-rica,,9.7489,-83.7534,375,2,4.0,28,0,0.0
 2020-04-02,costa-rica,,9.7489,-83.7534,396,2,6.0,21,0,2.0
+2020-04-03,costa-rica,,9.7489,-83.7534,416,2,11.0,20,0,5.0

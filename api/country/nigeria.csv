@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-31,nigeria,,9.082,8.6753,135,2,8.0,4,0,0.0
 2020-04-01,nigeria,,9.082,8.6753,174,2,9.0,39,0,1.0
 2020-04-02,nigeria,,9.082,8.6753,184,2,20.0,10,0,11.0
+2020-04-03,nigeria,,9.082,8.6753,210,4,25.0,26,2,5.0

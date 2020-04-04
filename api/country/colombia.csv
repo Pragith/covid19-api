@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-31,colombia,,4.5709,-74.2973,906,16,31.0,108,4,16.0
 2020-04-01,colombia,,4.5709,-74.2973,1065,17,39.0,159,1,8.0
 2020-04-02,colombia,,4.5709,-74.2973,1161,19,55.0,96,2,16.0
+2020-04-03,colombia,,4.5709,-74.2973,1267,25,55.0,106,6,0.0

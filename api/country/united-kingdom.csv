@@ -719,3 +719,13 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-02,united-kingdom,isle-of-man,54.2361,-4.5481,95,1,0.0,27,0,0.0
 2020-04-02,united-kingdom,montserrat,16.7425,-62.1874,5,0,0.0,0,0,0.0
 2020-04-02,united-kingdom,turks-and-caicos-islands,21.69400000000001,-71.7979,5,0,0.0,-1,0,0.0
+2020-04-03,united-kingdom,,55.3781,-3.4360000000000004,38168,3605,135.0,4450,684,0.0
+2020-04-03,united-kingdom,anguilla,18.2206,-63.0686,3,0,0.0,0,0,0.0
+2020-04-03,united-kingdom,bermuda,32.3078,-64.7505,35,0,14.0,0,0,3.0
+2020-04-03,united-kingdom,british-virgin-islands,18.4207,-64.64,3,0,0.0,0,0,0.0
+2020-04-03,united-kingdom,cayman-islands,19.3133,-81.2546,28,1,0.0,0,0,0.0
+2020-04-03,united-kingdom,channel-islands,49.3723,-2.3644,232,4,13.0,39,1,13.0
+2020-04-03,united-kingdom,gibraltar,36.1408,-5.3536,95,0,46.0,7,0,0.0
+2020-04-03,united-kingdom,isle-of-man,54.2361,-4.5481,114,1,0.0,19,0,0.0
+2020-04-03,united-kingdom,montserrat,16.7425,-62.1874,6,0,0.0,1,0,0.0
+2020-04-03,united-kingdom,turks-and-caicos-islands,21.69400000000001,-71.7979,5,0,0.0,0,0,0.0

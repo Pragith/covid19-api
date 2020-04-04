@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-31,finland,,64.0,26.0,1418,17,10.0,66,4,0.0
 2020-04-01,finland,,64.0,26.0,1446,17,10.0,28,0,0.0
 2020-04-02,finland,,64.0,26.0,1518,19,300.0,72,2,290.0
+2020-04-03,finland,,64.0,26.0,1615,20,300.0,97,1,0.0

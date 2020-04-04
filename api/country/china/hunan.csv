@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-31,china,hunan,27.6104,111.7088,1018,0,4,0,1014.0,0.0
 2020-04-01,china,hunan,27.6104,111.7088,1018,0,4,0,1014.0,0.0
 2020-04-02,china,hunan,27.6104,111.7088,1019,1,4,0,1014.0,0.0
+2020-04-03,china,hunan,27.6104,111.7088,1019,0,4,0,1014.0,0.0

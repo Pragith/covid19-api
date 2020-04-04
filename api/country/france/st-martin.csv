@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-31,france,st-martin,18.0708,-63.0501,15,0,1,0,2.0,0.0
 2020-04-01,france,st-martin,18.0708,-63.0501,15,0,1,0,2.0,0.0
 2020-04-02,france,st-martin,18.0708,-63.0501,22,7,1,0,2.0,0.0
+2020-04-03,france,st-martin,18.0708,-63.0501,22,0,1,0,2.0,0.0

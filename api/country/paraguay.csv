@@ -71,3 +71,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-31,paraguay,,-23.4425,-58.4438,65,3,1.0,1,0,0.0
 2020-04-01,paraguay,,-23.4425,-58.4438,69,3,1.0,4,0,0.0
 2020-04-02,paraguay,,-23.4425,-58.4438,77,3,2.0,8,0,1.0
+2020-04-03,paraguay,,-23.4425,-58.4438,92,3,6.0,15,0,4.0
