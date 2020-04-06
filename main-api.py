@@ -35,10 +35,7 @@ dfs = {}
 for t in ['confirmed', 'deaths', 'recovered']:
 
     # Get one type of dataset
-    df = pd.read_csv(f'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_{t}_global.csv')
-
-    # Remove US data. Will be created later.
-    df = df[df['Country/Region'] != 'US']
+    df = pd.read_csv(f'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_{t}_global.csv')    
 
     # Reshape! This is why I'm not using CSSEGISandData's data directly. 
     df = df.melt(id_vars=['Province/State', 'Country/Region', 'Lat', 'Long']).fillna('')
@@ -56,7 +53,7 @@ for t in ['confirmed', 'deaths', 'recovered']:
     df['date'] = df['date'].dt.strftime('%Y-%m-%d')
     df['country'] = df['country'].apply(sanitize_data)
     df['state'] = df['state'].apply(sanitize_data)
-    df[t] = df[t].astype('int64')
+    df[t] = df[t].apply(lambda v: int(v))
 
     df_grouped = df.groupby(['country', 'state', 'lat', 'long'])
     new_dfs = []
@@ -65,6 +62,8 @@ for t in ['confirmed', 'deaths', 'recovered']:
         grouped_df.loc[:,f'{t}_new'] = grouped_df[t] - grouped_df[t].shift(1, fill_value=0)        
         new_dfs.append(grouped_df)
     df = pd.concat(new_dfs)
+    if 'index' in df.columns:
+        del df['index']
 
     export(data=df, api=f'cases/{t}')
 
@@ -91,26 +90,27 @@ export(data=df_global, api='cases/global')
 df_country = df.groupby(['date','country']).agg(groupByCols).reset_index()
 export(data=df_country, api='cases/country')
 
-df[df['country'] == 'canada'].groupby(['country', 'date']).agg(groupByCols).reset_index()
-
 ### COUNTRIES
 for country in unique_vals(df['country']):
+    
+    # Remove US data. Will be created later.
+    if country != 'us':
 
-    # Export country data
-    df_tmp_country = df[df['country'] == country]    
-    df_tmp_country_main = df[df['country'] == country].groupby(['date', 'country', 'state', 'lat', 'long']).agg(groupByCols).reset_index()
+        # Export country data
+        df_tmp_country = df[df['country'] == country]    
+        df_tmp_country_main = df[df['country'] == country].groupby(['date', 'country', 'state', 'lat', 'long']).agg(groupByCols).reset_index()
 
-    export(data=df_tmp_country_main, api=f'country/{country}')
+        export(data=df_tmp_country_main, api=f'country/{country}')
 
-    # Export state data
-    if os.path.isdir(f'api/country/{country}'):
-        rmtree(f'api/country/{country}')
-    os.mkdir(f'api/country/{country}')
+        # Export state data
+        if os.path.isdir(f'api/country/{country}'):
+            rmtree(f'api/country/{country}')
+        os.mkdir(f'api/country/{country}')
 
-    for state in unique_vals(df_tmp_country['state']):
-        state = state if state else country
-        df_tmp_state = df_tmp_country[df_tmp_country['state'] == state]
-        export(data=df_tmp_state, api=f'country/{country}/{state}')
+        for state in unique_vals(df_tmp_country['state']):
+            state = state if state else country
+            df_tmp_state = df_tmp_country[df_tmp_country['state'] == state]
+            export(data=df_tmp_state, api=f'country/{country}/{state}')
 
 ### DATE
 for Date in unique_vals(df['date']):
