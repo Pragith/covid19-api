@@ -72,3 +72,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-01,china,jiangsu,32.9711,119.455,646,0,0,0,631.0,0.0
 2020-04-02,china,jiangsu,32.9711,119.455,647,1,0,0,631.0,0.0
 2020-04-03,china,jiangsu,32.9711,119.455,651,4,0,0,632.0,1.0
+2020-04-04,china,jiangsu,32.9711,119.455,651,0,0,0,632.0,0.0
+2020-04-05,china,jiangsu,32.9711,119.455,651,0,0,0,633.0,1.0

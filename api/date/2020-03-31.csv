@@ -124,6 +124,7 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-31,france,new-caledonia,-20.9043,165.618,16,1,0,0,0.0,0.0
 2020-03-31,france,reunion,-21.1351,55.2471,247,23,0,0,1.0,0.0
 2020-03-31,france,saint-barthelemy,17.9,-62.8333,6,0,0,0,1.0,0.0
+2020-03-31,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0,0,0.0,0.0
 2020-03-31,france,st-martin,18.0708,-63.0501,15,0,1,0,2.0,0.0
 2020-03-31,gabon,,-0.8037,11.6094,16,9,1,0,0.0,0.0
 2020-03-31,gambia,,13.4432,-15.3101,4,0,1,0,0.0,0.0
@@ -221,6 +222,7 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-31,slovenia,,46.1512,14.9955,802,46,15,4,10.0,0.0
 2020-03-31,somalia,,5.1521,46.1996,5,2,0,0,1.0,1.0
 2020-03-31,south-africa,,-30.5595,22.9375,1353,27,5,2,31.0,0.0
+2020-03-31,south-sudan,,6.8770000000000024,31.307,0,0,0,0,0.0,0.0
 2020-03-31,spain,,40.0,-4.0,95923,7967,8464,748,19259.0,2479.0
 2020-03-31,sri-lanka,,7.0,81.0,143,21,2,0,17.0,2.0
 2020-03-31,sudan,,12.8628,30.2176,7,1,2,0,1.0,1.0
@@ -245,6 +247,7 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-31,united-kingdom,british-virgin-islands,18.4207,-64.64,3,1,0,0,0.0,0.0
 2020-03-31,united-kingdom,cayman-islands,19.3133,-81.2546,14,2,1,0,0.0,0.0
 2020-03-31,united-kingdom,channel-islands,49.3723,-2.3644,141,0,3,1,0.0,0.0
+2020-03-31,united-kingdom,falkland-islands-islas-malvinas,-51.7963,-59.5236,0,0,0,0,0.0,0.0
 2020-03-31,united-kingdom,gibraltar,36.1408,-5.3536,69,0,0,0,34.0,0.0
 2020-03-31,united-kingdom,isle-of-man,54.2361,-4.5481,60,11,0,0,0.0,0.0
 2020-03-31,united-kingdom,montserrat,16.7425,-62.1874,5,0,0,0,0.0,0.0
@@ -255,5 +258,6 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-31,venezuela,,6.4238,-66.5897,135,0,3,0,39.0,0.0
 2020-03-31,vietnam,,16.0,108.0,212,9,0,0,58.0,3.0
 2020-03-31,west-bank-and-gaza,,31.9522,35.2332,119,3,1,0,18.0,0.0
+2020-03-31,western-sahara,,24.2155,-12.8858,0,0,0,0,0.0,0.0
 2020-03-31,zambia,,-15.4167,28.2833,35,0,0,0,0.0,0.0
 2020-03-31,zimbabwe,,-20.0,30.0,8,1,1,0,0.0,0.0

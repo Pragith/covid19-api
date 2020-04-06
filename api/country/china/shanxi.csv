@@ -72,3 +72,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-01,china,shanxi,37.5777,112.2922,137,1,0,0,133.0,0.0
 2020-04-02,china,shanxi,37.5777,112.2922,137,0,0,0,133.0,0.0
 2020-04-03,china,shanxi,37.5777,112.2922,137,0,0,0,133.0,0.0
+2020-04-04,china,shanxi,37.5777,112.2922,137,0,0,0,133.0,0.0
+2020-04-05,china,shanxi,37.5777,112.2922,138,1,0,0,133.0,0.0

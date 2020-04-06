@@ -72,3 +72,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-01,canada,northwest-territories,64.8255,-124.8457,2,1,0,0,0.0,0.0
 2020-04-02,canada,northwest-territories,64.8255,-124.8457,2,0,0,0,0.0,0.0
 2020-04-03,canada,northwest-territories,64.8255,-124.8457,2,0,0,0,0.0,0.0
+2020-04-04,canada,northwest-territories,64.8255,-124.8457,4,2,0,0,0.0,0.0
+2020-04-05,canada,northwest-territories,64.8255,-124.8457,4,0,0,0,0.0,0.0

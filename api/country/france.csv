@@ -8,6 +8,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-01-22,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-01-22,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-01-22,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-01-22,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-01-22,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-01-23,france,,46.2276,2.2137,0,0,0.0,0,0,0.0
 2020-01-23,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -18,6 +19,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-01-23,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-01-23,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-01-23,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-01-23,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-01-23,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-01-24,france,,46.2276,2.2137,2,0,0.0,2,0,0.0
 2020-01-24,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -28,6 +30,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-01-24,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-01-24,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-01-24,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-01-24,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-01-24,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-01-25,france,,46.2276,2.2137,3,0,0.0,1,0,0.0
 2020-01-25,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -38,6 +41,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-01-25,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-01-25,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-01-25,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-01-25,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-01-25,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-01-26,france,,46.2276,2.2137,3,0,0.0,0,0,0.0
 2020-01-26,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -48,6 +52,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-01-26,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-01-26,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-01-26,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-01-26,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-01-26,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-01-27,france,,46.2276,2.2137,3,0,0.0,0,0,0.0
 2020-01-27,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -58,6 +63,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-01-27,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-01-27,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-01-27,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-01-27,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-01-27,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-01-28,france,,46.2276,2.2137,4,0,0.0,1,0,0.0
 2020-01-28,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -68,6 +74,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-01-28,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-01-28,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-01-28,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-01-28,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-01-28,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-01-29,france,,46.2276,2.2137,5,0,0.0,1,0,0.0
 2020-01-29,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -78,6 +85,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-01-29,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-01-29,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-01-29,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-01-29,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-01-29,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-01-30,france,,46.2276,2.2137,5,0,0.0,0,0,0.0
 2020-01-30,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -88,6 +96,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-01-30,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-01-30,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-01-30,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-01-30,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-01-30,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-01-31,france,,46.2276,2.2137,5,0,0.0,0,0,0.0
 2020-01-31,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -98,6 +107,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-01-31,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-01-31,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-01-31,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-01-31,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-01-31,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-01,france,,46.2276,2.2137,6,0,0.0,1,0,0.0
 2020-02-01,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -108,6 +118,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-01,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-01,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-01,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-01,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-01,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-02,france,,46.2276,2.2137,6,0,0.0,0,0,0.0
 2020-02-02,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -118,6 +129,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-02,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-02,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-02,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-02,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-02,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-03,france,,46.2276,2.2137,6,0,0.0,0,0,0.0
 2020-02-03,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -128,6 +140,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-03,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-03,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-03,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-03,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-03,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-04,france,,46.2276,2.2137,6,0,0.0,0,0,0.0
 2020-02-04,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -138,6 +151,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-04,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-04,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-04,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-04,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-04,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-05,france,,46.2276,2.2137,6,0,0.0,0,0,0.0
 2020-02-05,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -148,6 +162,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-05,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-05,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-05,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-05,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-05,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-06,france,,46.2276,2.2137,6,0,0.0,0,0,0.0
 2020-02-06,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -158,6 +173,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-06,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-06,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-06,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-06,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-06,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-07,france,,46.2276,2.2137,6,0,0.0,0,0,0.0
 2020-02-07,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -168,6 +184,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-07,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-07,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-07,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-07,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-07,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-08,france,,46.2276,2.2137,11,0,0.0,5,0,0.0
 2020-02-08,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -178,6 +195,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-08,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-08,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-08,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-08,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-08,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-09,france,,46.2276,2.2137,11,0,0.0,0,0,0.0
 2020-02-09,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -188,6 +206,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-09,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-09,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-09,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-09,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-09,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-10,france,,46.2276,2.2137,11,0,0.0,0,0,0.0
 2020-02-10,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -198,6 +217,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-10,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-10,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-10,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-10,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-10,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-11,france,,46.2276,2.2137,11,0,0.0,0,0,0.0
 2020-02-11,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -208,6 +228,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-11,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-11,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-11,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-11,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-11,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-12,france,,46.2276,2.2137,11,0,2.0,0,0,2.0
 2020-02-12,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -218,6 +239,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-12,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-12,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-12,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-12,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-12,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-13,france,,46.2276,2.2137,11,0,2.0,0,0,0.0
 2020-02-13,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -228,6 +250,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-13,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-13,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-13,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-13,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-13,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-14,france,,46.2276,2.2137,11,0,2.0,0,0,0.0
 2020-02-14,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -238,6 +261,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-14,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-14,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-14,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-14,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-14,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-15,france,,46.2276,2.2137,12,1,4.0,1,1,2.0
 2020-02-15,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -248,6 +272,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-15,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-15,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-15,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-15,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-15,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-16,france,,46.2276,2.2137,12,1,4.0,0,0,0.0
 2020-02-16,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -258,6 +283,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-16,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-16,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-16,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-16,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-16,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-17,france,,46.2276,2.2137,12,1,4.0,0,0,0.0
 2020-02-17,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -268,6 +294,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-17,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-17,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-17,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-17,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-17,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-18,france,,46.2276,2.2137,12,1,4.0,0,0,0.0
 2020-02-18,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -278,6 +305,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-18,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-18,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-18,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-18,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-18,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-19,france,,46.2276,2.2137,12,1,4.0,0,0,0.0
 2020-02-19,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -288,6 +316,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-19,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-19,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-19,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-19,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-19,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-20,france,,46.2276,2.2137,12,1,4.0,0,0,0.0
 2020-02-20,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -298,6 +327,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-20,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-20,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-20,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-20,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-20,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-21,france,,46.2276,2.2137,12,1,4.0,0,0,0.0
 2020-02-21,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -308,6 +338,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-21,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-21,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-21,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-21,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-21,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-22,france,,46.2276,2.2137,12,1,4.0,0,0,0.0
 2020-02-22,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -318,6 +349,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-22,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-22,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-22,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-22,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-22,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-23,france,,46.2276,2.2137,12,1,4.0,0,0,0.0
 2020-02-23,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -328,6 +360,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-23,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-23,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-23,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-23,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-23,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-24,france,,46.2276,2.2137,12,1,4.0,0,0,0.0
 2020-02-24,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -338,6 +371,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-24,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-24,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-24,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-24,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-24,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-25,france,,46.2276,2.2137,14,1,11.0,2,0,7.0
 2020-02-25,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -348,6 +382,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-25,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-25,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-25,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-25,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-25,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-26,france,,46.2276,2.2137,18,2,11.0,4,1,0.0
 2020-02-26,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -358,6 +393,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-26,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-26,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-26,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-26,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-26,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-27,france,,46.2276,2.2137,38,2,11.0,20,0,0.0
 2020-02-27,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -368,6 +404,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-27,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-27,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-27,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-27,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-27,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-28,france,,46.2276,2.2137,57,2,11.0,19,0,0.0
 2020-02-28,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -378,6 +415,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-28,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-28,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-28,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-28,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-28,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-02-29,france,,46.2276,2.2137,100,2,12.0,43,0,1.0
 2020-02-29,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -388,6 +426,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-02-29,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-02-29,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-02-29,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-02-29,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-02-29,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-03-01,france,,46.2276,2.2137,130,2,12.0,30,0,0.0
 2020-03-01,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -398,6 +437,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-01,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-01,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-03-01,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-03-01,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-01,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-03-02,france,,46.2276,2.2137,191,3,12.0,61,1,0.0
 2020-03-02,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -408,6 +448,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-02,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-02,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-03-02,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-03-02,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-02,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-03-03,france,,46.2276,2.2137,204,4,12.0,13,1,0.0
 2020-03-03,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -418,6 +459,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-03,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-03,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-03-03,france,saint-barthelemy,17.9,-62.8333,0,0,0.0,0,0,0.0
+2020-03-03,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-03,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-03-04,france,,46.2276,2.2137,285,4,12.0,81,0,0.0
 2020-03-04,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -428,6 +470,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-04,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-04,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-03-04,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,3,0,0.0
+2020-03-04,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-04,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-03-05,france,,46.2276,2.2137,377,6,12.0,92,2,0.0
 2020-03-05,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -438,6 +481,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-05,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-05,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-03-05,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-05,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-05,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-03-06,france,,46.2276,2.2137,653,9,12.0,276,3,0.0
 2020-03-06,france,french-guiana,3.9339,-53.1258,0,0,0.0,0,0,0.0
@@ -448,6 +492,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-06,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-06,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-03-06,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-06,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-06,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-03-07,france,,46.2276,2.2137,949,11,12.0,296,2,0.0
 2020-03-07,france,french-guiana,3.9339,-53.1258,5,0,0.0,5,0,0.0
@@ -458,6 +503,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-07,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-07,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-03-07,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-07,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-07,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-03-08,france,,46.2276,2.2137,1126,19,12.0,177,8,0.0
 2020-03-08,france,french-guiana,3.9339,-53.1258,5,0,0.0,0,0,0.0
@@ -468,6 +514,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-08,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-08,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-03-08,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-08,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-08,france,st-martin,18.0708,-63.0501,0,0,0.0,0,0,0.0
 2020-03-09,france,,46.2276,2.2137,1209,19,12.0,83,0,0.0
 2020-03-09,france,french-guiana,3.9339,-53.1258,5,0,0.0,0,0,0.0
@@ -478,6 +525,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-09,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-09,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-03-09,france,saint-barthelemy,17.9,-62.8333,1,0,0.0,-2,0,0.0
+2020-03-09,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-09,france,st-martin,18.0708,-63.0501,2,0,0.0,2,0,0.0
 2020-03-10,france,,46.2276,2.2137,1784,33,12.0,575,14,0.0
 2020-03-10,france,french-guiana,3.9339,-53.1258,5,0,0.0,0,0,0.0
@@ -488,6 +536,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-10,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-10,france,reunion,-21.1351,55.2471,0,0,0.0,0,0,0.0
 2020-03-10,france,saint-barthelemy,17.9,-62.8333,1,0,0.0,0,0,0.0
+2020-03-10,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-10,france,st-martin,18.0708,-63.0501,2,0,0.0,0,0,0.0
 2020-03-11,france,,46.2276,2.2137,2281,48,12.0,497,15,0.0
 2020-03-11,france,french-guiana,3.9339,-53.1258,5,0,0.0,0,0,0.0
@@ -498,6 +547,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-11,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-11,france,reunion,-21.1351,55.2471,1,0,0.0,1,0,0.0
 2020-03-11,france,saint-barthelemy,17.9,-62.8333,1,0,0.0,0,0,0.0
+2020-03-11,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-11,france,st-martin,18.0708,-63.0501,2,0,0.0,0,0,0.0
 2020-03-12,france,,46.2276,2.2137,2281,48,12.0,0,0,0.0
 2020-03-12,france,french-guiana,3.9339,-53.1258,5,0,0.0,0,0,0.0
@@ -508,6 +558,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-12,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-12,france,reunion,-21.1351,55.2471,1,0,0.0,0,0,0.0
 2020-03-12,france,saint-barthelemy,17.9,-62.8333,1,0,0.0,0,0,0.0
+2020-03-12,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-12,france,st-martin,18.0708,-63.0501,2,0,0.0,0,0,0.0
 2020-03-13,france,,46.2276,2.2137,3661,79,12.0,1380,31,0.0
 2020-03-13,france,french-guiana,3.9339,-53.1258,5,0,0.0,0,0,0.0
@@ -518,6 +569,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-13,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-13,france,reunion,-21.1351,55.2471,5,0,0.0,4,0,0.0
 2020-03-13,france,saint-barthelemy,17.9,-62.8333,1,0,0.0,0,0,0.0
+2020-03-13,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-13,france,st-martin,18.0708,-63.0501,2,0,0.0,0,0,0.0
 2020-03-14,france,,46.2276,2.2137,4469,91,12.0,808,12,0.0
 2020-03-14,france,french-guiana,3.9339,-53.1258,5,0,0.0,0,0,0.0
@@ -528,6 +580,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-14,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-14,france,reunion,-21.1351,55.2471,6,0,0.0,1,0,0.0
 2020-03-14,france,saint-barthelemy,17.9,-62.8333,1,0,0.0,0,0,0.0
+2020-03-14,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-14,france,st-martin,18.0708,-63.0501,2,0,0.0,0,0,0.0
 2020-03-15,france,,46.2276,2.2137,4499,91,12.0,30,0,0.0
 2020-03-15,france,french-guiana,3.9339,-53.1258,7,0,0.0,2,0,0.0
@@ -538,6 +591,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-15,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-15,france,reunion,-21.1351,55.2471,7,0,0.0,1,0,0.0
 2020-03-15,france,saint-barthelemy,17.9,-62.8333,1,0,0.0,0,0,0.0
+2020-03-15,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-15,france,st-martin,18.0708,-63.0501,2,0,0.0,0,0,0.0
 2020-03-16,france,,46.2276,2.2137,6633,148,12.0,2134,57,0.0
 2020-03-16,france,french-guiana,3.9339,-53.1258,11,0,0.0,4,0,0.0
@@ -548,6 +602,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-16,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-16,france,reunion,-21.1351,55.2471,9,0,0.0,2,0,0.0
 2020-03-16,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,2,0,0.0
+2020-03-16,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-16,france,st-martin,18.0708,-63.0501,2,0,0.0,0,0,0.0
 2020-03-17,france,,46.2276,2.2137,7652,148,12.0,1019,0,0.0
 2020-03-17,france,french-guiana,3.9339,-53.1258,11,0,0.0,0,0,0.0
@@ -558,6 +613,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-17,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-17,france,reunion,-21.1351,55.2471,9,0,0.0,0,0,0.0
 2020-03-17,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-17,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-17,france,st-martin,18.0708,-63.0501,2,0,0.0,0,0,0.0
 2020-03-18,france,,46.2276,2.2137,9043,148,12.0,1391,0,0.0
 2020-03-18,france,french-guiana,3.9339,-53.1258,11,0,0.0,0,0,0.0
@@ -568,6 +624,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-18,france,new-caledonia,-20.9043,165.618,0,0,0.0,0,0,0.0
 2020-03-18,france,reunion,-21.1351,55.2471,12,0,0.0,3,0,0.0
 2020-03-18,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-18,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-18,france,st-martin,18.0708,-63.0501,3,0,0.0,1,0,0.0
 2020-03-19,france,,46.2276,2.2137,10871,243,12.0,1828,95,0.0
 2020-03-19,france,french-guiana,3.9339,-53.1258,11,0,0.0,0,0,0.0
@@ -578,6 +635,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-19,france,new-caledonia,-20.9043,165.618,2,0,0.0,2,0,0.0
 2020-03-19,france,reunion,-21.1351,55.2471,14,0,0.0,2,0,0.0
 2020-03-19,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-19,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-19,france,st-martin,18.0708,-63.0501,4,0,0.0,1,0,0.0
 2020-03-20,france,,46.2276,2.2137,12612,450,12.0,1741,207,0.0
 2020-03-20,france,french-guiana,3.9339,-53.1258,15,0,0.0,4,0,0.0
@@ -588,6 +646,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-20,france,new-caledonia,-20.9043,165.618,2,0,0.0,0,0,0.0
 2020-03-20,france,reunion,-21.1351,55.2471,28,0,0.0,14,0,0.0
 2020-03-20,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-20,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-20,france,st-martin,18.0708,-63.0501,4,0,0.0,0,0,0.0
 2020-03-21,france,,46.2276,2.2137,14282,562,12.0,1670,112,0.0
 2020-03-21,france,french-guiana,3.9339,-53.1258,18,0,0.0,3,0,0.0
@@ -598,6 +657,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-21,france,new-caledonia,-20.9043,165.618,4,0,0.0,2,0,0.0
 2020-03-21,france,reunion,-21.1351,55.2471,45,0,0.0,17,0,0.0
 2020-03-21,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-21,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-21,france,st-martin,18.0708,-63.0501,4,0,0.0,0,0,0.0
 2020-03-22,france,,46.2276,2.2137,16018,674,2200.0,1736,112,2188.0
 2020-03-22,france,french-guiana,3.9339,-53.1258,18,0,6.0,0,0,6.0
@@ -608,6 +668,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-22,france,new-caledonia,-20.9043,165.618,4,0,0.0,0,0,0.0
 2020-03-22,france,reunion,-21.1351,55.2471,64,0,0.0,19,0,0.0
 2020-03-22,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-22,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-22,france,st-martin,18.0708,-63.0501,5,0,0.0,1,0,0.0
 2020-03-23,france,,46.2276,2.2137,19856,860,2200.0,3838,186,0.0
 2020-03-23,france,french-guiana,3.9339,-53.1258,20,0,6.0,2,0,0.0
@@ -618,6 +679,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-23,france,new-caledonia,-20.9043,165.618,8,0,0.0,4,0,0.0
 2020-03-23,france,reunion,-21.1351,55.2471,71,0,0.0,7,0,0.0
 2020-03-23,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-23,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-23,france,st-martin,18.0708,-63.0501,8,0,0.0,3,0,0.0
 2020-03-24,france,,46.2276,2.2137,22304,1100,3243.0,2448,240,1043.0
 2020-03-24,france,french-guiana,3.9339,-53.1258,23,0,6.0,3,0,0.0
@@ -628,6 +690,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-24,france,new-caledonia,-20.9043,165.618,10,0,0.0,2,0,0.0
 2020-03-24,france,reunion,-21.1351,55.2471,94,0,1.0,23,0,1.0
 2020-03-24,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-24,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-24,france,st-martin,18.0708,-63.0501,8,0,0.0,0,0,0.0
 2020-03-25,france,,46.2276,2.2137,25233,1331,3900.0,2929,231,657.0
 2020-03-25,france,french-guiana,3.9339,-53.1258,28,0,6.0,5,0,0.0
@@ -638,6 +701,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-25,france,new-caledonia,-20.9043,165.618,14,0,0.0,4,0,0.0
 2020-03-25,france,reunion,-21.1351,55.2471,111,0,1.0,17,0,0.0
 2020-03-25,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-25,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-25,france,st-martin,18.0708,-63.0501,11,0,0.0,3,0,0.0
 2020-03-26,france,,46.2276,2.2137,29155,1696,4948.0,3922,365,1048.0
 2020-03-26,france,french-guiana,3.9339,-53.1258,28,0,6.0,0,0,0.0
@@ -648,6 +712,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-26,france,new-caledonia,-20.9043,165.618,14,0,0.0,0,0,0.0
 2020-03-26,france,reunion,-21.1351,55.2471,135,0,1.0,24,0,0.0
 2020-03-26,france,saint-barthelemy,17.9,-62.8333,3,0,0.0,0,0,0.0
+2020-03-26,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-26,france,st-martin,18.0708,-63.0501,11,0,0.0,0,0,0.0
 2020-03-27,france,,46.2276,2.2137,32964,1995,5700.0,3809,299,752.0
 2020-03-27,france,french-guiana,3.9339,-53.1258,28,0,6.0,0,0,0.0
@@ -658,6 +723,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-27,france,new-caledonia,-20.9043,165.618,15,0,0.0,1,0,0.0
 2020-03-27,france,reunion,-21.1351,55.2471,145,0,1.0,10,0,0.0
 2020-03-27,france,saint-barthelemy,17.9,-62.8333,5,0,0.0,2,0,0.0
+2020-03-27,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-27,france,st-martin,18.0708,-63.0501,11,0,0.0,0,0,0.0
 2020-03-28,france,,46.2276,2.2137,37575,2314,5700.0,4611,319,0.0
 2020-03-28,france,french-guiana,3.9339,-53.1258,28,0,6.0,0,0,0.0
@@ -668,6 +734,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-28,france,new-caledonia,-20.9043,165.618,15,0,0.0,0,0,0.0
 2020-03-28,france,reunion,-21.1351,55.2471,183,0,1.0,38,0,0.0
 2020-03-28,france,saint-barthelemy,17.9,-62.8333,5,0,0.0,0,0,0.0
+2020-03-28,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-28,france,st-martin,18.0708,-63.0501,11,0,0.0,0,0,0.0
 2020-03-29,france,,46.2276,2.2137,40174,2606,7202.0,2599,292,1502.0
 2020-03-29,france,french-guiana,3.9339,-53.1258,28,0,6.0,0,0,0.0
@@ -678,6 +745,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-29,france,new-caledonia,-20.9043,165.618,15,0,0.0,0,0,0.0
 2020-03-29,france,reunion,-21.1351,55.2471,183,0,1.0,0,0,0.0
 2020-03-29,france,saint-barthelemy,17.9,-62.8333,5,0,0.0,0,0,0.0
+2020-03-29,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-29,france,st-martin,18.0708,-63.0501,11,0,0.0,0,0,0.0
 2020-03-30,france,,46.2276,2.2137,44550,3024,7927.0,4376,418,725.0
 2020-03-30,france,french-guiana,3.9339,-53.1258,43,0,6.0,15,0,0.0
@@ -688,6 +756,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-30,france,new-caledonia,-20.9043,165.618,15,0,0.0,0,0,0.0
 2020-03-30,france,reunion,-21.1351,55.2471,224,0,1.0,41,0,0.0
 2020-03-30,france,saint-barthelemy,17.9,-62.8333,6,0,1.0,1,0,1.0
+2020-03-30,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-30,france,st-martin,18.0708,-63.0501,15,1,2.0,4,1,2.0
 2020-03-31,france,,46.2276,2.2137,52128,3523,9444.0,7578,499,1517.0
 2020-03-31,france,french-guiana,3.9339,-53.1258,43,0,6.0,0,0,0.0
@@ -698,6 +767,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-03-31,france,new-caledonia,-20.9043,165.618,16,0,0.0,1,0,0.0
 2020-03-31,france,reunion,-21.1351,55.2471,247,0,1.0,23,0,0.0
 2020-03-31,france,saint-barthelemy,17.9,-62.8333,6,0,1.0,0,0,0.0
+2020-03-31,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-03-31,france,st-martin,18.0708,-63.0501,15,1,2.0,0,0,0.0
 2020-04-01,france,,46.2276,2.2137,56989,4032,10934.0,4861,509,1490.0
 2020-04-01,france,french-guiana,3.9339,-53.1258,51,0,15.0,8,0,9.0
@@ -708,6 +778,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-01,france,new-caledonia,-20.9043,165.618,16,0,0.0,0,0,0.0
 2020-04-01,france,reunion,-21.1351,55.2471,281,0,40.0,34,0,39.0
 2020-04-01,france,saint-barthelemy,17.9,-62.8333,6,0,1.0,0,0,0.0
+2020-04-01,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-04-01,france,st-martin,18.0708,-63.0501,15,1,2.0,0,0,0.0
 2020-04-02,france,,46.2276,2.2137,59105,5387,12428.0,2116,1355,1494.0
 2020-04-02,france,french-guiana,3.9339,-53.1258,51,0,15.0,0,0,0.0
@@ -718,6 +789,7 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-02,france,new-caledonia,-20.9043,165.618,18,0,1.0,2,0,1.0
 2020-04-02,france,reunion,-21.1351,55.2471,308,0,40.0,27,0,0.0
 2020-04-02,france,saint-barthelemy,17.9,-62.8333,6,0,1.0,0,0,0.0
+2020-04-02,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-04-02,france,st-martin,18.0708,-63.0501,22,1,2.0,7,0,0.0
 2020-04-03,france,,46.2276,2.2137,64338,6507,14008.0,5233,1120,1580.0
 2020-04-03,france,french-guiana,3.9339,-53.1258,57,0,22.0,6,0,7.0
@@ -728,4 +800,27 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-03,france,new-caledonia,-20.9043,165.618,18,0,1.0,0,0,0.0
 2020-04-03,france,reunion,-21.1351,55.2471,321,0,40.0,13,0,0.0
 2020-04-03,france,saint-barthelemy,17.9,-62.8333,6,0,1.0,0,0,0.0
+2020-04-03,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
 2020-04-03,france,st-martin,18.0708,-63.0501,22,1,2.0,0,0,0.0
+2020-04-04,france,,46.2276,2.2137,89953,7560,15438.0,25615,1053,1430.0
+2020-04-04,france,french-guiana,3.9339,-53.1258,61,0,22.0,4,0,0.0
+2020-04-04,france,french-polynesia,-17.6797,149.4068,40,0,0.0,1,0,0.0
+2020-04-04,france,guadeloupe,16.25,-61.5833,134,7,24.0,4,0,0.0
+2020-04-04,france,martinique,14.6415,-61.0242,145,3,27.0,2,0,0.0
+2020-04-04,france,mayotte,-12.8275,45.1662,134,2,14.0,6,0,4.0
+2020-04-04,france,new-caledonia,-20.9043,165.618,17,0,1.0,-1,0,0.0
+2020-04-04,france,reunion,-21.1351,55.2471,334,0,40.0,13,0,0.0
+2020-04-04,france,saint-barthelemy,17.9,-62.8333,6,0,1.0,0,0,0.0
+2020-04-04,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0.0,0,0,0.0
+2020-04-04,france,st-martin,18.0708,-63.0501,24,2,5.0,2,1,3.0
+2020-04-05,france,,46.2276,2.2137,92839,8078,16183.0,2886,518,745.0
+2020-04-05,france,french-guiana,3.9339,-53.1258,61,0,22.0,0,0,0.0
+2020-04-05,france,french-polynesia,-17.6797,149.4068,41,0,0.0,1,0,0.0
+2020-04-05,france,guadeloupe,16.25,-61.5833,135,7,31.0,1,0,7.0
+2020-04-05,france,martinique,14.6415,-61.0242,149,4,50.0,4,1,23.0
+2020-04-05,france,mayotte,-12.8275,45.1662,147,2,14.0,13,0,0.0
+2020-04-05,france,new-caledonia,-20.9043,165.618,18,0,1.0,1,0,0.0
+2020-04-05,france,reunion,-21.1351,55.2471,344,0,40.0,10,0,0.0
+2020-04-05,france,saint-barthelemy,17.9,-62.8333,6,0,1.0,0,0,0.0
+2020-04-05,france,saint-pierre-and-miquelon,46.8852,-56.3159,1,0,0.0,1,0,0.0
+2020-04-05,france,st-martin,18.0708,-63.0501,32,2,7.0,8,0,2.0

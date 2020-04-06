@@ -72,3 +72,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-01,china,yunnan,24.974,101.487,182,0,2,0,172.0,0.0
 2020-04-02,china,yunnan,24.974,101.487,183,1,2,0,172.0,0.0
 2020-04-03,china,yunnan,24.974,101.487,184,1,2,0,172.0,0.0
+2020-04-04,china,yunnan,24.974,101.487,184,0,2,0,172.0,0.0
+2020-04-05,china,yunnan,24.974,101.487,184,0,2,0,172.0,0.0

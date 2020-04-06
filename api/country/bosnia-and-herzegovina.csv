@@ -72,3 +72,5 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-01,bosnia-and-herzegovina,,43.9159,17.6791,459,13,19.0,39,0,2.0
 2020-04-02,bosnia-and-herzegovina,,43.9159,17.6791,533,16,20.0,74,3,1.0
 2020-04-03,bosnia-and-herzegovina,,43.9159,17.6791,579,17,27.0,46,1,7.0
+2020-04-04,bosnia-and-herzegovina,,43.9159,17.6791,624,21,30.0,45,4,3.0
+2020-04-05,bosnia-and-herzegovina,,43.9159,17.6791,654,23,30.0,30,2,0.0

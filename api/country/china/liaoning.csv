@@ -72,3 +72,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-01,china,liaoning,41.2956,122.6085,140,1,2,0,124.0,0.0
 2020-04-02,china,liaoning,41.2956,122.6085,141,1,2,0,124.0,0.0
 2020-04-03,china,liaoning,41.2956,122.6085,141,0,2,0,124.0,0.0
+2020-04-04,china,liaoning,41.2956,122.6085,141,0,2,0,125.0,1.0
+2020-04-05,china,liaoning,41.2956,122.6085,142,1,2,0,126.0,1.0

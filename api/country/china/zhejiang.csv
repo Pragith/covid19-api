@@ -72,3 +72,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-01,china,zhejiang,29.1832,120.0934,1257,0,1,0,1226.0,0.0
 2020-04-02,china,zhejiang,29.1832,120.0934,1258,1,1,0,1228.0,2.0
 2020-04-03,china,zhejiang,29.1832,120.0934,1260,2,1,0,1228.0,0.0
+2020-04-04,china,zhejiang,29.1832,120.0934,1262,2,1,0,1229.0,1.0
+2020-04-05,china,zhejiang,29.1832,120.0934,1263,1,1,0,1230.0,1.0

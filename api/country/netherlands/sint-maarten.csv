@@ -72,3 +72,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-01,netherlands,sint-maarten,18.0425,-63.0548,16,10,1,1,6.0,6.0
 2020-04-02,netherlands,sint-maarten,18.0425,-63.0548,18,2,1,0,6.0,0.0
 2020-04-03,netherlands,sint-maarten,18.0425,-63.0548,23,5,2,1,6.0,0.0
+2020-04-04,netherlands,sint-maarten,18.0425,-63.0548,23,0,4,2,6.0,0.0
+2020-04-05,netherlands,sint-maarten,18.0425,-63.0548,25,2,4,0,1.0,-5.0

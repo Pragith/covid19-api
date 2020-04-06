@@ -124,6 +124,7 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-30,france,new-caledonia,-20.9043,165.618,15,0,0,0,0.0,0.0
 2020-03-30,france,reunion,-21.1351,55.2471,224,41,0,0,1.0,0.0
 2020-03-30,france,saint-barthelemy,17.9,-62.8333,6,1,0,0,1.0,1.0
+2020-03-30,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0,0,0.0,0.0
 2020-03-30,france,st-martin,18.0708,-63.0501,15,4,1,1,2.0,2.0
 2020-03-30,gabon,,-0.8037,11.6094,7,0,1,0,0.0,0.0
 2020-03-30,gambia,,13.4432,-15.3101,4,0,1,0,0.0,0.0
@@ -221,6 +222,7 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-30,slovenia,,46.1512,14.9955,756,26,11,0,10.0,0.0
 2020-03-30,somalia,,5.1521,46.1996,3,0,0,0,0.0,0.0
 2020-03-30,south-africa,,-30.5595,22.9375,1326,46,3,1,31.0,0.0
+2020-03-30,south-sudan,,6.8770000000000024,31.307,0,0,0,0,0.0,0.0
 2020-03-30,spain,,40.0,-4.0,87956,7846,7716,913,16780.0,2071.0
 2020-03-30,sri-lanka,,7.0,81.0,122,5,2,1,15.0,4.0
 2020-03-30,sudan,,12.8628,30.2176,6,0,2,1,0.0,0.0
@@ -245,6 +247,7 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-30,united-kingdom,british-virgin-islands,18.4207,-64.64,2,0,0,0,0.0,0.0
 2020-03-30,united-kingdom,cayman-islands,19.3133,-81.2546,12,4,1,0,0.0,0.0
 2020-03-30,united-kingdom,channel-islands,49.3723,-2.3644,141,33,2,0,0.0,0.0
+2020-03-30,united-kingdom,falkland-islands-islas-malvinas,-51.7963,-59.5236,0,0,0,0,0.0,0.0
 2020-03-30,united-kingdom,gibraltar,36.1408,-5.3536,69,4,0,0,34.0,20.0
 2020-03-30,united-kingdom,isle-of-man,54.2361,-4.5481,49,7,0,0,0.0,0.0
 2020-03-30,united-kingdom,montserrat,16.7425,-62.1874,5,0,0,0,0.0,0.0
@@ -255,5 +258,6 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-30,venezuela,,6.4238,-66.5897,135,16,3,1,39.0,0.0
 2020-03-30,vietnam,,16.0,108.0,203,15,0,0,55.0,30.0
 2020-03-30,west-bank-and-gaza,,31.9522,35.2332,116,7,1,0,18.0,0.0
+2020-03-30,western-sahara,,24.2155,-12.8858,0,0,0,0,0.0,0.0
 2020-03-30,zambia,,-15.4167,28.2833,35,6,0,0,0.0,0.0
 2020-03-30,zimbabwe,,-20.0,30.0,7,0,1,0,0.0,0.0

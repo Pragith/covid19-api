@@ -124,6 +124,7 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-18,france,new-caledonia,-20.9043,165.618,0,0,0,0,0.0,0.0
 2020-03-18,france,reunion,-21.1351,55.2471,12,3,0,0,0.0,0.0
 2020-03-18,france,saint-barthelemy,17.9,-62.8333,3,0,0,0,0.0,0.0
+2020-03-18,france,saint-pierre-and-miquelon,46.8852,-56.3159,0,0,0,0,0.0,0.0
 2020-03-18,france,st-martin,18.0708,-63.0501,3,1,0,0,0.0,0.0
 2020-03-18,gabon,,-0.8037,11.6094,1,0,0,0,0.0,0.0
 2020-03-18,gambia,,13.4432,-15.3101,1,0,0,0,0.0,0.0
@@ -221,6 +222,7 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-18,slovenia,,46.1512,14.9955,275,0,1,0,0.0,0.0
 2020-03-18,somalia,,5.1521,46.1996,1,0,0,0,0.0,0.0
 2020-03-18,south-africa,,-30.5595,22.9375,116,54,0,0,0.0,0.0
+2020-03-18,south-sudan,,6.8770000000000024,31.307,0,0,0,0,0.0,0.0
 2020-03-18,spain,,40.0,-4.0,13910,2162,623,90,1081.0,53.0
 2020-03-18,sri-lanka,,7.0,81.0,51,7,0,0,1.0,0.0
 2020-03-18,sudan,,12.8628,30.2176,2,1,1,0,0.0,0.0
@@ -245,6 +247,7 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-18,united-kingdom,british-virgin-islands,18.4207,-64.64,0,0,0,0,0.0,0.0
 2020-03-18,united-kingdom,cayman-islands,19.3133,-81.2546,1,0,1,0,0.0,0.0
 2020-03-18,united-kingdom,channel-islands,49.3723,-2.3644,6,0,0,0,0.0,0.0
+2020-03-18,united-kingdom,falkland-islands-islas-malvinas,-51.7963,-59.5236,0,0,0,0,0.0,0.0
 2020-03-18,united-kingdom,gibraltar,36.1408,-5.3536,8,5,0,0,2.0,1.0
 2020-03-18,united-kingdom,isle-of-man,54.2361,-4.5481,0,0,0,0,0.0,0.0
 2020-03-18,united-kingdom,montserrat,16.7425,-62.1874,1,1,0,0,0.0,0.0
@@ -255,5 +258,6 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-03-18,venezuela,,6.4238,-66.5897,36,3,0,0,0.0,0.0
 2020-03-18,vietnam,,16.0,108.0,75,9,0,0,16.0,0.0
 2020-03-18,west-bank-and-gaza,,31.9522,35.2332,41,2,0,0,0.0,0.0
+2020-03-18,western-sahara,,24.2155,-12.8858,0,0,0,0,0.0,0.0
 2020-03-18,zambia,,-15.4167,28.2833,2,2,0,0,0.0,0.0
 2020-03-18,zimbabwe,,-20.0,30.0,0,0,0,0,0.0,0.0
