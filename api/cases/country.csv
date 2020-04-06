@@ -174,7 +174,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-01-22,united-arab-emirates,0,0,0.0,0,0,0.0
 2020-01-22,united-kingdom,0,0,0.0,0,0,0.0
 2020-01-22,uruguay,0,0,0.0,0,0,0.0
-2020-01-22,us,1,0,0.0,1,0,0.0
 2020-01-22,uzbekistan,0,0,0.0,0,0,0.0
 2020-01-22,venezuela,0,0,0.0,0,0,0.0
 2020-01-22,vietnam,0,0,0.0,0,0,0.0
@@ -357,7 +356,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-01-23,united-arab-emirates,0,0,0.0,0,0,0.0
 2020-01-23,united-kingdom,0,0,0.0,0,0,0.0
 2020-01-23,uruguay,0,0,0.0,0,0,0.0
-2020-01-23,us,1,0,0.0,0,0,0.0
 2020-01-23,uzbekistan,0,0,0.0,0,0,0.0
 2020-01-23,venezuela,0,0,0.0,0,0,0.0
 2020-01-23,vietnam,2,0,0.0,2,0,0.0
@@ -540,7 +538,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-01-24,united-arab-emirates,0,0,0.0,0,0,0.0
 2020-01-24,united-kingdom,0,0,0.0,0,0,0.0
 2020-01-24,uruguay,0,0,0.0,0,0,0.0
-2020-01-24,us,2,0,0.0,1,0,0.0
 2020-01-24,uzbekistan,0,0,0.0,0,0,0.0
 2020-01-24,venezuela,0,0,0.0,0,0,0.0
 2020-01-24,vietnam,2,0,0.0,0,0,0.0
@@ -723,7 +720,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-01-25,united-arab-emirates,0,0,0.0,0,0,0.0
 2020-01-25,united-kingdom,0,0,0.0,0,0,0.0
 2020-01-25,uruguay,0,0,0.0,0,0,0.0
-2020-01-25,us,2,0,0.0,0,0,0.0
 2020-01-25,uzbekistan,0,0,0.0,0,0,0.0
 2020-01-25,venezuela,0,0,0.0,0,0,0.0
 2020-01-25,vietnam,2,0,0.0,0,0,0.0
@@ -906,7 +902,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-01-26,united-arab-emirates,0,0,0.0,0,0,0.0
 2020-01-26,united-kingdom,0,0,0.0,0,0,0.0
 2020-01-26,uruguay,0,0,0.0,0,0,0.0
-2020-01-26,us,5,0,0.0,3,0,0.0
 2020-01-26,uzbekistan,0,0,0.0,0,0,0.0
 2020-01-26,venezuela,0,0,0.0,0,0,0.0
 2020-01-26,vietnam,2,0,0.0,0,0,0.0
@@ -1089,7 +1084,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-01-27,united-arab-emirates,0,0,0.0,0,0,0.0
 2020-01-27,united-kingdom,0,0,0.0,0,0,0.0
 2020-01-27,uruguay,0,0,0.0,0,0,0.0
-2020-01-27,us,5,0,0.0,0,0,0.0
 2020-01-27,uzbekistan,0,0,0.0,0,0,0.0
 2020-01-27,venezuela,0,0,0.0,0,0,0.0
 2020-01-27,vietnam,2,0,0.0,0,0,0.0
@@ -1272,7 +1266,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-01-28,united-arab-emirates,0,0,0.0,0,0,0.0
 2020-01-28,united-kingdom,0,0,0.0,0,0,0.0
 2020-01-28,uruguay,0,0,0.0,0,0,0.0
-2020-01-28,us,5,0,0.0,0,0,0.0
 2020-01-28,uzbekistan,0,0,0.0,0,0,0.0
 2020-01-28,venezuela,0,0,0.0,0,0,0.0
 2020-01-28,vietnam,2,0,0.0,0,0,0.0
@@ -1455,7 +1448,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-01-29,united-arab-emirates,4,0,0.0,4,0,0.0
 2020-01-29,united-kingdom,0,0,0.0,0,0,0.0
 2020-01-29,uruguay,0,0,0.0,0,0,0.0
-2020-01-29,us,5,0,0.0,0,0,0.0
 2020-01-29,uzbekistan,0,0,0.0,0,0,0.0
 2020-01-29,venezuela,0,0,0.0,0,0,0.0
 2020-01-29,vietnam,2,0,0.0,0,0,0.0
@@ -1638,7 +1630,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-01-30,united-arab-emirates,4,0,0.0,0,0,0.0
 2020-01-30,united-kingdom,0,0,0.0,0,0,0.0
 2020-01-30,uruguay,0,0,0.0,0,0,0.0
-2020-01-30,us,5,0,0.0,0,0,0.0
 2020-01-30,uzbekistan,0,0,0.0,0,0,0.0
 2020-01-30,venezuela,0,0,0.0,0,0,0.0
 2020-01-30,vietnam,2,0,0.0,0,0,0.0
@@ -1821,7 +1812,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-01-31,united-arab-emirates,4,0,0.0,0,0,0.0
 2020-01-31,united-kingdom,2,0,0.0,2,0,0.0
 2020-01-31,uruguay,0,0,0.0,0,0,0.0
-2020-01-31,us,7,0,0.0,2,0,0.0
 2020-01-31,uzbekistan,0,0,0.0,0,0,0.0
 2020-01-31,venezuela,0,0,0.0,0,0,0.0
 2020-01-31,vietnam,2,0,0.0,0,0,0.0
@@ -2004,7 +1994,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-01,united-arab-emirates,4,0,0.0,0,0,0.0
 2020-02-01,united-kingdom,2,0,0.0,0,0,0.0
 2020-02-01,uruguay,0,0,0.0,0,0,0.0
-2020-02-01,us,8,0,0.0,1,0,0.0
 2020-02-01,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-01,venezuela,0,0,0.0,0,0,0.0
 2020-02-01,vietnam,6,0,1.0,4,0,1.0
@@ -2187,7 +2176,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-02,united-arab-emirates,5,0,0.0,1,0,0.0
 2020-02-02,united-kingdom,2,0,0.0,0,0,0.0
 2020-02-02,uruguay,0,0,0.0,0,0,0.0
-2020-02-02,us,8,0,0.0,0,0,0.0
 2020-02-02,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-02,venezuela,0,0,0.0,0,0,0.0
 2020-02-02,vietnam,6,0,1.0,0,0,0.0
@@ -2370,7 +2358,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-03,united-arab-emirates,5,0,0.0,0,0,0.0
 2020-02-03,united-kingdom,2,0,0.0,0,0,0.0
 2020-02-03,uruguay,0,0,0.0,0,0,0.0
-2020-02-03,us,11,0,0.0,3,0,0.0
 2020-02-03,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-03,venezuela,0,0,0.0,0,0,0.0
 2020-02-03,vietnam,8,0,1.0,2,0,0.0
@@ -2553,7 +2540,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-04,united-arab-emirates,5,0,0.0,0,0,0.0
 2020-02-04,united-kingdom,2,0,0.0,0,0,0.0
 2020-02-04,uruguay,0,0,0.0,0,0,0.0
-2020-02-04,us,11,0,0.0,0,0,0.0
 2020-02-04,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-04,venezuela,0,0,0.0,0,0,0.0
 2020-02-04,vietnam,8,0,1.0,0,0,0.0
@@ -2736,7 +2722,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-05,united-arab-emirates,5,0,0.0,0,0,0.0
 2020-02-05,united-kingdom,2,0,0.0,0,0,0.0
 2020-02-05,uruguay,0,0,0.0,0,0,0.0
-2020-02-05,us,11,0,0.0,0,0,0.0
 2020-02-05,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-05,venezuela,0,0,0.0,0,0,0.0
 2020-02-05,vietnam,8,0,1.0,0,0,0.0
@@ -2919,7 +2904,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-06,united-arab-emirates,5,0,0.0,0,0,0.0
 2020-02-06,united-kingdom,2,0,0.0,0,0,0.0
 2020-02-06,uruguay,0,0,0.0,0,0,0.0
-2020-02-06,us,11,0,0.0,0,0,0.0
 2020-02-06,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-06,venezuela,0,0,0.0,0,0,0.0
 2020-02-06,vietnam,10,0,1.0,2,0,0.0
@@ -3102,7 +3086,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-07,united-arab-emirates,5,0,0.0,0,0,0.0
 2020-02-07,united-kingdom,3,0,0.0,1,0,0.0
 2020-02-07,uruguay,0,0,0.0,0,0,0.0
-2020-02-07,us,11,0,0.0,0,0,0.0
 2020-02-07,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-07,venezuela,0,0,0.0,0,0,0.0
 2020-02-07,vietnam,10,0,1.0,0,0,0.0
@@ -3285,7 +3268,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-08,united-arab-emirates,7,0,0.0,2,0,0.0
 2020-02-08,united-kingdom,3,0,0.0,0,0,0.0
 2020-02-08,uruguay,0,0,0.0,0,0,0.0
-2020-02-08,us,11,0,0.0,0,0,0.0
 2020-02-08,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-08,venezuela,0,0,0.0,0,0,0.0
 2020-02-08,vietnam,13,0,1.0,3,0,0.0
@@ -3468,7 +3450,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-09,united-arab-emirates,7,0,0.0,0,0,0.0
 2020-02-09,united-kingdom,3,0,0.0,0,0,0.0
 2020-02-09,uruguay,0,0,0.0,0,0,0.0
-2020-02-09,us,11,0,3.0,0,0,3.0
 2020-02-09,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-09,venezuela,0,0,0.0,0,0,0.0
 2020-02-09,vietnam,13,0,1.0,0,0,0.0
@@ -3651,7 +3632,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-10,united-arab-emirates,8,0,0.0,1,0,0.0
 2020-02-10,united-kingdom,8,0,0.0,5,0,0.0
 2020-02-10,uruguay,0,0,0.0,0,0,0.0
-2020-02-10,us,11,0,3.0,0,0,0.0
 2020-02-10,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-10,venezuela,0,0,0.0,0,0,0.0
 2020-02-10,vietnam,14,0,1.0,1,0,0.0
@@ -3834,7 +3814,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-11,united-arab-emirates,8,0,0.0,0,0,0.0
 2020-02-11,united-kingdom,8,0,0.0,0,0,0.0
 2020-02-11,uruguay,0,0,0.0,0,0,0.0
-2020-02-11,us,12,0,3.0,1,0,0.0
 2020-02-11,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-11,venezuela,0,0,0.0,0,0,0.0
 2020-02-11,vietnam,15,0,6.0,1,0,5.0
@@ -4017,7 +3996,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-12,united-arab-emirates,8,0,1.0,0,0,1.0
 2020-02-12,united-kingdom,9,0,1.0,1,0,1.0
 2020-02-12,uruguay,0,0,0.0,0,0,0.0
-2020-02-12,us,12,0,3.0,0,0,0.0
 2020-02-12,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-12,venezuela,0,0,0.0,0,0,0.0
 2020-02-12,vietnam,15,0,6.0,0,0,0.0
@@ -4200,7 +4178,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-13,united-arab-emirates,8,0,1.0,0,0,0.0
 2020-02-13,united-kingdom,9,0,1.0,0,0,0.0
 2020-02-13,uruguay,0,0,0.0,0,0,0.0
-2020-02-13,us,13,0,3.0,1,0,0.0
 2020-02-13,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-13,venezuela,0,0,0.0,0,0,0.0
 2020-02-13,vietnam,16,0,7.0,1,0,1.0
@@ -4383,7 +4360,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-14,united-arab-emirates,8,0,1.0,0,0,0.0
 2020-02-14,united-kingdom,9,0,1.0,0,0,0.0
 2020-02-14,uruguay,0,0,0.0,0,0,0.0
-2020-02-14,us,13,0,3.0,0,0,0.0
 2020-02-14,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-14,venezuela,0,0,0.0,0,0,0.0
 2020-02-14,vietnam,16,0,7.0,0,0,0.0
@@ -4566,7 +4542,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-15,united-arab-emirates,8,0,3.0,0,0,2.0
 2020-02-15,united-kingdom,9,0,1.0,0,0,0.0
 2020-02-15,uruguay,0,0,0.0,0,0,0.0
-2020-02-15,us,13,0,3.0,0,0,0.0
 2020-02-15,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-15,venezuela,0,0,0.0,0,0,0.0
 2020-02-15,vietnam,16,0,7.0,0,0,0.0
@@ -4749,7 +4724,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-16,united-arab-emirates,9,0,4.0,1,0,1.0
 2020-02-16,united-kingdom,9,0,8.0,0,0,7.0
 2020-02-16,uruguay,0,0,0.0,0,0,0.0
-2020-02-16,us,13,0,3.0,0,0,0.0
 2020-02-16,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-16,venezuela,0,0,0.0,0,0,0.0
 2020-02-16,vietnam,16,0,7.0,0,0,0.0
@@ -4932,7 +4906,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-17,united-arab-emirates,9,0,4.0,0,0,0.0
 2020-02-17,united-kingdom,9,0,8.0,0,0,0.0
 2020-02-17,uruguay,0,0,0.0,0,0,0.0
-2020-02-17,us,13,0,3.0,0,0,0.0
 2020-02-17,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-17,venezuela,0,0,0.0,0,0,0.0
 2020-02-17,vietnam,16,0,7.0,0,0,0.0
@@ -5115,7 +5088,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-18,united-arab-emirates,9,0,4.0,0,0,0.0
 2020-02-18,united-kingdom,9,0,8.0,0,0,0.0
 2020-02-18,uruguay,0,0,0.0,0,0,0.0
-2020-02-18,us,13,0,3.0,0,0,0.0
 2020-02-18,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-18,venezuela,0,0,0.0,0,0,0.0
 2020-02-18,vietnam,16,0,7.0,0,0,0.0
@@ -5298,7 +5270,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-19,united-arab-emirates,9,0,4.0,0,0,0.0
 2020-02-19,united-kingdom,9,0,8.0,0,0,0.0
 2020-02-19,uruguay,0,0,0.0,0,0,0.0
-2020-02-19,us,13,0,3.0,0,0,0.0
 2020-02-19,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-19,venezuela,0,0,0.0,0,0,0.0
 2020-02-19,vietnam,16,0,7.0,0,0,0.0
@@ -5481,7 +5452,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-20,united-arab-emirates,9,0,4.0,0,0,0.0
 2020-02-20,united-kingdom,9,0,8.0,0,0,0.0
 2020-02-20,uruguay,0,0,0.0,0,0,0.0
-2020-02-20,us,13,0,3.0,0,0,0.0
 2020-02-20,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-20,venezuela,0,0,0.0,0,0,0.0
 2020-02-20,vietnam,16,0,7.0,0,0,0.0
@@ -5664,7 +5634,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-21,united-arab-emirates,9,0,4.0,0,0,0.0
 2020-02-21,united-kingdom,9,0,8.0,0,0,0.0
 2020-02-21,uruguay,0,0,0.0,0,0,0.0
-2020-02-21,us,15,0,5.0,2,0,2.0
 2020-02-21,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-21,venezuela,0,0,0.0,0,0,0.0
 2020-02-21,vietnam,16,0,14.0,0,0,7.0
@@ -5847,7 +5816,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-22,united-arab-emirates,13,0,4.0,4,0,0.0
 2020-02-22,united-kingdom,9,0,8.0,0,0,0.0
 2020-02-22,uruguay,0,0,0.0,0,0,0.0
-2020-02-22,us,15,0,5.0,0,0,0.0
 2020-02-22,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-22,venezuela,0,0,0.0,0,0,0.0
 2020-02-22,vietnam,16,0,14.0,0,0,0.0
@@ -6030,7 +5998,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-23,united-arab-emirates,13,0,4.0,0,0,0.0
 2020-02-23,united-kingdom,9,0,8.0,0,0,0.0
 2020-02-23,uruguay,0,0,0.0,0,0,0.0
-2020-02-23,us,15,0,5.0,0,0,0.0
 2020-02-23,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-23,venezuela,0,0,0.0,0,0,0.0
 2020-02-23,vietnam,16,0,14.0,0,0,0.0
@@ -6213,7 +6180,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-24,united-arab-emirates,13,0,4.0,0,0,0.0
 2020-02-24,united-kingdom,13,0,8.0,4,0,0.0
 2020-02-24,uruguay,0,0,0.0,0,0,0.0
-2020-02-24,us,51,0,5.0,36,0,0.0
 2020-02-24,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-24,venezuela,0,0,0.0,0,0,0.0
 2020-02-24,vietnam,16,0,14.0,0,0,0.0
@@ -6396,7 +6362,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-25,united-arab-emirates,13,0,4.0,0,0,0.0
 2020-02-25,united-kingdom,13,0,8.0,0,0,0.0
 2020-02-25,uruguay,0,0,0.0,0,0,0.0
-2020-02-25,us,51,0,6.0,0,0,1.0
 2020-02-25,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-25,venezuela,0,0,0.0,0,0,0.0
 2020-02-25,vietnam,16,0,16.0,0,0,2.0
@@ -6579,7 +6544,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-26,united-arab-emirates,13,0,4.0,0,0,0.0
 2020-02-26,united-kingdom,13,0,8.0,0,0,0.0
 2020-02-26,uruguay,0,0,0.0,0,0,0.0
-2020-02-26,us,57,0,6.0,6,0,0.0
 2020-02-26,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-26,venezuela,0,0,0.0,0,0,0.0
 2020-02-26,vietnam,16,0,16.0,0,0,0.0
@@ -6762,7 +6726,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-27,united-arab-emirates,13,0,4.0,0,0,0.0
 2020-02-27,united-kingdom,15,0,8.0,2,0,0.0
 2020-02-27,uruguay,0,0,0.0,0,0,0.0
-2020-02-27,us,58,0,6.0,1,0,0.0
 2020-02-27,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-27,venezuela,0,0,0.0,0,0,0.0
 2020-02-27,vietnam,16,0,16.0,0,0,0.0
@@ -6945,7 +6908,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-28,united-arab-emirates,19,0,5.0,6,0,1.0
 2020-02-28,united-kingdom,20,0,8.0,5,0,0.0
 2020-02-28,uruguay,0,0,0.0,0,0,0.0
-2020-02-28,us,60,0,7.0,2,0,1.0
 2020-02-28,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-28,venezuela,0,0,0.0,0,0,0.0
 2020-02-28,vietnam,16,0,16.0,0,0,0.0
@@ -7128,7 +7090,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-02-29,united-arab-emirates,21,0,5.0,2,0,0.0
 2020-02-29,united-kingdom,23,0,8.0,3,0,0.0
 2020-02-29,uruguay,0,0,0.0,0,0,0.0
-2020-02-29,us,68,1,7.0,8,1,0.0
 2020-02-29,uzbekistan,0,0,0.0,0,0,0.0
 2020-02-29,venezuela,0,0,0.0,0,0,0.0
 2020-02-29,vietnam,16,0,16.0,0,0,0.0
@@ -7311,7 +7272,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-01,united-arab-emirates,21,0,5.0,0,0,0.0
 2020-03-01,united-kingdom,36,0,8.0,13,0,0.0
 2020-03-01,uruguay,0,0,0.0,0,0,0.0
-2020-03-01,us,74,1,7.0,6,0,0.0
 2020-03-01,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-01,venezuela,0,0,0.0,0,0,0.0
 2020-03-01,vietnam,16,0,16.0,0,0,0.0
@@ -7494,7 +7454,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-02,united-arab-emirates,21,0,5.0,0,0,0.0
 2020-03-02,united-kingdom,40,0,8.0,4,0,0.0
 2020-03-02,uruguay,0,0,0.0,0,0,0.0
-2020-03-02,us,98,6,7.0,24,5,0.0
 2020-03-02,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-02,venezuela,0,0,0.0,0,0,0.0
 2020-03-02,vietnam,16,0,16.0,0,0,0.0
@@ -7677,7 +7636,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-03,united-arab-emirates,27,0,5.0,6,0,0.0
 2020-03-03,united-kingdom,51,0,8.0,11,0,0.0
 2020-03-03,uruguay,0,0,0.0,0,0,0.0
-2020-03-03,us,118,7,7.0,20,1,0.0
 2020-03-03,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-03,venezuela,0,0,0.0,0,0,0.0
 2020-03-03,vietnam,16,0,16.0,0,0,0.0
@@ -7860,7 +7818,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-04,united-arab-emirates,27,0,5.0,0,0,0.0
 2020-03-04,united-kingdom,86,0,8.0,35,0,0.0
 2020-03-04,uruguay,0,0,0.0,0,0,0.0
-2020-03-04,us,149,11,7.0,31,4,0.0
 2020-03-04,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-04,venezuela,0,0,0.0,0,0,0.0
 2020-03-04,vietnam,16,0,16.0,0,0,0.0
@@ -8043,7 +8000,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-05,united-arab-emirates,29,0,5.0,2,0,0.0
 2020-03-05,united-kingdom,116,1,8.0,30,1,0.0
 2020-03-05,uruguay,0,0,0.0,0,0,0.0
-2020-03-05,us,217,12,7.0,68,1,0.0
 2020-03-05,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-05,venezuela,0,0,0.0,0,0,0.0
 2020-03-05,vietnam,16,0,16.0,0,0,0.0
@@ -8226,7 +8182,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-06,united-arab-emirates,29,0,5.0,0,0,0.0
 2020-03-06,united-kingdom,164,2,8.0,48,1,0.0
 2020-03-06,uruguay,0,0,0.0,0,0,0.0
-2020-03-06,us,262,14,7.0,45,2,0.0
 2020-03-06,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-06,venezuela,0,0,0.0,0,0,0.0
 2020-03-06,vietnam,16,0,16.0,0,0,0.0
@@ -8409,7 +8364,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-07,united-arab-emirates,45,0,7.0,16,0,2.0
 2020-03-07,united-kingdom,207,2,18.0,43,0,10.0
 2020-03-07,uruguay,0,0,0.0,0,0,0.0
-2020-03-07,us,402,17,7.0,140,3,0.0
 2020-03-07,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-07,venezuela,0,0,0.0,0,0,0.0
 2020-03-07,vietnam,18,0,16.0,2,0,0.0
@@ -8592,7 +8546,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-08,united-arab-emirates,45,0,7.0,0,0,0.0
 2020-03-08,united-kingdom,274,3,18.0,67,1,0.0
 2020-03-08,uruguay,0,0,0.0,0,0,0.0
-2020-03-08,us,518,21,7.0,116,4,0.0
 2020-03-08,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-08,venezuela,0,0,0.0,0,0,0.0
 2020-03-08,vietnam,30,0,16.0,12,0,0.0
@@ -8775,7 +8728,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-09,united-arab-emirates,45,0,7.0,0,0,0.0
 2020-03-09,united-kingdom,322,4,18.0,48,1,0.0
 2020-03-09,uruguay,0,0,0.0,0,0,0.0
-2020-03-09,us,583,22,7.0,65,1,0.0
 2020-03-09,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-09,venezuela,0,0,0.0,0,0,0.0
 2020-03-09,vietnam,30,0,16.0,0,0,0.0
@@ -8958,7 +8910,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-10,united-arab-emirates,74,0,12.0,29,0,5.0
 2020-03-10,united-kingdom,384,6,19.0,62,2,1.0
 2020-03-10,uruguay,0,0,0.0,0,0,0.0
-2020-03-10,us,959,28,8.0,376,6,1.0
 2020-03-10,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-10,venezuela,0,0,0.0,0,0,0.0
 2020-03-10,vietnam,31,0,16.0,1,0,0.0
@@ -9141,7 +9092,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-11,united-arab-emirates,74,0,17.0,0,0,5.0
 2020-03-11,united-kingdom,459,8,19.0,75,2,0.0
 2020-03-11,uruguay,0,0,0.0,0,0,0.0
-2020-03-11,us,1281,36,8.0,322,8,0.0
 2020-03-11,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-11,venezuela,0,0,0.0,0,0,0.0
 2020-03-11,vietnam,38,0,16.0,7,0,0.0
@@ -9324,7 +9274,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-12,united-arab-emirates,85,0,17.0,11,0,0.0
 2020-03-12,united-kingdom,459,8,19.0,0,0,0.0
 2020-03-12,uruguay,0,0,0.0,0,0,0.0
-2020-03-12,us,1663,40,12.0,382,4,4.0
 2020-03-12,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-12,venezuela,0,0,0.0,0,0,0.0
 2020-03-12,vietnam,39,0,16.0,1,0,0.0
@@ -9507,7 +9456,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-13,united-arab-emirates,85,0,17.0,0,0,0.0
 2020-03-13,united-kingdom,802,8,19.0,343,0,0.0
 2020-03-13,uruguay,0,0,0.0,0,0,0.0
-2020-03-13,us,2179,47,12.0,516,7,0.0
 2020-03-13,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-13,venezuela,0,0,0.0,0,0,0.0
 2020-03-13,vietnam,47,0,16.0,8,0,0.0
@@ -9690,7 +9638,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-14,united-arab-emirates,85,0,17.0,0,0,0.0
 2020-03-14,united-kingdom,1144,21,19.0,342,13,0.0
 2020-03-14,uruguay,4,0,0.0,4,0,0.0
-2020-03-14,us,2727,54,12.0,548,7,0.0
 2020-03-14,uzbekistan,0,0,0.0,0,0,0.0
 2020-03-14,venezuela,2,0,0.0,2,0,0.0
 2020-03-14,vietnam,53,0,16.0,6,0,0.0
@@ -9873,7 +9820,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-15,united-arab-emirates,98,0,23.0,13,0,6.0
 2020-03-15,united-kingdom,1145,21,19.0,1,0,0.0
 2020-03-15,uruguay,4,0,0.0,0,0,0.0
-2020-03-15,us,3499,63,12.0,772,9,0.0
 2020-03-15,uzbekistan,1,0,0.0,1,0,0.0
 2020-03-15,venezuela,10,0,0.0,8,0,0.0
 2020-03-15,vietnam,56,0,16.0,3,0,0.0
@@ -10056,7 +10002,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-16,united-arab-emirates,98,0,23.0,0,0,0.0
 2020-03-16,united-kingdom,1551,56,21.0,406,35,2.0
 2020-03-16,uruguay,8,0,0.0,4,0,0.0
-2020-03-16,us,4632,85,17.0,1133,22,5.0
 2020-03-16,uzbekistan,6,0,0.0,5,0,0.0
 2020-03-16,venezuela,17,0,0.0,7,0,0.0
 2020-03-16,vietnam,61,0,16.0,5,0,0.0
@@ -10239,7 +10184,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-17,united-arab-emirates,98,0,23.0,0,0,0.0
 2020-03-17,united-kingdom,1960,56,53.0,409,0,32.0
 2020-03-17,uruguay,29,0,0.0,21,0,0.0
-2020-03-17,us,6421,108,17.0,1789,23,0.0
 2020-03-17,uzbekistan,10,0,0.0,4,0,0.0
 2020-03-17,venezuela,33,0,0.0,16,0,0.0
 2020-03-17,vietnam,66,0,16.0,5,0,0.0
@@ -10422,7 +10366,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-18,united-arab-emirates,113,0,26.0,15,0,3.0
 2020-03-18,united-kingdom,2642,72,67.0,682,16,14.0
 2020-03-18,uruguay,50,0,0.0,21,0,0.0
-2020-03-18,us,7783,118,105.0,1362,10,88.0
 2020-03-18,uzbekistan,15,0,0.0,5,0,0.0
 2020-03-18,venezuela,36,0,0.0,3,0,0.0
 2020-03-18,vietnam,75,0,16.0,9,0,0.0
@@ -10605,7 +10548,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-19,united-arab-emirates,140,0,31.0,27,0,5.0
 2020-03-19,united-kingdom,2716,138,67.0,74,66,0.0
 2020-03-19,uruguay,79,0,0.0,29,0,0.0
-2020-03-19,us,13677,200,121.0,5894,82,16.0
 2020-03-19,uzbekistan,23,0,0.0,8,0,0.0
 2020-03-19,venezuela,42,0,0.0,6,0,0.0
 2020-03-19,vietnam,85,0,16.0,10,0,0.0
@@ -10788,7 +10730,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-20,united-arab-emirates,140,2,31.0,0,2,0.0
 2020-03-20,united-kingdom,4014,178,67.0,1298,40,0.0
 2020-03-20,uruguay,94,0,0.0,15,0,0.0
-2020-03-20,us,19100,244,147.0,5423,44,26.0
 2020-03-20,uzbekistan,33,0,0.0,10,0,0.0
 2020-03-20,venezuela,42,0,0.0,0,0,0.0
 2020-03-20,vietnam,91,0,16.0,6,0,0.0
@@ -10971,7 +10912,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-21,united-arab-emirates,153,2,38.0,13,0,7.0
 2020-03-21,united-kingdom,5067,234,67.0,1053,56,0.0
 2020-03-21,uruguay,110,0,0.0,16,0,0.0
-2020-03-21,us,25489,307,176.0,6389,63,29.0
 2020-03-21,uzbekistan,43,0,0.0,10,0,0.0
 2020-03-21,venezuela,70,0,0.0,28,0,0.0
 2020-03-21,vietnam,94,0,17.0,3,0,1.0
@@ -11154,7 +11094,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-22,united-arab-emirates,153,2,38.0,0,0,0.0
 2020-03-22,united-kingdom,5745,282,67.0,678,48,0.0
 2020-03-22,uruguay,158,0,0.0,48,0,0.0
-2020-03-22,us,33276,417,178.0,7787,110,2.0
 2020-03-22,uzbekistan,43,0,0.0,0,0,0.0
 2020-03-22,venezuela,70,0,15.0,0,0,15.0
 2020-03-22,vietnam,113,0,17.0,19,0,0.0
@@ -11337,7 +11276,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-23,united-arab-emirates,198,2,38.0,45,0,0.0
 2020-03-23,united-kingdom,6726,336,67.0,981,54,0.0
 2020-03-23,uruguay,162,0,0.0,4,0,0.0
-2020-03-23,us,43847,557,178.0,10571,140,0.0
 2020-03-23,uzbekistan,46,0,0.0,3,0,0.0
 2020-03-23,venezuela,77,0,15.0,7,0,0.0
 2020-03-23,vietnam,123,0,17.0,10,0,0.0
@@ -11520,7 +11458,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-24,united-arab-emirates,248,2,45.0,50,0,7.0
 2020-03-24,united-kingdom,8164,423,140.0,1438,87,73.0
 2020-03-24,uruguay,162,0,0.0,0,0,0.0
-2020-03-24,us,53740,706,348.0,9893,149,170.0
 2020-03-24,uzbekistan,50,0,0.0,4,0,0.0
 2020-03-24,venezuela,84,0,15.0,7,0,0.0
 2020-03-24,vietnam,134,0,17.0,11,0,0.0
@@ -11703,7 +11640,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-25,united-arab-emirates,333,2,52.0,85,0,7.0
 2020-03-25,united-kingdom,9640,466,140.0,1476,43,0.0
 2020-03-25,uruguay,189,0,0.0,27,0,0.0
-2020-03-25,us,65778,942,361.0,12038,236,13.0
 2020-03-25,uzbekistan,60,0,0.0,10,0,0.0
 2020-03-25,venezuela,91,0,15.0,7,0,0.0
 2020-03-25,vietnam,141,0,17.0,7,0,0.0
@@ -11886,7 +11822,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-26,united-arab-emirates,333,2,52.0,0,0,0.0
 2020-03-26,united-kingdom,11812,580,150.0,2172,114,10.0
 2020-03-26,uruguay,217,0,0.0,28,0,0.0
-2020-03-26,us,83836,1209,681.0,18058,267,320.0
 2020-03-26,uzbekistan,75,0,0.0,15,0,0.0
 2020-03-26,venezuela,107,0,15.0,16,0,0.0
 2020-03-26,vietnam,153,0,20.0,12,0,3.0
@@ -12069,7 +12004,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-27,united-arab-emirates,405,2,52.0,72,0,0.0
 2020-03-27,united-kingdom,14745,761,151.0,2933,181,1.0
 2020-03-27,uruguay,238,0,0.0,21,0,0.0
-2020-03-27,us,101657,1581,869.0,17821,372,188.0
 2020-03-27,uzbekistan,88,1,5.0,13,1,5.0
 2020-03-27,venezuela,107,1,31.0,0,1,16.0
 2020-03-27,vietnam,163,0,20.0,10,0,0.0
@@ -12252,7 +12186,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-28,united-arab-emirates,468,2,52.0,63,0,0.0
 2020-03-28,united-kingdom,17312,1021,151.0,2567,260,0.0
 2020-03-28,uruguay,274,0,0.0,36,0,0.0
-2020-03-28,us,121478,2026,1072.0,19821,445,203.0
 2020-03-28,uzbekistan,104,2,5.0,16,1,0.0
 2020-03-28,venezuela,119,2,39.0,12,1,8.0
 2020-03-28,vietnam,174,0,21.0,11,0,1.0
@@ -12435,7 +12368,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-29,united-arab-emirates,570,3,58.0,102,1,6.0
 2020-03-29,united-kingdom,19780,1231,151.0,2468,210,0.0
 2020-03-29,uruguay,304,1,0.0,30,1,0.0
-2020-03-29,us,140886,2467,2665.0,19408,441,1593.0
 2020-03-29,uzbekistan,144,2,7.0,40,0,2.0
 2020-03-29,venezuela,119,2,39.0,0,0,0.0
 2020-03-29,vietnam,188,0,25.0,14,0,4.0
@@ -12618,7 +12550,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-30,united-arab-emirates,611,5,61.0,41,2,3.0
 2020-03-30,united-kingdom,22453,1411,171.0,2673,180,20.0
 2020-03-30,uruguay,310,1,0.0,6,0,0.0
-2020-03-30,us,161807,2978,5644.0,20921,511,2979.0
 2020-03-30,uzbekistan,149,2,7.0,5,0,0.0
 2020-03-30,venezuela,135,3,39.0,16,1,0.0
 2020-03-30,vietnam,203,0,55.0,15,0,30.0
@@ -12801,7 +12732,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-03-31,united-arab-emirates,664,6,61.0,53,1,0.0
 2020-03-31,united-kingdom,25481,1793,179.0,3028,382,8.0
 2020-03-31,uruguay,338,1,41.0,28,0,41.0
-2020-03-31,us,188172,3873,7024.0,26365,895,1380.0
 2020-03-31,uzbekistan,172,2,7.0,23,0,0.0
 2020-03-31,venezuela,135,3,39.0,0,0,0.0
 2020-03-31,vietnam,212,0,58.0,9,0,3.0
@@ -12984,7 +12914,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-04-01,united-arab-emirates,814,8,61.0,150,2,0.0
 2020-04-01,united-kingdom,29865,2357,179.0,4384,564,0.0
 2020-04-01,uruguay,338,2,41.0,0,1,0.0
-2020-04-01,us,213372,4757,8474.0,25200,884,1450.0
 2020-04-01,uzbekistan,181,2,12.0,9,0,5.0
 2020-04-01,venezuela,143,3,41.0,8,0,2.0
 2020-04-01,vietnam,218,0,63.0,6,0,5.0
@@ -13167,7 +13096,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-04-02,united-arab-emirates,1024,8,96.0,210,0,35.0
 2020-04-02,united-kingdom,34173,2926,192.0,4308,569,13.0
 2020-04-02,uruguay,350,4,62.0,12,2,21.0
-2020-04-02,us,243453,5926,9001.0,30081,1169,527.0
 2020-04-02,uzbekistan,205,2,25.0,24,0,13.0
 2020-04-02,venezuela,146,5,43.0,3,2,2.0
 2020-04-02,vietnam,233,0,75.0,15,0,12.0
@@ -13350,7 +13278,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-04-03,united-arab-emirates,1264,9,108.0,240,1,12.0
 2020-04-03,united-kingdom,38689,3611,208.0,4516,685,16.0
 2020-04-03,uruguay,369,4,68.0,19,0,6.0
-2020-04-03,us,275586,7087,9707.0,32133,1161,706.0
 2020-04-03,uzbekistan,227,2,25.0,22,0,0.0
 2020-04-03,venezuela,153,7,52.0,7,2,9.0
 2020-04-03,vietnam,237,0,85.0,4,0,10.0
@@ -13533,7 +13460,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-04-04,united-arab-emirates,1505,10,125.0,241,1,17.0
 2020-04-04,united-kingdom,42477,4320,215.0,3788,709,7.0
 2020-04-04,uruguay,400,5,93.0,31,1,25.0
-2020-04-04,us,308850,8407,14652.0,33264,1320,4945.0
 2020-04-04,uzbekistan,266,2,25.0,39,0,0.0
 2020-04-04,venezuela,155,7,52.0,2,0,0.0
 2020-04-04,vietnam,240,0,90.0,3,0,5.0
@@ -13716,7 +13642,6 @@ date,country,confirmed,deaths,recovered,confirmed_new,deaths_new,recovered_new
 2020-04-05,united-arab-emirates,1799,10,144.0,294,0,19.0
 2020-04-05,united-kingdom,48436,4943,229.0,5959,623,14.0
 2020-04-05,uruguay,400,5,93.0,0,0,0.0
-2020-04-05,us,337072,9619,17448.0,28222,1212,2796.0
 2020-04-05,uzbekistan,342,2,30.0,76,0,5.0
 2020-04-05,venezuela,159,7,52.0,4,0,0.0
 2020-04-05,vietnam,241,0,90.0,1,0,0.0
