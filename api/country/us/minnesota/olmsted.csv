@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,minnesota,44.00374114,-92.40209944,84027109,US,USA,840,27109.0,olmsted,"Olmsted, Minnesota, US",76,10,1,1
 2020-04-04,us,minnesota,44.00374114,-92.40209944,84027109,US,USA,840,27109.0,olmsted,"Olmsted, Minnesota, US",88,12,2,1
 2020-04-05,us,minnesota,44.00374114,-92.40209944,84027109,US,USA,840,27109.0,olmsted,"Olmsted, Minnesota, US",95,7,3,1
+2020-04-06,us,minnesota,44.00374114,-92.40209944,84027109,US,USA,840,27109.0,olmsted,"Olmsted, Minnesota, US",96,1,2,-1

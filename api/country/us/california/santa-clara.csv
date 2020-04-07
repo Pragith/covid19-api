@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,california,37.23104908,-121.6970462,84006085,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",1019,0,36,0
 2020-04-04,us,california,37.23104908,-121.6970462,84006085,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",1148,129,39,3
 2020-04-05,us,california,37.23104908,-121.6970462,84006085,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",1207,59,39,0
+2020-04-06,us,california,37.23104908,-121.6970462,84006085,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",1207,0,39,0

@@ -74,3 +74,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-03,france,french-guiana,3.9339,-53.1258,57,6,0,0,22.0,7.0
 2020-04-04,france,french-guiana,3.9339,-53.1258,61,4,0,0,22.0,0.0
 2020-04-05,france,french-guiana,3.9339,-53.1258,61,0,0,0,22.0,0.0
+2020-04-06,france,french-guiana,3.9339,-53.1258,72,11,0,0,34.0,12.0

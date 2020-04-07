@@ -74,3 +74,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-03,switzerland,,46.8182,8.2275,19606,591,4846.0,779,55,833.0
 2020-04-04,switzerland,,46.8182,8.2275,20505,666,6415.0,899,75,1569.0
 2020-04-05,switzerland,,46.8182,8.2275,21100,715,6415.0,595,49,0.0
+2020-04-06,switzerland,,46.8182,8.2275,21657,765,8056.0,557,50,1641.0

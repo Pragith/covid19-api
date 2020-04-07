@@ -74,3 +74,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-03,netherlands,aruba,12.5186,-70.0358,62,2,0,0,1.0,0.0
 2020-04-04,netherlands,aruba,12.5186,-70.0358,64,2,0,0,1.0,0.0
 2020-04-05,netherlands,aruba,12.5186,-70.0358,64,0,0,0,1.0,0.0
+2020-04-06,netherlands,aruba,12.5186,-70.0358,71,7,0,0,2.0,1.0

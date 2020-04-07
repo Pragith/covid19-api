@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,california,35.38822029,-120.4039028,84006079,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",93,4,0,0
 2020-04-04,us,california,35.38822029,-120.4039028,84006079,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",93,0,0,0
 2020-04-05,us,california,35.38822029,-120.4039028,84006079,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",95,2,1,1
+2020-04-06,us,california,35.38822029,-120.4039028,84006079,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",95,0,1,0

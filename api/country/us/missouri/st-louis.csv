@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,missouri,38.63770039999999,-90.4458375,84029189,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",712,0,4,0
 2020-04-04,us,missouri,38.63770039999999,-90.4458375,84029189,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",864,152,7,3
 2020-04-05,us,missouri,38.63770039999999,-90.4458375,84029189,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",864,0,11,4
+2020-04-06,us,missouri,38.63770039999999,-90.4458375,84029189,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",1033,169,13,2

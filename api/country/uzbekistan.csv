@@ -74,3 +74,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-03,uzbekistan,,41.3775,64.5853,227,2,25.0,22,0,0.0
 2020-04-04,uzbekistan,,41.3775,64.5853,266,2,25.0,39,0,0.0
 2020-04-05,uzbekistan,,41.3775,64.5853,342,2,30.0,76,0,5.0
+2020-04-06,uzbekistan,,41.3775,64.5853,457,2,30.0,115,0,0.0

@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",148,18,0,0
 2020-04-04,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",171,23,1,1
 2020-04-05,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",189,18,2,1
+2020-04-06,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",211,22,2,0

@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",16,4,0,0
 2020-04-04,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",16,0,0,0
 2020-04-05,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",17,1,0,0
+2020-04-06,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",17,0,1,1

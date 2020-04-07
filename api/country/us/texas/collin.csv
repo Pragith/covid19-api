@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,texas,33.18820114,-96.57264368,84048085,US,USA,840,48085.0,collin,"Collin, Texas, US",227,20,1,0
 2020-04-04,us,texas,33.18820114,-96.57264368,84048085,US,USA,840,48085.0,collin,"Collin, Texas, US",256,29,3,2
 2020-04-05,us,texas,33.18820114,-96.57264368,84048085,US,USA,840,48085.0,collin,"Collin, Texas, US",287,31,3,0
+2020-04-06,us,texas,33.18820114,-96.57264368,84048085,US,USA,840,48085.0,collin,"Collin, Texas, US",306,19,4,1

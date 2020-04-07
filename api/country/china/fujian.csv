@@ -74,3 +74,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-03,china,fujian,26.0789,117.9874,349,4,1,0,300.0,1.0
 2020-04-04,china,fujian,26.0789,117.9874,350,1,1,0,301.0,1.0
 2020-04-05,china,fujian,26.0789,117.9874,350,0,1,0,303.0,2.0
+2020-04-06,china,fujian,26.0789,117.9874,350,0,1,0,305.0,2.0

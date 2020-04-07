@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,california,40.00355989,-120.8395236,84006063,US,USA,840,6063.0,plumas,"Plumas, California, US",1,0,0,0
 2020-04-04,us,california,40.00355989,-120.8395236,84006063,US,USA,840,6063.0,plumas,"Plumas, California, US",2,1,0,0
 2020-04-05,us,california,40.00355989,-120.8395236,84006063,US,USA,840,6063.0,plumas,"Plumas, California, US",3,1,0,0
+2020-04-06,us,california,40.00355989,-120.8395236,84006063,US,USA,840,6063.0,plumas,"Plumas, California, US",3,0,0,0

@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,texas,35.40133773,-101.893964,84048375,US,USA,840,48375.0,potter,"Potter, Texas, US",21,5,0,0
 2020-04-04,us,texas,35.40133773,-101.893964,84048375,US,USA,840,48375.0,potter,"Potter, Texas, US",24,3,0,0
 2020-04-05,us,texas,35.40133773,-101.893964,84048375,US,USA,840,48375.0,potter,"Potter, Texas, US",40,16,1,1
+2020-04-06,us,texas,35.40133773,-101.893964,84048375,US,USA,840,48375.0,potter,"Potter, Texas, US",40,0,1,0

@@ -824,3 +824,14 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-05,united-kingdom,isle-of-man,54.2361,-4.5481,127,1,0.0,1,0,0.0
 2020-04-05,united-kingdom,montserrat,16.7425,-62.1874,6,0,0.0,0,0,0.0
 2020-04-05,united-kingdom,turks-and-caicos-islands,21.69400000000001,-71.7979,5,1,0.0,0,1,0.0
+2020-04-06,united-kingdom,,55.3781,-3.4360000000000004,51608,5373,135.0,3802,439,0.0
+2020-04-06,united-kingdom,anguilla,18.2206,-63.0686,3,0,0.0,0,0,0.0
+2020-04-06,united-kingdom,bermuda,32.3078,-64.7505,39,2,17.0,2,2,3.0
+2020-04-06,united-kingdom,british-virgin-islands,18.4207,-64.64,3,0,0.0,0,0,0.0
+2020-04-06,united-kingdom,cayman-islands,19.3133,-81.2546,39,1,1.0,4,0,0.0
+2020-04-06,united-kingdom,channel-islands,49.3723,-2.3644,323,7,27.0,14,1,0.0
+2020-04-06,united-kingdom,falkland-islands-islas-malvinas,-51.7963,-59.5236,2,0,0.0,0,0,0.0
+2020-04-06,united-kingdom,gibraltar,36.1408,-5.3536,109,0,52.0,6,0,0.0
+2020-04-06,united-kingdom,isle-of-man,54.2361,-4.5481,139,1,55.0,12,0,55.0
+2020-04-06,united-kingdom,montserrat,16.7425,-62.1874,6,0,0.0,0,0,0.0
+2020-04-06,united-kingdom,turks-and-caicos-islands,21.69400000000001,-71.7979,8,1,0.0,3,0,0.0

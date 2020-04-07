@@ -74,3 +74,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-03,china,macau,22.1667,113.55,43,2,0,0,10.0,0.0
 2020-04-04,china,macau,22.1667,113.55,43,0,0,0,10.0,0.0
 2020-04-05,china,macau,22.1667,113.55,44,1,0,0,10.0,0.0
+2020-04-06,china,macau,22.1667,113.55,44,0,0,0,10.0,0.0

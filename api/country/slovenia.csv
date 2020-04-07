@@ -74,3 +74,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-03,slovenia,,46.1512,14.9955,934,20,70.0,37,3,0.0
 2020-04-04,slovenia,,46.1512,14.9955,977,22,79.0,43,2,9.0
 2020-04-05,slovenia,,46.1512,14.9955,997,28,79.0,20,6,0.0
+2020-04-06,slovenia,,46.1512,14.9955,1021,30,102.0,24,2,23.0

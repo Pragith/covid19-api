@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,delaware,39.08646628,-75.56884914,84010001,US,USA,840,10001.0,kent,"Kent, Delaware, US",54,11,2,0
 2020-04-04,us,delaware,39.08646628,-75.56884914,84010001,US,USA,840,10001.0,kent,"Kent, Delaware, US",68,14,2,0
 2020-04-05,us,delaware,39.08646628,-75.56884914,84010001,US,USA,840,10001.0,kent,"Kent, Delaware, US",86,18,2,0
+2020-04-06,us,delaware,39.08646628,-75.56884914,84010001,US,USA,840,10001.0,kent,"Kent, Delaware, US",128,42,3,1

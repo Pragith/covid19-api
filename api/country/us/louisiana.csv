@@ -74,6 +74,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,0.0,0.0,84080022,US,USA,840,80022.0,out-of-la,"Out of LA, Louisiana, US",0,0,0,0
 2020-04-04,us,louisiana,0.0,0.0,84080022,US,USA,840,80022.0,out-of-la,"Out of LA, Louisiana, US",0,0,0,0
 2020-04-05,us,louisiana,0.0,0.0,84080022,US,USA,840,80022.0,out-of-la,"Out of LA, Louisiana, US",0,0,0,0
+2020-04-06,us,louisiana,0.0,0.0,84080022,US,USA,840,80022.0,out-of-la,"Out of LA, Louisiana, US",0,0,0,0
 2020-01-22,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",0,0,0,0
@@ -149,6 +150,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",40,2,4,3
 2020-04-04,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",31,-9,0,-4
 2020-04-05,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",31,0,4,4
+2020-04-06,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",48,17,3,-1
 2020-01-22,us,louisiana,29.37343766,-90.82626855,84022109,US,USA,840,22109.0,terrebonne,"Terrebonne, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.37343766,-90.82626855,84022109,US,USA,840,22109.0,terrebonne,"Terrebonne, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.37343766,-90.82626855,84022109,US,USA,840,22109.0,terrebonne,"Terrebonne, Louisiana, US",0,0,0,0
@@ -224,6 +226,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.37343766,-90.82626855,84022109,US,USA,840,22109.0,terrebonne,"Terrebonne, Louisiana, US",102,5,2,1
 2020-04-04,us,louisiana,29.37343766,-90.82626855,84022109,US,USA,840,22109.0,terrebonne,"Terrebonne, Louisiana, US",143,41,5,3
 2020-04-05,us,louisiana,29.37343766,-90.82626855,84022109,US,USA,840,22109.0,terrebonne,"Terrebonne, Louisiana, US",148,5,8,3
+2020-04-06,us,louisiana,29.37343766,-90.82626855,84022109,US,USA,840,22109.0,terrebonne,"Terrebonne, Louisiana, US",182,34,7,-1
 2020-01-22,us,louisiana,29.42245447,-89.60322085,84022075,US,USA,840,22075.0,plaquemines,"Plaquemines, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.42245447,-89.60322085,84022075,US,USA,840,22075.0,plaquemines,"Plaquemines, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.42245447,-89.60322085,84022075,US,USA,840,22075.0,plaquemines,"Plaquemines, Louisiana, US",0,0,0,0
@@ -299,6 +302,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.42245447,-89.60322085,84022075,US,USA,840,22075.0,plaquemines,"Plaquemines, Louisiana, US",75,7,4,1
 2020-04-04,us,louisiana,29.42245447,-89.60322085,84022075,US,USA,840,22075.0,plaquemines,"Plaquemines, Louisiana, US",86,11,4,0
 2020-04-05,us,louisiana,29.42245447,-89.60322085,84022075,US,USA,840,22075.0,plaquemines,"Plaquemines, Louisiana, US",92,6,6,2
+2020-04-06,us,louisiana,29.42245447,-89.60322085,84022075,US,USA,840,22075.0,plaquemines,"Plaquemines, Louisiana, US",100,8,6,0
 2020-01-22,us,louisiana,29.52470226,-90.40976986,84022057,US,USA,840,22057.0,lafourche,"Lafourche, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.52470226,-90.40976986,84022057,US,USA,840,22057.0,lafourche,"Lafourche, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.52470226,-90.40976986,84022057,US,USA,840,22057.0,lafourche,"Lafourche, Louisiana, US",0,0,0,0
@@ -374,6 +378,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.52470226,-90.40976986,84022057,US,USA,840,22057.0,lafourche,"Lafourche, Louisiana, US",185,27,3,-1
 2020-04-04,us,louisiana,29.52470226,-90.40976986,84022057,US,USA,840,22057.0,lafourche,"Lafourche, Louisiana, US",217,32,3,0
 2020-04-05,us,louisiana,29.52470226,-90.40976986,84022057,US,USA,840,22057.0,lafourche,"Lafourche, Louisiana, US",228,11,4,1
+2020-04-06,us,louisiana,29.52470226,-90.40976986,84022057,US,USA,840,22057.0,lafourche,"Lafourche, Louisiana, US",305,77,7,3
 2020-01-22,us,louisiana,29.69262097,-91.44702164,84022101,US,USA,840,22101.0,st-mary,"St. Mary, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.69262097,-91.44702164,84022101,US,USA,840,22101.0,st-mary,"St. Mary, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.69262097,-91.44702164,84022101,US,USA,840,22101.0,st-mary,"St. Mary, Louisiana, US",0,0,0,0
@@ -449,6 +454,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.69262097,-91.44702164,84022101,US,USA,840,22101.0,st-mary,"St. Mary, Louisiana, US",47,5,0,0
 2020-04-04,us,louisiana,29.69262097,-91.44702164,84022101,US,USA,840,22101.0,st-mary,"St. Mary, Louisiana, US",65,18,0,0
 2020-04-05,us,louisiana,29.69262097,-91.44702164,84022101,US,USA,840,22101.0,st-mary,"St. Mary, Louisiana, US",67,2,0,0
+2020-04-06,us,louisiana,29.69262097,-91.44702164,84022101,US,USA,840,22101.0,st-mary,"St. Mary, Louisiana, US",73,6,0,0
 2020-01-22,us,louisiana,29.74075478,-90.11115756,84022051,US,USA,840,22051.0,jefferson,"Jefferson, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.74075478,-90.11115756,84022051,US,USA,840,22051.0,jefferson,"Jefferson, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.74075478,-90.11115756,84022051,US,USA,840,22051.0,jefferson,"Jefferson, Louisiana, US",0,0,0,0
@@ -524,6 +530,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.74075478,-90.11115756,84022051,US,USA,840,22051.0,jefferson,"Jefferson, Louisiana, US",2495,317,85,12
 2020-04-04,us,louisiana,29.74075478,-90.11115756,84022051,US,USA,840,22051.0,jefferson,"Jefferson, Louisiana, US",3008,513,95,10
 2020-04-05,us,louisiana,29.74075478,-90.11115756,84022051,US,USA,840,22051.0,jefferson,"Jefferson, Louisiana, US",3088,80,113,18
+2020-04-06,us,louisiana,29.74075478,-90.11115756,84022051,US,USA,840,22051.0,jefferson,"Jefferson, Louisiana, US",3530,442,121,8
 2020-01-22,us,louisiana,29.83517605,-92.30292538,84022113,US,USA,840,22113.0,vermilion,"Vermilion, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.83517605,-92.30292538,84022113,US,USA,840,22113.0,vermilion,"Vermilion, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.83517605,-92.30292538,84022113,US,USA,840,22113.0,vermilion,"Vermilion, Louisiana, US",0,0,0,0
@@ -599,6 +606,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.83517605,-92.30292538,84022113,US,USA,840,22113.0,vermilion,"Vermilion, Louisiana, US",18,2,1,0
 2020-04-04,us,louisiana,29.83517605,-92.30292538,84022113,US,USA,840,22113.0,vermilion,"Vermilion, Louisiana, US",15,-3,1,0
 2020-04-05,us,louisiana,29.83517605,-92.30292538,84022113,US,USA,840,22113.0,vermilion,"Vermilion, Louisiana, US",16,1,1,0
+2020-04-06,us,louisiana,29.83517605,-92.30292538,84022113,US,USA,840,22113.0,vermilion,"Vermilion, Louisiana, US",17,1,1,0
 2020-01-22,us,louisiana,29.86803617,-91.75871777,84022045,US,USA,840,22045.0,iberia,"Iberia, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.86803617,-91.75871777,84022045,US,USA,840,22045.0,iberia,"Iberia, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.86803617,-91.75871777,84022045,US,USA,840,22045.0,iberia,"Iberia, Louisiana, US",0,0,0,0
@@ -674,6 +682,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.86803617,-91.75871777,84022045,US,USA,840,22045.0,iberia,"Iberia, Louisiana, US",78,11,3,2
 2020-04-04,us,louisiana,29.86803617,-91.75871777,84022045,US,USA,840,22045.0,iberia,"Iberia, Louisiana, US",68,-10,3,0
 2020-04-05,us,louisiana,29.86803617,-91.75871777,84022045,US,USA,840,22045.0,iberia,"Iberia, Louisiana, US",69,1,3,0
+2020-04-06,us,louisiana,29.86803617,-91.75871777,84022045,US,USA,840,22045.0,iberia,"Iberia, Louisiana, US",83,14,5,2
 2020-01-22,us,louisiana,29.87592238,-93.19310676,84022023,US,USA,840,22023.0,cameron,"Cameron, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.87592238,-93.19310676,84022023,US,USA,840,22023.0,cameron,"Cameron, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.87592238,-93.19310676,84022023,US,USA,840,22023.0,cameron,"Cameron, Louisiana, US",0,0,0,0
@@ -749,6 +758,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.87592238,-93.19310676,84022023,US,USA,840,22023.0,cameron,"Cameron, Louisiana, US",0,0,0,0
 2020-04-04,us,louisiana,29.87592238,-93.19310676,84022023,US,USA,840,22023.0,cameron,"Cameron, Louisiana, US",0,0,0,0
 2020-04-05,us,louisiana,29.87592238,-93.19310676,84022023,US,USA,840,22023.0,cameron,"Cameron, Louisiana, US",0,0,0,0
+2020-04-06,us,louisiana,29.87592238,-93.19310676,84022023,US,USA,840,22023.0,cameron,"Cameron, Louisiana, US",0,0,0,0
 2020-01-22,us,louisiana,29.87761636,-89.51887093,84022087,US,USA,840,22087.0,st-bernard,"St. Bernard, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.87761636,-89.51887093,84022087,US,USA,840,22087.0,st-bernard,"St. Bernard, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.87761636,-89.51887093,84022087,US,USA,840,22087.0,st-bernard,"St. Bernard, Louisiana, US",0,0,0,0
@@ -824,6 +834,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.87761636,-89.51887093,84022087,US,USA,840,22087.0,st-bernard,"St. Bernard, Louisiana, US",196,15,7,2
 2020-04-04,us,louisiana,29.87761636,-89.51887093,84022087,US,USA,840,22087.0,st-bernard,"St. Bernard, Louisiana, US",239,43,8,1
 2020-04-05,us,louisiana,29.87761636,-89.51887093,84022087,US,USA,840,22087.0,st-bernard,"St. Bernard, Louisiana, US",242,3,8,0
+2020-04-06,us,louisiana,29.87761636,-89.51887093,84022087,US,USA,840,22087.0,st-bernard,"St. Bernard, Louisiana, US",267,25,8,0
 2020-01-22,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",0,0,0,0
@@ -899,6 +910,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",33,2,0,0
 2020-04-04,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",56,23,0,0
 2020-04-05,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",59,3,0,0
+2020-04-06,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",77,18,0,0
 2020-01-22,us,louisiana,29.90709658,-90.35555967,84022089,US,USA,840,22089.0,st-charles,"St. Charles, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,29.90709658,-90.35555967,84022089,US,USA,840,22089.0,st-charles,"St. Charles, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,29.90709658,-90.35555967,84022089,US,USA,840,22089.0,st-charles,"St. Charles, Louisiana, US",0,0,0,0
@@ -974,6 +986,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,29.90709658,-90.35555967,84022089,US,USA,840,22089.0,st-charles,"St. Charles, Louisiana, US",210,30,11,3
 2020-04-04,us,louisiana,29.90709658,-90.35555967,84022089,US,USA,840,22089.0,st-charles,"St. Charles, Louisiana, US",252,42,12,1
 2020-04-05,us,louisiana,29.90709658,-90.35555967,84022089,US,USA,840,22089.0,st-charles,"St. Charles, Louisiana, US",260,8,13,1
+2020-04-06,us,louisiana,29.90709658,-90.35555967,84022089,US,USA,840,22089.0,st-charles,"St. Charles, Louisiana, US",285,25,15,2
 2020-01-22,us,louisiana,30.02531716,-90.80212061,84022093,US,USA,840,22093.0,st-james,"St. James, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.02531716,-90.80212061,84022093,US,USA,840,22093.0,st-james,"St. James, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.02531716,-90.80212061,84022093,US,USA,840,22093.0,st-james,"St. James, Louisiana, US",0,0,0,0
@@ -1049,6 +1062,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.02531716,-90.80212061,84022093,US,USA,840,22093.0,st-james,"St. James, Louisiana, US",116,6,4,0
 2020-04-04,us,louisiana,30.02531716,-90.80212061,84022093,US,USA,840,22093.0,st-james,"St. James, Louisiana, US",150,34,6,2
 2020-04-05,us,louisiana,30.02531716,-90.80212061,84022093,US,USA,840,22093.0,st-james,"St. James, Louisiana, US",155,5,6,0
+2020-04-06,us,louisiana,30.02531716,-90.80212061,84022093,US,USA,840,22093.0,st-james,"St. James, Louisiana, US",167,12,6,0
 2020-01-22,us,louisiana,30.06971951,-89.92660315,84022071,US,USA,840,22071.0,orleans,"Orleans, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.06971951,-89.92660315,84022071,US,USA,840,22071.0,orleans,"Orleans, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.06971951,-89.92660315,84022071,US,USA,840,22071.0,orleans,"Orleans, Louisiana, US",0,0,0,0
@@ -1124,6 +1138,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.06971951,-89.92660315,84022071,US,USA,840,22071.0,orleans,"Orleans, Louisiana, US",3476,328,148,23
 2020-04-04,us,louisiana,30.06971951,-89.92660315,84022071,US,USA,840,22071.0,orleans,"Orleans, Louisiana, US",3966,490,153,5
 2020-04-05,us,louisiana,30.06971951,-89.92660315,84022071,US,USA,840,22071.0,orleans,"Orleans, Louisiana, US",4066,100,161,8
+2020-04-06,us,louisiana,30.06971951,-89.92660315,84022071,US,USA,840,22071.0,orleans,"Orleans, Louisiana, US",4565,499,171,10
 2020-01-22,us,louisiana,30.12597499,-90.4753503,84022095,US,USA,840,22095.0,st-john-the-baptist,"St. John the Baptist, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.12597499,-90.4753503,84022095,US,USA,840,22095.0,st-john-the-baptist,"St. John the Baptist, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.12597499,-90.4753503,84022095,US,USA,840,22095.0,st-john-the-baptist,"St. John the Baptist, Louisiana, US",0,0,0,0
@@ -1199,6 +1214,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.12597499,-90.4753503,84022095,US,USA,840,22095.0,st-john-the-baptist,"St. John the Baptist, Louisiana, US",290,16,17,3
 2020-04-04,us,louisiana,30.12597499,-90.4753503,84022095,US,USA,840,22095.0,st-john-the-baptist,"St. John the Baptist, Louisiana, US",338,48,23,6
 2020-04-05,us,louisiana,30.12597499,-90.4753503,84022095,US,USA,840,22095.0,st-john-the-baptist,"St. John the Baptist, Louisiana, US",345,7,24,1
+2020-04-06,us,louisiana,30.12597499,-90.4753503,84022095,US,USA,840,22095.0,st-john-the-baptist,"St. John the Baptist, Louisiana, US",366,21,24,0
 2020-01-22,us,louisiana,30.13112107,-91.61403569,84022099,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.13112107,-91.61403569,84022099,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.13112107,-91.61403569,84022099,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",0,0,0,0
@@ -1274,6 +1290,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.13112107,-91.61403569,84022099,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",69,11,3,0
 2020-04-04,us,louisiana,30.13112107,-91.61403569,84022099,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",64,-5,5,2
 2020-04-05,us,louisiana,30.13112107,-91.61403569,84022099,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",77,13,4,-1
+2020-04-06,us,louisiana,30.13112107,-91.61403569,84022099,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",90,13,4,0
 2020-01-22,us,louisiana,30.20406249,-90.91328409999998,84022005,US,USA,840,22005.0,ascension,"Ascension, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.20406249,-90.91328409999998,84022005,US,USA,840,22005.0,ascension,"Ascension, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.20406249,-90.91328409999998,84022005,US,USA,840,22005.0,ascension,"Ascension, Louisiana, US",0,0,0,0
@@ -1349,6 +1366,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.20406249,-90.91328409999998,84022005,US,USA,840,22005.0,ascension,"Ascension, Louisiana, US",222,21,7,0
 2020-04-04,us,louisiana,30.20406249,-90.91328409999998,84022005,US,USA,840,22005.0,ascension,"Ascension, Louisiana, US",284,62,7,0
 2020-04-05,us,louisiana,30.20406249,-90.91328409999998,84022005,US,USA,840,22005.0,ascension,"Ascension, Louisiana, US",286,2,11,4
+2020-04-06,us,louisiana,30.20406249,-90.91328409999998,84022005,US,USA,840,22005.0,ascension,"Ascension, Louisiana, US",347,61,11,0
 2020-01-22,us,louisiana,30.2049055,-92.06959876,84022055,US,USA,840,22055.0,lafayette,"Lafayette, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.2049055,-92.06959876,84022055,US,USA,840,22055.0,lafayette,"Lafayette, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.2049055,-92.06959876,84022055,US,USA,840,22055.0,lafayette,"Lafayette, Louisiana, US",0,0,0,0
@@ -1424,6 +1442,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.2049055,-92.06959876,84022055,US,USA,840,22055.0,lafayette,"Lafayette, Louisiana, US",276,29,2,0
 2020-04-04,us,louisiana,30.2049055,-92.06959876,84022055,US,USA,840,22055.0,lafayette,"Lafayette, Louisiana, US",229,-47,4,2
 2020-04-05,us,louisiana,30.2049055,-92.06959876,84022055,US,USA,840,22055.0,lafayette,"Lafayette, Louisiana, US",247,18,5,1
+2020-04-06,us,louisiana,30.2049055,-92.06959876,84022055,US,USA,840,22055.0,lafayette,"Lafayette, Louisiana, US",260,13,6,1
 2020-01-22,us,louisiana,30.22931235,-93.35400434,84022019,US,USA,840,22019.0,calcasieu,"Calcasieu, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.22931235,-93.35400434,84022019,US,USA,840,22019.0,calcasieu,"Calcasieu, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.22931235,-93.35400434,84022019,US,USA,840,22019.0,calcasieu,"Calcasieu, Louisiana, US",0,0,0,0
@@ -1499,6 +1518,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.22931235,-93.35400434,84022019,US,USA,840,22019.0,calcasieu,"Calcasieu, Louisiana, US",119,11,1,0
 2020-04-04,us,louisiana,30.22931235,-93.35400434,84022019,US,USA,840,22019.0,calcasieu,"Calcasieu, Louisiana, US",135,16,3,2
 2020-04-05,us,louisiana,30.22931235,-93.35400434,84022019,US,USA,840,22019.0,calcasieu,"Calcasieu, Louisiana, US",139,4,3,0
+2020-04-06,us,louisiana,30.22931235,-93.35400434,84022019,US,USA,840,22019.0,calcasieu,"Calcasieu, Louisiana, US",159,20,3,0
 2020-01-22,us,louisiana,30.25734305,-91.3499598,84022047,US,USA,840,22047.0,iberville,"Iberville, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.25734305,-91.3499598,84022047,US,USA,840,22047.0,iberville,"Iberville, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.25734305,-91.3499598,84022047,US,USA,840,22047.0,iberville,"Iberville, Louisiana, US",0,0,0,0
@@ -1574,6 +1594,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.25734305,-91.3499598,84022047,US,USA,840,22047.0,iberville,"Iberville, Louisiana, US",81,12,5,1
 2020-04-04,us,louisiana,30.25734305,-91.3499598,84022047,US,USA,840,22047.0,iberville,"Iberville, Louisiana, US",119,38,5,0
 2020-04-05,us,louisiana,30.25734305,-91.3499598,84022047,US,USA,840,22047.0,iberville,"Iberville, Louisiana, US",122,3,5,0
+2020-04-06,us,louisiana,30.25734305,-91.3499598,84022047,US,USA,840,22047.0,iberville,"Iberville, Louisiana, US",136,14,6,1
 2020-01-22,us,louisiana,30.26896765,-92.81210004,84022053,US,USA,840,22053.0,jefferson-davis,"Jefferson Davis, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.26896765,-92.81210004,84022053,US,USA,840,22053.0,jefferson-davis,"Jefferson Davis, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.26896765,-92.81210004,84022053,US,USA,840,22053.0,jefferson-davis,"Jefferson Davis, Louisiana, US",0,0,0,0
@@ -1649,81 +1670,83 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.26896765,-92.81210004,84022053,US,USA,840,22053.0,jefferson-davis,"Jefferson Davis, Louisiana, US",14,1,0,0
 2020-04-04,us,louisiana,30.26896765,-92.81210004,84022053,US,USA,840,22053.0,jefferson-davis,"Jefferson Davis, Louisiana, US",9,-5,0,0
 2020-04-05,us,louisiana,30.26896765,-92.81210004,84022053,US,USA,840,22053.0,jefferson-davis,"Jefferson Davis, Louisiana, US",13,4,0,0
-2020-01-22,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-01-23,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-01-24,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-01-25,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-01-26,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-01-27,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-01-28,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-01-29,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-01-30,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-01-31,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-01,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-02,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-03,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-04,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-05,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-06,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-07,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-08,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-09,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-10,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-11,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-12,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-13,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-14,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-15,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-16,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-17,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-18,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-19,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-20,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-21,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-22,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-23,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-24,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-25,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-26,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-27,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-28,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-02-29,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-01,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-02,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-03,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-04,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-05,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-06,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-07,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-08,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-09,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-10,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-11,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-12,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-13,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-14,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-15,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-16,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-17,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-18,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-19,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-20,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-21,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-22,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
-2020-03-23,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",1,1,0,0
-2020-03-24,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",2,1,0,0
-2020-03-25,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",2,0,0,0
-2020-03-26,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",3,1,0,0
-2020-03-27,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",8,5,1,1
-2020-03-28,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",9,1,1,0
-2020-03-29,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",9,0,1,0
-2020-03-30,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",11,2,1,0
-2020-03-31,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",39,28,1,0
-2020-04-01,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",47,8,1,0
-2020-04-02,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",61,14,1,0
-2020-04-03,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",72,11,1,0
-2020-04-04,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",65,-7,2,1
-2020-04-05,us,louisiana,30.295064899999996,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",75,10,2,0
+2020-04-06,us,louisiana,30.26896765,-92.81210004,84022053,US,USA,840,22053.0,jefferson-davis,"Jefferson Davis, Louisiana, US",21,8,1,1
+2020-01-22,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-01-23,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-01-24,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-01-25,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-01-26,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-01-27,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-01-28,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-01-29,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-01-30,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-01-31,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-01,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-02,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-03,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-04,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-05,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-06,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-07,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-08,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-09,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-10,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-11,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-12,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-13,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-14,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-15,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-16,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-17,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-18,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-19,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-20,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-21,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-22,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-23,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-24,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-25,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-26,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-27,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-28,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-02-29,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-01,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-02,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-03,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-04,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-05,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-06,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-07,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-08,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-09,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-10,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-11,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-12,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-13,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-14,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-15,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-16,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-17,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-18,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-19,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-20,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-21,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-22,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",0,0,0,0
+2020-03-23,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",1,1,0,0
+2020-03-24,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",2,1,0,0
+2020-03-25,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",2,0,0,0
+2020-03-26,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",3,1,0,0
+2020-03-27,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",8,5,1,1
+2020-03-28,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",9,1,1,0
+2020-03-29,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",9,0,1,0
+2020-03-30,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",11,2,1,0
+2020-03-31,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",39,28,1,0
+2020-04-01,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",47,8,1,0
+2020-04-02,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",61,14,1,0
+2020-04-03,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",72,11,1,0
+2020-04-04,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",65,-7,2,1
+2020-04-05,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",75,10,2,0
+2020-04-06,us,louisiana,30.2950649,-92.41419698,84022001,US,USA,840,22001.0,acadia,"Acadia, Louisiana, US",79,4,2,0
 2020-01-22,us,louisiana,30.40942847,-89.95642711,84022103,US,USA,840,22103.0,st-tammany,"St. Tammany, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.40942847,-89.95642711,84022103,US,USA,840,22103.0,st-tammany,"St. Tammany, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.40942847,-89.95642711,84022103,US,USA,840,22103.0,st-tammany,"St. Tammany, Louisiana, US",0,0,0,0
@@ -1799,6 +1822,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.40942847,-89.95642711,84022103,US,USA,840,22103.0,st-tammany,"St. Tammany, Louisiana, US",435,36,10,1
 2020-04-04,us,louisiana,30.40942847,-89.95642711,84022103,US,USA,840,22103.0,st-tammany,"St. Tammany, Louisiana, US",532,97,14,4
 2020-04-05,us,louisiana,30.40942847,-89.95642711,84022103,US,USA,840,22103.0,st-tammany,"St. Tammany, Louisiana, US",560,28,14,0
+2020-04-06,us,louisiana,30.40942847,-89.95642711,84022103,US,USA,840,22103.0,st-tammany,"St. Tammany, Louisiana, US",637,77,17,3
 2020-01-22,us,louisiana,30.44143993,-90.73061664,84022063,US,USA,840,22063.0,livingston,"Livingston, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.44143993,-90.73061664,84022063,US,USA,840,22063.0,livingston,"Livingston, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.44143993,-90.73061664,84022063,US,USA,840,22063.0,livingston,"Livingston, Louisiana, US",0,0,0,0
@@ -1874,6 +1898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.44143993,-90.73061664,84022063,US,USA,840,22063.0,livingston,"Livingston, Louisiana, US",40,7,1,1
 2020-04-04,us,louisiana,30.44143993,-90.73061664,84022063,US,USA,840,22063.0,livingston,"Livingston, Louisiana, US",64,24,1,0
 2020-04-05,us,louisiana,30.44143993,-90.73061664,84022063,US,USA,840,22063.0,livingston,"Livingston, Louisiana, US",67,3,1,0
+2020-04-06,us,louisiana,30.44143993,-90.73061664,84022063,US,USA,840,22063.0,livingston,"Livingston, Louisiana, US",79,12,1,0
 2020-01-22,us,louisiana,30.46058217,-91.30989571,84022121,US,USA,840,22121.0,west-baton-rouge,"West Baton Rouge, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.46058217,-91.30989571,84022121,US,USA,840,22121.0,west-baton-rouge,"West Baton Rouge, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.46058217,-91.30989571,84022121,US,USA,840,22121.0,west-baton-rouge,"West Baton Rouge, Louisiana, US",0,0,0,0
@@ -1949,6 +1974,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.46058217,-91.30989571,84022121,US,USA,840,22121.0,west-baton-rouge,"West Baton Rouge, Louisiana, US",23,4,3,2
 2020-04-04,us,louisiana,30.46058217,-91.30989571,84022121,US,USA,840,22121.0,west-baton-rouge,"West Baton Rouge, Louisiana, US",40,17,4,1
 2020-04-05,us,louisiana,30.46058217,-91.30989571,84022121,US,USA,840,22121.0,west-baton-rouge,"West Baton Rouge, Louisiana, US",40,0,7,3
+2020-04-06,us,louisiana,30.46058217,-91.30989571,84022121,US,USA,840,22121.0,west-baton-rouge,"West Baton Rouge, Louisiana, US",45,5,7,0
 2020-01-22,us,louisiana,30.53842039,-91.09777565,84022033,US,USA,840,22033.0,east-baton-rouge,"East Baton Rouge, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.53842039,-91.09777565,84022033,US,USA,840,22033.0,east-baton-rouge,"East Baton Rouge, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.53842039,-91.09777565,84022033,US,USA,840,22033.0,east-baton-rouge,"East Baton Rouge, Louisiana, US",0,0,0,0
@@ -2024,6 +2050,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.53842039,-91.09777565,84022033,US,USA,840,22033.0,east-baton-rouge,"East Baton Rouge, Louisiana, US",389,64,13,2
 2020-04-04,us,louisiana,30.53842039,-91.09777565,84022033,US,USA,840,22033.0,east-baton-rouge,"East Baton Rouge, Louisiana, US",621,232,14,1
 2020-04-05,us,louisiana,30.53842039,-91.09777565,84022033,US,USA,840,22033.0,east-baton-rouge,"East Baton Rouge, Louisiana, US",656,35,22,8
+2020-04-06,us,louisiana,30.53842039,-91.09777565,84022033,US,USA,840,22033.0,east-baton-rouge,"East Baton Rouge, Louisiana, US",816,160,25,3
 2020-01-22,us,louisiana,30.59724262,-92.00135806,84022097,US,USA,840,22097.0,st-landry,"St. Landry, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.59724262,-92.00135806,84022097,US,USA,840,22097.0,st-landry,"St. Landry, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.59724262,-92.00135806,84022097,US,USA,840,22097.0,st-landry,"St. Landry, Louisiana, US",0,0,0,0
@@ -2099,6 +2126,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.59724262,-92.00135806,84022097,US,USA,840,22097.0,st-landry,"St. Landry, Louisiana, US",68,12,2,1
 2020-04-04,us,louisiana,30.59724262,-92.00135806,84022097,US,USA,840,22097.0,st-landry,"St. Landry, Louisiana, US",45,-23,2,0
 2020-04-05,us,louisiana,30.59724262,-92.00135806,84022097,US,USA,840,22097.0,st-landry,"St. Landry, Louisiana, US",47,2,4,2
+2020-04-06,us,louisiana,30.59724262,-92.00135806,84022097,US,USA,840,22097.0,st-landry,"St. Landry, Louisiana, US",52,5,4,0
 2020-01-22,us,louisiana,30.62888673,-90.40664996,84022105,US,USA,840,22105.0,tangipahoa,"Tangipahoa, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.62888673,-90.40664996,84022105,US,USA,840,22105.0,tangipahoa,"Tangipahoa, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.62888673,-90.40664996,84022105,US,USA,840,22105.0,tangipahoa,"Tangipahoa, Louisiana, US",0,0,0,0
@@ -2174,6 +2202,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.62888673,-90.40664996,84022105,US,USA,840,22105.0,tangipahoa,"Tangipahoa, Louisiana, US",55,13,1,0
 2020-04-04,us,louisiana,30.62888673,-90.40664996,84022105,US,USA,840,22105.0,tangipahoa,"Tangipahoa, Louisiana, US",131,76,2,1
 2020-04-05,us,louisiana,30.62888673,-90.40664996,84022105,US,USA,840,22105.0,tangipahoa,"Tangipahoa, Louisiana, US",171,40,2,0
+2020-04-06,us,louisiana,30.62888673,-90.40664996,84022105,US,USA,840,22105.0,tangipahoa,"Tangipahoa, Louisiana, US",186,15,2,0
 2020-01-22,us,louisiana,30.64836518,-93.34173616,84022011,US,USA,840,22011.0,beauregard,"Beauregard, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.64836518,-93.34173616,84022011,US,USA,840,22011.0,beauregard,"Beauregard, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.64836518,-93.34173616,84022011,US,USA,840,22011.0,beauregard,"Beauregard, Louisiana, US",0,0,0,0
@@ -2249,6 +2278,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.64836518,-93.34173616,84022011,US,USA,840,22011.0,beauregard,"Beauregard, Louisiana, US",13,3,0,0
 2020-04-04,us,louisiana,30.64836518,-93.34173616,84022011,US,USA,840,22011.0,beauregard,"Beauregard, Louisiana, US",15,2,0,0
 2020-04-05,us,louisiana,30.64836518,-93.34173616,84022011,US,USA,840,22011.0,beauregard,"Beauregard, Louisiana, US",19,4,0,0
+2020-04-06,us,louisiana,30.64836518,-93.34173616,84022011,US,USA,840,22011.0,beauregard,"Beauregard, Louisiana, US",23,4,0,0
 2020-01-22,us,louisiana,30.65385745,-92.82442028,84022003,US,USA,840,22003.0,allen,"Allen, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.65385745,-92.82442028,84022003,US,USA,840,22003.0,allen,"Allen, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.65385745,-92.82442028,84022003,US,USA,840,22003.0,allen,"Allen, Louisiana, US",0,0,0,0
@@ -2324,6 +2354,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.65385745,-92.82442028,84022003,US,USA,840,22003.0,allen,"Allen, Louisiana, US",34,8,3,0
 2020-04-04,us,louisiana,30.65385745,-92.82442028,84022003,US,USA,840,22003.0,allen,"Allen, Louisiana, US",39,5,3,0
 2020-04-05,us,louisiana,30.65385745,-92.82442028,84022003,US,USA,840,22003.0,allen,"Allen, Louisiana, US",40,1,5,2
+2020-04-06,us,louisiana,30.65385745,-92.82442028,84022003,US,USA,840,22003.0,allen,"Allen, Louisiana, US",52,12,5,0
 2020-01-22,us,louisiana,30.71409502,-91.60209535,84022077,US,USA,840,22077.0,pointe-coupee,"Pointe Coupee, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.71409502,-91.60209535,84022077,US,USA,840,22077.0,pointe-coupee,"Pointe Coupee, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.71409502,-91.60209535,84022077,US,USA,840,22077.0,pointe-coupee,"Pointe Coupee, Louisiana, US",0,0,0,0
@@ -2399,6 +2430,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.71409502,-91.60209535,84022077,US,USA,840,22077.0,pointe-coupee,"Pointe Coupee, Louisiana, US",13,1,0,0
 2020-04-04,us,louisiana,30.71409502,-91.60209535,84022077,US,USA,840,22077.0,pointe-coupee,"Pointe Coupee, Louisiana, US",16,3,0,0
 2020-04-05,us,louisiana,30.71409502,-91.60209535,84022077,US,USA,840,22077.0,pointe-coupee,"Pointe Coupee, Louisiana, US",17,1,0,0
+2020-04-06,us,louisiana,30.71409502,-91.60209535,84022077,US,USA,840,22077.0,pointe-coupee,"Pointe Coupee, Louisiana, US",24,7,0,0
 2020-01-22,us,louisiana,30.72985248,-92.39915924,84022039,US,USA,840,22039.0,evangeline,"Evangeline, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.72985248,-92.39915924,84022039,US,USA,840,22039.0,evangeline,"Evangeline, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.72985248,-92.39915924,84022039,US,USA,840,22039.0,evangeline,"Evangeline, Louisiana, US",0,0,0,0
@@ -2474,6 +2506,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.72985248,-92.39915924,84022039,US,USA,840,22039.0,evangeline,"Evangeline, Louisiana, US",18,2,0,0
 2020-04-04,us,louisiana,30.72985248,-92.39915924,84022039,US,USA,840,22039.0,evangeline,"Evangeline, Louisiana, US",19,1,0,0
 2020-04-05,us,louisiana,30.72985248,-92.39915924,84022039,US,USA,840,22039.0,evangeline,"Evangeline, Louisiana, US",19,0,0,0
+2020-04-06,us,louisiana,30.72985248,-92.39915924,84022039,US,USA,840,22039.0,evangeline,"Evangeline, Louisiana, US",23,4,0,0
 2020-01-22,us,louisiana,30.82210324,-90.71013176,84022091,US,USA,840,22091.0,st-helena,"St. Helena, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.82210324,-90.71013176,84022091,US,USA,840,22091.0,st-helena,"St. Helena, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.82210324,-90.71013176,84022091,US,USA,840,22091.0,st-helena,"St. Helena, Louisiana, US",0,0,0,0
@@ -2549,6 +2582,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.82210324,-90.71013176,84022091,US,USA,840,22091.0,st-helena,"St. Helena, Louisiana, US",1,0,0,0
 2020-04-04,us,louisiana,30.82210324,-90.71013176,84022091,US,USA,840,22091.0,st-helena,"St. Helena, Louisiana, US",4,3,0,0
 2020-04-05,us,louisiana,30.82210324,-90.71013176,84022091,US,USA,840,22091.0,st-helena,"St. Helena, Louisiana, US",5,1,0,0
+2020-04-06,us,louisiana,30.82210324,-90.71013176,84022091,US,USA,840,22091.0,st-helena,"St. Helena, Louisiana, US",8,3,0,0
 2020-01-22,us,louisiana,30.84425359,-91.04976723,84022037,US,USA,840,22037.0,east-feliciana,"East Feliciana, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.84425359,-91.04976723,84022037,US,USA,840,22037.0,east-feliciana,"East Feliciana, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.84425359,-91.04976723,84022037,US,USA,840,22037.0,east-feliciana,"East Feliciana, Louisiana, US",0,0,0,0
@@ -2624,6 +2658,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.84425359,-91.04976723,84022037,US,USA,840,22037.0,east-feliciana,"East Feliciana, Louisiana, US",19,5,0,0
 2020-04-04,us,louisiana,30.84425359,-91.04976723,84022037,US,USA,840,22037.0,east-feliciana,"East Feliciana, Louisiana, US",22,3,0,0
 2020-04-05,us,louisiana,30.84425359,-91.04976723,84022037,US,USA,840,22037.0,east-feliciana,"East Feliciana, Louisiana, US",27,5,0,0
+2020-04-06,us,louisiana,30.84425359,-91.04976723,84022037,US,USA,840,22037.0,east-feliciana,"East Feliciana, Louisiana, US",39,12,0,0
 2020-01-22,us,louisiana,30.85288548,-90.03866652,84022117,US,USA,840,22117.0,washington,"Washington, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,30.85288548,-90.03866652,84022117,US,USA,840,22117.0,washington,"Washington, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,30.85288548,-90.03866652,84022117,US,USA,840,22117.0,washington,"Washington, Louisiana, US",0,0,0,0
@@ -2699,81 +2734,83 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,30.85288548,-90.03866652,84022117,US,USA,840,22117.0,washington,"Washington, Louisiana, US",57,7,2,0
 2020-04-04,us,louisiana,30.85288548,-90.03866652,84022117,US,USA,840,22117.0,washington,"Washington, Louisiana, US",75,18,2,0
 2020-04-05,us,louisiana,30.85288548,-90.03866652,84022117,US,USA,840,22117.0,washington,"Washington, Louisiana, US",81,6,2,0
-2020-01-22,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-01-23,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-01-24,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-01-25,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-01-26,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-01-27,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-01-28,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-01-29,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-01-30,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-01-31,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-01,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-02,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-03,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-04,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-05,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-06,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-07,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-08,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-09,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-10,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-11,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-12,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-13,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-14,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-15,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-16,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-17,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-18,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-19,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-20,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-21,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-22,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-23,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-24,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-25,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-26,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-27,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-28,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-02-29,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-01,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-02,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-03,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-04,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-05,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-06,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-07,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-08,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-09,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-10,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-11,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-12,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-13,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-14,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-15,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-16,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-17,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-18,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-19,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-20,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-21,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-22,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-23,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-24,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-25,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-26,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-27,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
-2020-03-28,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",4,4,0,0
-2020-03-29,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",4,0,0,0
-2020-03-30,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",4,0,0,0
-2020-03-31,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",4,0,0,0
-2020-04-01,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",8,4,0,0
-2020-04-02,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",20,12,0,0
-2020-04-03,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",11,-9,0,0
-2020-04-04,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",18,7,0,0
-2020-04-05,us,louisiana,30.87882871,-91.41485379999999,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",19,1,0,0
+2020-04-06,us,louisiana,30.85288548,-90.03866652,84022117,US,USA,840,22117.0,washington,"Washington, Louisiana, US",92,11,2,0
+2020-01-22,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-01-23,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-01-24,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-01-25,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-01-26,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-01-27,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-01-28,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-01-29,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-01-30,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-01-31,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-01,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-02,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-03,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-04,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-05,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-06,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-07,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-08,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-09,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-10,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-11,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-12,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-13,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-14,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-15,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-16,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-17,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-18,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-19,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-20,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-21,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-22,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-23,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-24,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-25,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-26,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-27,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-28,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-02-29,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-01,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-02,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-03,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-04,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-05,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-06,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-07,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-08,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-09,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-10,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-11,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-12,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-13,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-14,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-15,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-16,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-17,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-18,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-19,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-20,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-21,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-22,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-23,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-24,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-25,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-26,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-27,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",0,0,0,0
+2020-03-28,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",4,4,0,0
+2020-03-29,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",4,0,0,0
+2020-03-30,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",4,0,0,0
+2020-03-31,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",4,0,0,0
+2020-04-01,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",8,4,0,0
+2020-04-02,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",20,12,0,0
+2020-04-03,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",11,-9,0,0
+2020-04-04,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",18,7,0,0
+2020-04-05,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",19,1,0,0
+2020-04-06,us,louisiana,30.87882871,-91.4148538,84022125,US,USA,840,22125.0,west-feliciana,"West Feliciana, Louisiana, US",30,11,0,0
 2020-01-22,us,louisiana,31.07796211,-92.00079449,84022009,US,USA,840,22009.0,avoyelles,"Avoyelles, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,31.07796211,-92.00079449,84022009,US,USA,840,22009.0,avoyelles,"Avoyelles, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,31.07796211,-92.00079449,84022009,US,USA,840,22009.0,avoyelles,"Avoyelles, Louisiana, US",0,0,0,0
@@ -2849,6 +2886,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,31.07796211,-92.00079449,84022009,US,USA,840,22009.0,avoyelles,"Avoyelles, Louisiana, US",37,3,1,0
 2020-04-04,us,louisiana,31.07796211,-92.00079449,84022009,US,USA,840,22009.0,avoyelles,"Avoyelles, Louisiana, US",36,-1,1,0
 2020-04-05,us,louisiana,31.07796211,-92.00079449,84022009,US,USA,840,22009.0,avoyelles,"Avoyelles, Louisiana, US",37,1,1,0
+2020-04-06,us,louisiana,31.07796211,-92.00079449,84022009,US,USA,840,22009.0,avoyelles,"Avoyelles, Louisiana, US",40,3,1,0
 2020-01-22,us,louisiana,31.10884837,-93.18153838,84022115,US,USA,840,22115.0,vernon,"Vernon, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,31.10884837,-93.18153838,84022115,US,USA,840,22115.0,vernon,"Vernon, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,31.10884837,-93.18153838,84022115,US,USA,840,22115.0,vernon,"Vernon, Louisiana, US",0,0,0,0
@@ -2924,6 +2962,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,31.10884837,-93.18153838,84022115,US,USA,840,22115.0,vernon,"Vernon, Louisiana, US",8,1,0,0
 2020-04-04,us,louisiana,31.10884837,-93.18153838,84022115,US,USA,840,22115.0,vernon,"Vernon, Louisiana, US",11,3,0,0
 2020-04-05,us,louisiana,31.10884837,-93.18153838,84022115,US,USA,840,22115.0,vernon,"Vernon, Louisiana, US",10,-1,0,0
+2020-04-06,us,louisiana,31.10884837,-93.18153838,84022115,US,USA,840,22115.0,vernon,"Vernon, Louisiana, US",10,0,0,0
 2020-01-22,us,louisiana,31.19778499,-92.52997303,84022079,US,USA,840,22079.0,rapides,"Rapides, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,31.19778499,-92.52997303,84022079,US,USA,840,22079.0,rapides,"Rapides, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,31.19778499,-92.52997303,84022079,US,USA,840,22079.0,rapides,"Rapides, Louisiana, US",0,0,0,0
@@ -2999,6 +3038,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,31.19778499,-92.52997303,84022079,US,USA,840,22079.0,rapides,"Rapides, Louisiana, US",81,4,4,1
 2020-04-04,us,louisiana,31.19778499,-92.52997303,84022079,US,USA,840,22079.0,rapides,"Rapides, Louisiana, US",97,16,4,0
 2020-04-05,us,louisiana,31.19778499,-92.52997303,84022079,US,USA,840,22079.0,rapides,"Rapides, Louisiana, US",100,3,4,0
+2020-04-06,us,louisiana,31.19778499,-92.52997303,84022079,US,USA,840,22079.0,rapides,"Rapides, Louisiana, US",110,10,4,0
 2020-01-22,us,louisiana,31.44817835,-91.63814433,84022029,US,USA,840,22029.0,concordia,"Concordia, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,31.44817835,-91.63814433,84022029,US,USA,840,22029.0,concordia,"Concordia, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,31.44817835,-91.63814433,84022029,US,USA,840,22029.0,concordia,"Concordia, Louisiana, US",0,0,0,0
@@ -3074,6 +3114,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,31.44817835,-91.63814433,84022029,US,USA,840,22029.0,concordia,"Concordia, Louisiana, US",10,2,1,1
 2020-04-04,us,louisiana,31.44817835,-91.63814433,84022029,US,USA,840,22029.0,concordia,"Concordia, Louisiana, US",5,-5,1,0
 2020-04-05,us,louisiana,31.44817835,-91.63814433,84022029,US,USA,840,22029.0,concordia,"Concordia, Louisiana, US",5,0,1,0
+2020-04-06,us,louisiana,31.44817835,-91.63814433,84022029,US,USA,840,22029.0,concordia,"Concordia, Louisiana, US",9,4,1,0
 2020-01-22,us,louisiana,31.56388699,-93.55433981,84022085,US,USA,840,22085.0,sabine,"Sabine, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,31.56388699,-93.55433981,84022085,US,USA,840,22085.0,sabine,"Sabine, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,31.56388699,-93.55433981,84022085,US,USA,840,22085.0,sabine,"Sabine, Louisiana, US",0,0,0,0
@@ -3149,6 +3190,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,31.56388699,-93.55433981,84022085,US,USA,840,22085.0,sabine,"Sabine, Louisiana, US",4,0,0,0
 2020-04-04,us,louisiana,31.56388699,-93.55433981,84022085,US,USA,840,22085.0,sabine,"Sabine, Louisiana, US",4,0,0,0
 2020-04-05,us,louisiana,31.56388699,-93.55433981,84022085,US,USA,840,22085.0,sabine,"Sabine, Louisiana, US",5,1,0,0
+2020-04-06,us,louisiana,31.56388699,-93.55433981,84022085,US,USA,840,22085.0,sabine,"Sabine, Louisiana, US",7,2,0,0
 2020-01-22,us,louisiana,31.59882456,-92.56124347,84022043,US,USA,840,22043.0,grant,"Grant, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,31.59882456,-92.56124347,84022043,US,USA,840,22043.0,grant,"Grant, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,31.59882456,-92.56124347,84022043,US,USA,840,22043.0,grant,"Grant, Louisiana, US",0,0,0,0
@@ -3224,6 +3266,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,31.59882456,-92.56124347,84022043,US,USA,840,22043.0,grant,"Grant, Louisiana, US",5,0,0,0
 2020-04-04,us,louisiana,31.59882456,-92.56124347,84022043,US,USA,840,22043.0,grant,"Grant, Louisiana, US",9,4,0,0
 2020-04-05,us,louisiana,31.59882456,-92.56124347,84022043,US,USA,840,22043.0,grant,"Grant, Louisiana, US",8,-1,0,0
+2020-04-06,us,louisiana,31.59882456,-92.56124347,84022043,US,USA,840,22043.0,grant,"Grant, Louisiana, US",10,2,0,0
 2020-01-22,us,louisiana,31.66778967,-91.84526385,84022025,US,USA,840,22025.0,catahoula,"Catahoula, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,31.66778967,-91.84526385,84022025,US,USA,840,22025.0,catahoula,"Catahoula, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,31.66778967,-91.84526385,84022025,US,USA,840,22025.0,catahoula,"Catahoula, Louisiana, US",0,0,0,0
@@ -3299,6 +3342,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,31.66778967,-91.84526385,84022025,US,USA,840,22025.0,catahoula,"Catahoula, Louisiana, US",6,1,1,0
 2020-04-04,us,louisiana,31.66778967,-91.84526385,84022025,US,USA,840,22025.0,catahoula,"Catahoula, Louisiana, US",9,3,1,0
 2020-04-05,us,louisiana,31.66778967,-91.84526385,84022025,US,USA,840,22025.0,catahoula,"Catahoula, Louisiana, US",9,0,1,0
+2020-04-06,us,louisiana,31.66778967,-91.84526385,84022025,US,USA,840,22025.0,catahoula,"Catahoula, Louisiana, US",12,3,1,0
 2020-01-22,us,louisiana,31.67884782,-92.15907765,84022059,US,USA,840,22059.0,lasalle,"LaSalle,Louisiana,US",0,0,0,0
 2020-01-23,us,louisiana,31.67884782,-92.15907765,84022059,US,USA,840,22059.0,lasalle,"LaSalle,Louisiana,US",0,0,0,0
 2020-01-24,us,louisiana,31.67884782,-92.15907765,84022059,US,USA,840,22059.0,lasalle,"LaSalle,Louisiana,US",0,0,0,0
@@ -3374,6 +3418,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,31.67884782,-92.15907765,84022059,US,USA,840,22059.0,lasalle,"LaSalle,Louisiana,US",2,0,0,0
 2020-04-04,us,louisiana,31.67884782,-92.15907765,84022059,US,USA,840,22059.0,lasalle,"LaSalle,Louisiana,US",4,2,0,0
 2020-04-05,us,louisiana,31.67884782,-92.15907765,84022059,US,USA,840,22059.0,lasalle,"LaSalle,Louisiana,US",4,0,0,0
+2020-04-06,us,louisiana,31.67884782,-92.15907765,84022059,US,USA,840,22059.0,lasalle,"LaSalle,Louisiana,US",6,2,0,0
 2020-01-22,us,louisiana,31.72321584,-93.09816516,84022069,US,USA,840,22069.0,natchitoches,"Natchitoches, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,31.72321584,-93.09816516,84022069,US,USA,840,22069.0,natchitoches,"Natchitoches, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,31.72321584,-93.09816516,84022069,US,USA,840,22069.0,natchitoches,"Natchitoches, Louisiana, US",0,0,0,0
@@ -3449,6 +3494,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,31.72321584,-93.09816516,84022069,US,USA,840,22069.0,natchitoches,"Natchitoches, Louisiana, US",6,2,0,0
 2020-04-04,us,louisiana,31.72321584,-93.09816516,84022069,US,USA,840,22069.0,natchitoches,"Natchitoches, Louisiana, US",15,9,0,0
 2020-04-05,us,louisiana,31.72321584,-93.09816516,84022069,US,USA,840,22069.0,natchitoches,"Natchitoches, Louisiana, US",14,-1,0,0
+2020-04-06,us,louisiana,31.72321584,-93.09816516,84022069,US,USA,840,22069.0,natchitoches,"Natchitoches, Louisiana, US",22,8,0,0
 2020-01-22,us,louisiana,31.94449367,-92.63789413,84022127,US,USA,840,22127.0,winn,"Winn, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,31.94449367,-92.63789413,84022127,US,USA,840,22127.0,winn,"Winn, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,31.94449367,-92.63789413,84022127,US,USA,840,22127.0,winn,"Winn, Louisiana, US",0,0,0,0
@@ -3524,6 +3570,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,31.94449367,-92.63789413,84022127,US,USA,840,22127.0,winn,"Winn, Louisiana, US",2,0,0,0
 2020-04-04,us,louisiana,31.94449367,-92.63789413,84022127,US,USA,840,22127.0,winn,"Winn, Louisiana, US",2,0,0,0
 2020-04-05,us,louisiana,31.94449367,-92.63789413,84022127,US,USA,840,22127.0,winn,"Winn, Louisiana, US",2,0,1,1
+2020-04-06,us,louisiana,31.94449367,-92.63789413,84022127,US,USA,840,22127.0,winn,"Winn, Louisiana, US",2,0,1,0
 2020-01-22,us,louisiana,32.00760749,-91.32915234,84022107,US,USA,840,22107.0,tensas,"Tensas, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.00760749,-91.32915234,84022107,US,USA,840,22107.0,tensas,"Tensas, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.00760749,-91.32915234,84022107,US,USA,840,22107.0,tensas,"Tensas, Louisiana, US",0,0,0,0
@@ -3599,6 +3646,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.00760749,-91.32915234,84022107,US,USA,840,22107.0,tensas,"Tensas, Louisiana, US",0,0,0,0
 2020-04-04,us,louisiana,32.00760749,-91.32915234,84022107,US,USA,840,22107.0,tensas,"Tensas, Louisiana, US",0,0,0,0
 2020-04-05,us,louisiana,32.00760749,-91.32915234,84022107,US,USA,840,22107.0,tensas,"Tensas, Louisiana, US",0,0,0,0
+2020-04-06,us,louisiana,32.00760749,-91.32915234,84022107,US,USA,840,22107.0,tensas,"Tensas, Louisiana, US",0,0,0,0
 2020-01-22,us,louisiana,32.05457447,-93.74130302,84022031,US,USA,840,22031.0,de-soto,"De Soto, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.05457447,-93.74130302,84022031,US,USA,840,22031.0,de-soto,"De Soto, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.05457447,-93.74130302,84022031,US,USA,840,22031.0,de-soto,"De Soto, Louisiana, US",0,0,0,0
@@ -3674,6 +3722,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.05457447,-93.74130302,84022031,US,USA,840,22031.0,de-soto,"De Soto, Louisiana, US",46,4,2,1
 2020-04-04,us,louisiana,32.05457447,-93.74130302,84022031,US,USA,840,22031.0,de-soto,"De Soto, Louisiana, US",71,25,3,1
 2020-04-05,us,louisiana,32.05457447,-93.74130302,84022031,US,USA,840,22031.0,de-soto,"De Soto, Louisiana, US",80,9,3,0
+2020-04-06,us,louisiana,32.05457447,-93.74130302,84022031,US,USA,840,22031.0,de-soto,"De Soto, Louisiana, US",82,2,4,1
 2020-01-22,us,louisiana,32.0902519,-92.11752148,84022021,US,USA,840,22021.0,caldwell,"Caldwell, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.0902519,-92.11752148,84022021,US,USA,840,22021.0,caldwell,"Caldwell, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.0902519,-92.11752148,84022021,US,USA,840,22021.0,caldwell,"Caldwell, Louisiana, US",0,0,0,0
@@ -3749,6 +3798,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.0902519,-92.11752148,84022021,US,USA,840,22021.0,caldwell,"Caldwell, Louisiana, US",1,1,0,0
 2020-04-04,us,louisiana,32.0902519,-92.11752148,84022021,US,USA,840,22021.0,caldwell,"Caldwell, Louisiana, US",3,2,0,0
 2020-04-05,us,louisiana,32.0902519,-92.11752148,84022021,US,USA,840,22021.0,caldwell,"Caldwell, Louisiana, US",10,7,0,0
+2020-04-06,us,louisiana,32.0902519,-92.11752148,84022021,US,USA,840,22021.0,caldwell,"Caldwell, Louisiana, US",11,1,0,0
 2020-01-22,us,louisiana,32.09530039,-93.34213308,84022081,US,USA,840,22081.0,red-river,"Red River, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.09530039,-93.34213308,84022081,US,USA,840,22081.0,red-river,"Red River, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.09530039,-93.34213308,84022081,US,USA,840,22081.0,red-river,"Red River, Louisiana, US",0,0,0,0
@@ -3824,6 +3874,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.09530039,-93.34213308,84022081,US,USA,840,22081.0,red-river,"Red River, Louisiana, US",2,1,0,0
 2020-04-04,us,louisiana,32.09530039,-93.34213308,84022081,US,USA,840,22081.0,red-river,"Red River, Louisiana, US",2,0,0,0
 2020-04-05,us,louisiana,32.09530039,-93.34213308,84022081,US,USA,840,22081.0,red-river,"Red River, Louisiana, US",2,0,0,0
+2020-04-06,us,louisiana,32.09530039,-93.34213308,84022081,US,USA,840,22081.0,red-river,"Red River, Louisiana, US",2,0,0,0
 2020-01-22,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",0,0,0,0
@@ -3899,6 +3950,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",10,5,0,0
 2020-04-04,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",19,9,0,0
 2020-04-05,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",25,6,0,0
+2020-04-06,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",28,3,0,0
 2020-01-22,us,louisiana,32.30251776,-92.55692092,84022049,US,USA,840,22049.0,jackson,"Jackson, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.30251776,-92.55692092,84022049,US,USA,840,22049.0,jackson,"Jackson, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.30251776,-92.55692092,84022049,US,USA,840,22049.0,jackson,"Jackson, Louisiana, US",0,0,0,0
@@ -3974,6 +4026,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.30251776,-92.55692092,84022049,US,USA,840,22049.0,jackson,"Jackson, Louisiana, US",4,0,0,0
 2020-04-04,us,louisiana,32.30251776,-92.55692092,84022049,US,USA,840,22049.0,jackson,"Jackson, Louisiana, US",1,-3,0,0
 2020-04-05,us,louisiana,32.30251776,-92.55692092,84022049,US,USA,840,22049.0,jackson,"Jackson, Louisiana, US",1,0,0,0
+2020-04-06,us,louisiana,32.30251776,-92.55692092,84022049,US,USA,840,22049.0,jackson,"Jackson, Louisiana, US",4,3,0,0
 2020-01-22,us,louisiana,32.34569994,-93.05398492,84022013,US,USA,840,22013.0,bienville,"Bienville, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.34569994,-93.05398492,84022013,US,USA,840,22013.0,bienville,"Bienville, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.34569994,-93.05398492,84022013,US,USA,840,22013.0,bienville,"Bienville, Louisiana, US",0,0,0,0
@@ -4049,6 +4102,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.34569994,-93.05398492,84022013,US,USA,840,22013.0,bienville,"Bienville, Louisiana, US",9,1,1,0
 2020-04-04,us,louisiana,32.34569994,-93.05398492,84022013,US,USA,840,22013.0,bienville,"Bienville, Louisiana, US",10,1,1,0
 2020-04-05,us,louisiana,32.34569994,-93.05398492,84022013,US,USA,840,22013.0,bienville,"Bienville, Louisiana, US",12,2,1,0
+2020-04-06,us,louisiana,32.34569994,-93.05398492,84022013,US,USA,840,22013.0,bienville,"Bienville, Louisiana, US",14,2,1,0
 2020-01-22,us,louisiana,32.36918118,-91.23973355,84022065,US,USA,840,22065.0,madison,"Madison, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.36918118,-91.23973355,84022065,US,USA,840,22065.0,madison,"Madison, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.36918118,-91.23973355,84022065,US,USA,840,22065.0,madison,"Madison, Louisiana, US",0,0,0,0
@@ -4124,6 +4178,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.36918118,-91.23973355,84022065,US,USA,840,22065.0,madison,"Madison, Louisiana, US",1,0,0,0
 2020-04-04,us,louisiana,32.36918118,-91.23973355,84022065,US,USA,840,22065.0,madison,"Madison, Louisiana, US",1,0,0,0
 2020-04-05,us,louisiana,32.36918118,-91.23973355,84022065,US,USA,840,22065.0,madison,"Madison, Louisiana, US",1,0,0,0
+2020-04-06,us,louisiana,32.36918118,-91.23973355,84022065,US,USA,840,22065.0,madison,"Madison, Louisiana, US",1,0,0,0
 2020-01-22,us,louisiana,32.41391005,-91.76634876,84022083,US,USA,840,22083.0,richland,"Richland, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.41391005,-91.76634876,84022083,US,USA,840,22083.0,richland,"Richland, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.41391005,-91.76634876,84022083,US,USA,840,22083.0,richland,"Richland, Louisiana, US",0,0,0,0
@@ -4199,6 +4254,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.41391005,-91.76634876,84022083,US,USA,840,22083.0,richland,"Richland, Louisiana, US",4,0,0,0
 2020-04-04,us,louisiana,32.41391005,-91.76634876,84022083,US,USA,840,22083.0,richland,"Richland, Louisiana, US",9,5,0,0
 2020-04-05,us,louisiana,32.41391005,-91.76634876,84022083,US,USA,840,22083.0,richland,"Richland, Louisiana, US",10,1,0,0
+2020-04-06,us,louisiana,32.41391005,-91.76634876,84022083,US,USA,840,22083.0,richland,"Richland, Louisiana, US",11,1,0,0
 2020-01-22,us,louisiana,32.47645559,-92.15704172,84022073,US,USA,840,22073.0,ouachita,"Ouachita, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.47645559,-92.15704172,84022073,US,USA,840,22073.0,ouachita,"Ouachita, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.47645559,-92.15704172,84022073,US,USA,840,22073.0,ouachita,"Ouachita, Louisiana, US",0,0,0,0
@@ -4274,6 +4330,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.47645559,-92.15704172,84022073,US,USA,840,22073.0,ouachita,"Ouachita, Louisiana, US",114,20,1,0
 2020-04-04,us,louisiana,32.47645559,-92.15704172,84022073,US,USA,840,22073.0,ouachita,"Ouachita, Louisiana, US",176,62,1,0
 2020-04-05,us,louisiana,32.47645559,-92.15704172,84022073,US,USA,840,22073.0,ouachita,"Ouachita, Louisiana, US",182,6,1,0
+2020-04-06,us,louisiana,32.47645559,-92.15704172,84022073,US,USA,840,22073.0,ouachita,"Ouachita, Louisiana, US",230,48,1,0
 2020-01-22,us,louisiana,32.57991587,-93.88375652,84022017,US,USA,840,22017.0,caddo,"Caddo, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.57991587,-93.88375652,84022017,US,USA,840,22017.0,caddo,"Caddo, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.57991587,-93.88375652,84022017,US,USA,840,22017.0,caddo,"Caddo, Louisiana, US",0,0,0,0
@@ -4349,81 +4406,83 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.57991587,-93.88375652,84022017,US,USA,840,22017.0,caddo,"Caddo, Louisiana, US",377,41,10,0
 2020-04-04,us,louisiana,32.57991587,-93.88375652,84022017,US,USA,840,22017.0,caddo,"Caddo, Louisiana, US",598,221,10,0
 2020-04-05,us,louisiana,32.57991587,-93.88375652,84022017,US,USA,840,22017.0,caddo,"Caddo, Louisiana, US",647,49,19,9
-2020-01-22,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-01-23,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-01-24,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-01-25,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-01-26,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-01-27,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-01-28,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-01-29,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-01-30,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-01-31,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-01,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-02,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-03,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-04,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-05,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-06,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-07,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-08,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-09,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-10,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-11,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-12,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-13,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-14,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-15,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-16,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-17,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-18,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-19,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-20,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-21,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-22,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-23,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-24,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-25,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-26,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-27,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-28,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-02-29,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-01,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-02,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-03,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-04,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-05,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-06,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-07,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-08,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-09,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-10,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-11,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-12,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-13,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-14,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-15,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-16,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-17,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-18,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-19,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-20,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-21,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-22,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
-2020-03-23,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",2,2,0,0
-2020-03-24,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",2,0,0,0
-2020-03-25,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",2,0,0,0
-2020-03-26,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",3,1,0,0
-2020-03-27,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",7,4,0,0
-2020-03-28,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",6,-1,0,0
-2020-03-29,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",7,1,0,0
-2020-03-30,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",8,1,0,0
-2020-03-31,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",12,4,0,0
-2020-04-01,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",13,1,0,0
-2020-04-02,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",13,0,0,0
-2020-04-03,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",17,4,0,0
-2020-04-04,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",17,0,0,0
-2020-04-05,us,louisiana,32.6003154,-92.66597409999999,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",18,1,0,0
+2020-04-06,us,louisiana,32.57991587,-93.88375652,84022017,US,USA,840,22017.0,caddo,"Caddo, Louisiana, US",711,64,21,2
+2020-01-22,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-01-23,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-01-24,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-01-25,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-01-26,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-01-27,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-01-28,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-01-29,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-01-30,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-01-31,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-01,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-02,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-03,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-04,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-05,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-06,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-07,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-08,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-09,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-10,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-11,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-12,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-13,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-14,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-15,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-16,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-17,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-18,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-19,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-20,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-21,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-22,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-23,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-24,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-25,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-26,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-27,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-28,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-02-29,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-01,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-02,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-03,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-04,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-05,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-06,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-07,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-08,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-09,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-10,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-11,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-12,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-13,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-14,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-15,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-16,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-17,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-18,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-19,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-20,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-21,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-22,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",0,0,0,0
+2020-03-23,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",2,2,0,0
+2020-03-24,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",2,0,0,0
+2020-03-25,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",2,0,0,0
+2020-03-26,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",3,1,0,0
+2020-03-27,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",7,4,0,0
+2020-03-28,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",6,-1,0,0
+2020-03-29,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",7,1,0,0
+2020-03-30,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",8,1,0,0
+2020-03-31,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",12,4,0,0
+2020-04-01,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",13,1,0,0
+2020-04-02,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",13,0,0,0
+2020-04-03,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",17,4,0,0
+2020-04-04,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",17,0,0,0
+2020-04-05,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",18,1,0,0
+2020-04-06,us,louisiana,32.6003154,-92.6659741,84022061,US,USA,840,22061.0,lincoln,"Lincoln, Louisiana, US",19,1,0,0
 2020-01-22,us,louisiana,32.67932307,-93.60460152,84022015,US,USA,840,22015.0,bossier,"Bossier, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.67932307,-93.60460152,84022015,US,USA,840,22015.0,bossier,"Bossier, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.67932307,-93.60460152,84022015,US,USA,840,22015.0,bossier,"Bossier, Louisiana, US",0,0,0,0
@@ -4499,6 +4558,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.67932307,-93.60460152,84022015,US,USA,840,22015.0,bossier,"Bossier, Louisiana, US",95,8,2,0
 2020-04-04,us,louisiana,32.67932307,-93.60460152,84022015,US,USA,840,22015.0,bossier,"Bossier, Louisiana, US",126,31,2,0
 2020-04-05,us,louisiana,32.67932307,-93.60460152,84022015,US,USA,840,22015.0,bossier,"Bossier, Louisiana, US",133,7,3,1
+2020-04-06,us,louisiana,32.67932307,-93.60460152,84022015,US,USA,840,22015.0,bossier,"Bossier, Louisiana, US",139,6,3,0
 2020-01-22,us,louisiana,32.70847669,-93.33121835,84022119,US,USA,840,22119.0,webster,"Webster, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.70847669,-93.33121835,84022119,US,USA,840,22119.0,webster,"Webster, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.70847669,-93.33121835,84022119,US,USA,840,22119.0,webster,"Webster, Louisiana, US",0,0,0,0
@@ -4574,6 +4634,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.70847669,-93.33121835,84022119,US,USA,840,22119.0,webster,"Webster, Louisiana, US",23,4,2,0
 2020-04-04,us,louisiana,32.70847669,-93.33121835,84022119,US,USA,840,22119.0,webster,"Webster, Louisiana, US",42,19,2,0
 2020-04-05,us,louisiana,32.70847669,-93.33121835,84022119,US,USA,840,22119.0,webster,"Webster, Louisiana, US",49,7,2,0
+2020-04-06,us,louisiana,32.70847669,-93.33121835,84022119,US,USA,840,22119.0,webster,"Webster, Louisiana, US",51,2,2,0
 2020-01-22,us,louisiana,32.73926954,-91.23425694,84022035,US,USA,840,22035.0,east-carroll,"East Carroll, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.73926954,-91.23425694,84022035,US,USA,840,22035.0,east-carroll,"East Carroll, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.73926954,-91.23425694,84022035,US,USA,840,22035.0,east-carroll,"East Carroll, Louisiana, US",0,0,0,0
@@ -4649,6 +4710,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.73926954,-91.23425694,84022035,US,USA,840,22035.0,east-carroll,"East Carroll, Louisiana, US",1,0,0,0
 2020-04-04,us,louisiana,32.73926954,-91.23425694,84022035,US,USA,840,22035.0,east-carroll,"East Carroll, Louisiana, US",1,0,0,0
 2020-04-05,us,louisiana,32.73926954,-91.23425694,84022035,US,USA,840,22035.0,east-carroll,"East Carroll, Louisiana, US",1,0,0,0
+2020-04-06,us,louisiana,32.73926954,-91.23425694,84022035,US,USA,840,22035.0,east-carroll,"East Carroll, Louisiana, US",1,0,0,0
 2020-01-22,us,louisiana,32.78550125,-91.461201,84022123,US,USA,840,22123.0,west-carroll,"West Carroll, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.78550125,-91.461201,84022123,US,USA,840,22123.0,west-carroll,"West Carroll, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.78550125,-91.461201,84022123,US,USA,840,22123.0,west-carroll,"West Carroll, Louisiana, US",0,0,0,0
@@ -4724,6 +4786,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.78550125,-91.461201,84022123,US,USA,840,22123.0,west-carroll,"West Carroll, Louisiana, US",0,0,0,0
 2020-04-04,us,louisiana,32.78550125,-91.461201,84022123,US,USA,840,22123.0,west-carroll,"West Carroll, Louisiana, US",0,0,0,0
 2020-04-05,us,louisiana,32.78550125,-91.461201,84022123,US,USA,840,22123.0,west-carroll,"West Carroll, Louisiana, US",0,0,0,0
+2020-04-06,us,louisiana,32.78550125,-91.461201,84022123,US,USA,840,22123.0,west-carroll,"West Carroll, Louisiana, US",1,1,0,0
 2020-01-22,us,louisiana,32.81686191,-91.80421614,84022067,US,USA,840,22067.0,morehouse,"Morehouse, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.81686191,-91.80421614,84022067,US,USA,840,22067.0,morehouse,"Morehouse, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.81686191,-91.80421614,84022067,US,USA,840,22067.0,morehouse,"Morehouse, Louisiana, US",0,0,0,0
@@ -4799,6 +4862,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.81686191,-91.80421614,84022067,US,USA,840,22067.0,morehouse,"Morehouse, Louisiana, US",7,3,0,0
 2020-04-04,us,louisiana,32.81686191,-91.80421614,84022067,US,USA,840,22067.0,morehouse,"Morehouse, Louisiana, US",9,2,0,0
 2020-04-05,us,louisiana,32.81686191,-91.80421614,84022067,US,USA,840,22067.0,morehouse,"Morehouse, Louisiana, US",10,1,0,0
+2020-04-06,us,louisiana,32.81686191,-91.80421614,84022067,US,USA,840,22067.0,morehouse,"Morehouse, Louisiana, US",15,5,0,0
 2020-01-22,us,louisiana,32.82308512,-92.99526883,84022027,US,USA,840,22027.0,claiborne,"Claiborne, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.82308512,-92.99526883,84022027,US,USA,840,22027.0,claiborne,"Claiborne, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.82308512,-92.99526883,84022027,US,USA,840,22027.0,claiborne,"Claiborne, Louisiana, US",0,0,0,0
@@ -4874,6 +4938,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.82308512,-92.99526883,84022027,US,USA,840,22027.0,claiborne,"Claiborne, Louisiana, US",18,7,2,0
 2020-04-04,us,louisiana,32.82308512,-92.99526883,84022027,US,USA,840,22027.0,claiborne,"Claiborne, Louisiana, US",20,2,2,0
 2020-04-05,us,louisiana,32.82308512,-92.99526883,84022027,US,USA,840,22027.0,claiborne,"Claiborne, Louisiana, US",23,3,2,0
+2020-04-06,us,louisiana,32.82308512,-92.99526883,84022027,US,USA,840,22027.0,claiborne,"Claiborne, Louisiana, US",30,7,2,0
 2020-01-22,us,louisiana,32.83121059,-92.3749373,84022111,US,USA,840,22111.0,union,"Union, Louisiana, US",0,0,0,0
 2020-01-23,us,louisiana,32.83121059,-92.3749373,84022111,US,USA,840,22111.0,union,"Union, Louisiana, US",0,0,0,0
 2020-01-24,us,louisiana,32.83121059,-92.3749373,84022111,US,USA,840,22111.0,union,"Union, Louisiana, US",0,0,0,0
@@ -4949,3 +5014,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,louisiana,32.83121059,-92.3749373,84022111,US,USA,840,22111.0,union,"Union, Louisiana, US",17,4,0,0
 2020-04-04,us,louisiana,32.83121059,-92.3749373,84022111,US,USA,840,22111.0,union,"Union, Louisiana, US",19,2,0,0
 2020-04-05,us,louisiana,32.83121059,-92.3749373,84022111,US,USA,840,22111.0,union,"Union, Louisiana, US",19,0,0,0
+2020-04-06,us,louisiana,32.83121059,-92.3749373,84022111,US,USA,840,22111.0,union,"Union, Louisiana, US",26,7,0,0

@@ -74,3 +74,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-03,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",40,4,1,1
 2020-04-04,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",43,3,1,0
 2020-04-05,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",55,12,1,0
+2020-04-06,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",62,7,2,1
