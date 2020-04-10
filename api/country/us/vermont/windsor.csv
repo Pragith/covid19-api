@@ -77,3 +77,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-06,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",22,0,1.0,0.0
 2020-04-07,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",24,2,1.0,0.0
 2020-04-08,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",24,0,1.0,0.0
+2020-04-09,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",24,0,2.0,1.0

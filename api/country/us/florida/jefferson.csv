@@ -77,3 +77,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-06,us,florida,30.43669112,-83.89442308,84012065,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",3,2,0.0,0.0
 2020-04-07,us,florida,30.43669112,-83.89442308,84012065,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",4,1,0.0,0.0
 2020-04-08,us,florida,30.43669112,-83.89442308,84012065,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",8,4,0.0,0.0
+2020-04-09,us,florida,30.43669112,-83.89442308,84012065,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",8,0,0.0,0.0

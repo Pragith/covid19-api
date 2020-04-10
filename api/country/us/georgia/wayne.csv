@@ -77,3 +77,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-06,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",2,1,0.0,0.0
 2020-04-07,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",3,1,0.0,0.0
 2020-04-08,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",4,1,0.0,0.0
+2020-04-09,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",3,-1,0.0,0.0
