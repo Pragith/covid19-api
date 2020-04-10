@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-06,canada,manitoba,53.7609,-98.8139,203,0,2.0,0.0,0.0,0.0
 2020-04-07,canada,manitoba,53.7609,-98.8139,217,14,3.0,1.0,0.0,0.0
 2020-04-08,canada,manitoba,53.7609,-98.8139,217,0,3.0,0.0,0.0,0.0
+2020-04-09,canada,manitoba,53.7609,-98.8139,221,4,3.0,0.0,0.0,0.0

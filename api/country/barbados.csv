@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-06,barbados,,13.1939,-59.5432,60,2.0,6.0,4,1.0,0.0
 2020-04-07,barbados,,13.1939,-59.5432,63,3.0,6.0,3,1.0,0.0
 2020-04-08,barbados,,13.1939,-59.5432,63,3.0,8.0,0,0.0,2.0
+2020-04-09,barbados,,13.1939,-59.5432,66,3.0,11.0,3,0.0,3.0

@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-06,zimbabwe,,-20.0,30.0,10,1.0,0.0,1,0.0,0.0
 2020-04-07,zimbabwe,,-20.0,30.0,11,2.0,0.0,1,1.0,0.0
 2020-04-08,zimbabwe,,-20.0,30.0,11,3.0,0.0,0,1.0,0.0
+2020-04-09,zimbabwe,,-20.0,30.0,11,3.0,0.0,0,0.0,0.0

@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-06,united-kingdom,channel-islands,49.3723,-2.3644,323,14,7.0,1.0,27.0,0.0
 2020-04-07,united-kingdom,channel-islands,49.3723,-2.3644,335,12,7.0,0.0,34.0,7.0
 2020-04-08,united-kingdom,channel-islands,49.3723,-2.3644,351,16,8.0,1.0,38.0,4.0
+2020-04-09,united-kingdom,channel-islands,49.3723,-2.3644,361,10,8.0,0.0,40.0,2.0

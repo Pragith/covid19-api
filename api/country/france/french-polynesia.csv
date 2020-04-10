@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-06,france,french-polynesia,-17.6797,149.4068,42,1,0.0,0.0,0.0,0.0
 2020-04-07,france,french-polynesia,-17.6797,149.4068,47,5,0.0,0.0,0.0,0.0
 2020-04-08,france,french-polynesia,-17.6797,149.4068,51,4,0.0,0.0,0.0,0.0
+2020-04-09,france,french-polynesia,-17.6797,149.4068,51,0,0.0,0.0,0.0,0.0

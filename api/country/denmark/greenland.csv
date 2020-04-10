@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-06,denmark,greenland,71.7069,-42.6043,11,0,0.0,0.0,4.0,1.0
 2020-04-07,denmark,greenland,71.7069,-42.6043,11,0,0.0,0.0,10.0,6.0
 2020-04-08,denmark,greenland,71.7069,-42.6043,11,0,0.0,0.0,11.0,1.0
+2020-04-09,denmark,greenland,71.7069,-42.6043,11,0,0.0,0.0,11.0,0.0

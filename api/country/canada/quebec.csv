@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-06,canada,quebec,52.9399,-73.5491,8580,636,121.0,46.0,0.0,0.0
 2020-04-07,canada,quebec,52.9399,-73.5491,9340,760,150.0,29.0,0.0,0.0
 2020-04-08,canada,quebec,52.9399,-73.5491,10031,691,175.0,25.0,0.0,0.0
+2020-04-09,canada,quebec,52.9399,-73.5491,10912,881,216.0,41.0,0.0,0.0

@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-06,united-kingdom,gibraltar,36.1408,-5.3536,109,6,0.0,0.0,52.0,0.0
 2020-04-07,united-kingdom,gibraltar,36.1408,-5.3536,113,4,0.0,0.0,60.0,8.0
 2020-04-08,united-kingdom,gibraltar,36.1408,-5.3536,120,7,0.0,0.0,60.0,0.0
+2020-04-09,united-kingdom,gibraltar,36.1408,-5.3536,123,3,0.0,0.0,60.0,0.0

@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-06,thailand,,15.0,101.0,2220,26.0,793.0,51,3.0,0.0
 2020-04-07,thailand,,15.0,101.0,2258,27.0,888.0,38,1.0,95.0
 2020-04-08,thailand,,15.0,101.0,2369,30.0,888.0,111,3.0,0.0
+2020-04-09,thailand,,15.0,101.0,2423,32.0,940.0,54,2.0,52.0

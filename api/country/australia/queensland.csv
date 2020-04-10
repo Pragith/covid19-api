@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-06,australia,queensland,-28.0167,153.4,921,14,4.0,0.0,173.0,165.0
 2020-04-07,australia,queensland,-28.0167,153.4,934,13,4.0,0.0,173.0,0.0
 2020-04-08,australia,queensland,-28.0167,153.4,943,9,4.0,0.0,173.0,0.0
+2020-04-09,australia,queensland,-28.0167,153.4,953,10,4.0,0.0,345.0,172.0

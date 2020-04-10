@@ -77,3 +77,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-06,france,reunion,-21.1351,55.2471,349,5,0.0,0.0,40.0,0.0
 2020-04-07,france,reunion,-21.1351,55.2471,358,9,0.0,0.0,40.0,0.0
 2020-04-08,france,reunion,-21.1351,55.2471,358,0,0.0,0.0,40.0,0.0
+2020-04-09,france,reunion,-21.1351,55.2471,362,4,0.0,0.0,40.0,0.0
