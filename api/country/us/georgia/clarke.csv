@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",77,8,9.0,1.0
 2020-04-08,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",81,4,9.0,0.0
 2020-04-09,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",81,0,9.0,0.0
+2020-04-10,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",81,0,10.0,1.0
+2020-04-11,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",82,1,11.0,1.0

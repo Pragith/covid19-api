@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,pennsylvania,39.97291773,-75.74768357,84042029,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",335,28,6.0,3.0
 2020-04-08,us,pennsylvania,39.97291773,-75.74768357,84042029,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",373,38,6.0,0.0
 2020-04-09,us,pennsylvania,39.97291773,-75.74768357,84042029,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",425,52,7.0,1.0
+2020-04-10,us,pennsylvania,39.97291773,-75.74768357,84042029,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",485,60,9.0,2.0
+2020-04-11,us,pennsylvania,39.97291773,-75.74768357,84042029,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",532,47,15.0,6.0

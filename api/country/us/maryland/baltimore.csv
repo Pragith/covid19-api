@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,maryland,39.45784712,-76.62911955,84024005,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",652,4,11.0,0.0
 2020-04-08,us,maryland,39.45784712,-76.62911955,84024005,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",866,214,13.0,2.0
 2020-04-09,us,maryland,39.45784712,-76.62911955,84024005,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",979,113,16.0,3.0
+2020-04-10,us,maryland,39.45784712,-76.62911955,84024005,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",1072,93,21.0,5.0
+2020-04-11,us,maryland,39.45784712,-76.62911955,84024005,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",1173,101,26.0,5.0

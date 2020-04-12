@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",7,0,0.0,0.0
 2020-04-08,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",7,0,0.0,0.0
 2020-04-09,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",9,2,0.0,0.0
+2020-04-10,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",9,0,0.0,0.0
+2020-04-11,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",11,2,0.0,0.0

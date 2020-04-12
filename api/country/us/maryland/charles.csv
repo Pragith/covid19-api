@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,maryland,38.51092331,-76.98580666,84024017,US,USA,840,24017.0,charles,"Charles, Maryland, US",136,7,2.0,0.0
 2020-04-08,us,maryland,38.51092331,-76.98580666,84024017,US,USA,840,24017.0,charles,"Charles, Maryland, US",164,28,2.0,0.0
 2020-04-09,us,maryland,38.51092331,-76.98580666,84024017,US,USA,840,24017.0,charles,"Charles, Maryland, US",180,16,3.0,1.0
+2020-04-10,us,maryland,38.51092331,-76.98580666,84024017,US,USA,840,24017.0,charles,"Charles, Maryland, US",220,40,4.0,1.0
+2020-04-11,us,maryland,38.51092331,-76.98580666,84024017,US,USA,840,24017.0,charles,"Charles, Maryland, US",235,15,5.0,1.0

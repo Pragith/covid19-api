@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,new-york,42.76249024,-78.73063652,84036029,US,USA,840,36029.0,erie,"Erie, New York, US",1234,86,39.0,9.0
 2020-04-08,us,new-york,42.76249024,-78.73063652,84036029,US,USA,840,36029.0,erie,"Erie, New York, US",1335,101,45.0,6.0
 2020-04-09,us,new-york,42.76249024,-78.73063652,84036029,US,USA,840,36029.0,erie,"Erie, New York, US",1432,97,51.0,6.0
+2020-04-10,us,new-york,42.76249024,-78.73063652,84036029,US,USA,840,36029.0,erie,"Erie, New York, US",1498,66,53.0,2.0
+2020-04-11,us,new-york,42.76249024,-78.73063652,84036029,US,USA,840,36029.0,erie,"Erie, New York, US",1506,8,53.0,0.0

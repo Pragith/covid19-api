@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",84,7,1.0,1.0
 2020-04-08,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",89,5,0.0,-1.0
 2020-04-09,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",94,5,0.0,0.0
+2020-04-10,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",105,11,1.0,1.0
+2020-04-11,us,louisiana,29.89946234,-91.06461642,84022007,US,USA,840,22007.0,assumption,"Assumption, Louisiana, US",109,4,1.0,0.0

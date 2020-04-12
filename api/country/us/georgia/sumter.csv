@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",147,60,6.0,2.0
 2020-04-08,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",168,21,5.0,-1.0
 2020-04-09,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",190,22,5.0,0.0
+2020-04-10,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",211,21,9.0,4.0
+2020-04-11,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",222,11,9.0,0.0

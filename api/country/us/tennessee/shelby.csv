@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,shelby,"Shelby, Tennessee, US",835,69,15.0,2.0
 2020-04-08,us,tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,shelby,"Shelby, Tennessee, US",912,77,17.0,2.0
 2020-04-09,us,tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,shelby,"Shelby, Tennessee, US",1006,94,20.0,3.0
+2020-04-10,us,tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,shelby,"Shelby, Tennessee, US",1083,77,20.0,0.0
+2020-04-11,us,tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,shelby,"Shelby, Tennessee, US",1147,64,26.0,6.0

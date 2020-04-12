@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,ohio,39.91592258,-83.78498252,84039023,US,USA,840,39023.0,clark,"Clark, Ohio, US",11,1,0.0,0.0
 2020-04-08,us,ohio,39.91592258,-83.78498252,84039023,US,USA,840,39023.0,clark,"Clark, Ohio, US",13,2,0.0,0.0
 2020-04-09,us,ohio,39.91592258,-83.78498252,84039023,US,USA,840,39023.0,clark,"Clark, Ohio, US",14,1,0.0,0.0
+2020-04-10,us,ohio,39.91592258,-83.78498252,84039023,US,USA,840,39023.0,clark,"Clark, Ohio, US",14,0,0.0,0.0
+2020-04-11,us,ohio,39.91592258,-83.78498252,84039023,US,USA,840,39023.0,clark,"Clark, Ohio, US",18,4,0.0,0.0

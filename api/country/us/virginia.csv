@@ -78,6 +78,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,0.0,0.0,84080051,US,USA,840,80051.0,out-of-va,"Out of VA, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,0.0,0.0,84080051,US,USA,840,80051.0,out-of-va,"Out of VA, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,0.0,0.0,84080051,US,USA,840,80051.0,out-of-va,"Out of VA, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,0.0,0.0,84080051,US,USA,840,80051.0,out-of-va,"Out of VA, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,0.0,0.0,84080051,US,USA,840,80051.0,out-of-va,"Out of VA, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,0.0,0.0,84090051,US,USA,840,90051.0,unassigned,"Unassigned, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,0.0,0.0,84090051,US,USA,840,90051.0,unassigned,"Unassigned, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,0.0,0.0,84090051,US,USA,840,90051.0,unassigned,"Unassigned, Virginia, US",0,0,0.0,0.0
@@ -157,6 +159,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,0.0,0.0,84090051,US,USA,840,90051.0,unassigned,"Unassigned, Virginia, US",0,0,50.0,0.0
 2020-04-08,us,virginia,0.0,0.0,84090051,US,USA,840,90051.0,unassigned,"Unassigned, Virginia, US",0,0,42.0,-8.0
 2020-04-09,us,virginia,0.0,0.0,84090051,US,USA,840,90051.0,unassigned,"Unassigned, Virginia, US",0,0,78.0,36.0
+2020-04-10,us,virginia,0.0,0.0,84090051,US,USA,840,90051.0,unassigned,"Unassigned, Virginia, US",0,0,83.0,5.0
+2020-04-11,us,virginia,0.0,0.0,84090051,US,USA,840,90051.0,unassigned,"Unassigned, Virginia, US",0,0,91.0,8.0
 2020-01-22,us,virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,danville,"Danville, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,danville,"Danville, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,danville,"Danville, Virginia, US",0,0,0.0,0.0
@@ -236,6 +240,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,danville,"Danville, Virginia, US",15,2,0.0,0.0
 2020-04-08,us,virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,danville,"Danville, Virginia, US",15,0,0.0,0.0
 2020-04-09,us,virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,danville,"Danville, Virginia, US",19,4,0.0,0.0
+2020-04-10,us,virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,danville,"Danville, Virginia, US",20,1,0.0,0.0
+2020-04-11,us,virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,danville,"Danville, Virginia, US",20,0,0.0,0.0
 2020-01-22,us,virginia,36.6163024,-82.16359122,84051520,US,USA,840,51520.0,bristol,"Bristol, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.6163024,-82.16359122,84051520,US,USA,840,51520.0,bristol,"Bristol, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.6163024,-82.16359122,84051520,US,USA,840,51520.0,bristol,"Bristol, Virginia, US",0,0,0.0,0.0
@@ -315,6 +321,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.6163024,-82.16359122,84051520,US,USA,840,51520.0,bristol,"Bristol, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,36.6163024,-82.16359122,84051520,US,USA,840,51520.0,bristol,"Bristol, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,36.6163024,-82.16359122,84051520,US,USA,840,51520.0,bristol,"Bristol, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,36.6163024,-82.16359122,84051520,US,USA,840,51520.0,bristol,"Bristol, Virginia, US",1,0,0.0,0.0
+2020-04-11,us,virginia,36.6163024,-82.16359122,84051520,US,USA,840,51520.0,bristol,"Bristol, Virginia, US",1,0,0.0,0.0
 2020-01-22,us,virginia,36.65677234,-81.23215889,84051077,US,USA,840,51077.0,grayson,"Grayson, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.65677234,-81.23215889,84051077,US,USA,840,51077.0,grayson,"Grayson, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.65677234,-81.23215889,84051077,US,USA,840,51077.0,grayson,"Grayson, Virginia, US",0,0,0.0,0.0
@@ -394,6 +402,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.65677234,-81.23215889,84051077,US,USA,840,51077.0,grayson,"Grayson, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,36.65677234,-81.23215889,84051077,US,USA,840,51077.0,grayson,"Grayson, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,36.65677234,-81.23215889,84051077,US,USA,840,51077.0,grayson,"Grayson, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,36.65677234,-81.23215889,84051077,US,USA,840,51077.0,grayson,"Grayson, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,36.65677234,-81.23215889,84051077,US,USA,840,51077.0,grayson,"Grayson, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,36.66601852,-80.91703124,84051640,US,USA,840,51640.0,galax,"Galax, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.66601852,-80.91703124,84051640,US,USA,840,51640.0,galax,"Galax, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.66601852,-80.91703124,84051640,US,USA,840,51640.0,galax,"Galax, Virginia, US",0,0,0.0,0.0
@@ -473,6 +483,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.66601852,-80.91703124,84051640,US,USA,840,51640.0,galax,"Galax, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,36.66601852,-80.91703124,84051640,US,USA,840,51640.0,galax,"Galax, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,36.66601852,-80.91703124,84051640,US,USA,840,51640.0,galax,"Galax, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,36.66601852,-80.91703124,84051640,US,USA,840,51640.0,galax,"Galax, Virginia, US",1,0,0.0,0.0
+2020-04-11,us,virginia,36.66601852,-80.91703124,84051640,US,USA,840,51640.0,galax,"Galax, Virginia, US",1,0,0.0,0.0
 2020-01-22,us,virginia,36.67670048,-76.30545744,84051550,US,USA,840,51550.0,chesapeake,"Chesapeake, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.67670048,-76.30545744,84051550,US,USA,840,51550.0,chesapeake,"Chesapeake, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.67670048,-76.30545744,84051550,US,USA,840,51550.0,chesapeake,"Chesapeake, Virginia, US",0,0,0.0,0.0
@@ -552,6 +564,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.67670048,-76.30545744,84051550,US,USA,840,51550.0,chesapeake,"Chesapeake, Virginia, US",80,3,0.0,0.0
 2020-04-08,us,virginia,36.67670048,-76.30545744,84051550,US,USA,840,51550.0,chesapeake,"Chesapeake, Virginia, US",99,19,0.0,0.0
 2020-04-09,us,virginia,36.67670048,-76.30545744,84051550,US,USA,840,51550.0,chesapeake,"Chesapeake, Virginia, US",101,2,0.0,0.0
+2020-04-10,us,virginia,36.67670048,-76.30545744,84051550,US,USA,840,51550.0,chesapeake,"Chesapeake, Virginia, US",109,8,0.0,0.0
+2020-04-11,us,virginia,36.67670048,-76.30545744,84051550,US,USA,840,51550.0,chesapeake,"Chesapeake, Virginia, US",115,6,0.0,0.0
 2020-01-22,us,virginia,36.67878901,-77.56351439,84051081,US,USA,840,51081.0,greensville,"Greensville, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.67878901,-77.56351439,84051081,US,USA,840,51081.0,greensville,"Greensville, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.67878901,-77.56351439,84051081,US,USA,840,51081.0,greensville,"Greensville, Virginia, US",0,0,0.0,0.0
@@ -631,6 +645,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.67878901,-77.56351439,84051081,US,USA,840,51081.0,greensville,"Greensville, Virginia, US",5,1,0.0,0.0
 2020-04-08,us,virginia,36.67878901,-77.56351439,84051081,US,USA,840,51081.0,greensville,"Greensville, Virginia, US",5,0,0.0,0.0
 2020-04-09,us,virginia,36.67878901,-77.56351439,84051081,US,USA,840,51081.0,greensville,"Greensville, Virginia, US",6,1,0.0,0.0
+2020-04-10,us,virginia,36.67878901,-77.56351439,84051081,US,USA,840,51081.0,greensville,"Greensville, Virginia, US",7,1,0.0,0.0
+2020-04-11,us,virginia,36.67878901,-77.56351439,84051081,US,USA,840,51081.0,greensville,"Greensville, Virginia, US",8,1,0.0,0.0
 2020-01-22,us,virginia,36.67882005,-78.36131056,84051117,US,USA,840,51117.0,mecklenburg,"Mecklenburg, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.67882005,-78.36131056,84051117,US,USA,840,51117.0,mecklenburg,"Mecklenburg, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.67882005,-78.36131056,84051117,US,USA,840,51117.0,mecklenburg,"Mecklenburg, Virginia, US",0,0,0.0,0.0
@@ -710,6 +726,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.67882005,-78.36131056,84051117,US,USA,840,51117.0,mecklenburg,"Mecklenburg, Virginia, US",12,0,0.0,0.0
 2020-04-08,us,virginia,36.67882005,-78.36131056,84051117,US,USA,840,51117.0,mecklenburg,"Mecklenburg, Virginia, US",16,4,0.0,0.0
 2020-04-09,us,virginia,36.67882005,-78.36131056,84051117,US,USA,840,51117.0,mecklenburg,"Mecklenburg, Virginia, US",25,9,0.0,0.0
+2020-04-10,us,virginia,36.67882005,-78.36131056,84051117,US,USA,840,51117.0,mecklenburg,"Mecklenburg, Virginia, US",48,23,0.0,0.0
+2020-04-11,us,virginia,36.67882005,-78.36131056,84051117,US,USA,840,51117.0,mecklenburg,"Mecklenburg, Virginia, US",53,5,0.0,0.0
 2020-01-22,us,virginia,36.6801638,-80.2865648,84051141,US,USA,840,51141.0,patrick,"Patrick, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.6801638,-80.2865648,84051141,US,USA,840,51141.0,patrick,"Patrick, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.6801638,-80.2865648,84051141,US,USA,840,51141.0,patrick,"Patrick, Virginia, US",0,0,0.0,0.0
@@ -789,6 +807,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.6801638,-80.2865648,84051141,US,USA,840,51141.0,patrick,"Patrick, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,36.6801638,-80.2865648,84051141,US,USA,840,51141.0,patrick,"Patrick, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,36.6801638,-80.2865648,84051141,US,USA,840,51141.0,patrick,"Patrick, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,36.6801638,-80.2865648,84051141,US,USA,840,51141.0,patrick,"Patrick, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,36.6801638,-80.2865648,84051141,US,USA,840,51141.0,patrick,"Patrick, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,36.68212094,-79.86352771,84051690,US,USA,840,51690.0,martinsville,"Martinsville, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.68212094,-79.86352771,84051690,US,USA,840,51690.0,martinsville,"Martinsville, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.68212094,-79.86352771,84051690,US,USA,840,51690.0,martinsville,"Martinsville, Virginia, US",0,0,0.0,0.0
@@ -868,6 +888,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.68212094,-79.86352771,84051690,US,USA,840,51690.0,martinsville,"Martinsville, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,36.68212094,-79.86352771,84051690,US,USA,840,51690.0,martinsville,"Martinsville, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,36.68212094,-79.86352771,84051690,US,USA,840,51690.0,martinsville,"Martinsville, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,36.68212094,-79.86352771,84051690,US,USA,840,51690.0,martinsville,"Martinsville, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,36.68212094,-79.86352771,84051690,US,USA,840,51690.0,martinsville,"Martinsville, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,36.6831435,-76.93859681,84051620,US,USA,840,51620.0,franklin-city,"Franklin City, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.6831435,-76.93859681,84051620,US,USA,840,51620.0,franklin-city,"Franklin City, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.6831435,-76.93859681,84051620,US,USA,840,51620.0,franklin-city,"Franklin City, Virginia, US",0,0,0.0,0.0
@@ -947,6 +969,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.6831435,-76.93859681,84051620,US,USA,840,51620.0,franklin-city,"Franklin City, Virginia, US",4,0,0.0,0.0
 2020-04-08,us,virginia,36.6831435,-76.93859681,84051620,US,USA,840,51620.0,franklin-city,"Franklin City, Virginia, US",5,1,0.0,0.0
 2020-04-09,us,virginia,36.6831435,-76.93859681,84051620,US,USA,840,51620.0,franklin-city,"Franklin City, Virginia, US",6,1,0.0,0.0
+2020-04-10,us,virginia,36.6831435,-76.93859681,84051620,US,USA,840,51620.0,franklin-city,"Franklin City, Virginia, US",6,0,0.0,0.0
+2020-04-11,us,virginia,36.6831435,-76.93859681,84051620,US,USA,840,51620.0,franklin-city,"Franklin City, Virginia, US",6,0,0.0,0.0
 2020-01-22,us,virginia,36.68542395,-79.87634026,84051089,US,USA,840,51089.0,henry,"Henry, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.68542395,-79.87634026,84051089,US,USA,840,51089.0,henry,"Henry, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.68542395,-79.87634026,84051089,US,USA,840,51089.0,henry,"Henry, Virginia, US",0,0,0.0,0.0
@@ -1026,6 +1050,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.68542395,-79.87634026,84051089,US,USA,840,51089.0,henry,"Henry, Virginia, US",4,1,0.0,0.0
 2020-04-08,us,virginia,36.68542395,-79.87634026,84051089,US,USA,840,51089.0,henry,"Henry, Virginia, US",4,0,0.0,0.0
 2020-04-09,us,virginia,36.68542395,-79.87634026,84051089,US,USA,840,51089.0,henry,"Henry, Virginia, US",5,1,0.0,0.0
+2020-04-10,us,virginia,36.68542395,-79.87634026,84051089,US,USA,840,51089.0,henry,"Henry, Virginia, US",5,0,0.0,0.0
+2020-04-11,us,virginia,36.68542395,-79.87634026,84051089,US,USA,840,51089.0,henry,"Henry, Virginia, US",8,3,0.0,0.0
 2020-01-22,us,virginia,36.69455571,-77.53406129,84051595,US,USA,840,51595.0,emporia,"Emporia, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.69455571,-77.53406129,84051595,US,USA,840,51595.0,emporia,"Emporia, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.69455571,-77.53406129,84051595,US,USA,840,51595.0,emporia,"Emporia, Virginia, US",0,0,0.0,0.0
@@ -1105,6 +1131,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.69455571,-77.53406129,84051595,US,USA,840,51595.0,emporia,"Emporia, Virginia, US",2,0,0.0,0.0
 2020-04-08,us,virginia,36.69455571,-77.53406129,84051595,US,USA,840,51595.0,emporia,"Emporia, Virginia, US",4,2,0.0,0.0
 2020-04-09,us,virginia,36.69455571,-77.53406129,84051595,US,USA,840,51595.0,emporia,"Emporia, Virginia, US",5,1,0.0,0.0
+2020-04-10,us,virginia,36.69455571,-77.53406129,84051595,US,USA,840,51595.0,emporia,"Emporia, Virginia, US",5,0,0.0,0.0
+2020-04-11,us,virginia,36.69455571,-77.53406129,84051595,US,USA,840,51595.0,emporia,"Emporia, Virginia, US",7,2,0.0,0.0
 2020-01-22,us,virginia,36.70155394,-76.63603554,84051800,US,USA,840,51800.0,suffolk,"Suffolk, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.70155394,-76.63603554,84051800,US,USA,840,51800.0,suffolk,"Suffolk, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.70155394,-76.63603554,84051800,US,USA,840,51800.0,suffolk,"Suffolk, Virginia, US",0,0,0.0,0.0
@@ -1184,6 +1212,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.70155394,-76.63603554,84051800,US,USA,840,51800.0,suffolk,"Suffolk, Virginia, US",30,2,0.0,0.0
 2020-04-08,us,virginia,36.70155394,-76.63603554,84051800,US,USA,840,51800.0,suffolk,"Suffolk, Virginia, US",31,1,0.0,0.0
 2020-04-09,us,virginia,36.70155394,-76.63603554,84051800,US,USA,840,51800.0,suffolk,"Suffolk, Virginia, US",31,0,0.0,0.0
+2020-04-10,us,virginia,36.70155394,-76.63603554,84051800,US,USA,840,51800.0,suffolk,"Suffolk, Virginia, US",35,4,0.0,0.0
+2020-04-11,us,virginia,36.70155394,-76.63603554,84051800,US,USA,840,51800.0,suffolk,"Suffolk, Virginia, US",40,5,0.0,0.0
 2020-01-22,us,virginia,36.70586667,-83.12606515,84051105,US,USA,840,51105.0,lee,"Lee, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.70586667,-83.12606515,84051105,US,USA,840,51105.0,lee,"Lee, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.70586667,-83.12606515,84051105,US,USA,840,51105.0,lee,"Lee, Virginia, US",0,0,0.0,0.0
@@ -1263,6 +1293,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.70586667,-83.12606515,84051105,US,USA,840,51105.0,lee,"Lee, Virginia, US",2,0,0.0,0.0
 2020-04-08,us,virginia,36.70586667,-83.12606515,84051105,US,USA,840,51105.0,lee,"Lee, Virginia, US",3,1,0.0,0.0
 2020-04-09,us,virginia,36.70586667,-83.12606515,84051105,US,USA,840,51105.0,lee,"Lee, Virginia, US",3,0,0.0,0.0
+2020-04-10,us,virginia,36.70586667,-83.12606515,84051105,US,USA,840,51105.0,lee,"Lee, Virginia, US",3,0,0.0,0.0
+2020-04-11,us,virginia,36.70586667,-83.12606515,84051105,US,USA,840,51105.0,lee,"Lee, Virginia, US",6,3,0.0,0.0
 2020-01-22,us,virginia,36.71466456,-82.60171704,84051169,US,USA,840,51169.0,scott,"Scott, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.71466456,-82.60171704,84051169,US,USA,840,51169.0,scott,"Scott, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.71466456,-82.60171704,84051169,US,USA,840,51169.0,scott,"Scott, Virginia, US",0,0,0.0,0.0
@@ -1342,6 +1374,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.71466456,-82.60171704,84051169,US,USA,840,51169.0,scott,"Scott, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,36.71466456,-82.60171704,84051169,US,USA,840,51169.0,scott,"Scott, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,36.71466456,-82.60171704,84051169,US,USA,840,51169.0,scott,"Scott, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,36.71466456,-82.60171704,84051169,US,USA,840,51169.0,scott,"Scott, Virginia, US",3,3,0.0,0.0
+2020-04-11,us,virginia,36.71466456,-82.60171704,84051169,US,USA,840,51169.0,scott,"Scott, Virginia, US",3,0,0.0,0.0
 2020-01-22,us,virginia,36.72231125,-77.10642712,84051175,US,USA,840,51175.0,southampton,"Southampton, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.72231125,-77.10642712,84051175,US,USA,840,51175.0,southampton,"Southampton, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.72231125,-77.10642712,84051175,US,USA,840,51175.0,southampton,"Southampton, Virginia, US",0,0,0.0,0.0
@@ -1421,6 +1455,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.72231125,-77.10642712,84051175,US,USA,840,51175.0,southampton,"Southampton, Virginia, US",5,0,0.0,0.0
 2020-04-08,us,virginia,36.72231125,-77.10642712,84051175,US,USA,840,51175.0,southampton,"Southampton, Virginia, US",5,0,0.0,0.0
 2020-04-09,us,virginia,36.72231125,-77.10642712,84051175,US,USA,840,51175.0,southampton,"Southampton, Virginia, US",5,0,0.0,0.0
+2020-04-10,us,virginia,36.72231125,-77.10642712,84051175,US,USA,840,51175.0,southampton,"Southampton, Virginia, US",5,0,0.0,0.0
+2020-04-11,us,virginia,36.72231125,-77.10642712,84051175,US,USA,840,51175.0,southampton,"Southampton, Virginia, US",5,0,0.0,0.0
 2020-01-22,us,virginia,36.72341572,-81.95666289,84051191,US,USA,840,51191.0,washington,"Washington, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.72341572,-81.95666289,84051191,US,USA,840,51191.0,washington,"Washington, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.72341572,-81.95666289,84051191,US,USA,840,51191.0,washington,"Washington, Virginia, US",0,0,0.0,0.0
@@ -1500,6 +1536,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.72341572,-81.95666289,84051191,US,USA,840,51191.0,washington,"Washington, Virginia, US",10,5,0.0,0.0
 2020-04-08,us,virginia,36.72341572,-81.95666289,84051191,US,USA,840,51191.0,washington,"Washington, Virginia, US",12,2,0.0,0.0
 2020-04-09,us,virginia,36.72341572,-81.95666289,84051191,US,USA,840,51191.0,washington,"Washington, Virginia, US",15,3,0.0,0.0
+2020-04-10,us,virginia,36.72341572,-81.95666289,84051191,US,USA,840,51191.0,washington,"Washington, Virginia, US",17,2,0.0,0.0
+2020-04-11,us,virginia,36.72341572,-81.95666289,84051191,US,USA,840,51191.0,washington,"Washington, Virginia, US",24,7,0.0,0.0
 2020-01-22,us,virginia,36.73066666,-80.73455942,84051035,US,USA,840,51035.0,carroll,"Carroll, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.73066666,-80.73455942,84051035,US,USA,840,51035.0,carroll,"Carroll, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.73066666,-80.73455942,84051035,US,USA,840,51035.0,carroll,"Carroll, Virginia, US",0,0,0.0,0.0
@@ -1579,6 +1617,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.73066666,-80.73455942,84051035,US,USA,840,51035.0,carroll,"Carroll, Virginia, US",2,1,0.0,0.0
 2020-04-08,us,virginia,36.73066666,-80.73455942,84051035,US,USA,840,51035.0,carroll,"Carroll, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,36.73066666,-80.73455942,84051035,US,USA,840,51035.0,carroll,"Carroll, Virginia, US",3,1,0.0,0.0
+2020-04-10,us,virginia,36.73066666,-80.73455942,84051035,US,USA,840,51035.0,carroll,"Carroll, Virginia, US",3,0,0.0,0.0
+2020-04-11,us,virginia,36.73066666,-80.73455942,84051035,US,USA,840,51035.0,carroll,"Carroll, Virginia, US",3,0,0.0,0.0
 2020-01-22,us,virginia,36.73285734,-76.04566934,84051810,US,USA,840,51810.0,virginia-beach,"Virginia Beach, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.73285734,-76.04566934,84051810,US,USA,840,51810.0,virginia-beach,"Virginia Beach, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.73285734,-76.04566934,84051810,US,USA,840,51810.0,virginia-beach,"Virginia Beach, Virginia, US",0,0,0.0,0.0
@@ -1658,6 +1698,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.73285734,-76.04566934,84051810,US,USA,840,51810.0,virginia-beach,"Virginia Beach, Virginia, US",200,22,1.0,0.0
 2020-04-08,us,virginia,36.73285734,-76.04566934,84051810,US,USA,840,51810.0,virginia-beach,"Virginia Beach, Virginia, US",207,7,1.0,0.0
 2020-04-09,us,virginia,36.73285734,-76.04566934,84051810,US,USA,840,51810.0,virginia-beach,"Virginia Beach, Virginia, US",219,12,1.0,0.0
+2020-04-10,us,virginia,36.73285734,-76.04566934,84051810,US,USA,840,51810.0,virginia-beach,"Virginia Beach, Virginia, US",224,5,1.0,0.0
+2020-04-11,us,virginia,36.73285734,-76.04566934,84051810,US,USA,840,51810.0,virginia-beach,"Virginia Beach, Virginia, US",236,12,1.0,0.0
 2020-01-22,us,virginia,36.76366949,-77.8593436,84051025,US,USA,840,51025.0,brunswick,"Brunswick, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.76366949,-77.8593436,84051025,US,USA,840,51025.0,brunswick,"Brunswick, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.76366949,-77.8593436,84051025,US,USA,840,51025.0,brunswick,"Brunswick, Virginia, US",0,0,0.0,0.0
@@ -1737,6 +1779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.76366949,-77.8593436,84051025,US,USA,840,51025.0,brunswick,"Brunswick, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,36.76366949,-77.8593436,84051025,US,USA,840,51025.0,brunswick,"Brunswick, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,36.76366949,-77.8593436,84051025,US,USA,840,51025.0,brunswick,"Brunswick, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,36.76366949,-77.8593436,84051025,US,USA,840,51025.0,brunswick,"Brunswick, Virginia, US",2,1,0.0,0.0
+2020-04-11,us,virginia,36.76366949,-77.8593436,84051025,US,USA,840,51025.0,brunswick,"Brunswick, Virginia, US",3,1,0.0,0.0
 2020-01-22,us,virginia,36.76654925,-78.93512622,84051083,US,USA,840,51083.0,halifax,"Halifax, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.76654925,-78.93512622,84051083,US,USA,840,51083.0,halifax,"Halifax, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.76654925,-78.93512622,84051083,US,USA,840,51083.0,halifax,"Halifax, Virginia, US",0,0,0.0,0.0
@@ -1816,6 +1860,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.76654925,-78.93512622,84051083,US,USA,840,51083.0,halifax,"Halifax, Virginia, US",2,0,0.0,0.0
 2020-04-08,us,virginia,36.76654925,-78.93512622,84051083,US,USA,840,51083.0,halifax,"Halifax, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,36.76654925,-78.93512622,84051083,US,USA,840,51083.0,halifax,"Halifax, Virginia, US",4,2,0.0,0.0
+2020-04-10,us,virginia,36.76654925,-78.93512622,84051083,US,USA,840,51083.0,halifax,"Halifax, Virginia, US",5,1,0.0,0.0
+2020-04-11,us,virginia,36.76654925,-78.93512622,84051083,US,USA,840,51083.0,halifax,"Halifax, Virginia, US",7,2,0.0,0.0
 2020-01-22,us,virginia,36.81980341,-79.39731264,84051143,US,USA,840,51143.0,pittsylvania,"Pittsylvania, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.81980341,-79.39731264,84051143,US,USA,840,51143.0,pittsylvania,"Pittsylvania, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.81980341,-79.39731264,84051143,US,USA,840,51143.0,pittsylvania,"Pittsylvania, Virginia, US",0,0,0.0,0.0
@@ -1895,6 +1941,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.81980341,-79.39731264,84051143,US,USA,840,51143.0,pittsylvania,"Pittsylvania, Virginia, US",3,0,0.0,0.0
 2020-04-08,us,virginia,36.81980341,-79.39731264,84051143,US,USA,840,51143.0,pittsylvania,"Pittsylvania, Virginia, US",3,0,0.0,0.0
 2020-04-09,us,virginia,36.81980341,-79.39731264,84051143,US,USA,840,51143.0,pittsylvania,"Pittsylvania, Virginia, US",4,1,0.0,0.0
+2020-04-10,us,virginia,36.81980341,-79.39731264,84051143,US,USA,840,51143.0,pittsylvania,"Pittsylvania, Virginia, US",4,0,0.0,0.0
+2020-04-11,us,virginia,36.81980341,-79.39731264,84051143,US,USA,840,51143.0,pittsylvania,"Pittsylvania, Virginia, US",4,0,0.0,0.0
 2020-01-22,us,virginia,36.84455636,-81.53344948,84051173,US,USA,840,51173.0,smyth,"Smyth, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.84455636,-81.53344948,84051173,US,USA,840,51173.0,smyth,"Smyth, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.84455636,-81.53344948,84051173,US,USA,840,51173.0,smyth,"Smyth, Virginia, US",0,0,0.0,0.0
@@ -1974,6 +2022,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.84455636,-81.53344948,84051173,US,USA,840,51173.0,smyth,"Smyth, Virginia, US",3,1,0.0,0.0
 2020-04-08,us,virginia,36.84455636,-81.53344948,84051173,US,USA,840,51173.0,smyth,"Smyth, Virginia, US",5,2,0.0,0.0
 2020-04-09,us,virginia,36.84455636,-81.53344948,84051173,US,USA,840,51173.0,smyth,"Smyth, Virginia, US",8,3,0.0,0.0
+2020-04-10,us,virginia,36.84455636,-81.53344948,84051173,US,USA,840,51173.0,smyth,"Smyth, Virginia, US",9,1,0.0,0.0
+2020-04-11,us,virginia,36.84455636,-81.53344948,84051173,US,USA,840,51173.0,smyth,"Smyth, Virginia, US",9,0,0.0,0.0
 2020-01-22,us,virginia,36.85914825,-76.35971629,84051740,US,USA,840,51740.0,portsmouth,"Portsmouth, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.85914825,-76.35971629,84051740,US,USA,840,51740.0,portsmouth,"Portsmouth, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.85914825,-76.35971629,84051740,US,USA,840,51740.0,portsmouth,"Portsmouth, Virginia, US",0,0,0.0,0.0
@@ -2053,6 +2103,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.85914825,-76.35971629,84051740,US,USA,840,51740.0,portsmouth,"Portsmouth, Virginia, US",36,9,0.0,0.0
 2020-04-08,us,virginia,36.85914825,-76.35971629,84051740,US,USA,840,51740.0,portsmouth,"Portsmouth, Virginia, US",41,5,0.0,0.0
 2020-04-09,us,virginia,36.85914825,-76.35971629,84051740,US,USA,840,51740.0,portsmouth,"Portsmouth, Virginia, US",44,3,0.0,0.0
+2020-04-10,us,virginia,36.85914825,-76.35971629,84051740,US,USA,840,51740.0,portsmouth,"Portsmouth, Virginia, US",48,4,0.0,0.0
+2020-04-11,us,virginia,36.85914825,-76.35971629,84051740,US,USA,840,51740.0,portsmouth,"Portsmouth, Virginia, US",49,1,0.0,0.0
 2020-01-22,us,virginia,36.89934014,-76.26420872,84051710,US,USA,840,51710.0,norfolk,"Norfolk, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.89934014,-76.26420872,84051710,US,USA,840,51710.0,norfolk,"Norfolk, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.89934014,-76.26420872,84051710,US,USA,840,51710.0,norfolk,"Norfolk, Virginia, US",0,0,0.0,0.0
@@ -2132,6 +2184,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.89934014,-76.26420872,84051710,US,USA,840,51710.0,norfolk,"Norfolk, Virginia, US",72,12,0.0,0.0
 2020-04-08,us,virginia,36.89934014,-76.26420872,84051710,US,USA,840,51710.0,norfolk,"Norfolk, Virginia, US",77,5,0.0,0.0
 2020-04-09,us,virginia,36.89934014,-76.26420872,84051710,US,USA,840,51710.0,norfolk,"Norfolk, Virginia, US",84,7,0.0,0.0
+2020-04-10,us,virginia,36.89934014,-76.26420872,84051710,US,USA,840,51710.0,norfolk,"Norfolk, Virginia, US",88,4,0.0,0.0
+2020-04-11,us,virginia,36.89934014,-76.26420872,84051710,US,USA,840,51710.0,norfolk,"Norfolk, Virginia, US",90,2,0.0,0.0
 2020-01-22,us,virginia,36.90579348,-76.70842863,84051093,US,USA,840,51093.0,isle-of-wight,"Isle of Wight, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.90579348,-76.70842863,84051093,US,USA,840,51093.0,isle-of-wight,"Isle of Wight, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.90579348,-76.70842863,84051093,US,USA,840,51093.0,isle-of-wight,"Isle of Wight, Virginia, US",0,0,0.0,0.0
@@ -2211,6 +2265,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.90579348,-76.70842863,84051093,US,USA,840,51093.0,isle-of-wight,"Isle of Wight, Virginia, US",23,1,0.0,0.0
 2020-04-08,us,virginia,36.90579348,-76.70842863,84051093,US,USA,840,51093.0,isle-of-wight,"Isle of Wight, Virginia, US",23,0,0.0,0.0
 2020-04-09,us,virginia,36.90579348,-76.70842863,84051093,US,USA,840,51093.0,isle-of-wight,"Isle of Wight, Virginia, US",24,1,0.0,0.0
+2020-04-10,us,virginia,36.90579348,-76.70842863,84051093,US,USA,840,51093.0,isle-of-wight,"Isle of Wight, Virginia, US",24,0,0.0,0.0
+2020-04-11,us,virginia,36.90579348,-76.70842863,84051093,US,USA,840,51093.0,isle-of-wight,"Isle of Wight, Virginia, US",28,4,0.0,0.0
 2020-01-22,us,virginia,36.91582035,-81.07834059,84051197,US,USA,840,51197.0,wythe,"Wythe, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.91582035,-81.07834059,84051197,US,USA,840,51197.0,wythe,"Wythe, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.91582035,-81.07834059,84051197,US,USA,840,51197.0,wythe,"Wythe, Virginia, US",0,0,0.0,0.0
@@ -2290,6 +2346,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.91582035,-81.07834059,84051197,US,USA,840,51197.0,wythe,"Wythe, Virginia, US",3,0,0.0,0.0
 2020-04-08,us,virginia,36.91582035,-81.07834059,84051197,US,USA,840,51197.0,wythe,"Wythe, Virginia, US",6,3,0.0,0.0
 2020-04-09,us,virginia,36.91582035,-81.07834059,84051197,US,USA,840,51197.0,wythe,"Wythe, Virginia, US",6,0,0.0,0.0
+2020-04-10,us,virginia,36.91582035,-81.07834059,84051197,US,USA,840,51197.0,wythe,"Wythe, Virginia, US",7,1,0.0,0.0
+2020-04-11,us,virginia,36.91582035,-81.07834059,84051197,US,USA,840,51197.0,wythe,"Wythe, Virginia, US",7,0,0.0,0.0
 2020-01-22,us,virginia,36.92432914,-77.25791182,84051183,US,USA,840,51183.0,sussex,"Sussex, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.92432914,-77.25791182,84051183,US,USA,840,51183.0,sussex,"Sussex, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.92432914,-77.25791182,84051183,US,USA,840,51183.0,sussex,"Sussex, Virginia, US",0,0,0.0,0.0
@@ -2369,6 +2427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.92432914,-77.25791182,84051183,US,USA,840,51183.0,sussex,"Sussex, Virginia, US",5,1,0.0,0.0
 2020-04-08,us,virginia,36.92432914,-77.25791182,84051183,US,USA,840,51183.0,sussex,"Sussex, Virginia, US",6,1,0.0,0.0
 2020-04-09,us,virginia,36.92432914,-77.25791182,84051183,US,USA,840,51183.0,sussex,"Sussex, Virginia, US",6,0,0.0,0.0
+2020-04-10,us,virginia,36.92432914,-77.25791182,84051183,US,USA,840,51183.0,sussex,"Sussex, Virginia, US",8,2,0.0,0.0
+2020-04-11,us,virginia,36.92432914,-77.25791182,84051183,US,USA,840,51183.0,sussex,"Sussex, Virginia, US",8,0,0.0,0.0
 2020-01-22,us,virginia,36.9302126,-80.36738849,84051063,US,USA,840,51063.0,floyd,"Floyd, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.9302126,-80.36738849,84051063,US,USA,840,51063.0,floyd,"Floyd, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.9302126,-80.36738849,84051063,US,USA,840,51063.0,floyd,"Floyd, Virginia, US",0,0,0.0,0.0
@@ -2448,6 +2508,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.9302126,-80.36738849,84051063,US,USA,840,51063.0,floyd,"Floyd, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,36.9302126,-80.36738849,84051063,US,USA,840,51063.0,floyd,"Floyd, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,36.9302126,-80.36738849,84051063,US,USA,840,51063.0,floyd,"Floyd, Virginia, US",1,1,0.0,0.0
+2020-04-10,us,virginia,36.9302126,-80.36738849,84051063,US,USA,840,51063.0,floyd,"Floyd, Virginia, US",0,-1,0.0,0.0
+2020-04-11,us,virginia,36.9302126,-80.36738849,84051063,US,USA,840,51063.0,floyd,"Floyd, Virginia, US",1,1,0.0,0.0
 2020-01-22,us,virginia,36.93028320000001,-82.10095486,84051167,US,USA,840,51167.0,russell,"Russell, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.93028320000001,-82.10095486,84051167,US,USA,840,51167.0,russell,"Russell, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.93028320000001,-82.10095486,84051167,US,USA,840,51167.0,russell,"Russell, Virginia, US",0,0,0.0,0.0
@@ -2527,6 +2589,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.93028320000001,-82.10095486,84051167,US,USA,840,51167.0,russell,"Russell, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,36.93028320000001,-82.10095486,84051167,US,USA,840,51167.0,russell,"Russell, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,36.93028320000001,-82.10095486,84051167,US,USA,840,51167.0,russell,"Russell, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,36.93028320000001,-82.10095486,84051167,US,USA,840,51167.0,russell,"Russell, Virginia, US",1,0,0.0,0.0
+2020-04-11,us,virginia,36.93028320000001,-82.10095486,84051167,US,USA,840,51167.0,russell,"Russell, Virginia, US",1,0,0.0,0.0
 2020-01-22,us,virginia,36.93357076,-82.62750411,84051720,US,USA,840,51720.0,norton,"Norton, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.93357076,-82.62750411,84051720,US,USA,840,51720.0,norton,"Norton, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.93357076,-82.62750411,84051720,US,USA,840,51720.0,norton,"Norton, Virginia, US",0,0,0.0,0.0
@@ -2606,6 +2670,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.93357076,-82.62750411,84051720,US,USA,840,51720.0,norton,"Norton, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,36.93357076,-82.62750411,84051720,US,USA,840,51720.0,norton,"Norton, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,36.93357076,-82.62750411,84051720,US,USA,840,51720.0,norton,"Norton, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,36.93357076,-82.62750411,84051720,US,USA,840,51720.0,norton,"Norton, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,36.93357076,-82.62750411,84051720,US,USA,840,51720.0,norton,"Norton, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,36.94618528,-78.24133319,84051111,US,USA,840,51111.0,lunenburg,"Lunenburg, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.94618528,-78.24133319,84051111,US,USA,840,51111.0,lunenburg,"Lunenburg, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.94618528,-78.24133319,84051111,US,USA,840,51111.0,lunenburg,"Lunenburg, Virginia, US",0,0,0.0,0.0
@@ -2685,6 +2751,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.94618528,-78.24133319,84051111,US,USA,840,51111.0,lunenburg,"Lunenburg, Virginia, US",2,2,0.0,0.0
 2020-04-08,us,virginia,36.94618528,-78.24133319,84051111,US,USA,840,51111.0,lunenburg,"Lunenburg, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,36.94618528,-78.24133319,84051111,US,USA,840,51111.0,lunenburg,"Lunenburg, Virginia, US",2,0,0.0,0.0
+2020-04-10,us,virginia,36.94618528,-78.24133319,84051111,US,USA,840,51111.0,lunenburg,"Lunenburg, Virginia, US",2,0,0.0,0.0
+2020-04-11,us,virginia,36.94618528,-78.24133319,84051111,US,USA,840,51111.0,lunenburg,"Lunenburg, Virginia, US",3,1,0.0,0.0
 2020-01-22,us,virginia,36.9746148,-82.62410519,84051195,US,USA,840,51195.0,wise,"Wise, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.9746148,-82.62410519,84051195,US,USA,840,51195.0,wise,"Wise, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.9746148,-82.62410519,84051195,US,USA,840,51195.0,wise,"Wise, Virginia, US",0,0,0.0,0.0
@@ -2764,6 +2832,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.9746148,-82.62410519,84051195,US,USA,840,51195.0,wise,"Wise, Virginia, US",3,2,0.0,0.0
 2020-04-08,us,virginia,36.9746148,-82.62410519,84051195,US,USA,840,51195.0,wise,"Wise, Virginia, US",4,1,0.0,0.0
 2020-04-09,us,virginia,36.9746148,-82.62410519,84051195,US,USA,840,51195.0,wise,"Wise, Virginia, US",5,1,0.0,0.0
+2020-04-10,us,virginia,36.9746148,-82.62410519,84051195,US,USA,840,51195.0,wise,"Wise, Virginia, US",8,3,0.0,0.0
+2020-04-11,us,virginia,36.9746148,-82.62410519,84051195,US,USA,840,51195.0,wise,"Wise, Virginia, US",8,0,0.0,0.0
 2020-01-22,us,virginia,36.99536167,-79.88023649,84051067,US,USA,840,51067.0,franklin,"Franklin, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,36.99536167,-79.88023649,84051067,US,USA,840,51067.0,franklin,"Franklin, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,36.99536167,-79.88023649,84051067,US,USA,840,51067.0,franklin,"Franklin, Virginia, US",0,0,0.0,0.0
@@ -2843,6 +2913,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,36.99536167,-79.88023649,84051067,US,USA,840,51067.0,franklin,"Franklin, Virginia, US",11,1,0.0,0.0
 2020-04-08,us,virginia,36.99536167,-79.88023649,84051067,US,USA,840,51067.0,franklin,"Franklin, Virginia, US",12,1,0.0,0.0
 2020-04-09,us,virginia,36.99536167,-79.88023649,84051067,US,USA,840,51067.0,franklin,"Franklin, Virginia, US",13,1,0.0,0.0
+2020-04-10,us,virginia,36.99536167,-79.88023649,84051067,US,USA,840,51067.0,franklin,"Franklin, Virginia, US",13,0,0.0,0.0
+2020-04-11,us,virginia,36.99536167,-79.88023649,84051067,US,USA,840,51067.0,franklin,"Franklin, Virginia, US",14,1,0.0,0.0
 2020-01-22,us,virginia,37.01909701,-78.66314092,84051037,US,USA,840,51037.0,charlotte,"Charlotte, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.01909701,-78.66314092,84051037,US,USA,840,51037.0,charlotte,"Charlotte, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.01909701,-78.66314092,84051037,US,USA,840,51037.0,charlotte,"Charlotte, Virginia, US",0,0,0.0,0.0
@@ -2922,6 +2994,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.01909701,-78.66314092,84051037,US,USA,840,51037.0,charlotte,"Charlotte, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,37.01909701,-78.66314092,84051037,US,USA,840,51037.0,charlotte,"Charlotte, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,37.01909701,-78.66314092,84051037,US,USA,840,51037.0,charlotte,"Charlotte, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,37.01909701,-78.66314092,84051037,US,USA,840,51037.0,charlotte,"Charlotte, Virginia, US",2,1,0.0,0.0
+2020-04-11,us,virginia,37.01909701,-78.66314092,84051037,US,USA,840,51037.0,charlotte,"Charlotte, Virginia, US",2,0,0.0,0.0
 2020-01-22,us,virginia,37.03513786,-76.35879121,84051650,US,USA,840,51650.0,hampton,"Hampton, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.03513786,-76.35879121,84051650,US,USA,840,51650.0,hampton,"Hampton, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.03513786,-76.35879121,84051650,US,USA,840,51650.0,hampton,"Hampton, Virginia, US",0,0,0.0,0.0
@@ -3001,6 +3075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.03513786,-76.35879121,84051650,US,USA,840,51650.0,hampton,"Hampton, Virginia, US",43,2,1.0,0.0
 2020-04-08,us,virginia,37.03513786,-76.35879121,84051650,US,USA,840,51650.0,hampton,"Hampton, Virginia, US",53,10,1.0,0.0
 2020-04-09,us,virginia,37.03513786,-76.35879121,84051650,US,USA,840,51650.0,hampton,"Hampton, Virginia, US",53,0,1.0,0.0
+2020-04-10,us,virginia,37.03513786,-76.35879121,84051650,US,USA,840,51650.0,hampton,"Hampton, Virginia, US",62,9,1.0,0.0
+2020-04-11,us,virginia,37.03513786,-76.35879121,84051650,US,USA,840,51650.0,hampton,"Hampton, Virginia, US",64,2,1.0,0.0
 2020-01-22,us,virginia,37.06474963,-80.71229738,84051155,US,USA,840,51155.0,pulaski,"Pulaski, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.06474963,-80.71229738,84051155,US,USA,840,51155.0,pulaski,"Pulaski, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.06474963,-80.71229738,84051155,US,USA,840,51155.0,pulaski,"Pulaski, Virginia, US",0,0,0.0,0.0
@@ -3080,6 +3156,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.06474963,-80.71229738,84051155,US,USA,840,51155.0,pulaski,"Pulaski, Virginia, US",2,1,0.0,0.0
 2020-04-08,us,virginia,37.06474963,-80.71229738,84051155,US,USA,840,51155.0,pulaski,"Pulaski, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,37.06474963,-80.71229738,84051155,US,USA,840,51155.0,pulaski,"Pulaski, Virginia, US",3,1,0.0,0.0
+2020-04-10,us,virginia,37.06474963,-80.71229738,84051155,US,USA,840,51155.0,pulaski,"Pulaski, Virginia, US",4,1,0.0,0.0
+2020-04-11,us,virginia,37.06474963,-80.71229738,84051155,US,USA,840,51155.0,pulaski,"Pulaski, Virginia, US",4,0,0.0,0.0
 2020-01-22,us,virginia,37.07544585,-77.63451754,84051053,US,USA,840,51053.0,dinwiddie,"Dinwiddie, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.07544585,-77.63451754,84051053,US,USA,840,51053.0,dinwiddie,"Dinwiddie, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.07544585,-77.63451754,84051053,US,USA,840,51053.0,dinwiddie,"Dinwiddie, Virginia, US",0,0,0.0,0.0
@@ -3159,6 +3237,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.07544585,-77.63451754,84051053,US,USA,840,51053.0,dinwiddie,"Dinwiddie, Virginia, US",1,1,0.0,0.0
 2020-04-08,us,virginia,37.07544585,-77.63451754,84051053,US,USA,840,51053.0,dinwiddie,"Dinwiddie, Virginia, US",2,1,0.0,0.0
 2020-04-09,us,virginia,37.07544585,-77.63451754,84051053,US,USA,840,51053.0,dinwiddie,"Dinwiddie, Virginia, US",2,0,0.0,0.0
+2020-04-10,us,virginia,37.07544585,-77.63451754,84051053,US,USA,840,51053.0,dinwiddie,"Dinwiddie, Virginia, US",3,1,0.0,0.0
+2020-04-11,us,virginia,37.07544585,-77.63451754,84051053,US,USA,840,51053.0,dinwiddie,"Dinwiddie, Virginia, US",6,3,0.0,0.0
 2020-01-22,us,virginia,37.08166899,-76.51754109,84051700,US,USA,840,51700.0,newport-news,"Newport News, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.08166899,-76.51754109,84051700,US,USA,840,51700.0,newport-news,"Newport News, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.08166899,-76.51754109,84051700,US,USA,840,51700.0,newport-news,"Newport News, Virginia, US",0,0,0.0,0.0
@@ -3238,6 +3318,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.08166899,-76.51754109,84051700,US,USA,840,51700.0,newport-news,"Newport News, Virginia, US",57,3,1.0,0.0
 2020-04-08,us,virginia,37.08166899,-76.51754109,84051700,US,USA,840,51700.0,newport-news,"Newport News, Virginia, US",60,3,1.0,0.0
 2020-04-09,us,virginia,37.08166899,-76.51754109,84051700,US,USA,840,51700.0,newport-news,"Newport News, Virginia, US",64,4,1.0,0.0
+2020-04-10,us,virginia,37.08166899,-76.51754109,84051700,US,USA,840,51700.0,newport-news,"Newport News, Virginia, US",68,4,1.0,0.0
+2020-04-11,us,virginia,37.08166899,-76.51754109,84051700,US,USA,840,51700.0,newport-news,"Newport News, Virginia, US",75,7,1.0,0.0
 2020-01-22,us,virginia,37.11781893,-76.88450012,84051181,US,USA,840,51181.0,surry,"Surry, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.11781893,-76.88450012,84051181,US,USA,840,51181.0,surry,"Surry, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.11781893,-76.88450012,84051181,US,USA,840,51181.0,surry,"Surry, Virginia, US",0,0,0.0,0.0
@@ -3317,6 +3399,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.11781893,-76.88450012,84051181,US,USA,840,51181.0,surry,"Surry, Virginia, US",3,0,0.0,0.0
 2020-04-08,us,virginia,37.11781893,-76.88450012,84051181,US,USA,840,51181.0,surry,"Surry, Virginia, US",3,0,0.0,0.0
 2020-04-09,us,virginia,37.11781893,-76.88450012,84051181,US,USA,840,51181.0,surry,"Surry, Virginia, US",3,0,0.0,0.0
+2020-04-10,us,virginia,37.11781893,-76.88450012,84051181,US,USA,840,51181.0,surry,"Surry, Virginia, US",3,0,0.0,0.0
+2020-04-11,us,virginia,37.11781893,-76.88450012,84051181,US,USA,840,51181.0,surry,"Surry, Virginia, US",3,0,0.0,0.0
 2020-01-22,us,virginia,37.12191123,-81.56685568,84051185,US,USA,840,51185.0,tazewell,"Tazewell, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.12191123,-81.56685568,84051185,US,USA,840,51185.0,tazewell,"Tazewell, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.12191123,-81.56685568,84051185,US,USA,840,51185.0,tazewell,"Tazewell, Virginia, US",0,0,0.0,0.0
@@ -3396,6 +3480,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.12191123,-81.56685568,84051185,US,USA,840,51185.0,tazewell,"Tazewell, Virginia, US",4,1,0.0,0.0
 2020-04-08,us,virginia,37.12191123,-81.56685568,84051185,US,USA,840,51185.0,tazewell,"Tazewell, Virginia, US",4,0,0.0,0.0
 2020-04-09,us,virginia,37.12191123,-81.56685568,84051185,US,USA,840,51185.0,tazewell,"Tazewell, Virginia, US",4,0,0.0,0.0
+2020-04-10,us,virginia,37.12191123,-81.56685568,84051185,US,USA,840,51185.0,tazewell,"Tazewell, Virginia, US",4,0,0.0,0.0
+2020-04-11,us,virginia,37.12191123,-81.56685568,84051185,US,USA,840,51185.0,tazewell,"Tazewell, Virginia, US",4,0,0.0,0.0
 2020-01-22,us,virginia,37.12222899,-80.56027320000003,84051750,US,USA,840,51750.0,radford,"Radford, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.12222899,-80.56027320000003,84051750,US,USA,840,51750.0,radford,"Radford, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.12222899,-80.56027320000003,84051750,US,USA,840,51750.0,radford,"Radford, Virginia, US",0,0,0.0,0.0
@@ -3475,6 +3561,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.12222899,-80.56027320000003,84051750,US,USA,840,51750.0,radford,"Radford, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,37.12222899,-80.56027320000003,84051750,US,USA,840,51750.0,radford,"Radford, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,37.12222899,-80.56027320000003,84051750,US,USA,840,51750.0,radford,"Radford, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,37.12222899,-80.56027320000003,84051750,US,USA,840,51750.0,radford,"Radford, Virginia, US",1,0,0.0,0.0
+2020-04-11,us,virginia,37.12222899,-80.56027320000003,84051750,US,USA,840,51750.0,radford,"Radford, Virginia, US",1,0,0.0,0.0
 2020-01-22,us,virginia,37.12560977,-82.35124171,84051051,US,USA,840,51051.0,dickenson,"Dickenson, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.12560977,-82.35124171,84051051,US,USA,840,51051.0,dickenson,"Dickenson, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.12560977,-82.35124171,84051051,US,USA,840,51051.0,dickenson,"Dickenson, Virginia, US",0,0,0.0,0.0
@@ -3554,6 +3642,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.12560977,-82.35124171,84051051,US,USA,840,51051.0,dickenson,"Dickenson, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,37.12560977,-82.35124171,84051051,US,USA,840,51051.0,dickenson,"Dickenson, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,37.12560977,-82.35124171,84051051,US,USA,840,51051.0,dickenson,"Dickenson, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,37.12560977,-82.35124171,84051051,US,USA,840,51051.0,dickenson,"Dickenson, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,37.12560977,-82.35124171,84051051,US,USA,840,51051.0,dickenson,"Dickenson, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,37.13128068,-81.13599391,84051021,US,USA,840,51021.0,bland,"Bland, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.13128068,-81.13599391,84051021,US,USA,840,51021.0,bland,"Bland, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.13128068,-81.13599391,84051021,US,USA,840,51021.0,bland,"Bland, Virginia, US",0,0,0.0,0.0
@@ -3633,6 +3723,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.13128068,-81.13599391,84051021,US,USA,840,51021.0,bland,"Bland, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,37.13128068,-81.13599391,84051021,US,USA,840,51021.0,bland,"Bland, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,37.13128068,-81.13599391,84051021,US,USA,840,51021.0,bland,"Bland, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,37.13128068,-81.13599391,84051021,US,USA,840,51021.0,bland,"Bland, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,37.13128068,-81.13599391,84051021,US,USA,840,51021.0,bland,"Bland, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,37.14259351,-76.35798148,84051735,US,USA,840,51735.0,poquoson,"Poquoson, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.14259351,-76.35798148,84051735,US,USA,840,51735.0,poquoson,"Poquoson, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.14259351,-76.35798148,84051735,US,USA,840,51735.0,poquoson,"Poquoson, Virginia, US",0,0,0.0,0.0
@@ -3712,6 +3804,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.14259351,-76.35798148,84051735,US,USA,840,51735.0,poquoson,"Poquoson, Virginia, US",4,1,0.0,0.0
 2020-04-08,us,virginia,37.14259351,-76.35798148,84051735,US,USA,840,51735.0,poquoson,"Poquoson, Virginia, US",4,0,0.0,0.0
 2020-04-09,us,virginia,37.14259351,-76.35798148,84051735,US,USA,840,51735.0,poquoson,"Poquoson, Virginia, US",5,1,0.0,0.0
+2020-04-10,us,virginia,37.14259351,-76.35798148,84051735,US,USA,840,51735.0,poquoson,"Poquoson, Virginia, US",6,1,0.0,0.0
+2020-04-11,us,virginia,37.14259351,-76.35798148,84051735,US,USA,840,51735.0,poquoson,"Poquoson, Virginia, US",6,0,0.0,0.0
 2020-01-22,us,virginia,37.1435975,-78.05065922,84051135,US,USA,840,51135.0,nottoway,"Nottoway, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.1435975,-78.05065922,84051135,US,USA,840,51135.0,nottoway,"Nottoway, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.1435975,-78.05065922,84051135,US,USA,840,51135.0,nottoway,"Nottoway, Virginia, US",0,0,0.0,0.0
@@ -3791,6 +3885,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.1435975,-78.05065922,84051135,US,USA,840,51135.0,nottoway,"Nottoway, Virginia, US",3,2,0.0,0.0
 2020-04-08,us,virginia,37.1435975,-78.05065922,84051135,US,USA,840,51135.0,nottoway,"Nottoway, Virginia, US",3,0,0.0,0.0
 2020-04-09,us,virginia,37.1435975,-78.05065922,84051135,US,USA,840,51135.0,nottoway,"Nottoway, Virginia, US",3,0,0.0,0.0
+2020-04-10,us,virginia,37.1435975,-78.05065922,84051135,US,USA,840,51135.0,nottoway,"Nottoway, Virginia, US",3,0,0.0,0.0
+2020-04-11,us,virginia,37.1435975,-78.05065922,84051135,US,USA,840,51135.0,nottoway,"Nottoway, Virginia, US",4,1,0.0,0.0
 2020-01-22,us,virginia,37.17746986,-80.37868691,84051121,US,USA,840,51121.0,montgomery,"Montgomery, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.17746986,-80.37868691,84051121,US,USA,840,51121.0,montgomery,"Montgomery, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.17746986,-80.37868691,84051121,US,USA,840,51121.0,montgomery,"Montgomery, Virginia, US",0,0,0.0,0.0
@@ -3870,6 +3966,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.17746986,-80.37868691,84051121,US,USA,840,51121.0,montgomery,"Montgomery, Virginia, US",16,9,0.0,0.0
 2020-04-08,us,virginia,37.17746986,-80.37868691,84051121,US,USA,840,51121.0,montgomery,"Montgomery, Virginia, US",16,0,0.0,0.0
 2020-04-09,us,virginia,37.17746986,-80.37868691,84051121,US,USA,840,51121.0,montgomery,"Montgomery, Virginia, US",17,1,0.0,0.0
+2020-04-10,us,virginia,37.17746986,-80.37868691,84051121,US,USA,840,51121.0,montgomery,"Montgomery, Virginia, US",18,1,0.0,0.0
+2020-04-11,us,virginia,37.17746986,-80.37868691,84051121,US,USA,840,51121.0,montgomery,"Montgomery, Virginia, US",31,13,0.0,0.0
 2020-01-22,us,virginia,37.18497668,-77.22922187,84051149,US,USA,840,51149.0,prince-george,"Prince George, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.18497668,-77.22922187,84051149,US,USA,840,51149.0,prince-george,"Prince George, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.18497668,-77.22922187,84051149,US,USA,840,51149.0,prince-george,"Prince George, Virginia, US",0,0,0.0,0.0
@@ -3949,6 +4047,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.18497668,-77.22922187,84051149,US,USA,840,51149.0,prince-george,"Prince George, Virginia, US",21,3,0.0,0.0
 2020-04-08,us,virginia,37.18497668,-77.22922187,84051149,US,USA,840,51149.0,prince-george,"Prince George, Virginia, US",24,3,0.0,0.0
 2020-04-09,us,virginia,37.18497668,-77.22922187,84051149,US,USA,840,51149.0,prince-george,"Prince George, Virginia, US",25,1,0.0,0.0
+2020-04-10,us,virginia,37.18497668,-77.22922187,84051149,US,USA,840,51149.0,prince-george,"Prince George, Virginia, US",26,1,0.0,0.0
+2020-04-11,us,virginia,37.18497668,-77.22922187,84051149,US,USA,840,51149.0,prince-george,"Prince George, Virginia, US",26,0,0.0,0.0
 2020-01-22,us,virginia,37.20530399,-77.39368102,84051730,US,USA,840,51730.0,petersburg,"Petersburg, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.20530399,-77.39368102,84051730,US,USA,840,51730.0,petersburg,"Petersburg, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.20530399,-77.39368102,84051730,US,USA,840,51730.0,petersburg,"Petersburg, Virginia, US",0,0,0.0,0.0
@@ -4028,6 +4128,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.20530399,-77.39368102,84051730,US,USA,840,51730.0,petersburg,"Petersburg, Virginia, US",10,0,0.0,0.0
 2020-04-08,us,virginia,37.20530399,-77.39368102,84051730,US,USA,840,51730.0,petersburg,"Petersburg, Virginia, US",9,-1,0.0,0.0
 2020-04-09,us,virginia,37.20530399,-77.39368102,84051730,US,USA,840,51730.0,petersburg,"Petersburg, Virginia, US",12,3,0.0,0.0
+2020-04-10,us,virginia,37.20530399,-77.39368102,84051730,US,USA,840,51730.0,petersburg,"Petersburg, Virginia, US",13,1,0.0,0.0
+2020-04-11,us,virginia,37.20530399,-77.39368102,84051730,US,USA,840,51730.0,petersburg,"Petersburg, Virginia, US",17,4,0.0,0.0
 2020-01-22,us,virginia,37.20553386,-79.09678609,84051031,US,USA,840,51031.0,campbell,"Campbell, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.20553386,-79.09678609,84051031,US,USA,840,51031.0,campbell,"Campbell, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.20553386,-79.09678609,84051031,US,USA,840,51031.0,campbell,"Campbell, Virginia, US",0,0,0.0,0.0
@@ -4107,6 +4209,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.20553386,-79.09678609,84051031,US,USA,840,51031.0,campbell,"Campbell, Virginia, US",3,1,0.0,0.0
 2020-04-08,us,virginia,37.20553386,-79.09678609,84051031,US,USA,840,51031.0,campbell,"Campbell, Virginia, US",4,1,0.0,0.0
 2020-04-09,us,virginia,37.20553386,-79.09678609,84051031,US,USA,840,51031.0,campbell,"Campbell, Virginia, US",4,0,0.0,0.0
+2020-04-10,us,virginia,37.20553386,-79.09678609,84051031,US,USA,840,51031.0,campbell,"Campbell, Virginia, US",7,3,0.0,0.0
+2020-04-11,us,virginia,37.20553386,-79.09678609,84051031,US,USA,840,51031.0,campbell,"Campbell, Virginia, US",9,2,0.0,0.0
 2020-01-22,us,virginia,37.22554789,-78.43597949,84051147,US,USA,840,51147.0,prince-edward,"Prince Edward, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.22554789,-78.43597949,84051147,US,USA,840,51147.0,prince-edward,"Prince Edward, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.22554789,-78.43597949,84051147,US,USA,840,51147.0,prince-edward,"Prince Edward, Virginia, US",0,0,0.0,0.0
@@ -4186,6 +4290,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.22554789,-78.43597949,84051147,US,USA,840,51147.0,prince-edward,"Prince Edward, Virginia, US",3,0,0.0,0.0
 2020-04-08,us,virginia,37.22554789,-78.43597949,84051147,US,USA,840,51147.0,prince-edward,"Prince Edward, Virginia, US",3,0,0.0,0.0
 2020-04-09,us,virginia,37.22554789,-78.43597949,84051147,US,USA,840,51147.0,prince-edward,"Prince Edward, Virginia, US",3,0,0.0,0.0
+2020-04-10,us,virginia,37.22554789,-78.43597949,84051147,US,USA,840,51147.0,prince-edward,"Prince Edward, Virginia, US",5,2,0.0,0.0
+2020-04-11,us,virginia,37.22554789,-78.43597949,84051147,US,USA,840,51147.0,prince-edward,"Prince Edward, Virginia, US",8,3,0.0,0.0
 2020-01-22,us,virginia,37.24374789,-76.54412815,84051199,US,USA,840,51199.0,york,"York, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.24374789,-76.54412815,84051199,US,USA,840,51199.0,york,"York, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.24374789,-76.54412815,84051199,US,USA,840,51199.0,york,"York, Virginia, US",0,0,0.0,0.0
@@ -4265,6 +4371,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.24374789,-76.54412815,84051199,US,USA,840,51199.0,york,"York, Virginia, US",25,4,1.0,0.0
 2020-04-08,us,virginia,37.24374789,-76.54412815,84051199,US,USA,840,51199.0,york,"York, Virginia, US",25,0,1.0,0.0
 2020-04-09,us,virginia,37.24374789,-76.54412815,84051199,US,USA,840,51199.0,york,"York, Virginia, US",25,0,1.0,0.0
+2020-04-10,us,virginia,37.24374789,-76.54412815,84051199,US,USA,840,51199.0,york,"York, Virginia, US",25,0,1.0,0.0
+2020-04-11,us,virginia,37.24374789,-76.54412815,84051199,US,USA,840,51199.0,york,"York, Virginia, US",27,2,1.0,0.0
 2020-01-22,us,virginia,37.26420587,-77.39609676,84051570,US,USA,840,51570.0,colonial-heights,"Colonial Heights, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.26420587,-77.39609676,84051570,US,USA,840,51570.0,colonial-heights,"Colonial Heights, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.26420587,-77.39609676,84051570,US,USA,840,51570.0,colonial-heights,"Colonial Heights, Virginia, US",0,0,0.0,0.0
@@ -4344,6 +4452,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.26420587,-77.39609676,84051570,US,USA,840,51570.0,colonial-heights,"Colonial Heights, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,37.26420587,-77.39609676,84051570,US,USA,840,51570.0,colonial-heights,"Colonial Heights, Virginia, US",1,1,0.0,0.0
 2020-04-09,us,virginia,37.26420587,-77.39609676,84051570,US,USA,840,51570.0,colonial-heights,"Colonial Heights, Virginia, US",2,1,0.0,0.0
+2020-04-10,us,virginia,37.26420587,-77.39609676,84051570,US,USA,840,51570.0,colonial-heights,"Colonial Heights, Virginia, US",4,2,0.0,0.0
+2020-04-11,us,virginia,37.26420587,-77.39609676,84051570,US,USA,840,51570.0,colonial-heights,"Colonial Heights, Virginia, US",6,2,0.0,0.0
 2020-01-22,us,virginia,37.26818323,-82.03749726,84051027,US,USA,840,51027.0,buchanan,"Buchanan, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.26818323,-82.03749726,84051027,US,USA,840,51027.0,buchanan,"Buchanan, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.26818323,-82.03749726,84051027,US,USA,840,51027.0,buchanan,"Buchanan, Virginia, US",0,0,0.0,0.0
@@ -4423,6 +4533,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.26818323,-82.03749726,84051027,US,USA,840,51027.0,buchanan,"Buchanan, Virginia, US",1,1,0.0,0.0
 2020-04-08,us,virginia,37.26818323,-82.03749726,84051027,US,USA,840,51027.0,buchanan,"Buchanan, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,37.26818323,-82.03749726,84051027,US,USA,840,51027.0,buchanan,"Buchanan, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,37.26818323,-82.03749726,84051027,US,USA,840,51027.0,buchanan,"Buchanan, Virginia, US",1,0,0.0,0.0
+2020-04-11,us,virginia,37.26818323,-82.03749726,84051027,US,USA,840,51027.0,buchanan,"Buchanan, Virginia, US",2,1,0.0,0.0
 2020-01-22,us,virginia,37.26865804,-80.06396753,84051161,US,USA,840,51161.0,roanoke,"Roanoke, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.26865804,-80.06396753,84051161,US,USA,840,51161.0,roanoke,"Roanoke, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.26865804,-80.06396753,84051161,US,USA,840,51161.0,roanoke,"Roanoke, Virginia, US",0,0,0.0,0.0
@@ -4502,6 +4614,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.26865804,-80.06396753,84051161,US,USA,840,51161.0,roanoke,"Roanoke, Virginia, US",8,3,0.0,0.0
 2020-04-08,us,virginia,37.26865804,-80.06396753,84051161,US,USA,840,51161.0,roanoke,"Roanoke, Virginia, US",9,1,0.0,0.0
 2020-04-09,us,virginia,37.26865804,-80.06396753,84051161,US,USA,840,51161.0,roanoke,"Roanoke, Virginia, US",9,0,0.0,0.0
+2020-04-10,us,virginia,37.26865804,-80.06396753,84051161,US,USA,840,51161.0,roanoke,"Roanoke, Virginia, US",13,4,0.0,0.0
+2020-04-11,us,virginia,37.26865804,-80.06396753,84051161,US,USA,840,51161.0,roanoke,"Roanoke, Virginia, US",13,0,0.0,0.0
 2020-01-22,us,virginia,37.27791025,-79.96189766,84051770,US,USA,840,51770.0,roanoke-city,"Roanoke City, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.27791025,-79.96189766,84051770,US,USA,840,51770.0,roanoke-city,"Roanoke City, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.27791025,-79.96189766,84051770,US,USA,840,51770.0,roanoke-city,"Roanoke City, Virginia, US",0,0,0.0,0.0
@@ -4581,6 +4695,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.27791025,-79.96189766,84051770,US,USA,840,51770.0,roanoke-city,"Roanoke City, Virginia, US",12,1,0.0,0.0
 2020-04-08,us,virginia,37.27791025,-79.96189766,84051770,US,USA,840,51770.0,roanoke-city,"Roanoke City, Virginia, US",14,2,0.0,0.0
 2020-04-09,us,virginia,37.27791025,-79.96189766,84051770,US,USA,840,51770.0,roanoke-city,"Roanoke City, Virginia, US",15,1,0.0,0.0
+2020-04-10,us,virginia,37.27791025,-79.96189766,84051770,US,USA,840,51770.0,roanoke-city,"Roanoke City, Virginia, US",16,1,0.0,0.0
+2020-04-11,us,virginia,37.27791025,-79.96189766,84051770,US,USA,840,51770.0,roanoke-city,"Roanoke City, Virginia, US",17,1,0.0,0.0
 2020-01-22,us,virginia,37.28131268,-76.70905141,84051830,US,USA,840,51830.0,williamsburg,"Williamsburg, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.28131268,-76.70905141,84051830,US,USA,840,51830.0,williamsburg,"Williamsburg, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.28131268,-76.70905141,84051830,US,USA,840,51830.0,williamsburg,"Williamsburg, Virginia, US",0,0,0.0,0.0
@@ -4660,6 +4776,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.28131268,-76.70905141,84051830,US,USA,840,51830.0,williamsburg,"Williamsburg, Virginia, US",14,1,1.0,0.0
 2020-04-08,us,virginia,37.28131268,-76.70905141,84051830,US,USA,840,51830.0,williamsburg,"Williamsburg, Virginia, US",16,2,1.0,0.0
 2020-04-09,us,virginia,37.28131268,-76.70905141,84051830,US,USA,840,51830.0,williamsburg,"Williamsburg, Virginia, US",16,0,1.0,0.0
+2020-04-10,us,virginia,37.28131268,-76.70905141,84051830,US,USA,840,51830.0,williamsburg,"Williamsburg, Virginia, US",17,1,1.0,0.0
+2020-04-11,us,virginia,37.28131268,-76.70905141,84051830,US,USA,840,51830.0,williamsburg,"Williamsburg, Virginia, US",17,0,1.0,0.0
 2020-01-22,us,virginia,37.2836193,-80.06219455,84051775,US,USA,840,51775.0,salem,"Salem, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.2836193,-80.06219455,84051775,US,USA,840,51775.0,salem,"Salem, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.2836193,-80.06219455,84051775,US,USA,840,51775.0,salem,"Salem, Virginia, US",0,0,0.0,0.0
@@ -4739,6 +4857,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.2836193,-80.06219455,84051775,US,USA,840,51775.0,salem,"Salem, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,37.2836193,-80.06219455,84051775,US,USA,840,51775.0,salem,"Salem, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,37.2836193,-80.06219455,84051775,US,USA,840,51775.0,salem,"Salem, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,37.2836193,-80.06219455,84051775,US,USA,840,51775.0,salem,"Salem, Virginia, US",1,0,0.0,0.0
+2020-04-11,us,virginia,37.2836193,-80.06219455,84051775,US,USA,840,51775.0,salem,"Salem, Virginia, US",1,0,0.0,0.0
 2020-01-22,us,virginia,37.29186313,-77.29754684,84051670,US,USA,840,51670.0,hopewell,"Hopewell, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.29186313,-77.29754684,84051670,US,USA,840,51670.0,hopewell,"Hopewell, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.29186313,-77.29754684,84051670,US,USA,840,51670.0,hopewell,"Hopewell, Virginia, US",0,0,0.0,0.0
@@ -4818,6 +4938,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.29186313,-77.29754684,84051670,US,USA,840,51670.0,hopewell,"Hopewell, Virginia, US",13,3,0.0,0.0
 2020-04-08,us,virginia,37.29186313,-77.29754684,84051670,US,USA,840,51670.0,hopewell,"Hopewell, Virginia, US",13,0,0.0,0.0
 2020-04-09,us,virginia,37.29186313,-77.29754684,84051670,US,USA,840,51670.0,hopewell,"Hopewell, Virginia, US",13,0,0.0,0.0
+2020-04-10,us,virginia,37.29186313,-77.29754684,84051670,US,USA,840,51670.0,hopewell,"Hopewell, Virginia, US",14,1,0.0,0.0
+2020-04-11,us,virginia,37.29186313,-77.29754684,84051670,US,USA,840,51670.0,hopewell,"Hopewell, Virginia, US",14,0,0.0,0.0
 2020-01-22,us,virginia,37.3080028,-79.5281964,84051019,US,USA,840,51019.0,bedford,"Bedford, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.3080028,-79.5281964,84051019,US,USA,840,51019.0,bedford,"Bedford, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.3080028,-79.5281964,84051019,US,USA,840,51019.0,bedford,"Bedford, Virginia, US",0,0,0.0,0.0
@@ -4897,6 +5019,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.3080028,-79.5281964,84051019,US,USA,840,51019.0,bedford,"Bedford, Virginia, US",8,3,0.0,0.0
 2020-04-08,us,virginia,37.3080028,-79.5281964,84051019,US,USA,840,51019.0,bedford,"Bedford, Virginia, US",12,4,0.0,0.0
 2020-04-09,us,virginia,37.3080028,-79.5281964,84051019,US,USA,840,51019.0,bedford,"Bedford, Virginia, US",12,0,0.0,0.0
+2020-04-10,us,virginia,37.3080028,-79.5281964,84051019,US,USA,840,51019.0,bedford,"Bedford, Virginia, US",15,3,0.0,0.0
+2020-04-11,us,virginia,37.3080028,-79.5281964,84051019,US,USA,840,51019.0,bedford,"Bedford, Virginia, US",15,0,0.0,0.0
 2020-01-22,us,virginia,37.31156958,-76.76950618,84051095,US,USA,840,51095.0,james-city,"James City, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.31156958,-76.76950618,84051095,US,USA,840,51095.0,james-city,"James City, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.31156958,-76.76950618,84051095,US,USA,840,51095.0,james-city,"James City, Virginia, US",0,0,0.0,0.0
@@ -4976,6 +5100,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.31156958,-76.76950618,84051095,US,USA,840,51095.0,james-city,"James City, Virginia, US",119,1,2.0,0.0
 2020-04-08,us,virginia,37.31156958,-76.76950618,84051095,US,USA,840,51095.0,james-city,"James City, Virginia, US",122,3,2.0,0.0
 2020-04-09,us,virginia,37.31156958,-76.76950618,84051095,US,USA,840,51095.0,james-city,"James City, Virginia, US",123,1,2.0,0.0
+2020-04-10,us,virginia,37.31156958,-76.76950618,84051095,US,USA,840,51095.0,james-city,"James City, Virginia, US",125,2,2.0,0.0
+2020-04-11,us,virginia,37.31156958,-76.76950618,84051095,US,USA,840,51095.0,james-city,"James City, Virginia, US",126,1,2.0,0.0
 2020-01-22,us,virginia,37.31234791,-80.70636931,84051071,US,USA,840,51071.0,giles,"Giles, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.31234791,-80.70636931,84051071,US,USA,840,51071.0,giles,"Giles, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.31234791,-80.70636931,84051071,US,USA,840,51071.0,giles,"Giles, Virginia, US",0,0,0.0,0.0
@@ -5055,6 +5181,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.31234791,-80.70636931,84051071,US,USA,840,51071.0,giles,"Giles, Virginia, US",2,1,0.0,0.0
 2020-04-08,us,virginia,37.31234791,-80.70636931,84051071,US,USA,840,51071.0,giles,"Giles, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,37.31234791,-80.70636931,84051071,US,USA,840,51071.0,giles,"Giles, Virginia, US",2,0,0.0,0.0
+2020-04-10,us,virginia,37.31234791,-80.70636931,84051071,US,USA,840,51071.0,giles,"Giles, Virginia, US",2,0,0.0,0.0
+2020-04-11,us,virginia,37.31234791,-80.70636931,84051071,US,USA,840,51071.0,giles,"Giles, Virginia, US",2,0,0.0,0.0
 2020-01-22,us,virginia,37.34062933,-75.87751591,84051131,US,USA,840,51131.0,northampton,"Northampton, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.34062933,-75.87751591,84051131,US,USA,840,51131.0,northampton,"Northampton, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.34062933,-75.87751591,84051131,US,USA,840,51131.0,northampton,"Northampton, Virginia, US",0,0,0.0,0.0
@@ -5134,6 +5262,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.34062933,-75.87751591,84051131,US,USA,840,51131.0,northampton,"Northampton, Virginia, US",2,0,0.0,0.0
 2020-04-08,us,virginia,37.34062933,-75.87751591,84051131,US,USA,840,51131.0,northampton,"Northampton, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,37.34062933,-75.87751591,84051131,US,USA,840,51131.0,northampton,"Northampton, Virginia, US",2,0,0.0,0.0
+2020-04-10,us,virginia,37.34062933,-75.87751591,84051131,US,USA,840,51131.0,northampton,"Northampton, Virginia, US",4,2,0.0,0.0
+2020-04-11,us,virginia,37.34062933,-75.87751591,84051131,US,USA,840,51131.0,northampton,"Northampton, Virginia, US",4,0,0.0,0.0
 2020-01-22,us,virginia,37.34081025,-77.98584649,84051007,US,USA,840,51007.0,amelia,"Amelia, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.34081025,-77.98584649,84051007,US,USA,840,51007.0,amelia,"Amelia, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.34081025,-77.98584649,84051007,US,USA,840,51007.0,amelia,"Amelia, Virginia, US",0,0,0.0,0.0
@@ -5213,6 +5343,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.34081025,-77.98584649,84051007,US,USA,840,51007.0,amelia,"Amelia, Virginia, US",7,1,0.0,0.0
 2020-04-08,us,virginia,37.34081025,-77.98584649,84051007,US,USA,840,51007.0,amelia,"Amelia, Virginia, US",8,1,0.0,0.0
 2020-04-09,us,virginia,37.34081025,-77.98584649,84051007,US,USA,840,51007.0,amelia,"Amelia, Virginia, US",8,0,0.0,0.0
+2020-04-10,us,virginia,37.34081025,-77.98584649,84051007,US,USA,840,51007.0,amelia,"Amelia, Virginia, US",9,1,0.0,0.0
+2020-04-11,us,virginia,37.34081025,-77.98584649,84051007,US,USA,840,51007.0,amelia,"Amelia, Virginia, US",9,0,0.0,0.0
 2020-01-22,us,virginia,37.35358063,-77.05634116,84051036,US,USA,840,51036.0,charles-city,"Charles City, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.35358063,-77.05634116,84051036,US,USA,840,51036.0,charles-city,"Charles City, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.35358063,-77.05634116,84051036,US,USA,840,51036.0,charles-city,"Charles City, Virginia, US",0,0,0.0,0.0
@@ -5292,6 +5424,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.35358063,-77.05634116,84051036,US,USA,840,51036.0,charles-city,"Charles City, Virginia, US",4,0,0.0,0.0
 2020-04-08,us,virginia,37.35358063,-77.05634116,84051036,US,USA,840,51036.0,charles-city,"Charles City, Virginia, US",5,1,0.0,0.0
 2020-04-09,us,virginia,37.35358063,-77.05634116,84051036,US,USA,840,51036.0,charles-city,"Charles City, Virginia, US",5,0,0.0,0.0
+2020-04-10,us,virginia,37.35358063,-77.05634116,84051036,US,USA,840,51036.0,charles-city,"Charles City, Virginia, US",7,2,0.0,0.0
+2020-04-11,us,virginia,37.35358063,-77.05634116,84051036,US,USA,840,51036.0,charles-city,"Charles City, Virginia, US",8,1,0.0,0.0
 2020-01-22,us,virginia,37.37373208,-77.58680140000001,84051041,US,USA,840,51041.0,chesterfield,"Chesterfield, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.37373208,-77.58680140000001,84051041,US,USA,840,51041.0,chesterfield,"Chesterfield, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.37373208,-77.58680140000001,84051041,US,USA,840,51041.0,chesterfield,"Chesterfield, Virginia, US",0,0,0.0,0.0
@@ -5371,6 +5505,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.37373208,-77.58680140000001,84051041,US,USA,840,51041.0,chesterfield,"Chesterfield, Virginia, US",128,20,0.0,0.0
 2020-04-08,us,virginia,37.37373208,-77.58680140000001,84051041,US,USA,840,51041.0,chesterfield,"Chesterfield, Virginia, US",145,17,0.0,0.0
 2020-04-09,us,virginia,37.37373208,-77.58680140000001,84051041,US,USA,840,51041.0,chesterfield,"Chesterfield, Virginia, US",158,13,0.0,0.0
+2020-04-10,us,virginia,37.37373208,-77.58680140000001,84051041,US,USA,840,51041.0,chesterfield,"Chesterfield, Virginia, US",179,21,0.0,0.0
+2020-04-11,us,virginia,37.37373208,-77.58680140000001,84051041,US,USA,840,51041.0,chesterfield,"Chesterfield, Virginia, US",203,24,0.0,0.0
 2020-01-22,us,virginia,37.37569884,-78.81340003,84051011,US,USA,840,51011.0,appomattox,"Appomattox, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.37569884,-78.81340003,84051011,US,USA,840,51011.0,appomattox,"Appomattox, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.37569884,-78.81340003,84051011,US,USA,840,51011.0,appomattox,"Appomattox, Virginia, US",0,0,0.0,0.0
@@ -5450,6 +5586,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.37569884,-78.81340003,84051011,US,USA,840,51011.0,appomattox,"Appomattox, Virginia, US",3,2,0.0,0.0
 2020-04-08,us,virginia,37.37569884,-78.81340003,84051011,US,USA,840,51011.0,appomattox,"Appomattox, Virginia, US",3,0,0.0,0.0
 2020-04-09,us,virginia,37.37569884,-78.81340003,84051011,US,USA,840,51011.0,appomattox,"Appomattox, Virginia, US",4,1,0.0,0.0
+2020-04-10,us,virginia,37.37569884,-78.81340003,84051011,US,USA,840,51011.0,appomattox,"Appomattox, Virginia, US",5,1,0.0,0.0
+2020-04-11,us,virginia,37.37569884,-78.81340003,84051011,US,USA,840,51011.0,appomattox,"Appomattox, Virginia, US",7,2,0.0,0.0
 2020-01-22,us,virginia,37.40021399,-79.19888138,84051680,US,USA,840,51680.0,lynchburg,"Lynchburg, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.40021399,-79.19888138,84051680,US,USA,840,51680.0,lynchburg,"Lynchburg, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.40021399,-79.19888138,84051680,US,USA,840,51680.0,lynchburg,"Lynchburg, Virginia, US",0,0,0.0,0.0
@@ -5529,6 +5667,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.40021399,-79.19888138,84051680,US,USA,840,51680.0,lynchburg,"Lynchburg, Virginia, US",20,9,0.0,0.0
 2020-04-08,us,virginia,37.40021399,-79.19888138,84051680,US,USA,840,51680.0,lynchburg,"Lynchburg, Virginia, US",20,0,0.0,0.0
 2020-04-09,us,virginia,37.40021399,-79.19888138,84051680,US,USA,840,51680.0,lynchburg,"Lynchburg, Virginia, US",21,1,0.0,0.0
+2020-04-10,us,virginia,37.40021399,-79.19888138,84051680,US,USA,840,51680.0,lynchburg,"Lynchburg, Virginia, US",27,6,0.0,0.0
+2020-04-11,us,virginia,37.40021399,-79.19888138,84051680,US,USA,840,51680.0,lynchburg,"Lynchburg, Virginia, US",31,4,0.0,0.0
 2020-01-22,us,virginia,37.40809042,-76.53524337,84051073,US,USA,840,51073.0,gloucester,"Gloucester, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.40809042,-76.53524337,84051073,US,USA,840,51073.0,gloucester,"Gloucester, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.40809042,-76.53524337,84051073,US,USA,840,51073.0,gloucester,"Gloucester, Virginia, US",0,0,0.0,0.0
@@ -5608,6 +5748,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.40809042,-76.53524337,84051073,US,USA,840,51073.0,gloucester,"Gloucester, Virginia, US",15,3,0.0,0.0
 2020-04-08,us,virginia,37.40809042,-76.53524337,84051073,US,USA,840,51073.0,gloucester,"Gloucester, Virginia, US",16,1,0.0,0.0
 2020-04-09,us,virginia,37.40809042,-76.53524337,84051073,US,USA,840,51073.0,gloucester,"Gloucester, Virginia, US",16,0,0.0,0.0
+2020-04-10,us,virginia,37.40809042,-76.53524337,84051073,US,USA,840,51073.0,gloucester,"Gloucester, Virginia, US",18,2,0.0,0.0
+2020-04-11,us,virginia,37.40809042,-76.53524337,84051073,US,USA,840,51073.0,gloucester,"Gloucester, Virginia, US",20,2,0.0,0.0
 2020-01-22,us,virginia,37.44164146,-76.34098896,84051115,US,USA,840,51115.0,mathews,"Mathews, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.44164146,-76.34098896,84051115,US,USA,840,51115.0,mathews,"Mathews, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.44164146,-76.34098896,84051115,US,USA,840,51115.0,mathews,"Mathews, Virginia, US",0,0,0.0,0.0
@@ -5687,6 +5829,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.44164146,-76.34098896,84051115,US,USA,840,51115.0,mathews,"Mathews, Virginia, US",2,0,0.0,0.0
 2020-04-08,us,virginia,37.44164146,-76.34098896,84051115,US,USA,840,51115.0,mathews,"Mathews, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,37.44164146,-76.34098896,84051115,US,USA,840,51115.0,mathews,"Mathews, Virginia, US",2,0,0.0,0.0
+2020-04-10,us,virginia,37.44164146,-76.34098896,84051115,US,USA,840,51115.0,mathews,"Mathews, Virginia, US",2,0,0.0,0.0
+2020-04-11,us,virginia,37.44164146,-76.34098896,84051115,US,USA,840,51115.0,mathews,"Mathews, Virginia, US",2,0,0.0,0.0
 2020-01-22,us,virginia,37.48133648,-80.21072274,84051045,US,USA,840,51045.0,craig,"Craig, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.48133648,-80.21072274,84051045,US,USA,840,51045.0,craig,"Craig, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.48133648,-80.21072274,84051045,US,USA,840,51045.0,craig,"Craig, Virginia, US",0,0,0.0,0.0
@@ -5766,6 +5910,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.48133648,-80.21072274,84051045,US,USA,840,51045.0,craig,"Craig, Virginia, US",2,2,0.0,0.0
 2020-04-08,us,virginia,37.48133648,-80.21072274,84051045,US,USA,840,51045.0,craig,"Craig, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,37.48133648,-80.21072274,84051045,US,USA,840,51045.0,craig,"Craig, Virginia, US",2,0,0.0,0.0
+2020-04-10,us,virginia,37.48133648,-80.21072274,84051045,US,USA,840,51045.0,craig,"Craig, Virginia, US",2,0,0.0,0.0
+2020-04-11,us,virginia,37.48133648,-80.21072274,84051045,US,USA,840,51045.0,craig,"Craig, Virginia, US",2,0,0.0,0.0
 2020-01-22,us,virginia,37.50694406,-76.99828634,84051127,US,USA,840,51127.0,new-kent,"New Kent, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.50694406,-76.99828634,84051127,US,USA,840,51127.0,new-kent,"New Kent, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.50694406,-76.99828634,84051127,US,USA,840,51127.0,new-kent,"New Kent, Virginia, US",0,0,0.0,0.0
@@ -5845,6 +5991,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.50694406,-76.99828634,84051127,US,USA,840,51127.0,new-kent,"New Kent, Virginia, US",12,0,0.0,0.0
 2020-04-08,us,virginia,37.50694406,-76.99828634,84051127,US,USA,840,51127.0,new-kent,"New Kent, Virginia, US",11,-1,0.0,0.0
 2020-04-09,us,virginia,37.50694406,-76.99828634,84051127,US,USA,840,51127.0,new-kent,"New Kent, Virginia, US",11,0,0.0,0.0
+2020-04-10,us,virginia,37.50694406,-76.99828634,84051127,US,USA,840,51127.0,new-kent,"New Kent, Virginia, US",13,2,0.0,0.0
+2020-04-11,us,virginia,37.50694406,-76.99828634,84051127,US,USA,840,51127.0,new-kent,"New Kent, Virginia, US",12,-1,0.0,0.0
 2020-01-22,us,virginia,37.51328851,-78.24398086,84051049,US,USA,840,51049.0,cumberland,"Cumberland, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.51328851,-78.24398086,84051049,US,USA,840,51049.0,cumberland,"Cumberland, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.51328851,-78.24398086,84051049,US,USA,840,51049.0,cumberland,"Cumberland, Virginia, US",0,0,0.0,0.0
@@ -5924,6 +6072,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.51328851,-78.24398086,84051049,US,USA,840,51049.0,cumberland,"Cumberland, Virginia, US",6,4,0.0,0.0
 2020-04-08,us,virginia,37.51328851,-78.24398086,84051049,US,USA,840,51049.0,cumberland,"Cumberland, Virginia, US",6,0,0.0,0.0
 2020-04-09,us,virginia,37.51328851,-78.24398086,84051049,US,USA,840,51049.0,cumberland,"Cumberland, Virginia, US",6,0,0.0,0.0
+2020-04-10,us,virginia,37.51328851,-78.24398086,84051049,US,USA,840,51049.0,cumberland,"Cumberland, Virginia, US",8,2,0.0,0.0
+2020-04-11,us,virginia,37.51328851,-78.24398086,84051049,US,USA,840,51049.0,cumberland,"Cumberland, Virginia, US",8,0,0.0,0.0
 2020-01-22,us,virginia,37.53255773,-77.47966921,84051760,US,USA,840,51760.0,richmond-city,"Richmond City, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.53255773,-77.47966921,84051760,US,USA,840,51760.0,richmond-city,"Richmond City, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.53255773,-77.47966921,84051760,US,USA,840,51760.0,richmond-city,"Richmond City, Virginia, US",0,0,0.0,0.0
@@ -6003,6 +6153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.53255773,-77.47966921,84051760,US,USA,840,51760.0,richmond-city,"Richmond City, Virginia, US",110,5,0.0,0.0
 2020-04-08,us,virginia,37.53255773,-77.47966921,84051760,US,USA,840,51760.0,richmond-city,"Richmond City, Virginia, US",119,9,0.0,0.0
 2020-04-09,us,virginia,37.53255773,-77.47966921,84051760,US,USA,840,51760.0,richmond-city,"Richmond City, Virginia, US",126,7,0.0,0.0
+2020-04-10,us,virginia,37.53255773,-77.47966921,84051760,US,USA,840,51760.0,richmond-city,"Richmond City, Virginia, US",139,13,0.0,0.0
+2020-04-11,us,virginia,37.53255773,-77.47966921,84051760,US,USA,840,51760.0,richmond-city,"Richmond City, Virginia, US",148,9,0.0,0.0
 2020-01-22,us,virginia,37.53460572,-77.39326555,84051087,US,USA,840,51087.0,henrico,"Henrico, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.53460572,-77.39326555,84051087,US,USA,840,51087.0,henrico,"Henrico, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.53460572,-77.39326555,84051087,US,USA,840,51087.0,henrico,"Henrico, Virginia, US",0,0,0.0,0.0
@@ -6082,6 +6234,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.53460572,-77.39326555,84051087,US,USA,840,51087.0,henrico,"Henrico, Virginia, US",267,60,2.0,0.0
 2020-04-08,us,virginia,37.53460572,-77.39326555,84051087,US,USA,840,51087.0,henrico,"Henrico, Virginia, US",291,24,2.0,0.0
 2020-04-09,us,virginia,37.53460572,-77.39326555,84051087,US,USA,840,51087.0,henrico,"Henrico, Virginia, US",319,28,2.0,0.0
+2020-04-10,us,virginia,37.53460572,-77.39326555,84051087,US,USA,840,51087.0,henrico,"Henrico, Virginia, US",342,23,2.0,0.0
+2020-04-11,us,virginia,37.53460572,-77.39326555,84051087,US,USA,840,51087.0,henrico,"Henrico, Virginia, US",368,26,2.0,0.0
 2020-01-22,us,virginia,37.55016038,-77.91267882,84051145,US,USA,840,51145.0,powhatan,"Powhatan, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.55016038,-77.91267882,84051145,US,USA,840,51145.0,powhatan,"Powhatan, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.55016038,-77.91267882,84051145,US,USA,840,51145.0,powhatan,"Powhatan, Virginia, US",0,0,0.0,0.0
@@ -6161,6 +6315,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.55016038,-77.91267882,84051145,US,USA,840,51145.0,powhatan,"Powhatan, Virginia, US",4,0,0.0,0.0
 2020-04-08,us,virginia,37.55016038,-77.91267882,84051145,US,USA,840,51145.0,powhatan,"Powhatan, Virginia, US",4,0,0.0,0.0
 2020-04-09,us,virginia,37.55016038,-77.91267882,84051145,US,USA,840,51145.0,powhatan,"Powhatan, Virginia, US",4,0,0.0,0.0
+2020-04-10,us,virginia,37.55016038,-77.91267882,84051145,US,USA,840,51145.0,powhatan,"Powhatan, Virginia, US",4,0,0.0,0.0
+2020-04-11,us,virginia,37.55016038,-77.91267882,84051145,US,USA,840,51145.0,powhatan,"Powhatan, Virginia, US",5,1,0.0,0.0
 2020-01-22,us,virginia,37.55531756,-79.80982182,84051023,US,USA,840,51023.0,botetourt,"Botetourt, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.55531756,-79.80982182,84051023,US,USA,840,51023.0,botetourt,"Botetourt, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.55531756,-79.80982182,84051023,US,USA,840,51023.0,botetourt,"Botetourt, Virginia, US",0,0,0.0,0.0
@@ -6240,6 +6396,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.55531756,-79.80982182,84051023,US,USA,840,51023.0,botetourt,"Botetourt, Virginia, US",18,3,0.0,0.0
 2020-04-08,us,virginia,37.55531756,-79.80982182,84051023,US,USA,840,51023.0,botetourt,"Botetourt, Virginia, US",18,0,0.0,0.0
 2020-04-09,us,virginia,37.55531756,-79.80982182,84051023,US,USA,840,51023.0,botetourt,"Botetourt, Virginia, US",18,0,0.0,0.0
+2020-04-10,us,virginia,37.55531756,-79.80982182,84051023,US,USA,840,51023.0,botetourt,"Botetourt, Virginia, US",21,3,0.0,0.0
+2020-04-11,us,virginia,37.55531756,-79.80982182,84051023,US,USA,840,51023.0,botetourt,"Botetourt, Virginia, US",22,1,0.0,0.0
 2020-01-22,us,virginia,37.57242268,-78.52518834,84051029,US,USA,840,51029.0,buckingham,"Buckingham, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.57242268,-78.52518834,84051029,US,USA,840,51029.0,buckingham,"Buckingham, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.57242268,-78.52518834,84051029,US,USA,840,51029.0,buckingham,"Buckingham, Virginia, US",0,0,0.0,0.0
@@ -6319,6 +6477,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.57242268,-78.52518834,84051029,US,USA,840,51029.0,buckingham,"Buckingham, Virginia, US",6,2,0.0,0.0
 2020-04-08,us,virginia,37.57242268,-78.52518834,84051029,US,USA,840,51029.0,buckingham,"Buckingham, Virginia, US",9,3,0.0,0.0
 2020-04-09,us,virginia,37.57242268,-78.52518834,84051029,US,USA,840,51029.0,buckingham,"Buckingham, Virginia, US",9,0,0.0,0.0
+2020-04-10,us,virginia,37.57242268,-78.52518834,84051029,US,USA,840,51029.0,buckingham,"Buckingham, Virginia, US",10,1,0.0,0.0
+2020-04-11,us,virginia,37.57242268,-78.52518834,84051029,US,USA,840,51029.0,buckingham,"Buckingham, Virginia, US",14,4,0.0,0.0
 2020-01-22,us,virginia,37.60308293,-79.14548696,84051009,US,USA,840,51009.0,amherst,"Amherst, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.60308293,-79.14548696,84051009,US,USA,840,51009.0,amherst,"Amherst, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.60308293,-79.14548696,84051009,US,USA,840,51009.0,amherst,"Amherst, Virginia, US",0,0,0.0,0.0
@@ -6398,6 +6558,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.60308293,-79.14548696,84051009,US,USA,840,51009.0,amherst,"Amherst, Virginia, US",8,2,0.0,0.0
 2020-04-08,us,virginia,37.60308293,-79.14548696,84051009,US,USA,840,51009.0,amherst,"Amherst, Virginia, US",8,0,0.0,0.0
 2020-04-09,us,virginia,37.60308293,-79.14548696,84051009,US,USA,840,51009.0,amherst,"Amherst, Virginia, US",9,1,0.0,0.0
+2020-04-10,us,virginia,37.60308293,-79.14548696,84051009,US,USA,840,51009.0,amherst,"Amherst, Virginia, US",9,0,0.0,0.0
+2020-04-11,us,virginia,37.60308293,-79.14548696,84051009,US,USA,840,51009.0,amherst,"Amherst, Virginia, US",10,1,0.0,0.0
 2020-01-22,us,virginia,37.63191998,-76.55064617,84051119,US,USA,840,51119.0,middlesex,"Middlesex, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.63191998,-76.55064617,84051119,US,USA,840,51119.0,middlesex,"Middlesex, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.63191998,-76.55064617,84051119,US,USA,840,51119.0,middlesex,"Middlesex, Virginia, US",0,0,0.0,0.0
@@ -6477,6 +6639,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.63191998,-76.55064617,84051119,US,USA,840,51119.0,middlesex,"Middlesex, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,37.63191998,-76.55064617,84051119,US,USA,840,51119.0,middlesex,"Middlesex, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,37.63191998,-76.55064617,84051119,US,USA,840,51119.0,middlesex,"Middlesex, Virginia, US",2,2,0.0,0.0
+2020-04-10,us,virginia,37.63191998,-76.55064617,84051119,US,USA,840,51119.0,middlesex,"Middlesex, Virginia, US",3,1,0.0,0.0
+2020-04-11,us,virginia,37.63191998,-76.55064617,84051119,US,USA,840,51119.0,middlesex,"Middlesex, Virginia, US",3,0,0.0,0.0
 2020-01-22,us,virginia,37.70965316,-77.09384941,84051101,US,USA,840,51101.0,king-william,"King William, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.70965316,-77.09384941,84051101,US,USA,840,51101.0,king-william,"King William, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.70965316,-77.09384941,84051101,US,USA,840,51101.0,king-william,"King William, Virginia, US",0,0,0.0,0.0
@@ -6556,6 +6720,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.70965316,-77.09384941,84051101,US,USA,840,51101.0,king-william,"King William, Virginia, US",2,0,0.0,0.0
 2020-04-08,us,virginia,37.70965316,-77.09384941,84051101,US,USA,840,51101.0,king-william,"King William, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,37.70965316,-77.09384941,84051101,US,USA,840,51101.0,king-william,"King William, Virginia, US",2,0,0.0,0.0
+2020-04-10,us,virginia,37.70965316,-77.09384941,84051101,US,USA,840,51101.0,king-william,"King William, Virginia, US",2,0,0.0,0.0
+2020-04-11,us,virginia,37.70965316,-77.09384941,84051101,US,USA,840,51101.0,king-william,"King William, Virginia, US",2,0,0.0,0.0
 2020-01-22,us,virginia,37.71044922,-76.88689628,84051097,US,USA,840,51097.0,king-and-queen,"King and Queen, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.71044922,-76.88689628,84051097,US,USA,840,51097.0,king-and-queen,"King and Queen, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.71044922,-76.88689628,84051097,US,USA,840,51097.0,king-and-queen,"King and Queen, Virginia, US",0,0,0.0,0.0
@@ -6635,6 +6801,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.71044922,-76.88689628,84051097,US,USA,840,51097.0,king-and-queen,"King and Queen, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,37.71044922,-76.88689628,84051097,US,USA,840,51097.0,king-and-queen,"King and Queen, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,37.71044922,-76.88689628,84051097,US,USA,840,51097.0,king-and-queen,"King and Queen, Virginia, US",2,1,0.0,0.0
+2020-04-10,us,virginia,37.71044922,-76.88689628,84051097,US,USA,840,51097.0,king-and-queen,"King and Queen, Virginia, US",2,0,0.0,0.0
+2020-04-11,us,virginia,37.71044922,-76.88689628,84051097,US,USA,840,51097.0,king-and-queen,"King and Queen, Virginia, US",2,0,0.0,0.0
 2020-01-22,us,virginia,37.71714806,-77.90381514,84051075,US,USA,840,51075.0,goochland,"Goochland, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.71714806,-77.90381514,84051075,US,USA,840,51075.0,goochland,"Goochland, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.71714806,-77.90381514,84051075,US,USA,840,51075.0,goochland,"Goochland, Virginia, US",0,0,0.0,0.0
@@ -6714,6 +6882,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.71714806,-77.90381514,84051075,US,USA,840,51075.0,goochland,"Goochland, Virginia, US",22,5,0.0,0.0
 2020-04-08,us,virginia,37.71714806,-77.90381514,84051075,US,USA,840,51075.0,goochland,"Goochland, Virginia, US",24,2,0.0,0.0
 2020-04-09,us,virginia,37.71714806,-77.90381514,84051075,US,USA,840,51075.0,goochland,"Goochland, Virginia, US",24,0,0.0,0.0
+2020-04-10,us,virginia,37.71714806,-77.90381514,84051075,US,USA,840,51075.0,goochland,"Goochland, Virginia, US",26,2,0.0,0.0
+2020-04-11,us,virginia,37.71714806,-77.90381514,84051075,US,USA,840,51075.0,goochland,"Goochland, Virginia, US",26,0,0.0,0.0
 2020-01-22,us,virginia,37.71889653,-76.46400482,84051103,US,USA,840,51103.0,lancaster,"Lancaster, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.71889653,-76.46400482,84051103,US,USA,840,51103.0,lancaster,"Lancaster, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.71889653,-76.46400482,84051103,US,USA,840,51103.0,lancaster,"Lancaster, Virginia, US",0,0,0.0,0.0
@@ -6793,6 +6963,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.71889653,-76.46400482,84051103,US,USA,840,51103.0,lancaster,"Lancaster, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,37.71889653,-76.46400482,84051103,US,USA,840,51103.0,lancaster,"Lancaster, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,37.71889653,-76.46400482,84051103,US,USA,840,51103.0,lancaster,"Lancaster, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,37.71889653,-76.46400482,84051103,US,USA,840,51103.0,lancaster,"Lancaster, Virginia, US",1,0,0.0,0.0
+2020-04-11,us,virginia,37.71889653,-76.46400482,84051103,US,USA,840,51103.0,lancaster,"Lancaster, Virginia, US",1,0,0.0,0.0
 2020-01-22,us,virginia,37.73484642,-79.35296097,84051530,US,USA,840,51530.0,buena-vista,"Buena Vista, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.73484642,-79.35296097,84051530,US,USA,840,51530.0,buena-vista,"Buena Vista, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.73484642,-79.35296097,84051530,US,USA,840,51530.0,buena-vista,"Buena Vista, Virginia, US",0,0,0.0,0.0
@@ -6872,6 +7044,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.73484642,-79.35296097,84051530,US,USA,840,51530.0,buena-vista,"Buena Vista, Virginia, US",4,0,0.0,0.0
 2020-04-08,us,virginia,37.73484642,-79.35296097,84051530,US,USA,840,51530.0,buena-vista,"Buena Vista, Virginia, US",4,0,0.0,0.0
 2020-04-09,us,virginia,37.73484642,-79.35296097,84051530,US,USA,840,51530.0,buena-vista,"Buena Vista, Virginia, US",4,0,0.0,0.0
+2020-04-10,us,virginia,37.73484642,-79.35296097,84051530,US,USA,840,51530.0,buena-vista,"Buena Vista, Virginia, US",4,0,0.0,0.0
+2020-04-11,us,virginia,37.73484642,-79.35296097,84051530,US,USA,840,51530.0,buena-vista,"Buena Vista, Virginia, US",4,0,0.0,0.0
 2020-01-22,us,virginia,37.7583355,-77.49464673,84051085,US,USA,840,51085.0,hanover,"Hanover, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.7583355,-77.49464673,84051085,US,USA,840,51085.0,hanover,"Hanover, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.7583355,-77.49464673,84051085,US,USA,840,51085.0,hanover,"Hanover, Virginia, US",0,0,0.0,0.0
@@ -6951,6 +7125,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.7583355,-77.49464673,84051085,US,USA,840,51085.0,hanover,"Hanover, Virginia, US",19,6,0.0,0.0
 2020-04-08,us,virginia,37.7583355,-77.49464673,84051085,US,USA,840,51085.0,hanover,"Hanover, Virginia, US",22,3,0.0,0.0
 2020-04-09,us,virginia,37.7583355,-77.49464673,84051085,US,USA,840,51085.0,hanover,"Hanover, Virginia, US",29,7,0.0,0.0
+2020-04-10,us,virginia,37.7583355,-77.49464673,84051085,US,USA,840,51085.0,hanover,"Hanover, Virginia, US",31,2,0.0,0.0
+2020-04-11,us,virginia,37.7583355,-77.49464673,84051085,US,USA,840,51085.0,hanover,"Hanover, Virginia, US",38,7,0.0,0.0
 2020-01-22,us,virginia,37.76707161,-75.63234615,84051001,US,USA,840,51001.0,accomack,"Accomack, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.76707161,-75.63234615,84051001,US,USA,840,51001.0,accomack,"Accomack, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.76707161,-75.63234615,84051001,US,USA,840,51001.0,accomack,"Accomack, Virginia, US",0,0,0.0,0.0
@@ -7030,6 +7206,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.76707161,-75.63234615,84051001,US,USA,840,51001.0,accomack,"Accomack, Virginia, US",11,0,0.0,0.0
 2020-04-08,us,virginia,37.76707161,-75.63234615,84051001,US,USA,840,51001.0,accomack,"Accomack, Virginia, US",11,0,0.0,0.0
 2020-04-09,us,virginia,37.76707161,-75.63234615,84051001,US,USA,840,51001.0,accomack,"Accomack, Virginia, US",11,0,0.0,0.0
+2020-04-10,us,virginia,37.76707161,-75.63234615,84051001,US,USA,840,51001.0,accomack,"Accomack, Virginia, US",12,1,0.0,0.0
+2020-04-11,us,virginia,37.76707161,-75.63234615,84051001,US,USA,840,51001.0,accomack,"Accomack, Virginia, US",15,3,0.0,0.0
 2020-01-22,us,virginia,37.7824656,-79.98631446,84051580,US,USA,840,51580.0,covington,"Covington, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.7824656,-79.98631446,84051580,US,USA,840,51580.0,covington,"Covington, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.7824656,-79.98631446,84051580,US,USA,840,51580.0,covington,"Covington, Virginia, US",0,0,0.0,0.0
@@ -7109,6 +7287,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.7824656,-79.98631446,84051580,US,USA,840,51580.0,covington,"Covington, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,37.7824656,-79.98631446,84051580,US,USA,840,51580.0,covington,"Covington, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,37.7824656,-79.98631446,84051580,US,USA,840,51580.0,covington,"Covington, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,37.7824656,-79.98631446,84051580,US,USA,840,51580.0,covington,"Covington, Virginia, US",1,0,0.0,0.0
+2020-04-11,us,virginia,37.7824656,-79.98631446,84051580,US,USA,840,51580.0,covington,"Covington, Virginia, US",1,0,0.0,0.0
 2020-01-22,us,virginia,37.78258621,-79.44262866,84051678,US,USA,840,51678.0,lexington,"Lexington, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.78258621,-79.44262866,84051678,US,USA,840,51678.0,lexington,"Lexington, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.78258621,-79.44262866,84051678,US,USA,840,51678.0,lexington,"Lexington, Virginia, US",0,0,0.0,0.0
@@ -7188,6 +7368,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.78258621,-79.44262866,84051678,US,USA,840,51678.0,lexington,"Lexington, Virginia, US",3,0,0.0,0.0
 2020-04-08,us,virginia,37.78258621,-79.44262866,84051678,US,USA,840,51678.0,lexington,"Lexington, Virginia, US",3,0,0.0,0.0
 2020-04-09,us,virginia,37.78258621,-79.44262866,84051678,US,USA,840,51678.0,lexington,"Lexington, Virginia, US",3,0,0.0,0.0
+2020-04-10,us,virginia,37.78258621,-79.44262866,84051678,US,USA,840,51678.0,lexington,"Lexington, Virginia, US",3,0,0.0,0.0
+2020-04-11,us,virginia,37.78258621,-79.44262866,84051678,US,USA,840,51678.0,lexington,"Lexington, Virginia, US",3,0,0.0,0.0
 2020-01-22,us,virginia,37.78636074,-80.00222498,84051005,US,USA,840,51005.0,alleghany,"Alleghany, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.78636074,-80.00222498,84051005,US,USA,840,51005.0,alleghany,"Alleghany, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.78636074,-80.00222498,84051005,US,USA,840,51005.0,alleghany,"Alleghany, Virginia, US",0,0,0.0,0.0
@@ -7267,6 +7449,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.78636074,-80.00222498,84051005,US,USA,840,51005.0,alleghany,"Alleghany, Virginia, US",2,0,0.0,0.0
 2020-04-08,us,virginia,37.78636074,-80.00222498,84051005,US,USA,840,51005.0,alleghany,"Alleghany, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,37.78636074,-80.00222498,84051005,US,USA,840,51005.0,alleghany,"Alleghany, Virginia, US",2,0,0.0,0.0
+2020-04-10,us,virginia,37.78636074,-80.00222498,84051005,US,USA,840,51005.0,alleghany,"Alleghany, Virginia, US",2,0,0.0,0.0
+2020-04-11,us,virginia,37.78636074,-80.00222498,84051005,US,USA,840,51005.0,alleghany,"Alleghany, Virginia, US",4,2,0.0,0.0
 2020-01-22,us,virginia,37.78790447,-78.88498513,84051125,US,USA,840,51125.0,nelson,"Nelson, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.78790447,-78.88498513,84051125,US,USA,840,51125.0,nelson,"Nelson, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.78790447,-78.88498513,84051125,US,USA,840,51125.0,nelson,"Nelson, Virginia, US",0,0,0.0,0.0
@@ -7346,6 +7530,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.78790447,-78.88498513,84051125,US,USA,840,51125.0,nelson,"Nelson, Virginia, US",2,0,0.0,0.0
 2020-04-08,us,virginia,37.78790447,-78.88498513,84051125,US,USA,840,51125.0,nelson,"Nelson, Virginia, US",3,1,0.0,0.0
 2020-04-09,us,virginia,37.78790447,-78.88498513,84051125,US,USA,840,51125.0,nelson,"Nelson, Virginia, US",3,0,0.0,0.0
+2020-04-10,us,virginia,37.78790447,-78.88498513,84051125,US,USA,840,51125.0,nelson,"Nelson, Virginia, US",4,1,0.0,0.0
+2020-04-11,us,virginia,37.78790447,-78.88498513,84051125,US,USA,840,51125.0,nelson,"Nelson, Virginia, US",4,0,0.0,0.0
 2020-01-22,us,virginia,37.81204314,-79.44605905,84051163,US,USA,840,51163.0,rockbridge,"Rockbridge, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.81204314,-79.44605905,84051163,US,USA,840,51163.0,rockbridge,"Rockbridge, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.81204314,-79.44605905,84051163,US,USA,840,51163.0,rockbridge,"Rockbridge, Virginia, US",0,0,0.0,0.0
@@ -7425,6 +7611,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.81204314,-79.44605905,84051163,US,USA,840,51163.0,rockbridge,"Rockbridge, Virginia, US",3,0,0.0,0.0
 2020-04-08,us,virginia,37.81204314,-79.44605905,84051163,US,USA,840,51163.0,rockbridge,"Rockbridge, Virginia, US",3,0,0.0,0.0
 2020-04-09,us,virginia,37.81204314,-79.44605905,84051163,US,USA,840,51163.0,rockbridge,"Rockbridge, Virginia, US",3,0,0.0,0.0
+2020-04-10,us,virginia,37.81204314,-79.44605905,84051163,US,USA,840,51163.0,rockbridge,"Rockbridge, Virginia, US",3,0,0.0,0.0
+2020-04-11,us,virginia,37.81204314,-79.44605905,84051163,US,USA,840,51163.0,rockbridge,"Rockbridge, Virginia, US",3,0,0.0,0.0
 2020-01-22,us,virginia,37.84157909,-78.27715475,84051065,US,USA,840,51065.0,fluvanna,"Fluvanna, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.84157909,-78.27715475,84051065,US,USA,840,51065.0,fluvanna,"Fluvanna, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.84157909,-78.27715475,84051065,US,USA,840,51065.0,fluvanna,"Fluvanna, Virginia, US",0,0,0.0,0.0
@@ -7504,6 +7692,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.84157909,-78.27715475,84051065,US,USA,840,51065.0,fluvanna,"Fluvanna, Virginia, US",9,0,0.0,0.0
 2020-04-08,us,virginia,37.84157909,-78.27715475,84051065,US,USA,840,51065.0,fluvanna,"Fluvanna, Virginia, US",12,3,0.0,0.0
 2020-04-09,us,virginia,37.84157909,-78.27715475,84051065,US,USA,840,51065.0,fluvanna,"Fluvanna, Virginia, US",16,4,0.0,0.0
+2020-04-10,us,virginia,37.84157909,-78.27715475,84051065,US,USA,840,51065.0,fluvanna,"Fluvanna, Virginia, US",15,-1,0.0,0.0
+2020-04-11,us,virginia,37.84157909,-78.27715475,84051065,US,USA,840,51065.0,fluvanna,"Fluvanna, Virginia, US",19,4,0.0,0.0
 2020-01-22,us,virginia,37.89202088,-76.41949732,84051133,US,USA,840,51133.0,northumberland,"Northumberland, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.89202088,-76.41949732,84051133,US,USA,840,51133.0,northumberland,"Northumberland, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.89202088,-76.41949732,84051133,US,USA,840,51133.0,northumberland,"Northumberland, Virginia, US",0,0,0.0,0.0
@@ -7583,6 +7773,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.89202088,-76.41949732,84051133,US,USA,840,51133.0,northumberland,"Northumberland, Virginia, US",3,0,0.0,0.0
 2020-04-08,us,virginia,37.89202088,-76.41949732,84051133,US,USA,840,51133.0,northumberland,"Northumberland, Virginia, US",3,0,0.0,0.0
 2020-04-09,us,virginia,37.89202088,-76.41949732,84051133,US,USA,840,51133.0,northumberland,"Northumberland, Virginia, US",3,0,0.0,0.0
+2020-04-10,us,virginia,37.89202088,-76.41949732,84051133,US,USA,840,51133.0,northumberland,"Northumberland, Virginia, US",3,0,0.0,0.0
+2020-04-11,us,virginia,37.89202088,-76.41949732,84051133,US,USA,840,51133.0,northumberland,"Northumberland, Virginia, US",4,1,0.0,0.0
 2020-01-22,us,virginia,37.93357639,-76.94230311,84051057,US,USA,840,51057.0,essex,"Essex, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.93357639,-76.94230311,84051057,US,USA,840,51057.0,essex,"Essex, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.93357639,-76.94230311,84051057,US,USA,840,51057.0,essex,"Essex, Virginia, US",0,0,0.0,0.0
@@ -7662,6 +7854,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.93357639,-76.94230311,84051057,US,USA,840,51057.0,essex,"Essex, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,37.93357639,-76.94230311,84051057,US,USA,840,51057.0,essex,"Essex, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,37.93357639,-76.94230311,84051057,US,USA,840,51057.0,essex,"Essex, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,37.93357639,-76.94230311,84051057,US,USA,840,51057.0,essex,"Essex, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,37.93357639,-76.94230311,84051057,US,USA,840,51057.0,essex,"Essex, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,37.937575,-76.72920628,84051159,US,USA,840,51159.0,richmond,"Richmond, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.937575,-76.72920628,84051159,US,USA,840,51159.0,richmond,"Richmond, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.937575,-76.72920628,84051159,US,USA,840,51159.0,richmond,"Richmond, Virginia, US",0,0,0.0,0.0
@@ -7741,6 +7935,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.937575,-76.72920628,84051159,US,USA,840,51159.0,richmond,"Richmond, Virginia, US",2,1,0.0,0.0
 2020-04-08,us,virginia,37.937575,-76.72920628,84051159,US,USA,840,51159.0,richmond,"Richmond, Virginia, US",2,0,0.0,0.0
 2020-04-09,us,virginia,37.937575,-76.72920628,84051159,US,USA,840,51159.0,richmond,"Richmond, Virginia, US",3,1,0.0,0.0
+2020-04-10,us,virginia,37.937575,-76.72920628,84051159,US,USA,840,51159.0,richmond,"Richmond, Virginia, US",5,2,0.0,0.0
+2020-04-11,us,virginia,37.937575,-76.72920628,84051159,US,USA,840,51159.0,richmond,"Richmond, Virginia, US",5,0,0.0,0.0
 2020-01-22,us,virginia,37.97850256,-77.96274807,84051109,US,USA,840,51109.0,louisa,"Louisa, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,37.97850256,-77.96274807,84051109,US,USA,840,51109.0,louisa,"Louisa, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,37.97850256,-77.96274807,84051109,US,USA,840,51109.0,louisa,"Louisa, Virginia, US",0,0,0.0,0.0
@@ -7820,6 +8016,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,37.97850256,-77.96274807,84051109,US,USA,840,51109.0,louisa,"Louisa, Virginia, US",14,0,0.0,0.0
 2020-04-08,us,virginia,37.97850256,-77.96274807,84051109,US,USA,840,51109.0,louisa,"Louisa, Virginia, US",16,2,0.0,0.0
 2020-04-09,us,virginia,37.97850256,-77.96274807,84051109,US,USA,840,51109.0,louisa,"Louisa, Virginia, US",17,1,0.0,0.0
+2020-04-10,us,virginia,37.97850256,-77.96274807,84051109,US,USA,840,51109.0,louisa,"Louisa, Virginia, US",20,3,0.0,0.0
+2020-04-11,us,virginia,37.97850256,-77.96274807,84051109,US,USA,840,51109.0,louisa,"Louisa, Virginia, US",25,5,0.0,0.0
 2020-01-22,us,virginia,38.02080697,-78.55481085,84051003,US,USA,840,51003.0,albemarle,"Albemarle, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.02080697,-78.55481085,84051003,US,USA,840,51003.0,albemarle,"Albemarle, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.02080697,-78.55481085,84051003,US,USA,840,51003.0,albemarle,"Albemarle, Virginia, US",0,0,0.0,0.0
@@ -7899,6 +8097,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.02080697,-78.55481085,84051003,US,USA,840,51003.0,albemarle,"Albemarle, Virginia, US",38,4,0.0,0.0
 2020-04-08,us,virginia,38.02080697,-78.55481085,84051003,US,USA,840,51003.0,albemarle,"Albemarle, Virginia, US",41,3,0.0,0.0
 2020-04-09,us,virginia,38.02080697,-78.55481085,84051003,US,USA,840,51003.0,albemarle,"Albemarle, Virginia, US",43,2,0.0,0.0
+2020-04-10,us,virginia,38.02080697,-78.55481085,84051003,US,USA,840,51003.0,albemarle,"Albemarle, Virginia, US",43,0,0.0,0.0
+2020-04-11,us,virginia,38.02080697,-78.55481085,84051003,US,USA,840,51003.0,albemarle,"Albemarle, Virginia, US",46,3,0.0,0.0
 2020-01-22,us,virginia,38.02679129,-77.34901405,84051033,US,USA,840,51033.0,caroline,"Caroline, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.02679129,-77.34901405,84051033,US,USA,840,51033.0,caroline,"Caroline, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.02679129,-77.34901405,84051033,US,USA,840,51033.0,caroline,"Caroline, Virginia, US",0,0,0.0,0.0
@@ -7978,6 +8178,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.02679129,-77.34901405,84051033,US,USA,840,51033.0,caroline,"Caroline, Virginia, US",4,3,0.0,0.0
 2020-04-08,us,virginia,38.02679129,-77.34901405,84051033,US,USA,840,51033.0,caroline,"Caroline, Virginia, US",4,0,0.0,0.0
 2020-04-09,us,virginia,38.02679129,-77.34901405,84051033,US,USA,840,51033.0,caroline,"Caroline, Virginia, US",4,0,0.0,0.0
+2020-04-10,us,virginia,38.02679129,-77.34901405,84051033,US,USA,840,51033.0,caroline,"Caroline, Virginia, US",6,2,0.0,0.0
+2020-04-11,us,virginia,38.02679129,-77.34901405,84051033,US,USA,840,51033.0,caroline,"Caroline, Virginia, US",6,0,0.0,0.0
 2020-01-22,us,virginia,38.03527919,-78.48569588,84051540,US,USA,840,51540.0,charlottesville,"Charlottesville, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.03527919,-78.48569588,84051540,US,USA,840,51540.0,charlottesville,"Charlottesville, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.03527919,-78.48569588,84051540,US,USA,840,51540.0,charlottesville,"Charlottesville, Virginia, US",0,0,0.0,0.0
@@ -8057,6 +8259,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.03527919,-78.48569588,84051540,US,USA,840,51540.0,charlottesville,"Charlottesville, Virginia, US",23,1,1.0,0.0
 2020-04-08,us,virginia,38.03527919,-78.48569588,84051540,US,USA,840,51540.0,charlottesville,"Charlottesville, Virginia, US",23,0,1.0,0.0
 2020-04-09,us,virginia,38.03527919,-78.48569588,84051540,US,USA,840,51540.0,charlottesville,"Charlottesville, Virginia, US",27,4,1.0,0.0
+2020-04-10,us,virginia,38.03527919,-78.48569588,84051540,US,USA,840,51540.0,charlottesville,"Charlottesville, Virginia, US",28,1,1.0,0.0
+2020-04-11,us,virginia,38.03527919,-78.48569588,84051540,US,USA,840,51540.0,charlottesville,"Charlottesville, Virginia, US",31,3,1.0,0.0
 2020-01-22,us,virginia,38.05852573,-79.73912095,84051017,US,USA,840,51017.0,bath,"Bath, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.05852573,-79.73912095,84051017,US,USA,840,51017.0,bath,"Bath, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.05852573,-79.73912095,84051017,US,USA,840,51017.0,bath,"Bath, Virginia, US",0,0,0.0,0.0
@@ -8136,6 +8340,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.05852573,-79.73912095,84051017,US,USA,840,51017.0,bath,"Bath, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,38.05852573,-79.73912095,84051017,US,USA,840,51017.0,bath,"Bath, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,38.05852573,-79.73912095,84051017,US,USA,840,51017.0,bath,"Bath, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,38.05852573,-79.73912095,84051017,US,USA,840,51017.0,bath,"Bath, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,38.05852573,-79.73912095,84051017,US,USA,840,51017.0,bath,"Bath, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,38.06451466,-78.90293905,84051820,US,USA,840,51820.0,waynesboro,"Waynesboro, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.06451466,-78.90293905,84051820,US,USA,840,51820.0,waynesboro,"Waynesboro, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.06451466,-78.90293905,84051820,US,USA,840,51820.0,waynesboro,"Waynesboro, Virginia, US",0,0,0.0,0.0
@@ -8215,6 +8421,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.06451466,-78.90293905,84051820,US,USA,840,51820.0,waynesboro,"Waynesboro, Virginia, US",3,0,0.0,0.0
 2020-04-08,us,virginia,38.06451466,-78.90293905,84051820,US,USA,840,51820.0,waynesboro,"Waynesboro, Virginia, US",2,-1,0.0,0.0
 2020-04-09,us,virginia,38.06451466,-78.90293905,84051820,US,USA,840,51820.0,waynesboro,"Waynesboro, Virginia, US",3,1,0.0,0.0
+2020-04-10,us,virginia,38.06451466,-78.90293905,84051820,US,USA,840,51820.0,waynesboro,"Waynesboro, Virginia, US",5,2,0.0,0.0
+2020-04-11,us,virginia,38.06451466,-78.90293905,84051820,US,USA,840,51820.0,waynesboro,"Waynesboro, Virginia, US",5,0,0.0,0.0
 2020-01-22,us,virginia,38.11021557,-76.80213247,84051193,US,USA,840,51193.0,westmoreland,"Westmoreland, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.11021557,-76.80213247,84051193,US,USA,840,51193.0,westmoreland,"Westmoreland, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.11021557,-76.80213247,84051193,US,USA,840,51193.0,westmoreland,"Westmoreland, Virginia, US",0,0,0.0,0.0
@@ -8294,6 +8502,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.11021557,-76.80213247,84051193,US,USA,840,51193.0,westmoreland,"Westmoreland, Virginia, US",3,0,0.0,0.0
 2020-04-08,us,virginia,38.11021557,-76.80213247,84051193,US,USA,840,51193.0,westmoreland,"Westmoreland, Virginia, US",5,2,0.0,0.0
 2020-04-09,us,virginia,38.11021557,-76.80213247,84051193,US,USA,840,51193.0,westmoreland,"Westmoreland, Virginia, US",5,0,0.0,0.0
+2020-04-10,us,virginia,38.11021557,-76.80213247,84051193,US,USA,840,51193.0,westmoreland,"Westmoreland, Virginia, US",8,3,0.0,0.0
+2020-04-11,us,virginia,38.11021557,-76.80213247,84051193,US,USA,840,51193.0,westmoreland,"Westmoreland, Virginia, US",8,0,0.0,0.0
 2020-01-22,us,virginia,38.15965544,-79.05979937,84051790,US,USA,840,51790.0,staunton,"Staunton, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.15965544,-79.05979937,84051790,US,USA,840,51790.0,staunton,"Staunton, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.15965544,-79.05979937,84051790,US,USA,840,51790.0,staunton,"Staunton, Virginia, US",0,0,0.0,0.0
@@ -8373,6 +8583,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.15965544,-79.05979937,84051790,US,USA,840,51790.0,staunton,"Staunton, Virginia, US",1,0,0.0,0.0
 2020-04-08,us,virginia,38.15965544,-79.05979937,84051790,US,USA,840,51790.0,staunton,"Staunton, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,38.15965544,-79.05979937,84051790,US,USA,840,51790.0,staunton,"Staunton, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,38.15965544,-79.05979937,84051790,US,USA,840,51790.0,staunton,"Staunton, Virginia, US",1,0,0.0,0.0
+2020-04-11,us,virginia,38.15965544,-79.05979937,84051790,US,USA,840,51790.0,staunton,"Staunton, Virginia, US",1,0,0.0,0.0
 2020-01-22,us,virginia,38.16404586,-79.12461614,84051015,US,USA,840,51015.0,augusta,"Augusta, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.16404586,-79.12461614,84051015,US,USA,840,51015.0,augusta,"Augusta, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.16404586,-79.12461614,84051015,US,USA,840,51015.0,augusta,"Augusta, Virginia, US",0,0,0.0,0.0
@@ -8452,6 +8664,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.16404586,-79.12461614,84051015,US,USA,840,51015.0,augusta,"Augusta, Virginia, US",10,1,0.0,0.0
 2020-04-08,us,virginia,38.16404586,-79.12461614,84051015,US,USA,840,51015.0,augusta,"Augusta, Virginia, US",13,3,0.0,0.0
 2020-04-09,us,virginia,38.16404586,-79.12461614,84051015,US,USA,840,51015.0,augusta,"Augusta, Virginia, US",13,0,0.0,0.0
+2020-04-10,us,virginia,38.16404586,-79.12461614,84051015,US,USA,840,51015.0,augusta,"Augusta, Virginia, US",15,2,0.0,0.0
+2020-04-11,us,virginia,38.16404586,-79.12461614,84051015,US,USA,840,51015.0,augusta,"Augusta, Virginia, US",17,2,0.0,0.0
 2020-01-22,us,virginia,38.18574462,-77.655399,84051177,US,USA,840,51177.0,spotsylvania,"Spotsylvania, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.18574462,-77.655399,84051177,US,USA,840,51177.0,spotsylvania,"Spotsylvania, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.18574462,-77.655399,84051177,US,USA,840,51177.0,spotsylvania,"Spotsylvania, Virginia, US",0,0,0.0,0.0
@@ -8531,6 +8745,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.18574462,-77.655399,84051177,US,USA,840,51177.0,spotsylvania,"Spotsylvania, Virginia, US",29,3,0.0,0.0
 2020-04-08,us,virginia,38.18574462,-77.655399,84051177,US,USA,840,51177.0,spotsylvania,"Spotsylvania, Virginia, US",31,2,0.0,0.0
 2020-04-09,us,virginia,38.18574462,-77.655399,84051177,US,USA,840,51177.0,spotsylvania,"Spotsylvania, Virginia, US",36,5,0.0,0.0
+2020-04-10,us,virginia,38.18574462,-77.655399,84051177,US,USA,840,51177.0,spotsylvania,"Spotsylvania, Virginia, US",43,7,0.0,0.0
+2020-04-11,us,virginia,38.18574462,-77.655399,84051177,US,USA,840,51177.0,spotsylvania,"Spotsylvania, Virginia, US",47,4,0.0,0.0
 2020-01-22,us,virginia,38.24530219,-78.01560400000002,84051137,US,USA,840,51137.0,orange,"Orange, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.24530219,-78.01560400000002,84051137,US,USA,840,51137.0,orange,"Orange, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.24530219,-78.01560400000002,84051137,US,USA,840,51137.0,orange,"Orange, Virginia, US",0,0,0.0,0.0
@@ -8610,6 +8826,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.24530219,-78.01560400000002,84051137,US,USA,840,51137.0,orange,"Orange, Virginia, US",7,2,0.0,0.0
 2020-04-08,us,virginia,38.24530219,-78.01560400000002,84051137,US,USA,840,51137.0,orange,"Orange, Virginia, US",7,0,0.0,0.0
 2020-04-09,us,virginia,38.24530219,-78.01560400000002,84051137,US,USA,840,51137.0,orange,"Orange, Virginia, US",9,2,0.0,0.0
+2020-04-10,us,virginia,38.24530219,-78.01560400000002,84051137,US,USA,840,51137.0,orange,"Orange, Virginia, US",14,5,0.0,0.0
+2020-04-11,us,virginia,38.24530219,-78.01560400000002,84051137,US,USA,840,51137.0,orange,"Orange, Virginia, US",13,-1,0.0,0.0
 2020-01-22,us,virginia,38.26818502,-77.15852768,84051099,US,USA,840,51099.0,king-george,"King George, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.26818502,-77.15852768,84051099,US,USA,840,51099.0,king-george,"King George, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.26818502,-77.15852768,84051099,US,USA,840,51099.0,king-george,"King George, Virginia, US",0,0,0.0,0.0
@@ -8689,6 +8907,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.26818502,-77.15852768,84051099,US,USA,840,51099.0,king-george,"King George, Virginia, US",10,0,0.0,0.0
 2020-04-08,us,virginia,38.26818502,-77.15852768,84051099,US,USA,840,51099.0,king-george,"King George, Virginia, US",11,1,0.0,0.0
 2020-04-09,us,virginia,38.26818502,-77.15852768,84051099,US,USA,840,51099.0,king-george,"King George, Virginia, US",13,2,0.0,0.0
+2020-04-10,us,virginia,38.26818502,-77.15852768,84051099,US,USA,840,51099.0,king-george,"King George, Virginia, US",14,1,0.0,0.0
+2020-04-11,us,virginia,38.26818502,-77.15852768,84051099,US,USA,840,51099.0,king-george,"King George, Virginia, US",13,-1,0.0,0.0
 2020-01-22,us,virginia,38.29545894,-78.46525378,84051079,US,USA,840,51079.0,greene,"Greene, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.29545894,-78.46525378,84051079,US,USA,840,51079.0,greene,"Greene, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.29545894,-78.46525378,84051079,US,USA,840,51079.0,greene,"Greene, Virginia, US",0,0,0.0,0.0
@@ -8768,6 +8988,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.29545894,-78.46525378,84051079,US,USA,840,51079.0,greene,"Greene, Virginia, US",4,0,0.0,0.0
 2020-04-08,us,virginia,38.29545894,-78.46525378,84051079,US,USA,840,51079.0,greene,"Greene, Virginia, US",4,0,0.0,0.0
 2020-04-09,us,virginia,38.29545894,-78.46525378,84051079,US,USA,840,51079.0,greene,"Greene, Virginia, US",4,0,0.0,0.0
+2020-04-10,us,virginia,38.29545894,-78.46525378,84051079,US,USA,840,51079.0,greene,"Greene, Virginia, US",4,0,0.0,0.0
+2020-04-11,us,virginia,38.29545894,-78.46525378,84051079,US,USA,840,51079.0,greene,"Greene, Virginia, US",4,0,0.0,0.0
 2020-01-22,us,virginia,38.2977863,-77.4922454,84051630,US,USA,840,51630.0,fredericksburg,"Fredericksburg, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.2977863,-77.4922454,84051630,US,USA,840,51630.0,fredericksburg,"Fredericksburg, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.2977863,-77.4922454,84051630,US,USA,840,51630.0,fredericksburg,"Fredericksburg, Virginia, US",0,0,0.0,0.0
@@ -8847,6 +9069,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.2977863,-77.4922454,84051630,US,USA,840,51630.0,fredericksburg,"Fredericksburg, Virginia, US",8,1,0.0,0.0
 2020-04-08,us,virginia,38.2977863,-77.4922454,84051630,US,USA,840,51630.0,fredericksburg,"Fredericksburg, Virginia, US",8,0,0.0,0.0
 2020-04-09,us,virginia,38.2977863,-77.4922454,84051630,US,USA,840,51630.0,fredericksburg,"Fredericksburg, Virginia, US",10,2,0.0,0.0
+2020-04-10,us,virginia,38.2977863,-77.4922454,84051630,US,USA,840,51630.0,fredericksburg,"Fredericksburg, Virginia, US",10,0,0.0,0.0
+2020-04-11,us,virginia,38.2977863,-77.4922454,84051630,US,USA,840,51630.0,fredericksburg,"Fredericksburg, Virginia, US",11,1,0.0,0.0
 2020-01-22,us,virginia,38.35799465,-79.56124594,84051091,US,USA,840,51091.0,highland,"Highland, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.35799465,-79.56124594,84051091,US,USA,840,51091.0,highland,"Highland, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.35799465,-79.56124594,84051091,US,USA,840,51091.0,highland,"Highland, Virginia, US",0,0,0.0,0.0
@@ -8926,6 +9150,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.35799465,-79.56124594,84051091,US,USA,840,51091.0,highland,"Highland, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,38.35799465,-79.56124594,84051091,US,USA,840,51091.0,highland,"Highland, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,38.35799465,-79.56124594,84051091,US,USA,840,51091.0,highland,"Highland, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,38.35799465,-79.56124594,84051091,US,USA,840,51091.0,highland,"Highland, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,38.35799465,-79.56124594,84051091,US,USA,840,51091.0,highland,"Highland, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,38.41531222,-78.28220331,84051113,US,USA,840,51113.0,madison,"Madison, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.41531222,-78.28220331,84051113,US,USA,840,51113.0,madison,"Madison, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.41531222,-78.28220331,84051113,US,USA,840,51113.0,madison,"Madison, Virginia, US",0,0,0.0,0.0
@@ -9005,6 +9231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.41531222,-78.28220331,84051113,US,USA,840,51113.0,madison,"Madison, Virginia, US",4,0,0.0,0.0
 2020-04-08,us,virginia,38.41531222,-78.28220331,84051113,US,USA,840,51113.0,madison,"Madison, Virginia, US",5,1,0.0,0.0
 2020-04-09,us,virginia,38.41531222,-78.28220331,84051113,US,USA,840,51113.0,madison,"Madison, Virginia, US",5,0,0.0,0.0
+2020-04-10,us,virginia,38.41531222,-78.28220331,84051113,US,USA,840,51113.0,madison,"Madison, Virginia, US",5,0,0.0,0.0
+2020-04-11,us,virginia,38.41531222,-78.28220331,84051113,US,USA,840,51113.0,madison,"Madison, Virginia, US",6,1,0.0,0.0
 2020-01-22,us,virginia,38.41758738,-77.45917053,84051179,US,USA,840,51179.0,stafford,"Stafford, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.41758738,-77.45917053,84051179,US,USA,840,51179.0,stafford,"Stafford, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.41758738,-77.45917053,84051179,US,USA,840,51179.0,stafford,"Stafford, Virginia, US",0,0,0.0,0.0
@@ -9084,6 +9312,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.41758738,-77.45917053,84051179,US,USA,840,51179.0,stafford,"Stafford, Virginia, US",49,6,0.0,0.0
 2020-04-08,us,virginia,38.41758738,-77.45917053,84051179,US,USA,840,51179.0,stafford,"Stafford, Virginia, US",48,-1,0.0,0.0
 2020-04-09,us,virginia,38.41758738,-77.45917053,84051179,US,USA,840,51179.0,stafford,"Stafford, Virginia, US",54,6,0.0,0.0
+2020-04-10,us,virginia,38.41758738,-77.45917053,84051179,US,USA,840,51179.0,stafford,"Stafford, Virginia, US",60,6,0.0,0.0
+2020-04-11,us,virginia,38.41758738,-77.45917053,84051179,US,USA,840,51179.0,stafford,"Stafford, Virginia, US",67,7,0.0,0.0
 2020-01-22,us,virginia,38.43542574,-78.87536254,84051660,US,USA,840,51660.0,harrisonburg,"Harrisonburg, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.43542574,-78.87536254,84051660,US,USA,840,51660.0,harrisonburg,"Harrisonburg, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.43542574,-78.87536254,84051660,US,USA,840,51660.0,harrisonburg,"Harrisonburg, Virginia, US",0,0,0.0,0.0
@@ -9163,6 +9393,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.43542574,-78.87536254,84051660,US,USA,840,51660.0,harrisonburg,"Harrisonburg, Virginia, US",27,0,0.0,0.0
 2020-04-08,us,virginia,38.43542574,-78.87536254,84051660,US,USA,840,51660.0,harrisonburg,"Harrisonburg, Virginia, US",36,9,0.0,0.0
 2020-04-09,us,virginia,38.43542574,-78.87536254,84051660,US,USA,840,51660.0,harrisonburg,"Harrisonburg, Virginia, US",39,3,0.0,0.0
+2020-04-10,us,virginia,38.43542574,-78.87536254,84051660,US,USA,840,51660.0,harrisonburg,"Harrisonburg, Virginia, US",57,18,0.0,0.0
+2020-04-11,us,virginia,38.43542574,-78.87536254,84051660,US,USA,840,51660.0,harrisonburg,"Harrisonburg, Virginia, US",79,22,0.0,0.0
 2020-01-22,us,virginia,38.48199985,-77.95630870000002,84051047,US,USA,840,51047.0,culpeper,"Culpeper, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.48199985,-77.95630870000002,84051047,US,USA,840,51047.0,culpeper,"Culpeper, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.48199985,-77.95630870000002,84051047,US,USA,840,51047.0,culpeper,"Culpeper, Virginia, US",0,0,0.0,0.0
@@ -9242,6 +9474,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.48199985,-77.95630870000002,84051047,US,USA,840,51047.0,culpeper,"Culpeper, Virginia, US",9,1,0.0,0.0
 2020-04-08,us,virginia,38.48199985,-77.95630870000002,84051047,US,USA,840,51047.0,culpeper,"Culpeper, Virginia, US",10,1,0.0,0.0
 2020-04-09,us,virginia,38.48199985,-77.95630870000002,84051047,US,USA,840,51047.0,culpeper,"Culpeper, Virginia, US",13,3,0.0,0.0
+2020-04-10,us,virginia,38.48199985,-77.95630870000002,84051047,US,USA,840,51047.0,culpeper,"Culpeper, Virginia, US",14,1,0.0,0.0
+2020-04-11,us,virginia,38.48199985,-77.95630870000002,84051047,US,USA,840,51047.0,culpeper,"Culpeper, Virginia, US",17,3,0.0,0.0
 2020-01-22,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",0,0,0.0,0.0
@@ -9321,6 +9555,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",16,1,0.0,0.0
 2020-04-08,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",20,4,0.0,0.0
 2020-04-09,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",21,1,0.0,0.0
+2020-04-10,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",31,10,0.0,0.0
+2020-04-11,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",44,13,0.0,0.0
 2020-01-22,us,virginia,38.61807452,-78.48797204,84051139,US,USA,840,51139.0,page,"Page, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.61807452,-78.48797204,84051139,US,USA,840,51139.0,page,"Page, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.61807452,-78.48797204,84051139,US,USA,840,51139.0,page,"Page, Virginia, US",0,0,0.0,0.0
@@ -9400,6 +9636,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.61807452,-78.48797204,84051139,US,USA,840,51139.0,page,"Page, Virginia, US",3,1,0.0,0.0
 2020-04-08,us,virginia,38.61807452,-78.48797204,84051139,US,USA,840,51139.0,page,"Page, Virginia, US",3,0,0.0,0.0
 2020-04-09,us,virginia,38.61807452,-78.48797204,84051139,US,USA,840,51139.0,page,"Page, Virginia, US",5,2,0.0,0.0
+2020-04-10,us,virginia,38.61807452,-78.48797204,84051139,US,USA,840,51139.0,page,"Page, Virginia, US",5,0,0.0,0.0
+2020-04-11,us,virginia,38.61807452,-78.48797204,84051139,US,USA,840,51139.0,page,"Page, Virginia, US",6,1,0.0,0.0
 2020-01-22,us,virginia,38.68295619,-78.15826963,84051157,US,USA,840,51157.0,rappahannock,"Rappahannock, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.68295619,-78.15826963,84051157,US,USA,840,51157.0,rappahannock,"Rappahannock, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.68295619,-78.15826963,84051157,US,USA,840,51157.0,rappahannock,"Rappahannock, Virginia, US",0,0,0.0,0.0
@@ -9479,6 +9717,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.68295619,-78.15826963,84051157,US,USA,840,51157.0,rappahannock,"Rappahannock, Virginia, US",1,1,0.0,0.0
 2020-04-08,us,virginia,38.68295619,-78.15826963,84051157,US,USA,840,51157.0,rappahannock,"Rappahannock, Virginia, US",1,0,0.0,0.0
 2020-04-09,us,virginia,38.68295619,-78.15826963,84051157,US,USA,840,51157.0,rappahannock,"Rappahannock, Virginia, US",1,0,0.0,0.0
+2020-04-10,us,virginia,38.68295619,-78.15826963,84051157,US,USA,840,51157.0,rappahannock,"Rappahannock, Virginia, US",1,0,0.0,0.0
+2020-04-11,us,virginia,38.68295619,-78.15826963,84051157,US,USA,840,51157.0,rappahannock,"Rappahannock, Virginia, US",1,0,0.0,0.0
 2020-01-22,us,virginia,38.70916224,-77.48713689,84051153,US,USA,840,51153.0,prince-william,"Prince William, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.70916224,-77.48713689,84051153,US,USA,840,51153.0,prince-william,"Prince William, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.70916224,-77.48713689,84051153,US,USA,840,51153.0,prince-william,"Prince William, Virginia, US",0,0,0.0,0.0
@@ -9558,6 +9798,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.70916224,-77.48713689,84051153,US,USA,840,51153.0,prince-william,"Prince William, Virginia, US",236,43,1.0,0.0
 2020-04-08,us,virginia,38.70916224,-77.48713689,84051153,US,USA,840,51153.0,prince-william,"Prince William, Virginia, US",263,27,1.0,0.0
 2020-04-09,us,virginia,38.70916224,-77.48713689,84051153,US,USA,840,51153.0,prince-william,"Prince William, Virginia, US",299,36,1.0,0.0
+2020-04-10,us,virginia,38.70916224,-77.48713689,84051153,US,USA,840,51153.0,prince-william,"Prince William, Virginia, US",337,38,1.0,0.0
+2020-04-11,us,virginia,38.70916224,-77.48713689,84051153,US,USA,840,51153.0,prince-william,"Prince William, Virginia, US",390,53,1.0,0.0
 2020-01-22,us,virginia,38.73564842,-77.80647472,84051061,US,USA,840,51061.0,fauquier,"Fauquier, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.73564842,-77.80647472,84051061,US,USA,840,51061.0,fauquier,"Fauquier, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.73564842,-77.80647472,84051061,US,USA,840,51061.0,fauquier,"Fauquier, Virginia, US",0,0,0.0,0.0
@@ -9637,6 +9879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.73564842,-77.80647472,84051061,US,USA,840,51061.0,fauquier,"Fauquier, Virginia, US",18,7,0.0,0.0
 2020-04-08,us,virginia,38.73564842,-77.80647472,84051061,US,USA,840,51061.0,fauquier,"Fauquier, Virginia, US",17,-1,0.0,0.0
 2020-04-09,us,virginia,38.73564842,-77.80647472,84051061,US,USA,840,51061.0,fauquier,"Fauquier, Virginia, US",20,3,0.0,0.0
+2020-04-10,us,virginia,38.73564842,-77.80647472,84051061,US,USA,840,51061.0,fauquier,"Fauquier, Virginia, US",23,3,0.0,0.0
+2020-04-11,us,virginia,38.73564842,-77.80647472,84051061,US,USA,840,51061.0,fauquier,"Fauquier, Virginia, US",25,2,0.0,0.0
 2020-01-22,us,virginia,38.7464321,-77.48509905,84051683,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.7464321,-77.48509905,84051683,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.7464321,-77.48509905,84051683,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",0,0,0.0,0.0
@@ -9716,6 +9960,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.7464321,-77.48509905,84051683,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",20,3,0.0,0.0
 2020-04-08,us,virginia,38.7464321,-77.48509905,84051683,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",20,0,0.0,0.0
 2020-04-09,us,virginia,38.7464321,-77.48509905,84051683,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",25,5,0.0,0.0
+2020-04-10,us,virginia,38.7464321,-77.48509905,84051683,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",29,4,0.0,0.0
+2020-04-11,us,virginia,38.7464321,-77.48509905,84051683,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",34,5,0.0,0.0
 2020-01-22,us,virginia,38.77058531,-77.44399307,84051685,US,USA,840,51685.0,manassas-park,"Manassas Park, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.77058531,-77.44399307,84051685,US,USA,840,51685.0,manassas-park,"Manassas Park, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.77058531,-77.44399307,84051685,US,USA,840,51685.0,manassas-park,"Manassas Park, Virginia, US",0,0,0.0,0.0
@@ -9795,6 +10041,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.77058531,-77.44399307,84051685,US,USA,840,51685.0,manassas-park,"Manassas Park, Virginia, US",4,0,0.0,0.0
 2020-04-08,us,virginia,38.77058531,-77.44399307,84051685,US,USA,840,51685.0,manassas-park,"Manassas Park, Virginia, US",5,1,0.0,0.0
 2020-04-09,us,virginia,38.77058531,-77.44399307,84051685,US,USA,840,51685.0,manassas-park,"Manassas Park, Virginia, US",5,0,0.0,0.0
+2020-04-10,us,virginia,38.77058531,-77.44399307,84051685,US,USA,840,51685.0,manassas-park,"Manassas Park, Virginia, US",7,2,0.0,0.0
+2020-04-11,us,virginia,38.77058531,-77.44399307,84051685,US,USA,840,51685.0,manassas-park,"Manassas Park, Virginia, US",10,3,0.0,0.0
 2020-01-22,us,virginia,38.814003,-77.08183073,84051510,US,USA,840,51510.0,alexandria,"Alexandria, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.814003,-77.08183073,84051510,US,USA,840,51510.0,alexandria,"Alexandria, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.814003,-77.08183073,84051510,US,USA,840,51510.0,alexandria,"Alexandria, Virginia, US",0,0,0.0,0.0
@@ -9874,6 +10122,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.814003,-77.08183073,84051510,US,USA,840,51510.0,alexandria,"Alexandria, Virginia, US",126,33,0.0,0.0
 2020-04-08,us,virginia,38.814003,-77.08183073,84051510,US,USA,840,51510.0,alexandria,"Alexandria, Virginia, US",143,17,1.0,1.0
 2020-04-09,us,virginia,38.814003,-77.08183073,84051510,US,USA,840,51510.0,alexandria,"Alexandria, Virginia, US",149,6,1.0,0.0
+2020-04-10,us,virginia,38.814003,-77.08183073,84051510,US,USA,840,51510.0,alexandria,"Alexandria, Virginia, US",174,25,1.0,0.0
+2020-04-11,us,virginia,38.814003,-77.08183073,84051510,US,USA,840,51510.0,alexandria,"Alexandria, Virginia, US",188,14,1.0,0.0
 2020-01-22,us,virginia,38.83677558,-77.27565836,84051059,US,USA,840,51059.0,fairfax,"Fairfax, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.83677558,-77.27565836,84051059,US,USA,840,51059.0,fairfax,"Fairfax, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.83677558,-77.27565836,84051059,US,USA,840,51059.0,fairfax,"Fairfax, Virginia, US",0,0,0.0,0.0
@@ -9953,6 +10203,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.83677558,-77.27565836,84051059,US,USA,840,51059.0,fairfax,"Fairfax, Virginia, US",532,44,2.0,0.0
 2020-04-08,us,virginia,38.83677558,-77.27565836,84051059,US,USA,840,51059.0,fairfax,"Fairfax, Virginia, US",570,38,9.0,7.0
 2020-04-09,us,virginia,38.83677558,-77.27565836,84051059,US,USA,840,51059.0,fairfax,"Fairfax, Virginia, US",690,120,16.0,7.0
+2020-04-10,us,virginia,38.83677558,-77.27565836,84051059,US,USA,840,51059.0,fairfax,"Fairfax, Virginia, US",777,87,19.0,3.0
+2020-04-11,us,virginia,38.83677558,-77.27565836,84051059,US,USA,840,51059.0,fairfax,"Fairfax, Virginia, US",946,169,20.0,1.0
 2020-01-22,us,virginia,38.85157547,-77.29779640000002,84051600,US,USA,840,51600.0,fairfax-city,"Fairfax City, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.85157547,-77.29779640000002,84051600,US,USA,840,51600.0,fairfax-city,"Fairfax City, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.85157547,-77.29779640000002,84051600,US,USA,840,51600.0,fairfax-city,"Fairfax City, Virginia, US",0,0,0.0,0.0
@@ -10032,6 +10284,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.85157547,-77.29779640000002,84051600,US,USA,840,51600.0,fairfax-city,"Fairfax City, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,38.85157547,-77.29779640000002,84051600,US,USA,840,51600.0,fairfax-city,"Fairfax City, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,38.85157547,-77.29779640000002,84051600,US,USA,840,51600.0,fairfax-city,"Fairfax City, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,38.85157547,-77.29779640000002,84051600,US,USA,840,51600.0,fairfax-city,"Fairfax City, Virginia, US",1,1,0.0,0.0
+2020-04-11,us,virginia,38.85157547,-77.29779640000002,84051600,US,USA,840,51600.0,fairfax-city,"Fairfax City, Virginia, US",1,0,0.0,0.0
 2020-01-22,us,virginia,38.85905135,-78.56813762,84051171,US,USA,840,51171.0,shenandoah,"Shenandoah, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.85905135,-78.56813762,84051171,US,USA,840,51171.0,shenandoah,"Shenandoah, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.85905135,-78.56813762,84051171,US,USA,840,51171.0,shenandoah,"Shenandoah, Virginia, US",0,0,0.0,0.0
@@ -10111,6 +10365,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.85905135,-78.56813762,84051171,US,USA,840,51171.0,shenandoah,"Shenandoah, Virginia, US",13,0,0.0,0.0
 2020-04-08,us,virginia,38.85905135,-78.56813762,84051171,US,USA,840,51171.0,shenandoah,"Shenandoah, Virginia, US",13,0,0.0,0.0
 2020-04-09,us,virginia,38.85905135,-78.56813762,84051171,US,USA,840,51171.0,shenandoah,"Shenandoah, Virginia, US",15,2,0.0,0.0
+2020-04-10,us,virginia,38.85905135,-78.56813762,84051171,US,USA,840,51171.0,shenandoah,"Shenandoah, Virginia, US",15,0,0.0,0.0
+2020-04-11,us,virginia,38.85905135,-78.56813762,84051171,US,USA,840,51171.0,shenandoah,"Shenandoah, Virginia, US",16,1,0.0,0.0
 2020-01-22,us,virginia,38.8767675,-77.10139853,84051013,US,USA,840,51013.0,arlington,"Arlington, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.8767675,-77.10139853,84051013,US,USA,840,51013.0,arlington,"Arlington, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.8767675,-77.10139853,84051013,US,USA,840,51013.0,arlington,"Arlington, Virginia, US",0,0,0.0,0.0
@@ -10190,6 +10446,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.8767675,-77.10139853,84051013,US,USA,840,51013.0,arlington,"Arlington, Virginia, US",237,34,2.0,0.0
 2020-04-08,us,virginia,38.8767675,-77.10139853,84051013,US,USA,840,51013.0,arlington,"Arlington, Virginia, US",254,17,2.0,0.0
 2020-04-09,us,virginia,38.8767675,-77.10139853,84051013,US,USA,840,51013.0,arlington,"Arlington, Virginia, US",280,26,2.0,0.0
+2020-04-10,us,virginia,38.8767675,-77.10139853,84051013,US,USA,840,51013.0,arlington,"Arlington, Virginia, US",312,32,2.0,0.0
+2020-04-11,us,virginia,38.8767675,-77.10139853,84051013,US,USA,840,51013.0,arlington,"Arlington, Virginia, US",349,37,2.0,0.0
 2020-01-22,us,virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,falls-church,"Falls Church, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,falls-church,"Falls Church, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,falls-church,"Falls Church, Virginia, US",0,0,0.0,0.0
@@ -10269,6 +10527,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,falls-church,"Falls Church, Virginia, US",0,0,0.0,0.0
 2020-04-08,us,virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,falls-church,"Falls Church, Virginia, US",0,0,0.0,0.0
 2020-04-09,us,virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,falls-church,"Falls Church, Virginia, US",0,0,0.0,0.0
+2020-04-10,us,virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,falls-church,"Falls Church, Virginia, US",0,0,0.0,0.0
+2020-04-11,us,virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,falls-church,"Falls Church, Virginia, US",0,0,0.0,0.0
 2020-01-22,us,virginia,38.90847745,-78.20280433,84051187,US,USA,840,51187.0,warren,"Warren, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,38.90847745,-78.20280433,84051187,US,USA,840,51187.0,warren,"Warren, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,38.90847745,-78.20280433,84051187,US,USA,840,51187.0,warren,"Warren, Virginia, US",0,0,0.0,0.0
@@ -10348,6 +10608,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,38.90847745,-78.20280433,84051187,US,USA,840,51187.0,warren,"Warren, Virginia, US",6,1,0.0,0.0
 2020-04-08,us,virginia,38.90847745,-78.20280433,84051187,US,USA,840,51187.0,warren,"Warren, Virginia, US",8,2,0.0,0.0
 2020-04-09,us,virginia,38.90847745,-78.20280433,84051187,US,USA,840,51187.0,warren,"Warren, Virginia, US",9,1,0.0,0.0
+2020-04-10,us,virginia,38.90847745,-78.20280433,84051187,US,USA,840,51187.0,warren,"Warren, Virginia, US",10,1,0.0,0.0
+2020-04-11,us,virginia,38.90847745,-78.20280433,84051187,US,USA,840,51187.0,warren,"Warren, Virginia, US",15,5,0.0,0.0
 2020-01-22,us,virginia,39.08990083,-77.63481877,84051107,US,USA,840,51107.0,loudoun,"Loudoun, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,39.08990083,-77.63481877,84051107,US,USA,840,51107.0,loudoun,"Loudoun, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,39.08990083,-77.63481877,84051107,US,USA,840,51107.0,loudoun,"Loudoun, Virginia, US",0,0,0.0,0.0
@@ -10427,6 +10689,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,39.08990083,-77.63481877,84051107,US,USA,840,51107.0,loudoun,"Loudoun, Virginia, US",209,21,1.0,0.0
 2020-04-08,us,virginia,39.08990083,-77.63481877,84051107,US,USA,840,51107.0,loudoun,"Loudoun, Virginia, US",238,29,1.0,0.0
 2020-04-09,us,virginia,39.08990083,-77.63481877,84051107,US,USA,840,51107.0,loudoun,"Loudoun, Virginia, US",258,20,1.0,0.0
+2020-04-10,us,virginia,39.08990083,-77.63481877,84051107,US,USA,840,51107.0,loudoun,"Loudoun, Virginia, US",274,16,5.0,4.0
+2020-04-11,us,virginia,39.08990083,-77.63481877,84051107,US,USA,840,51107.0,loudoun,"Loudoun, Virginia, US",296,22,5.0,0.0
 2020-01-22,us,virginia,39.11271747,-77.99199425,84051043,US,USA,840,51043.0,clarke,"Clarke, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,39.11271747,-77.99199425,84051043,US,USA,840,51043.0,clarke,"Clarke, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,39.11271747,-77.99199425,84051043,US,USA,840,51043.0,clarke,"Clarke, Virginia, US",0,0,0.0,0.0
@@ -10506,6 +10770,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,39.11271747,-77.99199425,84051043,US,USA,840,51043.0,clarke,"Clarke, Virginia, US",2,0,0.0,0.0
 2020-04-08,us,virginia,39.11271747,-77.99199425,84051043,US,USA,840,51043.0,clarke,"Clarke, Virginia, US",3,1,0.0,0.0
 2020-04-09,us,virginia,39.11271747,-77.99199425,84051043,US,USA,840,51043.0,clarke,"Clarke, Virginia, US",3,0,0.0,0.0
+2020-04-10,us,virginia,39.11271747,-77.99199425,84051043,US,USA,840,51043.0,clarke,"Clarke, Virginia, US",3,0,0.0,0.0
+2020-04-11,us,virginia,39.11271747,-77.99199425,84051043,US,USA,840,51043.0,clarke,"Clarke, Virginia, US",3,0,0.0,0.0
 2020-01-22,us,virginia,39.17054517,-78.17325058,84051840,US,USA,840,51840.0,winchester,"Winchester, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,39.17054517,-78.17325058,84051840,US,USA,840,51840.0,winchester,"Winchester, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,39.17054517,-78.17325058,84051840,US,USA,840,51840.0,winchester,"Winchester, Virginia, US",0,0,0.0,0.0
@@ -10585,6 +10851,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,39.17054517,-78.17325058,84051840,US,USA,840,51840.0,winchester,"Winchester, Virginia, US",14,1,0.0,0.0
 2020-04-08,us,virginia,39.17054517,-78.17325058,84051840,US,USA,840,51840.0,winchester,"Winchester, Virginia, US",15,1,0.0,0.0
 2020-04-09,us,virginia,39.17054517,-78.17325058,84051840,US,USA,840,51840.0,winchester,"Winchester, Virginia, US",16,1,0.0,0.0
+2020-04-10,us,virginia,39.17054517,-78.17325058,84051840,US,USA,840,51840.0,winchester,"Winchester, Virginia, US",16,0,0.0,0.0
+2020-04-11,us,virginia,39.17054517,-78.17325058,84051840,US,USA,840,51840.0,winchester,"Winchester, Virginia, US",19,3,0.0,0.0
 2020-01-22,us,virginia,39.20172582,-78.25974949,84051069,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",0,0,0.0,0.0
 2020-01-23,us,virginia,39.20172582,-78.25974949,84051069,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",0,0,0.0,0.0
 2020-01-24,us,virginia,39.20172582,-78.25974949,84051069,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",0,0,0.0,0.0
@@ -10664,3 +10932,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,virginia,39.20172582,-78.25974949,84051069,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",43,12,0.0,0.0
 2020-04-08,us,virginia,39.20172582,-78.25974949,84051069,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",46,3,0.0,0.0
 2020-04-09,us,virginia,39.20172582,-78.25974949,84051069,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",54,8,0.0,0.0
+2020-04-10,us,virginia,39.20172582,-78.25974949,84051069,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",62,8,0.0,0.0
+2020-04-11,us,virginia,39.20172582,-78.25974949,84051069,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",63,1,0.0,0.0

@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,pennsylvania,40.00338507,-75.1379271,84042101,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",4272,544,65.0,20.0
 2020-04-08,us,pennsylvania,40.00338507,-75.1379271,84042101,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",4777,505,87.0,22.0
 2020-04-09,us,pennsylvania,40.00338507,-75.1379271,84042101,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",5029,252,87.0,0.0
+2020-04-10,us,pennsylvania,40.00338507,-75.1379271,84042101,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",5521,492,110.0,23.0
+2020-04-11,us,pennsylvania,40.00338507,-75.1379271,84042101,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",6022,501,137.0,27.0

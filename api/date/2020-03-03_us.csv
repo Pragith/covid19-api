@@ -38,7 +38,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-03-03,us,alabama,32.86698258,-85.79833053,84001123,US,USA,840,1123.0,tallapoosa,"Tallapoosa, Alabama, US",0,0,0.0,0.0
 2020-03-03,us,alabama,32.91360079,-85.39072749,84001017,US,USA,840,1017.0,chambers,"Chambers, Alabama, US",0,0,0.0,0.0
 2020-03-03,us,alabama,32.93690146,-86.24847739,84001037,US,USA,840,1037.0,coosa,"Coosa, Alabama, US",0,0,0.0,0.0
-2020-03-03,us,alabama,32.99642064,-87.12511459999997,84001007,US,USA,840,1007.0,bibb,"Bibb, Alabama, US",0,0,0.0,0.0
+2020-03-03,us,alabama,32.99642064,-87.12511459999996,84001007,US,USA,840,1007.0,bibb,"Bibb, Alabama, US",0,0,0.0,0.0
 2020-03-03,us,alabama,33.26879845,-86.66232561,84001117,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",0,0,0.0,0.0
 2020-03-03,us,alabama,33.26984193,-85.85836077,84001027,US,USA,840,1027.0,clay,"Clay, Alabama, US",0,0,0.0,0.0
 2020-03-03,us,alabama,33.28094866,-88.08818103,84001107,US,USA,840,1107.0,pickens,"Pickens, Alabama, US",0,0,0.0,0.0
@@ -405,7 +405,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-03-03,us,florida,30.64204028,-86.16935664,84012131,US,USA,840,12131.0,walton,"Walton, Florida, US",0,0,0.0,0.0
 2020-03-03,us,florida,30.67652764,-87.37284571,84012033,US,USA,840,12033.0,escambia,"Escambia, Florida, US",0,0,0.0,0.0
 2020-03-03,us,florida,30.69143028,-86.59267105,84012091,US,USA,840,12091.0,okaloosa,"Okaloosa, Florida, US",0,0,0.0,0.0
-2020-03-03,us,florida,30.693414500000006,-87.02458128,84012113,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",0,0,0.0,0.0
+2020-03-03,us,florida,30.69341450000001,-87.02458128,84012113,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",0,0,0.0,0.0
 2020-03-03,us,florida,30.7954597,-85.21500423,84012063,US,USA,840,12063.0,jackson,"Jackson, Florida, US",0,0,0.0,0.0
 2020-03-03,us,florida,30.86747479,-85.81319222,84012059,US,USA,840,12059.0,holmes,"Holmes, Florida, US",0,0,0.0,0.0
 2020-03-03,us,georgia,0.0,0.0,84080013,US,USA,840,80013.0,out-of-ga,"Out of GA, Georgia, US",0,0,0.0,0.0
@@ -420,7 +420,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-03-03,us,georgia,30.91395822,-82.70432472,84013065,US,USA,840,13065.0,clinch,"Clinch, Georgia, US",0,0,0.0,0.0
 2020-03-03,us,georgia,30.92951916,-81.66601818,84013039,US,USA,840,13039.0,camden,"Camden, Georgia, US",0,0,0.0,0.0
 2020-03-03,us,georgia,30.93464824,-84.86823924,84013253,US,USA,840,13253.0,seminole,"Seminole, Georgia, US",0,0,0.0,0.0
-2020-03-03,us,georgia,31.038285700000007,-83.06472457,84013173,US,USA,840,13173.0,lanier,"Lanier, Georgia, US",0,0,0.0,0.0
+2020-03-03,us,georgia,31.03828570000001,-83.06472457,84013173,US,USA,840,13173.0,lanier,"Lanier, Georgia, US",0,0,0.0,0.0
 2020-03-03,us,georgia,31.05449097,-82.42224148,84013299,US,USA,840,13299.0,ware,"Ware, Georgia, US",0,0,0.0,0.0
 2020-03-03,us,georgia,31.16068491,-83.42947229,84013075,US,USA,840,13075.0,cook,"Cook, Georgia, US",0,0,0.0,0.0
 2020-03-03,us,georgia,31.16568912,-84.73151117,84013201,US,USA,840,13201.0,miller,"Miller, Georgia, US",0,0,0.0,0.0
@@ -1474,7 +1474,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-03-03,us,mississippi,31.47786634,-90.89672989,84028037,US,USA,840,28037.0,franklin,"Franklin, Mississippi, US",0,0,0.0,0.0
 2020-03-03,us,mississippi,31.53288662,-90.45391915,84028085,US,USA,840,28085.0,lincoln,"Lincoln, Mississippi, US",0,0,0.0,0.0
 2020-03-03,us,mississippi,31.55147224,-90.10841127,84028077,US,USA,840,28077.0,lawrence,"Lawrence, Mississippi, US",0,0,0.0,0.0
-2020-03-03,us,mississippi,31.56884708,-89.82670990000003,84028065,US,USA,840,28065.0,jefferson-davis,"Jefferson Davis, Mississippi, US",0,0,0.0,0.0
+2020-03-03,us,mississippi,31.56884708,-89.82670990000004,84028065,US,USA,840,28065.0,jefferson-davis,"Jefferson Davis, Mississippi, US",0,0,0.0,0.0
 2020-03-03,us,mississippi,31.62257767,-89.16896899999998,84028067,US,USA,840,28067.0,jones,"Jones, Mississippi, US",0,0,0.0,0.0
 2020-03-03,us,mississippi,31.63225413,-89.55389939,84028031,US,USA,840,28031.0,covington,"Covington, Mississippi, US",0,0,0.0,0.0
 2020-03-03,us,mississippi,31.64135687,-88.69573913,84028153,US,USA,840,28153.0,wayne,"Wayne, Mississippi, US",0,0,0.0,0.0
@@ -2707,7 +2707,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-03-03,us,texas,30.77031716,-94.37690895,84048457,US,USA,840,48457.0,tyler,"Tyler, Texas, US",0,0,0.0,0.0
 2020-03-03,us,texas,30.78097267,-102.7241261,84048371,US,USA,840,48371.0,pecos,"Pecos, Texas, US",0,0,0.0,0.0
 2020-03-03,us,texas,30.78548982,-93.74408813,84048351,US,USA,840,48351.0,newton,"Newton, Texas, US",0,0,0.0,0.0
-2020-03-03,us,texas,30.785818300000006,-96.97718698,84048331,US,USA,840,48331.0,milam,"Milam, Texas, US",0,0,0.0,0.0
+2020-03-03,us,texas,30.78581830000001,-96.97718698,84048331,US,USA,840,48331.0,milam,"Milam, Texas, US",0,0,0.0,0.0
 2020-03-03,us,texas,30.78801353,-98.181887,84048053,US,USA,840,48053.0,burnet,"Burnet, Texas, US",0,0,0.0,0.0
 2020-03-03,us,texas,30.79472531,-94.8276624,84048373,US,USA,840,48373.0,polk,"Polk, Texas, US",0,0,0.0,0.0
 2020-03-03,us,texas,30.88990665,-99.8204794,84048327,US,USA,840,48327.0,menard,"Menard, Texas, US",0,0,0.0,0.0

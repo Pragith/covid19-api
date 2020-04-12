@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,indiana,39.66437981,-86.84517605,84018133,US,USA,840,18133.0,putnam,"Putnam, Indiana, US",25,4,1.0,0.0
 2020-04-08,us,indiana,39.66437981,-86.84517605,84018133,US,USA,840,18133.0,putnam,"Putnam, Indiana, US",27,2,1.0,0.0
 2020-04-09,us,indiana,39.66437981,-86.84517605,84018133,US,USA,840,18133.0,putnam,"Putnam, Indiana, US",30,3,2.0,1.0
+2020-04-10,us,indiana,39.66437981,-86.84517605,84018133,US,USA,840,18133.0,putnam,"Putnam, Indiana, US",31,1,3.0,1.0
+2020-04-11,us,indiana,39.66437981,-86.84517605,84018133,US,USA,840,18133.0,putnam,"Putnam, Indiana, US",32,1,2.0,-1.0

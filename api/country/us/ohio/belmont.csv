@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,ohio,40.01625942,-80.9924051,84039013,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",25,3,1.0,0.0
 2020-04-08,us,ohio,40.01625942,-80.9924051,84039013,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",30,5,1.0,0.0
 2020-04-09,us,ohio,40.01625942,-80.9924051,84039013,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",36,6,1.0,0.0
+2020-04-10,us,ohio,40.01625942,-80.9924051,84039013,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",42,6,1.0,0.0
+2020-04-11,us,ohio,40.01625942,-80.9924051,84039013,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",49,7,2.0,1.0

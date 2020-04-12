@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",60,6,1.0,1.0
 2020-04-08,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",66,6,1.0,0.0
 2020-04-09,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",65,-1,1.0,0.0
+2020-04-10,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",69,4,2.0,1.0
+2020-04-11,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",76,7,2.0,0.0

@@ -78,3 +78,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-07,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",28,0,0.0,0.0
 2020-04-08,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",30,2,0.0,0.0
 2020-04-09,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",37,7,0.0,0.0
+2020-04-10,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",40,3,1.0,1.0
+2020-04-11,us,louisiana,32.13675181,-91.67589857,84022041,US,USA,840,22041.0,franklin,"Franklin, Louisiana, US",47,7,1.0,0.0
