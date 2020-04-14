@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",37,5,3.0,1.0
 2020-04-10,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",37,0,5.0,2.0
 2020-04-11,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",38,1,5.0,0.0
+2020-04-12,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",40,2,5.0,0.0
+2020-04-13,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",40,0,5.0,0.0

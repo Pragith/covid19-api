@@ -80,6 +80,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,0.0,0.0,84080033,US,USA,840,80033.0,out-of-nh,"Out of NH, New Hampshire, US",0,0,0.0,0.0
 2020-04-10,us,new-hampshire,0.0,0.0,84080033,US,USA,840,80033.0,out-of-nh,"Out of NH, New Hampshire, US",0,0,0.0,0.0
 2020-04-11,us,new-hampshire,0.0,0.0,84080033,US,USA,840,80033.0,out-of-nh,"Out of NH, New Hampshire, US",0,0,0.0,0.0
+2020-04-12,us,new-hampshire,0.0,0.0,84080033,US,USA,840,80033.0,out-of-nh,"Out of NH, New Hampshire, US",0,0,0.0,0.0
+2020-04-13,us,new-hampshire,0.0,0.0,84080033,US,USA,840,80033.0,out-of-nh,"Out of NH, New Hampshire, US",0,0,0.0,0.0
 2020-01-22,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",0,0,0.0,0.0
@@ -161,6 +163,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",32,31,18.0,8.0
 2020-04-10,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",32,0,18.0,0.0
 2020-04-11,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",0,-32,19.0,1.0
+2020-04-12,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",1,1,20.0,1.0
+2020-04-13,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",1,0,20.0,0.0
 2020-01-22,us,new-hampshire,42.91537785,-71.7200253,84033011,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,42.91537785,-71.7200253,84033011,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,42.91537785,-71.7200253,84033011,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",0,0,0.0,0.0
@@ -242,6 +246,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,42.91537785,-71.7200253,84033011,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",303,15,2.0,0.0
 2020-04-10,us,new-hampshire,42.91537785,-71.7200253,84033011,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",303,0,2.0,0.0
 2020-04-11,us,new-hampshire,42.91537785,-71.7200253,84033011,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",344,41,2.0,0.0
+2020-04-12,us,new-hampshire,42.91537785,-71.7200253,84033011,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",367,23,2.0,0.0
+2020-04-13,us,new-hampshire,42.91537785,-71.7200253,84033011,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",385,18,2.0,0.0
 2020-01-22,us,new-hampshire,42.92015988,-72.25311043,84033005,US,USA,840,33005.0,cheshire,"Cheshire, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,42.92015988,-72.25311043,84033005,US,USA,840,33005.0,cheshire,"Cheshire, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,42.92015988,-72.25311043,84033005,US,USA,840,33005.0,cheshire,"Cheshire, New Hampshire, US",0,0,0.0,0.0
@@ -323,6 +329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,42.92015988,-72.25311043,84033005,US,USA,840,33005.0,cheshire,"Cheshire, New Hampshire, US",14,1,0.0,0.0
 2020-04-10,us,new-hampshire,42.92015988,-72.25311043,84033005,US,USA,840,33005.0,cheshire,"Cheshire, New Hampshire, US",14,0,0.0,0.0
 2020-04-11,us,new-hampshire,42.92015988,-72.25311043,84033005,US,USA,840,33005.0,cheshire,"Cheshire, New Hampshire, US",17,3,0.0,0.0
+2020-04-12,us,new-hampshire,42.92015988,-72.25311043,84033005,US,USA,840,33005.0,cheshire,"Cheshire, New Hampshire, US",18,1,0.0,0.0
+2020-04-13,us,new-hampshire,42.92015988,-72.25311043,84033005,US,USA,840,33005.0,cheshire,"Cheshire, New Hampshire, US",19,1,0.0,0.0
 2020-01-22,us,new-hampshire,42.98499744,-71.12883377,84033015,US,USA,840,33015.0,rockingham,"Rockingham, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,42.98499744,-71.12883377,84033015,US,USA,840,33015.0,rockingham,"Rockingham, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,42.98499744,-71.12883377,84033015,US,USA,840,33015.0,rockingham,"Rockingham, New Hampshire, US",0,0,0.0,0.0
@@ -404,6 +412,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,42.98499744,-71.12883377,84033015,US,USA,840,33015.0,rockingham,"Rockingham, New Hampshire, US",268,13,1.0,0.0
 2020-04-10,us,new-hampshire,42.98499744,-71.12883377,84033015,US,USA,840,33015.0,rockingham,"Rockingham, New Hampshire, US",268,0,1.0,0.0
 2020-04-11,us,new-hampshire,42.98499744,-71.12883377,84033015,US,USA,840,33015.0,rockingham,"Rockingham, New Hampshire, US",305,37,1.0,0.0
+2020-04-12,us,new-hampshire,42.98499744,-71.12883377,84033015,US,USA,840,33015.0,rockingham,"Rockingham, New Hampshire, US",314,9,1.0,0.0
+2020-04-13,us,new-hampshire,42.98499744,-71.12883377,84033015,US,USA,840,33015.0,rockingham,"Rockingham, New Hampshire, US",345,31,1.0,0.0
 2020-01-22,us,new-hampshire,43.291833,-71.02336013,84033017,US,USA,840,33017.0,strafford,"Strafford, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,43.291833,-71.02336013,84033017,US,USA,840,33017.0,strafford,"Strafford, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,43.291833,-71.02336013,84033017,US,USA,840,33017.0,strafford,"Strafford, New Hampshire, US",0,0,0.0,0.0
@@ -485,6 +495,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,43.291833,-71.02336013,84033017,US,USA,840,33017.0,strafford,"Strafford, New Hampshire, US",48,2,0.0,0.0
 2020-04-10,us,new-hampshire,43.291833,-71.02336013,84033017,US,USA,840,33017.0,strafford,"Strafford, New Hampshire, US",48,0,0.0,0.0
 2020-04-11,us,new-hampshire,43.291833,-71.02336013,84033017,US,USA,840,33017.0,strafford,"Strafford, New Hampshire, US",53,5,0.0,0.0
+2020-04-12,us,new-hampshire,43.291833,-71.02336013,84033017,US,USA,840,33017.0,strafford,"Strafford, New Hampshire, US",58,5,0.0,0.0
+2020-04-13,us,new-hampshire,43.291833,-71.02336013,84033017,US,USA,840,33017.0,strafford,"Strafford, New Hampshire, US",59,1,0.0,0.0
 2020-01-22,us,new-hampshire,43.29662971,-71.6811573,84033013,US,USA,840,33013.0,merrimack,"Merrimack, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,43.29662971,-71.6811573,84033013,US,USA,840,33013.0,merrimack,"Merrimack, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,43.29662971,-71.6811573,84033013,US,USA,840,33013.0,merrimack,"Merrimack, New Hampshire, US",0,0,0.0,0.0
@@ -566,6 +578,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,43.29662971,-71.6811573,84033013,US,USA,840,33013.0,merrimack,"Merrimack, New Hampshire, US",60,4,0.0,0.0
 2020-04-10,us,new-hampshire,43.29662971,-71.6811573,84033013,US,USA,840,33013.0,merrimack,"Merrimack, New Hampshire, US",60,0,0.0,0.0
 2020-04-11,us,new-hampshire,43.29662971,-71.6811573,84033013,US,USA,840,33013.0,merrimack,"Merrimack, New Hampshire, US",66,6,0.0,0.0
+2020-04-12,us,new-hampshire,43.29662971,-71.6811573,84033013,US,USA,840,33013.0,merrimack,"Merrimack, New Hampshire, US",71,5,0.0,0.0
+2020-04-13,us,new-hampshire,43.29662971,-71.6811573,84033013,US,USA,840,33013.0,merrimack,"Merrimack, New Hampshire, US",73,2,0.0,0.0
 2020-01-22,us,new-hampshire,43.36094111,-72.22203125,84033019,US,USA,840,33019.0,sullivan,"Sullivan, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,43.36094111,-72.22203125,84033019,US,USA,840,33019.0,sullivan,"Sullivan, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,43.36094111,-72.22203125,84033019,US,USA,840,33019.0,sullivan,"Sullivan, New Hampshire, US",0,0,0.0,0.0
@@ -647,6 +661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,43.36094111,-72.22203125,84033019,US,USA,840,33019.0,sullivan,"Sullivan, New Hampshire, US",6,0,0.0,0.0
 2020-04-10,us,new-hampshire,43.36094111,-72.22203125,84033019,US,USA,840,33019.0,sullivan,"Sullivan, New Hampshire, US",6,0,0.0,0.0
 2020-04-11,us,new-hampshire,43.36094111,-72.22203125,84033019,US,USA,840,33019.0,sullivan,"Sullivan, New Hampshire, US",6,0,0.0,0.0
+2020-04-12,us,new-hampshire,43.36094111,-72.22203125,84033019,US,USA,840,33019.0,sullivan,"Sullivan, New Hampshire, US",6,0,0.0,0.0
+2020-04-13,us,new-hampshire,43.36094111,-72.22203125,84033019,US,USA,840,33019.0,sullivan,"Sullivan, New Hampshire, US",6,0,0.0,0.0
 2020-01-22,us,new-hampshire,43.51637314,-71.41684235,84033001,US,USA,840,33001.0,belknap,"Belknap, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,43.51637314,-71.41684235,84033001,US,USA,840,33001.0,belknap,"Belknap, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,43.51637314,-71.41684235,84033001,US,USA,840,33001.0,belknap,"Belknap, New Hampshire, US",0,0,0.0,0.0
@@ -728,6 +744,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,43.51637314,-71.41684235,84033001,US,USA,840,33001.0,belknap,"Belknap, New Hampshire, US",21,0,0.0,0.0
 2020-04-10,us,new-hampshire,43.51637314,-71.41684235,84033001,US,USA,840,33001.0,belknap,"Belknap, New Hampshire, US",21,0,0.0,0.0
 2020-04-11,us,new-hampshire,43.51637314,-71.41684235,84033001,US,USA,840,33001.0,belknap,"Belknap, New Hampshire, US",21,0,0.0,0.0
+2020-04-12,us,new-hampshire,43.51637314,-71.41684235,84033001,US,USA,840,33001.0,belknap,"Belknap, New Hampshire, US",21,0,0.0,0.0
+2020-04-13,us,new-hampshire,43.51637314,-71.41684235,84033001,US,USA,840,33001.0,belknap,"Belknap, New Hampshire, US",22,1,0.0,0.0
 2020-01-22,us,new-hampshire,43.87498583,-71.20430216,84033003,US,USA,840,33003.0,carroll,"Carroll, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,43.87498583,-71.20430216,84033003,US,USA,840,33003.0,carroll,"Carroll, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,43.87498583,-71.20430216,84033003,US,USA,840,33003.0,carroll,"Carroll, New Hampshire, US",0,0,0.0,0.0
@@ -809,6 +827,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,43.87498583,-71.20430216,84033003,US,USA,840,33003.0,carroll,"Carroll, New Hampshire, US",23,4,0.0,0.0
 2020-04-10,us,new-hampshire,43.87498583,-71.20430216,84033003,US,USA,840,33003.0,carroll,"Carroll, New Hampshire, US",23,0,0.0,0.0
 2020-04-11,us,new-hampshire,43.87498583,-71.20430216,84033003,US,USA,840,33003.0,carroll,"Carroll, New Hampshire, US",28,5,0.0,0.0
+2020-04-12,us,new-hampshire,43.87498583,-71.20430216,84033003,US,USA,840,33003.0,carroll,"Carroll, New Hampshire, US",28,0,0.0,0.0
+2020-04-13,us,new-hampshire,43.87498583,-71.20430216,84033003,US,USA,840,33003.0,carroll,"Carroll, New Hampshire, US",28,0,0.0,0.0
 2020-01-22,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",0,0,0.0,0.0
@@ -890,6 +910,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",43,2,0.0,0.0
 2020-04-10,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",43,0,0.0,0.0
 2020-04-11,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",43,0,0.0,0.0
+2020-04-12,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",43,0,0.0,0.0
+2020-04-13,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",45,2,0.0,0.0
 2020-01-22,us,new-hampshire,44.69063265,-71.30633239,84033007,US,USA,840,33007.0,coos,"Coos, New Hampshire, US",0,0,0.0,0.0
 2020-01-23,us,new-hampshire,44.69063265,-71.30633239,84033007,US,USA,840,33007.0,coos,"Coos, New Hampshire, US",0,0,0.0,0.0
 2020-01-24,us,new-hampshire,44.69063265,-71.30633239,84033007,US,USA,840,33007.0,coos,"Coos, New Hampshire, US",0,0,0.0,0.0
@@ -971,3 +993,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-hampshire,44.69063265,-71.30633239,84033007,US,USA,840,33007.0,coos,"Coos, New Hampshire, US",1,0,0.0,0.0
 2020-04-10,us,new-hampshire,44.69063265,-71.30633239,84033007,US,USA,840,33007.0,coos,"Coos, New Hampshire, US",1,0,0.0,0.0
 2020-04-11,us,new-hampshire,44.69063265,-71.30633239,84033007,US,USA,840,33007.0,coos,"Coos, New Hampshire, US",2,1,0.0,0.0
+2020-04-12,us,new-hampshire,44.69063265,-71.30633239,84033007,US,USA,840,33007.0,coos,"Coos, New Hampshire, US",2,0,0.0,0.0
+2020-04-13,us,new-hampshire,44.69063265,-71.30633239,84033007,US,USA,840,33007.0,coos,"Coos, New Hampshire, US",2,0,0.0,0.0

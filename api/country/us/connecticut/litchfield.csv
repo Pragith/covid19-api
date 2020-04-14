@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,connecticut,41.7937534,-73.2451475,84009005,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",315,60,13.0,4.0
 2020-04-10,us,connecticut,41.7937534,-73.2451475,84009005,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",346,31,16.0,3.0
 2020-04-11,us,connecticut,41.7937534,-73.2451475,84009005,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",388,42,20.0,4.0
+2020-04-12,us,connecticut,41.7937534,-73.2451475,84009005,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",403,15,24.0,4.0
+2020-04-13,us,connecticut,41.7937534,-73.2451475,84009005,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",446,43,24.0,0.0

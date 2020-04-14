@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,pennsylvania,40.03904563,-76.24770128,84042071,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",596,35,17.0,3.0
 2020-04-10,us,pennsylvania,40.03904563,-76.24770128,84042071,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",648,52,21.0,4.0
 2020-04-11,us,pennsylvania,40.03904563,-76.24770128,84042071,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",698,50,23.0,2.0
+2020-04-12,us,pennsylvania,40.03904563,-76.24770128,84042071,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",772,74,24.0,1.0
+2020-04-13,us,pennsylvania,40.03904563,-76.24770128,84042071,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",828,56,24.0,0.0

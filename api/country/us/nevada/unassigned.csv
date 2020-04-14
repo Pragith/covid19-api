@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,nevada,0.0,0.0,84090032,US,USA,840,90032.0,unassigned,"Unassigned, Nevada, US",57,57,1.0,1.0
 2020-04-10,us,nevada,0.0,0.0,84090032,US,USA,840,90032.0,unassigned,"Unassigned, Nevada, US",146,89,4.0,3.0
 2020-04-11,us,nevada,0.0,0.0,84090032,US,USA,840,90032.0,unassigned,"Unassigned, Nevada, US",96,-50,16.0,12.0
+2020-04-12,us,nevada,0.0,0.0,84090032,US,USA,840,90032.0,unassigned,"Unassigned, Nevada, US",23,-73,0.0,-16.0
+2020-04-13,us,nevada,0.0,0.0,84090032,US,USA,840,90032.0,unassigned,"Unassigned, Nevada, US",0,-23,0.0,0.0

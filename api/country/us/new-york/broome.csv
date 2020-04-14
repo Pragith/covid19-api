@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,new-york,42.15903158,-75.81326086,84036007,US,USA,840,36007.0,broome,"Broome, New York, US",105,12,6.0,0.0
 2020-04-10,us,new-york,42.15903158,-75.81326086,84036007,US,USA,840,36007.0,broome,"Broome, New York, US",112,7,6.0,0.0
 2020-04-11,us,new-york,42.15903158,-75.81326086,84036007,US,USA,840,36007.0,broome,"Broome, New York, US",117,5,6.0,0.0
+2020-04-12,us,new-york,42.15903158,-75.81326086,84036007,US,USA,840,36007.0,broome,"Broome, New York, US",126,9,6.0,0.0
+2020-04-13,us,new-york,42.15903158,-75.81326086,84036007,US,USA,840,36007.0,broome,"Broome, New York, US",133,7,8.0,2.0

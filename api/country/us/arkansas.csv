@@ -80,6 +80,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,0.0,0.0,84080005,US,USA,840,80005.0,out-of-ar,"Out of AR, Arkansas, US",0,0,0.0,0.0
 2020-04-10,us,arkansas,0.0,0.0,84080005,US,USA,840,80005.0,out-of-ar,"Out of AR, Arkansas, US",0,0,0.0,0.0
 2020-04-11,us,arkansas,0.0,0.0,84080005,US,USA,840,80005.0,out-of-ar,"Out of AR, Arkansas, US",0,0,0.0,0.0
+2020-04-12,us,arkansas,0.0,0.0,84080005,US,USA,840,80005.0,out-of-ar,"Out of AR, Arkansas, US",0,0,0.0,0.0
+2020-04-13,us,arkansas,0.0,0.0,84080005,US,USA,840,80005.0,out-of-ar,"Out of AR, Arkansas, US",0,0,0.0,0.0
 2020-01-22,us,arkansas,0.0,0.0,84090005,US,USA,840,90005.0,unassigned,"Unassigned, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,0.0,0.0,84090005,US,USA,840,90005.0,unassigned,"Unassigned, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,0.0,0.0,84090005,US,USA,840,90005.0,unassigned,"Unassigned, Arkansas, US",0,0,0.0,0.0
@@ -161,6 +163,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,0.0,0.0,84090005,US,USA,840,90005.0,unassigned,"Unassigned, Arkansas, US",13,-31,0.0,-12.0
 2020-04-10,us,arkansas,0.0,0.0,84090005,US,USA,840,90005.0,unassigned,"Unassigned, Arkansas, US",21,8,0.0,0.0
 2020-04-11,us,arkansas,0.0,0.0,84090005,US,USA,840,90005.0,unassigned,"Unassigned, Arkansas, US",19,-2,0.0,0.0
+2020-04-12,us,arkansas,0.0,0.0,84090005,US,USA,840,90005.0,unassigned,"Unassigned, Arkansas, US",25,6,0.0,0.0
+2020-04-13,us,arkansas,0.0,0.0,84090005,US,USA,840,90005.0,unassigned,"Unassigned, Arkansas, US",36,11,0.0,0.0
 2020-01-22,us,arkansas,33.16887091,-92.59746952,84005139,US,USA,840,5139.0,union,"Union, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.16887091,-92.59746952,84005139,US,USA,840,5139.0,union,"Union, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.16887091,-92.59746952,84005139,US,USA,840,5139.0,union,"Union, Arkansas, US",0,0,0.0,0.0
@@ -242,6 +246,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.16887091,-92.59746952,84005139,US,USA,840,5139.0,union,"Union, Arkansas, US",15,2,0.0,0.0
 2020-04-10,us,arkansas,33.16887091,-92.59746952,84005139,US,USA,840,5139.0,union,"Union, Arkansas, US",16,1,0.0,0.0
 2020-04-11,us,arkansas,33.16887091,-92.59746952,84005139,US,USA,840,5139.0,union,"Union, Arkansas, US",18,2,0.0,0.0
+2020-04-12,us,arkansas,33.16887091,-92.59746952,84005139,US,USA,840,5139.0,union,"Union, Arkansas, US",18,0,0.0,0.0
+2020-04-13,us,arkansas,33.16887091,-92.59746952,84005139,US,USA,840,5139.0,union,"Union, Arkansas, US",17,-1,0.0,0.0
 2020-01-22,us,arkansas,33.19153461,-91.7698471,84005003,US,USA,840,5003.0,ashley,"Ashley, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.19153461,-91.7698471,84005003,US,USA,840,5003.0,ashley,"Ashley, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.19153461,-91.7698471,84005003,US,USA,840,5003.0,ashley,"Ashley, Arkansas, US",0,0,0.0,0.0
@@ -323,6 +329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.19153461,-91.7698471,84005003,US,USA,840,5003.0,ashley,"Ashley, Arkansas, US",8,3,0.0,0.0
 2020-04-10,us,arkansas,33.19153461,-91.7698471,84005003,US,USA,840,5003.0,ashley,"Ashley, Arkansas, US",9,1,0.0,0.0
 2020-04-11,us,arkansas,33.19153461,-91.7698471,84005003,US,USA,840,5003.0,ashley,"Ashley, Arkansas, US",10,1,0.0,0.0
+2020-04-12,us,arkansas,33.19153461,-91.7698471,84005003,US,USA,840,5003.0,ashley,"Ashley, Arkansas, US",10,0,0.0,0.0
+2020-04-13,us,arkansas,33.19153461,-91.7698471,84005003,US,USA,840,5003.0,ashley,"Ashley, Arkansas, US",11,1,0.0,0.0
 2020-01-22,us,arkansas,33.21230701,-93.22642793,84005027,US,USA,840,5027.0,columbia,"Columbia, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.21230701,-93.22642793,84005027,US,USA,840,5027.0,columbia,"Columbia, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.21230701,-93.22642793,84005027,US,USA,840,5027.0,columbia,"Columbia, Arkansas, US",0,0,0.0,0.0
@@ -404,6 +412,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.21230701,-93.22642793,84005027,US,USA,840,5027.0,columbia,"Columbia, Arkansas, US",3,2,0.0,0.0
 2020-04-10,us,arkansas,33.21230701,-93.22642793,84005027,US,USA,840,5027.0,columbia,"Columbia, Arkansas, US",3,0,0.0,0.0
 2020-04-11,us,arkansas,33.21230701,-93.22642793,84005027,US,USA,840,5027.0,columbia,"Columbia, Arkansas, US",3,0,0.0,0.0
+2020-04-12,us,arkansas,33.21230701,-93.22642793,84005027,US,USA,840,5027.0,columbia,"Columbia, Arkansas, US",3,0,0.0,0.0
+2020-04-13,us,arkansas,33.21230701,-93.22642793,84005027,US,USA,840,5027.0,columbia,"Columbia, Arkansas, US",3,0,0.0,0.0
 2020-01-22,us,arkansas,33.24116713,-93.60677071,84005073,US,USA,840,5073.0,lafayette,"Lafayette, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.24116713,-93.60677071,84005073,US,USA,840,5073.0,lafayette,"Lafayette, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.24116713,-93.60677071,84005073,US,USA,840,5073.0,lafayette,"Lafayette, Arkansas, US",0,0,0.0,0.0
@@ -485,6 +495,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.24116713,-93.60677071,84005073,US,USA,840,5073.0,lafayette,"Lafayette, Arkansas, US",2,1,0.0,0.0
 2020-04-10,us,arkansas,33.24116713,-93.60677071,84005073,US,USA,840,5073.0,lafayette,"Lafayette, Arkansas, US",2,0,0.0,0.0
 2020-04-11,us,arkansas,33.24116713,-93.60677071,84005073,US,USA,840,5073.0,lafayette,"Lafayette, Arkansas, US",2,0,0.0,0.0
+2020-04-12,us,arkansas,33.24116713,-93.60677071,84005073,US,USA,840,5073.0,lafayette,"Lafayette, Arkansas, US",2,0,0.0,0.0
+2020-04-13,us,arkansas,33.24116713,-93.60677071,84005073,US,USA,840,5073.0,lafayette,"Lafayette, Arkansas, US",3,1,0.0,0.0
 2020-01-22,us,arkansas,33.26458973,-91.29539209,84005017,US,USA,840,5017.0,chicot,"Chicot, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.26458973,-91.29539209,84005017,US,USA,840,5017.0,chicot,"Chicot, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.26458973,-91.29539209,84005017,US,USA,840,5017.0,chicot,"Chicot, Arkansas, US",0,0,0.0,0.0
@@ -566,6 +578,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.26458973,-91.29539209,84005017,US,USA,840,5017.0,chicot,"Chicot, Arkansas, US",4,2,0.0,0.0
 2020-04-10,us,arkansas,33.26458973,-91.29539209,84005017,US,USA,840,5017.0,chicot,"Chicot, Arkansas, US",4,0,0.0,0.0
 2020-04-11,us,arkansas,33.26458973,-91.29539209,84005017,US,USA,840,5017.0,chicot,"Chicot, Arkansas, US",5,1,0.0,0.0
+2020-04-12,us,arkansas,33.26458973,-91.29539209,84005017,US,USA,840,5017.0,chicot,"Chicot, Arkansas, US",5,0,0.0,0.0
+2020-04-13,us,arkansas,33.26458973,-91.29539209,84005017,US,USA,840,5017.0,chicot,"Chicot, Arkansas, US",5,0,0.0,0.0
 2020-01-22,us,arkansas,33.31403423,-93.89285258,84005091,US,USA,840,5091.0,miller,"Miller, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.31403423,-93.89285258,84005091,US,USA,840,5091.0,miller,"Miller, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.31403423,-93.89285258,84005091,US,USA,840,5091.0,miller,"Miller, Arkansas, US",0,0,0.0,0.0
@@ -647,6 +661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.31403423,-93.89285258,84005091,US,USA,840,5091.0,miller,"Miller, Arkansas, US",19,3,0.0,0.0
 2020-04-10,us,arkansas,33.31403423,-93.89285258,84005091,US,USA,840,5091.0,miller,"Miller, Arkansas, US",20,1,0.0,0.0
 2020-04-11,us,arkansas,33.31403423,-93.89285258,84005091,US,USA,840,5091.0,miller,"Miller, Arkansas, US",22,2,0.0,0.0
+2020-04-12,us,arkansas,33.31403423,-93.89285258,84005091,US,USA,840,5091.0,miller,"Miller, Arkansas, US",22,0,0.0,0.0
+2020-04-13,us,arkansas,33.31403423,-93.89285258,84005091,US,USA,840,5091.0,miller,"Miller, Arkansas, US",24,2,0.0,0.0
 2020-01-22,us,arkansas,33.46755808,-92.15980837,84005011,US,USA,840,5011.0,bradley,"Bradley, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.46755808,-92.15980837,84005011,US,USA,840,5011.0,bradley,"Bradley, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.46755808,-92.15980837,84005011,US,USA,840,5011.0,bradley,"Bradley, Arkansas, US",0,0,0.0,0.0
@@ -728,6 +744,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.46755808,-92.15980837,84005011,US,USA,840,5011.0,bradley,"Bradley, Arkansas, US",6,1,0.0,0.0
 2020-04-10,us,arkansas,33.46755808,-92.15980837,84005011,US,USA,840,5011.0,bradley,"Bradley, Arkansas, US",6,0,0.0,0.0
 2020-04-11,us,arkansas,33.46755808,-92.15980837,84005011,US,USA,840,5011.0,bradley,"Bradley, Arkansas, US",6,0,0.0,0.0
+2020-04-12,us,arkansas,33.46755808,-92.15980837,84005011,US,USA,840,5011.0,bradley,"Bradley, Arkansas, US",7,1,0.0,0.0
+2020-04-13,us,arkansas,33.46755808,-92.15980837,84005011,US,USA,840,5011.0,bradley,"Bradley, Arkansas, US",7,0,0.0,0.0
 2020-01-22,us,arkansas,33.55598792,-92.49974403,84005013,US,USA,840,5013.0,calhoun,"Calhoun, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.55598792,-92.49974403,84005013,US,USA,840,5013.0,calhoun,"Calhoun, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.55598792,-92.49974403,84005013,US,USA,840,5013.0,calhoun,"Calhoun, Arkansas, US",0,0,0.0,0.0
@@ -809,6 +827,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.55598792,-92.49974403,84005013,US,USA,840,5013.0,calhoun,"Calhoun, Arkansas, US",0,0,0.0,0.0
 2020-04-10,us,arkansas,33.55598792,-92.49974403,84005013,US,USA,840,5013.0,calhoun,"Calhoun, Arkansas, US",0,0,0.0,0.0
 2020-04-11,us,arkansas,33.55598792,-92.49974403,84005013,US,USA,840,5013.0,calhoun,"Calhoun, Arkansas, US",0,0,0.0,0.0
+2020-04-12,us,arkansas,33.55598792,-92.49974403,84005013,US,USA,840,5013.0,calhoun,"Calhoun, Arkansas, US",0,0,0.0,0.0
+2020-04-13,us,arkansas,33.55598792,-92.49974403,84005013,US,USA,840,5013.0,calhoun,"Calhoun, Arkansas, US",0,0,0.0,0.0
 2020-01-22,us,arkansas,33.58839816,-92.87795984,84005103,US,USA,840,5103.0,ouachita,"Ouachita, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.58839816,-92.87795984,84005103,US,USA,840,5103.0,ouachita,"Ouachita, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.58839816,-92.87795984,84005103,US,USA,840,5103.0,ouachita,"Ouachita, Arkansas, US",0,0,0.0,0.0
@@ -890,6 +910,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.58839816,-92.87795984,84005103,US,USA,840,5103.0,ouachita,"Ouachita, Arkansas, US",5,4,0.0,0.0
 2020-04-10,us,arkansas,33.58839816,-92.87795984,84005103,US,USA,840,5103.0,ouachita,"Ouachita, Arkansas, US",5,0,0.0,0.0
 2020-04-11,us,arkansas,33.58839816,-92.87795984,84005103,US,USA,840,5103.0,ouachita,"Ouachita, Arkansas, US",5,0,0.0,0.0
+2020-04-12,us,arkansas,33.58839816,-92.87795984,84005103,US,USA,840,5103.0,ouachita,"Ouachita, Arkansas, US",5,0,0.0,0.0
+2020-04-13,us,arkansas,33.58839816,-92.87795984,84005103,US,USA,840,5103.0,ouachita,"Ouachita, Arkansas, US",5,0,0.0,0.0
 2020-01-22,us,arkansas,33.59035001,-91.71777921,84005043,US,USA,840,5043.0,drew,"Drew, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.59035001,-91.71777921,84005043,US,USA,840,5043.0,drew,"Drew, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.59035001,-91.71777921,84005043,US,USA,840,5043.0,drew,"Drew, Arkansas, US",0,0,0.0,0.0
@@ -971,6 +993,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.59035001,-91.71777921,84005043,US,USA,840,5043.0,drew,"Drew, Arkansas, US",5,0,0.0,0.0
 2020-04-10,us,arkansas,33.59035001,-91.71777921,84005043,US,USA,840,5043.0,drew,"Drew, Arkansas, US",5,0,0.0,0.0
 2020-04-11,us,arkansas,33.59035001,-91.71777921,84005043,US,USA,840,5043.0,drew,"Drew, Arkansas, US",6,1,1.0,1.0
+2020-04-12,us,arkansas,33.59035001,-91.71777921,84005043,US,USA,840,5043.0,drew,"Drew, Arkansas, US",6,0,1.0,0.0
+2020-04-13,us,arkansas,33.59035001,-91.71777921,84005043,US,USA,840,5043.0,drew,"Drew, Arkansas, US",6,0,1.0,0.0
 2020-01-22,us,arkansas,33.66340119,-93.30632432,84005099,US,USA,840,5099.0,nevada,"Nevada, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.66340119,-93.30632432,84005099,US,USA,840,5099.0,nevada,"Nevada, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.66340119,-93.30632432,84005099,US,USA,840,5099.0,nevada,"Nevada, Arkansas, US",0,0,0.0,0.0
@@ -1052,6 +1076,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.66340119,-93.30632432,84005099,US,USA,840,5099.0,nevada,"Nevada, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,33.66340119,-93.30632432,84005099,US,USA,840,5099.0,nevada,"Nevada, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,33.66340119,-93.30632432,84005099,US,USA,840,5099.0,nevada,"Nevada, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,33.66340119,-93.30632432,84005099,US,USA,840,5099.0,nevada,"Nevada, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,33.66340119,-93.30632432,84005099,US,USA,840,5099.0,nevada,"Nevada, Arkansas, US",1,0,0.0,0.0
 2020-01-22,us,arkansas,33.70375665,-94.23468591,84005081,US,USA,840,5081.0,little-river,"Little River, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.70375665,-94.23468591,84005081,US,USA,840,5081.0,little-river,"Little River, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.70375665,-94.23468591,84005081,US,USA,840,5081.0,little-river,"Little River, Arkansas, US",0,0,0.0,0.0
@@ -1133,6 +1159,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.70375665,-94.23468591,84005081,US,USA,840,5081.0,little-river,"Little River, Arkansas, US",0,0,0.0,0.0
 2020-04-10,us,arkansas,33.70375665,-94.23468591,84005081,US,USA,840,5081.0,little-river,"Little River, Arkansas, US",0,0,0.0,0.0
 2020-04-11,us,arkansas,33.70375665,-94.23468591,84005081,US,USA,840,5081.0,little-river,"Little River, Arkansas, US",0,0,0.0,0.0
+2020-04-12,us,arkansas,33.70375665,-94.23468591,84005081,US,USA,840,5081.0,little-river,"Little River, Arkansas, US",0,0,0.0,0.0
+2020-04-13,us,arkansas,33.70375665,-94.23468591,84005081,US,USA,840,5081.0,little-river,"Little River, Arkansas, US",0,0,0.0,0.0
 2020-01-22,us,arkansas,33.73325583,-93.66935133,84005057,US,USA,840,5057.0,hempstead,"Hempstead, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.73325583,-93.66935133,84005057,US,USA,840,5057.0,hempstead,"Hempstead, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.73325583,-93.66935133,84005057,US,USA,840,5057.0,hempstead,"Hempstead, Arkansas, US",0,0,0.0,0.0
@@ -1214,6 +1242,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.73325583,-93.66935133,84005057,US,USA,840,5057.0,hempstead,"Hempstead, Arkansas, US",3,2,1.0,1.0
 2020-04-10,us,arkansas,33.73325583,-93.66935133,84005057,US,USA,840,5057.0,hempstead,"Hempstead, Arkansas, US",3,0,1.0,0.0
 2020-04-11,us,arkansas,33.73325583,-93.66935133,84005057,US,USA,840,5057.0,hempstead,"Hempstead, Arkansas, US",4,1,1.0,0.0
+2020-04-12,us,arkansas,33.73325583,-93.66935133,84005057,US,USA,840,5057.0,hempstead,"Hempstead, Arkansas, US",5,1,1.0,0.0
+2020-04-13,us,arkansas,33.73325583,-93.66935133,84005057,US,USA,840,5057.0,hempstead,"Hempstead, Arkansas, US",5,0,1.0,0.0
 2020-01-22,us,arkansas,33.83011025,-91.25500948,84005041,US,USA,840,5041.0,desha,"Desha, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.83011025,-91.25500948,84005041,US,USA,840,5041.0,desha,"Desha, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.83011025,-91.25500948,84005041,US,USA,840,5041.0,desha,"Desha, Arkansas, US",0,0,0.0,0.0
@@ -1295,6 +1325,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.83011025,-91.25500948,84005041,US,USA,840,5041.0,desha,"Desha, Arkansas, US",5,0,0.0,0.0
 2020-04-10,us,arkansas,33.83011025,-91.25500948,84005041,US,USA,840,5041.0,desha,"Desha, Arkansas, US",6,1,0.0,0.0
 2020-04-11,us,arkansas,33.83011025,-91.25500948,84005041,US,USA,840,5041.0,desha,"Desha, Arkansas, US",6,0,0.0,0.0
+2020-04-12,us,arkansas,33.83011025,-91.25500948,84005041,US,USA,840,5041.0,desha,"Desha, Arkansas, US",6,0,0.0,0.0
+2020-04-13,us,arkansas,33.83011025,-91.25500948,84005041,US,USA,840,5041.0,desha,"Desha, Arkansas, US",6,0,0.0,0.0
 2020-01-22,us,arkansas,33.89723187,-92.18537045,84005025,US,USA,840,5025.0,cleveland,"Cleveland, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.89723187,-92.18537045,84005025,US,USA,840,5025.0,cleveland,"Cleveland, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.89723187,-92.18537045,84005025,US,USA,840,5025.0,cleveland,"Cleveland, Arkansas, US",0,0,0.0,0.0
@@ -1376,6 +1408,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.89723187,-92.18537045,84005025,US,USA,840,5025.0,cleveland,"Cleveland, Arkansas, US",8,1,0.0,0.0
 2020-04-10,us,arkansas,33.89723187,-92.18537045,84005025,US,USA,840,5025.0,cleveland,"Cleveland, Arkansas, US",8,0,0.0,0.0
 2020-04-11,us,arkansas,33.89723187,-92.18537045,84005025,US,USA,840,5025.0,cleveland,"Cleveland, Arkansas, US",8,0,0.0,0.0
+2020-04-12,us,arkansas,33.89723187,-92.18537045,84005025,US,USA,840,5025.0,cleveland,"Cleveland, Arkansas, US",8,0,0.0,0.0
+2020-04-13,us,arkansas,33.89723187,-92.18537045,84005025,US,USA,840,5025.0,cleveland,"Cleveland, Arkansas, US",8,0,0.0,0.0
 2020-01-22,us,arkansas,33.95317155,-91.74002806,84005079,US,USA,840,5079.0,lincoln,"Lincoln, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.95317155,-91.74002806,84005079,US,USA,840,5079.0,lincoln,"Lincoln, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.95317155,-91.74002806,84005079,US,USA,840,5079.0,lincoln,"Lincoln, Arkansas, US",0,0,0.0,0.0
@@ -1457,6 +1491,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.95317155,-91.74002806,84005079,US,USA,840,5079.0,lincoln,"Lincoln, Arkansas, US",10,-1,0.0,0.0
 2020-04-10,us,arkansas,33.95317155,-91.74002806,84005079,US,USA,840,5079.0,lincoln,"Lincoln, Arkansas, US",10,0,0.0,0.0
 2020-04-11,us,arkansas,33.95317155,-91.74002806,84005079,US,USA,840,5079.0,lincoln,"Lincoln, Arkansas, US",10,0,0.0,0.0
+2020-04-12,us,arkansas,33.95317155,-91.74002806,84005079,US,USA,840,5079.0,lincoln,"Lincoln, Arkansas, US",11,1,0.0,0.0
+2020-04-13,us,arkansas,33.95317155,-91.74002806,84005079,US,USA,840,5079.0,lincoln,"Lincoln, Arkansas, US",56,45,0.0,0.0
 2020-01-22,us,arkansas,33.97042763,-92.65167437,84005039,US,USA,840,5039.0,dallas,"Dallas, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.97042763,-92.65167437,84005039,US,USA,840,5039.0,dallas,"Dallas, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.97042763,-92.65167437,84005039,US,USA,840,5039.0,dallas,"Dallas, Arkansas, US",0,0,0.0,0.0
@@ -1538,6 +1574,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.97042763,-92.65167437,84005039,US,USA,840,5039.0,dallas,"Dallas, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,33.97042763,-92.65167437,84005039,US,USA,840,5039.0,dallas,"Dallas, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,33.97042763,-92.65167437,84005039,US,USA,840,5039.0,dallas,"Dallas, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,33.97042763,-92.65167437,84005039,US,USA,840,5039.0,dallas,"Dallas, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,33.97042763,-92.65167437,84005039,US,USA,840,5039.0,dallas,"Dallas, Arkansas, US",1,0,0.0,0.0
 2020-01-22,us,arkansas,33.99780401,-94.2424869,84005133,US,USA,840,5133.0,sevier,"Sevier, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,33.99780401,-94.2424869,84005133,US,USA,840,5133.0,sevier,"Sevier, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,33.99780401,-94.2424869,84005133,US,USA,840,5133.0,sevier,"Sevier, Arkansas, US",0,0,0.0,0.0
@@ -1619,6 +1657,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,33.99780401,-94.2424869,84005133,US,USA,840,5133.0,sevier,"Sevier, Arkansas, US",6,0,0.0,0.0
 2020-04-10,us,arkansas,33.99780401,-94.2424869,84005133,US,USA,840,5133.0,sevier,"Sevier, Arkansas, US",6,0,0.0,0.0
 2020-04-11,us,arkansas,33.99780401,-94.2424869,84005133,US,USA,840,5133.0,sevier,"Sevier, Arkansas, US",6,0,0.0,0.0
+2020-04-12,us,arkansas,33.99780401,-94.2424869,84005133,US,USA,840,5133.0,sevier,"Sevier, Arkansas, US",8,2,0.0,0.0
+2020-04-13,us,arkansas,33.99780401,-94.2424869,84005133,US,USA,840,5133.0,sevier,"Sevier, Arkansas, US",8,0,0.0,0.0
 2020-01-22,us,arkansas,34.04613432,-93.17484713,84005019,US,USA,840,5019.0,clark,"Clark, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.04613432,-93.17484713,84005019,US,USA,840,5019.0,clark,"Clark, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.04613432,-93.17484713,84005019,US,USA,840,5019.0,clark,"Clark, Arkansas, US",0,0,0.0,0.0
@@ -1700,6 +1740,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.04613432,-93.17484713,84005019,US,USA,840,5019.0,clark,"Clark, Arkansas, US",27,0,0.0,0.0
 2020-04-10,us,arkansas,34.04613432,-93.17484713,84005019,US,USA,840,5019.0,clark,"Clark, Arkansas, US",27,0,0.0,0.0
 2020-04-11,us,arkansas,34.04613432,-93.17484713,84005019,US,USA,840,5019.0,clark,"Clark, Arkansas, US",27,0,0.0,0.0
+2020-04-12,us,arkansas,34.04613432,-93.17484713,84005019,US,USA,840,5019.0,clark,"Clark, Arkansas, US",27,0,0.0,0.0
+2020-04-13,us,arkansas,34.04613432,-93.17484713,84005019,US,USA,840,5019.0,clark,"Clark, Arkansas, US",26,-1,0.0,0.0
 2020-01-22,us,arkansas,34.09007427,-93.9934871,84005061,US,USA,840,5061.0,howard,"Howard, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.09007427,-93.9934871,84005061,US,USA,840,5061.0,howard,"Howard, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.09007427,-93.9934871,84005061,US,USA,840,5061.0,howard,"Howard, Arkansas, US",0,0,0.0,0.0
@@ -1781,6 +1823,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.09007427,-93.9934871,84005061,US,USA,840,5061.0,howard,"Howard, Arkansas, US",5,0,0.0,0.0
 2020-04-10,us,arkansas,34.09007427,-93.9934871,84005061,US,USA,840,5061.0,howard,"Howard, Arkansas, US",6,1,0.0,0.0
 2020-04-11,us,arkansas,34.09007427,-93.9934871,84005061,US,USA,840,5061.0,howard,"Howard, Arkansas, US",6,0,0.0,0.0
+2020-04-12,us,arkansas,34.09007427,-93.9934871,84005061,US,USA,840,5061.0,howard,"Howard, Arkansas, US",8,2,0.0,0.0
+2020-04-13,us,arkansas,34.09007427,-93.9934871,84005061,US,USA,840,5061.0,howard,"Howard, Arkansas, US",9,1,0.0,0.0
 2020-01-22,us,arkansas,34.16250414,-93.65789349,84005109,US,USA,840,5109.0,pike,"Pike, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.16250414,-93.65789349,84005109,US,USA,840,5109.0,pike,"Pike, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.16250414,-93.65789349,84005109,US,USA,840,5109.0,pike,"Pike, Arkansas, US",0,0,0.0,0.0
@@ -1862,6 +1906,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.16250414,-93.65789349,84005109,US,USA,840,5109.0,pike,"Pike, Arkansas, US",2,1,0.0,0.0
 2020-04-10,us,arkansas,34.16250414,-93.65789349,84005109,US,USA,840,5109.0,pike,"Pike, Arkansas, US",2,0,0.0,0.0
 2020-04-11,us,arkansas,34.16250414,-93.65789349,84005109,US,USA,840,5109.0,pike,"Pike, Arkansas, US",2,0,0.0,0.0
+2020-04-12,us,arkansas,34.16250414,-93.65789349,84005109,US,USA,840,5109.0,pike,"Pike, Arkansas, US",2,0,0.0,0.0
+2020-04-13,us,arkansas,34.16250414,-93.65789349,84005109,US,USA,840,5109.0,pike,"Pike, Arkansas, US",2,0,0.0,0.0
 2020-01-22,us,arkansas,34.26767081,-91.92619839,84005069,US,USA,840,5069.0,jefferson,"Jefferson, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.26767081,-91.92619839,84005069,US,USA,840,5069.0,jefferson,"Jefferson, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.26767081,-91.92619839,84005069,US,USA,840,5069.0,jefferson,"Jefferson, Arkansas, US",0,0,0.0,0.0
@@ -1943,6 +1989,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.26767081,-91.92619839,84005069,US,USA,840,5069.0,jefferson,"Jefferson, Arkansas, US",90,12,1.0,1.0
 2020-04-10,us,arkansas,34.26767081,-91.92619839,84005069,US,USA,840,5069.0,jefferson,"Jefferson, Arkansas, US",91,1,1.0,0.0
 2020-04-11,us,arkansas,34.26767081,-91.92619839,84005069,US,USA,840,5069.0,jefferson,"Jefferson, Arkansas, US",91,0,2.0,1.0
+2020-04-12,us,arkansas,34.26767081,-91.92619839,84005069,US,USA,840,5069.0,jefferson,"Jefferson, Arkansas, US",95,4,3.0,1.0
+2020-04-13,us,arkansas,34.26767081,-91.92619839,84005069,US,USA,840,5069.0,jefferson,"Jefferson, Arkansas, US",100,5,4.0,1.0
 2020-01-22,us,arkansas,34.29017991,-92.42320562,84005053,US,USA,840,5053.0,grant,"Grant, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.29017991,-92.42320562,84005053,US,USA,840,5053.0,grant,"Grant, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.29017991,-92.42320562,84005053,US,USA,840,5053.0,grant,"Grant, Arkansas, US",0,0,0.0,0.0
@@ -2024,6 +2072,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.29017991,-92.42320562,84005053,US,USA,840,5053.0,grant,"Grant, Arkansas, US",7,2,0.0,0.0
 2020-04-10,us,arkansas,34.29017991,-92.42320562,84005053,US,USA,840,5053.0,grant,"Grant, Arkansas, US",7,0,0.0,0.0
 2020-04-11,us,arkansas,34.29017991,-92.42320562,84005053,US,USA,840,5053.0,grant,"Grant, Arkansas, US",9,2,0.0,0.0
+2020-04-12,us,arkansas,34.29017991,-92.42320562,84005053,US,USA,840,5053.0,grant,"Grant, Arkansas, US",10,1,0.0,0.0
+2020-04-13,us,arkansas,34.29017991,-92.42320562,84005053,US,USA,840,5053.0,grant,"Grant, Arkansas, US",10,0,0.0,0.0
 2020-01-22,us,arkansas,34.29145151,-91.37277296,84005001,US,USA,840,5001.0,arkansas,"Arkansas, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.29145151,-91.37277296,84005001,US,USA,840,5001.0,arkansas,"Arkansas, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.29145151,-91.37277296,84005001,US,USA,840,5001.0,arkansas,"Arkansas, Arkansas, US",0,0,0.0,0.0
@@ -2105,6 +2155,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.29145151,-91.37277296,84005001,US,USA,840,5001.0,arkansas,"Arkansas, Arkansas, US",2,1,0.0,0.0
 2020-04-10,us,arkansas,34.29145151,-91.37277296,84005001,US,USA,840,5001.0,arkansas,"Arkansas, Arkansas, US",2,0,0.0,0.0
 2020-04-11,us,arkansas,34.29145151,-91.37277296,84005001,US,USA,840,5001.0,arkansas,"Arkansas, Arkansas, US",2,0,0.0,0.0
+2020-04-12,us,arkansas,34.29145151,-91.37277296,84005001,US,USA,840,5001.0,arkansas,"Arkansas, Arkansas, US",2,0,0.0,0.0
+2020-04-13,us,arkansas,34.29145151,-91.37277296,84005001,US,USA,840,5001.0,arkansas,"Arkansas, Arkansas, US",2,0,0.0,0.0
 2020-01-22,us,arkansas,34.31709259,-92.95396325,84005059,US,USA,840,5059.0,hot-spring,"Hot Spring, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.31709259,-92.95396325,84005059,US,USA,840,5059.0,hot-spring,"Hot Spring, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.31709259,-92.95396325,84005059,US,USA,840,5059.0,hot-spring,"Hot Spring, Arkansas, US",0,0,0.0,0.0
@@ -2186,6 +2238,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.31709259,-92.95396325,84005059,US,USA,840,5059.0,hot-spring,"Hot Spring, Arkansas, US",8,1,0.0,0.0
 2020-04-10,us,arkansas,34.31709259,-92.95396325,84005059,US,USA,840,5059.0,hot-spring,"Hot Spring, Arkansas, US",8,0,0.0,0.0
 2020-04-11,us,arkansas,34.31709259,-92.95396325,84005059,US,USA,840,5059.0,hot-spring,"Hot Spring, Arkansas, US",8,0,0.0,0.0
+2020-04-12,us,arkansas,34.31709259,-92.95396325,84005059,US,USA,840,5059.0,hot-spring,"Hot Spring, Arkansas, US",8,0,0.0,0.0
+2020-04-13,us,arkansas,34.31709259,-92.95396325,84005059,US,USA,840,5059.0,hot-spring,"Hot Spring, Arkansas, US",8,0,0.0,0.0
 2020-01-22,us,arkansas,34.43268455,-90.84800154,84005107,US,USA,840,5107.0,phillips,"Phillips, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.43268455,-90.84800154,84005107,US,USA,840,5107.0,phillips,"Phillips, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.43268455,-90.84800154,84005107,US,USA,840,5107.0,phillips,"Phillips, Arkansas, US",0,0,0.0,0.0
@@ -2267,6 +2321,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.43268455,-90.84800154,84005107,US,USA,840,5107.0,phillips,"Phillips, Arkansas, US",2,1,0.0,0.0
 2020-04-10,us,arkansas,34.43268455,-90.84800154,84005107,US,USA,840,5107.0,phillips,"Phillips, Arkansas, US",3,1,0.0,0.0
 2020-04-11,us,arkansas,34.43268455,-90.84800154,84005107,US,USA,840,5107.0,phillips,"Phillips, Arkansas, US",3,0,0.0,0.0
+2020-04-12,us,arkansas,34.43268455,-90.84800154,84005107,US,USA,840,5107.0,phillips,"Phillips, Arkansas, US",3,0,1.0,1.0
+2020-04-13,us,arkansas,34.43268455,-90.84800154,84005107,US,USA,840,5107.0,phillips,"Phillips, Arkansas, US",4,1,1.0,0.0
 2020-01-22,us,arkansas,34.48254879,-94.22728802,84005113,US,USA,840,5113.0,polk,"Polk, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.48254879,-94.22728802,84005113,US,USA,840,5113.0,polk,"Polk, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.48254879,-94.22728802,84005113,US,USA,840,5113.0,polk,"Polk, Arkansas, US",0,0,0.0,0.0
@@ -2348,6 +2404,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.48254879,-94.22728802,84005113,US,USA,840,5113.0,polk,"Polk, Arkansas, US",6,0,0.0,0.0
 2020-04-10,us,arkansas,34.48254879,-94.22728802,84005113,US,USA,840,5113.0,polk,"Polk, Arkansas, US",6,0,0.0,0.0
 2020-04-11,us,arkansas,34.48254879,-94.22728802,84005113,US,USA,840,5113.0,polk,"Polk, Arkansas, US",6,0,0.0,0.0
+2020-04-12,us,arkansas,34.48254879,-94.22728802,84005113,US,USA,840,5113.0,polk,"Polk, Arkansas, US",6,0,0.0,0.0
+2020-04-13,us,arkansas,34.48254879,-94.22728802,84005113,US,USA,840,5113.0,polk,"Polk, Arkansas, US",6,0,0.0,0.0
 2020-01-22,us,arkansas,34.53704874,-93.65824478,84005097,US,USA,840,5097.0,montgomery,"Montgomery, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.53704874,-93.65824478,84005097,US,USA,840,5097.0,montgomery,"Montgomery, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.53704874,-93.65824478,84005097,US,USA,840,5097.0,montgomery,"Montgomery, Arkansas, US",0,0,0.0,0.0
@@ -2429,6 +2487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.53704874,-93.65824478,84005097,US,USA,840,5097.0,montgomery,"Montgomery, Arkansas, US",0,0,0.0,0.0
 2020-04-10,us,arkansas,34.53704874,-93.65824478,84005097,US,USA,840,5097.0,montgomery,"Montgomery, Arkansas, US",0,0,0.0,0.0
 2020-04-11,us,arkansas,34.53704874,-93.65824478,84005097,US,USA,840,5097.0,montgomery,"Montgomery, Arkansas, US",0,0,0.0,0.0
+2020-04-12,us,arkansas,34.53704874,-93.65824478,84005097,US,USA,840,5097.0,montgomery,"Montgomery, Arkansas, US",0,0,0.0,0.0
+2020-04-13,us,arkansas,34.53704874,-93.65824478,84005097,US,USA,840,5097.0,montgomery,"Montgomery, Arkansas, US",0,0,0.0,0.0
 2020-01-22,us,arkansas,34.57692074,-93.14921604,84005051,US,USA,840,5051.0,garland,"Garland, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.57692074,-93.14921604,84005051,US,USA,840,5051.0,garland,"Garland, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.57692074,-93.14921604,84005051,US,USA,840,5051.0,garland,"Garland, Arkansas, US",0,0,0.0,0.0
@@ -2510,6 +2570,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.57692074,-93.14921604,84005051,US,USA,840,5051.0,garland,"Garland, Arkansas, US",61,10,0.0,0.0
 2020-04-10,us,arkansas,34.57692074,-93.14921604,84005051,US,USA,840,5051.0,garland,"Garland, Arkansas, US",66,5,0.0,0.0
 2020-04-11,us,arkansas,34.57692074,-93.14921604,84005051,US,USA,840,5051.0,garland,"Garland, Arkansas, US",72,6,0.0,0.0
+2020-04-12,us,arkansas,34.57692074,-93.14921604,84005051,US,USA,840,5051.0,garland,"Garland, Arkansas, US",81,9,0.0,0.0
+2020-04-13,us,arkansas,34.57692074,-93.14921604,84005051,US,USA,840,5051.0,garland,"Garland, Arkansas, US",101,20,0.0,0.0
 2020-01-22,us,arkansas,34.64916145,-92.67583224,84005125,US,USA,840,5125.0,saline,"Saline, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.64916145,-92.67583224,84005125,US,USA,840,5125.0,saline,"Saline, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.64916145,-92.67583224,84005125,US,USA,840,5125.0,saline,"Saline, Arkansas, US",0,0,0.0,0.0
@@ -2591,6 +2653,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.64916145,-92.67583224,84005125,US,USA,840,5125.0,saline,"Saline, Arkansas, US",31,-2,1.0,1.0
 2020-04-10,us,arkansas,34.64916145,-92.67583224,84005125,US,USA,840,5125.0,saline,"Saline, Arkansas, US",31,0,1.0,0.0
 2020-04-11,us,arkansas,34.64916145,-92.67583224,84005125,US,USA,840,5125.0,saline,"Saline, Arkansas, US",32,1,1.0,0.0
+2020-04-12,us,arkansas,34.64916145,-92.67583224,84005125,US,USA,840,5125.0,saline,"Saline, Arkansas, US",32,0,1.0,0.0
+2020-04-13,us,arkansas,34.64916145,-92.67583224,84005125,US,USA,840,5125.0,saline,"Saline, Arkansas, US",32,0,1.0,0.0
 2020-01-22,us,arkansas,34.6815935,-91.20540287,84005095,US,USA,840,5095.0,monroe,"Monroe, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.6815935,-91.20540287,84005095,US,USA,840,5095.0,monroe,"Monroe, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.6815935,-91.20540287,84005095,US,USA,840,5095.0,monroe,"Monroe, Arkansas, US",0,0,0.0,0.0
@@ -2672,6 +2736,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.6815935,-91.20540287,84005095,US,USA,840,5095.0,monroe,"Monroe, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,34.6815935,-91.20540287,84005095,US,USA,840,5095.0,monroe,"Monroe, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,34.6815935,-91.20540287,84005095,US,USA,840,5095.0,monroe,"Monroe, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,34.6815935,-91.20540287,84005095,US,USA,840,5095.0,monroe,"Monroe, Arkansas, US",2,1,0.0,0.0
+2020-04-13,us,arkansas,34.6815935,-91.20540287,84005095,US,USA,840,5095.0,monroe,"Monroe, Arkansas, US",2,0,0.0,0.0
 2020-01-22,us,arkansas,34.75392199,-91.88742357,84005085,US,USA,840,5085.0,lonoke,"Lonoke, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.75392199,-91.88742357,84005085,US,USA,840,5085.0,lonoke,"Lonoke, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.75392199,-91.88742357,84005085,US,USA,840,5085.0,lonoke,"Lonoke, Arkansas, US",0,0,0.0,0.0
@@ -2753,6 +2819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.75392199,-91.88742357,84005085,US,USA,840,5085.0,lonoke,"Lonoke, Arkansas, US",26,3,0.0,0.0
 2020-04-10,us,arkansas,34.75392199,-91.88742357,84005085,US,USA,840,5085.0,lonoke,"Lonoke, Arkansas, US",26,0,0.0,0.0
 2020-04-11,us,arkansas,34.75392199,-91.88742357,84005085,US,USA,840,5085.0,lonoke,"Lonoke, Arkansas, US",27,1,0.0,0.0
+2020-04-12,us,arkansas,34.75392199,-91.88742357,84005085,US,USA,840,5085.0,lonoke,"Lonoke, Arkansas, US",30,3,0.0,0.0
+2020-04-13,us,arkansas,34.75392199,-91.88742357,84005085,US,USA,840,5085.0,lonoke,"Lonoke, Arkansas, US",29,-1,0.0,0.0
 2020-01-22,us,arkansas,34.77054088,-92.31355101,84005119,US,USA,840,5119.0,pulaski,"Pulaski, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.77054088,-92.31355101,84005119,US,USA,840,5119.0,pulaski,"Pulaski, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.77054088,-92.31355101,84005119,US,USA,840,5119.0,pulaski,"Pulaski, Arkansas, US",0,0,0.0,0.0
@@ -2834,6 +2902,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.77054088,-92.31355101,84005119,US,USA,840,5119.0,pulaski,"Pulaski, Arkansas, US",210,31,8.0,6.0
 2020-04-10,us,arkansas,34.77054088,-92.31355101,84005119,US,USA,840,5119.0,pulaski,"Pulaski, Arkansas, US",225,15,8.0,0.0
 2020-04-11,us,arkansas,34.77054088,-92.31355101,84005119,US,USA,840,5119.0,pulaski,"Pulaski, Arkansas, US",249,24,9.0,1.0
+2020-04-12,us,arkansas,34.77054088,-92.31355101,84005119,US,USA,840,5119.0,pulaski,"Pulaski, Arkansas, US",256,7,9.0,0.0
+2020-04-13,us,arkansas,34.77054088,-92.31355101,84005119,US,USA,840,5119.0,pulaski,"Pulaski, Arkansas, US",273,17,10.0,1.0
 2020-01-22,us,arkansas,34.78498904,-90.78383866,84005077,US,USA,840,5077.0,lee,"Lee, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.78498904,-90.78383866,84005077,US,USA,840,5077.0,lee,"Lee, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.78498904,-90.78383866,84005077,US,USA,840,5077.0,lee,"Lee, Arkansas, US",0,0,0.0,0.0
@@ -2915,6 +2985,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.78498904,-90.78383866,84005077,US,USA,840,5077.0,lee,"Lee, Arkansas, US",2,1,0.0,0.0
 2020-04-10,us,arkansas,34.78498904,-90.78383866,84005077,US,USA,840,5077.0,lee,"Lee, Arkansas, US",2,0,0.0,0.0
 2020-04-11,us,arkansas,34.78498904,-90.78383866,84005077,US,USA,840,5077.0,lee,"Lee, Arkansas, US",2,0,0.0,0.0
+2020-04-12,us,arkansas,34.78498904,-90.78383866,84005077,US,USA,840,5077.0,lee,"Lee, Arkansas, US",2,0,0.0,0.0
+2020-04-13,us,arkansas,34.78498904,-90.78383866,84005077,US,USA,840,5077.0,lee,"Lee, Arkansas, US",2,0,0.0,0.0
 2020-01-22,us,arkansas,34.83624419,-91.55162157,84005117,US,USA,840,5117.0,prairie,"Prairie, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.83624419,-91.55162157,84005117,US,USA,840,5117.0,prairie,"Prairie, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.83624419,-91.55162157,84005117,US,USA,840,5117.0,prairie,"Prairie, Arkansas, US",0,0,0.0,0.0
@@ -2996,6 +3068,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.83624419,-91.55162157,84005117,US,USA,840,5117.0,prairie,"Prairie, Arkansas, US",2,1,0.0,0.0
 2020-04-10,us,arkansas,34.83624419,-91.55162157,84005117,US,USA,840,5117.0,prairie,"Prairie, Arkansas, US",2,0,0.0,0.0
 2020-04-11,us,arkansas,34.83624419,-91.55162157,84005117,US,USA,840,5117.0,prairie,"Prairie, Arkansas, US",2,0,0.0,0.0
+2020-04-12,us,arkansas,34.83624419,-91.55162157,84005117,US,USA,840,5117.0,prairie,"Prairie, Arkansas, US",2,0,0.0,0.0
+2020-04-13,us,arkansas,34.83624419,-91.55162157,84005117,US,USA,840,5117.0,prairie,"Prairie, Arkansas, US",2,0,0.0,0.0
 2020-01-22,us,arkansas,34.85588887,-94.0632176,84005127,US,USA,840,5127.0,scott,"Scott, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.85588887,-94.0632176,84005127,US,USA,840,5127.0,scott,"Scott, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.85588887,-94.0632176,84005127,US,USA,840,5127.0,scott,"Scott, Arkansas, US",0,0,0.0,0.0
@@ -3077,6 +3151,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.85588887,-94.0632176,84005127,US,USA,840,5127.0,scott,"Scott, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,34.85588887,-94.0632176,84005127,US,USA,840,5127.0,scott,"Scott, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,34.85588887,-94.0632176,84005127,US,USA,840,5127.0,scott,"Scott, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,34.85588887,-94.0632176,84005127,US,USA,840,5127.0,scott,"Scott, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,34.85588887,-94.0632176,84005127,US,USA,840,5127.0,scott,"Scott, Arkansas, US",1,0,0.0,0.0
 2020-01-22,us,arkansas,34.9459153,-92.94372564,84005105,US,USA,840,5105.0,perry,"Perry, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,34.9459153,-92.94372564,84005105,US,USA,840,5105.0,perry,"Perry, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,34.9459153,-92.94372564,84005105,US,USA,840,5105.0,perry,"Perry, Arkansas, US",0,0,0.0,0.0
@@ -3158,6 +3234,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,34.9459153,-92.94372564,84005105,US,USA,840,5105.0,perry,"Perry, Arkansas, US",2,1,0.0,0.0
 2020-04-10,us,arkansas,34.9459153,-92.94372564,84005105,US,USA,840,5105.0,perry,"Perry, Arkansas, US",2,0,0.0,0.0
 2020-04-11,us,arkansas,34.9459153,-92.94372564,84005105,US,USA,840,5105.0,perry,"Perry, Arkansas, US",2,0,0.0,0.0
+2020-04-12,us,arkansas,34.9459153,-92.94372564,84005105,US,USA,840,5105.0,perry,"Perry, Arkansas, US",2,0,0.0,0.0
+2020-04-13,us,arkansas,34.9459153,-92.94372564,84005105,US,USA,840,5105.0,perry,"Perry, Arkansas, US",2,0,0.0,0.0
 2020-01-22,us,arkansas,35.00292371,-93.41171338,84005149,US,USA,840,5149.0,yell,"Yell, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.00292371,-93.41171338,84005149,US,USA,840,5149.0,yell,"Yell, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.00292371,-93.41171338,84005149,US,USA,840,5149.0,yell,"Yell, Arkansas, US",0,0,0.0,0.0
@@ -3239,6 +3317,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.00292371,-93.41171338,84005149,US,USA,840,5149.0,yell,"Yell, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,35.00292371,-93.41171338,84005149,US,USA,840,5149.0,yell,"Yell, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,35.00292371,-93.41171338,84005149,US,USA,840,5149.0,yell,"Yell, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,35.00292371,-93.41171338,84005149,US,USA,840,5149.0,yell,"Yell, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,35.00292371,-93.41171338,84005149,US,USA,840,5149.0,yell,"Yell, Arkansas, US",1,0,0.0,0.0
 2020-01-22,us,arkansas,35.02201976,-90.74828138,84005123,US,USA,840,5123.0,st-francis,"St. Francis, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.02201976,-90.74828138,84005123,US,USA,840,5123.0,st-francis,"St. Francis, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.02201976,-90.74828138,84005123,US,USA,840,5123.0,st-francis,"St. Francis, Arkansas, US",0,0,0.0,0.0
@@ -3320,6 +3400,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.02201976,-90.74828138,84005123,US,USA,840,5123.0,st-francis,"St. Francis, Arkansas, US",31,2,0.0,0.0
 2020-04-10,us,arkansas,35.02201976,-90.74828138,84005123,US,USA,840,5123.0,st-francis,"St. Francis, Arkansas, US",31,0,0.0,0.0
 2020-04-11,us,arkansas,35.02201976,-90.74828138,84005123,US,USA,840,5123.0,st-francis,"St. Francis, Arkansas, US",31,0,0.0,0.0
+2020-04-12,us,arkansas,35.02201976,-90.74828138,84005123,US,USA,840,5123.0,st-francis,"St. Francis, Arkansas, US",32,1,0.0,0.0
+2020-04-13,us,arkansas,35.02201976,-90.74828138,84005123,US,USA,840,5123.0,st-francis,"St. Francis, Arkansas, US",34,2,0.0,0.0
 2020-01-22,us,arkansas,35.14719007,-92.33717519,84005045,US,USA,840,5045.0,faulkner,"Faulkner, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.14719007,-92.33717519,84005045,US,USA,840,5045.0,faulkner,"Faulkner, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.14719007,-92.33717519,84005045,US,USA,840,5045.0,faulkner,"Faulkner, Arkansas, US",0,0,0.0,0.0
@@ -3401,6 +3483,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.14719007,-92.33717519,84005045,US,USA,840,5045.0,faulkner,"Faulkner, Arkansas, US",55,0,1.0,0.0
 2020-04-10,us,arkansas,35.14719007,-92.33717519,84005045,US,USA,840,5045.0,faulkner,"Faulkner, Arkansas, US",56,1,1.0,0.0
 2020-04-11,us,arkansas,35.14719007,-92.33717519,84005045,US,USA,840,5045.0,faulkner,"Faulkner, Arkansas, US",57,1,1.0,0.0
+2020-04-12,us,arkansas,35.14719007,-92.33717519,84005045,US,USA,840,5045.0,faulkner,"Faulkner, Arkansas, US",59,2,1.0,0.0
+2020-04-13,us,arkansas,35.14719007,-92.33717519,84005045,US,USA,840,5045.0,faulkner,"Faulkner, Arkansas, US",57,-2,1.0,0.0
 2020-01-22,us,arkansas,35.18902527,-91.2439489,84005147,US,USA,840,5147.0,woodruff,"Woodruff, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.18902527,-91.2439489,84005147,US,USA,840,5147.0,woodruff,"Woodruff, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.18902527,-91.2439489,84005147,US,USA,840,5147.0,woodruff,"Woodruff, Arkansas, US",0,0,0.0,0.0
@@ -3482,6 +3566,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.18902527,-91.2439489,84005147,US,USA,840,5147.0,woodruff,"Woodruff, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,35.18902527,-91.2439489,84005147,US,USA,840,5147.0,woodruff,"Woodruff, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,35.18902527,-91.2439489,84005147,US,USA,840,5147.0,woodruff,"Woodruff, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,35.18902527,-91.2439489,84005147,US,USA,840,5147.0,woodruff,"Woodruff, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,35.18902527,-91.2439489,84005147,US,USA,840,5147.0,woodruff,"Woodruff, Arkansas, US",1,0,0.0,0.0
 2020-01-22,us,arkansas,35.19605503,-94.27162713,84005131,US,USA,840,5131.0,sebastian,"Sebastian, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.19605503,-94.27162713,84005131,US,USA,840,5131.0,sebastian,"Sebastian, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.19605503,-94.27162713,84005131,US,USA,840,5131.0,sebastian,"Sebastian, Arkansas, US",0,0,0.0,0.0
@@ -3563,6 +3649,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.19605503,-94.27162713,84005131,US,USA,840,5131.0,sebastian,"Sebastian, Arkansas, US",9,0,0.0,0.0
 2020-04-10,us,arkansas,35.19605503,-94.27162713,84005131,US,USA,840,5131.0,sebastian,"Sebastian, Arkansas, US",9,0,0.0,0.0
 2020-04-11,us,arkansas,35.19605503,-94.27162713,84005131,US,USA,840,5131.0,sebastian,"Sebastian, Arkansas, US",10,1,0.0,0.0
+2020-04-12,us,arkansas,35.19605503,-94.27162713,84005131,US,USA,840,5131.0,sebastian,"Sebastian, Arkansas, US",10,0,0.0,0.0
+2020-04-13,us,arkansas,35.19605503,-94.27162713,84005131,US,USA,840,5131.0,sebastian,"Sebastian, Arkansas, US",11,1,0.0,0.0
 2020-01-22,us,arkansas,35.21247318,-90.30839406,84005035,US,USA,840,5035.0,crittenden,"Crittenden, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.21247318,-90.30839406,84005035,US,USA,840,5035.0,crittenden,"Crittenden, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.21247318,-90.30839406,84005035,US,USA,840,5035.0,crittenden,"Crittenden, Arkansas, US",0,0,0.0,0.0
@@ -3644,6 +3732,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.21247318,-90.30839406,84005035,US,USA,840,5035.0,crittenden,"Crittenden, Arkansas, US",74,13,2.0,2.0
 2020-04-10,us,arkansas,35.21247318,-90.30839406,84005035,US,USA,840,5035.0,crittenden,"Crittenden, Arkansas, US",86,12,2.0,0.0
 2020-04-11,us,arkansas,35.21247318,-90.30839406,84005035,US,USA,840,5035.0,crittenden,"Crittenden, Arkansas, US",89,3,2.0,0.0
+2020-04-12,us,arkansas,35.21247318,-90.30839406,84005035,US,USA,840,5035.0,crittenden,"Crittenden, Arkansas, US",93,4,2.0,0.0
+2020-04-13,us,arkansas,35.21247318,-90.30839406,84005035,US,USA,840,5035.0,crittenden,"Crittenden, Arkansas, US",103,10,2.0,0.0
 2020-01-22,us,arkansas,35.21413234,-93.71951016,84005083,US,USA,840,5083.0,logan,"Logan, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.21413234,-93.71951016,84005083,US,USA,840,5083.0,logan,"Logan, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.21413234,-93.71951016,84005083,US,USA,840,5083.0,logan,"Logan, Arkansas, US",0,0,0.0,0.0
@@ -3725,6 +3815,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.21413234,-93.71951016,84005083,US,USA,840,5083.0,logan,"Logan, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,35.21413234,-93.71951016,84005083,US,USA,840,5083.0,logan,"Logan, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,35.21413234,-93.71951016,84005083,US,USA,840,5083.0,logan,"Logan, Arkansas, US",2,1,0.0,0.0
+2020-04-12,us,arkansas,35.21413234,-93.71951016,84005083,US,USA,840,5083.0,logan,"Logan, Arkansas, US",2,0,0.0,0.0
+2020-04-13,us,arkansas,35.21413234,-93.71951016,84005083,US,USA,840,5083.0,logan,"Logan, Arkansas, US",2,0,0.0,0.0
 2020-01-22,us,arkansas,35.25688493,-91.74908296,84005145,US,USA,840,5145.0,white,"White, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.25688493,-91.74908296,84005145,US,USA,840,5145.0,white,"White, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.25688493,-91.74908296,84005145,US,USA,840,5145.0,white,"White, Arkansas, US",0,0,0.0,0.0
@@ -3806,6 +3898,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.25688493,-91.74908296,84005145,US,USA,840,5145.0,white,"White, Arkansas, US",27,0,0.0,0.0
 2020-04-10,us,arkansas,35.25688493,-91.74908296,84005145,US,USA,840,5145.0,white,"White, Arkansas, US",27,0,0.0,0.0
 2020-04-11,us,arkansas,35.25688493,-91.74908296,84005145,US,USA,840,5145.0,white,"White, Arkansas, US",28,1,0.0,0.0
+2020-04-12,us,arkansas,35.25688493,-91.74908296,84005145,US,USA,840,5145.0,white,"White, Arkansas, US",28,0,0.0,0.0
+2020-04-13,us,arkansas,35.25688493,-91.74908296,84005145,US,USA,840,5145.0,white,"White, Arkansas, US",28,0,0.0,0.0
 2020-01-22,us,arkansas,35.26205537,-92.70506566,84005029,US,USA,840,5029.0,conway,"Conway, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.26205537,-92.70506566,84005029,US,USA,840,5029.0,conway,"Conway, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.26205537,-92.70506566,84005029,US,USA,840,5029.0,conway,"Conway, Arkansas, US",0,0,0.0,0.0
@@ -3887,6 +3981,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.26205537,-92.70506566,84005029,US,USA,840,5029.0,conway,"Conway, Arkansas, US",4,3,1.0,0.0
 2020-04-10,us,arkansas,35.26205537,-92.70506566,84005029,US,USA,840,5029.0,conway,"Conway, Arkansas, US",4,0,1.0,0.0
 2020-04-11,us,arkansas,35.26205537,-92.70506566,84005029,US,USA,840,5029.0,conway,"Conway, Arkansas, US",4,0,1.0,0.0
+2020-04-12,us,arkansas,35.26205537,-92.70506566,84005029,US,USA,840,5029.0,conway,"Conway, Arkansas, US",4,0,1.0,0.0
+2020-04-13,us,arkansas,35.26205537,-92.70506566,84005029,US,USA,840,5029.0,conway,"Conway, Arkansas, US",4,0,1.0,0.0
 2020-01-22,us,arkansas,35.29631396,-90.77185818,84005037,US,USA,840,5037.0,cross,"Cross, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.29631396,-90.77185818,84005037,US,USA,840,5037.0,cross,"Cross, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.29631396,-90.77185818,84005037,US,USA,840,5037.0,cross,"Cross, Arkansas, US",0,0,0.0,0.0
@@ -3968,6 +4064,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.29631396,-90.77185818,84005037,US,USA,840,5037.0,cross,"Cross, Arkansas, US",6,1,0.0,0.0
 2020-04-10,us,arkansas,35.29631396,-90.77185818,84005037,US,USA,840,5037.0,cross,"Cross, Arkansas, US",6,0,0.0,0.0
 2020-04-11,us,arkansas,35.29631396,-90.77185818,84005037,US,USA,840,5037.0,cross,"Cross, Arkansas, US",6,0,0.0,0.0
+2020-04-12,us,arkansas,35.29631396,-90.77185818,84005037,US,USA,840,5037.0,cross,"Cross, Arkansas, US",6,0,0.0,0.0
+2020-04-13,us,arkansas,35.29631396,-90.77185818,84005037,US,USA,840,5037.0,cross,"Cross, Arkansas, US",7,1,0.0,0.0
 2020-01-22,us,arkansas,35.44871474,-93.03212219,84005115,US,USA,840,5115.0,pope,"Pope, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.44871474,-93.03212219,84005115,US,USA,840,5115.0,pope,"Pope, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.44871474,-93.03212219,84005115,US,USA,840,5115.0,pope,"Pope, Arkansas, US",0,0,0.0,0.0
@@ -4049,6 +4147,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.44871474,-93.03212219,84005115,US,USA,840,5115.0,pope,"Pope, Arkansas, US",23,3,0.0,0.0
 2020-04-10,us,arkansas,35.44871474,-93.03212219,84005115,US,USA,840,5115.0,pope,"Pope, Arkansas, US",23,0,0.0,0.0
 2020-04-11,us,arkansas,35.44871474,-93.03212219,84005115,US,USA,840,5115.0,pope,"Pope, Arkansas, US",26,3,0.0,0.0
+2020-04-12,us,arkansas,35.44871474,-93.03212219,84005115,US,USA,840,5115.0,pope,"Pope, Arkansas, US",30,4,0.0,0.0
+2020-04-13,us,arkansas,35.44871474,-93.03212219,84005115,US,USA,840,5115.0,pope,"Pope, Arkansas, US",31,1,0.0,0.0
 2020-01-22,us,arkansas,35.51202821,-93.89299569,84005047,US,USA,840,5047.0,franklin,"Franklin, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.51202821,-93.89299569,84005047,US,USA,840,5047.0,franklin,"Franklin, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.51202821,-93.89299569,84005047,US,USA,840,5047.0,franklin,"Franklin, Arkansas, US",0,0,0.0,0.0
@@ -4130,6 +4230,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.51202821,-93.89299569,84005047,US,USA,840,5047.0,franklin,"Franklin, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,35.51202821,-93.89299569,84005047,US,USA,840,5047.0,franklin,"Franklin, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,35.51202821,-93.89299569,84005047,US,USA,840,5047.0,franklin,"Franklin, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,35.51202821,-93.89299569,84005047,US,USA,840,5047.0,franklin,"Franklin, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,35.51202821,-93.89299569,84005047,US,USA,840,5047.0,franklin,"Franklin, Arkansas, US",1,0,0.0,0.0
 2020-01-22,us,arkansas,35.53864922,-92.02640019,84005023,US,USA,840,5023.0,cleburne,"Cleburne, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.53864922,-92.02640019,84005023,US,USA,840,5023.0,cleburne,"Cleburne, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.53864922,-92.02640019,84005023,US,USA,840,5023.0,cleburne,"Cleburne, Arkansas, US",0,0,0.0,0.0
@@ -4211,6 +4313,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.53864922,-92.02640019,84005023,US,USA,840,5023.0,cleburne,"Cleburne, Arkansas, US",69,2,4.0,2.0
 2020-04-10,us,arkansas,35.53864922,-92.02640019,84005023,US,USA,840,5023.0,cleburne,"Cleburne, Arkansas, US",69,0,4.0,0.0
 2020-04-11,us,arkansas,35.53864922,-92.02640019,84005023,US,USA,840,5023.0,cleburne,"Cleburne, Arkansas, US",69,0,4.0,0.0
+2020-04-12,us,arkansas,35.53864922,-92.02640019,84005023,US,USA,840,5023.0,cleburne,"Cleburne, Arkansas, US",70,1,4.0,0.0
+2020-04-13,us,arkansas,35.53864922,-92.02640019,84005023,US,USA,840,5023.0,cleburne,"Cleburne, Arkansas, US",70,0,4.0,0.0
 2020-01-22,us,arkansas,35.56759135,-93.46036368,84005071,US,USA,840,5071.0,johnson,"Johnson, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.56759135,-93.46036368,84005071,US,USA,840,5071.0,johnson,"Johnson, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.56759135,-93.46036368,84005071,US,USA,840,5071.0,johnson,"Johnson, Arkansas, US",0,0,0.0,0.0
@@ -4292,6 +4396,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.56759135,-93.46036368,84005071,US,USA,840,5071.0,johnson,"Johnson, Arkansas, US",11,0,0.0,0.0
 2020-04-10,us,arkansas,35.56759135,-93.46036368,84005071,US,USA,840,5071.0,johnson,"Johnson, Arkansas, US",12,1,0.0,0.0
 2020-04-11,us,arkansas,35.56759135,-93.46036368,84005071,US,USA,840,5071.0,johnson,"Johnson, Arkansas, US",13,1,0.0,0.0
+2020-04-12,us,arkansas,35.56759135,-93.46036368,84005071,US,USA,840,5071.0,johnson,"Johnson, Arkansas, US",13,0,0.0,0.0
+2020-04-13,us,arkansas,35.56759135,-93.46036368,84005071,US,USA,840,5071.0,johnson,"Johnson, Arkansas, US",13,0,0.0,0.0
 2020-01-22,us,arkansas,35.57433534,-90.66268713,84005111,US,USA,840,5111.0,poinsett,"Poinsett, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.57433534,-90.66268713,84005111,US,USA,840,5111.0,poinsett,"Poinsett, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.57433534,-90.66268713,84005111,US,USA,840,5111.0,poinsett,"Poinsett, Arkansas, US",0,0,0.0,0.0
@@ -4373,6 +4479,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.57433534,-90.66268713,84005111,US,USA,840,5111.0,poinsett,"Poinsett, Arkansas, US",6,0,0.0,0.0
 2020-04-10,us,arkansas,35.57433534,-90.66268713,84005111,US,USA,840,5111.0,poinsett,"Poinsett, Arkansas, US",7,1,0.0,0.0
 2020-04-11,us,arkansas,35.57433534,-90.66268713,84005111,US,USA,840,5111.0,poinsett,"Poinsett, Arkansas, US",7,0,0.0,0.0
+2020-04-12,us,arkansas,35.57433534,-90.66268713,84005111,US,USA,840,5111.0,poinsett,"Poinsett, Arkansas, US",7,0,0.0,0.0
+2020-04-13,us,arkansas,35.57433534,-90.66268713,84005111,US,USA,840,5111.0,poinsett,"Poinsett, Arkansas, US",7,0,0.0,0.0
 2020-01-22,us,arkansas,35.58095779,-92.51295036,84005141,US,USA,840,5141.0,van-buren,"Van Buren, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.58095779,-92.51295036,84005141,US,USA,840,5141.0,van-buren,"Van Buren, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.58095779,-92.51295036,84005141,US,USA,840,5141.0,van-buren,"Van Buren, Arkansas, US",0,0,0.0,0.0
@@ -4454,6 +4562,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.58095779,-92.51295036,84005141,US,USA,840,5141.0,van-buren,"Van Buren, Arkansas, US",26,4,1.0,1.0
 2020-04-10,us,arkansas,35.58095779,-92.51295036,84005141,US,USA,840,5141.0,van-buren,"Van Buren, Arkansas, US",26,0,1.0,0.0
 2020-04-11,us,arkansas,35.58095779,-92.51295036,84005141,US,USA,840,5141.0,van-buren,"Van Buren, Arkansas, US",26,0,2.0,1.0
+2020-04-12,us,arkansas,35.58095779,-92.51295036,84005141,US,USA,840,5141.0,van-buren,"Van Buren, Arkansas, US",26,0,2.0,0.0
+2020-04-13,us,arkansas,35.58095779,-92.51295036,84005141,US,USA,840,5141.0,van-buren,"Van Buren, Arkansas, US",26,0,2.0,0.0
 2020-01-22,us,arkansas,35.58928601,-94.2446814,84005033,US,USA,840,5033.0,crawford,"Crawford, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.58928601,-94.2446814,84005033,US,USA,840,5033.0,crawford,"Crawford, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.58928601,-94.2446814,84005033,US,USA,840,5033.0,crawford,"Crawford, Arkansas, US",0,0,0.0,0.0
@@ -4535,6 +4645,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.58928601,-94.2446814,84005033,US,USA,840,5033.0,crawford,"Crawford, Arkansas, US",3,2,0.0,0.0
 2020-04-10,us,arkansas,35.58928601,-94.2446814,84005033,US,USA,840,5033.0,crawford,"Crawford, Arkansas, US",3,0,0.0,0.0
 2020-04-11,us,arkansas,35.58928601,-94.2446814,84005033,US,USA,840,5033.0,crawford,"Crawford, Arkansas, US",3,0,0.0,0.0
+2020-04-12,us,arkansas,35.58928601,-94.2446814,84005033,US,USA,840,5033.0,crawford,"Crawford, Arkansas, US",3,0,0.0,0.0
+2020-04-13,us,arkansas,35.58928601,-94.2446814,84005033,US,USA,840,5033.0,crawford,"Crawford, Arkansas, US",4,1,0.0,0.0
 2020-01-22,us,arkansas,35.59802983,-91.21494602,84005067,US,USA,840,5067.0,jackson,"Jackson, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.59802983,-91.21494602,84005067,US,USA,840,5067.0,jackson,"Jackson, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.59802983,-91.21494602,84005067,US,USA,840,5067.0,jackson,"Jackson, Arkansas, US",0,0,0.0,0.0
@@ -4616,6 +4728,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.59802983,-91.21494602,84005067,US,USA,840,5067.0,jackson,"Jackson, Arkansas, US",0,0,0.0,0.0
 2020-04-10,us,arkansas,35.59802983,-91.21494602,84005067,US,USA,840,5067.0,jackson,"Jackson, Arkansas, US",0,0,0.0,0.0
 2020-04-11,us,arkansas,35.59802983,-91.21494602,84005067,US,USA,840,5067.0,jackson,"Jackson, Arkansas, US",0,0,0.0,0.0
+2020-04-12,us,arkansas,35.59802983,-91.21494602,84005067,US,USA,840,5067.0,jackson,"Jackson, Arkansas, US",0,0,0.0,0.0
+2020-04-13,us,arkansas,35.59802983,-91.21494602,84005067,US,USA,840,5067.0,jackson,"Jackson, Arkansas, US",0,0,0.0,0.0
 2020-01-22,us,arkansas,35.74242707,-91.57001641,84005063,US,USA,840,5063.0,independence,"Independence, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.74242707,-91.57001641,84005063,US,USA,840,5063.0,independence,"Independence, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.74242707,-91.57001641,84005063,US,USA,840,5063.0,independence,"Independence, Arkansas, US",0,0,0.0,0.0
@@ -4697,6 +4811,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.74242707,-91.57001641,84005063,US,USA,840,5063.0,independence,"Independence, Arkansas, US",5,0,0.0,0.0
 2020-04-10,us,arkansas,35.74242707,-91.57001641,84005063,US,USA,840,5063.0,independence,"Independence, Arkansas, US",5,0,0.0,0.0
 2020-04-11,us,arkansas,35.74242707,-91.57001641,84005063,US,USA,840,5063.0,independence,"Independence, Arkansas, US",5,0,0.0,0.0
+2020-04-12,us,arkansas,35.74242707,-91.57001641,84005063,US,USA,840,5063.0,independence,"Independence, Arkansas, US",5,0,0.0,0.0
+2020-04-13,us,arkansas,35.74242707,-91.57001641,84005063,US,USA,840,5063.0,independence,"Independence, Arkansas, US",6,1,0.0,0.0
 2020-01-22,us,arkansas,35.76271485,-90.05194370000002,84005093,US,USA,840,5093.0,mississippi,"Mississippi, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.76271485,-90.05194370000002,84005093,US,USA,840,5093.0,mississippi,"Mississippi, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.76271485,-90.05194370000002,84005093,US,USA,840,5093.0,mississippi,"Mississippi, Arkansas, US",0,0,0.0,0.0
@@ -4778,6 +4894,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.76271485,-90.05194370000002,84005093,US,USA,840,5093.0,mississippi,"Mississippi, Arkansas, US",6,5,0.0,0.0
 2020-04-10,us,arkansas,35.76271485,-90.05194370000002,84005093,US,USA,840,5093.0,mississippi,"Mississippi, Arkansas, US",6,0,0.0,0.0
 2020-04-11,us,arkansas,35.76271485,-90.05194370000002,84005093,US,USA,840,5093.0,mississippi,"Mississippi, Arkansas, US",7,1,0.0,0.0
+2020-04-12,us,arkansas,35.76271485,-90.05194370000002,84005093,US,USA,840,5093.0,mississippi,"Mississippi, Arkansas, US",7,0,0.0,0.0
+2020-04-13,us,arkansas,35.76271485,-90.05194370000002,84005093,US,USA,840,5093.0,mississippi,"Mississippi, Arkansas, US",7,0,0.0,0.0
 2020-01-22,us,arkansas,35.83018283,-90.63235729,84005031,US,USA,840,5031.0,craighead,"Craighead, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.83018283,-90.63235729,84005031,US,USA,840,5031.0,craighead,"Craighead, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.83018283,-90.63235729,84005031,US,USA,840,5031.0,craighead,"Craighead, Arkansas, US",0,0,0.0,0.0
@@ -4859,6 +4977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.83018283,-90.63235729,84005031,US,USA,840,5031.0,craighead,"Craighead, Arkansas, US",28,5,0.0,0.0
 2020-04-10,us,arkansas,35.83018283,-90.63235729,84005031,US,USA,840,5031.0,craighead,"Craighead, Arkansas, US",29,1,0.0,0.0
 2020-04-11,us,arkansas,35.83018283,-90.63235729,84005031,US,USA,840,5031.0,craighead,"Craighead, Arkansas, US",31,2,0.0,0.0
+2020-04-12,us,arkansas,35.83018283,-90.63235729,84005031,US,USA,840,5031.0,craighead,"Craighead, Arkansas, US",31,0,0.0,0.0
+2020-04-13,us,arkansas,35.83018283,-90.63235729,84005031,US,USA,840,5031.0,craighead,"Craighead, Arkansas, US",36,5,0.0,0.0
 2020-01-22,us,arkansas,35.86251946,-92.15684085,84005137,US,USA,840,5137.0,stone,"Stone, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.86251946,-92.15684085,84005137,US,USA,840,5137.0,stone,"Stone, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.86251946,-92.15684085,84005137,US,USA,840,5137.0,stone,"Stone, Arkansas, US",0,0,0.0,0.0
@@ -4940,6 +5060,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.86251946,-92.15684085,84005137,US,USA,840,5137.0,stone,"Stone, Arkansas, US",7,2,0.0,0.0
 2020-04-10,us,arkansas,35.86251946,-92.15684085,84005137,US,USA,840,5137.0,stone,"Stone, Arkansas, US",7,0,0.0,0.0
 2020-04-11,us,arkansas,35.86251946,-92.15684085,84005137,US,USA,840,5137.0,stone,"Stone, Arkansas, US",7,0,0.0,0.0
+2020-04-12,us,arkansas,35.86251946,-92.15684085,84005137,US,USA,840,5137.0,stone,"Stone, Arkansas, US",7,0,0.0,0.0
+2020-04-13,us,arkansas,35.86251946,-92.15684085,84005137,US,USA,840,5137.0,stone,"Stone, Arkansas, US",7,0,0.0,0.0
 2020-01-22,us,arkansas,35.9109364,-92.69936482,84005129,US,USA,840,5129.0,searcy,"Searcy, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.9109364,-92.69936482,84005129,US,USA,840,5129.0,searcy,"Searcy, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.9109364,-92.69936482,84005129,US,USA,840,5129.0,searcy,"Searcy, Arkansas, US",0,0,0.0,0.0
@@ -5021,6 +5143,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.9109364,-92.69936482,84005129,US,USA,840,5129.0,searcy,"Searcy, Arkansas, US",6,0,0.0,0.0
 2020-04-10,us,arkansas,35.9109364,-92.69936482,84005129,US,USA,840,5129.0,searcy,"Searcy, Arkansas, US",6,0,0.0,0.0
 2020-04-11,us,arkansas,35.9109364,-92.69936482,84005129,US,USA,840,5129.0,searcy,"Searcy, Arkansas, US",6,0,0.0,0.0
+2020-04-12,us,arkansas,35.9109364,-92.69936482,84005129,US,USA,840,5129.0,searcy,"Searcy, Arkansas, US",6,0,0.0,0.0
+2020-04-13,us,arkansas,35.9109364,-92.69936482,84005129,US,USA,840,5129.0,searcy,"Searcy, Arkansas, US",6,0,0.0,0.0
 2020-01-22,us,arkansas,35.91947491,-93.21612969,84005101,US,USA,840,5101.0,newton,"Newton, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.91947491,-93.21612969,84005101,US,USA,840,5101.0,newton,"Newton, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.91947491,-93.21612969,84005101,US,USA,840,5101.0,newton,"Newton, Arkansas, US",0,0,0.0,0.0
@@ -5102,6 +5226,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.91947491,-93.21612969,84005101,US,USA,840,5101.0,newton,"Newton, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,35.91947491,-93.21612969,84005101,US,USA,840,5101.0,newton,"Newton, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,35.91947491,-93.21612969,84005101,US,USA,840,5101.0,newton,"Newton, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,35.91947491,-93.21612969,84005101,US,USA,840,5101.0,newton,"Newton, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,35.91947491,-93.21612969,84005101,US,USA,840,5101.0,newton,"Newton, Arkansas, US",1,0,0.0,0.0
 2020-01-22,us,arkansas,35.976844,-94.21800746,84005143,US,USA,840,5143.0,washington,"Washington, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,35.976844,-94.21800746,84005143,US,USA,840,5143.0,washington,"Washington, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,35.976844,-94.21800746,84005143,US,USA,840,5143.0,washington,"Washington, Arkansas, US",0,0,0.0,0.0
@@ -5183,6 +5309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,35.976844,-94.21800746,84005143,US,USA,840,5143.0,washington,"Washington, Arkansas, US",36,6,0.0,0.0
 2020-04-10,us,arkansas,35.976844,-94.21800746,84005143,US,USA,840,5143.0,washington,"Washington, Arkansas, US",37,1,0.0,0.0
 2020-04-11,us,arkansas,35.976844,-94.21800746,84005143,US,USA,840,5143.0,washington,"Washington, Arkansas, US",37,0,0.0,0.0
+2020-04-12,us,arkansas,35.976844,-94.21800746,84005143,US,USA,840,5143.0,washington,"Washington, Arkansas, US",37,0,0.0,0.0
+2020-04-13,us,arkansas,35.976844,-94.21800746,84005143,US,USA,840,5143.0,washington,"Washington, Arkansas, US",43,6,0.0,0.0
 2020-01-22,us,arkansas,36.01038185,-93.72524943,84005087,US,USA,840,5087.0,madison,"Madison, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.01038185,-93.72524943,84005087,US,USA,840,5087.0,madison,"Madison, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.01038185,-93.72524943,84005087,US,USA,840,5087.0,madison,"Madison, Arkansas, US",0,0,0.0,0.0
@@ -5264,6 +5392,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.01038185,-93.72524943,84005087,US,USA,840,5087.0,madison,"Madison, Arkansas, US",1,1,0.0,0.0
 2020-04-10,us,arkansas,36.01038185,-93.72524943,84005087,US,USA,840,5087.0,madison,"Madison, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,36.01038185,-93.72524943,84005087,US,USA,840,5087.0,madison,"Madison, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,36.01038185,-93.72524943,84005087,US,USA,840,5087.0,madison,"Madison, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,36.01038185,-93.72524943,84005087,US,USA,840,5087.0,madison,"Madison, Arkansas, US",1,0,0.0,0.0
 2020-01-22,us,arkansas,36.04188196,-91.10867198,84005075,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.04188196,-91.10867198,84005075,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.04188196,-91.10867198,84005075,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",0,0,0.0,0.0
@@ -5345,6 +5475,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.04188196,-91.10867198,84005075,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",9,8,1.0,1.0
 2020-04-10,us,arkansas,36.04188196,-91.10867198,84005075,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",9,0,1.0,0.0
 2020-04-11,us,arkansas,36.04188196,-91.10867198,84005075,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",10,1,1.0,0.0
+2020-04-12,us,arkansas,36.04188196,-91.10867198,84005075,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",11,1,1.0,0.0
+2020-04-13,us,arkansas,36.04188196,-91.10867198,84005075,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",11,0,1.0,0.0
 2020-01-22,us,arkansas,36.09604046,-91.90847954,84005065,US,USA,840,5065.0,izard,"Izard, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.09604046,-91.90847954,84005065,US,USA,840,5065.0,izard,"Izard, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.09604046,-91.90847954,84005065,US,USA,840,5065.0,izard,"Izard, Arkansas, US",0,0,0.0,0.0
@@ -5426,6 +5558,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.09604046,-91.90847954,84005065,US,USA,840,5065.0,izard,"Izard, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,36.09604046,-91.90847954,84005065,US,USA,840,5065.0,izard,"Izard, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,36.09604046,-91.90847954,84005065,US,USA,840,5065.0,izard,"Izard, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,36.09604046,-91.90847954,84005065,US,USA,840,5065.0,izard,"Izard, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,36.09604046,-91.90847954,84005065,US,USA,840,5065.0,izard,"Izard, Arkansas, US",2,1,0.0,0.0
 2020-01-22,us,arkansas,36.11735460000001,-90.55832668,84005055,US,USA,840,5055.0,greene,"Greene, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.11735460000001,-90.55832668,84005055,US,USA,840,5055.0,greene,"Greene, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.11735460000001,-90.55832668,84005055,US,USA,840,5055.0,greene,"Greene, Arkansas, US",0,0,0.0,0.0
@@ -5507,6 +5641,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.11735460000001,-90.55832668,84005055,US,USA,840,5055.0,greene,"Greene, Arkansas, US",6,0,0.0,0.0
 2020-04-10,us,arkansas,36.11735460000001,-90.55832668,84005055,US,USA,840,5055.0,greene,"Greene, Arkansas, US",6,0,0.0,0.0
 2020-04-11,us,arkansas,36.11735460000001,-90.55832668,84005055,US,USA,840,5055.0,greene,"Greene, Arkansas, US",6,0,0.0,0.0
+2020-04-12,us,arkansas,36.11735460000001,-90.55832668,84005055,US,USA,840,5055.0,greene,"Greene, Arkansas, US",6,0,0.0,0.0
+2020-04-13,us,arkansas,36.11735460000001,-90.55832668,84005055,US,USA,840,5055.0,greene,"Greene, Arkansas, US",6,0,0.0,0.0
 2020-01-22,us,arkansas,36.16258158,-91.47819342,84005135,US,USA,840,5135.0,sharp,"Sharp, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.16258158,-91.47819342,84005135,US,USA,840,5135.0,sharp,"Sharp, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.16258158,-91.47819342,84005135,US,USA,840,5135.0,sharp,"Sharp, Arkansas, US",0,0,0.0,0.0
@@ -5588,6 +5724,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.16258158,-91.47819342,84005135,US,USA,840,5135.0,sharp,"Sharp, Arkansas, US",2,1,0.0,0.0
 2020-04-10,us,arkansas,36.16258158,-91.47819342,84005135,US,USA,840,5135.0,sharp,"Sharp, Arkansas, US",2,0,0.0,0.0
 2020-04-11,us,arkansas,36.16258158,-91.47819342,84005135,US,USA,840,5135.0,sharp,"Sharp, Arkansas, US",2,0,0.0,0.0
+2020-04-12,us,arkansas,36.16258158,-91.47819342,84005135,US,USA,840,5135.0,sharp,"Sharp, Arkansas, US",2,0,0.0,0.0
+2020-04-13,us,arkansas,36.16258158,-91.47819342,84005135,US,USA,840,5135.0,sharp,"Sharp, Arkansas, US",2,0,0.0,0.0
 2020-01-22,us,arkansas,36.26844485,-92.68451899,84005089,US,USA,840,5089.0,marion,"Marion, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.26844485,-92.68451899,84005089,US,USA,840,5089.0,marion,"Marion, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.26844485,-92.68451899,84005089,US,USA,840,5089.0,marion,"Marion, Arkansas, US",0,0,0.0,0.0
@@ -5669,6 +5807,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.26844485,-92.68451899,84005089,US,USA,840,5089.0,marion,"Marion, Arkansas, US",0,0,0.0,0.0
 2020-04-10,us,arkansas,36.26844485,-92.68451899,84005089,US,USA,840,5089.0,marion,"Marion, Arkansas, US",0,0,0.0,0.0
 2020-04-11,us,arkansas,36.26844485,-92.68451899,84005089,US,USA,840,5089.0,marion,"Marion, Arkansas, US",1,1,0.0,0.0
+2020-04-12,us,arkansas,36.26844485,-92.68451899,84005089,US,USA,840,5089.0,marion,"Marion, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,36.26844485,-92.68451899,84005089,US,USA,840,5089.0,marion,"Marion, Arkansas, US",1,0,0.0,0.0
 2020-01-22,us,arkansas,36.28784385,-92.33782872,84005005,US,USA,840,5005.0,baxter,"Baxter, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.28784385,-92.33782872,84005005,US,USA,840,5005.0,baxter,"Baxter, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.28784385,-92.33782872,84005005,US,USA,840,5005.0,baxter,"Baxter, Arkansas, US",0,0,0.0,0.0
@@ -5750,6 +5890,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.28784385,-92.33782872,84005005,US,USA,840,5005.0,baxter,"Baxter, Arkansas, US",4,3,0.0,0.0
 2020-04-10,us,arkansas,36.28784385,-92.33782872,84005005,US,USA,840,5005.0,baxter,"Baxter, Arkansas, US",4,0,0.0,0.0
 2020-04-11,us,arkansas,36.28784385,-92.33782872,84005005,US,USA,840,5005.0,baxter,"Baxter, Arkansas, US",4,0,0.0,0.0
+2020-04-12,us,arkansas,36.28784385,-92.33782872,84005005,US,USA,840,5005.0,baxter,"Baxter, Arkansas, US",4,0,0.0,0.0
+2020-04-13,us,arkansas,36.28784385,-92.33782872,84005005,US,USA,840,5005.0,baxter,"Baxter, Arkansas, US",4,0,0.0,0.0
 2020-01-22,us,arkansas,36.3084504,-93.09374925,84005009,US,USA,840,5009.0,boone,"Boone, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.3084504,-93.09374925,84005009,US,USA,840,5009.0,boone,"Boone, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.3084504,-93.09374925,84005009,US,USA,840,5009.0,boone,"Boone, Arkansas, US",0,0,0.0,0.0
@@ -5831,6 +5973,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.3084504,-93.09374925,84005009,US,USA,840,5009.0,boone,"Boone, Arkansas, US",3,2,0.0,0.0
 2020-04-10,us,arkansas,36.3084504,-93.09374925,84005009,US,USA,840,5009.0,boone,"Boone, Arkansas, US",3,0,0.0,0.0
 2020-04-11,us,arkansas,36.3084504,-93.09374925,84005009,US,USA,840,5009.0,boone,"Boone, Arkansas, US",3,0,0.0,0.0
+2020-04-12,us,arkansas,36.3084504,-93.09374925,84005009,US,USA,840,5009.0,boone,"Boone, Arkansas, US",3,0,0.0,0.0
+2020-04-13,us,arkansas,36.3084504,-93.09374925,84005009,US,USA,840,5009.0,boone,"Boone, Arkansas, US",3,0,0.0,0.0
 2020-01-22,us,arkansas,36.33644656,-94.25680817,84005007,US,USA,840,5007.0,benton,"Benton, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.33644656,-94.25680817,84005007,US,USA,840,5007.0,benton,"Benton, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.33644656,-94.25680817,84005007,US,USA,840,5007.0,benton,"Benton, Arkansas, US",0,0,0.0,0.0
@@ -5912,6 +6056,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.33644656,-94.25680817,84005007,US,USA,840,5007.0,benton,"Benton, Arkansas, US",47,2,0.0,0.0
 2020-04-10,us,arkansas,36.33644656,-94.25680817,84005007,US,USA,840,5007.0,benton,"Benton, Arkansas, US",47,0,0.0,0.0
 2020-04-11,us,arkansas,36.33644656,-94.25680817,84005007,US,USA,840,5007.0,benton,"Benton, Arkansas, US",47,0,0.0,0.0
+2020-04-12,us,arkansas,36.33644656,-94.25680817,84005007,US,USA,840,5007.0,benton,"Benton, Arkansas, US",48,1,0.0,0.0
+2020-04-13,us,arkansas,36.33644656,-94.25680817,84005007,US,USA,840,5007.0,benton,"Benton, Arkansas, US",50,2,0.0,0.0
 2020-01-22,us,arkansas,36.34038560000001,-93.54270261,84005015,US,USA,840,5015.0,carroll,"Carroll, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.34038560000001,-93.54270261,84005015,US,USA,840,5015.0,carroll,"Carroll, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.34038560000001,-93.54270261,84005015,US,USA,840,5015.0,carroll,"Carroll, Arkansas, US",0,0,0.0,0.0
@@ -5993,6 +6139,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.34038560000001,-93.54270261,84005015,US,USA,840,5015.0,carroll,"Carroll, Arkansas, US",2,1,0.0,0.0
 2020-04-10,us,arkansas,36.34038560000001,-93.54270261,84005015,US,USA,840,5015.0,carroll,"Carroll, Arkansas, US",2,0,0.0,0.0
 2020-04-11,us,arkansas,36.34038560000001,-93.54270261,84005015,US,USA,840,5015.0,carroll,"Carroll, Arkansas, US",2,0,0.0,0.0
+2020-04-12,us,arkansas,36.34038560000001,-93.54270261,84005015,US,USA,840,5015.0,carroll,"Carroll, Arkansas, US",2,0,0.0,0.0
+2020-04-13,us,arkansas,36.34038560000001,-93.54270261,84005015,US,USA,840,5015.0,carroll,"Carroll, Arkansas, US",2,0,0.0,0.0
 2020-01-22,us,arkansas,36.3415714,-91.02455531,84005121,US,USA,840,5121.0,randolph,"Randolph, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.3415714,-91.02455531,84005121,US,USA,840,5121.0,randolph,"Randolph, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.3415714,-91.02455531,84005121,US,USA,840,5121.0,randolph,"Randolph, Arkansas, US",0,0,0.0,0.0
@@ -6074,6 +6222,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.3415714,-91.02455531,84005121,US,USA,840,5121.0,randolph,"Randolph, Arkansas, US",7,1,0.0,0.0
 2020-04-10,us,arkansas,36.3415714,-91.02455531,84005121,US,USA,840,5121.0,randolph,"Randolph, Arkansas, US",7,0,0.0,0.0
 2020-04-11,us,arkansas,36.3415714,-91.02455531,84005121,US,USA,840,5121.0,randolph,"Randolph, Arkansas, US",8,1,0.0,0.0
+2020-04-12,us,arkansas,36.3415714,-91.02455531,84005121,US,USA,840,5121.0,randolph,"Randolph, Arkansas, US",8,0,0.0,0.0
+2020-04-13,us,arkansas,36.3415714,-91.02455531,84005121,US,USA,840,5121.0,randolph,"Randolph, Arkansas, US",8,0,0.0,0.0
 2020-01-22,us,arkansas,36.36826212,-90.4148172,84005021,US,USA,840,5021.0,clay,"Clay, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.36826212,-90.4148172,84005021,US,USA,840,5021.0,clay,"Clay, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.36826212,-90.4148172,84005021,US,USA,840,5021.0,clay,"Clay, Arkansas, US",0,0,0.0,0.0
@@ -6155,6 +6305,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.36826212,-90.4148172,84005021,US,USA,840,5021.0,clay,"Clay, Arkansas, US",1,0,0.0,0.0
 2020-04-10,us,arkansas,36.36826212,-90.4148172,84005021,US,USA,840,5021.0,clay,"Clay, Arkansas, US",1,0,0.0,0.0
 2020-04-11,us,arkansas,36.36826212,-90.4148172,84005021,US,USA,840,5021.0,clay,"Clay, Arkansas, US",1,0,0.0,0.0
+2020-04-12,us,arkansas,36.36826212,-90.4148172,84005021,US,USA,840,5021.0,clay,"Clay, Arkansas, US",1,0,0.0,0.0
+2020-04-13,us,arkansas,36.36826212,-90.4148172,84005021,US,USA,840,5021.0,clay,"Clay, Arkansas, US",1,0,0.0,0.0
 2020-01-22,us,arkansas,36.38177105,-91.81729127,84005049,US,USA,840,5049.0,fulton,"Fulton, Arkansas, US",0,0,0.0,0.0
 2020-01-23,us,arkansas,36.38177105,-91.81729127,84005049,US,USA,840,5049.0,fulton,"Fulton, Arkansas, US",0,0,0.0,0.0
 2020-01-24,us,arkansas,36.38177105,-91.81729127,84005049,US,USA,840,5049.0,fulton,"Fulton, Arkansas, US",0,0,0.0,0.0
@@ -6236,3 +6388,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,arkansas,36.38177105,-91.81729127,84005049,US,USA,840,5049.0,fulton,"Fulton, Arkansas, US",0,0,0.0,0.0
 2020-04-10,us,arkansas,36.38177105,-91.81729127,84005049,US,USA,840,5049.0,fulton,"Fulton, Arkansas, US",0,0,0.0,0.0
 2020-04-11,us,arkansas,36.38177105,-91.81729127,84005049,US,USA,840,5049.0,fulton,"Fulton, Arkansas, US",0,0,0.0,0.0
+2020-04-12,us,arkansas,36.38177105,-91.81729127,84005049,US,USA,840,5049.0,fulton,"Fulton, Arkansas, US",0,0,0.0,0.0
+2020-04-13,us,arkansas,36.38177105,-91.81729127,84005049,US,USA,840,5049.0,fulton,"Fulton, Arkansas, US",0,0,0.0,0.0

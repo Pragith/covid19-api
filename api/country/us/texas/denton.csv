@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,texas,33.20521901,-97.11691153,84048121,US,USA,840,48121.0,denton,"Denton, Texas, US",426,60,7.0,0.0
 2020-04-10,us,texas,33.20521901,-97.11691153,84048121,US,USA,840,48121.0,denton,"Denton, Texas, US",426,0,9.0,2.0
 2020-04-11,us,texas,33.20521901,-97.11691153,84048121,US,USA,840,48121.0,denton,"Denton, Texas, US",454,28,10.0,1.0
+2020-04-12,us,texas,33.20521901,-97.11691153,84048121,US,USA,840,48121.0,denton,"Denton, Texas, US",474,20,13.0,3.0
+2020-04-13,us,texas,33.20521901,-97.11691153,84048121,US,USA,840,48121.0,denton,"Denton, Texas, US",507,33,13.0,0.0

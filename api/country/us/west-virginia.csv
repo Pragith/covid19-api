@@ -80,6 +80,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,0.0,0.0,84080054,US,USA,840,80054.0,out-of-wv,"Out of WV, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,0.0,0.0,84080054,US,USA,840,80054.0,out-of-wv,"Out of WV, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,0.0,0.0,84080054,US,USA,840,80054.0,out-of-wv,"Out of WV, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,0.0,0.0,84080054,US,USA,840,80054.0,out-of-wv,"Out of WV, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,0.0,0.0,84080054,US,USA,840,80054.0,out-of-wv,"Out of WV, West Virginia, US",0,0,0.0,0.0
 2020-01-22,us,west-virginia,0.0,0.0,84090054,US,USA,840,90054.0,unassigned,"Unassigned, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,0.0,0.0,84090054,US,USA,840,90054.0,unassigned,"Unassigned, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,0.0,0.0,84090054,US,USA,840,90054.0,unassigned,"Unassigned, West Virginia, US",0,0,0.0,0.0
@@ -161,6 +163,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,0.0,0.0,84090054,US,USA,840,90054.0,unassigned,"Unassigned, West Virginia, US",0,-21,1.0,1.0
 2020-04-10,us,west-virginia,0.0,0.0,84090054,US,USA,840,90054.0,unassigned,"Unassigned, West Virginia, US",0,0,1.0,0.0
 2020-04-11,us,west-virginia,0.0,0.0,84090054,US,USA,840,90054.0,unassigned,"Unassigned, West Virginia, US",0,0,1.0,0.0
+2020-04-12,us,west-virginia,0.0,0.0,84090054,US,USA,840,90054.0,unassigned,"Unassigned, West Virginia, US",0,0,2.0,1.0
+2020-04-13,us,west-virginia,0.0,0.0,84090054,US,USA,840,90054.0,unassigned,"Unassigned, West Virginia, US",0,0,2.0,0.0
 2020-01-22,us,west-virginia,37.38002939,-81.65083669,84054047,US,USA,840,54047.0,mcdowell,"McDowell, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,37.38002939,-81.65083669,84054047,US,USA,840,54047.0,mcdowell,"McDowell, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,37.38002939,-81.65083669,84054047,US,USA,840,54047.0,mcdowell,"McDowell, West Virginia, US",0,0,0.0,0.0
@@ -242,6 +246,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,37.38002939,-81.65083669,84054047,US,USA,840,54047.0,mcdowell,"McDowell, West Virginia, US",4,1,0.0,0.0
 2020-04-10,us,west-virginia,37.38002939,-81.65083669,84054047,US,USA,840,54047.0,mcdowell,"McDowell, West Virginia, US",4,0,0.0,0.0
 2020-04-11,us,west-virginia,37.38002939,-81.65083669,84054047,US,USA,840,54047.0,mcdowell,"McDowell, West Virginia, US",4,0,0.0,0.0
+2020-04-12,us,west-virginia,37.38002939,-81.65083669,84054047,US,USA,840,54047.0,mcdowell,"McDowell, West Virginia, US",5,1,0.0,0.0
+2020-04-13,us,west-virginia,37.38002939,-81.65083669,84054047,US,USA,840,54047.0,mcdowell,"McDowell, West Virginia, US",5,0,0.0,0.0
 2020-01-22,us,west-virginia,37.40481169,-81.11023142,84054055,US,USA,840,54055.0,mercer,"Mercer, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,37.40481169,-81.11023142,84054055,US,USA,840,54055.0,mercer,"Mercer, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,37.40481169,-81.11023142,84054055,US,USA,840,54055.0,mercer,"Mercer, West Virginia, US",0,0,0.0,0.0
@@ -323,6 +329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,37.40481169,-81.11023142,84054055,US,USA,840,54055.0,mercer,"Mercer, West Virginia, US",7,1,0.0,0.0
 2020-04-10,us,west-virginia,37.40481169,-81.11023142,84054055,US,USA,840,54055.0,mercer,"Mercer, West Virginia, US",8,1,0.0,0.0
 2020-04-11,us,west-virginia,37.40481169,-81.11023142,84054055,US,USA,840,54055.0,mercer,"Mercer, West Virginia, US",8,0,0.0,0.0
+2020-04-12,us,west-virginia,37.40481169,-81.11023142,84054055,US,USA,840,54055.0,mercer,"Mercer, West Virginia, US",8,0,0.0,0.0
+2020-04-13,us,west-virginia,37.40481169,-81.11023142,84054055,US,USA,840,54055.0,mercer,"Mercer, West Virginia, US",8,0,0.0,0.0
 2020-01-22,us,west-virginia,37.56274716,-80.54577965,84054063,US,USA,840,54063.0,monroe,"Monroe, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,37.56274716,-80.54577965,84054063,US,USA,840,54063.0,monroe,"Monroe, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,37.56274716,-80.54577965,84054063,US,USA,840,54063.0,monroe,"Monroe, West Virginia, US",0,0,0.0,0.0
@@ -404,6 +412,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,37.56274716,-80.54577965,84054063,US,USA,840,54063.0,monroe,"Monroe, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,37.56274716,-80.54577965,84054063,US,USA,840,54063.0,monroe,"Monroe, West Virginia, US",1,1,0.0,0.0
 2020-04-11,us,west-virginia,37.56274716,-80.54577965,84054063,US,USA,840,54063.0,monroe,"Monroe, West Virginia, US",1,0,0.0,0.0
+2020-04-12,us,west-virginia,37.56274716,-80.54577965,84054063,US,USA,840,54063.0,monroe,"Monroe, West Virginia, US",1,0,0.0,0.0
+2020-04-13,us,west-virginia,37.56274716,-80.54577965,84054063,US,USA,840,54063.0,monroe,"Monroe, West Virginia, US",1,0,0.0,0.0
 2020-01-22,us,west-virginia,37.612327,-81.54511071,84054109,US,USA,840,54109.0,wyoming,"Wyoming, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,37.612327,-81.54511071,84054109,US,USA,840,54109.0,wyoming,"Wyoming, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,37.612327,-81.54511071,84054109,US,USA,840,54109.0,wyoming,"Wyoming, West Virginia, US",0,0,0.0,0.0
@@ -485,6 +495,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,37.612327,-81.54511071,84054109,US,USA,840,54109.0,wyoming,"Wyoming, West Virginia, US",1,0,0.0,0.0
 2020-04-10,us,west-virginia,37.612327,-81.54511071,84054109,US,USA,840,54109.0,wyoming,"Wyoming, West Virginia, US",1,0,0.0,0.0
 2020-04-11,us,west-virginia,37.612327,-81.54511071,84054109,US,USA,840,54109.0,wyoming,"Wyoming, West Virginia, US",1,0,0.0,0.0
+2020-04-12,us,west-virginia,37.612327,-81.54511071,84054109,US,USA,840,54109.0,wyoming,"Wyoming, West Virginia, US",1,0,0.0,0.0
+2020-04-13,us,west-virginia,37.612327,-81.54511071,84054109,US,USA,840,54109.0,wyoming,"Wyoming, West Virginia, US",1,0,0.0,0.0
 2020-01-22,us,west-virginia,37.65390597,-80.86009693,84054089,US,USA,840,54089.0,summers,"Summers, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,37.65390597,-80.86009693,84054089,US,USA,840,54089.0,summers,"Summers, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,37.65390597,-80.86009693,84054089,US,USA,840,54089.0,summers,"Summers, West Virginia, US",0,0,0.0,0.0
@@ -566,6 +578,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,37.65390597,-80.86009693,84054089,US,USA,840,54089.0,summers,"Summers, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,37.65390597,-80.86009693,84054089,US,USA,840,54089.0,summers,"Summers, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,37.65390597,-80.86009693,84054089,US,USA,840,54089.0,summers,"Summers, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,37.65390597,-80.86009693,84054089,US,USA,840,54089.0,summers,"Summers, West Virginia, US",1,1,0.0,0.0
+2020-04-13,us,west-virginia,37.65390597,-80.86009693,84054089,US,USA,840,54089.0,summers,"Summers, West Virginia, US",1,0,0.0,0.0
 2020-01-22,us,west-virginia,37.73048351,-82.13338365,84054059,US,USA,840,54059.0,mingo,"Mingo, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,37.73048351,-82.13338365,84054059,US,USA,840,54059.0,mingo,"Mingo, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,37.73048351,-82.13338365,84054059,US,USA,840,54059.0,mingo,"Mingo, West Virginia, US",0,0,0.0,0.0
@@ -647,6 +661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,37.73048351,-82.13338365,84054059,US,USA,840,54059.0,mingo,"Mingo, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,37.73048351,-82.13338365,84054059,US,USA,840,54059.0,mingo,"Mingo, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,37.73048351,-82.13338365,84054059,US,USA,840,54059.0,mingo,"Mingo, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,37.73048351,-82.13338365,84054059,US,USA,840,54059.0,mingo,"Mingo, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,37.73048351,-82.13338365,84054059,US,USA,840,54059.0,mingo,"Mingo, West Virginia, US",1,1,0.0,0.0
 2020-01-22,us,west-virginia,37.76936795,-81.2456041,84054081,US,USA,840,54081.0,raleigh,"Raleigh, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,37.76936795,-81.2456041,84054081,US,USA,840,54081.0,raleigh,"Raleigh, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,37.76936795,-81.2456041,84054081,US,USA,840,54081.0,raleigh,"Raleigh, West Virginia, US",0,0,0.0,0.0
@@ -728,6 +744,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,37.76936795,-81.2456041,84054081,US,USA,840,54081.0,raleigh,"Raleigh, West Virginia, US",5,1,0.0,0.0
 2020-04-10,us,west-virginia,37.76936795,-81.2456041,84054081,US,USA,840,54081.0,raleigh,"Raleigh, West Virginia, US",5,0,0.0,0.0
 2020-04-11,us,west-virginia,37.76936795,-81.2456041,84054081,US,USA,840,54081.0,raleigh,"Raleigh, West Virginia, US",5,0,0.0,0.0
+2020-04-12,us,west-virginia,37.76936795,-81.2456041,84054081,US,USA,840,54081.0,raleigh,"Raleigh, West Virginia, US",5,0,0.0,0.0
+2020-04-13,us,west-virginia,37.76936795,-81.2456041,84054081,US,USA,840,54081.0,raleigh,"Raleigh, West Virginia, US",5,0,0.0,0.0
 2020-01-22,us,west-virginia,37.8299889,-81.93528571,84054045,US,USA,840,54045.0,logan,"Logan, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,37.8299889,-81.93528571,84054045,US,USA,840,54045.0,logan,"Logan, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,37.8299889,-81.93528571,84054045,US,USA,840,54045.0,logan,"Logan, West Virginia, US",0,0,0.0,0.0
@@ -809,6 +827,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,37.8299889,-81.93528571,84054045,US,USA,840,54045.0,logan,"Logan, West Virginia, US",8,0,0.0,0.0
 2020-04-10,us,west-virginia,37.8299889,-81.93528571,84054045,US,USA,840,54045.0,logan,"Logan, West Virginia, US",8,0,0.0,0.0
 2020-04-11,us,west-virginia,37.8299889,-81.93528571,84054045,US,USA,840,54045.0,logan,"Logan, West Virginia, US",8,0,0.0,0.0
+2020-04-12,us,west-virginia,37.8299889,-81.93528571,84054045,US,USA,840,54045.0,logan,"Logan, West Virginia, US",8,0,0.0,0.0
+2020-04-13,us,west-virginia,37.8299889,-81.93528571,84054045,US,USA,840,54045.0,logan,"Logan, West Virginia, US",8,0,1.0,1.0
 2020-01-22,us,west-virginia,37.9463652,-80.45335881,84054025,US,USA,840,54025.0,greenbrier,"Greenbrier, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,37.9463652,-80.45335881,84054025,US,USA,840,54025.0,greenbrier,"Greenbrier, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,37.9463652,-80.45335881,84054025,US,USA,840,54025.0,greenbrier,"Greenbrier, West Virginia, US",0,0,0.0,0.0
@@ -890,6 +910,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,37.9463652,-80.45335881,84054025,US,USA,840,54025.0,greenbrier,"Greenbrier, West Virginia, US",3,0,0.0,0.0
 2020-04-10,us,west-virginia,37.9463652,-80.45335881,84054025,US,USA,840,54025.0,greenbrier,"Greenbrier, West Virginia, US",3,0,0.0,0.0
 2020-04-11,us,west-virginia,37.9463652,-80.45335881,84054025,US,USA,840,54025.0,greenbrier,"Greenbrier, West Virginia, US",3,0,0.0,0.0
+2020-04-12,us,west-virginia,37.9463652,-80.45335881,84054025,US,USA,840,54025.0,greenbrier,"Greenbrier, West Virginia, US",3,0,0.0,0.0
+2020-04-13,us,west-virginia,37.9463652,-80.45335881,84054025,US,USA,840,54025.0,greenbrier,"Greenbrier, West Virginia, US",3,0,0.0,0.0
 2020-01-22,us,west-virginia,38.01974191,-81.69888019,84054005,US,USA,840,54005.0,boone,"Boone, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.01974191,-81.69888019,84054005,US,USA,840,54005.0,boone,"Boone, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.01974191,-81.69888019,84054005,US,USA,840,54005.0,boone,"Boone, West Virginia, US",0,0,0.0,0.0
@@ -971,6 +993,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.01974191,-81.69888019,84054005,US,USA,840,54005.0,boone,"Boone, West Virginia, US",1,0,0.0,0.0
 2020-04-10,us,west-virginia,38.01974191,-81.69888019,84054005,US,USA,840,54005.0,boone,"Boone, West Virginia, US",1,0,0.0,0.0
 2020-04-11,us,west-virginia,38.01974191,-81.69888019,84054005,US,USA,840,54005.0,boone,"Boone, West Virginia, US",1,0,0.0,0.0
+2020-04-12,us,west-virginia,38.01974191,-81.69888019,84054005,US,USA,840,54005.0,boone,"Boone, West Virginia, US",1,0,0.0,0.0
+2020-04-13,us,west-virginia,38.01974191,-81.69888019,84054005,US,USA,840,54005.0,boone,"Boone, West Virginia, US",1,0,0.0,0.0
 2020-01-22,us,west-virginia,38.02974928,-81.08286634,84054019,US,USA,840,54019.0,fayette,"Fayette, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.02974928,-81.08286634,84054019,US,USA,840,54019.0,fayette,"Fayette, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.02974928,-81.08286634,84054019,US,USA,840,54019.0,fayette,"Fayette, West Virginia, US",0,0,0.0,0.0
@@ -1052,6 +1076,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.02974928,-81.08286634,84054019,US,USA,840,54019.0,fayette,"Fayette, West Virginia, US",1,0,0.0,0.0
 2020-04-10,us,west-virginia,38.02974928,-81.08286634,84054019,US,USA,840,54019.0,fayette,"Fayette, West Virginia, US",3,2,0.0,0.0
 2020-04-11,us,west-virginia,38.02974928,-81.08286634,84054019,US,USA,840,54019.0,fayette,"Fayette, West Virginia, US",2,-1,0.0,0.0
+2020-04-12,us,west-virginia,38.02974928,-81.08286634,84054019,US,USA,840,54019.0,fayette,"Fayette, West Virginia, US",2,0,0.0,0.0
+2020-04-13,us,west-virginia,38.02974928,-81.08286634,84054019,US,USA,840,54019.0,fayette,"Fayette, West Virginia, US",2,0,0.0,0.0
 2020-01-22,us,west-virginia,38.14901357,-82.42287994,84054099,US,USA,840,54099.0,wayne,"Wayne, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.14901357,-82.42287994,84054099,US,USA,840,54099.0,wayne,"Wayne, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.14901357,-82.42287994,84054099,US,USA,840,54099.0,wayne,"Wayne, West Virginia, US",0,0,0.0,0.0
@@ -1133,6 +1159,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.14901357,-82.42287994,84054099,US,USA,840,54099.0,wayne,"Wayne, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,38.14901357,-82.42287994,84054099,US,USA,840,54099.0,wayne,"Wayne, West Virginia, US",17,17,0.0,0.0
 2020-04-11,us,west-virginia,38.14901357,-82.42287994,84054099,US,USA,840,54099.0,wayne,"Wayne, West Virginia, US",17,0,0.0,0.0
+2020-04-12,us,west-virginia,38.14901357,-82.42287994,84054099,US,USA,840,54099.0,wayne,"Wayne, West Virginia, US",17,0,0.0,0.0
+2020-04-13,us,west-virginia,38.14901357,-82.42287994,84054099,US,USA,840,54099.0,wayne,"Wayne, West Virginia, US",17,0,0.0,0.0
 2020-01-22,us,west-virginia,38.172154,-82.07017953,84054043,US,USA,840,54043.0,lincoln,"Lincoln, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.172154,-82.07017953,84054043,US,USA,840,54043.0,lincoln,"Lincoln, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.172154,-82.07017953,84054043,US,USA,840,54043.0,lincoln,"Lincoln, West Virginia, US",0,0,0.0,0.0
@@ -1214,6 +1242,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.172154,-82.07017953,84054043,US,USA,840,54043.0,lincoln,"Lincoln, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,38.172154,-82.07017953,84054043,US,USA,840,54043.0,lincoln,"Lincoln, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,38.172154,-82.07017953,84054043,US,USA,840,54043.0,lincoln,"Lincoln, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,38.172154,-82.07017953,84054043,US,USA,840,54043.0,lincoln,"Lincoln, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,38.172154,-82.07017953,84054043,US,USA,840,54043.0,lincoln,"Lincoln, West Virginia, US",0,0,0.0,0.0
 2020-01-22,us,west-virginia,38.29617706,-80.79759588,84054067,US,USA,840,54067.0,nicholas,"Nicholas, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.29617706,-80.79759588,84054067,US,USA,840,54067.0,nicholas,"Nicholas, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.29617706,-80.79759588,84054067,US,USA,840,54067.0,nicholas,"Nicholas, West Virginia, US",0,0,0.0,0.0
@@ -1295,6 +1325,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.29617706,-80.79759588,84054067,US,USA,840,54067.0,nicholas,"Nicholas, West Virginia, US",2,0,0.0,0.0
 2020-04-10,us,west-virginia,38.29617706,-80.79759588,84054067,US,USA,840,54067.0,nicholas,"Nicholas, West Virginia, US",2,0,0.0,0.0
 2020-04-11,us,west-virginia,38.29617706,-80.79759588,84054067,US,USA,840,54067.0,nicholas,"Nicholas, West Virginia, US",2,0,0.0,0.0
+2020-04-12,us,west-virginia,38.29617706,-80.79759588,84054067,US,USA,840,54067.0,nicholas,"Nicholas, West Virginia, US",2,0,0.0,0.0
+2020-04-13,us,west-virginia,38.29617706,-80.79759588,84054067,US,USA,840,54067.0,nicholas,"Nicholas, West Virginia, US",2,0,0.0,0.0
 2020-01-22,us,west-virginia,38.32758728,-80.00993811,84054075,US,USA,840,54075.0,pocahontas,"Pocahontas, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.32758728,-80.00993811,84054075,US,USA,840,54075.0,pocahontas,"Pocahontas, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.32758728,-80.00993811,84054075,US,USA,840,54075.0,pocahontas,"Pocahontas, West Virginia, US",0,0,0.0,0.0
@@ -1376,6 +1408,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.32758728,-80.00993811,84054075,US,USA,840,54075.0,pocahontas,"Pocahontas, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,38.32758728,-80.00993811,84054075,US,USA,840,54075.0,pocahontas,"Pocahontas, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,38.32758728,-80.00993811,84054075,US,USA,840,54075.0,pocahontas,"Pocahontas, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,38.32758728,-80.00993811,84054075,US,USA,840,54075.0,pocahontas,"Pocahontas, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,38.32758728,-80.00993811,84054075,US,USA,840,54075.0,pocahontas,"Pocahontas, West Virginia, US",0,0,0.0,0.0
 2020-01-22,us,west-virginia,38.33860077,-81.52857054,84054039,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.33860077,-81.52857054,84054039,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.33860077,-81.52857054,84054039,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",0,0,0.0,0.0
@@ -1457,6 +1491,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.33860077,-81.52857054,84054039,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",73,4,0.0,0.0
 2020-04-10,us,west-virginia,38.33860077,-81.52857054,84054039,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",82,9,0.0,0.0
 2020-04-11,us,west-virginia,38.33860077,-81.52857054,84054039,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",82,0,0.0,0.0
+2020-04-12,us,west-virginia,38.33860077,-81.52857054,84054039,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",83,1,0.0,0.0
+2020-04-13,us,west-virginia,38.33860077,-81.52857054,84054039,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",86,3,0.0,0.0
 2020-01-22,us,west-virginia,38.42424062,-82.23855912,84054011,US,USA,840,54011.0,cabell,"Cabell, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.42424062,-82.23855912,84054011,US,USA,840,54011.0,cabell,"Cabell, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.42424062,-82.23855912,84054011,US,USA,840,54011.0,cabell,"Cabell, West Virginia, US",0,0,0.0,0.0
@@ -1538,6 +1574,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.42424062,-82.23855912,84054011,US,USA,840,54011.0,cabell,"Cabell, West Virginia, US",17,5,0.0,0.0
 2020-04-10,us,west-virginia,38.42424062,-82.23855912,84054011,US,USA,840,54011.0,cabell,"Cabell, West Virginia, US",21,4,0.0,0.0
 2020-04-11,us,west-virginia,38.42424062,-82.23855912,84054011,US,USA,840,54011.0,cabell,"Cabell, West Virginia, US",21,0,0.0,0.0
+2020-04-12,us,west-virginia,38.42424062,-82.23855912,84054011,US,USA,840,54011.0,cabell,"Cabell, West Virginia, US",22,1,0.0,0.0
+2020-04-13,us,west-virginia,38.42424062,-82.23855912,84054011,US,USA,840,54011.0,cabell,"Cabell, West Virginia, US",23,1,0.0,0.0
 2020-01-22,us,west-virginia,38.46231092,-81.07652217,84054015,US,USA,840,54015.0,clay,"Clay, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.46231092,-81.07652217,84054015,US,USA,840,54015.0,clay,"Clay, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.46231092,-81.07652217,84054015,US,USA,840,54015.0,clay,"Clay, West Virginia, US",0,0,0.0,0.0
@@ -1619,6 +1657,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.46231092,-81.07652217,84054015,US,USA,840,54015.0,clay,"Clay, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,38.46231092,-81.07652217,84054015,US,USA,840,54015.0,clay,"Clay, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,38.46231092,-81.07652217,84054015,US,USA,840,54015.0,clay,"Clay, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,38.46231092,-81.07652217,84054015,US,USA,840,54015.0,clay,"Clay, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,38.46231092,-81.07652217,84054015,US,USA,840,54015.0,clay,"Clay, West Virginia, US",0,0,0.0,0.0
 2020-01-22,us,west-virginia,38.49370949,-80.4202023,84054101,US,USA,840,54101.0,webster,"Webster, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.49370949,-80.4202023,84054101,US,USA,840,54101.0,webster,"Webster, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.49370949,-80.4202023,84054101,US,USA,840,54101.0,webster,"Webster, West Virginia, US",0,0,0.0,0.0
@@ -1700,6 +1740,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.49370949,-80.4202023,84054101,US,USA,840,54101.0,webster,"Webster, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,38.49370949,-80.4202023,84054101,US,USA,840,54101.0,webster,"Webster, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,38.49370949,-80.4202023,84054101,US,USA,840,54101.0,webster,"Webster, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,38.49370949,-80.4202023,84054101,US,USA,840,54101.0,webster,"Webster, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,38.49370949,-80.4202023,84054101,US,USA,840,54101.0,webster,"Webster, West Virginia, US",0,0,0.0,0.0
 2020-01-22,us,west-virginia,38.50782345,-81.9082131,84054079,US,USA,840,54079.0,putnam,"Putnam, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.50782345,-81.9082131,84054079,US,USA,840,54079.0,putnam,"Putnam, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.50782345,-81.9082131,84054079,US,USA,840,54079.0,putnam,"Putnam, West Virginia, US",0,0,0.0,0.0
@@ -1781,6 +1823,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.50782345,-81.9082131,84054079,US,USA,840,54079.0,putnam,"Putnam, West Virginia, US",10,0,0.0,0.0
 2020-04-10,us,west-virginia,38.50782345,-81.9082131,84054079,US,USA,840,54079.0,putnam,"Putnam, West Virginia, US",10,0,0.0,0.0
 2020-04-11,us,west-virginia,38.50782345,-81.9082131,84054079,US,USA,840,54079.0,putnam,"Putnam, West Virginia, US",10,0,0.0,0.0
+2020-04-12,us,west-virginia,38.50782345,-81.9082131,84054079,US,USA,840,54079.0,putnam,"Putnam, West Virginia, US",11,1,0.0,0.0
+2020-04-13,us,west-virginia,38.50782345,-81.9082131,84054079,US,USA,840,54079.0,putnam,"Putnam, West Virginia, US",11,0,0.0,0.0
 2020-01-22,us,west-virginia,38.68314479,-79.35084086,84054071,US,USA,840,54071.0,pendleton,"Pendleton, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.68314479,-79.35084086,84054071,US,USA,840,54071.0,pendleton,"Pendleton, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.68314479,-79.35084086,84054071,US,USA,840,54071.0,pendleton,"Pendleton, West Virginia, US",0,0,0.0,0.0
@@ -1862,6 +1906,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.68314479,-79.35084086,84054071,US,USA,840,54071.0,pendleton,"Pendleton, West Virginia, US",1,0,0.0,0.0
 2020-04-10,us,west-virginia,38.68314479,-79.35084086,84054071,US,USA,840,54071.0,pendleton,"Pendleton, West Virginia, US",1,0,0.0,0.0
 2020-04-11,us,west-virginia,38.68314479,-79.35084086,84054071,US,USA,840,54071.0,pendleton,"Pendleton, West Virginia, US",1,0,0.0,0.0
+2020-04-12,us,west-virginia,38.68314479,-79.35084086,84054071,US,USA,840,54071.0,pendleton,"Pendleton, West Virginia, US",1,0,0.0,0.0
+2020-04-13,us,west-virginia,38.68314479,-79.35084086,84054071,US,USA,840,54071.0,pendleton,"Pendleton, West Virginia, US",1,0,0.0,0.0
 2020-01-22,us,west-virginia,38.70036159,-80.72011184,84054007,US,USA,840,54007.0,braxton,"Braxton, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.70036159,-80.72011184,84054007,US,USA,840,54007.0,braxton,"Braxton, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.70036159,-80.72011184,84054007,US,USA,840,54007.0,braxton,"Braxton, West Virginia, US",0,0,0.0,0.0
@@ -1943,6 +1989,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.70036159,-80.72011184,84054007,US,USA,840,54007.0,braxton,"Braxton, West Virginia, US",1,0,0.0,0.0
 2020-04-10,us,west-virginia,38.70036159,-80.72011184,84054007,US,USA,840,54007.0,braxton,"Braxton, West Virginia, US",1,0,0.0,0.0
 2020-04-11,us,west-virginia,38.70036159,-80.72011184,84054007,US,USA,840,54007.0,braxton,"Braxton, West Virginia, US",1,0,0.0,0.0
+2020-04-12,us,west-virginia,38.70036159,-80.72011184,84054007,US,USA,840,54007.0,braxton,"Braxton, West Virginia, US",1,0,0.0,0.0
+2020-04-13,us,west-virginia,38.70036159,-80.72011184,84054007,US,USA,840,54007.0,braxton,"Braxton, West Virginia, US",1,0,0.0,0.0
 2020-01-22,us,west-virginia,38.71622686,-81.35243568,84054087,US,USA,840,54087.0,roane,"Roane, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.71622686,-81.35243568,84054087,US,USA,840,54087.0,roane,"Roane, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.71622686,-81.35243568,84054087,US,USA,840,54087.0,roane,"Roane, West Virginia, US",0,0,0.0,0.0
@@ -2024,6 +2072,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.71622686,-81.35243568,84054087,US,USA,840,54087.0,roane,"Roane, West Virginia, US",2,0,0.0,0.0
 2020-04-10,us,west-virginia,38.71622686,-81.35243568,84054087,US,USA,840,54087.0,roane,"Roane, West Virginia, US",2,0,0.0,0.0
 2020-04-11,us,west-virginia,38.71622686,-81.35243568,84054087,US,USA,840,54087.0,roane,"Roane, West Virginia, US",2,0,0.0,0.0
+2020-04-12,us,west-virginia,38.71622686,-81.35243568,84054087,US,USA,840,54087.0,roane,"Roane, West Virginia, US",2,0,0.0,0.0
+2020-04-13,us,west-virginia,38.71622686,-81.35243568,84054087,US,USA,840,54087.0,roane,"Roane, West Virginia, US",2,0,0.0,0.0
 2020-01-22,us,west-virginia,38.769899,-79.87919615,84054083,US,USA,840,54083.0,randolph,"Randolph, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.769899,-79.87919615,84054083,US,USA,840,54083.0,randolph,"Randolph, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.769899,-79.87919615,84054083,US,USA,840,54083.0,randolph,"Randolph, West Virginia, US",0,0,0.0,0.0
@@ -2105,6 +2155,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.769899,-79.87919615,84054083,US,USA,840,54083.0,randolph,"Randolph, West Virginia, US",3,0,0.0,0.0
 2020-04-10,us,west-virginia,38.769899,-79.87919615,84054083,US,USA,840,54083.0,randolph,"Randolph, West Virginia, US",3,0,0.0,0.0
 2020-04-11,us,west-virginia,38.769899,-79.87919615,84054083,US,USA,840,54083.0,randolph,"Randolph, West Virginia, US",4,1,0.0,0.0
+2020-04-12,us,west-virginia,38.769899,-79.87919615,84054083,US,USA,840,54083.0,randolph,"Randolph, West Virginia, US",4,0,0.0,0.0
+2020-04-13,us,west-virginia,38.769899,-79.87919615,84054083,US,USA,840,54083.0,randolph,"Randolph, West Virginia, US",4,0,0.0,0.0
 2020-01-22,us,west-virginia,38.77071799,-82.02524219,84054053,US,USA,840,54053.0,mason,"Mason, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.77071799,-82.02524219,84054053,US,USA,840,54053.0,mason,"Mason, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.77071799,-82.02524219,84054053,US,USA,840,54053.0,mason,"Mason, West Virginia, US",0,0,0.0,0.0
@@ -2186,6 +2238,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.77071799,-82.02524219,84054053,US,USA,840,54053.0,mason,"Mason, West Virginia, US",7,1,0.0,0.0
 2020-04-10,us,west-virginia,38.77071799,-82.02524219,84054053,US,USA,840,54053.0,mason,"Mason, West Virginia, US",7,0,0.0,0.0
 2020-04-11,us,west-virginia,38.77071799,-82.02524219,84054053,US,USA,840,54053.0,mason,"Mason, West Virginia, US",7,0,0.0,0.0
+2020-04-12,us,west-virginia,38.77071799,-82.02524219,84054053,US,USA,840,54053.0,mason,"Mason, West Virginia, US",8,1,0.0,0.0
+2020-04-13,us,west-virginia,38.77071799,-82.02524219,84054053,US,USA,840,54053.0,mason,"Mason, West Virginia, US",8,0,0.0,0.0
 2020-01-22,us,west-virginia,38.84263974,-81.68148753,84054035,US,USA,840,54035.0,jackson,"Jackson, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.84263974,-81.68148753,84054035,US,USA,840,54035.0,jackson,"Jackson, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.84263974,-81.68148753,84054035,US,USA,840,54035.0,jackson,"Jackson, West Virginia, US",0,0,0.0,0.0
@@ -2267,6 +2321,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.84263974,-81.68148753,84054035,US,USA,840,54035.0,jackson,"Jackson, West Virginia, US",20,1,1.0,0.0
 2020-04-10,us,west-virginia,38.84263974,-81.68148753,84054035,US,USA,840,54035.0,jackson,"Jackson, West Virginia, US",23,3,1.0,0.0
 2020-04-11,us,west-virginia,38.84263974,-81.68148753,84054035,US,USA,840,54035.0,jackson,"Jackson, West Virginia, US",23,0,1.0,0.0
+2020-04-12,us,west-virginia,38.84263974,-81.68148753,84054035,US,USA,840,54035.0,jackson,"Jackson, West Virginia, US",23,0,1.0,0.0
+2020-04-13,us,west-virginia,38.84263974,-81.68148753,84054035,US,USA,840,54035.0,jackson,"Jackson, West Virginia, US",27,4,1.0,0.0
 2020-01-22,us,west-virginia,38.84315422,-81.11934872,84054013,US,USA,840,54013.0,calhoun,"Calhoun, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.84315422,-81.11934872,84054013,US,USA,840,54013.0,calhoun,"Calhoun, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.84315422,-81.11934872,84054013,US,USA,840,54013.0,calhoun,"Calhoun, West Virginia, US",0,0,0.0,0.0
@@ -2348,6 +2404,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.84315422,-81.11934872,84054013,US,USA,840,54013.0,calhoun,"Calhoun, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,38.84315422,-81.11934872,84054013,US,USA,840,54013.0,calhoun,"Calhoun, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,38.84315422,-81.11934872,84054013,US,USA,840,54013.0,calhoun,"Calhoun, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,38.84315422,-81.11934872,84054013,US,USA,840,54013.0,calhoun,"Calhoun, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,38.84315422,-81.11934872,84054013,US,USA,840,54013.0,calhoun,"Calhoun, West Virginia, US",0,0,0.0,0.0
 2020-01-22,us,west-virginia,38.89285061,-80.23689136,84054097,US,USA,840,54097.0,upshur,"Upshur, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.89285061,-80.23689136,84054097,US,USA,840,54097.0,upshur,"Upshur, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.89285061,-80.23689136,84054097,US,USA,840,54097.0,upshur,"Upshur, West Virginia, US",0,0,0.0,0.0
@@ -2429,6 +2487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.89285061,-80.23689136,84054097,US,USA,840,54097.0,upshur,"Upshur, West Virginia, US",2,1,0.0,0.0
 2020-04-10,us,west-virginia,38.89285061,-80.23689136,84054097,US,USA,840,54097.0,upshur,"Upshur, West Virginia, US",3,1,0.0,0.0
 2020-04-11,us,west-virginia,38.89285061,-80.23689136,84054097,US,USA,840,54097.0,upshur,"Upshur, West Virginia, US",3,0,0.0,0.0
+2020-04-12,us,west-virginia,38.89285061,-80.23689136,84054097,US,USA,840,54097.0,upshur,"Upshur, West Virginia, US",3,0,0.0,0.0
+2020-04-13,us,west-virginia,38.89285061,-80.23689136,84054097,US,USA,840,54097.0,upshur,"Upshur, West Virginia, US",3,0,0.0,0.0
 2020-01-22,us,west-virginia,38.9251277,-80.85952723,84054021,US,USA,840,54021.0,gilmer,"Gilmer, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.9251277,-80.85952723,84054021,US,USA,840,54021.0,gilmer,"Gilmer, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.9251277,-80.85952723,84054021,US,USA,840,54021.0,gilmer,"Gilmer, West Virginia, US",0,0,0.0,0.0
@@ -2510,6 +2570,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.9251277,-80.85952723,84054021,US,USA,840,54021.0,gilmer,"Gilmer, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,38.9251277,-80.85952723,84054021,US,USA,840,54021.0,gilmer,"Gilmer, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,38.9251277,-80.85952723,84054021,US,USA,840,54021.0,gilmer,"Gilmer, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,38.9251277,-80.85952723,84054021,US,USA,840,54021.0,gilmer,"Gilmer, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,38.9251277,-80.85952723,84054021,US,USA,840,54021.0,gilmer,"Gilmer, West Virginia, US",0,0,0.0,0.0
 2020-01-22,us,west-virginia,38.9947249,-80.49988181,84054041,US,USA,840,54041.0,lewis,"Lewis, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,38.9947249,-80.49988181,84054041,US,USA,840,54041.0,lewis,"Lewis, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,38.9947249,-80.49988181,84054041,US,USA,840,54041.0,lewis,"Lewis, West Virginia, US",0,0,0.0,0.0
@@ -2591,6 +2653,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,38.9947249,-80.49988181,84054041,US,USA,840,54041.0,lewis,"Lewis, West Virginia, US",1,0,0.0,0.0
 2020-04-10,us,west-virginia,38.9947249,-80.49988181,84054041,US,USA,840,54041.0,lewis,"Lewis, West Virginia, US",2,1,0.0,0.0
 2020-04-11,us,west-virginia,38.9947249,-80.49988181,84054041,US,USA,840,54041.0,lewis,"Lewis, West Virginia, US",2,0,0.0,0.0
+2020-04-12,us,west-virginia,38.9947249,-80.49988181,84054041,US,USA,840,54041.0,lewis,"Lewis, West Virginia, US",2,0,0.0,0.0
+2020-04-13,us,west-virginia,38.9947249,-80.49988181,84054041,US,USA,840,54041.0,lewis,"Lewis, West Virginia, US",2,0,0.0,0.0
 2020-01-22,us,west-virginia,39.00683177,-78.85855301,84054031,US,USA,840,54031.0,hardy,"Hardy, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.00683177,-78.85855301,84054031,US,USA,840,54031.0,hardy,"Hardy, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.00683177,-78.85855301,84054031,US,USA,840,54031.0,hardy,"Hardy, West Virginia, US",0,0,0.0,0.0
@@ -2672,6 +2736,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.00683177,-78.85855301,84054031,US,USA,840,54031.0,hardy,"Hardy, West Virginia, US",2,0,0.0,0.0
 2020-04-10,us,west-virginia,39.00683177,-78.85855301,84054031,US,USA,840,54031.0,hardy,"Hardy, West Virginia, US",2,0,0.0,0.0
 2020-04-11,us,west-virginia,39.00683177,-78.85855301,84054031,US,USA,840,54031.0,hardy,"Hardy, West Virginia, US",2,0,0.0,0.0
+2020-04-12,us,west-virginia,39.00683177,-78.85855301,84054031,US,USA,840,54031.0,hardy,"Hardy, West Virginia, US",2,0,0.0,0.0
+2020-04-13,us,west-virginia,39.00683177,-78.85855301,84054031,US,USA,840,54031.0,hardy,"Hardy, West Virginia, US",2,0,0.0,0.0
 2020-01-22,us,west-virginia,39.02775007,-81.37473928,84054105,US,USA,840,54105.0,wirt,"Wirt, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.02775007,-81.37473928,84054105,US,USA,840,54105.0,wirt,"Wirt, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.02775007,-81.37473928,84054105,US,USA,840,54105.0,wirt,"Wirt, West Virginia, US",0,0,0.0,0.0
@@ -2753,6 +2819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.02775007,-81.37473928,84054105,US,USA,840,54105.0,wirt,"Wirt, West Virginia, US",1,0,0.0,0.0
 2020-04-10,us,west-virginia,39.02775007,-81.37473928,84054105,US,USA,840,54105.0,wirt,"Wirt, West Virginia, US",2,1,0.0,0.0
 2020-04-11,us,west-virginia,39.02775007,-81.37473928,84054105,US,USA,840,54105.0,wirt,"Wirt, West Virginia, US",2,0,0.0,0.0
+2020-04-12,us,west-virginia,39.02775007,-81.37473928,84054105,US,USA,840,54105.0,wirt,"Wirt, West Virginia, US",2,0,0.0,0.0
+2020-04-13,us,west-virginia,39.02775007,-81.37473928,84054105,US,USA,840,54105.0,wirt,"Wirt, West Virginia, US",2,0,0.0,0.0
 2020-01-22,us,west-virginia,39.10314817,-79.19440518,84054023,US,USA,840,54023.0,grant,"Grant, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.10314817,-79.19440518,84054023,US,USA,840,54023.0,grant,"Grant, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.10314817,-79.19440518,84054023,US,USA,840,54023.0,grant,"Grant, West Virginia, US",0,0,0.0,0.0
@@ -2834,6 +2902,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.10314817,-79.19440518,84054023,US,USA,840,54023.0,grant,"Grant, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,39.10314817,-79.19440518,84054023,US,USA,840,54023.0,grant,"Grant, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,39.10314817,-79.19440518,84054023,US,USA,840,54023.0,grant,"Grant, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,39.10314817,-79.19440518,84054023,US,USA,840,54023.0,grant,"Grant, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,39.10314817,-79.19440518,84054023,US,USA,840,54023.0,grant,"Grant, West Virginia, US",1,1,0.0,0.0
 2020-01-22,us,west-virginia,39.11240885,-79.57053576,84054093,US,USA,840,54093.0,tucker,"Tucker, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.11240885,-79.57053576,84054093,US,USA,840,54093.0,tucker,"Tucker, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.11240885,-79.57053576,84054093,US,USA,840,54093.0,tucker,"Tucker, West Virginia, US",0,0,0.0,0.0
@@ -2915,6 +2985,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.11240885,-79.57053576,84054093,US,USA,840,54093.0,tucker,"Tucker, West Virginia, US",3,0,0.0,0.0
 2020-04-10,us,west-virginia,39.11240885,-79.57053576,84054093,US,USA,840,54093.0,tucker,"Tucker, West Virginia, US",3,0,0.0,0.0
 2020-04-11,us,west-virginia,39.11240885,-79.57053576,84054093,US,USA,840,54093.0,tucker,"Tucker, West Virginia, US",3,0,0.0,0.0
+2020-04-12,us,west-virginia,39.11240885,-79.57053576,84054093,US,USA,840,54093.0,tucker,"Tucker, West Virginia, US",4,1,0.0,0.0
+2020-04-13,us,west-virginia,39.11240885,-79.57053576,84054093,US,USA,840,54093.0,tucker,"Tucker, West Virginia, US",4,0,0.0,0.0
 2020-01-22,us,west-virginia,39.1307219,-80.00350858,84054001,US,USA,840,54001.0,barbour,"Barbour, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.1307219,-80.00350858,84054001,US,USA,840,54001.0,barbour,"Barbour, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.1307219,-80.00350858,84054001,US,USA,840,54001.0,barbour,"Barbour, West Virginia, US",0,0,0.0,0.0
@@ -2996,6 +3068,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.1307219,-80.00350858,84054001,US,USA,840,54001.0,barbour,"Barbour, West Virginia, US",5,1,0.0,0.0
 2020-04-10,us,west-virginia,39.1307219,-80.00350858,84054001,US,USA,840,54001.0,barbour,"Barbour, West Virginia, US",4,-1,0.0,0.0
 2020-04-11,us,west-virginia,39.1307219,-80.00350858,84054001,US,USA,840,54001.0,barbour,"Barbour, West Virginia, US",4,0,0.0,0.0
+2020-04-12,us,west-virginia,39.1307219,-80.00350858,84054001,US,USA,840,54001.0,barbour,"Barbour, West Virginia, US",4,0,0.0,0.0
+2020-04-13,us,west-virginia,39.1307219,-80.00350858,84054001,US,USA,840,54001.0,barbour,"Barbour, West Virginia, US",4,0,0.0,0.0
 2020-01-22,us,west-virginia,39.18094587,-81.06356878,84054085,US,USA,840,54085.0,ritchie,"Ritchie, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.18094587,-81.06356878,84054085,US,USA,840,54085.0,ritchie,"Ritchie, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.18094587,-81.06356878,84054085,US,USA,840,54085.0,ritchie,"Ritchie, West Virginia, US",0,0,0.0,0.0
@@ -3077,6 +3151,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.18094587,-81.06356878,84054085,US,USA,840,54085.0,ritchie,"Ritchie, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,39.18094587,-81.06356878,84054085,US,USA,840,54085.0,ritchie,"Ritchie, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,39.18094587,-81.06356878,84054085,US,USA,840,54085.0,ritchie,"Ritchie, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,39.18094587,-81.06356878,84054085,US,USA,840,54085.0,ritchie,"Ritchie, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,39.18094587,-81.06356878,84054085,US,USA,840,54085.0,ritchie,"Ritchie, West Virginia, US",0,0,0.0,0.0
 2020-01-22,us,west-virginia,39.20967886,-81.5162836,84054107,US,USA,840,54107.0,wood,"Wood, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.20967886,-81.5162836,84054107,US,USA,840,54107.0,wood,"Wood, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.20967886,-81.5162836,84054107,US,USA,840,54107.0,wood,"Wood, West Virginia, US",0,0,0.0,0.0
@@ -3158,6 +3234,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.20967886,-81.5162836,84054107,US,USA,840,54107.0,wood,"Wood, West Virginia, US",14,0,0.0,0.0
 2020-04-10,us,west-virginia,39.20967886,-81.5162836,84054107,US,USA,840,54107.0,wood,"Wood, West Virginia, US",18,4,0.0,0.0
 2020-04-11,us,west-virginia,39.20967886,-81.5162836,84054107,US,USA,840,54107.0,wood,"Wood, West Virginia, US",18,0,0.0,0.0
+2020-04-12,us,west-virginia,39.20967886,-81.5162836,84054107,US,USA,840,54107.0,wood,"Wood, West Virginia, US",18,0,0.0,0.0
+2020-04-13,us,west-virginia,39.20967886,-81.5162836,84054107,US,USA,840,54107.0,wood,"Wood, West Virginia, US",18,0,0.0,0.0
 2020-01-22,us,west-virginia,39.27057157,-80.70671527,84054017,US,USA,840,54017.0,doddridge,"Doddridge, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.27057157,-80.70671527,84054017,US,USA,840,54017.0,doddridge,"Doddridge, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.27057157,-80.70671527,84054017,US,USA,840,54017.0,doddridge,"Doddridge, West Virginia, US",0,0,0.0,0.0
@@ -3239,6 +3317,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.27057157,-80.70671527,84054017,US,USA,840,54017.0,doddridge,"Doddridge, West Virginia, US",0,0,0.0,0.0
 2020-04-10,us,west-virginia,39.27057157,-80.70671527,84054017,US,USA,840,54017.0,doddridge,"Doddridge, West Virginia, US",0,0,0.0,0.0
 2020-04-11,us,west-virginia,39.27057157,-80.70671527,84054017,US,USA,840,54017.0,doddridge,"Doddridge, West Virginia, US",0,0,0.0,0.0
+2020-04-12,us,west-virginia,39.27057157,-80.70671527,84054017,US,USA,840,54017.0,doddridge,"Doddridge, West Virginia, US",0,0,0.0,0.0
+2020-04-13,us,west-virginia,39.27057157,-80.70671527,84054017,US,USA,840,54017.0,doddridge,"Doddridge, West Virginia, US",0,0,0.0,0.0
 2020-01-22,us,west-virginia,39.2853852,-80.37919577,84054033,US,USA,840,54033.0,harrison,"Harrison, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.2853852,-80.37919577,84054033,US,USA,840,54033.0,harrison,"Harrison, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.2853852,-80.37919577,84054033,US,USA,840,54033.0,harrison,"Harrison, West Virginia, US",0,0,0.0,0.0
@@ -3320,6 +3400,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.2853852,-80.37919577,84054033,US,USA,840,54033.0,harrison,"Harrison, West Virginia, US",29,0,1.0,0.0
 2020-04-10,us,west-virginia,39.2853852,-80.37919577,84054033,US,USA,840,54033.0,harrison,"Harrison, West Virginia, US",28,-1,1.0,0.0
 2020-04-11,us,west-virginia,39.2853852,-80.37919577,84054033,US,USA,840,54033.0,harrison,"Harrison, West Virginia, US",28,0,1.0,0.0
+2020-04-12,us,west-virginia,39.2853852,-80.37919577,84054033,US,USA,840,54033.0,harrison,"Harrison, West Virginia, US",28,0,1.0,0.0
+2020-04-13,us,west-virginia,39.2853852,-80.37919577,84054033,US,USA,840,54033.0,harrison,"Harrison, West Virginia, US",28,0,1.0,0.0
 2020-01-22,us,west-virginia,39.30776166,-77.86014147,84054037,US,USA,840,54037.0,jefferson,"Jefferson, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.30776166,-77.86014147,84054037,US,USA,840,54037.0,jefferson,"Jefferson, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.30776166,-77.86014147,84054037,US,USA,840,54037.0,jefferson,"Jefferson, West Virginia, US",0,0,0.0,0.0
@@ -3401,6 +3483,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.30776166,-77.86014147,84054037,US,USA,840,54037.0,jefferson,"Jefferson, West Virginia, US",45,7,0.0,0.0
 2020-04-10,us,west-virginia,39.30776166,-77.86014147,84054037,US,USA,840,54037.0,jefferson,"Jefferson, West Virginia, US",46,1,0.0,0.0
 2020-04-11,us,west-virginia,39.30776166,-77.86014147,84054037,US,USA,840,54037.0,jefferson,"Jefferson, West Virginia, US",46,0,0.0,0.0
+2020-04-12,us,west-virginia,39.30776166,-77.86014147,84054037,US,USA,840,54037.0,jefferson,"Jefferson, West Virginia, US",49,3,0.0,0.0
+2020-04-13,us,west-virginia,39.30776166,-77.86014147,84054037,US,USA,840,54037.0,jefferson,"Jefferson, West Virginia, US",49,0,0.0,0.0
 2020-01-22,us,west-virginia,39.32103553,-78.60826476,84054027,US,USA,840,54027.0,hampshire,"Hampshire, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.32103553,-78.60826476,84054027,US,USA,840,54027.0,hampshire,"Hampshire, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.32103553,-78.60826476,84054027,US,USA,840,54027.0,hampshire,"Hampshire, West Virginia, US",0,0,0.0,0.0
@@ -3482,6 +3566,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.32103553,-78.60826476,84054027,US,USA,840,54027.0,hampshire,"Hampshire, West Virginia, US",2,1,0.0,0.0
 2020-04-10,us,west-virginia,39.32103553,-78.60826476,84054027,US,USA,840,54027.0,hampshire,"Hampshire, West Virginia, US",3,1,0.0,0.0
 2020-04-11,us,west-virginia,39.32103553,-78.60826476,84054027,US,USA,840,54027.0,hampshire,"Hampshire, West Virginia, US",4,1,0.0,0.0
+2020-04-12,us,west-virginia,39.32103553,-78.60826476,84054027,US,USA,840,54027.0,hampshire,"Hampshire, West Virginia, US",4,0,0.0,0.0
+2020-04-13,us,west-virginia,39.32103553,-78.60826476,84054027,US,USA,840,54027.0,hampshire,"Hampshire, West Virginia, US",4,0,0.0,0.0
 2020-01-22,us,west-virginia,39.33602617,-80.0421439,84054091,US,USA,840,54091.0,taylor,"Taylor, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.33602617,-80.0421439,84054091,US,USA,840,54091.0,taylor,"Taylor, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.33602617,-80.0421439,84054091,US,USA,840,54091.0,taylor,"Taylor, West Virginia, US",0,0,0.0,0.0
@@ -3563,6 +3649,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.33602617,-80.0421439,84054091,US,USA,840,54091.0,taylor,"Taylor, West Virginia, US",3,0,0.0,0.0
 2020-04-10,us,west-virginia,39.33602617,-80.0421439,84054091,US,USA,840,54091.0,taylor,"Taylor, West Virginia, US",3,0,0.0,0.0
 2020-04-11,us,west-virginia,39.33602617,-80.0421439,84054091,US,USA,840,54091.0,taylor,"Taylor, West Virginia, US",3,0,0.0,0.0
+2020-04-12,us,west-virginia,39.33602617,-80.0421439,84054091,US,USA,840,54091.0,taylor,"Taylor, West Virginia, US",3,0,0.0,0.0
+2020-04-13,us,west-virginia,39.33602617,-80.0421439,84054091,US,USA,840,54091.0,taylor,"Taylor, West Virginia, US",3,0,0.0,0.0
 2020-01-22,us,west-virginia,39.37091679,-81.16771771,84054073,US,USA,840,54073.0,pleasants,"Pleasants, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.37091679,-81.16771771,84054073,US,USA,840,54073.0,pleasants,"Pleasants, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.37091679,-81.16771771,84054073,US,USA,840,54073.0,pleasants,"Pleasants, West Virginia, US",0,0,0.0,0.0
@@ -3644,6 +3732,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.37091679,-81.16771771,84054073,US,USA,840,54073.0,pleasants,"Pleasants, West Virginia, US",1,0,0.0,0.0
 2020-04-10,us,west-virginia,39.37091679,-81.16771771,84054073,US,USA,840,54073.0,pleasants,"Pleasants, West Virginia, US",1,0,0.0,0.0
 2020-04-11,us,west-virginia,39.37091679,-81.16771771,84054073,US,USA,840,54073.0,pleasants,"Pleasants, West Virginia, US",1,0,0.0,0.0
+2020-04-12,us,west-virginia,39.37091679,-81.16771771,84054073,US,USA,840,54073.0,pleasants,"Pleasants, West Virginia, US",1,0,0.0,0.0
+2020-04-13,us,west-virginia,39.37091679,-81.16771771,84054073,US,USA,840,54073.0,pleasants,"Pleasants, West Virginia, US",1,0,0.0,0.0
 2020-01-22,us,west-virginia,39.41561583,-78.94104895,84054057,US,USA,840,54057.0,mineral,"Mineral, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.41561583,-78.94104895,84054057,US,USA,840,54057.0,mineral,"Mineral, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.41561583,-78.94104895,84054057,US,USA,840,54057.0,mineral,"Mineral, West Virginia, US",0,0,0.0,0.0
@@ -3725,6 +3815,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.41561583,-78.94104895,84054057,US,USA,840,54057.0,mineral,"Mineral, West Virginia, US",3,0,0.0,0.0
 2020-04-10,us,west-virginia,39.41561583,-78.94104895,84054057,US,USA,840,54057.0,mineral,"Mineral, West Virginia, US",3,0,0.0,0.0
 2020-04-11,us,west-virginia,39.41561583,-78.94104895,84054057,US,USA,840,54057.0,mineral,"Mineral, West Virginia, US",4,1,0.0,0.0
+2020-04-12,us,west-virginia,39.41561583,-78.94104895,84054057,US,USA,840,54057.0,mineral,"Mineral, West Virginia, US",4,0,0.0,0.0
+2020-04-13,us,west-virginia,39.41561583,-78.94104895,84054057,US,USA,840,54057.0,mineral,"Mineral, West Virginia, US",4,0,0.0,0.0
 2020-01-22,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",0,0,0.0,0.0
@@ -3806,6 +3898,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",82,16,0.0,0.0
 2020-04-10,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",89,7,0.0,0.0
 2020-04-11,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",89,0,0.0,0.0
+2020-04-12,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",92,3,0.0,0.0
+2020-04-13,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",92,0,0.0,0.0
 2020-01-22,us,west-virginia,39.46770987,-79.66712803,84054077,US,USA,840,54077.0,preston,"Preston, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.46770987,-79.66712803,84054077,US,USA,840,54077.0,preston,"Preston, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.46770987,-79.66712803,84054077,US,USA,840,54077.0,preston,"Preston, West Virginia, US",0,0,0.0,0.0
@@ -3887,6 +3981,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.46770987,-79.66712803,84054077,US,USA,840,54077.0,preston,"Preston, West Virginia, US",6,0,0.0,0.0
 2020-04-10,us,west-virginia,39.46770987,-79.66712803,84054077,US,USA,840,54077.0,preston,"Preston, West Virginia, US",6,0,0.0,0.0
 2020-04-11,us,west-virginia,39.46770987,-79.66712803,84054077,US,USA,840,54077.0,preston,"Preston, West Virginia, US",6,0,0.0,0.0
+2020-04-12,us,west-virginia,39.46770987,-79.66712803,84054077,US,USA,840,54077.0,preston,"Preston, West Virginia, US",6,0,0.0,0.0
+2020-04-13,us,west-virginia,39.46770987,-79.66712803,84054077,US,USA,840,54077.0,preston,"Preston, West Virginia, US",6,0,0.0,0.0
 2020-01-22,us,west-virginia,39.46811972,-80.88772676,84054095,US,USA,840,54095.0,tyler,"Tyler, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.46811972,-80.88772676,84054095,US,USA,840,54095.0,tyler,"Tyler, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.46811972,-80.88772676,84054095,US,USA,840,54095.0,tyler,"Tyler, West Virginia, US",0,0,0.0,0.0
@@ -3968,6 +4064,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.46811972,-80.88772676,84054095,US,USA,840,54095.0,tyler,"Tyler, West Virginia, US",1,0,0.0,0.0
 2020-04-10,us,west-virginia,39.46811972,-80.88772676,84054095,US,USA,840,54095.0,tyler,"Tyler, West Virginia, US",3,2,0.0,0.0
 2020-04-11,us,west-virginia,39.46811972,-80.88772676,84054095,US,USA,840,54095.0,tyler,"Tyler, West Virginia, US",3,0,0.0,0.0
+2020-04-12,us,west-virginia,39.46811972,-80.88772676,84054095,US,USA,840,54095.0,tyler,"Tyler, West Virginia, US",3,0,0.0,0.0
+2020-04-13,us,west-virginia,39.46811972,-80.88772676,84054095,US,USA,840,54095.0,tyler,"Tyler, West Virginia, US",3,0,0.0,0.0
 2020-01-22,us,west-virginia,39.50984542,-80.24244659,84054049,US,USA,840,54049.0,marion,"Marion, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.50984542,-80.24244659,84054049,US,USA,840,54049.0,marion,"Marion, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.50984542,-80.24244659,84054049,US,USA,840,54049.0,marion,"Marion, West Virginia, US",0,0,0.0,0.0
@@ -4049,6 +4147,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.50984542,-80.24244659,84054049,US,USA,840,54049.0,marion,"Marion, West Virginia, US",31,1,1.0,0.0
 2020-04-10,us,west-virginia,39.50984542,-80.24244659,84054049,US,USA,840,54049.0,marion,"Marion, West Virginia, US",32,1,1.0,0.0
 2020-04-11,us,west-virginia,39.50984542,-80.24244659,84054049,US,USA,840,54049.0,marion,"Marion, West Virginia, US",32,0,1.0,0.0
+2020-04-12,us,west-virginia,39.50984542,-80.24244659,84054049,US,USA,840,54049.0,marion,"Marion, West Virginia, US",32,0,1.0,0.0
+2020-04-13,us,west-virginia,39.50984542,-80.24244659,84054049,US,USA,840,54049.0,marion,"Marion, West Virginia, US",34,2,1.0,0.0
 2020-01-22,us,west-virginia,39.55439028,-78.26311676,84054065,US,USA,840,54065.0,morgan,"Morgan, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.55439028,-78.26311676,84054065,US,USA,840,54065.0,morgan,"Morgan, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.55439028,-78.26311676,84054065,US,USA,840,54065.0,morgan,"Morgan, West Virginia, US",0,0,0.0,0.0
@@ -4130,6 +4230,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.55439028,-78.26311676,84054065,US,USA,840,54065.0,morgan,"Morgan, West Virginia, US",4,0,0.0,0.0
 2020-04-10,us,west-virginia,39.55439028,-78.26311676,84054065,US,USA,840,54065.0,morgan,"Morgan, West Virginia, US",5,1,0.0,0.0
 2020-04-11,us,west-virginia,39.55439028,-78.26311676,84054065,US,USA,840,54065.0,morgan,"Morgan, West Virginia, US",6,1,0.0,0.0
+2020-04-12,us,west-virginia,39.55439028,-78.26311676,84054065,US,USA,840,54065.0,morgan,"Morgan, West Virginia, US",6,0,0.0,0.0
+2020-04-13,us,west-virginia,39.55439028,-78.26311676,84054065,US,USA,840,54065.0,morgan,"Morgan, West Virginia, US",6,0,0.0,0.0
 2020-01-22,us,west-virginia,39.6065771,-80.64016540000001,84054103,US,USA,840,54103.0,wetzel,"Wetzel, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.6065771,-80.64016540000001,84054103,US,USA,840,54103.0,wetzel,"Wetzel, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.6065771,-80.64016540000001,84054103,US,USA,840,54103.0,wetzel,"Wetzel, West Virginia, US",0,0,0.0,0.0
@@ -4211,6 +4313,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.6065771,-80.64016540000001,84054103,US,USA,840,54103.0,wetzel,"Wetzel, West Virginia, US",3,0,0.0,0.0
 2020-04-10,us,west-virginia,39.6065771,-80.64016540000001,84054103,US,USA,840,54103.0,wetzel,"Wetzel, West Virginia, US",3,0,0.0,0.0
 2020-04-11,us,west-virginia,39.6065771,-80.64016540000001,84054103,US,USA,840,54103.0,wetzel,"Wetzel, West Virginia, US",3,0,0.0,0.0
+2020-04-12,us,west-virginia,39.6065771,-80.64016540000001,84054103,US,USA,840,54103.0,wetzel,"Wetzel, West Virginia, US",3,0,0.0,0.0
+2020-04-13,us,west-virginia,39.6065771,-80.64016540000001,84054103,US,USA,840,54103.0,wetzel,"Wetzel, West Virginia, US",3,0,0.0,0.0
 2020-01-22,us,west-virginia,39.63218457,-80.04766838,84054061,US,USA,840,54061.0,monongalia,"Monongalia, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.63218457,-80.04766838,84054061,US,USA,840,54061.0,monongalia,"Monongalia, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.63218457,-80.04766838,84054061,US,USA,840,54061.0,monongalia,"Monongalia, West Virginia, US",0,0,0.0,0.0
@@ -4292,6 +4396,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.63218457,-80.04766838,84054061,US,USA,840,54061.0,monongalia,"Monongalia, West Virginia, US",76,8,1.0,0.0
 2020-04-10,us,west-virginia,39.63218457,-80.04766838,84054061,US,USA,840,54061.0,monongalia,"Monongalia, West Virginia, US",78,2,1.0,0.0
 2020-04-11,us,west-virginia,39.63218457,-80.04766838,84054061,US,USA,840,54061.0,monongalia,"Monongalia, West Virginia, US",78,0,1.0,0.0
+2020-04-12,us,west-virginia,39.63218457,-80.04766838,84054061,US,USA,840,54061.0,monongalia,"Monongalia, West Virginia, US",81,3,1.0,0.0
+2020-04-13,us,west-virginia,39.63218457,-80.04766838,84054061,US,USA,840,54061.0,monongalia,"Monongalia, West Virginia, US",83,2,2.0,1.0
 2020-01-22,us,west-virginia,39.86064362,-80.66591062,84054051,US,USA,840,54051.0,marshall,"Marshall, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,39.86064362,-80.66591062,84054051,US,USA,840,54051.0,marshall,"Marshall, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,39.86064362,-80.66591062,84054051,US,USA,840,54051.0,marshall,"Marshall, West Virginia, US",0,0,0.0,0.0
@@ -4373,6 +4479,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,39.86064362,-80.66591062,84054051,US,USA,840,54051.0,marshall,"Marshall, West Virginia, US",5,0,0.0,0.0
 2020-04-10,us,west-virginia,39.86064362,-80.66591062,84054051,US,USA,840,54051.0,marshall,"Marshall, West Virginia, US",6,1,0.0,0.0
 2020-04-11,us,west-virginia,39.86064362,-80.66591062,84054051,US,USA,840,54051.0,marshall,"Marshall, West Virginia, US",6,0,0.0,0.0
+2020-04-12,us,west-virginia,39.86064362,-80.66591062,84054051,US,USA,840,54051.0,marshall,"Marshall, West Virginia, US",6,0,0.0,0.0
+2020-04-13,us,west-virginia,39.86064362,-80.66591062,84054051,US,USA,840,54051.0,marshall,"Marshall, West Virginia, US",6,0,0.0,0.0
 2020-01-22,us,west-virginia,40.0955451,-80.62203992,84054069,US,USA,840,54069.0,ohio,"Ohio, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,40.0955451,-80.62203992,84054069,US,USA,840,54069.0,ohio,"Ohio, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,40.0955451,-80.62203992,84054069,US,USA,840,54069.0,ohio,"Ohio, West Virginia, US",0,0,0.0,0.0
@@ -4454,6 +4562,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,40.0955451,-80.62203992,84054069,US,USA,840,54069.0,ohio,"Ohio, West Virginia, US",20,2,0.0,0.0
 2020-04-10,us,west-virginia,40.0955451,-80.62203992,84054069,US,USA,840,54069.0,ohio,"Ohio, West Virginia, US",21,1,0.0,0.0
 2020-04-11,us,west-virginia,40.0955451,-80.62203992,84054069,US,USA,840,54069.0,ohio,"Ohio, West Virginia, US",21,0,0.0,0.0
+2020-04-12,us,west-virginia,40.0955451,-80.62203992,84054069,US,USA,840,54069.0,ohio,"Ohio, West Virginia, US",21,0,0.0,0.0
+2020-04-13,us,west-virginia,40.0955451,-80.62203992,84054069,US,USA,840,54069.0,ohio,"Ohio, West Virginia, US",25,4,0.0,0.0
 2020-01-22,us,west-virginia,40.27367263,-80.57915332,84054009,US,USA,840,54009.0,brooke,"Brooke, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,40.27367263,-80.57915332,84054009,US,USA,840,54009.0,brooke,"Brooke, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,40.27367263,-80.57915332,84054009,US,USA,840,54009.0,brooke,"Brooke, West Virginia, US",0,0,0.0,0.0
@@ -4535,6 +4645,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,40.27367263,-80.57915332,84054009,US,USA,840,54009.0,brooke,"Brooke, West Virginia, US",2,1,0.0,0.0
 2020-04-10,us,west-virginia,40.27367263,-80.57915332,84054009,US,USA,840,54009.0,brooke,"Brooke, West Virginia, US",3,1,0.0,0.0
 2020-04-11,us,west-virginia,40.27367263,-80.57915332,84054009,US,USA,840,54009.0,brooke,"Brooke, West Virginia, US",3,0,0.0,0.0
+2020-04-12,us,west-virginia,40.27367263,-80.57915332,84054009,US,USA,840,54009.0,brooke,"Brooke, West Virginia, US",3,0,0.0,0.0
+2020-04-13,us,west-virginia,40.27367263,-80.57915332,84054009,US,USA,840,54009.0,brooke,"Brooke, West Virginia, US",3,0,0.0,0.0
 2020-01-22,us,west-virginia,40.51943859,-80.57461608,84054029,US,USA,840,54029.0,hancock,"Hancock, West Virginia, US",0,0,0.0,0.0
 2020-01-23,us,west-virginia,40.51943859,-80.57461608,84054029,US,USA,840,54029.0,hancock,"Hancock, West Virginia, US",0,0,0.0,0.0
 2020-01-24,us,west-virginia,40.51943859,-80.57461608,84054029,US,USA,840,54029.0,hancock,"Hancock, West Virginia, US",0,0,0.0,0.0
@@ -4616,3 +4728,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,west-virginia,40.51943859,-80.57461608,84054029,US,USA,840,54029.0,hancock,"Hancock, West Virginia, US",7,0,0.0,0.0
 2020-04-10,us,west-virginia,40.51943859,-80.57461608,84054029,US,USA,840,54029.0,hancock,"Hancock, West Virginia, US",7,0,0.0,0.0
 2020-04-11,us,west-virginia,40.51943859,-80.57461608,84054029,US,USA,840,54029.0,hancock,"Hancock, West Virginia, US",7,0,0.0,0.0
+2020-04-12,us,west-virginia,40.51943859,-80.57461608,84054029,US,USA,840,54029.0,hancock,"Hancock, West Virginia, US",7,0,0.0,0.0
+2020-04-13,us,west-virginia,40.51943859,-80.57461608,84054029,US,USA,840,54029.0,hancock,"Hancock, West Virginia, US",7,0,0.0,0.0

@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,dekalb,"DeKalb,Tennessee,US",7,0,0.0,0.0
 2020-04-10,us,tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,dekalb,"DeKalb,Tennessee,US",8,1,0.0,0.0
 2020-04-11,us,tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,dekalb,"DeKalb,Tennessee,US",9,1,0.0,0.0
+2020-04-12,us,tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,dekalb,"DeKalb,Tennessee,US",9,0,0.0,0.0
+2020-04-13,us,tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,dekalb,"DeKalb,Tennessee,US",10,1,0.0,0.0

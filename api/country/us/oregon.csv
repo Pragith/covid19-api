@@ -80,6 +80,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,0.0,0.0,84080041,US,USA,840,80041.0,out-of-or,"Out of OR, Oregon, US",0,0,0.0,0.0
 2020-04-10,us,oregon,0.0,0.0,84080041,US,USA,840,80041.0,out-of-or,"Out of OR, Oregon, US",0,0,0.0,0.0
 2020-04-11,us,oregon,0.0,0.0,84080041,US,USA,840,80041.0,out-of-or,"Out of OR, Oregon, US",0,0,0.0,0.0
+2020-04-12,us,oregon,0.0,0.0,84080041,US,USA,840,80041.0,out-of-or,"Out of OR, Oregon, US",0,0,0.0,0.0
+2020-04-13,us,oregon,0.0,0.0,84080041,US,USA,840,80041.0,out-of-or,"Out of OR, Oregon, US",0,0,0.0,0.0
 2020-01-22,us,oregon,0.0,0.0,84090041,US,USA,840,90041.0,unassigned,"Unassigned, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,0.0,0.0,84090041,US,USA,840,90041.0,unassigned,"Unassigned, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,0.0,0.0,84090041,US,USA,840,90041.0,unassigned,"Unassigned, Oregon, US",0,0,0.0,0.0
@@ -161,6 +163,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,0.0,0.0,84090041,US,USA,840,90041.0,unassigned,"Unassigned, Oregon, US",0,0,1.0,1.0
 2020-04-10,us,oregon,0.0,0.0,84090041,US,USA,840,90041.0,unassigned,"Unassigned, Oregon, US",0,0,1.0,0.0
 2020-04-11,us,oregon,0.0,0.0,84090041,US,USA,840,90041.0,unassigned,"Unassigned, Oregon, US",0,0,0.0,-1.0
+2020-04-12,us,oregon,0.0,0.0,84090041,US,USA,840,90041.0,unassigned,"Unassigned, Oregon, US",1,1,0.0,0.0
+2020-04-13,us,oregon,0.0,0.0,84090041,US,USA,840,90041.0,unassigned,"Unassigned, Oregon, US",0,-1,0.0,0.0
 2020-01-22,us,oregon,42.3665549,-123.5561938,84041033,US,USA,840,41033.0,josephine,"Josephine, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,42.3665549,-123.5561938,84041033,US,USA,840,41033.0,josephine,"Josephine, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,42.3665549,-123.5561938,84041033,US,USA,840,41033.0,josephine,"Josephine, Oregon, US",0,0,0.0,0.0
@@ -242,6 +246,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,42.3665549,-123.5561938,84041033,US,USA,840,41033.0,josephine,"Josephine, Oregon, US",16,0,0.0,0.0
 2020-04-10,us,oregon,42.3665549,-123.5561938,84041033,US,USA,840,41033.0,josephine,"Josephine, Oregon, US",16,0,0.0,0.0
 2020-04-11,us,oregon,42.3665549,-123.5561938,84041033,US,USA,840,41033.0,josephine,"Josephine, Oregon, US",17,1,0.0,0.0
+2020-04-12,us,oregon,42.3665549,-123.5561938,84041033,US,USA,840,41033.0,josephine,"Josephine, Oregon, US",18,1,1.0,1.0
+2020-04-13,us,oregon,42.3665549,-123.5561938,84041033,US,USA,840,41033.0,josephine,"Josephine, Oregon, US",19,1,1.0,0.0
 2020-01-22,us,oregon,42.43201126,-122.7289309,84041029,US,USA,840,41029.0,jackson,"Jackson, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,42.43201126,-122.7289309,84041029,US,USA,840,41029.0,jackson,"Jackson, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,42.43201126,-122.7289309,84041029,US,USA,840,41029.0,jackson,"Jackson, Oregon, US",0,0,0.0,0.0
@@ -323,6 +329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,42.43201126,-122.7289309,84041029,US,USA,840,41029.0,jackson,"Jackson, Oregon, US",44,5,0.0,0.0
 2020-04-10,us,oregon,42.43201126,-122.7289309,84041029,US,USA,840,41029.0,jackson,"Jackson, Oregon, US",44,0,0.0,0.0
 2020-04-11,us,oregon,42.43201126,-122.7289309,84041029,US,USA,840,41029.0,jackson,"Jackson, Oregon, US",44,0,0.0,0.0
+2020-04-12,us,oregon,42.43201126,-122.7289309,84041029,US,USA,840,41029.0,jackson,"Jackson, Oregon, US",46,2,0.0,0.0
+2020-04-13,us,oregon,42.43201126,-122.7289309,84041029,US,USA,840,41029.0,jackson,"Jackson, Oregon, US",47,1,0.0,0.0
 2020-01-22,us,oregon,42.45911325,-124.157282,84041015,US,USA,840,41015.0,curry,"Curry, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,42.45911325,-124.157282,84041015,US,USA,840,41015.0,curry,"Curry, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,42.45911325,-124.157282,84041015,US,USA,840,41015.0,curry,"Curry, Oregon, US",0,0,0.0,0.0
@@ -404,6 +412,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,42.45911325,-124.157282,84041015,US,USA,840,41015.0,curry,"Curry, Oregon, US",3,1,0.0,0.0
 2020-04-10,us,oregon,42.45911325,-124.157282,84041015,US,USA,840,41015.0,curry,"Curry, Oregon, US",3,0,0.0,0.0
 2020-04-11,us,oregon,42.45911325,-124.157282,84041015,US,USA,840,41015.0,curry,"Curry, Oregon, US",3,0,0.0,0.0
+2020-04-12,us,oregon,42.45911325,-124.157282,84041015,US,USA,840,41015.0,curry,"Curry, Oregon, US",3,0,0.0,0.0
+2020-04-13,us,oregon,42.45911325,-124.157282,84041015,US,USA,840,41015.0,curry,"Curry, Oregon, US",3,0,0.0,0.0
 2020-01-22,us,oregon,42.68762984,-121.64964609999998,84041035,US,USA,840,41035.0,klamath,"Klamath, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,42.68762984,-121.64964609999998,84041035,US,USA,840,41035.0,klamath,"Klamath, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,42.68762984,-121.64964609999998,84041035,US,USA,840,41035.0,klamath,"Klamath, Oregon, US",0,0,0.0,0.0
@@ -485,6 +495,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,42.68762984,-121.64964609999998,84041035,US,USA,840,41035.0,klamath,"Klamath, Oregon, US",20,1,0.0,0.0
 2020-04-10,us,oregon,42.68762984,-121.64964609999998,84041035,US,USA,840,41035.0,klamath,"Klamath, Oregon, US",20,0,0.0,0.0
 2020-04-11,us,oregon,42.68762984,-121.64964609999998,84041035,US,USA,840,41035.0,klamath,"Klamath, Oregon, US",24,4,0.0,0.0
+2020-04-12,us,oregon,42.68762984,-121.64964609999998,84041035,US,USA,840,41035.0,klamath,"Klamath, Oregon, US",25,1,0.0,0.0
+2020-04-13,us,oregon,42.68762984,-121.64964609999998,84041035,US,USA,840,41035.0,klamath,"Klamath, Oregon, US",25,0,0.0,0.0
 2020-01-22,us,oregon,42.79246693,-120.3850163,84041037,US,USA,840,41037.0,lake,"Lake, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,42.79246693,-120.3850163,84041037,US,USA,840,41037.0,lake,"Lake, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,42.79246693,-120.3850163,84041037,US,USA,840,41037.0,lake,"Lake, Oregon, US",0,0,0.0,0.0
@@ -566,6 +578,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,42.79246693,-120.3850163,84041037,US,USA,840,41037.0,lake,"Lake, Oregon, US",0,0,0.0,0.0
 2020-04-10,us,oregon,42.79246693,-120.3850163,84041037,US,USA,840,41037.0,lake,"Lake, Oregon, US",0,0,0.0,0.0
 2020-04-11,us,oregon,42.79246693,-120.3850163,84041037,US,USA,840,41037.0,lake,"Lake, Oregon, US",0,0,0.0,0.0
+2020-04-12,us,oregon,42.79246693,-120.3850163,84041037,US,USA,840,41037.0,lake,"Lake, Oregon, US",0,0,0.0,0.0
+2020-04-13,us,oregon,42.79246693,-120.3850163,84041037,US,USA,840,41037.0,lake,"Lake, Oregon, US",0,0,0.0,0.0
 2020-01-22,us,oregon,43.06422669,-118.9666306,84041025,US,USA,840,41025.0,harney,"Harney, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,43.06422669,-118.9666306,84041025,US,USA,840,41025.0,harney,"Harney, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,43.06422669,-118.9666306,84041025,US,USA,840,41025.0,harney,"Harney, Oregon, US",0,0,0.0,0.0
@@ -647,6 +661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,43.06422669,-118.9666306,84041025,US,USA,840,41025.0,harney,"Harney, Oregon, US",0,0,0.0,0.0
 2020-04-10,us,oregon,43.06422669,-118.9666306,84041025,US,USA,840,41025.0,harney,"Harney, Oregon, US",0,0,0.0,0.0
 2020-04-11,us,oregon,43.06422669,-118.9666306,84041025,US,USA,840,41025.0,harney,"Harney, Oregon, US",0,0,0.0,0.0
+2020-04-12,us,oregon,43.06422669,-118.9666306,84041025,US,USA,840,41025.0,harney,"Harney, Oregon, US",0,0,0.0,0.0
+2020-04-13,us,oregon,43.06422669,-118.9666306,84041025,US,USA,840,41025.0,harney,"Harney, Oregon, US",0,0,0.0,0.0
 2020-01-22,us,oregon,43.17406868,-124.0594514,84041011,US,USA,840,41011.0,coos,"Coos, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,43.17406868,-124.0594514,84041011,US,USA,840,41011.0,coos,"Coos, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,43.17406868,-124.0594514,84041011,US,USA,840,41011.0,coos,"Coos, Oregon, US",0,0,0.0,0.0
@@ -728,6 +744,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,43.17406868,-124.0594514,84041011,US,USA,840,41011.0,coos,"Coos, Oregon, US",0,0,0.0,0.0
 2020-04-10,us,oregon,43.17406868,-124.0594514,84041011,US,USA,840,41011.0,coos,"Coos, Oregon, US",0,0,0.0,0.0
 2020-04-11,us,oregon,43.17406868,-124.0594514,84041011,US,USA,840,41011.0,coos,"Coos, Oregon, US",0,0,0.0,0.0
+2020-04-12,us,oregon,43.17406868,-124.0594514,84041011,US,USA,840,41011.0,coos,"Coos, Oregon, US",0,0,0.0,0.0
+2020-04-13,us,oregon,43.17406868,-124.0594514,84041011,US,USA,840,41011.0,coos,"Coos, Oregon, US",1,1,0.0,0.0
 2020-01-22,us,oregon,43.1937027,-117.6227395,84041045,US,USA,840,41045.0,malheur,"Malheur, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,43.1937027,-117.6227395,84041045,US,USA,840,41045.0,malheur,"Malheur, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,43.1937027,-117.6227395,84041045,US,USA,840,41045.0,malheur,"Malheur, Oregon, US",0,0,0.0,0.0
@@ -809,6 +827,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,43.1937027,-117.6227395,84041045,US,USA,840,41045.0,malheur,"Malheur, Oregon, US",2,0,0.0,0.0
 2020-04-10,us,oregon,43.1937027,-117.6227395,84041045,US,USA,840,41045.0,malheur,"Malheur, Oregon, US",2,0,0.0,0.0
 2020-04-11,us,oregon,43.1937027,-117.6227395,84041045,US,USA,840,41045.0,malheur,"Malheur, Oregon, US",2,0,0.0,0.0
+2020-04-12,us,oregon,43.1937027,-117.6227395,84041045,US,USA,840,41045.0,malheur,"Malheur, Oregon, US",4,2,0.0,0.0
+2020-04-13,us,oregon,43.1937027,-117.6227395,84041045,US,USA,840,41045.0,malheur,"Malheur, Oregon, US",4,0,0.0,0.0
 2020-01-22,us,oregon,43.27941273,-123.167291,84041019,US,USA,840,41019.0,douglas,"Douglas, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,43.27941273,-123.167291,84041019,US,USA,840,41019.0,douglas,"Douglas, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,43.27941273,-123.167291,84041019,US,USA,840,41019.0,douglas,"Douglas, Oregon, US",0,0,0.0,0.0
@@ -890,6 +910,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,43.27941273,-123.167291,84041019,US,USA,840,41019.0,douglas,"Douglas, Oregon, US",12,0,0.0,0.0
 2020-04-10,us,oregon,43.27941273,-123.167291,84041019,US,USA,840,41019.0,douglas,"Douglas, Oregon, US",12,0,0.0,0.0
 2020-04-11,us,oregon,43.27941273,-123.167291,84041019,US,USA,840,41019.0,douglas,"Douglas, Oregon, US",12,0,0.0,0.0
+2020-04-12,us,oregon,43.27941273,-123.167291,84041019,US,USA,840,41019.0,douglas,"Douglas, Oregon, US",14,2,0.0,0.0
+2020-04-13,us,oregon,43.27941273,-123.167291,84041019,US,USA,840,41019.0,douglas,"Douglas, Oregon, US",16,2,0.0,0.0
 2020-01-22,us,oregon,43.91570171,-121.2289121,84041017,US,USA,840,41017.0,deschutes,"Deschutes, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,43.91570171,-121.2289121,84041017,US,USA,840,41017.0,deschutes,"Deschutes, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,43.91570171,-121.2289121,84041017,US,USA,840,41017.0,deschutes,"Deschutes, Oregon, US",0,0,0.0,0.0
@@ -971,6 +993,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,43.91570171,-121.2289121,84041017,US,USA,840,41017.0,deschutes,"Deschutes, Oregon, US",50,6,0.0,0.0
 2020-04-10,us,oregon,43.91570171,-121.2289121,84041017,US,USA,840,41017.0,deschutes,"Deschutes, Oregon, US",50,0,0.0,0.0
 2020-04-11,us,oregon,43.91570171,-121.2289121,84041017,US,USA,840,41017.0,deschutes,"Deschutes, Oregon, US",51,1,0.0,0.0
+2020-04-12,us,oregon,43.91570171,-121.2289121,84041017,US,USA,840,41017.0,deschutes,"Deschutes, Oregon, US",54,3,0.0,0.0
+2020-04-13,us,oregon,43.91570171,-121.2289121,84041017,US,USA,840,41017.0,deschutes,"Deschutes, Oregon, US",54,0,0.0,0.0
 2020-01-22,us,oregon,43.93727035,-122.847753,84041039,US,USA,840,41039.0,lane,"Lane, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,43.93727035,-122.847753,84041039,US,USA,840,41039.0,lane,"Lane, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,43.93727035,-122.847753,84041039,US,USA,840,41039.0,lane,"Lane, Oregon, US",0,0,0.0,0.0
@@ -1052,6 +1076,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,43.93727035,-122.847753,84041039,US,USA,840,41039.0,lane,"Lane, Oregon, US",33,3,1.0,0.0
 2020-04-10,us,oregon,43.93727035,-122.847753,84041039,US,USA,840,41039.0,lane,"Lane, Oregon, US",33,0,1.0,0.0
 2020-04-11,us,oregon,43.93727035,-122.847753,84041039,US,USA,840,41039.0,lane,"Lane, Oregon, US",34,1,1.0,0.0
+2020-04-12,us,oregon,43.93727035,-122.847753,84041039,US,USA,840,41039.0,lane,"Lane, Oregon, US",37,3,1.0,0.0
+2020-04-13,us,oregon,43.93727035,-122.847753,84041039,US,USA,840,41039.0,lane,"Lane, Oregon, US",41,4,1.0,0.0
 2020-01-22,us,oregon,44.14230227,-120.356297,84041013,US,USA,840,41013.0,crook,"Crook, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,44.14230227,-120.356297,84041013,US,USA,840,41013.0,crook,"Crook, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,44.14230227,-120.356297,84041013,US,USA,840,41013.0,crook,"Crook, Oregon, US",0,0,0.0,0.0
@@ -1133,6 +1159,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,44.14230227,-120.356297,84041013,US,USA,840,41013.0,crook,"Crook, Oregon, US",1,0,0.0,0.0
 2020-04-10,us,oregon,44.14230227,-120.356297,84041013,US,USA,840,41013.0,crook,"Crook, Oregon, US",1,0,0.0,0.0
 2020-04-11,us,oregon,44.14230227,-120.356297,84041013,US,USA,840,41013.0,crook,"Crook, Oregon, US",1,0,0.0,0.0
+2020-04-12,us,oregon,44.14230227,-120.356297,84041013,US,USA,840,41013.0,crook,"Crook, Oregon, US",1,0,0.0,0.0
+2020-04-13,us,oregon,44.14230227,-120.356297,84041013,US,USA,840,41013.0,crook,"Crook, Oregon, US",1,0,0.0,0.0
 2020-01-22,us,oregon,44.48899494,-122.5373154,84041043,US,USA,840,41043.0,linn,"Linn, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,44.48899494,-122.5373154,84041043,US,USA,840,41043.0,linn,"Linn, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,44.48899494,-122.5373154,84041043,US,USA,840,41043.0,linn,"Linn, Oregon, US",0,0,0.0,0.0
@@ -1214,6 +1242,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,44.48899494,-122.5373154,84041043,US,USA,840,41043.0,linn,"Linn, Oregon, US",49,4,0.0,0.0
 2020-04-10,us,oregon,44.48899494,-122.5373154,84041043,US,USA,840,41043.0,linn,"Linn, Oregon, US",49,0,0.0,0.0
 2020-04-11,us,oregon,44.48899494,-122.5373154,84041043,US,USA,840,41043.0,linn,"Linn, Oregon, US",49,0,0.0,0.0
+2020-04-12,us,oregon,44.48899494,-122.5373154,84041043,US,USA,840,41043.0,linn,"Linn, Oregon, US",52,3,0.0,0.0
+2020-04-13,us,oregon,44.48899494,-122.5373154,84041043,US,USA,840,41043.0,linn,"Linn, Oregon, US",52,0,0.0,0.0
 2020-01-22,us,oregon,44.49024544,-119.0068631,84041023,US,USA,840,41023.0,grant,"Grant, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,44.49024544,-119.0068631,84041023,US,USA,840,41023.0,grant,"Grant, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,44.49024544,-119.0068631,84041023,US,USA,840,41023.0,grant,"Grant, Oregon, US",0,0,0.0,0.0
@@ -1295,6 +1325,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,44.49024544,-119.0068631,84041023,US,USA,840,41023.0,grant,"Grant, Oregon, US",1,0,0.0,0.0
 2020-04-10,us,oregon,44.49024544,-119.0068631,84041023,US,USA,840,41023.0,grant,"Grant, Oregon, US",1,0,0.0,0.0
 2020-04-11,us,oregon,44.49024544,-119.0068631,84041023,US,USA,840,41023.0,grant,"Grant, Oregon, US",1,0,0.0,0.0
+2020-04-12,us,oregon,44.49024544,-119.0068631,84041023,US,USA,840,41023.0,grant,"Grant, Oregon, US",1,0,0.0,0.0
+2020-04-13,us,oregon,44.49024544,-119.0068631,84041023,US,USA,840,41023.0,grant,"Grant, Oregon, US",1,0,0.0,0.0
 2020-01-22,us,oregon,44.49167306,-123.4316987,84041003,US,USA,840,41003.0,benton,"Benton, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,44.49167306,-123.4316987,84041003,US,USA,840,41003.0,benton,"Benton, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,44.49167306,-123.4316987,84041003,US,USA,840,41003.0,benton,"Benton, Oregon, US",0,0,0.0,0.0
@@ -1376,6 +1408,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,44.49167306,-123.4316987,84041003,US,USA,840,41003.0,benton,"Benton, Oregon, US",21,0,1.0,0.0
 2020-04-10,us,oregon,44.49167306,-123.4316987,84041003,US,USA,840,41003.0,benton,"Benton, Oregon, US",21,0,1.0,0.0
 2020-04-11,us,oregon,44.49167306,-123.4316987,84041003,US,USA,840,41003.0,benton,"Benton, Oregon, US",21,0,2.0,1.0
+2020-04-12,us,oregon,44.49167306,-123.4316987,84041003,US,USA,840,41003.0,benton,"Benton, Oregon, US",23,2,2.0,0.0
+2020-04-13,us,oregon,44.49167306,-123.4316987,84041003,US,USA,840,41003.0,benton,"Benton, Oregon, US",23,0,2.0,0.0
 2020-01-22,us,oregon,44.62806839,-121.17832,84041031,US,USA,840,41031.0,jefferson,"Jefferson, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,44.62806839,-121.17832,84041031,US,USA,840,41031.0,jefferson,"Jefferson, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,44.62806839,-121.17832,84041031,US,USA,840,41031.0,jefferson,"Jefferson, Oregon, US",0,0,0.0,0.0
@@ -1457,6 +1491,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,44.62806839,-121.17832,84041031,US,USA,840,41031.0,jefferson,"Jefferson, Oregon, US",0,0,0.0,0.0
 2020-04-10,us,oregon,44.62806839,-121.17832,84041031,US,USA,840,41031.0,jefferson,"Jefferson, Oregon, US",0,0,0.0,0.0
 2020-04-11,us,oregon,44.62806839,-121.17832,84041031,US,USA,840,41031.0,jefferson,"Jefferson, Oregon, US",0,0,0.0,0.0
+2020-04-12,us,oregon,44.62806839,-121.17832,84041031,US,USA,840,41031.0,jefferson,"Jefferson, Oregon, US",0,0,0.0,0.0
+2020-04-13,us,oregon,44.62806839,-121.17832,84041031,US,USA,840,41031.0,jefferson,"Jefferson, Oregon, US",0,0,0.0,0.0
 2020-01-22,us,oregon,44.64252874,-123.869912,84041041,US,USA,840,41041.0,lincoln,"Lincoln, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,44.64252874,-123.869912,84041041,US,USA,840,41041.0,lincoln,"Lincoln, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,44.64252874,-123.869912,84041041,US,USA,840,41041.0,lincoln,"Lincoln, Oregon, US",0,0,0.0,0.0
@@ -1538,6 +1574,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,44.64252874,-123.869912,84041041,US,USA,840,41041.0,lincoln,"Lincoln, Oregon, US",4,0,0.0,0.0
 2020-04-10,us,oregon,44.64252874,-123.869912,84041041,US,USA,840,41041.0,lincoln,"Lincoln, Oregon, US",4,0,0.0,0.0
 2020-04-11,us,oregon,44.64252874,-123.869912,84041041,US,USA,840,41041.0,lincoln,"Lincoln, Oregon, US",4,0,0.0,0.0
+2020-04-12,us,oregon,44.64252874,-123.869912,84041041,US,USA,840,41041.0,lincoln,"Lincoln, Oregon, US",4,0,0.0,0.0
+2020-04-13,us,oregon,44.64252874,-123.869912,84041041,US,USA,840,41041.0,lincoln,"Lincoln, Oregon, US",4,0,0.0,0.0
 2020-01-22,us,oregon,44.70915557,-117.6749883,84041001,US,USA,840,41001.0,baker,"Baker, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,44.70915557,-117.6749883,84041001,US,USA,840,41001.0,baker,"Baker, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,44.70915557,-117.6749883,84041001,US,USA,840,41001.0,baker,"Baker, Oregon, US",0,0,0.0,0.0
@@ -1619,6 +1657,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,44.70915557,-117.6749883,84041001,US,USA,840,41001.0,baker,"Baker, Oregon, US",0,0,0.0,0.0
 2020-04-10,us,oregon,44.70915557,-117.6749883,84041001,US,USA,840,41001.0,baker,"Baker, Oregon, US",0,0,0.0,0.0
 2020-04-11,us,oregon,44.70915557,-117.6749883,84041001,US,USA,840,41001.0,baker,"Baker, Oregon, US",0,0,0.0,0.0
+2020-04-12,us,oregon,44.70915557,-117.6749883,84041001,US,USA,840,41001.0,baker,"Baker, Oregon, US",0,0,0.0,0.0
+2020-04-13,us,oregon,44.70915557,-117.6749883,84041001,US,USA,840,41001.0,baker,"Baker, Oregon, US",0,0,0.0,0.0
 2020-01-22,us,oregon,44.72698162,-120.02814270000002,84041069,US,USA,840,41069.0,wheeler,"Wheeler, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,44.72698162,-120.02814270000002,84041069,US,USA,840,41069.0,wheeler,"Wheeler, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,44.72698162,-120.02814270000002,84041069,US,USA,840,41069.0,wheeler,"Wheeler, Oregon, US",0,0,0.0,0.0
@@ -1700,6 +1740,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,44.72698162,-120.02814270000002,84041069,US,USA,840,41069.0,wheeler,"Wheeler, Oregon, US",0,0,0.0,0.0
 2020-04-10,us,oregon,44.72698162,-120.02814270000002,84041069,US,USA,840,41069.0,wheeler,"Wheeler, Oregon, US",0,0,0.0,0.0
 2020-04-11,us,oregon,44.72698162,-120.02814270000002,84041069,US,USA,840,41069.0,wheeler,"Wheeler, Oregon, US",0,0,0.0,0.0
+2020-04-12,us,oregon,44.72698162,-120.02814270000002,84041069,US,USA,840,41069.0,wheeler,"Wheeler, Oregon, US",0,0,0.0,0.0
+2020-04-13,us,oregon,44.72698162,-120.02814270000002,84041069,US,USA,840,41069.0,wheeler,"Wheeler, Oregon, US",0,0,0.0,0.0
 2020-01-22,us,oregon,44.90287942,-122.5815117,84041047,US,USA,840,41047.0,marion,"Marion, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,44.90287942,-122.5815117,84041047,US,USA,840,41047.0,marion,"Marion, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,44.90287942,-122.5815117,84041047,US,USA,840,41047.0,marion,"Marion, Oregon, US",0,0,0.0,0.0
@@ -1781,6 +1823,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,44.90287942,-122.5815117,84041047,US,USA,840,41047.0,marion,"Marion, Oregon, US",235,20,0.0,0.0
 2020-04-10,us,oregon,44.90287942,-122.5815117,84041047,US,USA,840,41047.0,marion,"Marion, Oregon, US",235,0,0.0,0.0
 2020-04-11,us,oregon,44.90287942,-122.5815117,84041047,US,USA,840,41047.0,marion,"Marion, Oregon, US",246,11,0.0,0.0
+2020-04-12,us,oregon,44.90287942,-122.5815117,84041047,US,USA,840,41047.0,marion,"Marion, Oregon, US",276,30,0.0,0.0
+2020-04-13,us,oregon,44.90287942,-122.5815117,84041047,US,USA,840,41047.0,marion,"Marion, Oregon, US",280,4,0.0,0.0
 2020-01-22,us,oregon,44.90322804,-123.4128888,84041053,US,USA,840,41053.0,polk,"Polk, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,44.90322804,-123.4128888,84041053,US,USA,840,41053.0,polk,"Polk, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,44.90322804,-123.4128888,84041053,US,USA,840,41053.0,polk,"Polk, Oregon, US",0,0,0.0,0.0
@@ -1862,6 +1906,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,44.90322804,-123.4128888,84041053,US,USA,840,41053.0,polk,"Polk, Oregon, US",29,1,1.0,0.0
 2020-04-10,us,oregon,44.90322804,-123.4128888,84041053,US,USA,840,41053.0,polk,"Polk, Oregon, US",29,0,1.0,0.0
 2020-04-11,us,oregon,44.90322804,-123.4128888,84041053,US,USA,840,41053.0,polk,"Polk, Oregon, US",29,0,1.0,0.0
+2020-04-12,us,oregon,44.90322804,-123.4128888,84041053,US,USA,840,41053.0,polk,"Polk, Oregon, US",30,1,1.0,0.0
+2020-04-13,us,oregon,44.90322804,-123.4128888,84041053,US,USA,840,41053.0,polk,"Polk, Oregon, US",30,0,1.0,0.0
 2020-01-22,us,oregon,45.16292781,-121.1670954,84041065,US,USA,840,41065.0,wasco,"Wasco, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.16292781,-121.1670954,84041065,US,USA,840,41065.0,wasco,"Wasco, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.16292781,-121.1670954,84041065,US,USA,840,41065.0,wasco,"Wasco, Oregon, US",0,0,0.0,0.0
@@ -1943,6 +1989,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.16292781,-121.1670954,84041065,US,USA,840,41065.0,wasco,"Wasco, Oregon, US",7,0,0.0,0.0
 2020-04-10,us,oregon,45.16292781,-121.1670954,84041065,US,USA,840,41065.0,wasco,"Wasco, Oregon, US",7,0,0.0,0.0
 2020-04-11,us,oregon,45.16292781,-121.1670954,84041065,US,USA,840,41065.0,wasco,"Wasco, Oregon, US",7,0,0.0,0.0
+2020-04-12,us,oregon,45.16292781,-121.1670954,84041065,US,USA,840,41065.0,wasco,"Wasco, Oregon, US",10,3,0.0,0.0
+2020-04-13,us,oregon,45.16292781,-121.1670954,84041065,US,USA,840,41065.0,wasco,"Wasco, Oregon, US",10,0,0.0,0.0
 2020-01-22,us,oregon,45.18787398,-122.2179634,84041005,US,USA,840,41005.0,clackamas,"Clackamas, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.18787398,-122.2179634,84041005,US,USA,840,41005.0,clackamas,"Clackamas, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.18787398,-122.2179634,84041005,US,USA,840,41005.0,clackamas,"Clackamas, Oregon, US",0,0,0.0,0.0
@@ -2024,6 +2072,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.18787398,-122.2179634,84041005,US,USA,840,41005.0,clackamas,"Clackamas, Oregon, US",109,12,3.0,0.0
 2020-04-10,us,oregon,45.18787398,-122.2179634,84041005,US,USA,840,41005.0,clackamas,"Clackamas, Oregon, US",109,0,3.0,0.0
 2020-04-11,us,oregon,45.18787398,-122.2179634,84041005,US,USA,840,41005.0,clackamas,"Clackamas, Oregon, US",116,7,3.0,0.0
+2020-04-12,us,oregon,45.18787398,-122.2179634,84041005,US,USA,840,41005.0,clackamas,"Clackamas, Oregon, US",125,9,3.0,0.0
+2020-04-13,us,oregon,45.18787398,-122.2179634,84041005,US,USA,840,41005.0,clackamas,"Clackamas, Oregon, US",132,7,3.0,0.0
 2020-01-22,us,oregon,45.23330449,-123.3086963,84041071,US,USA,840,41071.0,yamhill,"Yamhill, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.23330449,-123.3086963,84041071,US,USA,840,41071.0,yamhill,"Yamhill, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.23330449,-123.3086963,84041071,US,USA,840,41071.0,yamhill,"Yamhill, Oregon, US",0,0,0.0,0.0
@@ -2105,6 +2155,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.23330449,-123.3086963,84041071,US,USA,840,41071.0,yamhill,"Yamhill, Oregon, US",29,4,5.0,2.0
 2020-04-10,us,oregon,45.23330449,-123.3086963,84041071,US,USA,840,41071.0,yamhill,"Yamhill, Oregon, US",29,0,5.0,0.0
 2020-04-11,us,oregon,45.23330449,-123.3086963,84041071,US,USA,840,41071.0,yamhill,"Yamhill, Oregon, US",28,-1,5.0,0.0
+2020-04-12,us,oregon,45.23330449,-123.3086963,84041071,US,USA,840,41071.0,yamhill,"Yamhill, Oregon, US",30,2,6.0,1.0
+2020-04-13,us,oregon,45.23330449,-123.3086963,84041071,US,USA,840,41071.0,yamhill,"Yamhill, Oregon, US",30,0,6.0,0.0
 2020-01-22,us,oregon,45.30915495,-118.0068979,84041061,US,USA,840,41061.0,union,"Union, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.30915495,-118.0068979,84041061,US,USA,840,41061.0,union,"Union, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.30915495,-118.0068979,84041061,US,USA,840,41061.0,union,"Union, Oregon, US",0,0,0.0,0.0
@@ -2186,6 +2238,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.30915495,-118.0068979,84041061,US,USA,840,41061.0,union,"Union, Oregon, US",3,0,0.0,0.0
 2020-04-10,us,oregon,45.30915495,-118.0068979,84041061,US,USA,840,41061.0,union,"Union, Oregon, US",4,1,0.0,0.0
 2020-04-11,us,oregon,45.30915495,-118.0068979,84041061,US,USA,840,41061.0,union,"Union, Oregon, US",3,-1,0.0,0.0
+2020-04-12,us,oregon,45.30915495,-118.0068979,84041061,US,USA,840,41061.0,union,"Union, Oregon, US",4,1,0.0,0.0
+2020-04-13,us,oregon,45.30915495,-118.0068979,84041061,US,USA,840,41061.0,union,"Union, Oregon, US",4,0,0.0,0.0
 2020-01-22,us,oregon,45.37160076,-120.2048869,84041021,US,USA,840,41021.0,gilliam,"Gilliam, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.37160076,-120.2048869,84041021,US,USA,840,41021.0,gilliam,"Gilliam, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.37160076,-120.2048869,84041021,US,USA,840,41021.0,gilliam,"Gilliam, Oregon, US",0,0,0.0,0.0
@@ -2267,6 +2321,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.37160076,-120.2048869,84041021,US,USA,840,41021.0,gilliam,"Gilliam, Oregon, US",0,0,0.0,0.0
 2020-04-10,us,oregon,45.37160076,-120.2048869,84041021,US,USA,840,41021.0,gilliam,"Gilliam, Oregon, US",0,0,0.0,0.0
 2020-04-11,us,oregon,45.37160076,-120.2048869,84041021,US,USA,840,41021.0,gilliam,"Gilliam, Oregon, US",0,0,0.0,0.0
+2020-04-12,us,oregon,45.37160076,-120.2048869,84041021,US,USA,840,41021.0,gilliam,"Gilliam, Oregon, US",0,0,0.0,0.0
+2020-04-13,us,oregon,45.37160076,-120.2048869,84041021,US,USA,840,41021.0,gilliam,"Gilliam, Oregon, US",0,0,0.0,0.0
 2020-01-22,us,oregon,45.41501554,-120.6827834,84041055,US,USA,840,41055.0,sherman,"Sherman, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.41501554,-120.6827834,84041055,US,USA,840,41055.0,sherman,"Sherman, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.41501554,-120.6827834,84041055,US,USA,840,41055.0,sherman,"Sherman, Oregon, US",0,0,0.0,0.0
@@ -2348,6 +2404,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.41501554,-120.6827834,84041055,US,USA,840,41055.0,sherman,"Sherman, Oregon, US",1,0,0.0,0.0
 2020-04-10,us,oregon,45.41501554,-120.6827834,84041055,US,USA,840,41055.0,sherman,"Sherman, Oregon, US",1,0,0.0,0.0
 2020-04-11,us,oregon,45.41501554,-120.6827834,84041055,US,USA,840,41055.0,sherman,"Sherman, Oregon, US",1,0,0.0,0.0
+2020-04-12,us,oregon,45.41501554,-120.6827834,84041055,US,USA,840,41055.0,sherman,"Sherman, Oregon, US",1,0,0.0,0.0
+2020-04-13,us,oregon,45.41501554,-120.6827834,84041055,US,USA,840,41055.0,sherman,"Sherman, Oregon, US",1,0,0.0,0.0
 2020-01-22,us,oregon,45.41846568,-119.584546,84041049,US,USA,840,41049.0,morrow,"Morrow, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.41846568,-119.584546,84041049,US,USA,840,41049.0,morrow,"Morrow, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.41846568,-119.584546,84041049,US,USA,840,41049.0,morrow,"Morrow, Oregon, US",0,0,0.0,0.0
@@ -2429,6 +2487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.41846568,-119.584546,84041049,US,USA,840,41049.0,morrow,"Morrow, Oregon, US",5,3,0.0,0.0
 2020-04-10,us,oregon,45.41846568,-119.584546,84041049,US,USA,840,41049.0,morrow,"Morrow, Oregon, US",5,0,0.0,0.0
 2020-04-11,us,oregon,45.41846568,-119.584546,84041049,US,USA,840,41049.0,morrow,"Morrow, Oregon, US",5,0,0.0,0.0
+2020-04-12,us,oregon,45.41846568,-119.584546,84041049,US,USA,840,41049.0,morrow,"Morrow, Oregon, US",5,0,0.0,0.0
+2020-04-13,us,oregon,45.41846568,-119.584546,84041049,US,USA,840,41049.0,morrow,"Morrow, Oregon, US",5,0,0.0,0.0
 2020-01-22,us,oregon,45.46248721,-123.712066,84041057,US,USA,840,41057.0,tillamook,"Tillamook, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.46248721,-123.712066,84041057,US,USA,840,41057.0,tillamook,"Tillamook, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.46248721,-123.712066,84041057,US,USA,840,41057.0,tillamook,"Tillamook, Oregon, US",0,0,0.0,0.0
@@ -2510,6 +2570,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.46248721,-123.712066,84041057,US,USA,840,41057.0,tillamook,"Tillamook, Oregon, US",4,1,0.0,0.0
 2020-04-10,us,oregon,45.46248721,-123.712066,84041057,US,USA,840,41057.0,tillamook,"Tillamook, Oregon, US",4,0,0.0,0.0
 2020-04-11,us,oregon,45.46248721,-123.712066,84041057,US,USA,840,41057.0,tillamook,"Tillamook, Oregon, US",4,0,0.0,0.0
+2020-04-12,us,oregon,45.46248721,-123.712066,84041057,US,USA,840,41057.0,tillamook,"Tillamook, Oregon, US",4,0,0.0,0.0
+2020-04-13,us,oregon,45.46248721,-123.712066,84041057,US,USA,840,41057.0,tillamook,"Tillamook, Oregon, US",4,0,0.0,0.0
 2020-01-22,us,oregon,45.51872811,-121.65520359999998,84041027,US,USA,840,41027.0,hood-river,"Hood River, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.51872811,-121.65520359999998,84041027,US,USA,840,41027.0,hood-river,"Hood River, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.51872811,-121.65520359999998,84041027,US,USA,840,41027.0,hood-river,"Hood River, Oregon, US",0,0,0.0,0.0
@@ -2591,6 +2653,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.51872811,-121.65520359999998,84041027,US,USA,840,41027.0,hood-river,"Hood River, Oregon, US",3,1,0.0,0.0
 2020-04-10,us,oregon,45.51872811,-121.65520359999998,84041027,US,USA,840,41027.0,hood-river,"Hood River, Oregon, US",3,0,0.0,0.0
 2020-04-11,us,oregon,45.51872811,-121.65520359999998,84041027,US,USA,840,41027.0,hood-river,"Hood River, Oregon, US",4,1,0.0,0.0
+2020-04-12,us,oregon,45.51872811,-121.65520359999998,84041027,US,USA,840,41027.0,hood-river,"Hood River, Oregon, US",4,0,0.0,0.0
+2020-04-13,us,oregon,45.51872811,-121.65520359999998,84041027,US,USA,840,41027.0,hood-river,"Hood River, Oregon, US",4,0,0.0,0.0
 2020-01-22,us,oregon,45.54747959,-122.4169351,84041051,US,USA,840,41051.0,multnomah,"Multnomah, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.54747959,-122.4169351,84041051,US,USA,840,41051.0,multnomah,"Multnomah, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.54747959,-122.4169351,84041051,US,USA,840,41051.0,multnomah,"Multnomah, Oregon, US",0,0,0.0,0.0
@@ -2672,6 +2736,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.54747959,-122.4169351,84041051,US,USA,840,41051.0,multnomah,"Multnomah, Oregon, US",302,44,13.0,6.0
 2020-04-10,us,oregon,45.54747959,-122.4169351,84041051,US,USA,840,41051.0,multnomah,"Multnomah, Oregon, US",302,0,13.0,0.0
 2020-04-11,us,oregon,45.54747959,-122.4169351,84041051,US,USA,840,41051.0,multnomah,"Multnomah, Oregon, US",317,15,17.0,4.0
+2020-04-12,us,oregon,45.54747959,-122.4169351,84041051,US,USA,840,41051.0,multnomah,"Multnomah, Oregon, US",374,57,19.0,2.0
+2020-04-13,us,oregon,45.54747959,-122.4169351,84041051,US,USA,840,41051.0,multnomah,"Multnomah, Oregon, US",398,24,19.0,0.0
 2020-01-22,us,oregon,45.55972701,-123.0955257,84041067,US,USA,840,41067.0,washington,"Washington, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.55972701,-123.0955257,84041067,US,USA,840,41067.0,washington,"Washington, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.55972701,-123.0955257,84041067,US,USA,840,41067.0,washington,"Washington, Oregon, US",0,0,0.0,0.0
@@ -2753,6 +2819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.55972701,-123.0955257,84041067,US,USA,840,41067.0,washington,"Washington, Oregon, US",311,29,6.0,0.0
 2020-04-10,us,oregon,45.55972701,-123.0955257,84041067,US,USA,840,41067.0,washington,"Washington, Oregon, US",311,0,6.0,0.0
 2020-04-11,us,oregon,45.55972701,-123.0955257,84041067,US,USA,840,41067.0,washington,"Washington, Oregon, US",320,9,6.0,0.0
+2020-04-12,us,oregon,45.55972701,-123.0955257,84041067,US,USA,840,41067.0,washington,"Washington, Oregon, US",348,28,6.0,0.0
+2020-04-13,us,oregon,45.55972701,-123.0955257,84041067,US,USA,840,41067.0,washington,"Washington, Oregon, US",360,12,7.0,1.0
 2020-01-22,us,oregon,45.57894064,-117.18353799999998,84041063,US,USA,840,41063.0,wallowa,"Wallowa, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.57894064,-117.18353799999998,84041063,US,USA,840,41063.0,wallowa,"Wallowa, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.57894064,-117.18353799999998,84041063,US,USA,840,41063.0,wallowa,"Wallowa, Oregon, US",0,0,0.0,0.0
@@ -2834,6 +2902,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.57894064,-117.18353799999998,84041063,US,USA,840,41063.0,wallowa,"Wallowa, Oregon, US",1,0,0.0,0.0
 2020-04-10,us,oregon,45.57894064,-117.18353799999998,84041063,US,USA,840,41063.0,wallowa,"Wallowa, Oregon, US",1,0,0.0,0.0
 2020-04-11,us,oregon,45.57894064,-117.18353799999998,84041063,US,USA,840,41063.0,wallowa,"Wallowa, Oregon, US",1,0,0.0,0.0
+2020-04-12,us,oregon,45.57894064,-117.18353799999998,84041063,US,USA,840,41063.0,wallowa,"Wallowa, Oregon, US",1,0,0.0,0.0
+2020-04-13,us,oregon,45.57894064,-117.18353799999998,84041063,US,USA,840,41063.0,wallowa,"Wallowa, Oregon, US",1,0,0.0,0.0
 2020-01-22,us,oregon,45.59073056,-118.7353826,84041059,US,USA,840,41059.0,umatilla,"Umatilla, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.59073056,-118.7353826,84041059,US,USA,840,41059.0,umatilla,"Umatilla, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.59073056,-118.7353826,84041059,US,USA,840,41059.0,umatilla,"Umatilla, Oregon, US",0,0,0.0,0.0
@@ -2915,6 +2985,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.59073056,-118.7353826,84041059,US,USA,840,41059.0,umatilla,"Umatilla, Oregon, US",11,3,0.0,0.0
 2020-04-10,us,oregon,45.59073056,-118.7353826,84041059,US,USA,840,41059.0,umatilla,"Umatilla, Oregon, US",11,0,0.0,0.0
 2020-04-11,us,oregon,45.59073056,-118.7353826,84041059,US,USA,840,41059.0,umatilla,"Umatilla, Oregon, US",11,0,0.0,0.0
+2020-04-12,us,oregon,45.59073056,-118.7353826,84041059,US,USA,840,41059.0,umatilla,"Umatilla, Oregon, US",16,5,0.0,0.0
+2020-04-13,us,oregon,45.59073056,-118.7353826,84041059,US,USA,840,41059.0,umatilla,"Umatilla, Oregon, US",16,0,0.0,0.0
 2020-01-22,us,oregon,45.94464254,-123.0890898,84041009,US,USA,840,41009.0,columbia,"Columbia, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.94464254,-123.0890898,84041009,US,USA,840,41009.0,columbia,"Columbia, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.94464254,-123.0890898,84041009,US,USA,840,41009.0,columbia,"Columbia, Oregon, US",0,0,0.0,0.0
@@ -2996,6 +3068,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.94464254,-123.0890898,84041009,US,USA,840,41009.0,columbia,"Columbia, Oregon, US",10,2,0.0,0.0
 2020-04-10,us,oregon,45.94464254,-123.0890898,84041009,US,USA,840,41009.0,columbia,"Columbia, Oregon, US",10,0,0.0,0.0
 2020-04-11,us,oregon,45.94464254,-123.0890898,84041009,US,USA,840,41009.0,columbia,"Columbia, Oregon, US",10,0,0.0,0.0
+2020-04-12,us,oregon,45.94464254,-123.0890898,84041009,US,USA,840,41009.0,columbia,"Columbia, Oregon, US",10,0,0.0,0.0
+2020-04-13,us,oregon,45.94464254,-123.0890898,84041009,US,USA,840,41009.0,columbia,"Columbia, Oregon, US",12,2,0.0,0.0
 2020-01-22,us,oregon,45.99712889,-123.660711,84041007,US,USA,840,41007.0,clatsop,"Clatsop, Oregon, US",0,0,0.0,0.0
 2020-01-23,us,oregon,45.99712889,-123.660711,84041007,US,USA,840,41007.0,clatsop,"Clatsop, Oregon, US",0,0,0.0,0.0
 2020-01-24,us,oregon,45.99712889,-123.660711,84041007,US,USA,840,41007.0,clatsop,"Clatsop, Oregon, US",0,0,0.0,0.0
@@ -3077,3 +3151,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,oregon,45.99712889,-123.660711,84041007,US,USA,840,41007.0,clatsop,"Clatsop, Oregon, US",5,0,0.0,0.0
 2020-04-10,us,oregon,45.99712889,-123.660711,84041007,US,USA,840,41007.0,clatsop,"Clatsop, Oregon, US",5,0,0.0,0.0
 2020-04-11,us,oregon,45.99712889,-123.660711,84041007,US,USA,840,41007.0,clatsop,"Clatsop, Oregon, US",6,1,0.0,0.0
+2020-04-12,us,oregon,45.99712889,-123.660711,84041007,US,USA,840,41007.0,clatsop,"Clatsop, Oregon, US",6,0,0.0,0.0
+2020-04-13,us,oregon,45.99712889,-123.660711,84041007,US,USA,840,41007.0,clatsop,"Clatsop, Oregon, US",6,0,0.0,0.0

@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",3,1,0.0,0.0
 2020-04-10,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",4,1,0.0,0.0
 2020-04-11,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",5,1,0.0,0.0
+2020-04-12,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",5,0,0.0,0.0
+2020-04-13,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",5,0,0.0,0.0

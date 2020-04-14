@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,michigan,42.92655373,-82.67937954,84026147,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",162,22,4.0,1.0
 2020-04-10,us,michigan,42.92655373,-82.67937954,84026147,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",179,17,4.0,0.0
 2020-04-11,us,michigan,42.92655373,-82.67937954,84026147,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",190,11,4.0,0.0
+2020-04-12,us,michigan,42.92655373,-82.67937954,84026147,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",199,9,6.0,2.0
+2020-04-13,us,michigan,42.92655373,-82.67937954,84026147,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",206,7,7.0,1.0

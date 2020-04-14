@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",50,1,1.0,0.0
 2020-04-10,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",56,6,1.0,0.0
 2020-04-11,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",59,3,2.0,1.0
+2020-04-12,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",59,0,2.0,0.0
+2020-04-13,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",65,6,2.0,0.0

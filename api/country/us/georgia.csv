@@ -80,6 +80,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,0.0,0.0,84080013,US,USA,840,80013.0,out-of-ga,"Out of GA, Georgia, US",0,0,0.0,0.0
 2020-04-10,us,georgia,0.0,0.0,84080013,US,USA,840,80013.0,out-of-ga,"Out of GA, Georgia, US",0,0,0.0,0.0
 2020-04-11,us,georgia,0.0,0.0,84080013,US,USA,840,80013.0,out-of-ga,"Out of GA, Georgia, US",0,0,0.0,0.0
+2020-04-12,us,georgia,0.0,0.0,84080013,US,USA,840,80013.0,out-of-ga,"Out of GA, Georgia, US",0,0,0.0,0.0
+2020-04-13,us,georgia,0.0,0.0,84080013,US,USA,840,80013.0,out-of-ga,"Out of GA, Georgia, US",0,0,0.0,0.0
 2020-01-22,us,georgia,0.0,0.0,84090013,US,USA,840,90013.0,unassigned,"Unassigned, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,0.0,0.0,84090013,US,USA,840,90013.0,unassigned,"Unassigned, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,0.0,0.0,84090013,US,USA,840,90013.0,unassigned,"Unassigned, Georgia, US",0,0,0.0,0.0
@@ -161,6 +163,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,0.0,0.0,84090013,US,USA,840,90013.0,unassigned,"Unassigned, Georgia, US",1020,163,8.0,2.0
 2020-04-10,us,georgia,0.0,0.0,84090013,US,USA,840,90013.0,unassigned,"Unassigned, Georgia, US",1246,226,5.0,-3.0
 2020-04-11,us,georgia,0.0,0.0,84090013,US,USA,840,90013.0,unassigned,"Unassigned, Georgia, US",1397,151,4.0,-1.0
+2020-04-12,us,georgia,0.0,0.0,84090013,US,USA,840,90013.0,unassigned,"Unassigned, Georgia, US",1218,-179,4.0,0.0
+2020-04-13,us,georgia,0.0,0.0,84090013,US,USA,840,90013.0,unassigned,"Unassigned, Georgia, US",1219,1,1.0,-3.0
 2020-01-22,us,georgia,30.71101099,-82.89687287,84013101,US,USA,840,13101.0,echols,"Echols, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,30.71101099,-82.89687287,84013101,US,USA,840,13101.0,echols,"Echols, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,30.71101099,-82.89687287,84013101,US,USA,840,13101.0,echols,"Echols, Georgia, US",0,0,0.0,0.0
@@ -242,6 +246,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.71101099,-82.89687287,84013101,US,USA,840,13101.0,echols,"Echols, Georgia, US",2,1,0.0,0.0
 2020-04-10,us,georgia,30.71101099,-82.89687287,84013101,US,USA,840,13101.0,echols,"Echols, Georgia, US",2,0,0.0,0.0
 2020-04-11,us,georgia,30.71101099,-82.89687287,84013101,US,USA,840,13101.0,echols,"Echols, Georgia, US",2,0,0.0,0.0
+2020-04-12,us,georgia,30.71101099,-82.89687287,84013101,US,USA,840,13101.0,echols,"Echols, Georgia, US",2,0,0.0,0.0
+2020-04-13,us,georgia,30.71101099,-82.89687287,84013101,US,USA,840,13101.0,echols,"Echols, Georgia, US",2,0,0.0,0.0
 2020-01-22,us,georgia,30.78371028,-82.13951596,84013049,US,USA,840,13049.0,charlton,"Charlton, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,30.78371028,-82.13951596,84013049,US,USA,840,13049.0,charlton,"Charlton, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,30.78371028,-82.13951596,84013049,US,USA,840,13049.0,charlton,"Charlton, Georgia, US",0,0,0.0,0.0
@@ -323,6 +329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.78371028,-82.13951596,84013049,US,USA,840,13049.0,charlton,"Charlton, Georgia, US",2,-1,0.0,0.0
 2020-04-10,us,georgia,30.78371028,-82.13951596,84013049,US,USA,840,13049.0,charlton,"Charlton, Georgia, US",2,0,0.0,0.0
 2020-04-11,us,georgia,30.78371028,-82.13951596,84013049,US,USA,840,13049.0,charlton,"Charlton, Georgia, US",2,0,0.0,0.0
+2020-04-12,us,georgia,30.78371028,-82.13951596,84013049,US,USA,840,13049.0,charlton,"Charlton, Georgia, US",3,1,0.0,0.0
+2020-04-13,us,georgia,30.78371028,-82.13951596,84013049,US,USA,840,13049.0,charlton,"Charlton, Georgia, US",3,0,0.0,0.0
 2020-01-22,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",0,0,0.0,0.0
@@ -404,6 +412,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",50,1,1.0,0.0
 2020-04-10,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",56,6,1.0,0.0
 2020-04-11,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",59,3,2.0,1.0
+2020-04-12,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",59,0,2.0,0.0
+2020-04-13,us,georgia,30.83568832,-83.27056716,84013185,US,USA,840,13185.0,lowndes,"Lowndes, Georgia, US",65,6,2.0,0.0
 2020-01-22,us,georgia,30.83922642,-83.58303423,84013027,US,USA,840,13027.0,brooks,"Brooks, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,30.83922642,-83.58303423,84013027,US,USA,840,13027.0,brooks,"Brooks, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,30.83922642,-83.58303423,84013027,US,USA,840,13027.0,brooks,"Brooks, Georgia, US",0,0,0.0,0.0
@@ -485,6 +495,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.83922642,-83.58303423,84013027,US,USA,840,13027.0,brooks,"Brooks, Georgia, US",16,0,1.0,0.0
 2020-04-10,us,georgia,30.83922642,-83.58303423,84013027,US,USA,840,13027.0,brooks,"Brooks, Georgia, US",17,1,1.0,0.0
 2020-04-11,us,georgia,30.83922642,-83.58303423,84013027,US,USA,840,13027.0,brooks,"Brooks, Georgia, US",18,1,1.0,0.0
+2020-04-12,us,georgia,30.83922642,-83.58303423,84013027,US,USA,840,13027.0,brooks,"Brooks, Georgia, US",18,0,1.0,0.0
+2020-04-13,us,georgia,30.83922642,-83.58303423,84013027,US,USA,840,13027.0,brooks,"Brooks, Georgia, US",19,1,1.0,0.0
 2020-01-22,us,georgia,30.86392347,-83.91847289,84013275,US,USA,840,13275.0,thomas,"Thomas, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,30.86392347,-83.91847289,84013275,US,USA,840,13275.0,thomas,"Thomas, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,30.86392347,-83.91847289,84013275,US,USA,840,13275.0,thomas,"Thomas, Georgia, US",0,0,0.0,0.0
@@ -566,6 +578,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.86392347,-83.91847289,84013275,US,USA,840,13275.0,thomas,"Thomas, Georgia, US",57,14,2.0,0.0
 2020-04-10,us,georgia,30.86392347,-83.91847289,84013275,US,USA,840,13275.0,thomas,"Thomas, Georgia, US",73,16,3.0,1.0
 2020-04-11,us,georgia,30.86392347,-83.91847289,84013275,US,USA,840,13275.0,thomas,"Thomas, Georgia, US",74,1,3.0,0.0
+2020-04-12,us,georgia,30.86392347,-83.91847289,84013275,US,USA,840,13275.0,thomas,"Thomas, Georgia, US",77,3,3.0,0.0
+2020-04-13,us,georgia,30.86392347,-83.91847289,84013275,US,USA,840,13275.0,thomas,"Thomas, Georgia, US",78,1,3.0,0.0
 2020-01-22,us,georgia,30.87454847,-84.23418364,84013131,US,USA,840,13131.0,grady,"Grady, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,30.87454847,-84.23418364,84013131,US,USA,840,13131.0,grady,"Grady, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,30.87454847,-84.23418364,84013131,US,USA,840,13131.0,grady,"Grady, Georgia, US",0,0,0.0,0.0
@@ -647,6 +661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.87454847,-84.23418364,84013131,US,USA,840,13131.0,grady,"Grady, Georgia, US",8,2,0.0,0.0
 2020-04-10,us,georgia,30.87454847,-84.23418364,84013131,US,USA,840,13131.0,grady,"Grady, Georgia, US",15,7,0.0,0.0
 2020-04-11,us,georgia,30.87454847,-84.23418364,84013131,US,USA,840,13131.0,grady,"Grady, Georgia, US",15,0,0.0,0.0
+2020-04-12,us,georgia,30.87454847,-84.23418364,84013131,US,USA,840,13131.0,grady,"Grady, Georgia, US",15,0,0.0,0.0
+2020-04-13,us,georgia,30.87454847,-84.23418364,84013131,US,USA,840,13131.0,grady,"Grady, Georgia, US",15,0,0.0,0.0
 2020-01-22,us,georgia,30.87967778,-84.57619536,84013087,US,USA,840,13087.0,decatur,"Decatur, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,30.87967778,-84.57619536,84013087,US,USA,840,13087.0,decatur,"Decatur, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,30.87967778,-84.57619536,84013087,US,USA,840,13087.0,decatur,"Decatur, Georgia, US",0,0,0.0,0.0
@@ -728,6 +744,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.87967778,-84.57619536,84013087,US,USA,840,13087.0,decatur,"Decatur, Georgia, US",21,-9,0.0,0.0
 2020-04-10,us,georgia,30.87967778,-84.57619536,84013087,US,USA,840,13087.0,decatur,"Decatur, Georgia, US",26,5,0.0,0.0
 2020-04-11,us,georgia,30.87967778,-84.57619536,84013087,US,USA,840,13087.0,decatur,"Decatur, Georgia, US",27,1,0.0,0.0
+2020-04-12,us,georgia,30.87967778,-84.57619536,84013087,US,USA,840,13087.0,decatur,"Decatur, Georgia, US",29,2,0.0,0.0
+2020-04-13,us,georgia,30.87967778,-84.57619536,84013087,US,USA,840,13087.0,decatur,"Decatur, Georgia, US",36,7,0.0,0.0
 2020-01-22,us,georgia,30.91395822,-82.70432472,84013065,US,USA,840,13065.0,clinch,"Clinch, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,30.91395822,-82.70432472,84013065,US,USA,840,13065.0,clinch,"Clinch, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,30.91395822,-82.70432472,84013065,US,USA,840,13065.0,clinch,"Clinch, Georgia, US",0,0,0.0,0.0
@@ -809,6 +827,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.91395822,-82.70432472,84013065,US,USA,840,13065.0,clinch,"Clinch, Georgia, US",3,0,0.0,0.0
 2020-04-10,us,georgia,30.91395822,-82.70432472,84013065,US,USA,840,13065.0,clinch,"Clinch, Georgia, US",3,0,0.0,0.0
 2020-04-11,us,georgia,30.91395822,-82.70432472,84013065,US,USA,840,13065.0,clinch,"Clinch, Georgia, US",3,0,0.0,0.0
+2020-04-12,us,georgia,30.91395822,-82.70432472,84013065,US,USA,840,13065.0,clinch,"Clinch, Georgia, US",3,0,0.0,0.0
+2020-04-13,us,georgia,30.91395822,-82.70432472,84013065,US,USA,840,13065.0,clinch,"Clinch, Georgia, US",6,3,0.0,0.0
 2020-01-22,us,georgia,30.92951916,-81.66601818,84013039,US,USA,840,13039.0,camden,"Camden, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,30.92951916,-81.66601818,84013039,US,USA,840,13039.0,camden,"Camden, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,30.92951916,-81.66601818,84013039,US,USA,840,13039.0,camden,"Camden, Georgia, US",0,0,0.0,0.0
@@ -890,6 +910,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.92951916,-81.66601818,84013039,US,USA,840,13039.0,camden,"Camden, Georgia, US",19,2,0.0,0.0
 2020-04-10,us,georgia,30.92951916,-81.66601818,84013039,US,USA,840,13039.0,camden,"Camden, Georgia, US",19,0,0.0,0.0
 2020-04-11,us,georgia,30.92951916,-81.66601818,84013039,US,USA,840,13039.0,camden,"Camden, Georgia, US",20,1,0.0,0.0
+2020-04-12,us,georgia,30.92951916,-81.66601818,84013039,US,USA,840,13039.0,camden,"Camden, Georgia, US",20,0,0.0,0.0
+2020-04-13,us,georgia,30.92951916,-81.66601818,84013039,US,USA,840,13039.0,camden,"Camden, Georgia, US",22,2,0.0,0.0
 2020-01-22,us,georgia,30.93464824,-84.86823924,84013253,US,USA,840,13253.0,seminole,"Seminole, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,30.93464824,-84.86823924,84013253,US,USA,840,13253.0,seminole,"Seminole, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,30.93464824,-84.86823924,84013253,US,USA,840,13253.0,seminole,"Seminole, Georgia, US",0,0,0.0,0.0
@@ -971,6 +993,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,30.93464824,-84.86823924,84013253,US,USA,840,13253.0,seminole,"Seminole, Georgia, US",13,0,0.0,0.0
 2020-04-10,us,georgia,30.93464824,-84.86823924,84013253,US,USA,840,13253.0,seminole,"Seminole, Georgia, US",12,-1,0.0,0.0
 2020-04-11,us,georgia,30.93464824,-84.86823924,84013253,US,USA,840,13253.0,seminole,"Seminole, Georgia, US",14,2,0.0,0.0
+2020-04-12,us,georgia,30.93464824,-84.86823924,84013253,US,USA,840,13253.0,seminole,"Seminole, Georgia, US",15,1,0.0,0.0
+2020-04-13,us,georgia,30.93464824,-84.86823924,84013253,US,USA,840,13253.0,seminole,"Seminole, Georgia, US",15,0,1.0,1.0
 2020-01-22,us,georgia,31.03828570000001,-83.06472457,84013173,US,USA,840,13173.0,lanier,"Lanier, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.03828570000001,-83.06472457,84013173,US,USA,840,13173.0,lanier,"Lanier, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.03828570000001,-83.06472457,84013173,US,USA,840,13173.0,lanier,"Lanier, Georgia, US",0,0,0.0,0.0
@@ -1052,6 +1076,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.03828570000001,-83.06472457,84013173,US,USA,840,13173.0,lanier,"Lanier, Georgia, US",5,0,0.0,0.0
 2020-04-10,us,georgia,31.03828570000001,-83.06472457,84013173,US,USA,840,13173.0,lanier,"Lanier, Georgia, US",5,0,0.0,0.0
 2020-04-11,us,georgia,31.03828570000001,-83.06472457,84013173,US,USA,840,13173.0,lanier,"Lanier, Georgia, US",5,0,0.0,0.0
+2020-04-12,us,georgia,31.03828570000001,-83.06472457,84013173,US,USA,840,13173.0,lanier,"Lanier, Georgia, US",5,0,0.0,0.0
+2020-04-13,us,georgia,31.03828570000001,-83.06472457,84013173,US,USA,840,13173.0,lanier,"Lanier, Georgia, US",5,0,0.0,0.0
 2020-01-22,us,georgia,31.05449097,-82.42224148,84013299,US,USA,840,13299.0,ware,"Ware, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.05449097,-82.42224148,84013299,US,USA,840,13299.0,ware,"Ware, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.05449097,-82.42224148,84013299,US,USA,840,13299.0,ware,"Ware, Georgia, US",0,0,0.0,0.0
@@ -1133,6 +1159,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.05449097,-82.42224148,84013299,US,USA,840,13299.0,ware,"Ware, Georgia, US",45,3,4.0,1.0
 2020-04-10,us,georgia,31.05449097,-82.42224148,84013299,US,USA,840,13299.0,ware,"Ware, Georgia, US",48,3,4.0,0.0
 2020-04-11,us,georgia,31.05449097,-82.42224148,84013299,US,USA,840,13299.0,ware,"Ware, Georgia, US",50,2,4.0,0.0
+2020-04-12,us,georgia,31.05449097,-82.42224148,84013299,US,USA,840,13299.0,ware,"Ware, Georgia, US",53,3,4.0,0.0
+2020-04-13,us,georgia,31.05449097,-82.42224148,84013299,US,USA,840,13299.0,ware,"Ware, Georgia, US",56,3,4.0,0.0
 2020-01-22,us,georgia,31.16068491,-83.42947229,84013075,US,USA,840,13075.0,cook,"Cook, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.16068491,-83.42947229,84013075,US,USA,840,13075.0,cook,"Cook, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.16068491,-83.42947229,84013075,US,USA,840,13075.0,cook,"Cook, Georgia, US",0,0,0.0,0.0
@@ -1214,6 +1242,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.16068491,-83.42947229,84013075,US,USA,840,13075.0,cook,"Cook, Georgia, US",5,1,0.0,0.0
 2020-04-10,us,georgia,31.16068491,-83.42947229,84013075,US,USA,840,13075.0,cook,"Cook, Georgia, US",6,1,0.0,0.0
 2020-04-11,us,georgia,31.16068491,-83.42947229,84013075,US,USA,840,13075.0,cook,"Cook, Georgia, US",6,0,0.0,0.0
+2020-04-12,us,georgia,31.16068491,-83.42947229,84013075,US,USA,840,13075.0,cook,"Cook, Georgia, US",7,1,0.0,0.0
+2020-04-13,us,georgia,31.16068491,-83.42947229,84013075,US,USA,840,13075.0,cook,"Cook, Georgia, US",7,0,0.0,0.0
 2020-01-22,us,georgia,31.16568912,-84.73151117,84013201,US,USA,840,13201.0,miller,"Miller, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.16568912,-84.73151117,84013201,US,USA,840,13201.0,miller,"Miller, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.16568912,-84.73151117,84013201,US,USA,840,13201.0,miller,"Miller, Georgia, US",0,0,0.0,0.0
@@ -1295,6 +1325,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.16568912,-84.73151117,84013201,US,USA,840,13201.0,miller,"Miller, Georgia, US",9,-3,0.0,0.0
 2020-04-10,us,georgia,31.16568912,-84.73151117,84013201,US,USA,840,13201.0,miller,"Miller, Georgia, US",10,1,0.0,0.0
 2020-04-11,us,georgia,31.16568912,-84.73151117,84013201,US,USA,840,13201.0,miller,"Miller, Georgia, US",10,0,0.0,0.0
+2020-04-12,us,georgia,31.16568912,-84.73151117,84013201,US,USA,840,13201.0,miller,"Miller, Georgia, US",10,0,0.0,0.0
+2020-04-13,us,georgia,31.16568912,-84.73151117,84013201,US,USA,840,13201.0,miller,"Miller, Georgia, US",12,2,0.0,0.0
 2020-01-22,us,georgia,31.18810588,-83.7677946,84013071,US,USA,840,13071.0,colquitt,"Colquitt, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.18810588,-83.7677946,84013071,US,USA,840,13071.0,colquitt,"Colquitt, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.18810588,-83.7677946,84013071,US,USA,840,13071.0,colquitt,"Colquitt, Georgia, US",0,0,0.0,0.0
@@ -1376,6 +1408,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.18810588,-83.7677946,84013071,US,USA,840,13071.0,colquitt,"Colquitt, Georgia, US",78,10,5.0,0.0
 2020-04-10,us,georgia,31.18810588,-83.7677946,84013071,US,USA,840,13071.0,colquitt,"Colquitt, Georgia, US",80,2,5.0,0.0
 2020-04-11,us,georgia,31.18810588,-83.7677946,84013071,US,USA,840,13071.0,colquitt,"Colquitt, Georgia, US",80,0,5.0,0.0
+2020-04-12,us,georgia,31.18810588,-83.7677946,84013071,US,USA,840,13071.0,colquitt,"Colquitt, Georgia, US",87,7,5.0,0.0
+2020-04-13,us,georgia,31.18810588,-83.7677946,84013071,US,USA,840,13071.0,colquitt,"Colquitt, Georgia, US",88,1,5.0,0.0
 2020-01-22,us,georgia,31.19576557,-81.97743999,84013025,US,USA,840,13025.0,brantley,"Brantley, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.19576557,-81.97743999,84013025,US,USA,840,13025.0,brantley,"Brantley, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.19576557,-81.97743999,84013025,US,USA,840,13025.0,brantley,"Brantley, Georgia, US",0,0,0.0,0.0
@@ -1457,6 +1491,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.19576557,-81.97743999,84013025,US,USA,840,13025.0,brantley,"Brantley, Georgia, US",6,1,1.0,0.0
 2020-04-10,us,georgia,31.19576557,-81.97743999,84013025,US,USA,840,13025.0,brantley,"Brantley, Georgia, US",6,0,1.0,0.0
 2020-04-11,us,georgia,31.19576557,-81.97743999,84013025,US,USA,840,13025.0,brantley,"Brantley, Georgia, US",7,1,1.0,0.0
+2020-04-12,us,georgia,31.19576557,-81.97743999,84013025,US,USA,840,13025.0,brantley,"Brantley, Georgia, US",8,1,1.0,0.0
+2020-04-13,us,georgia,31.19576557,-81.97743999,84013025,US,USA,840,13025.0,brantley,"Brantley, Georgia, US",11,3,1.0,0.0
 2020-01-22,us,georgia,31.22483255,-84.19381821,84013205,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.22483255,-84.19381821,84013205,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.22483255,-84.19381821,84013205,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",0,0,0.0,0.0
@@ -1538,6 +1574,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.22483255,-84.19381821,84013205,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",116,8,14.0,3.0
 2020-04-10,us,georgia,31.22483255,-84.19381821,84013205,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",131,15,13.0,-1.0
 2020-04-11,us,georgia,31.22483255,-84.19381821,84013205,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",135,4,13.0,0.0
+2020-04-12,us,georgia,31.22483255,-84.19381821,84013205,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",136,1,13.0,0.0
+2020-04-13,us,georgia,31.22483255,-84.19381821,84013205,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",147,11,15.0,2.0
 2020-01-22,us,georgia,31.23279254,-81.53811412,84013127,US,USA,840,13127.0,glynn,"Glynn, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.23279254,-81.53811412,84013127,US,USA,840,13127.0,glynn,"Glynn, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.23279254,-81.53811412,84013127,US,USA,840,13127.0,glynn,"Glynn, Georgia, US",0,0,0.0,0.0
@@ -1619,6 +1657,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.23279254,-81.53811412,84013127,US,USA,840,13127.0,glynn,"Glynn, Georgia, US",31,1,0.0,0.0
 2020-04-10,us,georgia,31.23279254,-81.53811412,84013127,US,USA,840,13127.0,glynn,"Glynn, Georgia, US",32,1,0.0,0.0
 2020-04-11,us,georgia,31.23279254,-81.53811412,84013127,US,USA,840,13127.0,glynn,"Glynn, Georgia, US",33,1,0.0,0.0
+2020-04-12,us,georgia,31.23279254,-81.53811412,84013127,US,USA,840,13127.0,glynn,"Glynn, Georgia, US",33,0,0.0,0.0
+2020-04-13,us,georgia,31.23279254,-81.53811412,84013127,US,USA,840,13127.0,glynn,"Glynn, Georgia, US",38,5,0.0,0.0
 2020-01-22,us,georgia,31.27590016,-83.22529920000002,84013019,US,USA,840,13019.0,berrien,"Berrien, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.27590016,-83.22529920000002,84013019,US,USA,840,13019.0,berrien,"Berrien, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.27590016,-83.22529920000002,84013019,US,USA,840,13019.0,berrien,"Berrien, Georgia, US",0,0,0.0,0.0
@@ -1700,6 +1740,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.27590016,-83.22529920000002,84013019,US,USA,840,13019.0,berrien,"Berrien, Georgia, US",4,0,0.0,0.0
 2020-04-10,us,georgia,31.27590016,-83.22529920000002,84013019,US,USA,840,13019.0,berrien,"Berrien, Georgia, US",6,2,0.0,0.0
 2020-04-11,us,georgia,31.27590016,-83.22529920000002,84013019,US,USA,840,13019.0,berrien,"Berrien, Georgia, US",6,0,0.0,0.0
+2020-04-12,us,georgia,31.27590016,-83.22529920000002,84013019,US,USA,840,13019.0,berrien,"Berrien, Georgia, US",6,0,0.0,0.0
+2020-04-13,us,georgia,31.27590016,-83.22529920000002,84013019,US,USA,840,13019.0,berrien,"Berrien, Georgia, US",6,0,0.0,0.0
 2020-01-22,us,georgia,31.29633502,-82.87545866,84013003,US,USA,840,13003.0,atkinson,"Atkinson, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.29633502,-82.87545866,84013003,US,USA,840,13003.0,atkinson,"Atkinson, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.29633502,-82.87545866,84013003,US,USA,840,13003.0,atkinson,"Atkinson, Georgia, US",0,0,0.0,0.0
@@ -1781,6 +1823,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.29633502,-82.87545866,84013003,US,USA,840,13003.0,atkinson,"Atkinson, Georgia, US",4,0,0.0,0.0
 2020-04-10,us,georgia,31.29633502,-82.87545866,84013003,US,USA,840,13003.0,atkinson,"Atkinson, Georgia, US",4,0,0.0,0.0
 2020-04-11,us,georgia,31.29633502,-82.87545866,84013003,US,USA,840,13003.0,atkinson,"Atkinson, Georgia, US",2,-2,0.0,0.0
+2020-04-12,us,georgia,31.29633502,-82.87545866,84013003,US,USA,840,13003.0,atkinson,"Atkinson, Georgia, US",2,0,0.0,0.0
+2020-04-13,us,georgia,31.29633502,-82.87545866,84013003,US,USA,840,13003.0,atkinson,"Atkinson, Georgia, US",2,0,0.0,0.0
 2020-01-22,us,georgia,31.32155345,-84.90255207,84013099,US,USA,840,13099.0,early,"Early, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.32155345,-84.90255207,84013099,US,USA,840,13099.0,early,"Early, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.32155345,-84.90255207,84013099,US,USA,840,13099.0,early,"Early, Georgia, US",0,0,0.0,0.0
@@ -1862,6 +1906,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.32155345,-84.90255207,84013099,US,USA,840,13099.0,early,"Early, Georgia, US",105,7,5.0,0.0
 2020-04-10,us,georgia,31.32155345,-84.90255207,84013099,US,USA,840,13099.0,early,"Early, Georgia, US",105,0,5.0,0.0
 2020-04-11,us,georgia,31.32155345,-84.90255207,84013099,US,USA,840,13099.0,early,"Early, Georgia, US",106,1,6.0,1.0
+2020-04-12,us,georgia,31.32155345,-84.90255207,84013099,US,USA,840,13099.0,early,"Early, Georgia, US",121,15,6.0,0.0
+2020-04-13,us,georgia,31.32155345,-84.90255207,84013099,US,USA,840,13099.0,early,"Early, Georgia, US",126,5,6.0,0.0
 2020-01-22,us,georgia,31.32669878,-84.44218806,84013007,US,USA,840,13007.0,baker,"Baker, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.32669878,-84.44218806,84013007,US,USA,840,13007.0,baker,"Baker, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.32669878,-84.44218806,84013007,US,USA,840,13007.0,baker,"Baker, Georgia, US",0,0,0.0,0.0
@@ -1943,6 +1989,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.32669878,-84.44218806,84013007,US,USA,840,13007.0,baker,"Baker, Georgia, US",11,2,2.0,0.0
 2020-04-10,us,georgia,31.32669878,-84.44218806,84013007,US,USA,840,13007.0,baker,"Baker, Georgia, US",11,0,2.0,0.0
 2020-04-11,us,georgia,31.32669878,-84.44218806,84013007,US,USA,840,13007.0,baker,"Baker, Georgia, US",12,1,2.0,0.0
+2020-04-12,us,georgia,31.32669878,-84.44218806,84013007,US,USA,840,13007.0,baker,"Baker, Georgia, US",14,2,2.0,0.0
+2020-04-13,us,georgia,31.32669878,-84.44218806,84013007,US,USA,840,13007.0,baker,"Baker, Georgia, US",16,2,2.0,0.0
 2020-01-22,us,georgia,31.35928155,-82.21598442,84013229,US,USA,840,13229.0,pierce,"Pierce, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.35928155,-82.21598442,84013229,US,USA,840,13229.0,pierce,"Pierce, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.35928155,-82.21598442,84013229,US,USA,840,13229.0,pierce,"Pierce, Georgia, US",0,0,0.0,0.0
@@ -2024,6 +2072,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.35928155,-82.21598442,84013229,US,USA,840,13229.0,pierce,"Pierce, Georgia, US",40,4,1.0,0.0
 2020-04-10,us,georgia,31.35928155,-82.21598442,84013229,US,USA,840,13229.0,pierce,"Pierce, Georgia, US",41,1,2.0,1.0
 2020-04-11,us,georgia,31.35928155,-82.21598442,84013229,US,USA,840,13229.0,pierce,"Pierce, Georgia, US",45,4,2.0,0.0
+2020-04-12,us,georgia,31.35928155,-82.21598442,84013229,US,USA,840,13229.0,pierce,"Pierce, Georgia, US",45,0,2.0,0.0
+2020-04-13,us,georgia,31.35928155,-82.21598442,84013229,US,USA,840,13229.0,pierce,"Pierce, Georgia, US",45,0,2.0,0.0
 2020-01-22,us,georgia,31.45743864,-83.5236119,84013277,US,USA,840,13277.0,tift,"Tift, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.45743864,-83.5236119,84013277,US,USA,840,13277.0,tift,"Tift, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.45743864,-83.5236119,84013277,US,USA,840,13277.0,tift,"Tift, Georgia, US",0,0,0.0,0.0
@@ -2105,6 +2155,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.45743864,-83.5236119,84013277,US,USA,840,13277.0,tift,"Tift, Georgia, US",52,5,1.0,0.0
 2020-04-10,us,georgia,31.45743864,-83.5236119,84013277,US,USA,840,13277.0,tift,"Tift, Georgia, US",56,4,1.0,0.0
 2020-04-11,us,georgia,31.45743864,-83.5236119,84013277,US,USA,840,13277.0,tift,"Tift, Georgia, US",57,1,1.0,0.0
+2020-04-12,us,georgia,31.45743864,-83.5236119,84013277,US,USA,840,13277.0,tift,"Tift, Georgia, US",59,2,1.0,0.0
+2020-04-13,us,georgia,31.45743864,-83.5236119,84013277,US,USA,840,13277.0,tift,"Tift, Georgia, US",62,3,2.0,1.0
 2020-01-22,us,georgia,31.49683595,-81.40163426,84013191,US,USA,840,13191.0,mcintosh,"McIntosh, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.49683595,-81.40163426,84013191,US,USA,840,13191.0,mcintosh,"McIntosh, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.49683595,-81.40163426,84013191,US,USA,840,13191.0,mcintosh,"McIntosh, Georgia, US",0,0,0.0,0.0
@@ -2186,6 +2238,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.49683595,-81.40163426,84013191,US,USA,840,13191.0,mcintosh,"McIntosh, Georgia, US",3,0,0.0,0.0
 2020-04-10,us,georgia,31.49683595,-81.40163426,84013191,US,USA,840,13191.0,mcintosh,"McIntosh, Georgia, US",3,0,0.0,0.0
 2020-04-11,us,georgia,31.49683595,-81.40163426,84013191,US,USA,840,13191.0,mcintosh,"McIntosh, Georgia, US",3,0,0.0,0.0
+2020-04-12,us,georgia,31.49683595,-81.40163426,84013191,US,USA,840,13191.0,mcintosh,"McIntosh, Georgia, US",3,0,0.0,0.0
+2020-04-13,us,georgia,31.49683595,-81.40163426,84013191,US,USA,840,13191.0,mcintosh,"McIntosh, Georgia, US",3,0,0.0,0.0
 2020-01-22,us,georgia,31.53169785,-84.62725131,84013037,US,USA,840,13037.0,calhoun,"Calhoun, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.53169785,-84.62725131,84013037,US,USA,840,13037.0,calhoun,"Calhoun, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.53169785,-84.62725131,84013037,US,USA,840,13037.0,calhoun,"Calhoun, Georgia, US",0,0,0.0,0.0
@@ -2267,6 +2321,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.53169785,-84.62725131,84013037,US,USA,840,13037.0,calhoun,"Calhoun, Georgia, US",35,5,2.0,1.0
 2020-04-10,us,georgia,31.53169785,-84.62725131,84013037,US,USA,840,13037.0,calhoun,"Calhoun, Georgia, US",37,2,2.0,0.0
 2020-04-11,us,georgia,31.53169785,-84.62725131,84013037,US,USA,840,13037.0,calhoun,"Calhoun, Georgia, US",41,4,2.0,0.0
+2020-04-12,us,georgia,31.53169785,-84.62725131,84013037,US,USA,840,13037.0,calhoun,"Calhoun, Georgia, US",43,2,2.0,0.0
+2020-04-13,us,georgia,31.53169785,-84.62725131,84013037,US,USA,840,13037.0,calhoun,"Calhoun, Georgia, US",48,5,2.0,0.0
 2020-01-22,us,georgia,31.53328528,-84.21722377,84013095,US,USA,840,13095.0,dougherty,"Dougherty, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.53328528,-84.21722377,84013095,US,USA,840,13095.0,dougherty,"Dougherty, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.53328528,-84.21722377,84013095,US,USA,840,13095.0,dougherty,"Dougherty, Georgia, US",0,0,0.0,0.0
@@ -2348,6 +2404,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.53328528,-84.21722377,84013095,US,USA,840,13095.0,dougherty,"Dougherty, Georgia, US",1020,34,62.0,1.0
 2020-04-10,us,georgia,31.53328528,-84.21722377,84013095,US,USA,840,13095.0,dougherty,"Dougherty, Georgia, US",1062,42,67.0,5.0
 2020-04-11,us,georgia,31.53328528,-84.21722377,84013095,US,USA,840,13095.0,dougherty,"Dougherty, Georgia, US",1076,14,69.0,2.0
+2020-04-12,us,georgia,31.53328528,-84.21722377,84013095,US,USA,840,13095.0,dougherty,"Dougherty, Georgia, US",1154,78,72.0,3.0
+2020-04-13,us,georgia,31.53328528,-84.21722377,84013095,US,USA,840,13095.0,dougherty,"Dougherty, Georgia, US",1217,63,77.0,5.0
 2020-01-22,us,georgia,31.54892966,-82.85492059999999,84013069,US,USA,840,13069.0,coffee,"Coffee, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.54892966,-82.85492059999999,84013069,US,USA,840,13069.0,coffee,"Coffee, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.54892966,-82.85492059999999,84013069,US,USA,840,13069.0,coffee,"Coffee, Georgia, US",0,0,0.0,0.0
@@ -2429,6 +2487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.54892966,-82.85492059999999,84013069,US,USA,840,13069.0,coffee,"Coffee, Georgia, US",48,4,2.0,0.0
 2020-04-10,us,georgia,31.54892966,-82.85492059999999,84013069,US,USA,840,13069.0,coffee,"Coffee, Georgia, US",53,5,2.0,0.0
 2020-04-11,us,georgia,31.54892966,-82.85492059999999,84013069,US,USA,840,13069.0,coffee,"Coffee, Georgia, US",53,0,2.0,0.0
+2020-04-12,us,georgia,31.54892966,-82.85492059999999,84013069,US,USA,840,13069.0,coffee,"Coffee, Georgia, US",56,3,2.0,0.0
+2020-04-13,us,georgia,31.54892966,-82.85492059999999,84013069,US,USA,840,13069.0,coffee,"Coffee, Georgia, US",60,4,3.0,1.0
 2020-01-22,us,georgia,31.55162306,-83.85090513,84013321,US,USA,840,13321.0,worth,"Worth, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.55162306,-83.85090513,84013321,US,USA,840,13321.0,worth,"Worth, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.55162306,-83.85090513,84013321,US,USA,840,13321.0,worth,"Worth, Georgia, US",0,0,0.0,0.0
@@ -2510,6 +2570,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.55162306,-83.85090513,84013321,US,USA,840,13321.0,worth,"Worth, Georgia, US",68,4,3.0,0.0
 2020-04-10,us,georgia,31.55162306,-83.85090513,84013321,US,USA,840,13321.0,worth,"Worth, Georgia, US",75,7,4.0,1.0
 2020-04-11,us,georgia,31.55162306,-83.85090513,84013321,US,USA,840,13321.0,worth,"Worth, Georgia, US",78,3,4.0,0.0
+2020-04-12,us,georgia,31.55162306,-83.85090513,84013321,US,USA,840,13321.0,worth,"Worth, Georgia, US",84,6,4.0,0.0
+2020-04-13,us,georgia,31.55162306,-83.85090513,84013321,US,USA,840,13321.0,worth,"Worth, Georgia, US",91,7,4.0,0.0
 2020-01-22,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",0,0,0.0,0.0
@@ -2591,6 +2653,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",3,-1,0.0,0.0
 2020-04-10,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",3,0,0.0,0.0
 2020-04-11,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",4,1,0.0,0.0
+2020-04-12,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",4,0,0.0,0.0
+2020-04-13,us,georgia,31.5521809,-81.91894878,84013305,US,USA,840,13305.0,wayne,"Wayne, Georgia, US",4,0,0.0,0.0
 2020-01-22,us,georgia,31.55456473,-82.45936528,84013005,US,USA,840,13005.0,bacon,"Bacon, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.55456473,-82.45936528,84013005,US,USA,840,13005.0,bacon,"Bacon, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.55456473,-82.45936528,84013005,US,USA,840,13005.0,bacon,"Bacon, Georgia, US",0,0,0.0,0.0
@@ -2672,6 +2736,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.55456473,-82.45936528,84013005,US,USA,840,13005.0,bacon,"Bacon, Georgia, US",13,0,0.0,0.0
 2020-04-10,us,georgia,31.55456473,-82.45936528,84013005,US,USA,840,13005.0,bacon,"Bacon, Georgia, US",14,1,0.0,0.0
 2020-04-11,us,georgia,31.55456473,-82.45936528,84013005,US,USA,840,13005.0,bacon,"Bacon, Georgia, US",14,0,0.0,0.0
+2020-04-12,us,georgia,31.55456473,-82.45936528,84013005,US,USA,840,13005.0,bacon,"Bacon, Georgia, US",14,0,0.0,0.0
+2020-04-13,us,georgia,31.55456473,-82.45936528,84013005,US,USA,840,13005.0,bacon,"Bacon, Georgia, US",14,0,0.0,0.0
 2020-01-22,us,georgia,31.60213036,-83.27501387,84013155,US,USA,840,13155.0,irwin,"Irwin, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.60213036,-83.27501387,84013155,US,USA,840,13155.0,irwin,"Irwin, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.60213036,-83.27501387,84013155,US,USA,840,13155.0,irwin,"Irwin, Georgia, US",0,0,0.0,0.0
@@ -2753,6 +2819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.60213036,-83.27501387,84013155,US,USA,840,13155.0,irwin,"Irwin, Georgia, US",10,1,0.0,0.0
 2020-04-10,us,georgia,31.60213036,-83.27501387,84013155,US,USA,840,13155.0,irwin,"Irwin, Georgia, US",11,1,0.0,0.0
 2020-04-11,us,georgia,31.60213036,-83.27501387,84013155,US,USA,840,13155.0,irwin,"Irwin, Georgia, US",11,0,0.0,0.0
+2020-04-12,us,georgia,31.60213036,-83.27501387,84013155,US,USA,840,13155.0,irwin,"Irwin, Georgia, US",11,0,0.0,0.0
+2020-04-13,us,georgia,31.60213036,-83.27501387,84013155,US,USA,840,13155.0,irwin,"Irwin, Georgia, US",12,1,0.0,0.0
 2020-01-22,us,georgia,31.62221166,-84.97713865,84013061,US,USA,840,13061.0,clay,"Clay, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.62221166,-84.97713865,84013061,US,USA,840,13061.0,clay,"Clay, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.62221166,-84.97713865,84013061,US,USA,840,13061.0,clay,"Clay, Georgia, US",0,0,0.0,0.0
@@ -2834,6 +2902,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.62221166,-84.97713865,84013061,US,USA,840,13061.0,clay,"Clay, Georgia, US",14,1,1.0,0.0
 2020-04-10,us,georgia,31.62221166,-84.97713865,84013061,US,USA,840,13061.0,clay,"Clay, Georgia, US",15,1,1.0,0.0
 2020-04-11,us,georgia,31.62221166,-84.97713865,84013061,US,USA,840,13061.0,clay,"Clay, Georgia, US",15,0,1.0,0.0
+2020-04-12,us,georgia,31.62221166,-84.97713865,84013061,US,USA,840,13061.0,clay,"Clay, Georgia, US",15,0,1.0,0.0
+2020-04-13,us,georgia,31.62221166,-84.97713865,84013061,US,USA,840,13061.0,clay,"Clay, Georgia, US",16,1,1.0,0.0
 2020-01-22,us,georgia,31.71612656,-83.62069378,84013287,US,USA,840,13287.0,turner,"Turner, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.71612656,-83.62069378,84013287,US,USA,840,13287.0,turner,"Turner, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.71612656,-83.62069378,84013287,US,USA,840,13287.0,turner,"Turner, Georgia, US",0,0,0.0,0.0
@@ -2915,6 +2985,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.71612656,-83.62069378,84013287,US,USA,840,13287.0,turner,"Turner, Georgia, US",22,2,0.0,0.0
 2020-04-10,us,georgia,31.71612656,-83.62069378,84013287,US,USA,840,13287.0,turner,"Turner, Georgia, US",28,6,0.0,0.0
 2020-04-11,us,georgia,31.71612656,-83.62069378,84013287,US,USA,840,13287.0,turner,"Turner, Georgia, US",29,1,0.0,0.0
+2020-04-12,us,georgia,31.71612656,-83.62069378,84013287,US,USA,840,13287.0,turner,"Turner, Georgia, US",38,9,0.0,0.0
+2020-04-13,us,georgia,31.71612656,-83.62069378,84013287,US,USA,840,13287.0,turner,"Turner, Georgia, US",37,-1,0.0,0.0
 2020-01-22,us,georgia,31.74847232,-82.28909114,84013001,US,USA,840,13001.0,appling,"Appling, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.74847232,-82.28909114,84013001,US,USA,840,13001.0,appling,"Appling, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.74847232,-82.28909114,84013001,US,USA,840,13001.0,appling,"Appling, Georgia, US",0,0,0.0,0.0
@@ -2996,6 +3068,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.74847232,-82.28909114,84013001,US,USA,840,13001.0,appling,"Appling, Georgia, US",7,1,0.0,0.0
 2020-04-10,us,georgia,31.74847232,-82.28909114,84013001,US,USA,840,13001.0,appling,"Appling, Georgia, US",7,0,0.0,0.0
 2020-04-11,us,georgia,31.74847232,-82.28909114,84013001,US,USA,840,13001.0,appling,"Appling, Georgia, US",9,2,0.0,0.0
+2020-04-12,us,georgia,31.74847232,-82.28909114,84013001,US,USA,840,13001.0,appling,"Appling, Georgia, US",9,0,0.0,0.0
+2020-04-13,us,georgia,31.74847232,-82.28909114,84013001,US,USA,840,13001.0,appling,"Appling, Georgia, US",11,2,0.0,0.0
 2020-01-22,us,georgia,31.75218791,-81.74952375,84013183,US,USA,840,13183.0,long,"Long, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.75218791,-81.74952375,84013183,US,USA,840,13183.0,long,"Long, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.75218791,-81.74952375,84013183,US,USA,840,13183.0,long,"Long, Georgia, US",0,0,0.0,0.0
@@ -3077,6 +3151,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.75218791,-81.74952375,84013183,US,USA,840,13183.0,long,"Long, Georgia, US",1,0,0.0,0.0
 2020-04-10,us,georgia,31.75218791,-81.74952375,84013183,US,USA,840,13183.0,long,"Long, Georgia, US",1,0,0.0,0.0
 2020-04-11,us,georgia,31.75218791,-81.74952375,84013183,US,USA,840,13183.0,long,"Long, Georgia, US",1,0,0.0,0.0
+2020-04-12,us,georgia,31.75218791,-81.74952375,84013183,US,USA,840,13183.0,long,"Long, Georgia, US",1,0,0.0,0.0
+2020-04-13,us,georgia,31.75218791,-81.74952375,84013183,US,USA,840,13183.0,long,"Long, Georgia, US",1,0,0.0,0.0
 2020-01-22,us,georgia,31.76095874,-83.22145359,84013017,US,USA,840,13017.0,ben-hill,"Ben Hill, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.76095874,-83.22145359,84013017,US,USA,840,13017.0,ben-hill,"Ben Hill, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.76095874,-83.22145359,84013017,US,USA,840,13017.0,ben-hill,"Ben Hill, Georgia, US",0,0,0.0,0.0
@@ -3158,6 +3234,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.76095874,-83.22145359,84013017,US,USA,840,13017.0,ben-hill,"Ben Hill, Georgia, US",6,0,0.0,0.0
 2020-04-10,us,georgia,31.76095874,-83.22145359,84013017,US,USA,840,13017.0,ben-hill,"Ben Hill, Georgia, US",8,2,0.0,0.0
 2020-04-11,us,georgia,31.76095874,-83.22145359,84013017,US,USA,840,13017.0,ben-hill,"Ben Hill, Georgia, US",8,0,0.0,0.0
+2020-04-12,us,georgia,31.76095874,-83.22145359,84013017,US,USA,840,13017.0,ben-hill,"Ben Hill, Georgia, US",8,0,0.0,0.0
+2020-04-13,us,georgia,31.76095874,-83.22145359,84013017,US,USA,840,13017.0,ben-hill,"Ben Hill, Georgia, US",8,0,0.0,0.0
 2020-01-22,us,georgia,31.76622818,-84.75732369,84013243,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.76622818,-84.75732369,84013243,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.76622818,-84.75732369,84013243,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",0,0,0.0,0.0
@@ -3239,6 +3317,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.76622818,-84.75732369,84013243,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",91,9,4.0,1.0
 2020-04-10,us,georgia,31.76622818,-84.75732369,84013243,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",98,7,5.0,1.0
 2020-04-11,us,georgia,31.76622818,-84.75732369,84013243,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",103,5,5.0,0.0
+2020-04-12,us,georgia,31.76622818,-84.75732369,84013243,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",105,2,5.0,0.0
+2020-04-13,us,georgia,31.76622818,-84.75732369,84013243,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",117,12,6.0,1.0
 2020-01-22,us,georgia,31.77527543,-84.44069698,84013273,US,USA,840,13273.0,terrell,"Terrell, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.77527543,-84.44069698,84013273,US,USA,840,13273.0,terrell,"Terrell, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.77527543,-84.44069698,84013273,US,USA,840,13273.0,terrell,"Terrell, Georgia, US",0,0,0.0,0.0
@@ -3320,6 +3400,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.77527543,-84.44069698,84013273,US,USA,840,13273.0,terrell,"Terrell, Georgia, US",96,3,9.0,0.0
 2020-04-10,us,georgia,31.77527543,-84.44069698,84013273,US,USA,840,13273.0,terrell,"Terrell, Georgia, US",100,4,10.0,1.0
 2020-04-11,us,georgia,31.77527543,-84.44069698,84013273,US,USA,840,13273.0,terrell,"Terrell, Georgia, US",104,4,10.0,0.0
+2020-04-12,us,georgia,31.77527543,-84.44069698,84013273,US,USA,840,13273.0,terrell,"Terrell, Georgia, US",107,3,10.0,0.0
+2020-04-13,us,georgia,31.77527543,-84.44069698,84013273,US,USA,840,13273.0,terrell,"Terrell, Georgia, US",114,7,10.0,0.0
 2020-01-22,us,georgia,31.779330600000005,-84.14324253,84013177,US,USA,840,13177.0,lee,"Lee, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.779330600000005,-84.14324253,84013177,US,USA,840,13177.0,lee,"Lee, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.779330600000005,-84.14324253,84013177,US,USA,840,13177.0,lee,"Lee, Georgia, US",0,0,0.0,0.0
@@ -3401,6 +3483,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.779330600000005,-84.14324253,84013177,US,USA,840,13177.0,lee,"Lee, Georgia, US",212,4,14.0,-1.0
 2020-04-10,us,georgia,31.779330600000005,-84.14324253,84013177,US,USA,840,13177.0,lee,"Lee, Georgia, US",222,10,15.0,1.0
 2020-04-11,us,georgia,31.779330600000005,-84.14324253,84013177,US,USA,840,13177.0,lee,"Lee, Georgia, US",234,12,15.0,0.0
+2020-04-12,us,georgia,31.779330600000005,-84.14324253,84013177,US,USA,840,13177.0,lee,"Lee, Georgia, US",239,5,15.0,0.0
+2020-04-13,us,georgia,31.779330600000005,-84.14324253,84013177,US,USA,840,13177.0,lee,"Lee, Georgia, US",253,14,15.0,0.0
 2020-01-22,us,georgia,31.80405727,-82.63724870000001,84013161,US,USA,840,13161.0,jeff-davis,"Jeff Davis, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.80405727,-82.63724870000001,84013161,US,USA,840,13161.0,jeff-davis,"Jeff Davis, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.80405727,-82.63724870000001,84013161,US,USA,840,13161.0,jeff-davis,"Jeff Davis, Georgia, US",0,0,0.0,0.0
@@ -3482,6 +3566,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.80405727,-82.63724870000001,84013161,US,USA,840,13161.0,jeff-davis,"Jeff Davis, Georgia, US",1,0,0.0,0.0
 2020-04-10,us,georgia,31.80405727,-82.63724870000001,84013161,US,USA,840,13161.0,jeff-davis,"Jeff Davis, Georgia, US",1,0,0.0,0.0
 2020-04-11,us,georgia,31.80405727,-82.63724870000001,84013161,US,USA,840,13161.0,jeff-davis,"Jeff Davis, Georgia, US",1,0,0.0,0.0
+2020-04-12,us,georgia,31.80405727,-82.63724870000001,84013161,US,USA,840,13161.0,jeff-davis,"Jeff Davis, Georgia, US",1,0,0.0,0.0
+2020-04-13,us,georgia,31.80405727,-82.63724870000001,84013161,US,USA,840,13161.0,jeff-davis,"Jeff Davis, Georgia, US",1,0,0.0,0.0
 2020-01-22,us,georgia,31.82588896,-81.49251135,84013179,US,USA,840,13179.0,liberty,"Liberty, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.82588896,-81.49251135,84013179,US,USA,840,13179.0,liberty,"Liberty, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.82588896,-81.49251135,84013179,US,USA,840,13179.0,liberty,"Liberty, Georgia, US",0,0,0.0,0.0
@@ -3563,6 +3649,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.82588896,-81.49251135,84013179,US,USA,840,13179.0,liberty,"Liberty, Georgia, US",15,1,0.0,0.0
 2020-04-10,us,georgia,31.82588896,-81.49251135,84013179,US,USA,840,13179.0,liberty,"Liberty, Georgia, US",14,-1,0.0,0.0
 2020-04-11,us,georgia,31.82588896,-81.49251135,84013179,US,USA,840,13179.0,liberty,"Liberty, Georgia, US",16,2,0.0,0.0
+2020-04-12,us,georgia,31.82588896,-81.49251135,84013179,US,USA,840,13179.0,liberty,"Liberty, Georgia, US",17,1,0.0,0.0
+2020-04-13,us,georgia,31.82588896,-81.49251135,84013179,US,USA,840,13179.0,liberty,"Liberty, Georgia, US",18,1,0.0,0.0
 2020-01-22,us,georgia,31.86728114,-85.01773177,84013239,US,USA,840,13239.0,quitman,"Quitman, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.86728114,-85.01773177,84013239,US,USA,840,13239.0,quitman,"Quitman, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.86728114,-85.01773177,84013239,US,USA,840,13239.0,quitman,"Quitman, Georgia, US",0,0,0.0,0.0
@@ -3644,6 +3732,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.86728114,-85.01773177,84013239,US,USA,840,13239.0,quitman,"Quitman, Georgia, US",4,0,0.0,0.0
 2020-04-10,us,georgia,31.86728114,-85.01773177,84013239,US,USA,840,13239.0,quitman,"Quitman, Georgia, US",4,0,0.0,0.0
 2020-04-11,us,georgia,31.86728114,-85.01773177,84013239,US,USA,840,13239.0,quitman,"Quitman, Georgia, US",3,-1,0.0,0.0
+2020-04-12,us,georgia,31.86728114,-85.01773177,84013239,US,USA,840,13239.0,quitman,"Quitman, Georgia, US",3,0,0.0,0.0
+2020-04-13,us,georgia,31.86728114,-85.01773177,84013239,US,USA,840,13239.0,quitman,"Quitman, Georgia, US",3,0,0.0,0.0
 2020-01-22,us,georgia,31.92289565,-83.76811843,84013081,US,USA,840,13081.0,crisp,"Crisp, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.92289565,-83.76811843,84013081,US,USA,840,13081.0,crisp,"Crisp, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.92289565,-83.76811843,84013081,US,USA,840,13081.0,crisp,"Crisp, Georgia, US",0,0,0.0,0.0
@@ -3725,6 +3815,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.92289565,-83.76811843,84013081,US,USA,840,13081.0,crisp,"Crisp, Georgia, US",53,5,0.0,0.0
 2020-04-10,us,georgia,31.92289565,-83.76811843,84013081,US,USA,840,13081.0,crisp,"Crisp, Georgia, US",61,8,0.0,0.0
 2020-04-11,us,georgia,31.92289565,-83.76811843,84013081,US,USA,840,13081.0,crisp,"Crisp, Georgia, US",67,6,0.0,0.0
+2020-04-12,us,georgia,31.92289565,-83.76811843,84013081,US,USA,840,13081.0,crisp,"Crisp, Georgia, US",70,3,0.0,0.0
+2020-04-13,us,georgia,31.92289565,-83.76811843,84013081,US,USA,840,13081.0,crisp,"Crisp, Georgia, US",71,1,1.0,1.0
 2020-01-22,us,georgia,31.92829517,-82.93491155,84013271,US,USA,840,13271.0,telfair,"Telfair, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.92829517,-82.93491155,84013271,US,USA,840,13271.0,telfair,"Telfair, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.92829517,-82.93491155,84013271,US,USA,840,13271.0,telfair,"Telfair, Georgia, US",0,0,0.0,0.0
@@ -3806,6 +3898,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.92829517,-82.93491155,84013271,US,USA,840,13271.0,telfair,"Telfair, Georgia, US",7,3,0.0,0.0
 2020-04-10,us,georgia,31.92829517,-82.93491155,84013271,US,USA,840,13271.0,telfair,"Telfair, Georgia, US",9,2,0.0,0.0
 2020-04-11,us,georgia,31.92829517,-82.93491155,84013271,US,USA,840,13271.0,telfair,"Telfair, Georgia, US",9,0,0.0,0.0
+2020-04-12,us,georgia,31.92829517,-82.93491155,84013271,US,USA,840,13271.0,telfair,"Telfair, Georgia, US",9,0,0.0,0.0
+2020-04-13,us,georgia,31.92829517,-82.93491155,84013271,US,USA,840,13271.0,telfair,"Telfair, Georgia, US",9,0,0.0,0.0
 2020-01-22,us,georgia,31.97496928,-83.43438555,84013315,US,USA,840,13315.0,wilcox,"Wilcox, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,31.97496928,-83.43438555,84013315,US,USA,840,13315.0,wilcox,"Wilcox, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,31.97496928,-83.43438555,84013315,US,USA,840,13315.0,wilcox,"Wilcox, Georgia, US",0,0,0.0,0.0
@@ -3887,6 +3981,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,31.97496928,-83.43438555,84013315,US,USA,840,13315.0,wilcox,"Wilcox, Georgia, US",5,3,0.0,0.0
 2020-04-10,us,georgia,31.97496928,-83.43438555,84013315,US,USA,840,13315.0,wilcox,"Wilcox, Georgia, US",5,0,0.0,0.0
 2020-04-11,us,georgia,31.97496928,-83.43438555,84013315,US,USA,840,13315.0,wilcox,"Wilcox, Georgia, US",5,0,0.0,0.0
+2020-04-12,us,georgia,31.97496928,-83.43438555,84013315,US,USA,840,13315.0,wilcox,"Wilcox, Georgia, US",22,17,0.0,0.0
+2020-04-13,us,georgia,31.97496928,-83.43438555,84013315,US,USA,840,13315.0,wilcox,"Wilcox, Georgia, US",24,2,0.0,0.0
 2020-01-22,us,georgia,32.00043026,-81.12489526,84013051,US,USA,840,13051.0,chatham,"Chatham, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.00043026,-81.12489526,84013051,US,USA,840,13051.0,chatham,"Chatham, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.00043026,-81.12489526,84013051,US,USA,840,13051.0,chatham,"Chatham, Georgia, US",0,0,0.0,0.0
@@ -3968,6 +4064,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.00043026,-81.12489526,84013051,US,USA,840,13051.0,chatham,"Chatham, Georgia, US",131,6,4.0,0.0
 2020-04-10,us,georgia,32.00043026,-81.12489526,84013051,US,USA,840,13051.0,chatham,"Chatham, Georgia, US",136,5,5.0,1.0
 2020-04-11,us,georgia,32.00043026,-81.12489526,84013051,US,USA,840,13051.0,chatham,"Chatham, Georgia, US",142,6,5.0,0.0
+2020-04-12,us,georgia,32.00043026,-81.12489526,84013051,US,USA,840,13051.0,chatham,"Chatham, Georgia, US",147,5,5.0,0.0
+2020-04-13,us,georgia,32.00043026,-81.12489526,84013051,US,USA,840,13051.0,chatham,"Chatham, Georgia, US",152,5,5.0,0.0
 2020-01-22,us,georgia,32.00979311,-81.44002948,84013029,US,USA,840,13029.0,bryan,"Bryan, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.00979311,-81.44002948,84013029,US,USA,840,13029.0,bryan,"Bryan, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.00979311,-81.44002948,84013029,US,USA,840,13029.0,bryan,"Bryan, Georgia, US",0,0,0.0,0.0
@@ -4049,6 +4147,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.00979311,-81.44002948,84013029,US,USA,840,13029.0,bryan,"Bryan, Georgia, US",25,-1,2.0,0.0
 2020-04-10,us,georgia,32.00979311,-81.44002948,84013029,US,USA,840,13029.0,bryan,"Bryan, Georgia, US",29,4,2.0,0.0
 2020-04-11,us,georgia,32.00979311,-81.44002948,84013029,US,USA,840,13029.0,bryan,"Bryan, Georgia, US",28,-1,1.0,-1.0
+2020-04-12,us,georgia,32.00979311,-81.44002948,84013029,US,USA,840,13029.0,bryan,"Bryan, Georgia, US",29,1,1.0,0.0
+2020-04-13,us,georgia,32.00979311,-81.44002948,84013029,US,USA,840,13029.0,bryan,"Bryan, Georgia, US",31,2,2.0,1.0
 2020-01-22,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",0,0,0.0,0.0
@@ -4130,6 +4230,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",190,22,5.0,0.0
 2020-04-10,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",211,21,9.0,4.0
 2020-04-11,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",222,11,9.0,0.0
+2020-04-12,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",227,5,9.0,0.0
+2020-04-13,us,georgia,32.03650571,-84.19821492,84013261,US,USA,840,13261.0,sumter,"Sumter, Georgia, US",245,18,9.0,0.0
 2020-01-22,us,georgia,32.04066113,-84.54742852,84013307,US,USA,840,13307.0,webster,"Webster, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.04066113,-84.54742852,84013307,US,USA,840,13307.0,webster,"Webster, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.04066113,-84.54742852,84013307,US,USA,840,13307.0,webster,"Webster, Georgia, US",0,0,0.0,0.0
@@ -4211,6 +4313,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.04066113,-84.54742852,84013307,US,USA,840,13307.0,webster,"Webster, Georgia, US",3,0,0.0,0.0
 2020-04-10,us,georgia,32.04066113,-84.54742852,84013307,US,USA,840,13307.0,webster,"Webster, Georgia, US",3,0,0.0,0.0
 2020-04-11,us,georgia,32.04066113,-84.54742852,84013307,US,USA,840,13307.0,webster,"Webster, Georgia, US",3,0,0.0,0.0
+2020-04-12,us,georgia,32.04066113,-84.54742852,84013307,US,USA,840,13307.0,webster,"Webster, Georgia, US",3,0,0.0,0.0
+2020-04-13,us,georgia,32.04066113,-84.54742852,84013307,US,USA,840,13307.0,webster,"Webster, Georgia, US",3,0,0.0,0.0
 2020-01-22,us,georgia,32.04785085,-82.05539188,84013267,US,USA,840,13267.0,tattnall,"Tattnall, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.04785085,-82.05539188,84013267,US,USA,840,13267.0,tattnall,"Tattnall, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.04785085,-82.05539188,84013267,US,USA,840,13267.0,tattnall,"Tattnall, Georgia, US",0,0,0.0,0.0
@@ -4292,6 +4396,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.04785085,-82.05539188,84013267,US,USA,840,13267.0,tattnall,"Tattnall, Georgia, US",3,0,0.0,0.0
 2020-04-10,us,georgia,32.04785085,-82.05539188,84013267,US,USA,840,13267.0,tattnall,"Tattnall, Georgia, US",3,0,0.0,0.0
 2020-04-11,us,georgia,32.04785085,-82.05539188,84013267,US,USA,840,13267.0,tattnall,"Tattnall, Georgia, US",3,0,0.0,0.0
+2020-04-12,us,georgia,32.04785085,-82.05539188,84013267,US,USA,840,13267.0,tattnall,"Tattnall, Georgia, US",5,2,0.0,0.0
+2020-04-13,us,georgia,32.04785085,-82.05539188,84013267,US,USA,840,13267.0,tattnall,"Tattnall, Georgia, US",5,0,0.0,0.0
 2020-01-22,us,georgia,32.07996777,-84.83208037,84013259,US,USA,840,13259.0,stewart,"Stewart, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.07996777,-84.83208037,84013259,US,USA,840,13259.0,stewart,"Stewart, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.07996777,-84.83208037,84013259,US,USA,840,13259.0,stewart,"Stewart, Georgia, US",0,0,0.0,0.0
@@ -4373,6 +4479,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.07996777,-84.83208037,84013259,US,USA,840,13259.0,stewart,"Stewart, Georgia, US",4,0,0.0,0.0
 2020-04-10,us,georgia,32.07996777,-84.83208037,84013259,US,USA,840,13259.0,stewart,"Stewart, Georgia, US",6,2,0.0,0.0
 2020-04-11,us,georgia,32.07996777,-84.83208037,84013259,US,USA,840,13259.0,stewart,"Stewart, Georgia, US",6,0,0.0,0.0
+2020-04-12,us,georgia,32.07996777,-84.83208037,84013259,US,USA,840,13259.0,stewart,"Stewart, Georgia, US",6,0,0.0,0.0
+2020-04-13,us,georgia,32.07996777,-84.83208037,84013259,US,USA,840,13259.0,stewart,"Stewart, Georgia, US",8,2,0.0,0.0
 2020-01-22,us,georgia,32.12009104,-82.72574721,84013309,US,USA,840,13309.0,wheeler,"Wheeler, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.12009104,-82.72574721,84013309,US,USA,840,13309.0,wheeler,"Wheeler, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.12009104,-82.72574721,84013309,US,USA,840,13309.0,wheeler,"Wheeler, Georgia, US",0,0,0.0,0.0
@@ -4454,6 +4562,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.12009104,-82.72574721,84013309,US,USA,840,13309.0,wheeler,"Wheeler, Georgia, US",2,1,0.0,0.0
 2020-04-10,us,georgia,32.12009104,-82.72574721,84013309,US,USA,840,13309.0,wheeler,"Wheeler, Georgia, US",2,0,0.0,0.0
 2020-04-11,us,georgia,32.12009104,-82.72574721,84013309,US,USA,840,13309.0,wheeler,"Wheeler, Georgia, US",2,0,0.0,0.0
+2020-04-12,us,georgia,32.12009104,-82.72574721,84013309,US,USA,840,13309.0,wheeler,"Wheeler, Georgia, US",2,0,0.0,0.0
+2020-04-13,us,georgia,32.12009104,-82.72574721,84013309,US,USA,840,13309.0,wheeler,"Wheeler, Georgia, US",2,0,0.0,0.0
 2020-01-22,us,georgia,32.12059861,-82.32957247,84013279,US,USA,840,13279.0,toombs,"Toombs, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.12059861,-82.32957247,84013279,US,USA,840,13279.0,toombs,"Toombs, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.12059861,-82.32957247,84013279,US,USA,840,13279.0,toombs,"Toombs, Georgia, US",0,0,0.0,0.0
@@ -4535,6 +4645,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.12059861,-82.32957247,84013279,US,USA,840,13279.0,toombs,"Toombs, Georgia, US",8,0,1.0,0.0
 2020-04-10,us,georgia,32.12059861,-82.32957247,84013279,US,USA,840,13279.0,toombs,"Toombs, Georgia, US",11,3,1.0,0.0
 2020-04-11,us,georgia,32.12059861,-82.32957247,84013279,US,USA,840,13279.0,toombs,"Toombs, Georgia, US",11,0,1.0,0.0
+2020-04-12,us,georgia,32.12059861,-82.32957247,84013279,US,USA,840,13279.0,toombs,"Toombs, Georgia, US",11,0,1.0,0.0
+2020-04-13,us,georgia,32.12059861,-82.32957247,84013279,US,USA,840,13279.0,toombs,"Toombs, Georgia, US",12,1,1.0,0.0
 2020-01-22,us,georgia,32.15328841,-81.8870105,84013109,US,USA,840,13109.0,evans,"Evans, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.15328841,-81.8870105,84013109,US,USA,840,13109.0,evans,"Evans, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.15328841,-81.8870105,84013109,US,USA,840,13109.0,evans,"Evans, Georgia, US",0,0,0.0,0.0
@@ -4616,6 +4728,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.15328841,-81.8870105,84013109,US,USA,840,13109.0,evans,"Evans, Georgia, US",0,0,0.0,0.0
 2020-04-10,us,georgia,32.15328841,-81.8870105,84013109,US,USA,840,13109.0,evans,"Evans, Georgia, US",0,0,0.0,0.0
 2020-04-11,us,georgia,32.15328841,-81.8870105,84013109,US,USA,840,13109.0,evans,"Evans, Georgia, US",0,0,0.0,0.0
+2020-04-12,us,georgia,32.15328841,-81.8870105,84013109,US,USA,840,13109.0,evans,"Evans, Georgia, US",0,0,0.0,0.0
+2020-04-13,us,georgia,32.15328841,-81.8870105,84013109,US,USA,840,13109.0,evans,"Evans, Georgia, US",1,1,0.0,0.0
 2020-01-22,us,georgia,32.15630737,-83.79746561,84013093,US,USA,840,13093.0,dooly,"Dooly, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.15630737,-83.79746561,84013093,US,USA,840,13093.0,dooly,"Dooly, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.15630737,-83.79746561,84013093,US,USA,840,13093.0,dooly,"Dooly, Georgia, US",0,0,0.0,0.0
@@ -4697,6 +4811,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.15630737,-83.79746561,84013093,US,USA,840,13093.0,dooly,"Dooly, Georgia, US",28,1,1.0,0.0
 2020-04-10,us,georgia,32.15630737,-83.79746561,84013093,US,USA,840,13093.0,dooly,"Dooly, Georgia, US",35,7,1.0,0.0
 2020-04-11,us,georgia,32.15630737,-83.79746561,84013093,US,USA,840,13093.0,dooly,"Dooly, Georgia, US",40,5,1.0,0.0
+2020-04-12,us,georgia,32.15630737,-83.79746561,84013093,US,USA,840,13093.0,dooly,"Dooly, Georgia, US",40,0,1.0,0.0
+2020-04-13,us,georgia,32.15630737,-83.79746561,84013093,US,USA,840,13093.0,dooly,"Dooly, Georgia, US",50,10,2.0,1.0
 2020-01-22,us,georgia,32.17201038,-82.53527476,84013209,US,USA,840,13209.0,montgomery,"Montgomery, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.17201038,-82.53527476,84013209,US,USA,840,13209.0,montgomery,"Montgomery, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.17201038,-82.53527476,84013209,US,USA,840,13209.0,montgomery,"Montgomery, Georgia, US",0,0,0.0,0.0
@@ -4778,6 +4894,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.17201038,-82.53527476,84013209,US,USA,840,13209.0,montgomery,"Montgomery, Georgia, US",0,0,0.0,0.0
 2020-04-10,us,georgia,32.17201038,-82.53527476,84013209,US,USA,840,13209.0,montgomery,"Montgomery, Georgia, US",0,0,0.0,0.0
 2020-04-11,us,georgia,32.17201038,-82.53527476,84013209,US,USA,840,13209.0,montgomery,"Montgomery, Georgia, US",0,0,0.0,0.0
+2020-04-12,us,georgia,32.17201038,-82.53527476,84013209,US,USA,840,13209.0,montgomery,"Montgomery, Georgia, US",2,2,0.0,0.0
+2020-04-13,us,georgia,32.17201038,-82.53527476,84013209,US,USA,840,13209.0,montgomery,"Montgomery, Georgia, US",2,0,0.0,0.0
 2020-01-22,us,georgia,32.17265114,-83.16948926,84013091,US,USA,840,13091.0,dodge,"Dodge, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.17265114,-83.16948926,84013091,US,USA,840,13091.0,dodge,"Dodge, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.17265114,-83.16948926,84013091,US,USA,840,13091.0,dodge,"Dodge, Georgia, US",0,0,0.0,0.0
@@ -4859,6 +4977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.17265114,-83.16948926,84013091,US,USA,840,13091.0,dodge,"Dodge, Georgia, US",9,0,0.0,0.0
 2020-04-10,us,georgia,32.17265114,-83.16948926,84013091,US,USA,840,13091.0,dodge,"Dodge, Georgia, US",9,0,0.0,0.0
 2020-04-11,us,georgia,32.17265114,-83.16948926,84013091,US,USA,840,13091.0,dodge,"Dodge, Georgia, US",9,0,0.0,0.0
+2020-04-12,us,georgia,32.17265114,-83.16948926,84013091,US,USA,840,13091.0,dodge,"Dodge, Georgia, US",13,4,0.0,0.0
+2020-04-13,us,georgia,32.17265114,-83.16948926,84013091,US,USA,840,13091.0,dodge,"Dodge, Georgia, US",14,1,0.0,0.0
 2020-01-22,us,georgia,32.23334561,-83.47549959999998,84013235,US,USA,840,13235.0,pulaski,"Pulaski, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.23334561,-83.47549959999998,84013235,US,USA,840,13235.0,pulaski,"Pulaski, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.23334561,-83.47549959999998,84013235,US,USA,840,13235.0,pulaski,"Pulaski, Georgia, US",0,0,0.0,0.0
@@ -4940,6 +5060,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.23334561,-83.47549959999998,84013235,US,USA,840,13235.0,pulaski,"Pulaski, Georgia, US",9,1,0.0,0.0
 2020-04-10,us,georgia,32.23334561,-83.47549959999998,84013235,US,USA,840,13235.0,pulaski,"Pulaski, Georgia, US",9,0,0.0,0.0
 2020-04-11,us,georgia,32.23334561,-83.47549959999998,84013235,US,USA,840,13235.0,pulaski,"Pulaski, Georgia, US",9,0,0.0,0.0
+2020-04-12,us,georgia,32.23334561,-83.47549959999998,84013235,US,USA,840,13235.0,pulaski,"Pulaski, Georgia, US",9,0,0.0,0.0
+2020-04-13,us,georgia,32.23334561,-83.47549959999998,84013235,US,USA,840,13235.0,pulaski,"Pulaski, Georgia, US",10,1,1.0,1.0
 2020-01-22,us,georgia,32.2654021,-84.31258912,84013249,US,USA,840,13249.0,schley,"Schley, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.2654021,-84.31258912,84013249,US,USA,840,13249.0,schley,"Schley, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.2654021,-84.31258912,84013249,US,USA,840,13249.0,schley,"Schley, Georgia, US",0,0,0.0,0.0
@@ -5021,6 +5143,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.2654021,-84.31258912,84013249,US,USA,840,13249.0,schley,"Schley, Georgia, US",10,0,1.0,0.0
 2020-04-10,us,georgia,32.2654021,-84.31258912,84013249,US,USA,840,13249.0,schley,"Schley, Georgia, US",12,2,1.0,0.0
 2020-04-11,us,georgia,32.2654021,-84.31258912,84013249,US,USA,840,13249.0,schley,"Schley, Georgia, US",12,0,1.0,0.0
+2020-04-12,us,georgia,32.2654021,-84.31258912,84013249,US,USA,840,13249.0,schley,"Schley, Georgia, US",12,0,1.0,0.0
+2020-04-13,us,georgia,32.2654021,-84.31258912,84013249,US,USA,840,13249.0,schley,"Schley, Georgia, US",12,0,1.0,0.0
 2020-01-22,us,georgia,32.34341231,-84.78809239,84013053,US,USA,840,13053.0,chattahoochee,"Chattahoochee, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.34341231,-84.78809239,84013053,US,USA,840,13053.0,chattahoochee,"Chattahoochee, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.34341231,-84.78809239,84013053,US,USA,840,13053.0,chattahoochee,"Chattahoochee, Georgia, US",0,0,0.0,0.0
@@ -5102,6 +5226,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.34341231,-84.78809239,84013053,US,USA,840,13053.0,chattahoochee,"Chattahoochee, Georgia, US",2,0,0.0,0.0
 2020-04-10,us,georgia,32.34341231,-84.78809239,84013053,US,USA,840,13053.0,chattahoochee,"Chattahoochee, Georgia, US",3,1,0.0,0.0
 2020-04-11,us,georgia,32.34341231,-84.78809239,84013053,US,USA,840,13053.0,chattahoochee,"Chattahoochee, Georgia, US",3,0,0.0,0.0
+2020-04-12,us,georgia,32.34341231,-84.78809239,84013053,US,USA,840,13053.0,chattahoochee,"Chattahoochee, Georgia, US",3,0,0.0,0.0
+2020-04-13,us,georgia,32.34341231,-84.78809239,84013053,US,USA,840,13053.0,chattahoochee,"Chattahoochee, Georgia, US",3,0,0.0,0.0
 2020-01-22,us,georgia,32.3483402,-84.52733571,84013197,US,USA,840,13197.0,marion,"Marion, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.3483402,-84.52733571,84013197,US,USA,840,13197.0,marion,"Marion, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.3483402,-84.52733571,84013197,US,USA,840,13197.0,marion,"Marion, Georgia, US",0,0,0.0,0.0
@@ -5183,6 +5309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.3483402,-84.52733571,84013197,US,USA,840,13197.0,marion,"Marion, Georgia, US",7,2,0.0,0.0
 2020-04-10,us,georgia,32.3483402,-84.52733571,84013197,US,USA,840,13197.0,marion,"Marion, Georgia, US",9,2,0.0,0.0
 2020-04-11,us,georgia,32.3483402,-84.52733571,84013197,US,USA,840,13197.0,marion,"Marion, Georgia, US",10,1,0.0,0.0
+2020-04-12,us,georgia,32.3483402,-84.52733571,84013197,US,USA,840,13197.0,marion,"Marion, Georgia, US",10,0,0.0,0.0
+2020-04-13,us,georgia,32.3483402,-84.52733571,84013197,US,USA,840,13197.0,marion,"Marion, Georgia, US",10,0,0.0,0.0
 2020-01-22,us,georgia,32.35207048,-84.04234127,84013193,US,USA,840,13193.0,macon,"Macon, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.35207048,-84.04234127,84013193,US,USA,840,13193.0,macon,"Macon, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.35207048,-84.04234127,84013193,US,USA,840,13193.0,macon,"Macon, Georgia, US",0,0,0.0,0.0
@@ -5264,6 +5392,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.35207048,-84.04234127,84013193,US,USA,840,13193.0,macon,"Macon, Georgia, US",15,4,0.0,0.0
 2020-04-10,us,georgia,32.35207048,-84.04234127,84013193,US,USA,840,13193.0,macon,"Macon, Georgia, US",18,3,0.0,0.0
 2020-04-11,us,georgia,32.35207048,-84.04234127,84013193,US,USA,840,13193.0,macon,"Macon, Georgia, US",19,1,0.0,0.0
+2020-04-12,us,georgia,32.35207048,-84.04234127,84013193,US,USA,840,13193.0,macon,"Macon, Georgia, US",21,2,0.0,0.0
+2020-04-13,us,georgia,32.35207048,-84.04234127,84013193,US,USA,840,13193.0,macon,"Macon, Georgia, US",25,4,0.0,0.0
 2020-01-22,us,georgia,32.36616021,-81.34280942,84013103,US,USA,840,13103.0,effingham,"Effingham, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.36616021,-81.34280942,84013103,US,USA,840,13103.0,effingham,"Effingham, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.36616021,-81.34280942,84013103,US,USA,840,13103.0,effingham,"Effingham, Georgia, US",0,0,0.0,0.0
@@ -5345,6 +5475,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.36616021,-81.34280942,84013103,US,USA,840,13103.0,effingham,"Effingham, Georgia, US",19,1,1.0,0.0
 2020-04-10,us,georgia,32.36616021,-81.34280942,84013103,US,USA,840,13103.0,effingham,"Effingham, Georgia, US",19,0,1.0,0.0
 2020-04-11,us,georgia,32.36616021,-81.34280942,84013103,US,USA,840,13103.0,effingham,"Effingham, Georgia, US",20,1,1.0,0.0
+2020-04-12,us,georgia,32.36616021,-81.34280942,84013103,US,USA,840,13103.0,effingham,"Effingham, Georgia, US",22,2,1.0,0.0
+2020-04-13,us,georgia,32.36616021,-81.34280942,84013103,US,USA,840,13103.0,effingham,"Effingham, Georgia, US",22,0,1.0,0.0
 2020-01-22,us,georgia,32.39577406,-81.74811421,84013031,US,USA,840,13031.0,bulloch,"Bulloch, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.39577406,-81.74811421,84013031,US,USA,840,13031.0,bulloch,"Bulloch, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.39577406,-81.74811421,84013031,US,USA,840,13031.0,bulloch,"Bulloch, Georgia, US",0,0,0.0,0.0
@@ -5426,6 +5558,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.39577406,-81.74811421,84013031,US,USA,840,13031.0,bulloch,"Bulloch, Georgia, US",14,2,0.0,0.0
 2020-04-10,us,georgia,32.39577406,-81.74811421,84013031,US,USA,840,13031.0,bulloch,"Bulloch, Georgia, US",16,2,0.0,0.0
 2020-04-11,us,georgia,32.39577406,-81.74811421,84013031,US,USA,840,13031.0,bulloch,"Bulloch, Georgia, US",16,0,1.0,1.0
+2020-04-12,us,georgia,32.39577406,-81.74811421,84013031,US,USA,840,13031.0,bulloch,"Bulloch, Georgia, US",16,0,1.0,0.0
+2020-04-13,us,georgia,32.39577406,-81.74811421,84013031,US,USA,840,13031.0,bulloch,"Bulloch, Georgia, US",19,3,1.0,0.0
 2020-01-22,us,georgia,32.40209349,-82.07702563,84013043,US,USA,840,13043.0,candler,"Candler, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.40209349,-82.07702563,84013043,US,USA,840,13043.0,candler,"Candler, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.40209349,-82.07702563,84013043,US,USA,840,13043.0,candler,"Candler, Georgia, US",0,0,0.0,0.0
@@ -5507,6 +5641,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.40209349,-82.07702563,84013043,US,USA,840,13043.0,candler,"Candler, Georgia, US",4,0,0.0,0.0
 2020-04-10,us,georgia,32.40209349,-82.07702563,84013043,US,USA,840,13043.0,candler,"Candler, Georgia, US",4,0,0.0,0.0
 2020-04-11,us,georgia,32.40209349,-82.07702563,84013043,US,USA,840,13043.0,candler,"Candler, Georgia, US",4,0,0.0,0.0
+2020-04-12,us,georgia,32.40209349,-82.07702563,84013043,US,USA,840,13043.0,candler,"Candler, Georgia, US",4,0,0.0,0.0
+2020-04-13,us,georgia,32.40209349,-82.07702563,84013043,US,USA,840,13043.0,candler,"Candler, Georgia, US",4,0,0.0,0.0
 2020-01-22,us,georgia,32.40422134,-82.56904553,84013283,US,USA,840,13283.0,treutlen,"Treutlen, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.40422134,-82.56904553,84013283,US,USA,840,13283.0,treutlen,"Treutlen, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.40422134,-82.56904553,84013283,US,USA,840,13283.0,treutlen,"Treutlen, Georgia, US",0,0,0.0,0.0
@@ -5588,6 +5724,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.40422134,-82.56904553,84013283,US,USA,840,13283.0,treutlen,"Treutlen, Georgia, US",1,0,0.0,0.0
 2020-04-10,us,georgia,32.40422134,-82.56904553,84013283,US,USA,840,13283.0,treutlen,"Treutlen, Georgia, US",1,0,0.0,0.0
 2020-04-11,us,georgia,32.40422134,-82.56904553,84013283,US,USA,840,13283.0,treutlen,"Treutlen, Georgia, US",1,0,0.0,0.0
+2020-04-12,us,georgia,32.40422134,-82.56904553,84013283,US,USA,840,13283.0,treutlen,"Treutlen, Georgia, US",1,0,0.0,0.0
+2020-04-13,us,georgia,32.40422134,-82.56904553,84013283,US,USA,840,13283.0,treutlen,"Treutlen, Georgia, US",1,0,0.0,0.0
 2020-01-22,us,georgia,32.43829035,-83.33035166,84013023,US,USA,840,13023.0,bleckley,"Bleckley, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.43829035,-83.33035166,84013023,US,USA,840,13023.0,bleckley,"Bleckley, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.43829035,-83.33035166,84013023,US,USA,840,13023.0,bleckley,"Bleckley, Georgia, US",0,0,0.0,0.0
@@ -5669,6 +5807,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.43829035,-83.33035166,84013023,US,USA,840,13023.0,bleckley,"Bleckley, Georgia, US",1,0,0.0,0.0
 2020-04-10,us,georgia,32.43829035,-83.33035166,84013023,US,USA,840,13023.0,bleckley,"Bleckley, Georgia, US",1,0,0.0,0.0
 2020-04-11,us,georgia,32.43829035,-83.33035166,84013023,US,USA,840,13023.0,bleckley,"Bleckley, Georgia, US",1,0,0.0,0.0
+2020-04-12,us,georgia,32.43829035,-83.33035166,84013023,US,USA,840,13023.0,bleckley,"Bleckley, Georgia, US",1,0,0.0,0.0
+2020-04-13,us,georgia,32.43829035,-83.33035166,84013023,US,USA,840,13023.0,bleckley,"Bleckley, Georgia, US",3,2,0.0,0.0
 2020-01-22,us,georgia,32.45802497,-83.66879087,84013153,US,USA,840,13153.0,houston,"Houston, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.45802497,-83.66879087,84013153,US,USA,840,13153.0,houston,"Houston, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.45802497,-83.66879087,84013153,US,USA,840,13153.0,houston,"Houston, Georgia, US",0,0,0.0,0.0
@@ -5750,6 +5890,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.45802497,-83.66879087,84013153,US,USA,840,13153.0,houston,"Houston, Georgia, US",103,11,7.0,0.0
 2020-04-10,us,georgia,32.45802497,-83.66879087,84013153,US,USA,840,13153.0,houston,"Houston, Georgia, US",111,8,7.0,0.0
 2020-04-11,us,georgia,32.45802497,-83.66879087,84013153,US,USA,840,13153.0,houston,"Houston, Georgia, US",113,2,7.0,0.0
+2020-04-12,us,georgia,32.45802497,-83.66879087,84013153,US,USA,840,13153.0,houston,"Houston, Georgia, US",115,2,7.0,0.0
+2020-04-13,us,georgia,32.45802497,-83.66879087,84013153,US,USA,840,13153.0,houston,"Houston, Georgia, US",129,14,8.0,1.0
 2020-01-22,us,georgia,32.46325233,-82.92221316,84013175,US,USA,840,13175.0,laurens,"Laurens, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.46325233,-82.92221316,84013175,US,USA,840,13175.0,laurens,"Laurens, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.46325233,-82.92221316,84013175,US,USA,840,13175.0,laurens,"Laurens, Georgia, US",0,0,0.0,0.0
@@ -5831,6 +5973,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.46325233,-82.92221316,84013175,US,USA,840,13175.0,laurens,"Laurens, Georgia, US",27,2,0.0,0.0
 2020-04-10,us,georgia,32.46325233,-82.92221316,84013175,US,USA,840,13175.0,laurens,"Laurens, Georgia, US",28,1,1.0,1.0
 2020-04-11,us,georgia,32.46325233,-82.92221316,84013175,US,USA,840,13175.0,laurens,"Laurens, Georgia, US",28,0,1.0,0.0
+2020-04-12,us,georgia,32.46325233,-82.92221316,84013175,US,USA,840,13175.0,laurens,"Laurens, Georgia, US",32,4,1.0,0.0
+2020-04-13,us,georgia,32.46325233,-82.92221316,84013175,US,USA,840,13175.0,laurens,"Laurens, Georgia, US",35,3,1.0,0.0
 2020-01-22,us,georgia,32.50931999,-84.87142262,84013215,US,USA,840,13215.0,muscogee,"Muscogee, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.50931999,-84.87142262,84013215,US,USA,840,13215.0,muscogee,"Muscogee, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.50931999,-84.87142262,84013215,US,USA,840,13215.0,muscogee,"Muscogee, Georgia, US",0,0,0.0,0.0
@@ -5912,6 +6056,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.50931999,-84.87142262,84013215,US,USA,840,13215.0,muscogee,"Muscogee, Georgia, US",98,41,2.0,1.0
 2020-04-10,us,georgia,32.50931999,-84.87142262,84013215,US,USA,840,13215.0,muscogee,"Muscogee, Georgia, US",127,29,3.0,1.0
 2020-04-11,us,georgia,32.50931999,-84.87142262,84013215,US,USA,840,13215.0,muscogee,"Muscogee, Georgia, US",144,17,4.0,1.0
+2020-04-12,us,georgia,32.50931999,-84.87142262,84013215,US,USA,840,13215.0,muscogee,"Muscogee, Georgia, US",146,2,4.0,0.0
+2020-04-13,us,georgia,32.50931999,-84.87142262,84013215,US,USA,840,13215.0,muscogee,"Muscogee, Georgia, US",161,15,4.0,0.0
 2020-01-22,us,georgia,32.55792548,-84.25077141,84013269,US,USA,840,13269.0,taylor,"Taylor, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.55792548,-84.25077141,84013269,US,USA,840,13269.0,taylor,"Taylor, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.55792548,-84.25077141,84013269,US,USA,840,13269.0,taylor,"Taylor, Georgia, US",0,0,0.0,0.0
@@ -5993,6 +6139,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.55792548,-84.25077141,84013269,US,USA,840,13269.0,taylor,"Taylor, Georgia, US",5,0,2.0,0.0
 2020-04-10,us,georgia,32.55792548,-84.25077141,84013269,US,USA,840,13269.0,taylor,"Taylor, Georgia, US",6,1,2.0,0.0
 2020-04-11,us,georgia,32.55792548,-84.25077141,84013269,US,USA,840,13269.0,taylor,"Taylor, Georgia, US",7,1,2.0,0.0
+2020-04-12,us,georgia,32.55792548,-84.25077141,84013269,US,USA,840,13269.0,taylor,"Taylor, Georgia, US",7,0,2.0,0.0
+2020-04-13,us,georgia,32.55792548,-84.25077141,84013269,US,USA,840,13269.0,taylor,"Taylor, Georgia, US",8,1,2.0,0.0
 2020-01-22,us,georgia,32.56934316,-83.82937,84013225,US,USA,840,13225.0,peach,"Peach, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.56934316,-83.82937,84013225,US,USA,840,13225.0,peach,"Peach, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.56934316,-83.82937,84013225,US,USA,840,13225.0,peach,"Peach, Georgia, US",0,0,0.0,0.0
@@ -6074,6 +6222,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.56934316,-83.82937,84013225,US,USA,840,13225.0,peach,"Peach, Georgia, US",20,1,2.0,0.0
 2020-04-10,us,georgia,32.56934316,-83.82937,84013225,US,USA,840,13225.0,peach,"Peach, Georgia, US",20,0,2.0,0.0
 2020-04-11,us,georgia,32.56934316,-83.82937,84013225,US,USA,840,13225.0,peach,"Peach, Georgia, US",21,1,2.0,0.0
+2020-04-12,us,georgia,32.56934316,-83.82937,84013225,US,USA,840,13225.0,peach,"Peach, Georgia, US",22,1,2.0,0.0
+2020-04-13,us,georgia,32.56934316,-83.82937,84013225,US,USA,840,13225.0,peach,"Peach, Georgia, US",24,2,2.0,0.0
 2020-01-22,us,georgia,32.59221302,-82.30239915,84013107,US,USA,840,13107.0,emanuel,"Emanuel, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.59221302,-82.30239915,84013107,US,USA,840,13107.0,emanuel,"Emanuel, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.59221302,-82.30239915,84013107,US,USA,840,13107.0,emanuel,"Emanuel, Georgia, US",0,0,0.0,0.0
@@ -6155,6 +6305,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.59221302,-82.30239915,84013107,US,USA,840,13107.0,emanuel,"Emanuel, Georgia, US",6,1,0.0,0.0
 2020-04-10,us,georgia,32.59221302,-82.30239915,84013107,US,USA,840,13107.0,emanuel,"Emanuel, Georgia, US",7,1,0.0,0.0
 2020-04-11,us,georgia,32.59221302,-82.30239915,84013107,US,USA,840,13107.0,emanuel,"Emanuel, Georgia, US",7,0,0.0,0.0
+2020-04-12,us,georgia,32.59221302,-82.30239915,84013107,US,USA,840,13107.0,emanuel,"Emanuel, Georgia, US",8,1,0.0,0.0
+2020-04-13,us,georgia,32.59221302,-82.30239915,84013107,US,USA,840,13107.0,emanuel,"Emanuel, Georgia, US",9,1,0.0,0.0
 2020-01-22,us,georgia,32.67435595,-83.43078662,84013289,US,USA,840,13289.0,twiggs,"Twiggs, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.67435595,-83.43078662,84013289,US,USA,840,13289.0,twiggs,"Twiggs, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.67435595,-83.43078662,84013289,US,USA,840,13289.0,twiggs,"Twiggs, Georgia, US",0,0,0.0,0.0
@@ -6236,6 +6388,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.67435595,-83.43078662,84013289,US,USA,840,13289.0,twiggs,"Twiggs, Georgia, US",2,0,0.0,0.0
 2020-04-10,us,georgia,32.67435595,-83.43078662,84013289,US,USA,840,13289.0,twiggs,"Twiggs, Georgia, US",2,0,0.0,0.0
 2020-04-11,us,georgia,32.67435595,-83.43078662,84013289,US,USA,840,13289.0,twiggs,"Twiggs, Georgia, US",2,0,0.0,0.0
+2020-04-12,us,georgia,32.67435595,-83.43078662,84013289,US,USA,840,13289.0,twiggs,"Twiggs, Georgia, US",2,0,0.0,0.0
+2020-04-13,us,georgia,32.67435595,-83.43078662,84013289,US,USA,840,13289.0,twiggs,"Twiggs, Georgia, US",2,0,0.0,0.0
 2020-01-22,us,georgia,32.69642758,-84.53351366,84013263,US,USA,840,13263.0,talbot,"Talbot, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.69642758,-84.53351366,84013263,US,USA,840,13263.0,talbot,"Talbot, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.69642758,-84.53351366,84013263,US,USA,840,13263.0,talbot,"Talbot, Georgia, US",0,0,0.0,0.0
@@ -6317,6 +6471,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.69642758,-84.53351366,84013263,US,USA,840,13263.0,talbot,"Talbot, Georgia, US",7,-1,1.0,0.0
 2020-04-10,us,georgia,32.69642758,-84.53351366,84013263,US,USA,840,13263.0,talbot,"Talbot, Georgia, US",9,2,1.0,0.0
 2020-04-11,us,georgia,32.69642758,-84.53351366,84013263,US,USA,840,13263.0,talbot,"Talbot, Georgia, US",9,0,1.0,0.0
+2020-04-12,us,georgia,32.69642758,-84.53351366,84013263,US,USA,840,13263.0,talbot,"Talbot, Georgia, US",9,0,1.0,0.0
+2020-04-13,us,georgia,32.69642758,-84.53351366,84013263,US,USA,840,13263.0,talbot,"Talbot, Georgia, US",9,0,1.0,0.0
 2020-01-22,us,georgia,32.70211082,-82.66166794,84013167,US,USA,840,13167.0,johnson,"Johnson, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.70211082,-82.66166794,84013167,US,USA,840,13167.0,johnson,"Johnson, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.70211082,-82.66166794,84013167,US,USA,840,13167.0,johnson,"Johnson, Georgia, US",0,0,0.0,0.0
@@ -6398,6 +6554,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.70211082,-82.66166794,84013167,US,USA,840,13167.0,johnson,"Johnson, Georgia, US",13,0,0.0,0.0
 2020-04-10,us,georgia,32.70211082,-82.66166794,84013167,US,USA,840,13167.0,johnson,"Johnson, Georgia, US",14,1,1.0,1.0
 2020-04-11,us,georgia,32.70211082,-82.66166794,84013167,US,USA,840,13167.0,johnson,"Johnson, Georgia, US",15,1,1.0,0.0
+2020-04-12,us,georgia,32.70211082,-82.66166794,84013167,US,USA,840,13167.0,johnson,"Johnson, Georgia, US",19,4,1.0,0.0
+2020-04-13,us,georgia,32.70211082,-82.66166794,84013167,US,USA,840,13167.0,johnson,"Johnson, Georgia, US",19,0,1.0,0.0
 2020-01-22,us,georgia,32.71391813,-83.98061238,84013079,US,USA,840,13079.0,crawford,"Crawford, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.71391813,-83.98061238,84013079,US,USA,840,13079.0,crawford,"Crawford, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.71391813,-83.98061238,84013079,US,USA,840,13079.0,crawford,"Crawford, Georgia, US",0,0,0.0,0.0
@@ -6479,6 +6637,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.71391813,-83.98061238,84013079,US,USA,840,13079.0,crawford,"Crawford, Georgia, US",3,0,0.0,0.0
 2020-04-10,us,georgia,32.71391813,-83.98061238,84013079,US,USA,840,13079.0,crawford,"Crawford, Georgia, US",3,0,0.0,0.0
 2020-04-11,us,georgia,32.71391813,-83.98061238,84013079,US,USA,840,13079.0,crawford,"Crawford, Georgia, US",3,0,0.0,0.0
+2020-04-12,us,georgia,32.71391813,-83.98061238,84013079,US,USA,840,13079.0,crawford,"Crawford, Georgia, US",3,0,0.0,0.0
+2020-04-13,us,georgia,32.71391813,-83.98061238,84013079,US,USA,840,13079.0,crawford,"Crawford, Georgia, US",3,0,0.0,0.0
 2020-01-22,us,georgia,32.73709786,-84.90538572,84013145,US,USA,840,13145.0,harris,"Harris, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.73709786,-84.90538572,84013145,US,USA,840,13145.0,harris,"Harris, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.73709786,-84.90538572,84013145,US,USA,840,13145.0,harris,"Harris, Georgia, US",0,0,0.0,0.0
@@ -6560,6 +6720,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.73709786,-84.90538572,84013145,US,USA,840,13145.0,harris,"Harris, Georgia, US",16,1,0.0,0.0
 2020-04-10,us,georgia,32.73709786,-84.90538572,84013145,US,USA,840,13145.0,harris,"Harris, Georgia, US",17,1,1.0,1.0
 2020-04-11,us,georgia,32.73709786,-84.90538572,84013145,US,USA,840,13145.0,harris,"Harris, Georgia, US",19,2,1.0,0.0
+2020-04-12,us,georgia,32.73709786,-84.90538572,84013145,US,USA,840,13145.0,harris,"Harris, Georgia, US",19,0,1.0,0.0
+2020-04-13,us,georgia,32.73709786,-84.90538572,84013145,US,USA,840,13145.0,harris,"Harris, Georgia, US",22,3,1.0,0.0
 2020-01-22,us,georgia,32.74976524,-81.60779441,84013251,US,USA,840,13251.0,screven,"Screven, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.74976524,-81.60779441,84013251,US,USA,840,13251.0,screven,"Screven, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.74976524,-81.60779441,84013251,US,USA,840,13251.0,screven,"Screven, Georgia, US",0,0,0.0,0.0
@@ -6641,6 +6803,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.74976524,-81.60779441,84013251,US,USA,840,13251.0,screven,"Screven, Georgia, US",4,0,0.0,0.0
 2020-04-10,us,georgia,32.74976524,-81.60779441,84013251,US,USA,840,13251.0,screven,"Screven, Georgia, US",5,1,0.0,0.0
 2020-04-11,us,georgia,32.74976524,-81.60779441,84013251,US,USA,840,13251.0,screven,"Screven, Georgia, US",5,0,0.0,0.0
+2020-04-12,us,georgia,32.74976524,-81.60779441,84013251,US,USA,840,13251.0,screven,"Screven, Georgia, US",7,2,0.0,0.0
+2020-04-13,us,georgia,32.74976524,-81.60779441,84013251,US,USA,840,13251.0,screven,"Screven, Georgia, US",7,0,0.0,0.0
 2020-01-22,us,georgia,32.79248718,-81.96040187,84013165,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.79248718,-81.96040187,84013165,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.79248718,-81.96040187,84013165,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",0,0,0.0,0.0
@@ -6722,6 +6886,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.79248718,-81.96040187,84013165,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",8,1,1.0,0.0
 2020-04-10,us,georgia,32.79248718,-81.96040187,84013165,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",8,0,1.0,0.0
 2020-04-11,us,georgia,32.79248718,-81.96040187,84013165,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",9,1,1.0,0.0
+2020-04-12,us,georgia,32.79248718,-81.96040187,84013165,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",9,0,1.0,0.0
+2020-04-13,us,georgia,32.79248718,-81.96040187,84013165,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",10,1,1.0,0.0
 2020-01-22,us,georgia,32.80291082,-83.17140684,84013319,US,USA,840,13319.0,wilkinson,"Wilkinson, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.80291082,-83.17140684,84013319,US,USA,840,13319.0,wilkinson,"Wilkinson, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.80291082,-83.17140684,84013319,US,USA,840,13319.0,wilkinson,"Wilkinson, Georgia, US",0,0,0.0,0.0
@@ -6803,6 +6969,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.80291082,-83.17140684,84013319,US,USA,840,13319.0,wilkinson,"Wilkinson, Georgia, US",8,4,0.0,0.0
 2020-04-10,us,georgia,32.80291082,-83.17140684,84013319,US,USA,840,13319.0,wilkinson,"Wilkinson, Georgia, US",8,0,1.0,1.0
 2020-04-11,us,georgia,32.80291082,-83.17140684,84013319,US,USA,840,13319.0,wilkinson,"Wilkinson, Georgia, US",10,2,1.0,0.0
+2020-04-12,us,georgia,32.80291082,-83.17140684,84013319,US,USA,840,13319.0,wilkinson,"Wilkinson, Georgia, US",11,1,1.0,0.0
+2020-04-13,us,georgia,32.80291082,-83.17140684,84013319,US,USA,840,13319.0,wilkinson,"Wilkinson, Georgia, US",11,0,1.0,0.0
 2020-01-22,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",0,0,0.0,0.0
@@ -6884,6 +7052,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",53,3,1.0,0.0
 2020-04-10,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",56,3,1.0,0.0
 2020-04-11,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",63,7,1.0,0.0
+2020-04-12,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",67,4,1.0,0.0
+2020-04-13,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",72,5,1.0,0.0
 2020-01-22,us,georgia,32.87920671,-84.30024826,84013293,US,USA,840,13293.0,upson,"Upson, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.87920671,-84.30024826,84013293,US,USA,840,13293.0,upson,"Upson, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.87920671,-84.30024826,84013293,US,USA,840,13293.0,upson,"Upson, Georgia, US",0,0,0.0,0.0
@@ -6965,6 +7135,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.87920671,-84.30024826,84013293,US,USA,840,13293.0,upson,"Upson, Georgia, US",40,11,0.0,0.0
 2020-04-10,us,georgia,32.87920671,-84.30024826,84013293,US,USA,840,13293.0,upson,"Upson, Georgia, US",47,7,0.0,0.0
 2020-04-11,us,georgia,32.87920671,-84.30024826,84013293,US,USA,840,13293.0,upson,"Upson, Georgia, US",51,4,1.0,1.0
+2020-04-12,us,georgia,32.87920671,-84.30024826,84013293,US,USA,840,13293.0,upson,"Upson, Georgia, US",55,4,1.0,0.0
+2020-04-13,us,georgia,32.87920671,-84.30024826,84013293,US,USA,840,13293.0,upson,"Upson, Georgia, US",61,6,2.0,1.0
 2020-01-22,us,georgia,32.96711864,-82.79357039,84013303,US,USA,840,13303.0,washington,"Washington, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,32.96711864,-82.79357039,84013303,US,USA,840,13303.0,washington,"Washington, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,32.96711864,-82.79357039,84013303,US,USA,840,13303.0,washington,"Washington, Georgia, US",0,0,0.0,0.0
@@ -7046,6 +7218,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,32.96711864,-82.79357039,84013303,US,USA,840,13303.0,washington,"Washington, Georgia, US",16,-1,0.0,0.0
 2020-04-10,us,georgia,32.96711864,-82.79357039,84013303,US,USA,840,13303.0,washington,"Washington, Georgia, US",21,5,0.0,0.0
 2020-04-11,us,georgia,32.96711864,-82.79357039,84013303,US,USA,840,13303.0,washington,"Washington, Georgia, US",21,0,0.0,0.0
+2020-04-12,us,georgia,32.96711864,-82.79357039,84013303,US,USA,840,13303.0,washington,"Washington, Georgia, US",22,1,0.0,0.0
+2020-04-13,us,georgia,32.96711864,-82.79357039,84013303,US,USA,840,13303.0,washington,"Washington, Georgia, US",23,1,0.0,0.0
 2020-01-22,us,georgia,33.014289,-83.92097166,84013207,US,USA,840,13207.0,monroe,"Monroe, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.014289,-83.92097166,84013207,US,USA,840,13207.0,monroe,"Monroe, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.014289,-83.92097166,84013207,US,USA,840,13207.0,monroe,"Monroe, Georgia, US",0,0,0.0,0.0
@@ -7127,6 +7301,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.014289,-83.92097166,84013207,US,USA,840,13207.0,monroe,"Monroe, Georgia, US",12,0,1.0,0.0
 2020-04-10,us,georgia,33.014289,-83.92097166,84013207,US,USA,840,13207.0,monroe,"Monroe, Georgia, US",12,0,1.0,0.0
 2020-04-11,us,georgia,33.014289,-83.92097166,84013207,US,USA,840,13207.0,monroe,"Monroe, Georgia, US",12,0,1.0,0.0
+2020-04-12,us,georgia,33.014289,-83.92097166,84013207,US,USA,840,13207.0,monroe,"Monroe, Georgia, US",12,0,1.0,0.0
+2020-04-13,us,georgia,33.014289,-83.92097166,84013207,US,USA,840,13207.0,monroe,"Monroe, Georgia, US",12,0,1.0,0.0
 2020-01-22,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",0,0,0.0,0.0
@@ -7208,6 +7384,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",9,2,0.0,0.0
 2020-04-10,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",9,0,0.0,0.0
 2020-04-11,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",11,2,0.0,0.0
+2020-04-12,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",11,0,0.0,0.0
+2020-04-13,us,georgia,33.02512137,-83.56019163,84013169,US,USA,840,13169.0,jones,"Jones, Georgia, US",12,1,0.0,0.0
 2020-01-22,us,georgia,33.03349196,-85.02812115,84013285,US,USA,840,13285.0,troup,"Troup, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.03349196,-85.02812115,84013285,US,USA,840,13285.0,troup,"Troup, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.03349196,-85.02812115,84013285,US,USA,840,13285.0,troup,"Troup, Georgia, US",0,0,0.0,0.0
@@ -7289,6 +7467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.03349196,-85.02812115,84013285,US,USA,840,13285.0,troup,"Troup, Georgia, US",52,4,3.0,0.0
 2020-04-10,us,georgia,33.03349196,-85.02812115,84013285,US,USA,840,13285.0,troup,"Troup, Georgia, US",56,4,3.0,0.0
 2020-04-11,us,georgia,33.03349196,-85.02812115,84013285,US,USA,840,13285.0,troup,"Troup, Georgia, US",55,-1,3.0,0.0
+2020-04-12,us,georgia,33.03349196,-85.02812115,84013285,US,USA,840,13285.0,troup,"Troup, Georgia, US",57,2,3.0,0.0
+2020-04-13,us,georgia,33.03349196,-85.02812115,84013285,US,USA,840,13285.0,troup,"Troup, Georgia, US",61,4,3.0,0.0
 2020-01-22,us,georgia,33.04163534,-84.68859732,84013199,US,USA,840,13199.0,meriwether,"Meriwether, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.04163534,-84.68859732,84013199,US,USA,840,13199.0,meriwether,"Meriwether, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.04163534,-84.68859732,84013199,US,USA,840,13199.0,meriwether,"Meriwether, Georgia, US",0,0,0.0,0.0
@@ -7370,6 +7550,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.04163534,-84.68859732,84013199,US,USA,840,13199.0,meriwether,"Meriwether, Georgia, US",18,0,0.0,0.0
 2020-04-10,us,georgia,33.04163534,-84.68859732,84013199,US,USA,840,13199.0,meriwether,"Meriwether, Georgia, US",18,0,0.0,0.0
 2020-04-11,us,georgia,33.04163534,-84.68859732,84013199,US,USA,840,13199.0,meriwether,"Meriwether, Georgia, US",22,4,0.0,0.0
+2020-04-12,us,georgia,33.04163534,-84.68859732,84013199,US,USA,840,13199.0,meriwether,"Meriwether, Georgia, US",23,1,0.0,0.0
+2020-04-13,us,georgia,33.04163534,-84.68859732,84013199,US,USA,840,13199.0,meriwether,"Meriwether, Georgia, US",23,0,0.0,0.0
 2020-01-22,us,georgia,33.05867328,-82.41609057,84013163,US,USA,840,13163.0,jefferson,"Jefferson, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.05867328,-82.41609057,84013163,US,USA,840,13163.0,jefferson,"Jefferson, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.05867328,-82.41609057,84013163,US,USA,840,13163.0,jefferson,"Jefferson, Georgia, US",0,0,0.0,0.0
@@ -7451,6 +7633,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.05867328,-82.41609057,84013163,US,USA,840,13163.0,jefferson,"Jefferson, Georgia, US",4,0,0.0,0.0
 2020-04-10,us,georgia,33.05867328,-82.41609057,84013163,US,USA,840,13163.0,jefferson,"Jefferson, Georgia, US",4,0,1.0,1.0
 2020-04-11,us,georgia,33.05867328,-82.41609057,84013163,US,USA,840,13163.0,jefferson,"Jefferson, Georgia, US",6,2,1.0,0.0
+2020-04-12,us,georgia,33.05867328,-82.41609057,84013163,US,USA,840,13163.0,jefferson,"Jefferson, Georgia, US",6,0,1.0,0.0
+2020-04-13,us,georgia,33.05867328,-82.41609057,84013163,US,USA,840,13163.0,jefferson,"Jefferson, Georgia, US",7,1,1.0,0.0
 2020-01-22,us,georgia,33.05917989,-81.99928721,84013033,US,USA,840,13033.0,burke,"Burke, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.05917989,-81.99928721,84013033,US,USA,840,13033.0,burke,"Burke, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.05917989,-81.99928721,84013033,US,USA,840,13033.0,burke,"Burke, Georgia, US",0,0,0.0,0.0
@@ -7532,6 +7716,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.05917989,-81.99928721,84013033,US,USA,840,13033.0,burke,"Burke, Georgia, US",20,3,0.0,0.0
 2020-04-10,us,georgia,33.05917989,-81.99928721,84013033,US,USA,840,13033.0,burke,"Burke, Georgia, US",21,1,0.0,0.0
 2020-04-11,us,georgia,33.05917989,-81.99928721,84013033,US,USA,840,13033.0,burke,"Burke, Georgia, US",28,7,1.0,1.0
+2020-04-12,us,georgia,33.05917989,-81.99928721,84013033,US,USA,840,13033.0,burke,"Burke, Georgia, US",28,0,1.0,0.0
+2020-04-13,us,georgia,33.05917989,-81.99928721,84013033,US,USA,840,13033.0,burke,"Burke, Georgia, US",28,0,2.0,1.0
 2020-01-22,us,georgia,33.06882326,-83.24701748,84013009,US,USA,840,13009.0,baldwin,"Baldwin, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.06882326,-83.24701748,84013009,US,USA,840,13009.0,baldwin,"Baldwin, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.06882326,-83.24701748,84013009,US,USA,840,13009.0,baldwin,"Baldwin, Georgia, US",0,0,0.0,0.0
@@ -7613,6 +7799,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.06882326,-83.24701748,84013009,US,USA,840,13009.0,baldwin,"Baldwin, Georgia, US",30,3,1.0,0.0
 2020-04-10,us,georgia,33.06882326,-83.24701748,84013009,US,USA,840,13009.0,baldwin,"Baldwin, Georgia, US",32,2,1.0,0.0
 2020-04-11,us,georgia,33.06882326,-83.24701748,84013009,US,USA,840,13009.0,baldwin,"Baldwin, Georgia, US",44,12,1.0,0.0
+2020-04-12,us,georgia,33.06882326,-83.24701748,84013009,US,USA,840,13009.0,baldwin,"Baldwin, Georgia, US",52,8,1.0,0.0
+2020-04-13,us,georgia,33.06882326,-83.24701748,84013009,US,USA,840,13009.0,baldwin,"Baldwin, Georgia, US",53,1,2.0,1.0
 2020-01-22,us,georgia,33.07841647,-84.14263877,84013171,US,USA,840,13171.0,lamar,"Lamar, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.07841647,-84.14263877,84013171,US,USA,840,13171.0,lamar,"Lamar, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.07841647,-84.14263877,84013171,US,USA,840,13171.0,lamar,"Lamar, Georgia, US",0,0,0.0,0.0
@@ -7694,6 +7882,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.07841647,-84.14263877,84013171,US,USA,840,13171.0,lamar,"Lamar, Georgia, US",15,1,0.0,0.0
 2020-04-10,us,georgia,33.07841647,-84.14263877,84013171,US,USA,840,13171.0,lamar,"Lamar, Georgia, US",15,0,0.0,0.0
 2020-04-11,us,georgia,33.07841647,-84.14263877,84013171,US,USA,840,13171.0,lamar,"Lamar, Georgia, US",15,0,0.0,0.0
+2020-04-12,us,georgia,33.07841647,-84.14263877,84013171,US,USA,840,13171.0,lamar,"Lamar, Georgia, US",16,1,0.0,0.0
+2020-04-13,us,georgia,33.07841647,-84.14263877,84013171,US,USA,840,13171.0,lamar,"Lamar, Georgia, US",18,2,0.0,0.0
 2020-01-22,us,georgia,33.09310242,-84.38790389,84013231,US,USA,840,13231.0,pike,"Pike, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.09310242,-84.38790389,84013231,US,USA,840,13231.0,pike,"Pike, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.09310242,-84.38790389,84013231,US,USA,840,13231.0,pike,"Pike, Georgia, US",0,0,0.0,0.0
@@ -7775,6 +7965,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.09310242,-84.38790389,84013231,US,USA,840,13231.0,pike,"Pike, Georgia, US",12,2,0.0,0.0
 2020-04-10,us,georgia,33.09310242,-84.38790389,84013231,US,USA,840,13231.0,pike,"Pike, Georgia, US",15,3,0.0,0.0
 2020-04-11,us,georgia,33.09310242,-84.38790389,84013231,US,USA,840,13231.0,pike,"Pike, Georgia, US",15,0,0.0,0.0
+2020-04-12,us,georgia,33.09310242,-84.38790389,84013231,US,USA,840,13231.0,pike,"Pike, Georgia, US",16,1,0.0,0.0
+2020-04-13,us,georgia,33.09310242,-84.38790389,84013231,US,USA,840,13231.0,pike,"Pike, Georgia, US",18,2,0.0,0.0
 2020-01-22,us,georgia,33.22879932,-82.61297636,84013125,US,USA,840,13125.0,glascock,"Glascock, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.22879932,-82.61297636,84013125,US,USA,840,13125.0,glascock,"Glascock, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.22879932,-82.61297636,84013125,US,USA,840,13125.0,glascock,"Glascock, Georgia, US",0,0,0.0,0.0
@@ -7856,6 +8048,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.22879932,-82.61297636,84013125,US,USA,840,13125.0,glascock,"Glascock, Georgia, US",0,0,0.0,0.0
 2020-04-10,us,georgia,33.22879932,-82.61297636,84013125,US,USA,840,13125.0,glascock,"Glascock, Georgia, US",0,0,0.0,0.0
 2020-04-11,us,georgia,33.22879932,-82.61297636,84013125,US,USA,840,13125.0,glascock,"Glascock, Georgia, US",0,0,0.0,0.0
+2020-04-12,us,georgia,33.22879932,-82.61297636,84013125,US,USA,840,13125.0,glascock,"Glascock, Georgia, US",0,0,0.0,0.0
+2020-04-13,us,georgia,33.22879932,-82.61297636,84013125,US,USA,840,13125.0,glascock,"Glascock, Georgia, US",0,0,0.0,0.0
 2020-01-22,us,georgia,33.26310031,-84.28013991,84013255,US,USA,840,13255.0,spalding,"Spalding, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.26310031,-84.28013991,84013255,US,USA,840,13255.0,spalding,"Spalding, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.26310031,-84.28013991,84013255,US,USA,840,13255.0,spalding,"Spalding, Georgia, US",0,0,0.0,0.0
@@ -7937,6 +8131,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.26310031,-84.28013991,84013255,US,USA,840,13255.0,spalding,"Spalding, Georgia, US",58,2,4.0,0.0
 2020-04-10,us,georgia,33.26310031,-84.28013991,84013255,US,USA,840,13255.0,spalding,"Spalding, Georgia, US",60,2,4.0,0.0
 2020-04-11,us,georgia,33.26310031,-84.28013991,84013255,US,USA,840,13255.0,spalding,"Spalding, Georgia, US",65,5,4.0,0.0
+2020-04-12,us,georgia,33.26310031,-84.28013991,84013255,US,USA,840,13255.0,spalding,"Spalding, Georgia, US",71,6,4.0,0.0
+2020-04-13,us,georgia,33.26310031,-84.28013991,84013255,US,USA,840,13255.0,spalding,"Spalding, Georgia, US",75,4,4.0,0.0
 2020-01-22,us,georgia,33.2721566,-82.99766919,84013141,US,USA,840,13141.0,hancock,"Hancock, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.2721566,-82.99766919,84013141,US,USA,840,13141.0,hancock,"Hancock, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.2721566,-82.99766919,84013141,US,USA,840,13141.0,hancock,"Hancock, Georgia, US",0,0,0.0,0.0
@@ -8018,6 +8214,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.2721566,-82.99766919,84013141,US,USA,840,13141.0,hancock,"Hancock, Georgia, US",1,0,0.0,0.0
 2020-04-10,us,georgia,33.2721566,-82.99766919,84013141,US,USA,840,13141.0,hancock,"Hancock, Georgia, US",1,0,0.0,0.0
 2020-04-11,us,georgia,33.2721566,-82.99766919,84013141,US,USA,840,13141.0,hancock,"Hancock, Georgia, US",3,2,0.0,0.0
+2020-04-12,us,georgia,33.2721566,-82.99766919,84013141,US,USA,840,13141.0,hancock,"Hancock, Georgia, US",3,0,0.0,0.0
+2020-04-13,us,georgia,33.2721566,-82.99766919,84013141,US,USA,840,13141.0,hancock,"Hancock, Georgia, US",3,0,0.0,0.0
 2020-01-22,us,georgia,33.283094500000004,-83.95435040000002,84013035,US,USA,840,13035.0,butts,"Butts, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.283094500000004,-83.95435040000002,84013035,US,USA,840,13035.0,butts,"Butts, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.283094500000004,-83.95435040000002,84013035,US,USA,840,13035.0,butts,"Butts, Georgia, US",0,0,0.0,0.0
@@ -8099,6 +8297,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.283094500000004,-83.95435040000002,84013035,US,USA,840,13035.0,butts,"Butts, Georgia, US",23,3,0.0,0.0
 2020-04-10,us,georgia,33.283094500000004,-83.95435040000002,84013035,US,USA,840,13035.0,butts,"Butts, Georgia, US",27,4,0.0,0.0
 2020-04-11,us,georgia,33.283094500000004,-83.95435040000002,84013035,US,USA,840,13035.0,butts,"Butts, Georgia, US",27,0,0.0,0.0
+2020-04-12,us,georgia,33.283094500000004,-83.95435040000002,84013035,US,USA,840,13035.0,butts,"Butts, Georgia, US",28,1,0.0,0.0
+2020-04-13,us,georgia,33.283094500000004,-83.95435040000002,84013035,US,USA,840,13035.0,butts,"Butts, Georgia, US",30,2,0.0,0.0
 2020-01-22,us,georgia,33.29686567,-85.12886832,84013149,US,USA,840,13149.0,heard,"Heard, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.29686567,-85.12886832,84013149,US,USA,840,13149.0,heard,"Heard, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.29686567,-85.12886832,84013149,US,USA,840,13149.0,heard,"Heard, Georgia, US",0,0,0.0,0.0
@@ -8180,6 +8380,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.29686567,-85.12886832,84013149,US,USA,840,13149.0,heard,"Heard, Georgia, US",2,-1,0.0,-1.0
 2020-04-10,us,georgia,33.29686567,-85.12886832,84013149,US,USA,840,13149.0,heard,"Heard, Georgia, US",3,1,1.0,1.0
 2020-04-11,us,georgia,33.29686567,-85.12886832,84013149,US,USA,840,13149.0,heard,"Heard, Georgia, US",3,0,1.0,0.0
+2020-04-12,us,georgia,33.29686567,-85.12886832,84013149,US,USA,840,13149.0,heard,"Heard, Georgia, US",4,1,1.0,0.0
+2020-04-13,us,georgia,33.29686567,-85.12886832,84013149,US,USA,840,13149.0,heard,"Heard, Georgia, US",4,0,1.0,0.0
 2020-01-22,us,georgia,33.31535543,-83.68844964,84013159,US,USA,840,13159.0,jasper,"Jasper, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.31535543,-83.68844964,84013159,US,USA,840,13159.0,jasper,"Jasper, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.31535543,-83.68844964,84013159,US,USA,840,13159.0,jasper,"Jasper, Georgia, US",0,0,0.0,0.0
@@ -8261,6 +8463,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.31535543,-83.68844964,84013159,US,USA,840,13159.0,jasper,"Jasper, Georgia, US",5,0,0.0,0.0
 2020-04-10,us,georgia,33.31535543,-83.68844964,84013159,US,USA,840,13159.0,jasper,"Jasper, Georgia, US",6,1,0.0,0.0
 2020-04-11,us,georgia,33.31535543,-83.68844964,84013159,US,USA,840,13159.0,jasper,"Jasper, Georgia, US",6,0,0.0,0.0
+2020-04-12,us,georgia,33.31535543,-83.68844964,84013159,US,USA,840,13159.0,jasper,"Jasper, Georgia, US",6,0,0.0,0.0
+2020-04-13,us,georgia,33.31535543,-83.68844964,84013159,US,USA,840,13159.0,jasper,"Jasper, Georgia, US",8,2,0.0,0.0
 2020-01-22,us,georgia,33.32056115,-83.37552891,84013237,US,USA,840,13237.0,putnam,"Putnam, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.32056115,-83.37552891,84013237,US,USA,840,13237.0,putnam,"Putnam, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.32056115,-83.37552891,84013237,US,USA,840,13237.0,putnam,"Putnam, Georgia, US",0,0,0.0,0.0
@@ -8342,6 +8546,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.32056115,-83.37552891,84013237,US,USA,840,13237.0,putnam,"Putnam, Georgia, US",5,0,0.0,0.0
 2020-04-10,us,georgia,33.32056115,-83.37552891,84013237,US,USA,840,13237.0,putnam,"Putnam, Georgia, US",5,0,0.0,0.0
 2020-04-11,us,georgia,33.32056115,-83.37552891,84013237,US,USA,840,13237.0,putnam,"Putnam, Georgia, US",5,0,0.0,0.0
+2020-04-12,us,georgia,33.32056115,-83.37552891,84013237,US,USA,840,13237.0,putnam,"Putnam, Georgia, US",6,1,0.0,0.0
+2020-04-13,us,georgia,33.32056115,-83.37552891,84013237,US,USA,840,13237.0,putnam,"Putnam, Georgia, US",7,1,0.0,0.0
 2020-01-22,us,georgia,33.35334302,-84.76129976,84013077,US,USA,840,13077.0,coweta,"Coweta, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.35334302,-84.76129976,84013077,US,USA,840,13077.0,coweta,"Coweta, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.35334302,-84.76129976,84013077,US,USA,840,13077.0,coweta,"Coweta, Georgia, US",0,0,0.0,0.0
@@ -8423,6 +8629,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.35334302,-84.76129976,84013077,US,USA,840,13077.0,coweta,"Coweta, Georgia, US",84,5,2.0,0.0
 2020-04-10,us,georgia,33.35334302,-84.76129976,84013077,US,USA,840,13077.0,coweta,"Coweta, Georgia, US",90,6,2.0,0.0
 2020-04-11,us,georgia,33.35334302,-84.76129976,84013077,US,USA,840,13077.0,coweta,"Coweta, Georgia, US",101,11,2.0,0.0
+2020-04-12,us,georgia,33.35334302,-84.76129976,84013077,US,USA,840,13077.0,coweta,"Coweta, Georgia, US",103,2,2.0,0.0
+2020-04-13,us,georgia,33.35334302,-84.76129976,84013077,US,USA,840,13077.0,coweta,"Coweta, Georgia, US",119,16,2.0,0.0
 2020-01-22,us,georgia,33.35777107,-82.07026432,84013245,US,USA,840,13245.0,richmond,"Richmond, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.35777107,-82.07026432,84013245,US,USA,840,13245.0,richmond,"Richmond, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.35777107,-82.07026432,84013245,US,USA,840,13245.0,richmond,"Richmond, Georgia, US",0,0,0.0,0.0
@@ -8504,6 +8712,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.35777107,-82.07026432,84013245,US,USA,840,13245.0,richmond,"Richmond, Georgia, US",84,8,4.0,1.0
 2020-04-10,us,georgia,33.35777107,-82.07026432,84013245,US,USA,840,13245.0,richmond,"Richmond, Georgia, US",95,11,4.0,0.0
 2020-04-11,us,georgia,33.35777107,-82.07026432,84013245,US,USA,840,13245.0,richmond,"Richmond, Georgia, US",138,43,3.0,-1.0
+2020-04-12,us,georgia,33.35777107,-82.07026432,84013245,US,USA,840,13245.0,richmond,"Richmond, Georgia, US",140,2,3.0,0.0
+2020-04-13,us,georgia,33.35777107,-82.07026432,84013245,US,USA,840,13245.0,richmond,"Richmond, Georgia, US",147,7,4.0,1.0
 2020-01-22,us,georgia,33.41146451,-82.67795848,84013301,US,USA,840,13301.0,warren,"Warren, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.41146451,-82.67795848,84013301,US,USA,840,13301.0,warren,"Warren, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.41146451,-82.67795848,84013301,US,USA,840,13301.0,warren,"Warren, Georgia, US",0,0,0.0,0.0
@@ -8585,6 +8795,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.41146451,-82.67795848,84013301,US,USA,840,13301.0,warren,"Warren, Georgia, US",6,0,0.0,0.0
 2020-04-10,us,georgia,33.41146451,-82.67795848,84013301,US,USA,840,13301.0,warren,"Warren, Georgia, US",6,0,0.0,0.0
 2020-04-11,us,georgia,33.41146451,-82.67795848,84013301,US,USA,840,13301.0,warren,"Warren, Georgia, US",6,0,0.0,0.0
+2020-04-12,us,georgia,33.41146451,-82.67795848,84013301,US,USA,840,13301.0,warren,"Warren, Georgia, US",6,0,0.0,0.0
+2020-04-13,us,georgia,33.41146451,-82.67795848,84013301,US,USA,840,13301.0,warren,"Warren, Georgia, US",7,1,0.0,0.0
 2020-01-22,us,georgia,33.41357794,-84.49089434,84013113,US,USA,840,13113.0,fayette,"Fayette, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.41357794,-84.49089434,84013113,US,USA,840,13113.0,fayette,"Fayette, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.41357794,-84.49089434,84013113,US,USA,840,13113.0,fayette,"Fayette, Georgia, US",0,0,0.0,0.0
@@ -8666,6 +8878,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.41357794,-84.49089434,84013113,US,USA,840,13113.0,fayette,"Fayette, Georgia, US",89,4,3.0,-1.0
 2020-04-10,us,georgia,33.41357794,-84.49089434,84013113,US,USA,840,13113.0,fayette,"Fayette, Georgia, US",92,3,4.0,1.0
 2020-04-11,us,georgia,33.41357794,-84.49089434,84013113,US,USA,840,13113.0,fayette,"Fayette, Georgia, US",94,2,4.0,0.0
+2020-04-12,us,georgia,33.41357794,-84.49089434,84013113,US,USA,840,13113.0,fayette,"Fayette, Georgia, US",99,5,4.0,0.0
+2020-04-13,us,georgia,33.41357794,-84.49089434,84013113,US,USA,840,13113.0,fayette,"Fayette, Georgia, US",105,6,5.0,1.0
 2020-01-22,us,georgia,33.4533428,-84.14814659999998,84013151,US,USA,840,13151.0,henry,"Henry, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.4533428,-84.14814659999998,84013151,US,USA,840,13151.0,henry,"Henry, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.4533428,-84.14814659999998,84013151,US,USA,840,13151.0,henry,"Henry, Georgia, US",0,0,0.0,0.0
@@ -8747,6 +8961,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.4533428,-84.14814659999998,84013151,US,USA,840,13151.0,henry,"Henry, Georgia, US",225,10,3.0,0.0
 2020-04-10,us,georgia,33.4533428,-84.14814659999998,84013151,US,USA,840,13151.0,henry,"Henry, Georgia, US",242,17,3.0,0.0
 2020-04-11,us,georgia,33.4533428,-84.14814659999998,84013151,US,USA,840,13151.0,henry,"Henry, Georgia, US",249,7,3.0,0.0
+2020-04-12,us,georgia,33.4533428,-84.14814659999998,84013151,US,USA,840,13151.0,henry,"Henry, Georgia, US",260,11,3.0,0.0
+2020-04-13,us,georgia,33.4533428,-84.14814659999998,84013151,US,USA,840,13151.0,henry,"Henry, Georgia, US",280,20,4.0,1.0
 2020-01-22,us,georgia,33.47851918,-82.48252774,84013189,US,USA,840,13189.0,mcduffie,"McDuffie,Georgia,US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.47851918,-82.48252774,84013189,US,USA,840,13189.0,mcduffie,"McDuffie,Georgia,US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.47851918,-82.48252774,84013189,US,USA,840,13189.0,mcduffie,"McDuffie,Georgia,US",0,0,0.0,0.0
@@ -8828,6 +9044,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.47851918,-82.48252774,84013189,US,USA,840,13189.0,mcduffie,"McDuffie,Georgia,US",18,2,1.0,0.0
 2020-04-10,us,georgia,33.47851918,-82.48252774,84013189,US,USA,840,13189.0,mcduffie,"McDuffie,Georgia,US",19,1,2.0,1.0
 2020-04-11,us,georgia,33.47851918,-82.48252774,84013189,US,USA,840,13189.0,mcduffie,"McDuffie,Georgia,US",20,1,2.0,0.0
+2020-04-12,us,georgia,33.47851918,-82.48252774,84013189,US,USA,840,13189.0,mcduffie,"McDuffie,Georgia,US",22,2,2.0,0.0
+2020-04-13,us,georgia,33.47851918,-82.48252774,84013189,US,USA,840,13189.0,mcduffie,"McDuffie,Georgia,US",25,3,2.0,0.0
 2020-01-22,us,georgia,33.54187245,-84.35594188,84013063,US,USA,840,13063.0,clayton,"Clayton, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.54187245,-84.35594188,84013063,US,USA,840,13063.0,clayton,"Clayton, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.54187245,-84.35594188,84013063,US,USA,840,13063.0,clayton,"Clayton, Georgia, US",0,0,0.0,0.0
@@ -8909,6 +9127,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.54187245,-84.35594188,84013063,US,USA,840,13063.0,clayton,"Clayton, Georgia, US",297,4,11.0,0.0
 2020-04-10,us,georgia,33.54187245,-84.35594188,84013063,US,USA,840,13063.0,clayton,"Clayton, Georgia, US",310,13,11.0,0.0
 2020-04-11,us,georgia,33.54187245,-84.35594188,84013063,US,USA,840,13063.0,clayton,"Clayton, Georgia, US",331,21,11.0,0.0
+2020-04-12,us,georgia,33.54187245,-84.35594188,84013063,US,USA,840,13063.0,clayton,"Clayton, Georgia, US",362,31,11.0,0.0
+2020-04-13,us,georgia,33.54187245,-84.35594188,84013063,US,USA,840,13063.0,clayton,"Clayton, Georgia, US",391,29,12.0,1.0
 2020-01-22,us,georgia,33.54534185,-82.263524,84013073,US,USA,840,13073.0,columbia,"Columbia, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.54534185,-82.263524,84013073,US,USA,840,13073.0,columbia,"Columbia, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.54534185,-82.263524,84013073,US,USA,840,13073.0,columbia,"Columbia, Georgia, US",0,0,0.0,0.0
@@ -8990,6 +9210,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.54534185,-82.263524,84013073,US,USA,840,13073.0,columbia,"Columbia, Georgia, US",55,7,0.0,-1.0
 2020-04-10,us,georgia,33.54534185,-82.263524,84013073,US,USA,840,13073.0,columbia,"Columbia, Georgia, US",59,4,0.0,0.0
 2020-04-11,us,georgia,33.54534185,-82.263524,84013073,US,USA,840,13073.0,columbia,"Columbia, Georgia, US",66,7,0.0,0.0
+2020-04-12,us,georgia,33.54534185,-82.263524,84013073,US,USA,840,13073.0,columbia,"Columbia, Georgia, US",68,2,0.0,0.0
+2020-04-13,us,georgia,33.54534185,-82.263524,84013073,US,USA,840,13073.0,columbia,"Columbia, Georgia, US",70,2,0.0,0.0
 2020-01-22,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",0,0,0.0,0.0
@@ -9071,6 +9293,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",67,0,3.0,0.0
 2020-04-10,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",73,6,3.0,0.0
 2020-04-11,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",77,4,3.0,0.0
+2020-04-12,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",79,2,3.0,0.0
+2020-04-13,us,georgia,33.55514538,-83.84547140000002,84013217,US,USA,840,13217.0,newton,"Newton, Georgia, US",91,12,3.0,0.0
 2020-01-22,us,georgia,33.56543317,-82.88136816,84013265,US,USA,840,13265.0,taliaferro,"Taliaferro, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.56543317,-82.88136816,84013265,US,USA,840,13265.0,taliaferro,"Taliaferro, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.56543317,-82.88136816,84013265,US,USA,840,13265.0,taliaferro,"Taliaferro, Georgia, US",0,0,0.0,0.0
@@ -9152,6 +9376,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.56543317,-82.88136816,84013265,US,USA,840,13265.0,taliaferro,"Taliaferro, Georgia, US",0,0,0.0,0.0
 2020-04-10,us,georgia,33.56543317,-82.88136816,84013265,US,USA,840,13265.0,taliaferro,"Taliaferro, Georgia, US",0,0,0.0,0.0
 2020-04-11,us,georgia,33.56543317,-82.88136816,84013265,US,USA,840,13265.0,taliaferro,"Taliaferro, Georgia, US",0,0,0.0,0.0
+2020-04-12,us,georgia,33.56543317,-82.88136816,84013265,US,USA,840,13265.0,taliaferro,"Taliaferro, Georgia, US",0,0,0.0,0.0
+2020-04-13,us,georgia,33.56543317,-82.88136816,84013265,US,USA,840,13265.0,taliaferro,"Taliaferro, Georgia, US",0,0,0.0,0.0
 2020-01-22,us,georgia,33.5769205,-83.17139104,84013133,US,USA,840,13133.0,greene,"Greene, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.5769205,-83.17139104,84013133,US,USA,840,13133.0,greene,"Greene, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.5769205,-83.17139104,84013133,US,USA,840,13133.0,greene,"Greene, Georgia, US",0,0,0.0,0.0
@@ -9233,6 +9459,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.5769205,-83.17139104,84013133,US,USA,840,13133.0,greene,"Greene, Georgia, US",23,1,1.0,0.0
 2020-04-10,us,georgia,33.5769205,-83.17139104,84013133,US,USA,840,13133.0,greene,"Greene, Georgia, US",25,2,1.0,0.0
 2020-04-11,us,georgia,33.5769205,-83.17139104,84013133,US,USA,840,13133.0,greene,"Greene, Georgia, US",25,0,1.0,0.0
+2020-04-12,us,georgia,33.5769205,-83.17139104,84013133,US,USA,840,13133.0,greene,"Greene, Georgia, US",25,0,1.0,0.0
+2020-04-13,us,georgia,33.5769205,-83.17139104,84013133,US,USA,840,13133.0,greene,"Greene, Georgia, US",29,4,1.0,0.0
 2020-01-22,us,georgia,33.58138199,-85.07976677,84013045,US,USA,840,13045.0,carroll,"Carroll, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.58138199,-85.07976677,84013045,US,USA,840,13045.0,carroll,"Carroll, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.58138199,-85.07976677,84013045,US,USA,840,13045.0,carroll,"Carroll, Georgia, US",0,0,0.0,0.0
@@ -9314,6 +9542,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.58138199,-85.07976677,84013045,US,USA,840,13045.0,carroll,"Carroll, Georgia, US",183,0,4.0,0.0
 2020-04-10,us,georgia,33.58138199,-85.07976677,84013045,US,USA,840,13045.0,carroll,"Carroll, Georgia, US",197,14,5.0,1.0
 2020-04-11,us,georgia,33.58138199,-85.07976677,84013045,US,USA,840,13045.0,carroll,"Carroll, Georgia, US",201,4,5.0,0.0
+2020-04-12,us,georgia,33.58138199,-85.07976677,84013045,US,USA,840,13045.0,carroll,"Carroll, Georgia, US",204,3,5.0,0.0
+2020-04-13,us,georgia,33.58138199,-85.07976677,84013045,US,USA,840,13045.0,carroll,"Carroll, Georgia, US",214,10,5.0,0.0
 2020-01-22,us,georgia,33.59232073,-83.49129491,84013211,US,USA,840,13211.0,morgan,"Morgan, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.59232073,-83.49129491,84013211,US,USA,840,13211.0,morgan,"Morgan, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.59232073,-83.49129491,84013211,US,USA,840,13211.0,morgan,"Morgan, Georgia, US",0,0,0.0,0.0
@@ -9395,6 +9625,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.59232073,-83.49129491,84013211,US,USA,840,13211.0,morgan,"Morgan, Georgia, US",12,0,0.0,0.0
 2020-04-10,us,georgia,33.59232073,-83.49129491,84013211,US,USA,840,13211.0,morgan,"Morgan, Georgia, US",14,2,0.0,0.0
 2020-04-11,us,georgia,33.59232073,-83.49129491,84013211,US,USA,840,13211.0,morgan,"Morgan, Georgia, US",14,0,0.0,0.0
+2020-04-12,us,georgia,33.59232073,-83.49129491,84013211,US,USA,840,13211.0,morgan,"Morgan, Georgia, US",14,0,0.0,0.0
+2020-04-13,us,georgia,33.59232073,-83.49129491,84013211,US,USA,840,13211.0,morgan,"Morgan, Georgia, US",14,0,0.0,0.0
 2020-01-22,us,georgia,33.65145002,-84.02202167,84013247,US,USA,840,13247.0,rockdale,"Rockdale, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.65145002,-84.02202167,84013247,US,USA,840,13247.0,rockdale,"Rockdale, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.65145002,-84.02202167,84013247,US,USA,840,13247.0,rockdale,"Rockdale, Georgia, US",0,0,0.0,0.0
@@ -9476,6 +9708,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.65145002,-84.02202167,84013247,US,USA,840,13247.0,rockdale,"Rockdale, Georgia, US",85,-1,2.0,0.0
 2020-04-10,us,georgia,33.65145002,-84.02202167,84013247,US,USA,840,13247.0,rockdale,"Rockdale, Georgia, US",85,0,2.0,0.0
 2020-04-11,us,georgia,33.65145002,-84.02202167,84013247,US,USA,840,13247.0,rockdale,"Rockdale, Georgia, US",91,6,2.0,0.0
+2020-04-12,us,georgia,33.65145002,-84.02202167,84013247,US,USA,840,13247.0,rockdale,"Rockdale, Georgia, US",95,4,2.0,0.0
+2020-04-13,us,georgia,33.65145002,-84.02202167,84013247,US,USA,840,13247.0,rockdale,"Rockdale, Georgia, US",100,5,3.0,1.0
 2020-01-22,us,georgia,33.70291126,-84.77026156,84013097,US,USA,840,13097.0,douglas,"Douglas, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.70291126,-84.77026156,84013097,US,USA,840,13097.0,douglas,"Douglas, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.70291126,-84.77026156,84013097,US,USA,840,13097.0,douglas,"Douglas, Georgia, US",0,0,0.0,0.0
@@ -9557,6 +9791,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.70291126,-84.77026156,84013097,US,USA,840,13097.0,douglas,"Douglas, Georgia, US",127,5,5.0,0.0
 2020-04-10,us,georgia,33.70291126,-84.77026156,84013097,US,USA,840,13097.0,douglas,"Douglas, Georgia, US",142,15,5.0,0.0
 2020-04-11,us,georgia,33.70291126,-84.77026156,84013097,US,USA,840,13097.0,douglas,"Douglas, Georgia, US",147,5,5.0,0.0
+2020-04-12,us,georgia,33.70291126,-84.77026156,84013097,US,USA,840,13097.0,douglas,"Douglas, Georgia, US",153,6,5.0,0.0
+2020-04-13,us,georgia,33.70291126,-84.77026156,84013097,US,USA,840,13097.0,douglas,"Douglas, Georgia, US",167,14,5.0,0.0
 2020-01-22,us,georgia,33.76944049,-84.22396017,84013089,US,USA,840,13089.0,dekalb,"DeKalb, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.76944049,-84.22396017,84013089,US,USA,840,13089.0,dekalb,"DeKalb, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.76944049,-84.22396017,84013089,US,USA,840,13089.0,dekalb,"DeKalb, Georgia, US",0,0,0.0,0.0
@@ -9638,6 +9874,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.76944049,-84.22396017,84013089,US,USA,840,13089.0,dekalb,"DeKalb, Georgia, US",742,36,12.0,1.0
 2020-04-10,us,georgia,33.76944049,-84.22396017,84013089,US,USA,840,13089.0,dekalb,"DeKalb, Georgia, US",795,53,13.0,1.0
 2020-04-11,us,georgia,33.76944049,-84.22396017,84013089,US,USA,840,13089.0,dekalb,"DeKalb, Georgia, US",835,40,13.0,0.0
+2020-04-12,us,georgia,33.76944049,-84.22396017,84013089,US,USA,840,13089.0,dekalb,"DeKalb, Georgia, US",869,34,14.0,1.0
+2020-04-13,us,georgia,33.76944049,-84.22396017,84013089,US,USA,840,13089.0,dekalb,"DeKalb, Georgia, US",980,111,14.0,0.0
 2020-01-22,us,georgia,33.78017694,-83.73552314,84013297,US,USA,840,13297.0,walton,"Walton, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.78017694,-83.73552314,84013297,US,USA,840,13297.0,walton,"Walton, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.78017694,-83.73552314,84013297,US,USA,840,13297.0,walton,"Walton, Georgia, US",0,0,0.0,0.0
@@ -9719,6 +9957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.78017694,-83.73552314,84013297,US,USA,840,13297.0,walton,"Walton, Georgia, US",27,2,2.0,0.0
 2020-04-10,us,georgia,33.78017694,-83.73552314,84013297,US,USA,840,13297.0,walton,"Walton, Georgia, US",36,9,2.0,0.0
 2020-04-11,us,georgia,33.78017694,-83.73552314,84013297,US,USA,840,13297.0,walton,"Walton, Georgia, US",36,0,2.0,0.0
+2020-04-12,us,georgia,33.78017694,-83.73552314,84013297,US,USA,840,13297.0,walton,"Walton, Georgia, US",39,3,2.0,0.0
+2020-04-13,us,georgia,33.78017694,-83.73552314,84013297,US,USA,840,13297.0,walton,"Walton, Georgia, US",44,5,2.0,0.0
 2020-01-22,us,georgia,33.78290391,-82.74286107,84013317,US,USA,840,13317.0,wilkes,"Wilkes, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.78290391,-82.74286107,84013317,US,USA,840,13317.0,wilkes,"Wilkes, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.78290391,-82.74286107,84013317,US,USA,840,13317.0,wilkes,"Wilkes, Georgia, US",0,0,0.0,0.0
@@ -9800,6 +10040,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.78290391,-82.74286107,84013317,US,USA,840,13317.0,wilkes,"Wilkes, Georgia, US",5,0,0.0,0.0
 2020-04-10,us,georgia,33.78290391,-82.74286107,84013317,US,USA,840,13317.0,wilkes,"Wilkes, Georgia, US",6,1,0.0,0.0
 2020-04-11,us,georgia,33.78290391,-82.74286107,84013317,US,USA,840,13317.0,wilkes,"Wilkes, Georgia, US",6,0,0.0,0.0
+2020-04-12,us,georgia,33.78290391,-82.74286107,84013317,US,USA,840,13317.0,wilkes,"Wilkes, Georgia, US",6,0,0.0,0.0
+2020-04-13,us,georgia,33.78290391,-82.74286107,84013317,US,USA,840,13317.0,wilkes,"Wilkes, Georgia, US",6,0,0.0,0.0
 2020-01-22,us,georgia,33.79201475,-82.45024131,84013181,US,USA,840,13181.0,lincoln,"Lincoln, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.79201475,-82.45024131,84013181,US,USA,840,13181.0,lincoln,"Lincoln, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.79201475,-82.45024131,84013181,US,USA,840,13181.0,lincoln,"Lincoln, Georgia, US",0,0,0.0,0.0
@@ -9881,6 +10123,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.79201475,-82.45024131,84013181,US,USA,840,13181.0,lincoln,"Lincoln, Georgia, US",6,0,0.0,0.0
 2020-04-10,us,georgia,33.79201475,-82.45024131,84013181,US,USA,840,13181.0,lincoln,"Lincoln, Georgia, US",6,0,0.0,0.0
 2020-04-11,us,georgia,33.79201475,-82.45024131,84013181,US,USA,840,13181.0,lincoln,"Lincoln, Georgia, US",8,2,0.0,0.0
+2020-04-12,us,georgia,33.79201475,-82.45024131,84013181,US,USA,840,13181.0,lincoln,"Lincoln, Georgia, US",8,0,0.0,0.0
+2020-04-13,us,georgia,33.79201475,-82.45024131,84013181,US,USA,840,13181.0,lincoln,"Lincoln, Georgia, US",9,1,0.0,0.0
 2020-01-22,us,georgia,33.79216944,-84.46319413,84013121,US,USA,840,13121.0,fulton,"Fulton, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.79216944,-84.46319413,84013121,US,USA,840,13121.0,fulton,"Fulton, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.79216944,-84.46319413,84013121,US,USA,840,13121.0,fulton,"Fulton, Georgia, US",0,0,0.0,0.0
@@ -9962,6 +10206,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.79216944,-84.46319413,84013121,US,USA,840,13121.0,fulton,"Fulton, Georgia, US",1276,36,45.0,4.0
 2020-04-10,us,georgia,33.79216944,-84.46319413,84013121,US,USA,840,13121.0,fulton,"Fulton, Georgia, US",1364,88,48.0,3.0
 2020-04-11,us,georgia,33.79216944,-84.46319413,84013121,US,USA,840,13121.0,fulton,"Fulton, Georgia, US",1422,58,50.0,2.0
+2020-04-12,us,georgia,33.79216944,-84.46319413,84013121,US,USA,840,13121.0,fulton,"Fulton, Georgia, US",1467,45,50.0,0.0
+2020-04-13,us,georgia,33.79216944,-84.46319413,84013121,US,USA,840,13121.0,fulton,"Fulton, Georgia, US",1598,131,52.0,2.0
 2020-01-22,us,georgia,33.79602175,-85.21005667,84013143,US,USA,840,13143.0,haralson,"Haralson, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.79602175,-85.21005667,84013143,US,USA,840,13143.0,haralson,"Haralson, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.79602175,-85.21005667,84013143,US,USA,840,13143.0,haralson,"Haralson, Georgia, US",0,0,0.0,0.0
@@ -10043,6 +10289,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.79602175,-85.21005667,84013143,US,USA,840,13143.0,haralson,"Haralson, Georgia, US",15,-2,0.0,0.0
 2020-04-10,us,georgia,33.79602175,-85.21005667,84013143,US,USA,840,13143.0,haralson,"Haralson, Georgia, US",15,0,0.0,0.0
 2020-04-11,us,georgia,33.79602175,-85.21005667,84013143,US,USA,840,13143.0,haralson,"Haralson, Georgia, US",15,0,0.0,0.0
+2020-04-12,us,georgia,33.79602175,-85.21005667,84013143,US,USA,840,13143.0,haralson,"Haralson, Georgia, US",16,1,0.0,0.0
+2020-04-13,us,georgia,33.79602175,-85.21005667,84013143,US,USA,840,13143.0,haralson,"Haralson, Georgia, US",16,0,0.0,0.0
 2020-01-22,us,georgia,33.83749973,-83.43679568,84013219,US,USA,840,13219.0,oconee,"Oconee, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.83749973,-83.43679568,84013219,US,USA,840,13219.0,oconee,"Oconee, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.83749973,-83.43679568,84013219,US,USA,840,13219.0,oconee,"Oconee, Georgia, US",0,0,0.0,0.0
@@ -10124,6 +10372,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.83749973,-83.43679568,84013219,US,USA,840,13219.0,oconee,"Oconee, Georgia, US",33,0,1.0,0.0
 2020-04-10,us,georgia,33.83749973,-83.43679568,84013219,US,USA,840,13219.0,oconee,"Oconee, Georgia, US",35,2,1.0,0.0
 2020-04-11,us,georgia,33.83749973,-83.43679568,84013219,US,USA,840,13219.0,oconee,"Oconee, Georgia, US",36,1,1.0,0.0
+2020-04-12,us,georgia,33.83749973,-83.43679568,84013219,US,USA,840,13219.0,oconee,"Oconee, Georgia, US",38,2,1.0,0.0
+2020-04-13,us,georgia,33.83749973,-83.43679568,84013219,US,USA,840,13219.0,oconee,"Oconee, Georgia, US",39,1,1.0,0.0
 2020-01-22,us,georgia,33.878629600000004,-83.08278123,84013221,US,USA,840,13221.0,oglethorpe,"Oglethorpe, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.878629600000004,-83.08278123,84013221,US,USA,840,13221.0,oglethorpe,"Oglethorpe, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.878629600000004,-83.08278123,84013221,US,USA,840,13221.0,oglethorpe,"Oglethorpe, Georgia, US",0,0,0.0,0.0
@@ -10205,6 +10455,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.878629600000004,-83.08278123,84013221,US,USA,840,13221.0,oglethorpe,"Oglethorpe, Georgia, US",2,0,1.0,0.0
 2020-04-10,us,georgia,33.878629600000004,-83.08278123,84013221,US,USA,840,13221.0,oglethorpe,"Oglethorpe, Georgia, US",11,9,1.0,0.0
 2020-04-11,us,georgia,33.878629600000004,-83.08278123,84013221,US,USA,840,13221.0,oglethorpe,"Oglethorpe, Georgia, US",12,1,1.0,0.0
+2020-04-12,us,georgia,33.878629600000004,-83.08278123,84013221,US,USA,840,13221.0,oglethorpe,"Oglethorpe, Georgia, US",12,0,1.0,0.0
+2020-04-13,us,georgia,33.878629600000004,-83.08278123,84013221,US,USA,840,13221.0,oglethorpe,"Oglethorpe, Georgia, US",13,1,1.0,0.0
 2020-01-22,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",0,0,0.0,0.0
@@ -10286,6 +10538,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",65,-1,1.0,0.0
 2020-04-10,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",69,4,2.0,1.0
 2020-04-11,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",76,7,2.0,0.0
+2020-04-12,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",80,4,2.0,0.0
+2020-04-13,us,georgia,33.91969522,-84.86848792,84013223,US,USA,840,13223.0,paulding,"Paulding, Georgia, US",91,11,2.0,0.0
 2020-01-22,us,georgia,33.94243204,-84.5761255,84013067,US,USA,840,13067.0,cobb,"Cobb, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.94243204,-84.5761255,84013067,US,USA,840,13067.0,cobb,"Cobb, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.94243204,-84.5761255,84013067,US,USA,840,13067.0,cobb,"Cobb, Georgia, US",0,0,0.0,0.0
@@ -10367,6 +10621,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.94243204,-84.5761255,84013067,US,USA,840,13067.0,cobb,"Cobb, Georgia, US",629,41,29.0,0.0
 2020-04-10,us,georgia,33.94243204,-84.5761255,84013067,US,USA,840,13067.0,cobb,"Cobb, Georgia, US",662,33,33.0,4.0
 2020-04-11,us,georgia,33.94243204,-84.5761255,84013067,US,USA,840,13067.0,cobb,"Cobb, Georgia, US",696,34,33.0,0.0
+2020-04-12,us,georgia,33.94243204,-84.5761255,84013067,US,USA,840,13067.0,cobb,"Cobb, Georgia, US",714,18,33.0,0.0
+2020-04-13,us,georgia,33.94243204,-84.5761255,84013067,US,USA,840,13067.0,cobb,"Cobb, Georgia, US",782,68,35.0,2.0
 2020-01-22,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",0,0,0.0,0.0
@@ -10448,6 +10704,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",81,0,9.0,0.0
 2020-04-10,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",81,0,10.0,1.0
 2020-04-11,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",82,1,11.0,1.0
+2020-04-12,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",83,1,11.0,0.0
+2020-04-13,us,georgia,33.95436462,-83.37124007,84013059,US,USA,840,13059.0,clarke,"Clarke, Georgia, US",85,2,11.0,0.0
 2020-01-22,us,georgia,33.96044201,-84.02137802,84013135,US,USA,840,13135.0,gwinnett,"Gwinnett, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.96044201,-84.02137802,84013135,US,USA,840,13135.0,gwinnett,"Gwinnett, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.96044201,-84.02137802,84013135,US,USA,840,13135.0,gwinnett,"Gwinnett, Georgia, US",0,0,0.0,0.0
@@ -10529,6 +10787,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.96044201,-84.02137802,84013135,US,USA,840,13135.0,gwinnett,"Gwinnett, Georgia, US",603,38,17.0,2.0
 2020-04-10,us,georgia,33.96044201,-84.02137802,84013135,US,USA,840,13135.0,gwinnett,"Gwinnett, Georgia, US",646,43,17.0,0.0
 2020-04-11,us,georgia,33.96044201,-84.02137802,84013135,US,USA,840,13135.0,gwinnett,"Gwinnett, Georgia, US",675,29,18.0,1.0
+2020-04-12,us,georgia,33.96044201,-84.02137802,84013135,US,USA,840,13135.0,gwinnett,"Gwinnett, Georgia, US",690,15,18.0,0.0
+2020-04-13,us,georgia,33.96044201,-84.02137802,84013135,US,USA,840,13135.0,gwinnett,"Gwinnett, Georgia, US",739,49,22.0,4.0
 2020-01-22,us,georgia,33.99148694,-83.71436292,84013013,US,USA,840,13013.0,barrow,"Barrow, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,33.99148694,-83.71436292,84013013,US,USA,840,13013.0,barrow,"Barrow, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,33.99148694,-83.71436292,84013013,US,USA,840,13013.0,barrow,"Barrow, Georgia, US",0,0,0.0,0.0
@@ -10610,6 +10870,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,33.99148694,-83.71436292,84013013,US,USA,840,13013.0,barrow,"Barrow, Georgia, US",46,4,3.0,0.0
 2020-04-10,us,georgia,33.99148694,-83.71436292,84013013,US,USA,840,13013.0,barrow,"Barrow, Georgia, US",48,2,3.0,0.0
 2020-04-11,us,georgia,33.99148694,-83.71436292,84013013,US,USA,840,13013.0,barrow,"Barrow, Georgia, US",51,3,3.0,0.0
+2020-04-12,us,georgia,33.99148694,-83.71436292,84013013,US,USA,840,13013.0,barrow,"Barrow, Georgia, US",55,4,3.0,0.0
+2020-04-13,us,georgia,33.99148694,-83.71436292,84013013,US,USA,840,13013.0,barrow,"Barrow, Georgia, US",55,0,3.0,0.0
 2020-01-22,us,georgia,34.00267074,-85.18677781,84013233,US,USA,840,13233.0,polk,"Polk, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.00267074,-85.18677781,84013233,US,USA,840,13233.0,polk,"Polk, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.00267074,-85.18677781,84013233,US,USA,840,13233.0,polk,"Polk, Georgia, US",0,0,0.0,0.0
@@ -10691,6 +10953,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.00267074,-85.18677781,84013233,US,USA,840,13233.0,polk,"Polk, Georgia, US",22,0,0.0,0.0
 2020-04-10,us,georgia,34.00267074,-85.18677781,84013233,US,USA,840,13233.0,polk,"Polk, Georgia, US",21,-1,0.0,0.0
 2020-04-11,us,georgia,34.00267074,-85.18677781,84013233,US,USA,840,13233.0,polk,"Polk, Georgia, US",21,0,0.0,0.0
+2020-04-12,us,georgia,34.00267074,-85.18677781,84013233,US,USA,840,13233.0,polk,"Polk, Georgia, US",22,1,0.0,0.0
+2020-04-13,us,georgia,34.00267074,-85.18677781,84013233,US,USA,840,13233.0,polk,"Polk, Georgia, US",24,2,0.0,0.0
 2020-01-22,us,georgia,34.11302332,-82.83936148,84013105,US,USA,840,13105.0,elbert,"Elbert, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.11302332,-82.83936148,84013105,US,USA,840,13105.0,elbert,"Elbert, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.11302332,-82.83936148,84013105,US,USA,840,13105.0,elbert,"Elbert, Georgia, US",0,0,0.0,0.0
@@ -10772,6 +11036,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.11302332,-82.83936148,84013105,US,USA,840,13105.0,elbert,"Elbert, Georgia, US",3,0,0.0,0.0
 2020-04-10,us,georgia,34.11302332,-82.83936148,84013105,US,USA,840,13105.0,elbert,"Elbert, Georgia, US",3,0,0.0,0.0
 2020-04-11,us,georgia,34.11302332,-82.83936148,84013105,US,USA,840,13105.0,elbert,"Elbert, Georgia, US",3,0,0.0,0.0
+2020-04-12,us,georgia,34.11302332,-82.83936148,84013105,US,USA,840,13105.0,elbert,"Elbert, Georgia, US",3,0,0.0,0.0
+2020-04-13,us,georgia,34.11302332,-82.83936148,84013105,US,USA,840,13105.0,elbert,"Elbert, Georgia, US",3,0,0.0,0.0
 2020-01-22,us,georgia,34.12920917,-83.21218732,84013195,US,USA,840,13195.0,madison,"Madison, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.12920917,-83.21218732,84013195,US,USA,840,13195.0,madison,"Madison, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.12920917,-83.21218732,84013195,US,USA,840,13195.0,madison,"Madison, Georgia, US",0,0,0.0,0.0
@@ -10853,6 +11119,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.12920917,-83.21218732,84013195,US,USA,840,13195.0,madison,"Madison, Georgia, US",10,1,1.0,0.0
 2020-04-10,us,georgia,34.12920917,-83.21218732,84013195,US,USA,840,13195.0,madison,"Madison, Georgia, US",9,-1,1.0,0.0
 2020-04-11,us,georgia,34.12920917,-83.21218732,84013195,US,USA,840,13195.0,madison,"Madison, Georgia, US",10,1,1.0,0.0
+2020-04-12,us,georgia,34.12920917,-83.21218732,84013195,US,USA,840,13195.0,madison,"Madison, Georgia, US",10,0,1.0,0.0
+2020-04-13,us,georgia,34.12920917,-83.21218732,84013195,US,USA,840,13195.0,madison,"Madison, Georgia, US",10,0,1.0,0.0
 2020-01-22,us,georgia,34.13794553,-83.56814788,84013157,US,USA,840,13157.0,jackson,"Jackson, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.13794553,-83.56814788,84013157,US,USA,840,13157.0,jackson,"Jackson, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.13794553,-83.56814788,84013157,US,USA,840,13157.0,jackson,"Jackson, Georgia, US",0,0,0.0,0.0
@@ -10934,6 +11202,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.13794553,-83.56814788,84013157,US,USA,840,13157.0,jackson,"Jackson, Georgia, US",24,1,1.0,1.0
 2020-04-10,us,georgia,34.13794553,-83.56814788,84013157,US,USA,840,13157.0,jackson,"Jackson, Georgia, US",26,2,1.0,0.0
 2020-04-11,us,georgia,34.13794553,-83.56814788,84013157,US,USA,840,13157.0,jackson,"Jackson, Georgia, US",26,0,1.0,0.0
+2020-04-12,us,georgia,34.13794553,-83.56814788,84013157,US,USA,840,13157.0,jackson,"Jackson, Georgia, US",27,1,1.0,0.0
+2020-04-13,us,georgia,34.13794553,-83.56814788,84013157,US,USA,840,13157.0,jackson,"Jackson, Georgia, US",27,0,1.0,0.0
 2020-01-22,us,georgia,34.22604035,-84.12315129999998,84013117,US,USA,840,13117.0,forsyth,"Forsyth, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.22604035,-84.12315129999998,84013117,US,USA,840,13117.0,forsyth,"Forsyth, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.22604035,-84.12315129999998,84013117,US,USA,840,13117.0,forsyth,"Forsyth, Georgia, US",0,0,0.0,0.0
@@ -11015,6 +11285,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.22604035,-84.12315129999998,84013117,US,USA,840,13117.0,forsyth,"Forsyth, Georgia, US",104,5,2.0,0.0
 2020-04-10,us,georgia,34.22604035,-84.12315129999998,84013117,US,USA,840,13117.0,forsyth,"Forsyth, Georgia, US",113,9,2.0,0.0
 2020-04-11,us,georgia,34.22604035,-84.12315129999998,84013117,US,USA,840,13117.0,forsyth,"Forsyth, Georgia, US",121,8,4.0,2.0
+2020-04-12,us,georgia,34.22604035,-84.12315129999998,84013117,US,USA,840,13117.0,forsyth,"Forsyth, Georgia, US",130,9,4.0,0.0
+2020-04-13,us,georgia,34.22604035,-84.12315129999998,84013117,US,USA,840,13117.0,forsyth,"Forsyth, Georgia, US",138,8,5.0,1.0
 2020-01-22,us,georgia,34.23732119,-84.83887523,84013015,US,USA,840,13015.0,bartow,"Bartow, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.23732119,-84.83887523,84013015,US,USA,840,13015.0,bartow,"Bartow, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.23732119,-84.83887523,84013015,US,USA,840,13015.0,bartow,"Bartow, Georgia, US",0,0,0.0,0.0
@@ -11096,6 +11368,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.23732119,-84.83887523,84013015,US,USA,840,13015.0,bartow,"Bartow, Georgia, US",196,4,12.0,0.0
 2020-04-10,us,georgia,34.23732119,-84.83887523,84013015,US,USA,840,13015.0,bartow,"Bartow, Georgia, US",207,11,15.0,3.0
 2020-04-11,us,georgia,34.23732119,-84.83887523,84013015,US,USA,840,13015.0,bartow,"Bartow, Georgia, US",209,2,15.0,0.0
+2020-04-12,us,georgia,34.23732119,-84.83887523,84013015,US,USA,840,13015.0,bartow,"Bartow, Georgia, US",212,3,15.0,0.0
+2020-04-13,us,georgia,34.23732119,-84.83887523,84013015,US,USA,840,13015.0,bartow,"Bartow, Georgia, US",216,4,16.0,1.0
 2020-01-22,us,georgia,34.24393976,-84.47431861,84013057,US,USA,840,13057.0,cherokee,"Cherokee, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.24393976,-84.47431861,84013057,US,USA,840,13057.0,cherokee,"Cherokee, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.24393976,-84.47431861,84013057,US,USA,840,13057.0,cherokee,"Cherokee, Georgia, US",0,0,0.0,0.0
@@ -11177,6 +11451,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.24393976,-84.47431861,84013057,US,USA,840,13057.0,cherokee,"Cherokee, Georgia, US",159,8,6.0,0.0
 2020-04-10,us,georgia,34.24393976,-84.47431861,84013057,US,USA,840,13057.0,cherokee,"Cherokee, Georgia, US",170,11,7.0,1.0
 2020-04-11,us,georgia,34.24393976,-84.47431861,84013057,US,USA,840,13057.0,cherokee,"Cherokee, Georgia, US",182,12,7.0,0.0
+2020-04-12,us,georgia,34.24393976,-84.47431861,84013057,US,USA,840,13057.0,cherokee,"Cherokee, Georgia, US",186,4,7.0,0.0
+2020-04-13,us,georgia,34.24393976,-84.47431861,84013057,US,USA,840,13057.0,cherokee,"Cherokee, Georgia, US",198,12,7.0,0.0
 2020-01-22,us,georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,floyd,"Floyd, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,floyd,"Floyd, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,floyd,"Floyd, Georgia, US",0,0,0.0,0.0
@@ -11258,6 +11534,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,floyd,"Floyd, Georgia, US",99,6,4.0,1.0
 2020-04-10,us,georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,floyd,"Floyd, Georgia, US",99,0,5.0,1.0
 2020-04-11,us,georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,floyd,"Floyd, Georgia, US",105,6,5.0,0.0
+2020-04-12,us,georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,floyd,"Floyd, Georgia, US",108,3,5.0,0.0
+2020-04-13,us,georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,floyd,"Floyd, Georgia, US",111,3,6.0,1.0
 2020-01-22,us,georgia,34.32207823,-83.81896936,84013139,US,USA,840,13139.0,hall,"Hall, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.32207823,-83.81896936,84013139,US,USA,840,13139.0,hall,"Hall, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.32207823,-83.81896936,84013139,US,USA,840,13139.0,hall,"Hall, Georgia, US",0,0,0.0,0.0
@@ -11339,6 +11617,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.32207823,-83.81896936,84013139,US,USA,840,13139.0,hall,"Hall, Georgia, US",238,10,0.0,0.0
 2020-04-10,us,georgia,34.32207823,-83.81896936,84013139,US,USA,840,13139.0,hall,"Hall, Georgia, US",250,12,0.0,0.0
 2020-04-11,us,georgia,34.32207823,-83.81896936,84013139,US,USA,840,13139.0,hall,"Hall, Georgia, US",275,25,0.0,0.0
+2020-04-12,us,georgia,34.32207823,-83.81896936,84013139,US,USA,840,13139.0,hall,"Hall, Georgia, US",279,4,0.0,0.0
+2020-04-13,us,georgia,34.32207823,-83.81896936,84013139,US,USA,840,13139.0,hall,"Hall, Georgia, US",292,13,0.0,0.0
 2020-01-22,us,georgia,34.34626973,-82.96567682,84013147,US,USA,840,13147.0,hart,"Hart, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.34626973,-82.96567682,84013147,US,USA,840,13147.0,hart,"Hart, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.34626973,-82.96567682,84013147,US,USA,840,13147.0,hart,"Hart, Georgia, US",0,0,0.0,0.0
@@ -11420,6 +11700,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.34626973,-82.96567682,84013147,US,USA,840,13147.0,hart,"Hart, Georgia, US",3,0,0.0,0.0
 2020-04-10,us,georgia,34.34626973,-82.96567682,84013147,US,USA,840,13147.0,hart,"Hart, Georgia, US",3,0,0.0,0.0
 2020-04-11,us,georgia,34.34626973,-82.96567682,84013147,US,USA,840,13147.0,hart,"Hart, Georgia, US",3,0,0.0,0.0
+2020-04-12,us,georgia,34.34626973,-82.96567682,84013147,US,USA,840,13147.0,hart,"Hart, Georgia, US",3,0,0.0,0.0
+2020-04-13,us,georgia,34.34626973,-82.96567682,84013147,US,USA,840,13147.0,hart,"Hart, Georgia, US",4,1,0.0,0.0
 2020-01-22,us,georgia,34.35607081,-83.49644388,84013011,US,USA,840,13011.0,banks,"Banks, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.35607081,-83.49644388,84013011,US,USA,840,13011.0,banks,"Banks, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.35607081,-83.49644388,84013011,US,USA,840,13011.0,banks,"Banks, Georgia, US",0,0,0.0,0.0
@@ -11501,6 +11783,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.35607081,-83.49644388,84013011,US,USA,840,13011.0,banks,"Banks, Georgia, US",4,0,0.0,0.0
 2020-04-10,us,georgia,34.35607081,-83.49644388,84013011,US,USA,840,13011.0,banks,"Banks, Georgia, US",7,3,0.0,0.0
 2020-04-11,us,georgia,34.35607081,-83.49644388,84013011,US,USA,840,13011.0,banks,"Banks, Georgia, US",7,0,0.0,0.0
+2020-04-12,us,georgia,34.35607081,-83.49644388,84013011,US,USA,840,13011.0,banks,"Banks, Georgia, US",7,0,0.0,0.0
+2020-04-13,us,georgia,34.35607081,-83.49644388,84013011,US,USA,840,13011.0,banks,"Banks, Georgia, US",7,0,0.0,0.0
 2020-01-22,us,georgia,34.37525597,-83.23159927,84013119,US,USA,840,13119.0,franklin,"Franklin, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.37525597,-83.23159927,84013119,US,USA,840,13119.0,franklin,"Franklin, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.37525597,-83.23159927,84013119,US,USA,840,13119.0,franklin,"Franklin, Georgia, US",0,0,0.0,0.0
@@ -11582,6 +11866,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.37525597,-83.23159927,84013119,US,USA,840,13119.0,franklin,"Franklin, Georgia, US",3,0,0.0,0.0
 2020-04-10,us,georgia,34.37525597,-83.23159927,84013119,US,USA,840,13119.0,franklin,"Franklin, Georgia, US",3,0,0.0,0.0
 2020-04-11,us,georgia,34.37525597,-83.23159927,84013119,US,USA,840,13119.0,franklin,"Franklin, Georgia, US",4,1,0.0,0.0
+2020-04-12,us,georgia,34.37525597,-83.23159927,84013119,US,USA,840,13119.0,franklin,"Franklin, Georgia, US",4,0,0.0,0.0
+2020-04-13,us,georgia,34.37525597,-83.23159927,84013119,US,USA,840,13119.0,franklin,"Franklin, Georgia, US",4,0,0.0,0.0
 2020-01-22,us,georgia,34.44244079,-84.16964071,84013085,US,USA,840,13085.0,dawson,"Dawson, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.44244079,-84.16964071,84013085,US,USA,840,13085.0,dawson,"Dawson, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.44244079,-84.16964071,84013085,US,USA,840,13085.0,dawson,"Dawson, Georgia, US",0,0,0.0,0.0
@@ -11663,6 +11949,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.44244079,-84.16964071,84013085,US,USA,840,13085.0,dawson,"Dawson, Georgia, US",24,2,1.0,0.0
 2020-04-10,us,georgia,34.44244079,-84.16964071,84013085,US,USA,840,13085.0,dawson,"Dawson, Georgia, US",24,0,1.0,0.0
 2020-04-11,us,georgia,34.44244079,-84.16964071,84013085,US,USA,840,13085.0,dawson,"Dawson, Georgia, US",25,1,2.0,1.0
+2020-04-12,us,georgia,34.44244079,-84.16964071,84013085,US,USA,840,13085.0,dawson,"Dawson, Georgia, US",26,1,2.0,0.0
+2020-04-13,us,georgia,34.44244079,-84.16964071,84013085,US,USA,840,13085.0,dawson,"Dawson, Georgia, US",29,3,2.0,0.0
 2020-01-22,us,georgia,34.46589159,-84.46406611,84013227,US,USA,840,13227.0,pickens,"Pickens, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.46589159,-84.46406611,84013227,US,USA,840,13227.0,pickens,"Pickens, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.46589159,-84.46406611,84013227,US,USA,840,13227.0,pickens,"Pickens, Georgia, US",0,0,0.0,0.0
@@ -11744,6 +12032,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.46589159,-84.46406611,84013227,US,USA,840,13227.0,pickens,"Pickens, Georgia, US",10,0,2.0,0.0
 2020-04-10,us,georgia,34.46589159,-84.46406611,84013227,US,USA,840,13227.0,pickens,"Pickens, Georgia, US",11,1,2.0,0.0
 2020-04-11,us,georgia,34.46589159,-84.46406611,84013227,US,USA,840,13227.0,pickens,"Pickens, Georgia, US",10,-1,2.0,0.0
+2020-04-12,us,georgia,34.46589159,-84.46406611,84013227,US,USA,840,13227.0,pickens,"Pickens, Georgia, US",12,2,2.0,0.0
+2020-04-13,us,georgia,34.46589159,-84.46406611,84013227,US,USA,840,13227.0,pickens,"Pickens, Georgia, US",11,-1,2.0,0.0
 2020-01-22,us,georgia,34.47197698,-85.34535662,84013055,US,USA,840,13055.0,chattooga,"Chattooga, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.47197698,-85.34535662,84013055,US,USA,840,13055.0,chattooga,"Chattooga, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.47197698,-85.34535662,84013055,US,USA,840,13055.0,chattooga,"Chattooga, Georgia, US",0,0,0.0,0.0
@@ -11825,6 +12115,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.47197698,-85.34535662,84013055,US,USA,840,13055.0,chattooga,"Chattooga, Georgia, US",5,1,1.0,0.0
 2020-04-10,us,georgia,34.47197698,-85.34535662,84013055,US,USA,840,13055.0,chattooga,"Chattooga, Georgia, US",4,-1,1.0,0.0
 2020-04-11,us,georgia,34.47197698,-85.34535662,84013055,US,USA,840,13055.0,chattooga,"Chattooga, Georgia, US",5,1,1.0,0.0
+2020-04-12,us,georgia,34.47197698,-85.34535662,84013055,US,USA,840,13055.0,chattooga,"Chattooga, Georgia, US",6,1,1.0,0.0
+2020-04-13,us,georgia,34.47197698,-85.34535662,84013055,US,USA,840,13055.0,chattooga,"Chattooga, Georgia, US",7,1,1.0,0.0
 2020-01-22,us,georgia,34.50487351,-84.87296253,84013129,US,USA,840,13129.0,gordon,"Gordon, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.50487351,-84.87296253,84013129,US,USA,840,13129.0,gordon,"Gordon, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.50487351,-84.87296253,84013129,US,USA,840,13129.0,gordon,"Gordon, Georgia, US",0,0,0.0,0.0
@@ -11906,6 +12198,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.50487351,-84.87296253,84013129,US,USA,840,13129.0,gordon,"Gordon, Georgia, US",26,0,3.0,0.0
 2020-04-10,us,georgia,34.50487351,-84.87296253,84013129,US,USA,840,13129.0,gordon,"Gordon, Georgia, US",28,2,3.0,0.0
 2020-04-11,us,georgia,34.50487351,-84.87296253,84013129,US,USA,840,13129.0,gordon,"Gordon, Georgia, US",29,1,3.0,0.0
+2020-04-12,us,georgia,34.50487351,-84.87296253,84013129,US,USA,840,13129.0,gordon,"Gordon, Georgia, US",35,6,3.0,0.0
+2020-04-13,us,georgia,34.50487351,-84.87296253,84013129,US,USA,840,13129.0,gordon,"Gordon, Georgia, US",39,4,3.0,0.0
 2020-01-22,us,georgia,34.55151201,-83.29405315,84013257,US,USA,840,13257.0,stephens,"Stephens, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.55151201,-83.29405315,84013257,US,USA,840,13257.0,stephens,"Stephens, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.55151201,-83.29405315,84013257,US,USA,840,13257.0,stephens,"Stephens, Georgia, US",0,0,0.0,0.0
@@ -11987,6 +12281,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.55151201,-83.29405315,84013257,US,USA,840,13257.0,stephens,"Stephens, Georgia, US",15,0,0.0,0.0
 2020-04-10,us,georgia,34.55151201,-83.29405315,84013257,US,USA,840,13257.0,stephens,"Stephens, Georgia, US",15,0,0.0,0.0
 2020-04-11,us,georgia,34.55151201,-83.29405315,84013257,US,USA,840,13257.0,stephens,"Stephens, Georgia, US",17,2,0.0,0.0
+2020-04-12,us,georgia,34.55151201,-83.29405315,84013257,US,USA,840,13257.0,stephens,"Stephens, Georgia, US",17,0,0.0,0.0
+2020-04-13,us,georgia,34.55151201,-83.29405315,84013257,US,USA,840,13257.0,stephens,"Stephens, Georgia, US",19,2,0.0,0.0
 2020-01-22,us,georgia,34.57286511,-84.00425681,84013187,US,USA,840,13187.0,lumpkin,"Lumpkin, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.57286511,-84.00425681,84013187,US,USA,840,13187.0,lumpkin,"Lumpkin, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.57286511,-84.00425681,84013187,US,USA,840,13187.0,lumpkin,"Lumpkin, Georgia, US",0,0,0.0,0.0
@@ -12068,6 +12364,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.57286511,-84.00425681,84013187,US,USA,840,13187.0,lumpkin,"Lumpkin, Georgia, US",9,0,0.0,0.0
 2020-04-10,us,georgia,34.57286511,-84.00425681,84013187,US,USA,840,13187.0,lumpkin,"Lumpkin, Georgia, US",9,0,0.0,0.0
 2020-04-11,us,georgia,34.57286511,-84.00425681,84013187,US,USA,840,13187.0,lumpkin,"Lumpkin, Georgia, US",9,0,0.0,0.0
+2020-04-12,us,georgia,34.57286511,-84.00425681,84013187,US,USA,840,13187.0,lumpkin,"Lumpkin, Georgia, US",9,0,0.0,0.0
+2020-04-13,us,georgia,34.57286511,-84.00425681,84013187,US,USA,840,13187.0,lumpkin,"Lumpkin, Georgia, US",9,0,0.0,0.0
 2020-01-22,us,georgia,34.63331566,-83.53094677,84013137,US,USA,840,13137.0,habersham,"Habersham, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.63331566,-83.53094677,84013137,US,USA,840,13137.0,habersham,"Habersham, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.63331566,-83.53094677,84013137,US,USA,840,13137.0,habersham,"Habersham, Georgia, US",0,0,0.0,0.0
@@ -12149,6 +12447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.63331566,-83.53094677,84013137,US,USA,840,13137.0,habersham,"Habersham, Georgia, US",7,-1,0.0,0.0
 2020-04-10,us,georgia,34.63331566,-83.53094677,84013137,US,USA,840,13137.0,habersham,"Habersham, Georgia, US",13,6,0.0,0.0
 2020-04-11,us,georgia,34.63331566,-83.53094677,84013137,US,USA,840,13137.0,habersham,"Habersham, Georgia, US",14,1,1.0,1.0
+2020-04-12,us,georgia,34.63331566,-83.53094677,84013137,US,USA,840,13137.0,habersham,"Habersham, Georgia, US",14,0,1.0,0.0
+2020-04-13,us,georgia,34.63331566,-83.53094677,84013137,US,USA,840,13137.0,habersham,"Habersham, Georgia, US",15,1,1.0,0.0
 2020-01-22,us,georgia,34.64624278,-83.74905525,84013311,US,USA,840,13311.0,white,"White, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.64624278,-83.74905525,84013311,US,USA,840,13311.0,white,"White, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.64624278,-83.74905525,84013311,US,USA,840,13311.0,white,"White, Georgia, US",0,0,0.0,0.0
@@ -12230,6 +12530,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.64624278,-83.74905525,84013311,US,USA,840,13311.0,white,"White, Georgia, US",11,1,0.0,0.0
 2020-04-10,us,georgia,34.64624278,-83.74905525,84013311,US,USA,840,13311.0,white,"White, Georgia, US",11,0,0.0,0.0
 2020-04-11,us,georgia,34.64624278,-83.74905525,84013311,US,USA,840,13311.0,white,"White, Georgia, US",11,0,0.0,0.0
+2020-04-12,us,georgia,34.64624278,-83.74905525,84013311,US,USA,840,13311.0,white,"White, Georgia, US",11,0,0.0,0.0
+2020-04-13,us,georgia,34.64624278,-83.74905525,84013311,US,USA,840,13311.0,white,"White, Georgia, US",11,0,0.0,0.0
 2020-01-22,us,georgia,34.69316688,-84.45802506,84013123,US,USA,840,13123.0,gilmer,"Gilmer, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.69316688,-84.45802506,84013123,US,USA,840,13123.0,gilmer,"Gilmer, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.69316688,-84.45802506,84013123,US,USA,840,13123.0,gilmer,"Gilmer, Georgia, US",0,0,0.0,0.0
@@ -12311,6 +12613,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.69316688,-84.45802506,84013123,US,USA,840,13123.0,gilmer,"Gilmer, Georgia, US",4,0,0.0,0.0
 2020-04-10,us,georgia,34.69316688,-84.45802506,84013123,US,USA,840,13123.0,gilmer,"Gilmer, Georgia, US",4,0,0.0,0.0
 2020-04-11,us,georgia,34.69316688,-84.45802506,84013123,US,USA,840,13123.0,gilmer,"Gilmer, Georgia, US",6,2,0.0,0.0
+2020-04-12,us,georgia,34.69316688,-84.45802506,84013123,US,USA,840,13123.0,gilmer,"Gilmer, Georgia, US",7,1,0.0,0.0
+2020-04-13,us,georgia,34.69316688,-84.45802506,84013123,US,USA,840,13123.0,gilmer,"Gilmer, Georgia, US",7,0,0.0,0.0
 2020-01-22,us,georgia,34.73376362,-85.30165174,84013295,US,USA,840,13295.0,walker,"Walker, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.73376362,-85.30165174,84013295,US,USA,840,13295.0,walker,"Walker, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.73376362,-85.30165174,84013295,US,USA,840,13295.0,walker,"Walker, Georgia, US",0,0,0.0,0.0
@@ -12392,6 +12696,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.73376362,-85.30165174,84013295,US,USA,840,13295.0,walker,"Walker, Georgia, US",4,1,0.0,0.0
 2020-04-10,us,georgia,34.73376362,-85.30165174,84013295,US,USA,840,13295.0,walker,"Walker, Georgia, US",6,2,0.0,0.0
 2020-04-11,us,georgia,34.73376362,-85.30165174,84013295,US,USA,840,13295.0,walker,"Walker, Georgia, US",6,0,0.0,0.0
+2020-04-12,us,georgia,34.73376362,-85.30165174,84013295,US,USA,840,13295.0,walker,"Walker, Georgia, US",6,0,0.0,0.0
+2020-04-13,us,georgia,34.73376362,-85.30165174,84013295,US,USA,840,13295.0,walker,"Walker, Georgia, US",6,0,0.0,0.0
 2020-01-22,us,georgia,34.78897608,-84.74993177,84013213,US,USA,840,13213.0,murray,"Murray, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.78897608,-84.74993177,84013213,US,USA,840,13213.0,murray,"Murray, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.78897608,-84.74993177,84013213,US,USA,840,13213.0,murray,"Murray, Georgia, US",0,0,0.0,0.0
@@ -12473,6 +12779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.78897608,-84.74993177,84013213,US,USA,840,13213.0,murray,"Murray, Georgia, US",12,1,0.0,0.0
 2020-04-10,us,georgia,34.78897608,-84.74993177,84013213,US,USA,840,13213.0,murray,"Murray, Georgia, US",12,0,0.0,0.0
 2020-04-11,us,georgia,34.78897608,-84.74993177,84013213,US,USA,840,13213.0,murray,"Murray, Georgia, US",14,2,0.0,0.0
+2020-04-12,us,georgia,34.78897608,-84.74993177,84013213,US,USA,840,13213.0,murray,"Murray, Georgia, US",14,0,0.0,0.0
+2020-04-13,us,georgia,34.78897608,-84.74993177,84013213,US,USA,840,13213.0,murray,"Murray, Georgia, US",15,1,0.0,0.0
 2020-01-22,us,georgia,34.80987459,-84.96093476,84013313,US,USA,840,13313.0,whitfield,"Whitfield, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.80987459,-84.96093476,84013313,US,USA,840,13313.0,whitfield,"Whitfield, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.80987459,-84.96093476,84013313,US,USA,840,13313.0,whitfield,"Whitfield, Georgia, US",0,0,0.0,0.0
@@ -12554,6 +12862,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.80987459,-84.96093476,84013313,US,USA,840,13313.0,whitfield,"Whitfield, Georgia, US",20,-1,3.0,0.0
 2020-04-10,us,georgia,34.80987459,-84.96093476,84013313,US,USA,840,13313.0,whitfield,"Whitfield, Georgia, US",24,4,3.0,0.0
 2020-04-11,us,georgia,34.80987459,-84.96093476,84013313,US,USA,840,13313.0,whitfield,"Whitfield, Georgia, US",24,0,3.0,0.0
+2020-04-12,us,georgia,34.80987459,-84.96093476,84013313,US,USA,840,13313.0,whitfield,"Whitfield, Georgia, US",24,0,3.0,0.0
+2020-04-13,us,georgia,34.80987459,-84.96093476,84013313,US,USA,840,13313.0,whitfield,"Whitfield, Georgia, US",26,2,3.0,0.0
 2020-01-22,us,georgia,34.82995757,-83.98967069,84013291,US,USA,840,13291.0,union,"Union, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.82995757,-83.98967069,84013291,US,USA,840,13291.0,union,"Union, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.82995757,-83.98967069,84013291,US,USA,840,13291.0,union,"Union, Georgia, US",0,0,0.0,0.0
@@ -12635,6 +12945,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.82995757,-83.98967069,84013291,US,USA,840,13291.0,union,"Union, Georgia, US",5,1,1.0,1.0
 2020-04-10,us,georgia,34.82995757,-83.98967069,84013291,US,USA,840,13291.0,union,"Union, Georgia, US",6,1,1.0,0.0
 2020-04-11,us,georgia,34.82995757,-83.98967069,84013291,US,USA,840,13291.0,union,"Union, Georgia, US",7,1,1.0,0.0
+2020-04-12,us,georgia,34.82995757,-83.98967069,84013291,US,USA,840,13291.0,union,"Union, Georgia, US",7,0,1.0,0.0
+2020-04-13,us,georgia,34.82995757,-83.98967069,84013291,US,USA,840,13291.0,union,"Union, Georgia, US",7,0,1.0,0.0
 2020-01-22,us,georgia,34.854916700000004,-85.50490424,84013083,US,USA,840,13083.0,dade,"Dade, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.854916700000004,-85.50490424,84013083,US,USA,840,13083.0,dade,"Dade, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.854916700000004,-85.50490424,84013083,US,USA,840,13083.0,dade,"Dade, Georgia, US",0,0,0.0,0.0
@@ -12716,6 +13028,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.854916700000004,-85.50490424,84013083,US,USA,840,13083.0,dade,"Dade, Georgia, US",2,0,1.0,0.0
 2020-04-10,us,georgia,34.854916700000004,-85.50490424,84013083,US,USA,840,13083.0,dade,"Dade, Georgia, US",2,0,1.0,0.0
 2020-04-11,us,georgia,34.854916700000004,-85.50490424,84013083,US,USA,840,13083.0,dade,"Dade, Georgia, US",2,0,1.0,0.0
+2020-04-12,us,georgia,34.854916700000004,-85.50490424,84013083,US,USA,840,13083.0,dade,"Dade, Georgia, US",2,0,1.0,0.0
+2020-04-13,us,georgia,34.854916700000004,-85.50490424,84013083,US,USA,840,13083.0,dade,"Dade, Georgia, US",2,0,1.0,0.0
 2020-01-22,us,georgia,34.86430205,-84.316964,84013111,US,USA,840,13111.0,fannin,"Fannin, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.86430205,-84.316964,84013111,US,USA,840,13111.0,fannin,"Fannin, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.86430205,-84.316964,84013111,US,USA,840,13111.0,fannin,"Fannin, Georgia, US",0,0,0.0,0.0
@@ -12797,6 +13111,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.86430205,-84.316964,84013111,US,USA,840,13111.0,fannin,"Fannin, Georgia, US",9,0,0.0,0.0
 2020-04-10,us,georgia,34.86430205,-84.316964,84013111,US,USA,840,13111.0,fannin,"Fannin, Georgia, US",9,0,0.0,0.0
 2020-04-11,us,georgia,34.86430205,-84.316964,84013111,US,USA,840,13111.0,fannin,"Fannin, Georgia, US",9,0,0.0,0.0
+2020-04-12,us,georgia,34.86430205,-84.316964,84013111,US,USA,840,13111.0,fannin,"Fannin, Georgia, US",9,0,0.0,0.0
+2020-04-13,us,georgia,34.86430205,-84.316964,84013111,US,USA,840,13111.0,fannin,"Fannin, Georgia, US",9,0,0.0,0.0
 2020-01-22,us,georgia,34.88389445,-83.40304637,84013241,US,USA,840,13241.0,rabun,"Rabun, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.88389445,-83.40304637,84013241,US,USA,840,13241.0,rabun,"Rabun, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.88389445,-83.40304637,84013241,US,USA,840,13241.0,rabun,"Rabun, Georgia, US",0,0,0.0,0.0
@@ -12878,6 +13194,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.88389445,-83.40304637,84013241,US,USA,840,13241.0,rabun,"Rabun, Georgia, US",6,1,0.0,0.0
 2020-04-10,us,georgia,34.88389445,-83.40304637,84013241,US,USA,840,13241.0,rabun,"Rabun, Georgia, US",6,0,0.0,0.0
 2020-04-11,us,georgia,34.88389445,-83.40304637,84013241,US,USA,840,13241.0,rabun,"Rabun, Georgia, US",6,0,0.0,0.0
+2020-04-12,us,georgia,34.88389445,-83.40304637,84013241,US,USA,840,13241.0,rabun,"Rabun, Georgia, US",6,0,0.0,0.0
+2020-04-13,us,georgia,34.88389445,-83.40304637,84013241,US,USA,840,13241.0,rabun,"Rabun, Georgia, US",6,0,0.0,0.0
 2020-01-22,us,georgia,34.89872298,-85.13757014,84013047,US,USA,840,13047.0,catoosa,"Catoosa, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.89872298,-85.13757014,84013047,US,USA,840,13047.0,catoosa,"Catoosa, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.89872298,-85.13757014,84013047,US,USA,840,13047.0,catoosa,"Catoosa, Georgia, US",0,0,0.0,0.0
@@ -12959,6 +13277,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.89872298,-85.13757014,84013047,US,USA,840,13047.0,catoosa,"Catoosa, Georgia, US",9,2,0.0,0.0
 2020-04-10,us,georgia,34.89872298,-85.13757014,84013047,US,USA,840,13047.0,catoosa,"Catoosa, Georgia, US",11,2,0.0,0.0
 2020-04-11,us,georgia,34.89872298,-85.13757014,84013047,US,USA,840,13047.0,catoosa,"Catoosa, Georgia, US",12,1,0.0,0.0
+2020-04-12,us,georgia,34.89872298,-85.13757014,84013047,US,USA,840,13047.0,catoosa,"Catoosa, Georgia, US",12,0,0.0,0.0
+2020-04-13,us,georgia,34.89872298,-85.13757014,84013047,US,USA,840,13047.0,catoosa,"Catoosa, Georgia, US",13,1,0.0,0.0
 2020-01-22,us,georgia,34.91369188,-83.74107459999998,84013281,US,USA,840,13281.0,towns,"Towns, Georgia, US",0,0,0.0,0.0
 2020-01-23,us,georgia,34.91369188,-83.74107459999998,84013281,US,USA,840,13281.0,towns,"Towns, Georgia, US",0,0,0.0,0.0
 2020-01-24,us,georgia,34.91369188,-83.74107459999998,84013281,US,USA,840,13281.0,towns,"Towns, Georgia, US",0,0,0.0,0.0
@@ -13040,3 +13360,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,georgia,34.91369188,-83.74107459999998,84013281,US,USA,840,13281.0,towns,"Towns, Georgia, US",2,0,0.0,0.0
 2020-04-10,us,georgia,34.91369188,-83.74107459999998,84013281,US,USA,840,13281.0,towns,"Towns, Georgia, US",3,1,0.0,0.0
 2020-04-11,us,georgia,34.91369188,-83.74107459999998,84013281,US,USA,840,13281.0,towns,"Towns, Georgia, US",3,0,0.0,0.0
+2020-04-12,us,georgia,34.91369188,-83.74107459999998,84013281,US,USA,840,13281.0,towns,"Towns, Georgia, US",3,0,0.0,0.0
+2020-04-13,us,georgia,34.91369188,-83.74107459999998,84013281,US,USA,840,13281.0,towns,"Towns, Georgia, US",3,0,0.0,0.0

@@ -80,6 +80,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,0.0,0.0,84080030,US,USA,840,80030.0,out-of-mt,"Out of MT, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,0.0,0.0,84080030,US,USA,840,80030.0,out-of-mt,"Out of MT, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,0.0,0.0,84080030,US,USA,840,80030.0,out-of-mt,"Out of MT, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,0.0,0.0,84080030,US,USA,840,80030.0,out-of-mt,"Out of MT, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,0.0,0.0,84080030,US,USA,840,80030.0,out-of-mt,"Out of MT, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,0.0,0.0,84090030,US,USA,840,90030.0,unassigned,"Unassigned, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,0.0,0.0,84090030,US,USA,840,90030.0,unassigned,"Unassigned, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,0.0,0.0,84090030,US,USA,840,90030.0,unassigned,"Unassigned, Montana, US",0,0,0.0,0.0
@@ -161,6 +163,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,0.0,0.0,84090030,US,USA,840,90030.0,unassigned,"Unassigned, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,0.0,0.0,84090030,US,USA,840,90030.0,unassigned,"Unassigned, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,0.0,0.0,84090030,US,USA,840,90030.0,unassigned,"Unassigned, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,0.0,0.0,84090030,US,USA,840,90030.0,unassigned,"Unassigned, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,0.0,0.0,84090030,US,USA,840,90030.0,unassigned,"Unassigned, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,45.13434354,-112.8984694,84030001,US,USA,840,30001.0,beaverhead,"Beaverhead, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.13434354,-112.8984694,84030001,US,USA,840,30001.0,beaverhead,"Beaverhead, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.13434354,-112.8984694,84030001,US,USA,840,30001.0,beaverhead,"Beaverhead, Montana, US",0,0,0.0,0.0
@@ -242,6 +246,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.13434354,-112.8984694,84030001,US,USA,840,30001.0,beaverhead,"Beaverhead, Montana, US",1,0,0.0,0.0
 2020-04-10,us,montana,45.13434354,-112.8984694,84030001,US,USA,840,30001.0,beaverhead,"Beaverhead, Montana, US",1,0,0.0,0.0
 2020-04-11,us,montana,45.13434354,-112.8984694,84030001,US,USA,840,30001.0,beaverhead,"Beaverhead, Montana, US",1,0,0.0,0.0
+2020-04-12,us,montana,45.13434354,-112.8984694,84030001,US,USA,840,30001.0,beaverhead,"Beaverhead, Montana, US",1,0,0.0,0.0
+2020-04-13,us,montana,45.13434354,-112.8984694,84030001,US,USA,840,30001.0,beaverhead,"Beaverhead, Montana, US",1,0,0.0,0.0
 2020-01-22,us,montana,45.22850116,-109.0274047,84030009,US,USA,840,30009.0,carbon,"Carbon, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.22850116,-109.0274047,84030009,US,USA,840,30009.0,carbon,"Carbon, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.22850116,-109.0274047,84030009,US,USA,840,30009.0,carbon,"Carbon, Montana, US",0,0,0.0,0.0
@@ -323,6 +329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.22850116,-109.0274047,84030009,US,USA,840,30009.0,carbon,"Carbon, Montana, US",3,0,0.0,0.0
 2020-04-10,us,montana,45.22850116,-109.0274047,84030009,US,USA,840,30009.0,carbon,"Carbon, Montana, US",6,3,0.0,0.0
 2020-04-11,us,montana,45.22850116,-109.0274047,84030009,US,USA,840,30009.0,carbon,"Carbon, Montana, US",6,0,0.0,0.0
+2020-04-12,us,montana,45.22850116,-109.0274047,84030009,US,USA,840,30009.0,carbon,"Carbon, Montana, US",6,0,0.0,0.0
+2020-04-13,us,montana,45.22850116,-109.0274047,84030009,US,USA,840,30009.0,carbon,"Carbon, Montana, US",6,0,0.0,0.0
 2020-01-22,us,montana,45.30080065,-111.9173017,84030057,US,USA,840,30057.0,madison,"Madison, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.30080065,-111.9173017,84030057,US,USA,840,30057.0,madison,"Madison, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.30080065,-111.9173017,84030057,US,USA,840,30057.0,madison,"Madison, Montana, US",0,0,0.0,0.0
@@ -404,6 +412,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.30080065,-111.9173017,84030057,US,USA,840,30057.0,madison,"Madison, Montana, US",8,0,1.0,0.0
 2020-04-10,us,montana,45.30080065,-111.9173017,84030057,US,USA,840,30057.0,madison,"Madison, Montana, US",8,0,1.0,0.0
 2020-04-11,us,montana,45.30080065,-111.9173017,84030057,US,USA,840,30057.0,madison,"Madison, Montana, US",8,0,1.0,0.0
+2020-04-12,us,montana,45.30080065,-111.9173017,84030057,US,USA,840,30057.0,madison,"Madison, Montana, US",8,0,1.0,0.0
+2020-04-13,us,montana,45.30080065,-111.9173017,84030057,US,USA,840,30057.0,madison,"Madison, Montana, US",8,0,1.0,0.0
 2020-01-22,us,montana,45.39617714,-105.636738,84030075,US,USA,840,30075.0,powder-river,"Powder River, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.39617714,-105.636738,84030075,US,USA,840,30075.0,powder-river,"Powder River, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.39617714,-105.636738,84030075,US,USA,840,30075.0,powder-river,"Powder River, Montana, US",0,0,0.0,0.0
@@ -485,6 +495,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.39617714,-105.636738,84030075,US,USA,840,30075.0,powder-river,"Powder River, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,45.39617714,-105.636738,84030075,US,USA,840,30075.0,powder-river,"Powder River, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,45.39617714,-105.636738,84030075,US,USA,840,30075.0,powder-river,"Powder River, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,45.39617714,-105.636738,84030075,US,USA,840,30075.0,powder-river,"Powder River, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,45.39617714,-105.636738,84030075,US,USA,840,30075.0,powder-river,"Powder River, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,45.42335905,-107.492347,84030003,US,USA,840,30003.0,big-horn,"Big Horn, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.42335905,-107.492347,84030003,US,USA,840,30003.0,big-horn,"Big Horn, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.42335905,-107.492347,84030003,US,USA,840,30003.0,big-horn,"Big Horn, Montana, US",0,0,0.0,0.0
@@ -566,6 +578,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.42335905,-107.492347,84030003,US,USA,840,30003.0,big-horn,"Big Horn, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,45.42335905,-107.492347,84030003,US,USA,840,30003.0,big-horn,"Big Horn, Montana, US",1,1,0.0,0.0
 2020-04-11,us,montana,45.42335905,-107.492347,84030003,US,USA,840,30003.0,big-horn,"Big Horn, Montana, US",1,0,0.0,0.0
+2020-04-12,us,montana,45.42335905,-107.492347,84030003,US,USA,840,30003.0,big-horn,"Big Horn, Montana, US",1,0,0.0,0.0
+2020-04-13,us,montana,45.42335905,-107.492347,84030003,US,USA,840,30003.0,big-horn,"Big Horn, Montana, US",1,0,0.0,0.0
 2020-01-22,us,montana,45.48965095,-110.52643940000002,84030067,US,USA,840,30067.0,park,"Park, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.48965095,-110.52643940000002,84030067,US,USA,840,30067.0,park,"Park, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.48965095,-110.52643940000002,84030067,US,USA,840,30067.0,park,"Park, Montana, US",0,0,0.0,0.0
@@ -647,6 +661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.48965095,-110.52643940000002,84030067,US,USA,840,30067.0,park,"Park, Montana, US",7,0,0.0,0.0
 2020-04-10,us,montana,45.48965095,-110.52643940000002,84030067,US,USA,840,30067.0,park,"Park, Montana, US",7,0,0.0,0.0
 2020-04-11,us,montana,45.48965095,-110.52643940000002,84030067,US,USA,840,30067.0,park,"Park, Montana, US",7,0,0.0,0.0
+2020-04-12,us,montana,45.48965095,-110.52643940000002,84030067,US,USA,840,30067.0,park,"Park, Montana, US",7,0,0.0,0.0
+2020-04-13,us,montana,45.48965095,-110.52643940000002,84030067,US,USA,840,30067.0,park,"Park, Montana, US",7,0,0.0,0.0
 2020-01-22,us,montana,45.5197966,-104.5395536,84030011,US,USA,840,30011.0,carter,"Carter, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.5197966,-104.5395536,84030011,US,USA,840,30011.0,carter,"Carter, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.5197966,-104.5395536,84030011,US,USA,840,30011.0,carter,"Carter, Montana, US",0,0,0.0,0.0
@@ -728,6 +744,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.5197966,-104.5395536,84030011,US,USA,840,30011.0,carter,"Carter, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,45.5197966,-104.5395536,84030011,US,USA,840,30011.0,carter,"Carter, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,45.5197966,-104.5395536,84030011,US,USA,840,30011.0,carter,"Carter, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,45.5197966,-104.5395536,84030011,US,USA,840,30011.0,carter,"Carter, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,45.5197966,-104.5395536,84030011,US,USA,840,30011.0,carter,"Carter, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,45.54486106,-111.1692571,84030031,US,USA,840,30031.0,gallatin,"Gallatin, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.54486106,-111.1692571,84030031,US,USA,840,30031.0,gallatin,"Gallatin, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.54486106,-111.1692571,84030031,US,USA,840,30031.0,gallatin,"Gallatin, Montana, US",0,0,0.0,0.0
@@ -809,6 +827,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.54486106,-111.1692571,84030031,US,USA,840,30031.0,gallatin,"Gallatin, Montana, US",128,8,0.0,0.0
 2020-04-10,us,montana,45.54486106,-111.1692571,84030031,US,USA,840,30031.0,gallatin,"Gallatin, Montana, US",134,6,0.0,0.0
 2020-04-11,us,montana,45.54486106,-111.1692571,84030031,US,USA,840,30031.0,gallatin,"Gallatin, Montana, US",135,1,0.0,0.0
+2020-04-12,us,montana,45.54486106,-111.1692571,84030031,US,USA,840,30031.0,gallatin,"Gallatin, Montana, US",138,3,0.0,0.0
+2020-04-13,us,montana,45.54486106,-111.1692571,84030031,US,USA,840,30031.0,gallatin,"Gallatin, Montana, US",138,0,0.0,0.0
 2020-01-22,us,montana,45.67071407,-109.3950061,84030095,US,USA,840,30095.0,stillwater,"Stillwater, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.67071407,-109.3950061,84030095,US,USA,840,30095.0,stillwater,"Stillwater, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.67071407,-109.3950061,84030095,US,USA,840,30095.0,stillwater,"Stillwater, Montana, US",0,0,0.0,0.0
@@ -890,6 +910,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.67071407,-109.3950061,84030095,US,USA,840,30095.0,stillwater,"Stillwater, Montana, US",1,1,0.0,0.0
 2020-04-10,us,montana,45.67071407,-109.3950061,84030095,US,USA,840,30095.0,stillwater,"Stillwater, Montana, US",1,0,0.0,0.0
 2020-04-11,us,montana,45.67071407,-109.3950061,84030095,US,USA,840,30095.0,stillwater,"Stillwater, Montana, US",1,0,0.0,0.0
+2020-04-12,us,montana,45.67071407,-109.3950061,84030095,US,USA,840,30095.0,stillwater,"Stillwater, Montana, US",1,0,0.0,0.0
+2020-04-13,us,montana,45.67071407,-109.3950061,84030095,US,USA,840,30095.0,stillwater,"Stillwater, Montana, US",1,0,0.0,0.0
 2020-01-22,us,montana,45.81367654,-109.9425686,84030097,US,USA,840,30097.0,sweet-grass,"Sweet Grass, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.81367654,-109.9425686,84030097,US,USA,840,30097.0,sweet-grass,"Sweet Grass, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.81367654,-109.9425686,84030097,US,USA,840,30097.0,sweet-grass,"Sweet Grass, Montana, US",0,0,0.0,0.0
@@ -971,6 +993,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.81367654,-109.9425686,84030097,US,USA,840,30097.0,sweet-grass,"Sweet Grass, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,45.81367654,-109.9425686,84030097,US,USA,840,30097.0,sweet-grass,"Sweet Grass, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,45.81367654,-109.9425686,84030097,US,USA,840,30097.0,sweet-grass,"Sweet Grass, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,45.81367654,-109.9425686,84030097,US,USA,840,30097.0,sweet-grass,"Sweet Grass, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,45.81367654,-109.9425686,84030097,US,USA,840,30097.0,sweet-grass,"Sweet Grass, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,45.90018933,-112.6620092,84030093,US,USA,840,30093.0,silver-bow,"Silver Bow, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.90018933,-112.6620092,84030093,US,USA,840,30093.0,silver-bow,"Silver Bow, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.90018933,-112.6620092,84030093,US,USA,840,30093.0,silver-bow,"Silver Bow, Montana, US",0,0,0.0,0.0
@@ -1052,6 +1076,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.90018933,-112.6620092,84030093,US,USA,840,30093.0,silver-bow,"Silver Bow, Montana, US",11,0,0.0,0.0
 2020-04-10,us,montana,45.90018933,-112.6620092,84030093,US,USA,840,30093.0,silver-bow,"Silver Bow, Montana, US",11,0,0.0,0.0
 2020-04-11,us,montana,45.90018933,-112.6620092,84030093,US,USA,840,30093.0,silver-bow,"Silver Bow, Montana, US",11,0,0.0,0.0
+2020-04-12,us,montana,45.90018933,-112.6620092,84030093,US,USA,840,30093.0,silver-bow,"Silver Bow, Montana, US",11,0,0.0,0.0
+2020-04-13,us,montana,45.90018933,-112.6620092,84030093,US,USA,840,30093.0,silver-bow,"Silver Bow, Montana, US",11,0,0.0,0.0
 2020-01-22,us,montana,45.93955949,-108.2691486,84030111,US,USA,840,30111.0,yellowstone,"Yellowstone, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,45.93955949,-108.2691486,84030111,US,USA,840,30111.0,yellowstone,"Yellowstone, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,45.93955949,-108.2691486,84030111,US,USA,840,30111.0,yellowstone,"Yellowstone, Montana, US",0,0,0.0,0.0
@@ -1133,6 +1159,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,45.93955949,-108.2691486,84030111,US,USA,840,30111.0,yellowstone,"Yellowstone, Montana, US",52,4,0.0,0.0
 2020-04-10,us,montana,45.93955949,-108.2691486,84030111,US,USA,840,30111.0,yellowstone,"Yellowstone, Montana, US",55,3,0.0,0.0
 2020-04-11,us,montana,45.93955949,-108.2691486,84030111,US,USA,840,30111.0,yellowstone,"Yellowstone, Montana, US",57,2,0.0,0.0
+2020-04-12,us,montana,45.93955949,-108.2691486,84030111,US,USA,840,30111.0,yellowstone,"Yellowstone, Montana, US",58,1,0.0,0.0
+2020-04-13,us,montana,45.93955949,-108.2691486,84030111,US,USA,840,30111.0,yellowstone,"Yellowstone, Montana, US",59,1,0.0,0.0
 2020-01-22,us,montana,46.05953325,-113.073353,84030023,US,USA,840,30023.0,deer-lodge,"Deer Lodge, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.05953325,-113.073353,84030023,US,USA,840,30023.0,deer-lodge,"Deer Lodge, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.05953325,-113.073353,84030023,US,USA,840,30023.0,deer-lodge,"Deer Lodge, Montana, US",0,0,0.0,0.0
@@ -1214,6 +1242,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.05953325,-113.073353,84030023,US,USA,840,30023.0,deer-lodge,"Deer Lodge, Montana, US",4,1,0.0,0.0
 2020-04-10,us,montana,46.05953325,-113.073353,84030023,US,USA,840,30023.0,deer-lodge,"Deer Lodge, Montana, US",3,-1,0.0,0.0
 2020-04-11,us,montana,46.05953325,-113.073353,84030023,US,USA,840,30023.0,deer-lodge,"Deer Lodge, Montana, US",3,0,0.0,0.0
+2020-04-12,us,montana,46.05953325,-113.073353,84030023,US,USA,840,30023.0,deer-lodge,"Deer Lodge, Montana, US",3,0,0.0,0.0
+2020-04-13,us,montana,46.05953325,-113.073353,84030023,US,USA,840,30023.0,deer-lodge,"Deer Lodge, Montana, US",3,0,0.0,0.0
 2020-01-22,us,montana,46.08520862,-114.11891640000002,84030081,US,USA,840,30081.0,ravalli,"Ravalli, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.08520862,-114.11891640000002,84030081,US,USA,840,30081.0,ravalli,"Ravalli, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.08520862,-114.11891640000002,84030081,US,USA,840,30081.0,ravalli,"Ravalli, Montana, US",0,0,0.0,0.0
@@ -1295,6 +1325,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.08520862,-114.11891640000002,84030081,US,USA,840,30081.0,ravalli,"Ravalli, Montana, US",3,0,0.0,0.0
 2020-04-10,us,montana,46.08520862,-114.11891640000002,84030081,US,USA,840,30081.0,ravalli,"Ravalli, Montana, US",3,0,0.0,0.0
 2020-04-11,us,montana,46.08520862,-114.11891640000002,84030081,US,USA,840,30081.0,ravalli,"Ravalli, Montana, US",3,0,0.0,0.0
+2020-04-12,us,montana,46.08520862,-114.11891640000002,84030081,US,USA,840,30081.0,ravalli,"Ravalli, Montana, US",3,0,0.0,0.0
+2020-04-13,us,montana,46.08520862,-114.11891640000002,84030081,US,USA,840,30081.0,ravalli,"Ravalli, Montana, US",5,2,0.0,0.0
 2020-01-22,us,montana,46.14907081,-112.094396,84030043,US,USA,840,30043.0,jefferson,"Jefferson, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.14907081,-112.094396,84030043,US,USA,840,30043.0,jefferson,"Jefferson, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.14907081,-112.094396,84030043,US,USA,840,30043.0,jefferson,"Jefferson, Montana, US",0,0,0.0,0.0
@@ -1376,6 +1408,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.14907081,-112.094396,84030043,US,USA,840,30043.0,jefferson,"Jefferson, Montana, US",2,0,0.0,0.0
 2020-04-10,us,montana,46.14907081,-112.094396,84030043,US,USA,840,30043.0,jefferson,"Jefferson, Montana, US",2,0,0.0,0.0
 2020-04-11,us,montana,46.14907081,-112.094396,84030043,US,USA,840,30043.0,jefferson,"Jefferson, Montana, US",2,0,0.0,0.0
+2020-04-12,us,montana,46.14907081,-112.094396,84030043,US,USA,840,30043.0,jefferson,"Jefferson, Montana, US",2,0,0.0,0.0
+2020-04-13,us,montana,46.14907081,-112.094396,84030043,US,USA,840,30043.0,jefferson,"Jefferson, Montana, US",2,0,0.0,0.0
 2020-01-22,us,montana,46.20973220000001,-107.2666516,84030103,US,USA,840,30103.0,treasure,"Treasure, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.20973220000001,-107.2666516,84030103,US,USA,840,30103.0,treasure,"Treasure, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.20973220000001,-107.2666516,84030103,US,USA,840,30103.0,treasure,"Treasure, Montana, US",0,0,0.0,0.0
@@ -1457,6 +1491,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.20973220000001,-107.2666516,84030103,US,USA,840,30103.0,treasure,"Treasure, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,46.20973220000001,-107.2666516,84030103,US,USA,840,30103.0,treasure,"Treasure, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,46.20973220000001,-107.2666516,84030103,US,USA,840,30103.0,treasure,"Treasure, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,46.20973220000001,-107.2666516,84030103,US,USA,840,30103.0,treasure,"Treasure, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,46.20973220000001,-107.2666516,84030103,US,USA,840,30103.0,treasure,"Treasure, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,46.23397237,-106.72928799999998,84030087,US,USA,840,30087.0,rosebud,"Rosebud, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.23397237,-106.72928799999998,84030087,US,USA,840,30087.0,rosebud,"Rosebud, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.23397237,-106.72928799999998,84030087,US,USA,840,30087.0,rosebud,"Rosebud, Montana, US",0,0,0.0,0.0
@@ -1538,6 +1574,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.23397237,-106.72928799999998,84030087,US,USA,840,30087.0,rosebud,"Rosebud, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,46.23397237,-106.72928799999998,84030087,US,USA,840,30087.0,rosebud,"Rosebud, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,46.23397237,-106.72928799999998,84030087,US,USA,840,30087.0,rosebud,"Rosebud, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,46.23397237,-106.72928799999998,84030087,US,USA,840,30087.0,rosebud,"Rosebud, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,46.23397237,-106.72928799999998,84030087,US,USA,840,30087.0,rosebud,"Rosebud, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,46.25319932,-105.57375259999998,84030017,US,USA,840,30017.0,custer,"Custer, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.25319932,-105.57375259999998,84030017,US,USA,840,30017.0,custer,"Custer, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.25319932,-105.57375259999998,84030017,US,USA,840,30017.0,custer,"Custer, Montana, US",0,0,0.0,0.0
@@ -1619,6 +1657,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.25319932,-105.57375259999998,84030017,US,USA,840,30017.0,custer,"Custer, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,46.25319932,-105.57375259999998,84030017,US,USA,840,30017.0,custer,"Custer, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,46.25319932,-105.57375259999998,84030017,US,USA,840,30017.0,custer,"Custer, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,46.25319932,-105.57375259999998,84030017,US,USA,840,30017.0,custer,"Custer, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,46.25319932,-105.57375259999998,84030017,US,USA,840,30017.0,custer,"Custer, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,46.33277565,-111.4955813,84030007,US,USA,840,30007.0,broadwater,"Broadwater, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.33277565,-111.4955813,84030007,US,USA,840,30007.0,broadwater,"Broadwater, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.33277565,-111.4955813,84030007,US,USA,840,30007.0,broadwater,"Broadwater, Montana, US",0,0,0.0,0.0
@@ -1700,6 +1740,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.33277565,-111.4955813,84030007,US,USA,840,30007.0,broadwater,"Broadwater, Montana, US",4,0,0.0,0.0
 2020-04-10,us,montana,46.33277565,-111.4955813,84030007,US,USA,840,30007.0,broadwater,"Broadwater, Montana, US",4,0,0.0,0.0
 2020-04-11,us,montana,46.33277565,-111.4955813,84030007,US,USA,840,30007.0,broadwater,"Broadwater, Montana, US",4,0,0.0,0.0
+2020-04-12,us,montana,46.33277565,-111.4955813,84030007,US,USA,840,30007.0,broadwater,"Broadwater, Montana, US",4,0,0.0,0.0
+2020-04-13,us,montana,46.33277565,-111.4955813,84030007,US,USA,840,30007.0,broadwater,"Broadwater, Montana, US",4,0,0.0,0.0
 2020-01-22,us,montana,46.33478338,-104.4183565,84030025,US,USA,840,30025.0,fallon,"Fallon, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.33478338,-104.4183565,84030025,US,USA,840,30025.0,fallon,"Fallon, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.33478338,-104.4183565,84030025,US,USA,840,30025.0,fallon,"Fallon, Montana, US",0,0,0.0,0.0
@@ -1781,6 +1823,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.33478338,-104.4183565,84030025,US,USA,840,30025.0,fallon,"Fallon, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,46.33478338,-104.4183565,84030025,US,USA,840,30025.0,fallon,"Fallon, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,46.33478338,-104.4183565,84030025,US,USA,840,30025.0,fallon,"Fallon, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,46.33478338,-104.4183565,84030025,US,USA,840,30025.0,fallon,"Fallon, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,46.33478338,-104.4183565,84030025,US,USA,840,30025.0,fallon,"Fallon, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,46.3816474,-109.1768522,84030037,US,USA,840,30037.0,golden-valley,"Golden Valley, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.3816474,-109.1768522,84030037,US,USA,840,30037.0,golden-valley,"Golden Valley, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.3816474,-109.1768522,84030037,US,USA,840,30037.0,golden-valley,"Golden Valley, Montana, US",0,0,0.0,0.0
@@ -1862,6 +1906,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.3816474,-109.1768522,84030037,US,USA,840,30037.0,golden-valley,"Golden Valley, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,46.3816474,-109.1768522,84030037,US,USA,840,30037.0,golden-valley,"Golden Valley, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,46.3816474,-109.1768522,84030037,US,USA,840,30037.0,golden-valley,"Golden Valley, Montana, US",1,1,0.0,0.0
+2020-04-12,us,montana,46.3816474,-109.1768522,84030037,US,USA,840,30037.0,golden-valley,"Golden Valley, Montana, US",1,0,0.0,0.0
+2020-04-13,us,montana,46.3816474,-109.1768522,84030037,US,USA,840,30037.0,golden-valley,"Golden Valley, Montana, US",1,0,0.0,0.0
 2020-01-22,us,montana,46.40605220000001,-113.4414186,84030039,US,USA,840,30039.0,granite,"Granite, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.40605220000001,-113.4414186,84030039,US,USA,840,30039.0,granite,"Granite, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.40605220000001,-113.4414186,84030039,US,USA,840,30039.0,granite,"Granite, Montana, US",0,0,0.0,0.0
@@ -1943,6 +1989,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.40605220000001,-113.4414186,84030039,US,USA,840,30039.0,granite,"Granite, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,46.40605220000001,-113.4414186,84030039,US,USA,840,30039.0,granite,"Granite, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,46.40605220000001,-113.4414186,84030039,US,USA,840,30039.0,granite,"Granite, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,46.40605220000001,-113.4414186,84030039,US,USA,840,30039.0,granite,"Granite, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,46.40605220000001,-113.4414186,84030039,US,USA,840,30039.0,granite,"Granite, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,46.46652491,-109.8464636,84030107,US,USA,840,30107.0,wheatland,"Wheatland, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.46652491,-109.8464636,84030107,US,USA,840,30107.0,wheatland,"Wheatland, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.46652491,-109.8464636,84030107,US,USA,840,30107.0,wheatland,"Wheatland, Montana, US",0,0,0.0,0.0
@@ -2024,6 +2072,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.46652491,-109.8464636,84030107,US,USA,840,30107.0,wheatland,"Wheatland, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,46.46652491,-109.8464636,84030107,US,USA,840,30107.0,wheatland,"Wheatland, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,46.46652491,-109.8464636,84030107,US,USA,840,30107.0,wheatland,"Wheatland, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,46.46652491,-109.8464636,84030107,US,USA,840,30107.0,wheatland,"Wheatland, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,46.46652491,-109.8464636,84030107,US,USA,840,30107.0,wheatland,"Wheatland, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,46.49684637,-108.39498,84030065,US,USA,840,30065.0,musselshell,"Musselshell, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.49684637,-108.39498,84030065,US,USA,840,30065.0,musselshell,"Musselshell, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.49684637,-108.39498,84030065,US,USA,840,30065.0,musselshell,"Musselshell, Montana, US",0,0,0.0,0.0
@@ -2105,6 +2155,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.49684637,-108.39498,84030065,US,USA,840,30065.0,musselshell,"Musselshell, Montana, US",1,0,0.0,0.0
 2020-04-10,us,montana,46.49684637,-108.39498,84030065,US,USA,840,30065.0,musselshell,"Musselshell, Montana, US",1,0,0.0,0.0
 2020-04-11,us,montana,46.49684637,-108.39498,84030065,US,USA,840,30065.0,musselshell,"Musselshell, Montana, US",1,0,0.0,0.0
+2020-04-12,us,montana,46.49684637,-108.39498,84030065,US,USA,840,30065.0,musselshell,"Musselshell, Montana, US",1,0,0.0,0.0
+2020-04-13,us,montana,46.49684637,-108.39498,84030065,US,USA,840,30065.0,musselshell,"Musselshell, Montana, US",1,0,0.0,0.0
 2020-01-22,us,montana,46.59907074,-110.8898557,84030059,US,USA,840,30059.0,meagher,"Meagher, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.59907074,-110.8898557,84030059,US,USA,840,30059.0,meagher,"Meagher, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.59907074,-110.8898557,84030059,US,USA,840,30059.0,meagher,"Meagher, Montana, US",0,0,0.0,0.0
@@ -2186,6 +2238,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.59907074,-110.8898557,84030059,US,USA,840,30059.0,meagher,"Meagher, Montana, US",1,0,0.0,0.0
 2020-04-10,us,montana,46.59907074,-110.8898557,84030059,US,USA,840,30059.0,meagher,"Meagher, Montana, US",1,0,0.0,0.0
 2020-04-11,us,montana,46.59907074,-110.8898557,84030059,US,USA,840,30059.0,meagher,"Meagher, Montana, US",1,0,0.0,0.0
+2020-04-12,us,montana,46.59907074,-110.8898557,84030059,US,USA,840,30059.0,meagher,"Meagher, Montana, US",1,0,0.0,0.0
+2020-04-13,us,montana,46.59907074,-110.8898557,84030059,US,USA,840,30059.0,meagher,"Meagher, Montana, US",1,0,0.0,0.0
 2020-01-22,us,montana,46.85538891,-112.9359164,84030077,US,USA,840,30077.0,powell,"Powell, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.85538891,-112.9359164,84030077,US,USA,840,30077.0,powell,"Powell, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.85538891,-112.9359164,84030077,US,USA,840,30077.0,powell,"Powell, Montana, US",0,0,0.0,0.0
@@ -2267,6 +2321,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.85538891,-112.9359164,84030077,US,USA,840,30077.0,powell,"Powell, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,46.85538891,-112.9359164,84030077,US,USA,840,30077.0,powell,"Powell, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,46.85538891,-112.9359164,84030077,US,USA,840,30077.0,powell,"Powell, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,46.85538891,-112.9359164,84030077,US,USA,840,30077.0,powell,"Powell, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,46.85538891,-112.9359164,84030077,US,USA,840,30077.0,powell,"Powell, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,46.86048047,-105.379384,84030079,US,USA,840,30079.0,prairie,"Prairie, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.86048047,-105.379384,84030079,US,USA,840,30079.0,prairie,"Prairie, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.86048047,-105.379384,84030079,US,USA,840,30079.0,prairie,"Prairie, Montana, US",0,0,0.0,0.0
@@ -2348,6 +2404,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.86048047,-105.379384,84030079,US,USA,840,30079.0,prairie,"Prairie, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,46.86048047,-105.379384,84030079,US,USA,840,30079.0,prairie,"Prairie, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,46.86048047,-105.379384,84030079,US,USA,840,30079.0,prairie,"Prairie, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,46.86048047,-105.379384,84030079,US,USA,840,30079.0,prairie,"Prairie, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,46.86048047,-105.379384,84030079,US,USA,840,30079.0,prairie,"Prairie, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,46.95925154,-104.2510927,84030109,US,USA,840,30109.0,wibaux,"Wibaux, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,46.95925154,-104.2510927,84030109,US,USA,840,30109.0,wibaux,"Wibaux, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,46.95925154,-104.2510927,84030109,US,USA,840,30109.0,wibaux,"Wibaux, Montana, US",0,0,0.0,0.0
@@ -2429,6 +2487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,46.95925154,-104.2510927,84030109,US,USA,840,30109.0,wibaux,"Wibaux, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,46.95925154,-104.2510927,84030109,US,USA,840,30109.0,wibaux,"Wibaux, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,46.95925154,-104.2510927,84030109,US,USA,840,30109.0,wibaux,"Wibaux, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,46.95925154,-104.2510927,84030109,US,USA,840,30109.0,wibaux,"Wibaux, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,46.95925154,-104.2510927,84030109,US,USA,840,30109.0,wibaux,"Wibaux, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,47.03728583,-113.92135079999998,84030063,US,USA,840,30063.0,missoula,"Missoula, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.03728583,-113.92135079999998,84030063,US,USA,840,30063.0,missoula,"Missoula, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.03728583,-113.92135079999998,84030063,US,USA,840,30063.0,missoula,"Missoula, Montana, US",0,0,0.0,0.0
@@ -2510,6 +2570,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.03728583,-113.92135079999998,84030063,US,USA,840,30063.0,missoula,"Missoula, Montana, US",26,1,1.0,0.0
 2020-04-10,us,montana,47.03728583,-113.92135079999998,84030063,US,USA,840,30063.0,missoula,"Missoula, Montana, US",26,0,1.0,0.0
 2020-04-11,us,montana,47.03728583,-113.92135079999998,84030063,US,USA,840,30063.0,missoula,"Missoula, Montana, US",29,3,1.0,0.0
+2020-04-12,us,montana,47.03728583,-113.92135079999998,84030063,US,USA,840,30063.0,missoula,"Missoula, Montana, US",30,1,1.0,0.0
+2020-04-13,us,montana,47.03728583,-113.92135079999998,84030063,US,USA,840,30063.0,missoula,"Missoula, Montana, US",30,0,1.0,0.0
 2020-01-22,us,montana,47.04581276,-110.2660688,84030045,US,USA,840,30045.0,judith-basin,"Judith Basin, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.04581276,-110.2660688,84030045,US,USA,840,30045.0,judith-basin,"Judith Basin, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.04581276,-110.2660688,84030045,US,USA,840,30045.0,judith-basin,"Judith Basin, Montana, US",0,0,0.0,0.0
@@ -2591,6 +2653,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.04581276,-110.2660688,84030045,US,USA,840,30045.0,judith-basin,"Judith Basin, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,47.04581276,-110.2660688,84030045,US,USA,840,30045.0,judith-basin,"Judith Basin, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,47.04581276,-110.2660688,84030045,US,USA,840,30045.0,judith-basin,"Judith Basin, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,47.04581276,-110.2660688,84030045,US,USA,840,30045.0,judith-basin,"Judith Basin, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,47.04581276,-110.2660688,84030045,US,USA,840,30045.0,judith-basin,"Judith Basin, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,47.1182463,-108.2508876,84030069,US,USA,840,30069.0,petroleum,"Petroleum, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.1182463,-108.2508876,84030069,US,USA,840,30069.0,petroleum,"Petroleum, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.1182463,-108.2508876,84030069,US,USA,840,30069.0,petroleum,"Petroleum, Montana, US",0,0,0.0,0.0
@@ -2672,6 +2736,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.1182463,-108.2508876,84030069,US,USA,840,30069.0,petroleum,"Petroleum, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,47.1182463,-108.2508876,84030069,US,USA,840,30069.0,petroleum,"Petroleum, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,47.1182463,-108.2508876,84030069,US,USA,840,30069.0,petroleum,"Petroleum, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,47.1182463,-108.2508876,84030069,US,USA,840,30069.0,petroleum,"Petroleum, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,47.1182463,-108.2508876,84030069,US,USA,840,30069.0,petroleum,"Petroleum, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,47.12610041,-112.394698,84030049,US,USA,840,30049.0,lewis-and-clark,"Lewis and Clark, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.12610041,-112.394698,84030049,US,USA,840,30049.0,lewis-and-clark,"Lewis and Clark, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.12610041,-112.394698,84030049,US,USA,840,30049.0,lewis-and-clark,"Lewis and Clark, Montana, US",0,0,0.0,0.0
@@ -2753,6 +2819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.12610041,-112.394698,84030049,US,USA,840,30049.0,lewis-and-clark,"Lewis and Clark, Montana, US",16,0,0.0,0.0
 2020-04-10,us,montana,47.12610041,-112.394698,84030049,US,USA,840,30049.0,lewis-and-clark,"Lewis and Clark, Montana, US",16,0,0.0,0.0
 2020-04-11,us,montana,47.12610041,-112.394698,84030049,US,USA,840,30049.0,lewis-and-clark,"Lewis and Clark, Montana, US",16,0,0.0,0.0
+2020-04-12,us,montana,47.12610041,-112.394698,84030049,US,USA,840,30049.0,lewis-and-clark,"Lewis and Clark, Montana, US",16,0,0.0,0.0
+2020-04-13,us,montana,47.12610041,-112.394698,84030049,US,USA,840,30049.0,lewis-and-clark,"Lewis and Clark, Montana, US",16,0,0.0,0.0
 2020-01-22,us,montana,47.15283992,-115.0015239,84030061,US,USA,840,30061.0,mineral,"Mineral, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.15283992,-115.0015239,84030061,US,USA,840,30061.0,mineral,"Mineral, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.15283992,-115.0015239,84030061,US,USA,840,30061.0,mineral,"Mineral, Montana, US",0,0,0.0,0.0
@@ -2834,6 +2902,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.15283992,-115.0015239,84030061,US,USA,840,30061.0,mineral,"Mineral, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,47.15283992,-115.0015239,84030061,US,USA,840,30061.0,mineral,"Mineral, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,47.15283992,-115.0015239,84030061,US,USA,840,30061.0,mineral,"Mineral, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,47.15283992,-115.0015239,84030061,US,USA,840,30061.0,mineral,"Mineral, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,47.15283992,-115.0015239,84030061,US,USA,840,30061.0,mineral,"Mineral, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,47.26331584,-109.2245206,84030027,US,USA,840,30027.0,fergus,"Fergus, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.26331584,-109.2245206,84030027,US,USA,840,30027.0,fergus,"Fergus, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.26331584,-109.2245206,84030027,US,USA,840,30027.0,fergus,"Fergus, Montana, US",0,0,0.0,0.0
@@ -2915,6 +2985,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.26331584,-109.2245206,84030027,US,USA,840,30027.0,fergus,"Fergus, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,47.26331584,-109.2245206,84030027,US,USA,840,30027.0,fergus,"Fergus, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,47.26331584,-109.2245206,84030027,US,USA,840,30027.0,fergus,"Fergus, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,47.26331584,-109.2245206,84030027,US,USA,840,30027.0,fergus,"Fergus, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,47.26331584,-109.2245206,84030027,US,USA,840,30027.0,fergus,"Fergus, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,47.26584855,-104.89444170000002,84030021,US,USA,840,30021.0,dawson,"Dawson, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.26584855,-104.89444170000002,84030021,US,USA,840,30021.0,dawson,"Dawson, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.26584855,-104.89444170000002,84030021,US,USA,840,30021.0,dawson,"Dawson, Montana, US",0,0,0.0,0.0
@@ -2996,6 +3068,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.26584855,-104.89444170000002,84030021,US,USA,840,30021.0,dawson,"Dawson, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,47.26584855,-104.89444170000002,84030021,US,USA,840,30021.0,dawson,"Dawson, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,47.26584855,-104.89444170000002,84030021,US,USA,840,30021.0,dawson,"Dawson, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,47.26584855,-104.89444170000002,84030021,US,USA,840,30021.0,dawson,"Dawson, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,47.26584855,-104.89444170000002,84030021,US,USA,840,30021.0,dawson,"Dawson, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,47.27545948,-107.0002351,84030033,US,USA,840,30033.0,garfield,"Garfield, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.27545948,-107.0002351,84030033,US,USA,840,30033.0,garfield,"Garfield, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.27545948,-107.0002351,84030033,US,USA,840,30033.0,garfield,"Garfield, Montana, US",0,0,0.0,0.0
@@ -3077,6 +3151,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.27545948,-107.0002351,84030033,US,USA,840,30033.0,garfield,"Garfield, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,47.27545948,-107.0002351,84030033,US,USA,840,30033.0,garfield,"Garfield, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,47.27545948,-107.0002351,84030033,US,USA,840,30033.0,garfield,"Garfield, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,47.27545948,-107.0002351,84030033,US,USA,840,30033.0,garfield,"Garfield, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,47.27545948,-107.0002351,84030033,US,USA,840,30033.0,garfield,"Garfield, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,cascade,"Cascade, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,cascade,"Cascade, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,cascade,"Cascade, Montana, US",0,0,0.0,0.0
@@ -3158,6 +3234,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,cascade,"Cascade, Montana, US",12,1,0.0,0.0
 2020-04-10,us,montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,cascade,"Cascade, Montana, US",12,0,0.0,0.0
 2020-04-11,us,montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,cascade,"Cascade, Montana, US",13,1,0.0,0.0
+2020-04-12,us,montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,cascade,"Cascade, Montana, US",13,0,0.0,0.0
+2020-04-13,us,montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,cascade,"Cascade, Montana, US",13,0,0.0,0.0
 2020-01-22,us,montana,47.64469406,-105.7944994,84030055,US,USA,840,30055.0,mccone,"McCone, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.64469406,-105.7944994,84030055,US,USA,840,30055.0,mccone,"McCone, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.64469406,-105.7944994,84030055,US,USA,840,30055.0,mccone,"McCone, Montana, US",0,0,0.0,0.0
@@ -3239,6 +3317,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.64469406,-105.7944994,84030055,US,USA,840,30055.0,mccone,"McCone, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,47.64469406,-105.7944994,84030055,US,USA,840,30055.0,mccone,"McCone, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,47.64469406,-105.7944994,84030055,US,USA,840,30055.0,mccone,"McCone, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,47.64469406,-105.7944994,84030055,US,USA,840,30055.0,mccone,"McCone, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,47.64469406,-105.7944994,84030055,US,USA,840,30055.0,mccone,"McCone, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,47.64514965,-114.0898013,84030047,US,USA,840,30047.0,lake,"Lake, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.64514965,-114.0898013,84030047,US,USA,840,30047.0,lake,"Lake, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.64514965,-114.0898013,84030047,US,USA,840,30047.0,lake,"Lake, Montana, US",0,0,0.0,0.0
@@ -3320,6 +3400,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.64514965,-114.0898013,84030047,US,USA,840,30047.0,lake,"Lake, Montana, US",6,1,0.0,0.0
 2020-04-10,us,montana,47.64514965,-114.0898013,84030047,US,USA,840,30047.0,lake,"Lake, Montana, US",5,-1,0.0,0.0
 2020-04-11,us,montana,47.64514965,-114.0898013,84030047,US,USA,840,30047.0,lake,"Lake, Montana, US",5,0,0.0,0.0
+2020-04-12,us,montana,47.64514965,-114.0898013,84030047,US,USA,840,30047.0,lake,"Lake, Montana, US",5,0,0.0,0.0
+2020-04-13,us,montana,47.64514965,-114.0898013,84030047,US,USA,840,30047.0,lake,"Lake, Montana, US",5,0,0.0,0.0
 2020-01-22,us,montana,47.67657534,-115.1329916,84030089,US,USA,840,30089.0,sanders,"Sanders, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.67657534,-115.1329916,84030089,US,USA,840,30089.0,sanders,"Sanders, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.67657534,-115.1329916,84030089,US,USA,840,30089.0,sanders,"Sanders, Montana, US",0,0,0.0,0.0
@@ -3401,6 +3483,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.67657534,-115.1329916,84030089,US,USA,840,30089.0,sanders,"Sanders, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,47.67657534,-115.1329916,84030089,US,USA,840,30089.0,sanders,"Sanders, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,47.67657534,-115.1329916,84030089,US,USA,840,30089.0,sanders,"Sanders, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,47.67657534,-115.1329916,84030089,US,USA,840,30089.0,sanders,"Sanders, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,47.67657534,-115.1329916,84030089,US,USA,840,30089.0,sanders,"Sanders, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,47.78668011,-104.5610786,84030083,US,USA,840,30083.0,richland,"Richland, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.78668011,-104.5610786,84030083,US,USA,840,30083.0,richland,"Richland, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.78668011,-104.5610786,84030083,US,USA,840,30083.0,richland,"Richland, Montana, US",0,0,0.0,0.0
@@ -3482,6 +3566,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.78668011,-104.5610786,84030083,US,USA,840,30083.0,richland,"Richland, Montana, US",2,0,0.0,0.0
 2020-04-10,us,montana,47.78668011,-104.5610786,84030083,US,USA,840,30083.0,richland,"Richland, Montana, US",2,0,0.0,0.0
 2020-04-11,us,montana,47.78668011,-104.5610786,84030083,US,USA,840,30083.0,richland,"Richland, Montana, US",3,1,0.0,0.0
+2020-04-12,us,montana,47.78668011,-104.5610786,84030083,US,USA,840,30083.0,richland,"Richland, Montana, US",3,0,0.0,0.0
+2020-04-13,us,montana,47.78668011,-104.5610786,84030083,US,USA,840,30083.0,richland,"Richland, Montana, US",3,0,0.0,0.0
 2020-01-22,us,montana,47.83741052,-112.2410688,84030099,US,USA,840,30099.0,teton,"Teton, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.83741052,-112.2410688,84030099,US,USA,840,30099.0,teton,"Teton, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.83741052,-112.2410688,84030099,US,USA,840,30099.0,teton,"Teton, Montana, US",0,0,0.0,0.0
@@ -3563,6 +3649,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.83741052,-112.2410688,84030099,US,USA,840,30099.0,teton,"Teton, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,47.83741052,-112.2410688,84030099,US,USA,840,30099.0,teton,"Teton, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,47.83741052,-112.2410688,84030099,US,USA,840,30099.0,teton,"Teton, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,47.83741052,-112.2410688,84030099,US,USA,840,30099.0,teton,"Teton, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,47.83741052,-112.2410688,84030099,US,USA,840,30099.0,teton,"Teton, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,47.88084126,-110.4353362,84030015,US,USA,840,30015.0,chouteau,"Chouteau, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,47.88084126,-110.4353362,84030015,US,USA,840,30015.0,chouteau,"Chouteau, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,47.88084126,-110.4353362,84030015,US,USA,840,30015.0,chouteau,"Chouteau, Montana, US",0,0,0.0,0.0
@@ -3644,6 +3732,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,47.88084126,-110.4353362,84030015,US,USA,840,30015.0,chouteau,"Chouteau, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,47.88084126,-110.4353362,84030015,US,USA,840,30015.0,chouteau,"Chouteau, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,47.88084126,-110.4353362,84030015,US,USA,840,30015.0,chouteau,"Chouteau, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,47.88084126,-110.4353362,84030015,US,USA,840,30015.0,chouteau,"Chouteau, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,47.88084126,-110.4353362,84030015,US,USA,840,30015.0,chouteau,"Chouteau, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,48.22773388,-112.2252703,84030073,US,USA,840,30073.0,pondera,"Pondera, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.22773388,-112.2252703,84030073,US,USA,840,30073.0,pondera,"Pondera, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.22773388,-112.2252703,84030073,US,USA,840,30073.0,pondera,"Pondera, Montana, US",0,0,0.0,0.0
@@ -3725,6 +3815,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.22773388,-112.2252703,84030073,US,USA,840,30073.0,pondera,"Pondera, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,48.22773388,-112.2252703,84030073,US,USA,840,30073.0,pondera,"Pondera, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,48.22773388,-112.2252703,84030073,US,USA,840,30073.0,pondera,"Pondera, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,48.22773388,-112.2252703,84030073,US,USA,840,30073.0,pondera,"Pondera, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,48.22773388,-112.2252703,84030073,US,USA,840,30073.0,pondera,"Pondera, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,48.25936577,-107.9128511,84030071,US,USA,840,30071.0,phillips,"Phillips, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.25936577,-107.9128511,84030071,US,USA,840,30071.0,phillips,"Phillips, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.25936577,-107.9128511,84030071,US,USA,840,30071.0,phillips,"Phillips, Montana, US",0,0,0.0,0.0
@@ -3806,6 +3898,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.25936577,-107.9128511,84030071,US,USA,840,30071.0,phillips,"Phillips, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,48.25936577,-107.9128511,84030071,US,USA,840,30071.0,phillips,"Phillips, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,48.25936577,-107.9128511,84030071,US,USA,840,30071.0,phillips,"Phillips, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,48.25936577,-107.9128511,84030071,US,USA,840,30071.0,phillips,"Phillips, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,48.25936577,-107.9128511,84030071,US,USA,840,30071.0,phillips,"Phillips, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,48.29575866,-114.0520569,84030029,US,USA,840,30029.0,flathead,"Flathead, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.29575866,-114.0520569,84030029,US,USA,840,30029.0,flathead,"Flathead, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.29575866,-114.0520569,84030029,US,USA,840,30029.0,flathead,"Flathead, Montana, US",0,0,0.0,0.0
@@ -3887,6 +3981,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.29575866,-114.0520569,84030029,US,USA,840,30029.0,flathead,"Flathead, Montana, US",34,3,0.0,0.0
 2020-04-10,us,montana,48.29575866,-114.0520569,84030029,US,USA,840,30029.0,flathead,"Flathead, Montana, US",34,0,0.0,0.0
 2020-04-11,us,montana,48.29575866,-114.0520569,84030029,US,USA,840,30029.0,flathead,"Flathead, Montana, US",34,0,0.0,0.0
+2020-04-12,us,montana,48.29575866,-114.0520569,84030029,US,USA,840,30029.0,flathead,"Flathead, Montana, US",34,0,0.0,0.0
+2020-04-13,us,montana,48.29575866,-114.0520569,84030029,US,USA,840,30029.0,flathead,"Flathead, Montana, US",36,2,0.0,0.0
 2020-01-22,us,montana,48.29607488,-105.0079268,84030085,US,USA,840,30085.0,roosevelt,"Roosevelt, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.29607488,-105.0079268,84030085,US,USA,840,30085.0,roosevelt,"Roosevelt, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.29607488,-105.0079268,84030085,US,USA,840,30085.0,roosevelt,"Roosevelt, Montana, US",0,0,0.0,0.0
@@ -3968,6 +4064,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.29607488,-105.0079268,84030085,US,USA,840,30085.0,roosevelt,"Roosevelt, Montana, US",2,0,0.0,0.0
 2020-04-10,us,montana,48.29607488,-105.0079268,84030085,US,USA,840,30085.0,roosevelt,"Roosevelt, Montana, US",2,0,0.0,0.0
 2020-04-11,us,montana,48.29607488,-105.0079268,84030085,US,USA,840,30085.0,roosevelt,"Roosevelt, Montana, US",3,1,0.0,0.0
+2020-04-12,us,montana,48.29607488,-105.0079268,84030085,US,USA,840,30085.0,roosevelt,"Roosevelt, Montana, US",3,0,0.0,0.0
+2020-04-13,us,montana,48.29607488,-105.0079268,84030085,US,USA,840,30085.0,roosevelt,"Roosevelt, Montana, US",3,0,0.0,0.0
 2020-01-22,us,montana,48.36435097,-106.6669635,84030105,US,USA,840,30105.0,valley,"Valley, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.36435097,-106.6669635,84030105,US,USA,840,30105.0,valley,"Valley, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.36435097,-106.6669635,84030105,US,USA,840,30105.0,valley,"Valley, Montana, US",0,0,0.0,0.0
@@ -4049,6 +4147,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.36435097,-106.6669635,84030105,US,USA,840,30105.0,valley,"Valley, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,48.36435097,-106.6669635,84030105,US,USA,840,30105.0,valley,"Valley, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,48.36435097,-106.6669635,84030105,US,USA,840,30105.0,valley,"Valley, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,48.36435097,-106.6669635,84030105,US,USA,840,30105.0,valley,"Valley, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,48.36435097,-106.6669635,84030105,US,USA,840,30105.0,valley,"Valley, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,48.43175214,-108.9582723,84030005,US,USA,840,30005.0,blaine,"Blaine, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.43175214,-108.9582723,84030005,US,USA,840,30005.0,blaine,"Blaine, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.43175214,-108.9582723,84030005,US,USA,840,30005.0,blaine,"Blaine, Montana, US",0,0,0.0,0.0
@@ -4130,6 +4230,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.43175214,-108.9582723,84030005,US,USA,840,30005.0,blaine,"Blaine, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,48.43175214,-108.9582723,84030005,US,USA,840,30005.0,blaine,"Blaine, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,48.43175214,-108.9582723,84030005,US,USA,840,30005.0,blaine,"Blaine, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,48.43175214,-108.9582723,84030005,US,USA,840,30005.0,blaine,"Blaine, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,48.43175214,-108.9582723,84030005,US,USA,840,30005.0,blaine,"Blaine, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,48.54265777,-115.4046155,84030053,US,USA,840,30053.0,lincoln,"Lincoln, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.54265777,-115.4046155,84030053,US,USA,840,30053.0,lincoln,"Lincoln, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.54265777,-115.4046155,84030053,US,USA,840,30053.0,lincoln,"Lincoln, Montana, US",0,0,0.0,0.0
@@ -4211,6 +4313,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.54265777,-115.4046155,84030053,US,USA,840,30053.0,lincoln,"Lincoln, Montana, US",7,0,1.0,0.0
 2020-04-10,us,montana,48.54265777,-115.4046155,84030053,US,USA,840,30053.0,lincoln,"Lincoln, Montana, US",7,0,1.0,0.0
 2020-04-11,us,montana,48.54265777,-115.4046155,84030053,US,USA,840,30053.0,lincoln,"Lincoln, Montana, US",7,0,1.0,0.0
+2020-04-12,us,montana,48.54265777,-115.4046155,84030053,US,USA,840,30053.0,lincoln,"Lincoln, Montana, US",7,0,1.0,0.0
+2020-04-13,us,montana,48.54265777,-115.4046155,84030053,US,USA,840,30053.0,lincoln,"Lincoln, Montana, US",7,0,1.0,0.0
 2020-01-22,us,montana,48.56084317,-111.024307,84030051,US,USA,840,30051.0,liberty,"Liberty, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.56084317,-111.024307,84030051,US,USA,840,30051.0,liberty,"Liberty, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.56084317,-111.024307,84030051,US,USA,840,30051.0,liberty,"Liberty, Montana, US",0,0,0.0,0.0
@@ -4292,6 +4396,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.56084317,-111.024307,84030051,US,USA,840,30051.0,liberty,"Liberty, Montana, US",1,0,0.0,0.0
 2020-04-10,us,montana,48.56084317,-111.024307,84030051,US,USA,840,30051.0,liberty,"Liberty, Montana, US",1,0,0.0,0.0
 2020-04-11,us,montana,48.56084317,-111.024307,84030051,US,USA,840,30051.0,liberty,"Liberty, Montana, US",1,0,0.0,0.0
+2020-04-12,us,montana,48.56084317,-111.024307,84030051,US,USA,840,30051.0,liberty,"Liberty, Montana, US",1,0,0.0,0.0
+2020-04-13,us,montana,48.56084317,-111.024307,84030051,US,USA,840,30051.0,liberty,"Liberty, Montana, US",1,0,0.0,0.0
 2020-01-22,us,montana,48.62879827,-110.1129252,84030041,US,USA,840,30041.0,hill,"Hill, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.62879827,-110.1129252,84030041,US,USA,840,30041.0,hill,"Hill, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.62879827,-110.1129252,84030041,US,USA,840,30041.0,hill,"Hill, Montana, US",0,0,0.0,0.0
@@ -4373,6 +4479,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.62879827,-110.1129252,84030041,US,USA,840,30041.0,hill,"Hill, Montana, US",1,0,0.0,0.0
 2020-04-10,us,montana,48.62879827,-110.1129252,84030041,US,USA,840,30041.0,hill,"Hill, Montana, US",1,0,0.0,0.0
 2020-04-11,us,montana,48.62879827,-110.1129252,84030041,US,USA,840,30041.0,hill,"Hill, Montana, US",1,0,0.0,0.0
+2020-04-12,us,montana,48.62879827,-110.1129252,84030041,US,USA,840,30041.0,hill,"Hill, Montana, US",1,0,0.0,0.0
+2020-04-13,us,montana,48.62879827,-110.1129252,84030041,US,USA,840,30041.0,hill,"Hill, Montana, US",1,0,0.0,0.0
 2020-01-22,us,montana,48.65577551,-111.6942414,84030101,US,USA,840,30101.0,toole,"Toole, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.65577551,-111.6942414,84030101,US,USA,840,30101.0,toole,"Toole, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.65577551,-111.6942414,84030101,US,USA,840,30101.0,toole,"Toole, Montana, US",0,0,0.0,0.0
@@ -4454,6 +4562,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.65577551,-111.6942414,84030101,US,USA,840,30101.0,toole,"Toole, Montana, US",18,1,0.0,0.0
 2020-04-10,us,montana,48.65577551,-111.6942414,84030101,US,USA,840,30101.0,toole,"Toole, Montana, US",18,0,0.0,0.0
 2020-04-11,us,montana,48.65577551,-111.6942414,84030101,US,USA,840,30101.0,toole,"Toole, Montana, US",20,2,0.0,0.0
+2020-04-12,us,montana,48.65577551,-111.6942414,84030101,US,USA,840,30101.0,toole,"Toole, Montana, US",25,5,0.0,0.0
+2020-04-13,us,montana,48.65577551,-111.6942414,84030101,US,USA,840,30101.0,toole,"Toole, Montana, US",26,1,0.0,0.0
 2020-01-22,us,montana,48.70513576,-112.9934235,84030035,US,USA,840,30035.0,glacier,"Glacier, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.70513576,-112.9934235,84030035,US,USA,840,30035.0,glacier,"Glacier, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.70513576,-112.9934235,84030035,US,USA,840,30035.0,glacier,"Glacier, Montana, US",0,0,0.0,0.0
@@ -4535,6 +4645,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.70513576,-112.9934235,84030035,US,USA,840,30035.0,glacier,"Glacier, Montana, US",3,1,0.0,0.0
 2020-04-10,us,montana,48.70513576,-112.9934235,84030035,US,USA,840,30035.0,glacier,"Glacier, Montana, US",3,0,0.0,0.0
 2020-04-11,us,montana,48.70513576,-112.9934235,84030035,US,USA,840,30035.0,glacier,"Glacier, Montana, US",3,0,0.0,0.0
+2020-04-12,us,montana,48.70513576,-112.9934235,84030035,US,USA,840,30035.0,glacier,"Glacier, Montana, US",3,0,0.0,0.0
+2020-04-13,us,montana,48.70513576,-112.9934235,84030035,US,USA,840,30035.0,glacier,"Glacier, Montana, US",4,1,0.0,0.0
 2020-01-22,us,montana,48.72085833,-104.503829,84030091,US,USA,840,30091.0,sheridan,"Sheridan, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.72085833,-104.503829,84030091,US,USA,840,30091.0,sheridan,"Sheridan, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.72085833,-104.503829,84030091,US,USA,840,30091.0,sheridan,"Sheridan, Montana, US",0,0,0.0,0.0
@@ -4616,6 +4728,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.72085833,-104.503829,84030091,US,USA,840,30091.0,sheridan,"Sheridan, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,48.72085833,-104.503829,84030091,US,USA,840,30091.0,sheridan,"Sheridan, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,48.72085833,-104.503829,84030091,US,USA,840,30091.0,sheridan,"Sheridan, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,48.72085833,-104.503829,84030091,US,USA,840,30091.0,sheridan,"Sheridan, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,48.72085833,-104.503829,84030091,US,USA,840,30091.0,sheridan,"Sheridan, Montana, US",0,0,0.0,0.0
 2020-01-22,us,montana,48.78420029,-105.54763429999998,84030019,US,USA,840,30019.0,daniels,"Daniels, Montana, US",0,0,0.0,0.0
 2020-01-23,us,montana,48.78420029,-105.54763429999998,84030019,US,USA,840,30019.0,daniels,"Daniels, Montana, US",0,0,0.0,0.0
 2020-01-24,us,montana,48.78420029,-105.54763429999998,84030019,US,USA,840,30019.0,daniels,"Daniels, Montana, US",0,0,0.0,0.0
@@ -4697,3 +4811,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,montana,48.78420029,-105.54763429999998,84030019,US,USA,840,30019.0,daniels,"Daniels, Montana, US",0,0,0.0,0.0
 2020-04-10,us,montana,48.78420029,-105.54763429999998,84030019,US,USA,840,30019.0,daniels,"Daniels, Montana, US",0,0,0.0,0.0
 2020-04-11,us,montana,48.78420029,-105.54763429999998,84030019,US,USA,840,30019.0,daniels,"Daniels, Montana, US",0,0,0.0,0.0
+2020-04-12,us,montana,48.78420029,-105.54763429999998,84030019,US,USA,840,30019.0,daniels,"Daniels, Montana, US",0,0,0.0,0.0
+2020-04-13,us,montana,48.78420029,-105.54763429999998,84030019,US,USA,840,30019.0,daniels,"Daniels, Montana, US",0,0,0.0,0.0

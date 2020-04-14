@@ -80,6 +80,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,0.0,0.0,84080025,US,USA,840,80025.0,out-of-ma,"Out of MA, Massachusetts, US",0,0,0.0,0.0
 2020-04-10,us,massachusetts,0.0,0.0,84080025,US,USA,840,80025.0,out-of-ma,"Out of MA, Massachusetts, US",0,0,0.0,0.0
 2020-04-11,us,massachusetts,0.0,0.0,84080025,US,USA,840,80025.0,out-of-ma,"Out of MA, Massachusetts, US",0,0,0.0,0.0
+2020-04-12,us,massachusetts,0.0,0.0,84080025,US,USA,840,80025.0,out-of-ma,"Out of MA, Massachusetts, US",0,0,0.0,0.0
+2020-04-13,us,massachusetts,0.0,0.0,84080025,US,USA,840,80025.0,out-of-ma,"Out of MA, Massachusetts, US",0,0,0.0,0.0
 2020-01-22,us,massachusetts,0.0,0.0,84090025,US,USA,840,90025.0,unassigned,"Unassigned, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,0.0,0.0,84090025,US,USA,840,90025.0,unassigned,"Unassigned, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,0.0,0.0,84090025,US,USA,840,90025.0,unassigned,"Unassigned, Massachusetts, US",0,0,0.0,0.0
@@ -161,6 +163,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,0.0,0.0,84090025,US,USA,840,90025.0,unassigned,"Unassigned, Massachusetts, US",203,-20,83.0,70.0
 2020-04-10,us,massachusetts,0.0,0.0,84090025,US,USA,840,90025.0,unassigned,"Unassigned, Massachusetts, US",129,-74,179.0,96.0
 2020-04-11,us,massachusetts,0.0,0.0,84090025,US,USA,840,90025.0,unassigned,"Unassigned, Massachusetts, US",225,96,13.0,-166.0
+2020-04-12,us,massachusetts,0.0,0.0,84090025,US,USA,840,90025.0,unassigned,"Unassigned, Massachusetts, US",373,148,12.0,-1.0
+2020-04-13,us,massachusetts,0.0,0.0,84090025,US,USA,840,90025.0,unassigned,"Unassigned, Massachusetts, US",447,74,100.0,88.0
 2020-01-22,us,massachusetts,41.2942019,-70.08774729,84025019,US,USA,840,25019.0,nantucket,"Nantucket, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,41.2942019,-70.08774729,84025019,US,USA,840,25019.0,nantucket,"Nantucket, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,41.2942019,-70.08774729,84025019,US,USA,840,25019.0,nantucket,"Nantucket, Massachusetts, US",0,0,0.0,0.0
@@ -242,6 +246,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,41.2942019,-70.08774729,84025019,US,USA,840,25019.0,nantucket,"Nantucket, Massachusetts, US",0,0,0.0,0.0
 2020-04-10,us,massachusetts,41.2942019,-70.08774729,84025019,US,USA,840,25019.0,nantucket,"Nantucket, Massachusetts, US",0,0,0.0,0.0
 2020-04-11,us,massachusetts,41.2942019,-70.08774729,84025019,US,USA,840,25019.0,nantucket,"Nantucket, Massachusetts, US",0,0,0.0,0.0
+2020-04-12,us,massachusetts,41.2942019,-70.08774729,84025019,US,USA,840,25019.0,nantucket,"Nantucket, Massachusetts, US",0,0,0.0,0.0
+2020-04-13,us,massachusetts,41.2942019,-70.08774729,84025019,US,USA,840,25019.0,nantucket,"Nantucket, Massachusetts, US",0,0,0.0,0.0
 2020-01-22,us,massachusetts,41.40674725,-70.68763497,84025007,US,USA,840,25007.0,dukes,"Dukes, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,41.40674725,-70.68763497,84025007,US,USA,840,25007.0,dukes,"Dukes, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,41.40674725,-70.68763497,84025007,US,USA,840,25007.0,dukes,"Dukes, Massachusetts, US",0,0,0.0,0.0
@@ -323,6 +329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,41.40674725,-70.68763497,84025007,US,USA,840,25007.0,dukes,"Dukes, Massachusetts, US",0,0,0.0,0.0
 2020-04-10,us,massachusetts,41.40674725,-70.68763497,84025007,US,USA,840,25007.0,dukes,"Dukes, Massachusetts, US",0,0,0.0,0.0
 2020-04-11,us,massachusetts,41.40674725,-70.68763497,84025007,US,USA,840,25007.0,dukes,"Dukes, Massachusetts, US",0,0,0.0,0.0
+2020-04-12,us,massachusetts,41.40674725,-70.68763497,84025007,US,USA,840,25007.0,dukes,"Dukes, Massachusetts, US",0,0,0.0,0.0
+2020-04-13,us,massachusetts,41.40674725,-70.68763497,84025007,US,USA,840,25007.0,dukes,"Dukes, Massachusetts, US",0,0,0.0,0.0
 2020-01-22,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",0,0,0.0,0.0
@@ -404,6 +412,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",18,1,1.0,0.0
 2020-04-10,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",21,3,1.0,0.0
 2020-04-11,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",21,0,1.0,0.0
+2020-04-12,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",21,0,1.0,0.0
+2020-04-13,us,massachusetts,41.40674725,-70.68763497,84070002,US,USA,840,,dukes-and-nantucket,"Dukes and Nantucket,Massachusetts,US",21,0,1.0,0.0
 2020-01-22,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",0,0,0.0,0.0
@@ -485,6 +495,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",444,21,11.0,0.0
 2020-04-10,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",464,20,11.0,0.0
 2020-04-11,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",480,16,15.0,4.0
+2020-04-12,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",501,21,16.0,1.0
+2020-04-13,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",502,1,16.0,0.0
 2020-01-22,us,massachusetts,41.79228404,-71.10872211,84025005,US,USA,840,25005.0,bristol,"Bristol, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,41.79228404,-71.10872211,84025005,US,USA,840,25005.0,bristol,"Bristol, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,41.79228404,-71.10872211,84025005,US,USA,840,25005.0,bristol,"Bristol, Massachusetts, US",0,0,0.0,0.0
@@ -566,6 +578,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,41.79228404,-71.10872211,84025005,US,USA,840,25005.0,bristol,"Bristol, Massachusetts, US",994,159,23.0,0.0
 2020-04-10,us,massachusetts,41.79228404,-71.10872211,84025005,US,USA,840,25005.0,bristol,"Bristol, Massachusetts, US",1086,92,23.0,0.0
 2020-04-11,us,massachusetts,41.79228404,-71.10872211,84025005,US,USA,840,25005.0,bristol,"Bristol, Massachusetts, US",1191,105,39.0,16.0
+2020-04-12,us,massachusetts,41.79228404,-71.10872211,84025005,US,USA,840,25005.0,bristol,"Bristol, Massachusetts, US",1327,136,43.0,4.0
+2020-04-13,us,massachusetts,41.79228404,-71.10872211,84025005,US,USA,840,25005.0,bristol,"Bristol, Massachusetts, US",1394,67,43.0,0.0
 2020-01-22,us,massachusetts,41.94070556,-70.80802823,84025023,US,USA,840,25023.0,plymouth,"Plymouth, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,41.94070556,-70.80802823,84025023,US,USA,840,25023.0,plymouth,"Plymouth, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,41.94070556,-70.80802823,84025023,US,USA,840,25023.0,plymouth,"Plymouth, Massachusetts, US",0,0,0.0,0.0
@@ -647,6 +661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,41.94070556,-70.80802823,84025023,US,USA,840,25023.0,plymouth,"Plymouth, Massachusetts, US",1507,180,33.0,0.0
 2020-04-10,us,massachusetts,41.94070556,-70.80802823,84025023,US,USA,840,25023.0,plymouth,"Plymouth, Massachusetts, US",1677,170,33.0,0.0
 2020-04-11,us,massachusetts,41.94070556,-70.80802823,84025023,US,USA,840,25023.0,plymouth,"Plymouth, Massachusetts, US",1809,132,51.0,18.0
+2020-04-12,us,massachusetts,41.94070556,-70.80802823,84025023,US,USA,840,25023.0,plymouth,"Plymouth, Massachusetts, US",2024,215,55.0,4.0
+2020-04-13,us,massachusetts,41.94070556,-70.80802823,84025023,US,USA,840,25023.0,plymouth,"Plymouth, Massachusetts, US",2141,117,55.0,0.0
 2020-01-22,us,massachusetts,42.13440424,-72.63235561,84025013,US,USA,840,25013.0,hampden,"Hampden, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,42.13440424,-72.63235561,84025013,US,USA,840,25013.0,hampden,"Hampden, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,42.13440424,-72.63235561,84025013,US,USA,840,25013.0,hampden,"Hampden, Massachusetts, US",0,0,0.0,0.0
@@ -728,6 +744,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,42.13440424,-72.63235561,84025013,US,USA,840,25013.0,hampden,"Hampden, Massachusetts, US",1276,195,62.0,0.0
 2020-04-10,us,massachusetts,42.13440424,-72.63235561,84025013,US,USA,840,25013.0,hampden,"Hampden, Massachusetts, US",1394,118,62.0,0.0
 2020-04-11,us,massachusetts,42.13440424,-72.63235561,84025013,US,USA,840,25013.0,hampden,"Hampden, Massachusetts, US",1545,151,92.0,30.0
+2020-04-12,us,massachusetts,42.13440424,-72.63235561,84025013,US,USA,840,25013.0,hampden,"Hampden, Massachusetts, US",1647,102,102.0,10.0
+2020-04-13,us,massachusetts,42.13440424,-72.63235561,84025013,US,USA,840,25013.0,hampden,"Hampden, Massachusetts, US",1694,47,102.0,0.0
 2020-01-22,us,massachusetts,42.16073095,-71.20530408,84025021,US,USA,840,25021.0,norfolk,"Norfolk, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,42.16073095,-71.20530408,84025021,US,USA,840,25021.0,norfolk,"Norfolk, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,42.16073095,-71.20530408,84025021,US,USA,840,25021.0,norfolk,"Norfolk, Massachusetts, US",0,0,0.0,0.0
@@ -809,6 +827,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,42.16073095,-71.20530408,84025021,US,USA,840,25021.0,norfolk,"Norfolk, Massachusetts, US",2007,229,41.0,0.0
 2020-04-10,us,massachusetts,42.16073095,-71.20530408,84025021,US,USA,840,25021.0,norfolk,"Norfolk, Massachusetts, US",2216,209,41.0,0.0
 2020-04-11,us,massachusetts,42.16073095,-71.20530408,84025021,US,USA,840,25021.0,norfolk,"Norfolk, Massachusetts, US",2395,179,79.0,38.0
+2020-04-12,us,massachusetts,42.16073095,-71.20530408,84025021,US,USA,840,25021.0,norfolk,"Norfolk, Massachusetts, US",2649,254,91.0,12.0
+2020-04-13,us,massachusetts,42.16073095,-71.20530408,84025021,US,USA,840,25021.0,norfolk,"Norfolk, Massachusetts, US",2838,189,91.0,0.0
 2020-01-22,us,massachusetts,42.3279514,-71.07850442,84025025,US,USA,840,25025.0,suffolk,"Suffolk, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,42.3279514,-71.07850442,84025025,US,USA,840,25025.0,suffolk,"Suffolk, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,42.3279514,-71.07850442,84025025,US,USA,840,25025.0,suffolk,"Suffolk, Massachusetts, US",0,0,0.0,0.0
@@ -890,6 +910,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,42.3279514,-71.07850442,84025025,US,USA,840,25025.0,suffolk,"Suffolk, Massachusetts, US",4041,441,0.0,0.0
 2020-04-10,us,massachusetts,42.3279514,-71.07850442,84025025,US,USA,840,25025.0,suffolk,"Suffolk, Massachusetts, US",4534,493,0.0,0.0
 2020-04-11,us,massachusetts,42.3279514,-71.07850442,84025025,US,USA,840,25025.0,suffolk,"Suffolk, Massachusetts, US",4926,392,0.0,0.0
+2020-04-12,us,massachusetts,42.3279514,-71.07850442,84025025,US,USA,840,25025.0,suffolk,"Suffolk, Massachusetts, US",5359,433,0.0,0.0
+2020-04-13,us,massachusetts,42.3279514,-71.07850442,84025025,US,USA,840,25025.0,suffolk,"Suffolk, Massachusetts, US",5579,220,0.0,0.0
 2020-01-22,us,massachusetts,42.33997957,-72.65898478,84025015,US,USA,840,25015.0,hampshire,"Hampshire, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,42.33997957,-72.65898478,84025015,US,USA,840,25015.0,hampshire,"Hampshire, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,42.33997957,-72.65898478,84025015,US,USA,840,25015.0,hampshire,"Hampshire, Massachusetts, US",0,0,0.0,0.0
@@ -971,6 +993,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,42.33997957,-72.65898478,84025015,US,USA,840,25015.0,hampshire,"Hampshire, Massachusetts, US",177,13,3.0,0.0
 2020-04-10,us,massachusetts,42.33997957,-72.65898478,84025015,US,USA,840,25015.0,hampshire,"Hampshire, Massachusetts, US",194,17,3.0,0.0
 2020-04-11,us,massachusetts,42.33997957,-72.65898478,84025015,US,USA,840,25015.0,hampshire,"Hampshire, Massachusetts, US",204,10,5.0,2.0
+2020-04-12,us,massachusetts,42.33997957,-72.65898478,84025015,US,USA,840,25015.0,hampshire,"Hampshire, Massachusetts, US",219,15,6.0,1.0
+2020-04-13,us,massachusetts,42.33997957,-72.65898478,84025015,US,USA,840,25015.0,hampshire,"Hampshire, Massachusetts, US",224,5,6.0,0.0
 2020-01-22,us,massachusetts,42.35026951,-71.90493363,84025027,US,USA,840,25027.0,worcester,"Worcester, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,42.35026951,-71.90493363,84025027,US,USA,840,25027.0,worcester,"Worcester, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,42.35026951,-71.90493363,84025027,US,USA,840,25027.0,worcester,"Worcester, Massachusetts, US",0,0,0.0,0.0
@@ -1052,6 +1076,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,42.35026951,-71.90493363,84025027,US,USA,840,25027.0,worcester,"Worcester, Massachusetts, US",1461,165,29.0,0.0
 2020-04-10,us,massachusetts,42.35026951,-71.90493363,84025027,US,USA,840,25027.0,worcester,"Worcester, Massachusetts, US",1678,217,29.0,0.0
 2020-04-11,us,massachusetts,42.35026951,-71.90493363,84025027,US,USA,840,25027.0,worcester,"Worcester, Massachusetts, US",1822,144,41.0,12.0
+2020-04-12,us,massachusetts,42.35026951,-71.90493363,84025027,US,USA,840,25027.0,worcester,"Worcester, Massachusetts, US",2032,210,49.0,8.0
+2020-04-13,us,massachusetts,42.35026951,-71.90493363,84025027,US,USA,840,25027.0,worcester,"Worcester, Massachusetts, US",2128,96,49.0,0.0
 2020-01-22,us,massachusetts,42.37428441,-73.20524838,84025003,US,USA,840,25003.0,berkshire,"Berkshire, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,42.37428441,-73.20524838,84025003,US,USA,840,25003.0,berkshire,"Berkshire, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,42.37428441,-73.20524838,84025003,US,USA,840,25003.0,berkshire,"Berkshire, Massachusetts, US",0,0,0.0,0.0
@@ -1133,6 +1159,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,42.37428441,-73.20524838,84025003,US,USA,840,25003.0,berkshire,"Berkshire, Massachusetts, US",304,23,18.0,0.0
 2020-04-10,us,massachusetts,42.37428441,-73.20524838,84025003,US,USA,840,25003.0,berkshire,"Berkshire, Massachusetts, US",329,25,18.0,0.0
 2020-04-11,us,massachusetts,42.37428441,-73.20524838,84025003,US,USA,840,25003.0,berkshire,"Berkshire, Massachusetts, US",336,7,20.0,2.0
+2020-04-12,us,massachusetts,42.37428441,-73.20524838,84025003,US,USA,840,25003.0,berkshire,"Berkshire, Massachusetts, US",350,14,20.0,0.0
+2020-04-13,us,massachusetts,42.37428441,-73.20524838,84025003,US,USA,840,25003.0,berkshire,"Berkshire, Massachusetts, US",355,5,20.0,0.0
 2020-01-22,us,massachusetts,42.48607732,-71.39049229,84025017,US,USA,840,25017.0,middlesex,"Middlesex, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,42.48607732,-71.39049229,84025017,US,USA,840,25017.0,middlesex,"Middlesex, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,42.48607732,-71.39049229,84025017,US,USA,840,25017.0,middlesex,"Middlesex, Massachusetts, US",0,0,0.0,0.0
@@ -1214,6 +1242,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,42.48607732,-71.39049229,84025017,US,USA,840,25017.0,middlesex,"Middlesex, Massachusetts, US",4045,500,80.0,0.0
 2020-04-10,us,massachusetts,42.48607732,-71.39049229,84025017,US,USA,840,25017.0,middlesex,"Middlesex, Massachusetts, US",4447,402,80.0,0.0
 2020-04-11,us,massachusetts,42.48607732,-71.39049229,84025017,US,USA,840,25017.0,middlesex,"Middlesex, Massachusetts, US",4872,425,137.0,57.0
+2020-04-12,us,massachusetts,42.48607732,-71.39049229,84025017,US,USA,840,25017.0,middlesex,"Middlesex, Massachusetts, US",5660,788,149.0,12.0
+2020-04-13,us,massachusetts,42.48607732,-71.39049229,84025017,US,USA,840,25017.0,middlesex,"Middlesex, Massachusetts, US",5983,323,149.0,0.0
 2020-01-22,us,massachusetts,42.58119713,-72.58602547,84025011,US,USA,840,25011.0,franklin,"Franklin, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,42.58119713,-72.58602547,84025011,US,USA,840,25011.0,franklin,"Franklin, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,42.58119713,-72.58602547,84025011,US,USA,840,25011.0,franklin,"Franklin, Massachusetts, US",0,0,0.0,0.0
@@ -1295,6 +1325,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,42.58119713,-72.58602547,84025011,US,USA,840,25011.0,franklin,"Franklin, Massachusetts, US",128,11,21.0,0.0
 2020-04-10,us,massachusetts,42.58119713,-72.58602547,84025011,US,USA,840,25011.0,franklin,"Franklin, Massachusetts, US",135,7,21.0,0.0
 2020-04-11,us,massachusetts,42.58119713,-72.58602547,84025011,US,USA,840,25011.0,franklin,"Franklin, Massachusetts, US",138,3,23.0,2.0
+2020-04-12,us,massachusetts,42.58119713,-72.58602547,84025011,US,USA,840,25011.0,franklin,"Franklin, Massachusetts, US",143,5,25.0,2.0
+2020-04-13,us,massachusetts,42.58119713,-72.58602547,84025011,US,USA,840,25011.0,franklin,"Franklin, Massachusetts, US",148,5,25.0,0.0
 2020-01-22,us,massachusetts,42.6687626,-70.94687179,84025009,US,USA,840,25009.0,essex,"Essex, Massachusetts, US",0,0,0.0,0.0
 2020-01-23,us,massachusetts,42.6687626,-70.94687179,84025009,US,USA,840,25009.0,essex,"Essex, Massachusetts, US",0,0,0.0,0.0
 2020-01-24,us,massachusetts,42.6687626,-70.94687179,84025009,US,USA,840,25009.0,essex,"Essex, Massachusetts, US",0,0,0.0,0.0
@@ -1376,3 +1408,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,massachusetts,42.6687626,-70.94687179,84025009,US,USA,840,25009.0,essex,"Essex, Massachusetts, US",2336,233,50.0,0.0
 2020-04-10,us,massachusetts,42.6687626,-70.94687179,84025009,US,USA,840,25009.0,essex,"Essex, Massachusetts, US",2670,334,50.0,0.0
 2020-04-11,us,massachusetts,42.6687626,-70.94687179,84025009,US,USA,840,25009.0,essex,"Essex, Massachusetts, US",2896,226,91.0,41.0
+2020-04-12,us,massachusetts,42.6687626,-70.94687179,84025009,US,USA,840,25009.0,essex,"Essex, Massachusetts, US",3170,274,101.0,10.0
+2020-04-13,us,massachusetts,42.6687626,-70.94687179,84025009,US,USA,840,25009.0,essex,"Essex, Massachusetts, US",3413,243,101.0,0.0

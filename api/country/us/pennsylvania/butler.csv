@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,pennsylvania,40.91152759,-79.91351055,84042019,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",113,0,2.0,0.0
 2020-04-10,us,pennsylvania,40.91152759,-79.91351055,84042019,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",123,10,3.0,1.0
 2020-04-11,us,pennsylvania,40.91152759,-79.91351055,84042019,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",128,5,3.0,0.0
+2020-04-12,us,pennsylvania,40.91152759,-79.91351055,84042019,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",133,5,4.0,1.0
+2020-04-13,us,pennsylvania,40.91152759,-79.91351055,84042019,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",143,10,4.0,0.0

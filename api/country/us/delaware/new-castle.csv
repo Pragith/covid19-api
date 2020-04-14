@@ -80,3 +80,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-09,us,delaware,39.57992638,-75.64054974,84010003,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",701,65,9.0,0.0
 2020-04-10,us,delaware,39.57992638,-75.64054974,84010003,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",751,50,9.0,0.0
 2020-04-11,us,delaware,39.57992638,-75.64054974,84010003,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",807,56,19.0,10.0
+2020-04-12,us,delaware,39.57992638,-75.64054974,84010003,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",880,73,19.0,0.0
+2020-04-13,us,delaware,39.57992638,-75.64054974,84010003,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",919,39,20.0,1.0
