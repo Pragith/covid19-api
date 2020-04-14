@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-09,nicaragua,,12.8654,-85.2072,7,1,0.0,1,0,0.0
 2020-04-10,nicaragua,,12.8654,-85.2072,7,1,0.0,0,0,0.0
 2020-04-11,nicaragua,,12.8654,-85.2072,8,1,0.0,1,0,0.0
+2020-04-12,nicaragua,,12.8654,-85.2072,9,1,4.0,1,0,4.0
+2020-04-13,nicaragua,,12.8654,-85.2072,9,1,4.0,0,0,0.0

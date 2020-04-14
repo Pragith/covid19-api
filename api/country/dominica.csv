@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-09,dominica,,15.415,-61.371,15,0,1.0,0,0,0.0
 2020-04-10,dominica,,15.415,-61.371,16,0,5.0,1,0,4.0
 2020-04-11,dominica,,15.415,-61.371,16,0,5.0,0,0,0.0
+2020-04-12,dominica,,15.415,-61.371,16,0,8.0,0,0,3.0
+2020-04-13,dominica,,15.415,-61.371,16,0,8.0,0,0,0.0

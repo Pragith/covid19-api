@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-09,philippines,,13.0,122.0,4076,203,124.0,206,21,28.0
 2020-04-10,philippines,,13.0,122.0,4195,221,140.0,119,18,16.0
 2020-04-11,philippines,,13.0,122.0,4428,247,157.0,233,26,17.0
+2020-04-12,philippines,,13.0,122.0,4648,297,197.0,220,50,40.0
+2020-04-13,philippines,,13.0,122.0,4932,315,242.0,284,18,45.0

@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-09,china,sichuan,30.6171,102.7103,560,0,3,0,541.0,0.0
 2020-04-10,china,sichuan,30.6171,102.7103,560,0,3,0,546.0,5.0
 2020-04-11,china,sichuan,30.6171,102.7103,560,0,3,0,547.0,1.0
+2020-04-12,china,sichuan,30.6171,102.7103,560,0,3,0,547.0,0.0
+2020-04-13,china,sichuan,30.6171,102.7103,560,0,3,0,548.0,1.0

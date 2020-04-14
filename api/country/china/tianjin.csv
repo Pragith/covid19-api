@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-09,china,tianjin,39.3054,117.323,182,2,3,0,152.0,0.0
 2020-04-10,china,tianjin,39.3054,117.323,183,1,3,0,158.0,6.0
 2020-04-11,china,tianjin,39.3054,117.323,183,0,3,0,161.0,3.0
+2020-04-12,china,tianjin,39.3054,117.323,183,0,3,0,161.0,0.0
+2020-04-13,china,tianjin,39.3054,117.323,184,1,3,0,164.0,3.0

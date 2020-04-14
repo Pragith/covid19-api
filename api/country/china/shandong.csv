@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-09,china,shandong,36.3427,118.1498,783,0,7,0,756.0,1.0
 2020-04-10,china,shandong,36.3427,118.1498,783,0,7,0,756.0,0.0
 2020-04-11,china,shandong,36.3427,118.1498,784,1,7,0,757.0,1.0
+2020-04-12,china,shandong,36.3427,118.1498,784,0,7,0,757.0,0.0
+2020-04-13,china,shandong,36.3427,118.1498,784,0,7,0,758.0,1.0

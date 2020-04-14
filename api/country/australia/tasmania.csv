@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-09,australia,tasmania,-41.4545,145.9707,111,13,3,0,48.0,22.0
 2020-04-10,australia,tasmania,-41.4545,145.9707,122,11,4,1,48.0,0.0
 2020-04-11,australia,tasmania,-41.4545,145.9707,133,11,4,0,48.0,0.0
+2020-04-12,australia,tasmania,-41.4545,145.9707,133,0,5,1,48.0,0.0
+2020-04-13,australia,tasmania,-41.4545,145.9707,144,11,5,0,48.0,0.0

@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-09,china,shanghai,31.202,121.4491,552,9,7,0,422.0,4.0
 2020-04-10,china,shanghai,31.202,121.4491,555,3,7,0,435.0,13.0
 2020-04-11,china,shanghai,31.202,121.4491,555,0,7,0,438.0,3.0
+2020-04-12,china,shanghai,31.202,121.4491,607,52,7,0,446.0,8.0
+2020-04-13,china,shanghai,31.202,121.4491,618,11,7,0,446.0,0.0

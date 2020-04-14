@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-09,netherlands,curacao,12.1696,-68.99,14,0,1,0,7.0,0.0
 2020-04-10,netherlands,curacao,12.1696,-68.99,14,0,1,0,7.0,0.0
 2020-04-11,netherlands,curacao,12.1696,-68.99,14,0,1,0,7.0,0.0
+2020-04-12,netherlands,curacao,12.1696,-68.99,14,0,1,0,8.0,1.0
+2020-04-13,netherlands,curacao,12.1696,-68.99,14,0,1,0,8.0,0.0

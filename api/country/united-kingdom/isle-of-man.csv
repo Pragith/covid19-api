@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-09,united-kingdom,isle-of-man,54.2361,-4.5481,190,32,1,0,92.0,10.0
 2020-04-10,united-kingdom,isle-of-man,54.2361,-4.5481,201,11,1,0,103.0,11.0
 2020-04-11,united-kingdom,isle-of-man,54.2361,-4.5481,226,25,2,1,112.0,9.0
+2020-04-12,united-kingdom,isle-of-man,54.2361,-4.5481,228,2,2,0,112.0,0.0
+2020-04-13,united-kingdom,isle-of-man,54.2361,-4.5481,242,14,2,0,131.0,19.0

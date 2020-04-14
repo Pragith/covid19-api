@@ -80,3 +80,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-09,canada,new-brunswick,46.5653,-66.4619,108,3,0,0,0.0,0.0
 2020-04-10,canada,new-brunswick,46.5653,-66.4619,112,4,0,0,0.0,0.0
 2020-04-11,canada,new-brunswick,46.5653,-66.4619,112,0,0,0,0.0,0.0
+2020-04-12,canada,new-brunswick,46.5653,-66.4619,114,2,0,0,0.0,0.0
+2020-04-13,canada,new-brunswick,46.5653,-66.4619,116,2,0,0,0.0,0.0
