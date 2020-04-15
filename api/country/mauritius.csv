@@ -82,3 +82,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-11,mauritius,,-20.2,57.5,319,9,28.0,1,0,5.0
 2020-04-12,mauritius,,-20.2,57.5,324,9,42.0,5,0,14.0
 2020-04-13,mauritius,,-20.2,57.5,324,9,42.0,0,0,0.0
+2020-04-14,mauritius,,-20.2,57.5,324,9,51.0,0,0,9.0

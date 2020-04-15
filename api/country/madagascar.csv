@@ -82,3 +82,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-11,madagascar,,-18.7669,46.8691,102,0,11.0,9,0,0.0
 2020-04-12,madagascar,,-18.7669,46.8691,106,0,20.0,4,0,9.0
 2020-04-13,madagascar,,-18.7669,46.8691,106,0,21.0,0,0,1.0
+2020-04-14,madagascar,,-18.7669,46.8691,108,0,23.0,2,0,2.0

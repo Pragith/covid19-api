@@ -82,3 +82,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-11,canada,diamond-princess,0.0,0.0,0,0,1,0,0.0,0.0
 2020-04-12,canada,diamond-princess,0.0,0.0,-1,-1,1,0,0.0,0.0
 2020-04-13,canada,diamond-princess,0.0,0.0,-1,0,-1,-2,0.0,0.0
+2020-04-14,canada,diamond-princess,0.0,0.0,-1,0,-1,0,0.0,0.0

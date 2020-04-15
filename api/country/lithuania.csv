@@ -82,3 +82,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-11,lithuania,,55.1694,23.8813,1026,23,54.0,27,1,0.0
 2020-04-12,lithuania,,55.1694,23.8813,1053,23,97.0,27,0,43.0
 2020-04-13,lithuania,,55.1694,23.8813,1062,24,101.0,9,1,4.0
+2020-04-14,lithuania,,55.1694,23.8813,1070,29,101.0,8,5,0.0

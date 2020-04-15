@@ -82,3 +82,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-11,china,inner-mongolia,44.0935,113.9448,155,27,1,0,79.0,0.0
 2020-04-12,china,inner-mongolia,44.0935,113.9448,189,34,1,0,83.0,4.0
 2020-04-13,china,inner-mongolia,44.0935,113.9448,190,1,1,0,83.0,0.0
+2020-04-14,china,inner-mongolia,44.0935,113.9448,190,0,1,0,91.0,8.0

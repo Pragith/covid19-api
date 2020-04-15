@@ -82,3 +82,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-11,equatorial-guinea,,1.5,10.0,18,0,3.0,0,0,0.0
 2020-04-12,equatorial-guinea,,1.5,10.0,21,0,3.0,3,0,0.0
 2020-04-13,equatorial-guinea,,1.5,10.0,21,0,4.0,0,0,1.0
+2020-04-14,equatorial-guinea,,1.5,10.0,41,0,4.0,20,0,0.0

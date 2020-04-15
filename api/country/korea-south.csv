@@ -82,3 +82,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-11,korea-south,,36.0,128.0,10480,211,7243.0,30,3,126.0
 2020-04-12,korea-south,,36.0,128.0,10512,214,7368.0,32,3,125.0
 2020-04-13,korea-south,,36.0,128.0,10537,217,7447.0,25,3,79.0
+2020-04-14,korea-south,,36.0,128.0,10564,222,7534.0,27,5,87.0

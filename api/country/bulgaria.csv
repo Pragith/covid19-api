@@ -82,3 +82,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-11,bulgaria,,42.7339,25.4858,661,28,62.0,26,3,8.0
 2020-04-12,bulgaria,,42.7339,25.4858,675,29,68.0,14,1,6.0
 2020-04-13,bulgaria,,42.7339,25.4858,685,32,71.0,10,3,3.0
+2020-04-14,bulgaria,,42.7339,25.4858,713,35,81.0,28,3,10.0

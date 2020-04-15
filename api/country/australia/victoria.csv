@@ -82,3 +82,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-11,australia,victoria,-37.8136,144.9631,1265,24,14,1,926.0,0.0
 2020-04-12,australia,victoria,-37.8136,144.9631,1268,3,14,0,926.0,0.0
 2020-04-13,australia,victoria,-37.8136,144.9631,1281,13,14,0,926.0,0.0
+2020-04-14,australia,victoria,-37.8136,144.9631,1291,10,14,0,1118.0,192.0
