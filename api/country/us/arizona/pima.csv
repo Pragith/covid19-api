@@ -82,3 +82,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,arizona,32.0971334,-111.7890033,84004019,US,USA,840,4019.0,pima,"Pima, Arizona, US",591,48,16.0,0.0
 2020-04-12,us,arizona,32.0971334,-111.7890033,84004019,US,USA,840,4019.0,pima,"Pima, Arizona, US",622,31,29.0,13.0
 2020-04-13,us,arizona,32.0971334,-111.7890033,84004019,US,USA,840,4019.0,pima,"Pima, Arizona, US",668,46,29.0,0.0
+2020-04-14,us,arizona,32.0971334,-111.7890033,84004019,US,USA,840,4019.0,pima,"Pima, Arizona, US",685,17,29.0,0.0

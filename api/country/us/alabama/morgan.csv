@@ -82,3 +82,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alabama,34.45500589,-86.85475946,84001103,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",37,1,0.0,0.0
 2020-04-12,us,alabama,34.45500589,-86.85475946,84001103,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",38,1,0.0,0.0
 2020-04-13,us,alabama,34.45500589,-86.85475946,84001103,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",42,4,0.0,0.0
+2020-04-14,us,alabama,34.45500589,-86.85475946,84001103,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",41,-1,0.0,0.0

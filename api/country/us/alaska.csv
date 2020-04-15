@@ -82,6 +82,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,0.0,0.0,84080002,US,USA,840,80002.0,out-of-ak,"Out of AK, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,0.0,0.0,84080002,US,USA,840,80002.0,out-of-ak,"Out of AK, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,0.0,0.0,84080002,US,USA,840,80002.0,out-of-ak,"Out of AK, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,0.0,0.0,84080002,US,USA,840,80002.0,out-of-ak,"Out of AK, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,0.0,0.0,84090002,US,USA,840,90002.0,unassigned,"Unassigned, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,0.0,0.0,84090002,US,USA,840,90002.0,unassigned,"Unassigned, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,0.0,0.0,84090002,US,USA,840,90002.0,unassigned,"Unassigned, Alaska, US",0,0,0.0,0.0
@@ -165,6 +166,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,0.0,0.0,84090002,US,USA,840,90002.0,unassigned,"Unassigned, Alaska, US",0,0,3.0,1.0
 2020-04-12,us,alaska,0.0,0.0,84090002,US,USA,840,90002.0,unassigned,"Unassigned, Alaska, US",0,0,3.0,0.0
 2020-04-13,us,alaska,0.0,0.0,84090002,US,USA,840,90002.0,unassigned,"Unassigned, Alaska, US",0,0,3.0,0.0
+2020-04-14,us,alaska,0.0,0.0,84090002,US,USA,840,90002.0,unassigned,"Unassigned, Alaska, US",0,0,4.0,1.0
 2020-01-22,us,alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,aleutians-west,"Aleutians West, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,aleutians-west,"Aleutians West, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,aleutians-west,"Aleutians West, Alaska, US",0,0,0.0,0.0
@@ -248,6 +250,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,aleutians-west,"Aleutians West, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,aleutians-west,"Aleutians West, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,aleutians-west,"Aleutians West, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,aleutians-west,"Aleutians West, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,aleutians-east,"Aleutians East, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,aleutians-east,"Aleutians East, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,aleutians-east,"Aleutians East, Alaska, US",0,0,0.0,0.0
@@ -331,6 +334,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,aleutians-east,"Aleutians East, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,aleutians-east,"Aleutians East, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,aleutians-east,"Aleutians East, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,aleutians-east,"Aleutians East, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,ketchikan-gateway,"Ketchikan Gateway, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,ketchikan-gateway,"Ketchikan Gateway, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,ketchikan-gateway,"Ketchikan Gateway, Alaska, US",0,0,0.0,0.0
@@ -414,6 +418,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,ketchikan-gateway,"Ketchikan Gateway, Alaska, US",14,0,0.0,0.0
 2020-04-12,us,alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,ketchikan-gateway,"Ketchikan Gateway, Alaska, US",15,1,0.0,0.0
 2020-04-13,us,alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,ketchikan-gateway,"Ketchikan Gateway, Alaska, US",15,0,0.0,0.0
+2020-04-14,us,alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,ketchikan-gateway,"Ketchikan Gateway, Alaska, US",15,0,0.0,0.0
 2020-01-22,us,alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,prince-of-wales-hyder,"Prince of Wales-Hyder, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,prince-of-wales-hyder,"Prince of Wales-Hyder, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,prince-of-wales-hyder,"Prince of Wales-Hyder, Alaska, US",0,0,0.0,0.0
@@ -497,6 +502,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,prince-of-wales-hyder,"Prince of Wales-Hyder, Alaska, US",1,1,0.0,0.0
 2020-04-12,us,alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,prince-of-wales-hyder,"Prince of Wales-Hyder, Alaska, US",1,0,0.0,0.0
 2020-04-13,us,alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,prince-of-wales-hyder,"Prince of Wales-Hyder, Alaska, US",1,0,0.0,0.0
+2020-04-14,us,alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,prince-of-wales-hyder,"Prince of Wales-Hyder, Alaska, US",2,1,0.0,0.0
 2020-01-22,us,alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,wrangell,"Wrangell, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,wrangell,"Wrangell, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,wrangell,"Wrangell, Alaska, US",0,0,0.0,0.0
@@ -580,6 +586,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,wrangell,"Wrangell, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,wrangell,"Wrangell, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,wrangell,"Wrangell, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,wrangell,"Wrangell, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,petersburg,"Petersburg, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,petersburg,"Petersburg, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,petersburg,"Petersburg, Alaska, US",0,0,0.0,0.0
@@ -663,6 +670,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,petersburg,"Petersburg, Alaska, US",2,0,0.0,0.0
 2020-04-12,us,alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,petersburg,"Petersburg, Alaska, US",2,0,0.0,0.0
 2020-04-13,us,alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,petersburg,"Petersburg, Alaska, US",2,0,0.0,0.0
+2020-04-14,us,alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,petersburg,"Petersburg, Alaska, US",2,0,0.0,0.0
 2020-01-22,us,alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,sitka,"Sitka, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,sitka,"Sitka, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,sitka,"Sitka, Alaska, US",0,0,0.0,0.0
@@ -746,6 +754,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,sitka,"Sitka, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,sitka,"Sitka, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,sitka,"Sitka, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,sitka,"Sitka, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,kodiak-island,"Kodiak Island, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,kodiak-island,"Kodiak Island, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,kodiak-island,"Kodiak Island, Alaska, US",0,0,0.0,0.0
@@ -829,6 +838,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,kodiak-island,"Kodiak Island, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,kodiak-island,"Kodiak Island, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,kodiak-island,"Kodiak Island, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,kodiak-island,"Kodiak Island, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,hoonah-angoon,"Hoonah-Angoon, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,hoonah-angoon,"Hoonah-Angoon, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,hoonah-angoon,"Hoonah-Angoon, Alaska, US",0,0,0.0,0.0
@@ -912,6 +922,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,hoonah-angoon,"Hoonah-Angoon, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,hoonah-angoon,"Hoonah-Angoon, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,hoonah-angoon,"Hoonah-Angoon, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,hoonah-angoon,"Hoonah-Angoon, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,juneau,"Juneau, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,juneau,"Juneau, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,juneau,"Juneau, Alaska, US",0,0,0.0,0.0
@@ -995,6 +1006,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,juneau,"Juneau, Alaska, US",15,0,0.0,0.0
 2020-04-12,us,alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,juneau,"Juneau, Alaska, US",16,1,0.0,0.0
 2020-04-13,us,alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,juneau,"Juneau, Alaska, US",17,1,0.0,0.0
+2020-04-14,us,alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,juneau,"Juneau, Alaska, US",18,1,0.0,0.0
 2020-01-22,us,alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,lake-and-peninsula,"Lake and Peninsula, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,lake-and-peninsula,"Lake and Peninsula, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,lake-and-peninsula,"Lake and Peninsula, Alaska, US",0,0,0.0,0.0
@@ -1078,6 +1090,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,lake-and-peninsula,"Lake and Peninsula, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,lake-and-peninsula,"Lake and Peninsula, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,lake-and-peninsula,"Lake and Peninsula, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,lake-and-peninsula,"Lake and Peninsula, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,bristol-bay,"Bristol Bay, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,bristol-bay,"Bristol Bay, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,bristol-bay,"Bristol Bay, Alaska, US",0,0,0.0,0.0
@@ -1161,6 +1174,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,bristol-bay,"Bristol Bay, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,bristol-bay,"Bristol Bay, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,bristol-bay,"Bristol Bay, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,bristol-bay,"Bristol Bay, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,haines,"Haines, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,haines,"Haines, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,haines,"Haines, Alaska, US",0,0,0.0,0.0
@@ -1244,338 +1258,343 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,haines,"Haines, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,haines,"Haines, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,haines,"Haines, Alaska, US",0,0,0.0,0.0
-2020-01-22,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-01-23,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-01-24,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-01-25,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-01-26,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-01-27,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-01-28,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-01-29,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-01-30,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-01-31,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-01,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-02,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-03,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-04,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-05,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-06,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-07,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-08,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-09,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-10,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-11,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-12,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-13,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-14,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-15,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-16,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-17,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-18,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-19,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-20,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-21,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-22,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-23,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-24,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-25,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-26,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-27,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-28,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-02-29,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-01,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-02,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-03,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-04,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-05,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-06,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-07,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-08,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-09,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-10,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-11,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-12,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-13,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-14,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-15,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-16,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-17,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-18,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-19,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-20,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-21,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-22,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-23,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-24,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-25,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-26,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-27,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-28,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-29,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-30,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-03-31,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-01,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-02,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-03,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-04,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-05,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-06,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-07,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-08,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-09,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-10,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-11,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-12,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-04-13,us,alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
-2020-01-22,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-01-23,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-01-24,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-01-25,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-01-26,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-01-27,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-01-28,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-01-29,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-01-30,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-01-31,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-01,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-02,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-03,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-04,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-05,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-06,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-07,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-08,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-09,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-10,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-11,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-12,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-13,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-14,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-15,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-16,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-17,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-18,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-19,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-20,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-21,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-22,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-23,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-24,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-25,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-26,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-27,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-28,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-02-29,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-01,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-02,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-03,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-04,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-05,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-06,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-07,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-08,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-09,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-10,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-11,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-12,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-13,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-14,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-15,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-16,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-17,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-18,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-19,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-20,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-21,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-22,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-23,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-24,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-25,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-26,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-27,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-28,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-29,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-30,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-03-31,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-01,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-02,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-03,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-04,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-05,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-06,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-07,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-08,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-09,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-10,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-11,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-12,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-04-13,us,alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
-2020-01-22,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-01-23,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-01-24,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-01-25,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-01-26,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-01-27,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-01-28,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-01-29,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-01-30,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-01-31,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-01,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-02,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-03,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-04,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-05,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-06,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-07,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-08,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-09,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-10,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-11,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-12,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-13,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-14,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-15,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-16,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-17,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-18,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-19,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-20,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-21,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-22,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-23,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-24,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-25,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-26,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-27,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-28,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-02-29,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-01,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-02,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-03,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-04,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-05,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-06,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-07,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-08,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-09,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-10,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-11,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-12,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-13,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-14,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-15,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-16,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-17,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-18,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-19,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-20,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-21,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-22,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-23,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-24,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-25,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-26,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-27,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-28,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-29,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-30,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-03-31,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-01,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-02,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-03,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-04,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-05,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-06,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-07,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-08,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-09,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-10,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-11,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-12,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-04-13,us,alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
-2020-01-22,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-01-23,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-01-24,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-01-25,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-01-26,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-01-27,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-01-28,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-01-29,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-01-30,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-01-31,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-01,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-02,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-03,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-04,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-05,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-06,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-07,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-08,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-09,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-10,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-11,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-12,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-13,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-14,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-15,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-16,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-17,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-18,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-19,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-20,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-21,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-22,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-23,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-24,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-25,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-26,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-27,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-28,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-02-29,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-01,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-02,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-03,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-04,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-05,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-06,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-07,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-08,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-09,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-10,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-11,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-12,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-13,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-14,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-15,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-16,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-17,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-18,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-19,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-20,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-21,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-22,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
-2020-03-23,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",3,3,0.0,0.0
-2020-03-24,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",3,0,0.0,0.0
-2020-03-25,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",4,1,0.0,0.0
-2020-03-26,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",4,0,0.0,0.0
-2020-03-27,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",4,0,0.0,0.0
-2020-03-28,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",5,1,0.0,0.0
-2020-03-29,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",7,2,0.0,0.0
-2020-03-30,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",7,0,0.0,0.0
-2020-03-31,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",7,0,0.0,0.0
-2020-04-01,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",7,0,0.0,0.0
-2020-04-02,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",8,1,0.0,0.0
-2020-04-03,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",10,2,0.0,0.0
-2020-04-04,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",11,1,0.0,0.0
-2020-04-05,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",12,1,0.0,0.0
-2020-04-06,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",13,1,0.0,0.0
-2020-04-07,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",13,0,0.0,0.0
-2020-04-08,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",13,0,0.0,0.0
-2020-04-09,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",14,1,0.0,0.0
-2020-04-10,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",15,1,0.0,0.0
-2020-04-11,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",15,0,0.0,0.0
-2020-04-12,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",15,0,0.0,0.0
-2020-04-13,us,alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",15,0,0.0,0.0
+2020-04-14,us,alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,haines,"Haines, Alaska, US",0,0,0.0,0.0
+2020-01-22,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-01-23,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-01-24,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-01-25,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-01-26,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-01-27,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-01-28,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-01-29,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-01-30,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-01-31,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-01,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-02,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-03,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-04,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-05,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-06,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-07,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-08,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-09,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-10,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-11,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-12,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-13,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-14,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-15,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-16,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-17,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-18,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-19,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-20,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-21,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-22,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-23,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-24,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-25,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-26,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-27,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-28,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-02-29,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-01,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-02,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-03,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-04,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-05,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-06,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-07,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-08,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-09,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-10,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-11,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-12,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-13,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-14,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-15,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-16,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-17,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-18,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-19,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-20,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-21,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-22,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-23,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-24,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-25,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-26,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-27,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-28,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-29,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-30,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-03-31,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-01,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-02,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-03,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-04,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-05,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-06,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-07,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-08,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-09,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-10,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-11,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-12,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-13,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,59.56149996,-135.33377480000001,84002230,US,USA,840,2230.0,skagway,"Skagway, Alaska, US",0,0,0.0,0.0
+2020-01-22,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-01-23,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-01-24,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-01-25,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-01-26,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-01-27,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-01-28,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-01-29,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-01-30,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-01-31,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-01,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-02,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-03,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-04,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-05,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-06,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-07,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-08,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-09,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-10,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-11,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-12,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-13,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-14,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-15,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-16,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-17,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-18,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-19,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-20,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-21,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-22,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-23,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-24,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-25,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-26,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-27,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-28,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-02-29,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-01,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-02,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-03,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-04,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-05,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-06,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-07,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-08,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-09,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-10,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-11,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-12,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-13,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-14,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-15,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-16,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-17,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-18,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-19,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-20,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-21,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-22,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-23,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-24,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-25,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-26,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-27,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-28,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-29,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-30,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-03-31,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-01,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-02,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-03,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-04,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-05,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-06,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-07,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-08,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-09,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-10,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-11,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-12,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-13,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,59.79603738,-158.23819419999998,84002070,US,USA,840,2070.0,dillingham,"Dillingham, Alaska, US",0,0,0.0,0.0
+2020-01-22,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-01-23,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-01-24,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-01-25,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-01-26,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-01-27,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-01-28,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-01-29,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-01-30,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-01-31,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-01,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-02,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-03,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-04,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-05,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-06,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-07,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-08,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-09,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-10,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-11,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-12,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-13,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-14,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-15,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-16,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-17,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-18,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-19,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-20,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-21,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-22,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-23,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-24,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-25,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-26,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-27,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-28,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-02-29,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-01,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-02,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-03,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-04,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-05,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-06,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-07,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-08,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-09,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-10,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-11,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-12,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-13,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-14,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-15,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-16,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-17,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-18,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-19,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-20,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-21,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-22,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-23,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-24,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-25,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-26,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-27,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-28,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-29,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-30,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-03-31,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-01,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-02,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-03,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-04,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-05,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-06,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-07,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-08,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-09,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-10,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-11,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-12,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-13,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,59.890980799999994,-140.36014509999998,84002282,US,USA,840,2282.0,yakutat,"Yakutat, Alaska, US",0,0,0.0,0.0
+2020-01-22,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-01-23,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-01-24,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-01-25,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-01-26,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-01-27,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-01-28,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-01-29,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-01-30,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-01-31,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-01,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-02,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-03,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-04,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-05,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-06,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-07,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-08,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-09,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-10,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-11,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-12,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-13,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-14,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-15,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-16,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-17,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-18,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-19,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-20,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-21,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-22,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-23,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-24,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-25,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-26,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-27,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-28,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-02-29,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-01,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-02,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-03,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-04,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-05,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-06,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-07,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-08,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-09,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-10,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-11,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-12,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-13,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-14,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-15,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-16,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-17,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-18,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-19,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-20,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-21,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-22,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",0,0,0.0,0.0
+2020-03-23,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",3,3,0.0,0.0
+2020-03-24,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",3,0,0.0,0.0
+2020-03-25,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",4,1,0.0,0.0
+2020-03-26,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",4,0,0.0,0.0
+2020-03-27,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",4,0,0.0,0.0
+2020-03-28,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",5,1,0.0,0.0
+2020-03-29,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",7,2,0.0,0.0
+2020-03-30,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",7,0,0.0,0.0
+2020-03-31,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",7,0,0.0,0.0
+2020-04-01,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",7,0,0.0,0.0
+2020-04-02,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",8,1,0.0,0.0
+2020-04-03,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",10,2,0.0,0.0
+2020-04-04,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",11,1,0.0,0.0
+2020-04-05,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",12,1,0.0,0.0
+2020-04-06,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",13,1,0.0,0.0
+2020-04-07,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",13,0,0.0,0.0
+2020-04-08,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",13,0,0.0,0.0
+2020-04-09,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",14,1,0.0,0.0
+2020-04-10,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",15,1,0.0,0.0
+2020-04-11,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",15,0,0.0,0.0
+2020-04-12,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",15,0,0.0,0.0
+2020-04-13,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",15,0,0.0,0.0
+2020-04-14,us,alaska,60.24429722,-151.53888840000002,84002122,US,USA,840,2122.0,kenai-peninsula,"Kenai Peninsula,Alaska,US",15,0,0.0,0.0
 2020-01-22,us,alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,bethel,"Bethel, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,bethel,"Bethel, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,bethel,"Bethel, Alaska, US",0,0,0.0,0.0
@@ -1659,89 +1678,91 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,bethel,"Bethel, Alaska, US",1,0,0.0,0.0
 2020-04-12,us,alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,bethel,"Bethel, Alaska, US",1,0,0.0,0.0
 2020-04-13,us,alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,bethel,"Bethel, Alaska, US",1,0,0.0,0.0
-2020-01-22,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-01-23,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-01-24,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-01-25,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-01-26,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-01-27,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-01-28,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-01-29,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-01-30,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-01-31,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-01,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-02,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-03,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-04,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-05,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-06,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-07,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-08,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-09,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-10,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-11,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-12,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-13,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-14,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-15,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-16,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-17,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-18,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-19,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-20,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-21,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-22,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-23,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-24,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-25,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-26,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-27,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-28,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-02-29,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-01,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-02,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-03,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-04,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-05,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-06,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-07,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-08,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-09,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-10,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-11,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-12,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-13,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
-2020-03-14,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",1,1,0.0,0.0
-2020-03-15,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",1,0,0.0,0.0
-2020-03-16,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",1,0,0.0,0.0
-2020-03-17,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",1,0,0.0,0.0
-2020-03-18,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",2,1,0.0,0.0
-2020-03-19,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",4,2,0.0,0.0
-2020-03-20,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",4,0,0.0,0.0
-2020-03-21,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",4,0,0.0,0.0
-2020-03-22,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",5,1,0.0,0.0
-2020-03-23,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",13,8,0.0,0.0
-2020-03-24,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",17,4,0.0,0.0
-2020-03-25,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",17,0,0.0,0.0
-2020-03-26,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",28,11,0.0,0.0
-2020-03-27,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",30,2,0.0,0.0
-2020-03-28,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",43,13,1.0,1.0
-2020-03-29,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",54,11,1.0,0.0
-2020-03-30,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",59,5,1.0,0.0
-2020-03-31,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",61,2,1.0,0.0
-2020-04-01,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",65,4,1.0,0.0
-2020-04-02,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",67,2,1.0,0.0
-2020-04-03,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",73,6,1.0,0.0
-2020-04-04,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",81,8,1.0,0.0
-2020-04-05,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",85,4,1.0,0.0
-2020-04-06,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",88,3,1.0,0.0
-2020-04-07,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",98,10,4.0,3.0
-2020-04-08,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",103,5,4.0,0.0
-2020-04-09,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",109,6,4.0,0.0
-2020-04-10,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",112,3,4.0,0.0
-2020-04-11,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",121,9,4.0,0.0
-2020-04-12,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",127,6,4.0,0.0
-2020-04-13,us,alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",131,4,4.0,0.0
+2020-04-14,us,alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,bethel,"Bethel, Alaska, US",1,0,0.0,0.0
+2020-01-22,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-01-23,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-01-24,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-01-25,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-01-26,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-01-27,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-01-28,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-01-29,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-01-30,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-01-31,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-01,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-02,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-03,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-04,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-05,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-06,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-07,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-08,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-09,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-10,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-11,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-12,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-13,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-14,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-15,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-16,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-17,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-18,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-19,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-20,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-21,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-22,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-23,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-24,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-25,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-26,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-27,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-28,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-02-29,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-01,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-02,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-03,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-04,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-05,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-06,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-07,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-08,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-09,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-10,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-11,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-12,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-13,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",0,0,0.0,0.0
+2020-03-14,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",1,1,0.0,0.0
+2020-03-15,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",1,0,0.0,0.0
+2020-03-16,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",1,0,0.0,0.0
+2020-03-17,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",1,0,0.0,0.0
+2020-03-18,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",2,1,0.0,0.0
+2020-03-19,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",4,2,0.0,0.0
+2020-03-20,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",4,0,0.0,0.0
+2020-03-21,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",4,0,0.0,0.0
+2020-03-22,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",5,1,0.0,0.0
+2020-03-23,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",13,8,0.0,0.0
+2020-03-24,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",17,4,0.0,0.0
+2020-03-25,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",17,0,0.0,0.0
+2020-03-26,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",28,11,0.0,0.0
+2020-03-27,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",30,2,0.0,0.0
+2020-03-28,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",43,13,0.0,0.0
+2020-03-29,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",54,11,0.0,0.0
+2020-03-30,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",59,5,0.0,0.0
+2020-03-31,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",61,2,0.0,0.0
+2020-04-01,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",65,4,0.0,0.0
+2020-04-02,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",67,2,0.0,0.0
+2020-04-03,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",73,6,0.0,0.0
+2020-04-04,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",81,8,0.0,0.0
+2020-04-05,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",85,4,0.0,0.0
+2020-04-06,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",88,3,0.0,0.0
+2020-04-07,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",98,10,0.0,0.0
+2020-04-08,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",103,5,0.0,0.0
+2020-04-09,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",109,6,0.0,0.0
+2020-04-10,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",112,3,0.0,0.0
+2020-04-11,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",121,9,0.0,0.0
+2020-04-12,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",127,6,0.0,0.0
+2020-04-13,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",131,4,0.0,0.0
+2020-04-14,us,alaska,61.14998174,-149.14269860000002,84002020,US,USA,840,2020.0,anchorage,"Anchorage,Alaska,US",136,5,0.0,0.0
 2020-01-22,us,alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,valdez-cordova,"Valdez-Cordova, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,valdez-cordova,"Valdez-Cordova, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,valdez-cordova,"Valdez-Cordova, Alaska, US",0,0,0.0,0.0
@@ -1825,6 +1846,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,valdez-cordova,"Valdez-Cordova, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,valdez-cordova,"Valdez-Cordova, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,valdez-cordova,"Valdez-Cordova, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,valdez-cordova,"Valdez-Cordova, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,kusilvak,"Kusilvak, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,kusilvak,"Kusilvak, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,kusilvak,"Kusilvak, Alaska, US",0,0,0.0,0.0
@@ -1908,6 +1930,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,kusilvak,"Kusilvak, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,kusilvak,"Kusilvak, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,kusilvak,"Kusilvak, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,kusilvak,"Kusilvak, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,matanuska-susitna,"Matanuska-Susitna,Alaska,US",0,0,0.0,0.0
 2020-01-23,us,alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,matanuska-susitna,"Matanuska-Susitna,Alaska,US",0,0,0.0,0.0
 2020-01-24,us,alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,matanuska-susitna,"Matanuska-Susitna,Alaska,US",0,0,0.0,0.0
@@ -1991,6 +2014,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,matanuska-susitna,"Matanuska-Susitna,Alaska,US",10,1,0.0,0.0
 2020-04-12,us,alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,matanuska-susitna,"Matanuska-Susitna,Alaska,US",14,4,0.0,0.0
 2020-04-13,us,alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,matanuska-susitna,"Matanuska-Susitna,Alaska,US",14,0,0.0,0.0
+2020-04-14,us,alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,matanuska-susitna,"Matanuska-Susitna,Alaska,US",15,1,0.0,0.0
 2020-01-22,us,alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,denali,"Denali, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,denali,"Denali, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,denali,"Denali, Alaska, US",0,0,0.0,0.0
@@ -2074,6 +2098,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,denali,"Denali, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,denali,"Denali, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,denali,"Denali, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,denali,"Denali, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,southeast-fairbanks,"Southeast Fairbanks, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,southeast-fairbanks,"Southeast Fairbanks, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,southeast-fairbanks,"Southeast Fairbanks, Alaska, US",0,0,0.0,0.0
@@ -2157,6 +2182,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,southeast-fairbanks,"Southeast Fairbanks, Alaska, US",1,0,0.0,0.0
 2020-04-12,us,alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,southeast-fairbanks,"Southeast Fairbanks, Alaska, US",1,0,0.0,0.0
 2020-04-13,us,alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,southeast-fairbanks,"Southeast Fairbanks, Alaska, US",1,0,0.0,0.0
+2020-04-14,us,alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,southeast-fairbanks,"Southeast Fairbanks, Alaska, US",1,0,0.0,0.0
 2020-01-22,us,alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,fairbanks-north-star,"Fairbanks North Star,Alaska,US",0,0,0.0,0.0
 2020-01-23,us,alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,fairbanks-north-star,"Fairbanks North Star,Alaska,US",0,0,0.0,0.0
 2020-01-24,us,alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,fairbanks-north-star,"Fairbanks North Star,Alaska,US",0,0,0.0,0.0
@@ -2240,6 +2266,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,fairbanks-north-star,"Fairbanks North Star,Alaska,US",76,0,1.0,0.0
 2020-04-12,us,alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,fairbanks-north-star,"Fairbanks North Star,Alaska,US",79,3,1.0,0.0
 2020-04-13,us,alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,fairbanks-north-star,"Fairbanks North Star,Alaska,US",79,0,1.0,0.0
+2020-04-14,us,alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,fairbanks-north-star,"Fairbanks North Star,Alaska,US",79,0,1.0,0.0
 2020-01-22,us,alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,nome,"Nome, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,nome,"Nome, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,nome,"Nome, Alaska, US",0,0,0.0,0.0
@@ -2323,89 +2350,91 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,nome,"Nome, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,nome,"Nome, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,nome,"Nome, Alaska, US",0,0,0.0,0.0
-2020-01-22,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-01-23,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-01-24,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-01-25,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-01-26,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-01-27,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-01-28,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-01-29,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-01-30,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-01-31,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-01,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-02,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-03,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-04,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-05,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-06,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-07,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-08,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-09,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-10,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-11,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-12,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-13,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-14,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-15,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-16,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-17,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-18,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-19,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-20,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-21,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-22,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-23,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-24,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-25,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-26,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-27,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-28,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-02-29,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-01,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-02,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-03,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-04,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-05,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-06,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-07,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-08,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-09,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-10,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-11,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-12,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-13,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-14,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-15,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-16,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-17,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-18,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-19,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-20,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-21,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-22,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-23,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-24,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-25,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-26,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-27,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-28,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-29,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-30,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-03-31,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-04-01,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-04-02,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
-2020-04-03,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,1,0.0,0.0
-2020-04-04,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
-2020-04-05,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
-2020-04-06,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
-2020-04-07,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
-2020-04-08,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
-2020-04-09,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
-2020-04-10,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
-2020-04-11,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
-2020-04-12,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
-2020-04-13,us,alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-14,us,alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,nome,"Nome, Alaska, US",0,0,0.0,0.0
+2020-01-22,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-01-23,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-01-24,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-01-25,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-01-26,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-01-27,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-01-28,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-01-29,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-01-30,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-01-31,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-01,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-02,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-03,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-04,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-05,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-06,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-07,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-08,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-09,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-10,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-11,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-12,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-13,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-14,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-15,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-16,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-17,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-18,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-19,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-20,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-21,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-22,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-23,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-24,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-25,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-26,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-27,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-28,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-02-29,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-01,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-02,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-03,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-04,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-05,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-06,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-07,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-08,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-09,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-10,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-11,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-12,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-13,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-14,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-15,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-16,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-17,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-18,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-19,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-20,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-21,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-22,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-23,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-24,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-25,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-26,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-27,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-28,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-29,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-30,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-03-31,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-04-01,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-04-02,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0.0,0.0
+2020-04-03,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,1,0.0,0.0
+2020-04-04,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-05,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-06,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-07,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-08,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-09,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-10,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-11,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-12,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-13,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
+2020-04-14,us,alaska,65.50815459,-151.39073869999999,84002290,US,USA,840,2290.0,yukon-koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0.0,0.0
 2020-01-22,us,alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,northwest-arctic,"Northwest Arctic, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,northwest-arctic,"Northwest Arctic, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,northwest-arctic,"Northwest Arctic, Alaska, US",0,0,0.0,0.0
@@ -2489,6 +2518,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,northwest-arctic,"Northwest Arctic, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,northwest-arctic,"Northwest Arctic, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,northwest-arctic,"Northwest Arctic, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,northwest-arctic,"Northwest Arctic, Alaska, US",0,0,0.0,0.0
 2020-01-22,us,alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,north-slope,"North Slope, Alaska, US",0,0,0.0,0.0
 2020-01-23,us,alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,north-slope,"North Slope, Alaska, US",0,0,0.0,0.0
 2020-01-24,us,alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,north-slope,"North Slope, Alaska, US",0,0,0.0,0.0
@@ -2572,3 +2602,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,north-slope,"North Slope, Alaska, US",0,0,0.0,0.0
 2020-04-12,us,alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,north-slope,"North Slope, Alaska, US",0,0,0.0,0.0
 2020-04-13,us,alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,north-slope,"North Slope, Alaska, US",0,0,0.0,0.0
+2020-04-14,us,alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,north-slope,"North Slope, Alaska, US",0,0,0.0,0.0

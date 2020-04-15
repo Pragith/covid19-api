@@ -82,3 +82,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,alabama,32.2206831,-86.20969272,84001101,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",102,10,4.0,0.0
 2020-04-12,us,alabama,32.2206831,-86.20969272,84001101,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",119,17,4.0,0.0
 2020-04-13,us,alabama,32.2206831,-86.20969272,84001101,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",135,16,5.0,1.0
+2020-04-14,us,alabama,32.2206831,-86.20969272,84001101,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",161,26,5.0,0.0

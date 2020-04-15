@@ -82,3 +82,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,new-york,43.19898042,-78.74777412,84036063,US,USA,840,36063.0,niagara,"Niagara, New York, US",167,11,4.0,0.0
 2020-04-12,us,new-york,43.19898042,-78.74777412,84036063,US,USA,840,36063.0,niagara,"Niagara, New York, US",194,27,4.0,0.0
 2020-04-13,us,new-york,43.19898042,-78.74777412,84036063,US,USA,840,36063.0,niagara,"Niagara, New York, US",194,0,5.0,1.0
+2020-04-14,us,new-york,43.19898042,-78.74777412,84036063,US,USA,840,36063.0,niagara,"Niagara, New York, US",216,22,5.0,0.0

@@ -82,3 +82,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,pennsylvania,40.99206278,-80.33393706,84042073,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",46,1,4.0,1.0
 2020-04-12,us,pennsylvania,40.99206278,-80.33393706,84042073,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",49,3,4.0,0.0
 2020-04-13,us,pennsylvania,40.99206278,-80.33393706,84042073,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",51,2,4.0,0.0
+2020-04-14,us,pennsylvania,40.99206278,-80.33393706,84042073,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",51,0,4.0,0.0

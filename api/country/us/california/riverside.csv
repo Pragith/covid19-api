@@ -82,3 +82,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,california,33.74314981,-115.9933578,84006065,US,USA,840,6065.0,riverside,"Riverside, California, US",1431,81,41.0,2.0
 2020-04-12,us,california,33.74314981,-115.9933578,84006065,US,USA,840,6065.0,riverside,"Riverside, California, US",1619,188,41.0,0.0
 2020-04-13,us,california,33.74314981,-115.9933578,84006065,US,USA,840,6065.0,riverside,"Riverside, California, US",1619,0,41.0,0.0
+2020-04-14,us,california,33.74314981,-115.9933578,84006065,US,USA,840,6065.0,riverside,"Riverside, California, US",1961,342,50.0,9.0

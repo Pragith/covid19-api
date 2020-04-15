@@ -82,6 +82,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,0.0,0.0,84080023,US,USA,840,80023.0,out-of-me,"Out of ME, Maine, US",0,0,0.0,0.0
 2020-04-12,us,maine,0.0,0.0,84080023,US,USA,840,80023.0,out-of-me,"Out of ME, Maine, US",0,0,0.0,0.0
 2020-04-13,us,maine,0.0,0.0,84080023,US,USA,840,80023.0,out-of-me,"Out of ME, Maine, US",0,0,0.0,0.0
+2020-04-14,us,maine,0.0,0.0,84080023,US,USA,840,80023.0,out-of-me,"Out of ME, Maine, US",0,0,0.0,0.0
 2020-01-22,us,maine,0.0,0.0,84090023,US,USA,840,90023.0,unassigned,"Unassigned, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,0.0,0.0,84090023,US,USA,840,90023.0,unassigned,"Unassigned, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,0.0,0.0,84090023,US,USA,840,90023.0,unassigned,"Unassigned, Maine, US",0,0,0.0,0.0
@@ -165,6 +166,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,0.0,0.0,84090023,US,USA,840,90023.0,unassigned,"Unassigned, Maine, US",3,0,0.0,0.0
 2020-04-12,us,maine,0.0,0.0,84090023,US,USA,840,90023.0,unassigned,"Unassigned, Maine, US",3,0,0.0,0.0
 2020-04-13,us,maine,0.0,0.0,84090023,US,USA,840,90023.0,unassigned,"Unassigned, Maine, US",5,2,0.0,0.0
+2020-04-14,us,maine,0.0,0.0,84090023,US,USA,840,90023.0,unassigned,"Unassigned, Maine, US",2,-3,0.0,0.0
 2020-01-22,us,maine,43.47808377,-70.71052375,84023031,US,USA,840,23031.0,york,"York, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,43.47808377,-70.71052375,84023031,US,USA,840,23031.0,york,"York, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,43.47808377,-70.71052375,84023031,US,USA,840,23031.0,york,"York, Maine, US",0,0,0.0,0.0
@@ -248,6 +250,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,43.47808377,-70.71052375,84023031,US,USA,840,23031.0,york,"York, Maine, US",143,6,3.0,1.0
 2020-04-12,us,maine,43.47808377,-70.71052375,84023031,US,USA,840,23031.0,york,"York, Maine, US",144,1,3.0,0.0
 2020-04-13,us,maine,43.47808377,-70.71052375,84023031,US,USA,840,23031.0,york,"York, Maine, US",151,7,3.0,0.0
+2020-04-14,us,maine,43.47808377,-70.71052375,84023031,US,USA,840,23031.0,york,"York, Maine, US",152,1,4.0,1.0
 2020-01-22,us,maine,43.8370751,-70.37226999,84023005,US,USA,840,23005.0,cumberland,"Cumberland, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,43.8370751,-70.37226999,84023005,US,USA,840,23005.0,cumberland,"Cumberland, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,43.8370751,-70.37226999,84023005,US,USA,840,23005.0,cumberland,"Cumberland, Maine, US",0,0,0.0,0.0
@@ -331,6 +334,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,43.8370751,-70.37226999,84023005,US,USA,840,23005.0,cumberland,"Cumberland, Maine, US",284,8,12.0,1.0
 2020-04-12,us,maine,43.8370751,-70.37226999,84023005,US,USA,840,23005.0,cumberland,"Cumberland, Maine, US",292,8,12.0,0.0
 2020-04-13,us,maine,43.8370751,-70.37226999,84023005,US,USA,840,23005.0,cumberland,"Cumberland, Maine, US",299,7,12.0,0.0
+2020-04-14,us,maine,43.8370751,-70.37226999,84023005,US,USA,840,23005.0,cumberland,"Cumberland, Maine, US",331,32,12.0,0.0
 2020-01-22,us,maine,43.95415864,-69.85074999,84023023,US,USA,840,23023.0,sagadahoc,"Sagadahoc, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,43.95415864,-69.85074999,84023023,US,USA,840,23023.0,sagadahoc,"Sagadahoc, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,43.95415864,-69.85074999,84023023,US,USA,840,23023.0,sagadahoc,"Sagadahoc, Maine, US",0,0,0.0,0.0
@@ -414,6 +418,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,43.95415864,-69.85074999,84023023,US,USA,840,23023.0,sagadahoc,"Sagadahoc, Maine, US",15,0,1.0,0.0
 2020-04-12,us,maine,43.95415864,-69.85074999,84023023,US,USA,840,23023.0,sagadahoc,"Sagadahoc, Maine, US",15,0,1.0,0.0
 2020-04-13,us,maine,43.95415864,-69.85074999,84023023,US,USA,840,23023.0,sagadahoc,"Sagadahoc, Maine, US",15,0,1.0,0.0
+2020-04-14,us,maine,43.95415864,-69.85074999,84023023,US,USA,840,23023.0,sagadahoc,"Sagadahoc, Maine, US",15,0,1.0,0.0
 2020-01-22,us,maine,44.05996956,-69.54227124,84023015,US,USA,840,23015.0,lincoln,"Lincoln, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,44.05996956,-69.54227124,84023015,US,USA,840,23015.0,lincoln,"Lincoln, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,44.05996956,-69.54227124,84023015,US,USA,840,23015.0,lincoln,"Lincoln, Maine, US",0,0,0.0,0.0
@@ -497,6 +502,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,44.05996956,-69.54227124,84023015,US,USA,840,23015.0,lincoln,"Lincoln, Maine, US",9,0,0.0,0.0
 2020-04-12,us,maine,44.05996956,-69.54227124,84023015,US,USA,840,23015.0,lincoln,"Lincoln, Maine, US",9,0,0.0,0.0
 2020-04-13,us,maine,44.05996956,-69.54227124,84023015,US,USA,840,23015.0,lincoln,"Lincoln, Maine, US",10,1,0.0,0.0
+2020-04-14,us,maine,44.05996956,-69.54227124,84023015,US,USA,840,23015.0,lincoln,"Lincoln, Maine, US",11,1,0.0,0.0
 2020-01-22,us,maine,44.11486325,-69.10529169,84023013,US,USA,840,23013.0,knox,"Knox, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,44.11486325,-69.10529169,84023013,US,USA,840,23013.0,knox,"Knox, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,44.11486325,-69.10529169,84023013,US,USA,840,23013.0,knox,"Knox, Maine, US",0,0,0.0,0.0
@@ -580,6 +586,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,44.11486325,-69.10529169,84023013,US,USA,840,23013.0,knox,"Knox, Maine, US",10,0,0.0,0.0
 2020-04-12,us,maine,44.11486325,-69.10529169,84023013,US,USA,840,23013.0,knox,"Knox, Maine, US",10,0,0.0,0.0
 2020-04-13,us,maine,44.11486325,-69.10529169,84023013,US,USA,840,23013.0,knox,"Knox, Maine, US",12,2,0.0,0.0
+2020-04-14,us,maine,44.11486325,-69.10529169,84023013,US,USA,840,23013.0,knox,"Knox, Maine, US",11,-1,0.0,0.0
 2020-01-22,us,maine,44.1664747,-70.20380627,84023001,US,USA,840,23001.0,androscoggin,"Androscoggin, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,44.1664747,-70.20380627,84023001,US,USA,840,23001.0,androscoggin,"Androscoggin, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,44.1664747,-70.20380627,84023001,US,USA,840,23001.0,androscoggin,"Androscoggin, Maine, US",0,0,0.0,0.0
@@ -663,6 +670,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,44.1664747,-70.20380627,84023001,US,USA,840,23001.0,androscoggin,"Androscoggin, Maine, US",27,3,0.0,0.0
 2020-04-12,us,maine,44.1664747,-70.20380627,84023001,US,USA,840,23001.0,androscoggin,"Androscoggin, Maine, US",28,1,0.0,0.0
 2020-04-13,us,maine,44.1664747,-70.20380627,84023001,US,USA,840,23001.0,androscoggin,"Androscoggin, Maine, US",28,0,0.0,0.0
+2020-04-14,us,maine,44.1664747,-70.20380627,84023001,US,USA,840,23001.0,androscoggin,"Androscoggin, Maine, US",29,1,0.0,0.0
 2020-01-22,us,maine,44.40759555,-69.76738544,84023011,US,USA,840,23011.0,kennebec,"Kennebec, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,44.40759555,-69.76738544,84023011,US,USA,840,23011.0,kennebec,"Kennebec, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,44.40759555,-69.76738544,84023011,US,USA,840,23011.0,kennebec,"Kennebec, Maine, US",0,0,0.0,0.0
@@ -746,6 +754,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,44.40759555,-69.76738544,84023011,US,USA,840,23011.0,kennebec,"Kennebec, Maine, US",31,2,1.0,0.0
 2020-04-12,us,maine,44.40759555,-69.76738544,84023011,US,USA,840,23011.0,kennebec,"Kennebec, Maine, US",32,1,1.0,0.0
 2020-04-13,us,maine,44.40759555,-69.76738544,84023011,US,USA,840,23011.0,kennebec,"Kennebec, Maine, US",78,46,1.0,0.0
+2020-04-14,us,maine,44.40759555,-69.76738544,84023011,US,USA,840,23011.0,kennebec,"Kennebec, Maine, US",81,3,1.0,0.0
 2020-01-22,us,maine,44.4858305,-69.12061935,84023027,US,USA,840,23027.0,waldo,"Waldo, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,44.4858305,-69.12061935,84023027,US,USA,840,23027.0,waldo,"Waldo, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,44.4858305,-69.12061935,84023027,US,USA,840,23027.0,waldo,"Waldo, Maine, US",0,0,0.0,0.0
@@ -829,6 +838,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,44.4858305,-69.12061935,84023027,US,USA,840,23027.0,waldo,"Waldo, Maine, US",27,8,2.0,0.0
 2020-04-12,us,maine,44.4858305,-69.12061935,84023027,US,USA,840,23027.0,waldo,"Waldo, Maine, US",29,2,2.0,0.0
 2020-04-13,us,maine,44.4858305,-69.12061935,84023027,US,USA,840,23027.0,waldo,"Waldo, Maine, US",29,0,2.0,0.0
+2020-04-14,us,maine,44.4858305,-69.12061935,84023027,US,USA,840,23027.0,waldo,"Waldo, Maine, US",29,0,2.0,0.0
 2020-01-22,us,maine,44.49952995,-70.75682123,84023017,US,USA,840,23017.0,oxford,"Oxford, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,44.49952995,-70.75682123,84023017,US,USA,840,23017.0,oxford,"Oxford, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,44.49952995,-70.75682123,84023017,US,USA,840,23017.0,oxford,"Oxford, Maine, US",0,0,0.0,0.0
@@ -912,6 +922,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,44.49952995,-70.75682123,84023017,US,USA,840,23017.0,oxford,"Oxford, Maine, US",13,1,0.0,0.0
 2020-04-12,us,maine,44.49952995,-70.75682123,84023017,US,USA,840,23017.0,oxford,"Oxford, Maine, US",13,0,0.0,0.0
 2020-04-13,us,maine,44.49952995,-70.75682123,84023017,US,USA,840,23017.0,oxford,"Oxford, Maine, US",13,0,0.0,0.0
+2020-04-14,us,maine,44.49952995,-70.75682123,84023017,US,USA,840,23017.0,oxford,"Oxford, Maine, US",13,0,0.0,0.0
 2020-01-22,us,maine,44.59816444,-68.38401854,84023009,US,USA,840,23009.0,hancock,"Hancock, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,44.59816444,-68.38401854,84023009,US,USA,840,23009.0,hancock,"Hancock, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,44.59816444,-68.38401854,84023009,US,USA,840,23009.0,hancock,"Hancock, Maine, US",0,0,0.0,0.0
@@ -995,6 +1006,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,44.59816444,-68.38401854,84023009,US,USA,840,23009.0,hancock,"Hancock, Maine, US",4,0,0.0,0.0
 2020-04-12,us,maine,44.59816444,-68.38401854,84023009,US,USA,840,23009.0,hancock,"Hancock, Maine, US",5,1,0.0,0.0
 2020-04-13,us,maine,44.59816444,-68.38401854,84023009,US,USA,840,23009.0,hancock,"Hancock, Maine, US",5,0,0.0,0.0
+2020-04-14,us,maine,44.59816444,-68.38401854,84023009,US,USA,840,23009.0,hancock,"Hancock, Maine, US",5,0,0.0,0.0
 2020-01-22,us,maine,44.97330019,-70.44381045,84023007,US,USA,840,23007.0,franklin,"Franklin, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,44.97330019,-70.44381045,84023007,US,USA,840,23007.0,franklin,"Franklin, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,44.97330019,-70.44381045,84023007,US,USA,840,23007.0,franklin,"Franklin, Maine, US",0,0,0.0,0.0
@@ -1078,6 +1090,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,44.97330019,-70.44381045,84023007,US,USA,840,23007.0,franklin,"Franklin, Maine, US",7,0,0.0,0.0
 2020-04-12,us,maine,44.97330019,-70.44381045,84023007,US,USA,840,23007.0,franklin,"Franklin, Maine, US",8,1,0.0,0.0
 2020-04-13,us,maine,44.97330019,-70.44381045,84023007,US,USA,840,23007.0,franklin,"Franklin, Maine, US",8,0,0.0,0.0
+2020-04-14,us,maine,44.97330019,-70.44381045,84023007,US,USA,840,23007.0,franklin,"Franklin, Maine, US",8,0,0.0,0.0
 2020-01-22,us,maine,45.01607142,-67.62813524,84023029,US,USA,840,23029.0,washington,"Washington, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,45.01607142,-67.62813524,84023029,US,USA,840,23029.0,washington,"Washington, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,45.01607142,-67.62813524,84023029,US,USA,840,23029.0,washington,"Washington, Maine, US",0,0,0.0,0.0
@@ -1161,6 +1174,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,45.01607142,-67.62813524,84023029,US,USA,840,23029.0,washington,"Washington, Maine, US",1,0,0.0,0.0
 2020-04-12,us,maine,45.01607142,-67.62813524,84023029,US,USA,840,23029.0,washington,"Washington, Maine, US",1,0,0.0,0.0
 2020-04-13,us,maine,45.01607142,-67.62813524,84023029,US,USA,840,23029.0,washington,"Washington, Maine, US",1,0,0.0,0.0
+2020-04-14,us,maine,45.01607142,-67.62813524,84023029,US,USA,840,23029.0,washington,"Washington, Maine, US",1,0,0.0,0.0
 2020-01-22,us,maine,45.40194593,-68.65020455,84023019,US,USA,840,23019.0,penobscot,"Penobscot, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,45.40194593,-68.65020455,84023019,US,USA,840,23019.0,penobscot,"Penobscot, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,45.40194593,-68.65020455,84023019,US,USA,840,23019.0,penobscot,"Penobscot, Maine, US",0,0,0.0,0.0
@@ -1244,6 +1258,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,45.40194593,-68.65020455,84023019,US,USA,840,23019.0,penobscot,"Penobscot, Maine, US",34,1,0.0,0.0
 2020-04-12,us,maine,45.40194593,-68.65020455,84023019,US,USA,840,23019.0,penobscot,"Penobscot, Maine, US",34,0,0.0,0.0
 2020-04-13,us,maine,45.40194593,-68.65020455,84023019,US,USA,840,23019.0,penobscot,"Penobscot, Maine, US",34,0,0.0,0.0
+2020-04-14,us,maine,45.40194593,-68.65020455,84023019,US,USA,840,23019.0,penobscot,"Penobscot, Maine, US",34,0,0.0,0.0
 2020-01-22,us,maine,45.51229767,-69.95995554,84023025,US,USA,840,23025.0,somerset,"Somerset, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,45.51229767,-69.95995554,84023025,US,USA,840,23025.0,somerset,"Somerset, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,45.51229767,-69.95995554,84023025,US,USA,840,23025.0,somerset,"Somerset, Maine, US",0,0,0.0,0.0
@@ -1327,6 +1342,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,45.51229767,-69.95995554,84023025,US,USA,840,23025.0,somerset,"Somerset, Maine, US",6,1,0.0,0.0
 2020-04-12,us,maine,45.51229767,-69.95995554,84023025,US,USA,840,23025.0,somerset,"Somerset, Maine, US",8,2,0.0,0.0
 2020-04-13,us,maine,45.51229767,-69.95995554,84023025,US,USA,840,23025.0,somerset,"Somerset, Maine, US",8,0,0.0,0.0
+2020-04-14,us,maine,45.51229767,-69.95995554,84023025,US,USA,840,23025.0,somerset,"Somerset, Maine, US",11,3,0.0,0.0
 2020-01-22,us,maine,45.83839062,-69.2860223,84023021,US,USA,840,23021.0,piscataquis,"Piscataquis, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,45.83839062,-69.2860223,84023021,US,USA,840,23021.0,piscataquis,"Piscataquis, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,45.83839062,-69.2860223,84023021,US,USA,840,23021.0,piscataquis,"Piscataquis, Maine, US",0,0,0.0,0.0
@@ -1410,6 +1426,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,45.83839062,-69.2860223,84023021,US,USA,840,23021.0,piscataquis,"Piscataquis, Maine, US",0,0,0.0,0.0
 2020-04-12,us,maine,45.83839062,-69.2860223,84023021,US,USA,840,23021.0,piscataquis,"Piscataquis, Maine, US",0,0,0.0,0.0
 2020-04-13,us,maine,45.83839062,-69.2860223,84023021,US,USA,840,23021.0,piscataquis,"Piscataquis, Maine, US",0,0,0.0,0.0
+2020-04-14,us,maine,45.83839062,-69.2860223,84023021,US,USA,840,23021.0,piscataquis,"Piscataquis, Maine, US",0,0,0.0,0.0
 2020-01-22,us,maine,46.65926321,-68.59841248,84023003,US,USA,840,23003.0,aroostook,"Aroostook, Maine, US",0,0,0.0,0.0
 2020-01-23,us,maine,46.65926321,-68.59841248,84023003,US,USA,840,23003.0,aroostook,"Aroostook, Maine, US",0,0,0.0,0.0
 2020-01-24,us,maine,46.65926321,-68.59841248,84023003,US,USA,840,23003.0,aroostook,"Aroostook, Maine, US",0,0,0.0,0.0
@@ -1493,3 +1510,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,maine,46.65926321,-68.59841248,84023003,US,USA,840,23003.0,aroostook,"Aroostook, Maine, US",2,0,0.0,0.0
 2020-04-12,us,maine,46.65926321,-68.59841248,84023003,US,USA,840,23003.0,aroostook,"Aroostook, Maine, US",2,0,0.0,0.0
 2020-04-13,us,maine,46.65926321,-68.59841248,84023003,US,USA,840,23003.0,aroostook,"Aroostook, Maine, US",2,0,0.0,0.0
+2020-04-14,us,maine,46.65926321,-68.59841248,84023003,US,USA,840,23003.0,aroostook,"Aroostook, Maine, US",2,0,0.0,0.0

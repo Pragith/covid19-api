@@ -82,3 +82,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",7,0,1.0,1.0
 2020-04-12,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",7,0,1.0,0.0
 2020-04-13,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",7,0,1.0,0.0
+2020-04-14,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",8,1,1.0,0.0

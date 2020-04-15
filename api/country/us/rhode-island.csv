@@ -82,6 +82,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,rhode-island,0.0,0.0,84080044,US,USA,840,80044.0,out-of-ri,"Out of RI, Rhode Island, US",0,0,0.0,0.0
 2020-04-12,us,rhode-island,0.0,0.0,84080044,US,USA,840,80044.0,out-of-ri,"Out of RI, Rhode Island, US",0,0,0.0,0.0
 2020-04-13,us,rhode-island,0.0,0.0,84080044,US,USA,840,80044.0,out-of-ri,"Out of RI, Rhode Island, US",0,0,0.0,0.0
+2020-04-14,us,rhode-island,0.0,0.0,84080044,US,USA,840,80044.0,out-of-ri,"Out of RI, Rhode Island, US",0,0,0.0,0.0
 2020-01-22,us,rhode-island,0.0,0.0,84090044,US,USA,840,90044.0,unassigned,"Unassigned, Rhode Island, US",0,0,0.0,0.0
 2020-01-23,us,rhode-island,0.0,0.0,84090044,US,USA,840,90044.0,unassigned,"Unassigned, Rhode Island, US",0,0,0.0,0.0
 2020-01-24,us,rhode-island,0.0,0.0,84090044,US,USA,840,90044.0,unassigned,"Unassigned, Rhode Island, US",0,0,0.0,0.0
@@ -165,6 +166,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,rhode-island,0.0,0.0,84090044,US,USA,840,90044.0,unassigned,"Unassigned, Rhode Island, US",649,241,53.0,13.0
 2020-04-12,us,rhode-island,0.0,0.0,84090044,US,USA,840,90044.0,unassigned,"Unassigned, Rhode Island, US",965,316,60.0,7.0
 2020-04-13,us,rhode-island,0.0,0.0,84090044,US,USA,840,90044.0,unassigned,"Unassigned, Rhode Island, US",965,0,60.0,0.0
+2020-04-14,us,rhode-island,0.0,0.0,84090044,US,USA,840,90044.0,unassigned,"Unassigned, Rhode Island, US",1551,586,77.0,17.0
 2020-01-22,us,rhode-island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,washington,"Washington, Rhode Island, US",0,0,0.0,0.0
 2020-01-23,us,rhode-island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,washington,"Washington, Rhode Island, US",0,0,0.0,0.0
 2020-01-24,us,rhode-island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,washington,"Washington, Rhode Island, US",0,0,0.0,0.0
@@ -248,6 +250,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,rhode-island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,washington,"Washington, Rhode Island, US",140,20,0.0,0.0
 2020-04-12,us,rhode-island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,washington,"Washington, Rhode Island, US",140,0,0.0,0.0
 2020-04-13,us,rhode-island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,washington,"Washington, Rhode Island, US",140,0,0.0,0.0
+2020-04-14,us,rhode-island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,washington,"Washington, Rhode Island, US",140,0,0.0,0.0
 2020-01-22,us,rhode-island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,newport,"Newport, Rhode Island, US",0,0,0.0,0.0
 2020-01-23,us,rhode-island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,newport,"Newport, Rhode Island, US",0,0,0.0,0.0
 2020-01-24,us,rhode-island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,newport,"Newport, Rhode Island, US",0,0,0.0,0.0
@@ -331,6 +334,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,rhode-island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,newport,"Newport, Rhode Island, US",74,18,0.0,0.0
 2020-04-12,us,rhode-island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,newport,"Newport, Rhode Island, US",74,0,0.0,0.0
 2020-04-13,us,rhode-island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,newport,"Newport, Rhode Island, US",74,0,0.0,0.0
+2020-04-14,us,rhode-island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,newport,"Newport, Rhode Island, US",74,0,0.0,0.0
 2020-01-22,us,rhode-island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,kent,"Kent, Rhode Island, US",0,0,0.0,0.0
 2020-01-23,us,rhode-island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,kent,"Kent, Rhode Island, US",0,0,0.0,0.0
 2020-01-24,us,rhode-island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,kent,"Kent, Rhode Island, US",0,0,0.0,0.0
@@ -414,6 +418,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,rhode-island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,kent,"Kent, Rhode Island, US",169,18,0.0,0.0
 2020-04-12,us,rhode-island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,kent,"Kent, Rhode Island, US",169,0,0.0,0.0
 2020-04-13,us,rhode-island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,kent,"Kent, Rhode Island, US",169,0,0.0,0.0
+2020-04-14,us,rhode-island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,kent,"Kent, Rhode Island, US",169,0,0.0,0.0
 2020-01-22,us,rhode-island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,bristol,"Bristol, Rhode Island, US",0,0,0.0,0.0
 2020-01-23,us,rhode-island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,bristol,"Bristol, Rhode Island, US",0,0,0.0,0.0
 2020-01-24,us,rhode-island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,bristol,"Bristol, Rhode Island, US",0,0,0.0,0.0
@@ -497,6 +502,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,rhode-island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,bristol,"Bristol, Rhode Island, US",39,2,0.0,0.0
 2020-04-12,us,rhode-island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,bristol,"Bristol, Rhode Island, US",39,0,0.0,0.0
 2020-04-13,us,rhode-island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,bristol,"Bristol, Rhode Island, US",39,0,0.0,0.0
+2020-04-14,us,rhode-island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,bristol,"Bristol, Rhode Island, US",39,0,0.0,0.0
 2020-01-22,us,rhode-island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,providence,"Providence, Rhode Island, US",0,0,0.0,0.0
 2020-01-23,us,rhode-island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,providence,"Providence, Rhode Island, US",0,0,0.0,0.0
 2020-01-24,us,rhode-island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,providence,"Providence, Rhode Island, US",0,0,0.0,0.0
@@ -580,3 +586,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,rhode-island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,providence,"Providence, Rhode Island, US",1278,323,3.0,0.0
 2020-04-12,us,rhode-island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,providence,"Providence, Rhode Island, US",1278,0,3.0,0.0
 2020-04-13,us,rhode-island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,providence,"Providence, Rhode Island, US",1278,0,3.0,0.0
+2020-04-14,us,rhode-island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,providence,"Providence, Rhode Island, US",1278,0,3.0,0.0

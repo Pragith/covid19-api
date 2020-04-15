@@ -82,3 +82,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-11,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",0,-32,19.0,1.0
 2020-04-12,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",1,1,20.0,1.0
 2020-04-13,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",1,0,20.0,0.0
+2020-04-14,us,new-hampshire,0.0,0.0,84090033,US,USA,840,90033.0,unassigned,"Unassigned, New Hampshire, US",1,0,24.0,4.0
