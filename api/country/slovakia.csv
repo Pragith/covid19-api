@@ -83,3 +83,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-12,slovakia,,48.669,19.699,742,2,23.0,14,0,0.0
 2020-04-13,slovakia,,48.669,19.699,769,2,107.0,27,0,84.0
 2020-04-14,slovakia,,48.669,19.699,835,2,113.0,66,0,6.0
+2020-04-15,slovakia,,48.669,19.699,863,6,151.0,28,4,38.0

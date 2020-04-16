@@ -83,3 +83,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-12,tanzania,,-6.369,34.8888,32,3,5.0,0,0,0.0
 2020-04-13,tanzania,,-6.369,34.8888,49,3,7.0,17,0,2.0
 2020-04-14,tanzania,,-6.369,34.8888,53,3,7.0,4,0,0.0
+2020-04-15,tanzania,,-6.369,34.8888,88,4,11.0,35,1,4.0

@@ -83,3 +83,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-12,australia,south-australia,-34.9285,138.6007,429,0,4,1,179.0,0.0
 2020-04-13,australia,south-australia,-34.9285,138.6007,429,0,4,0,179.0,0.0
 2020-04-14,australia,south-australia,-34.9285,138.6007,433,4,4,0,240.0,61.0
+2020-04-15,australia,south-australia,-34.9285,138.6007,433,0,4,0,240.0,0.0

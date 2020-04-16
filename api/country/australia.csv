@@ -671,3 +671,11 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-14,australia,tasmania,-41.4545,145.9707,165,6,53.0,21,1,5.0
 2020-04-14,australia,victoria,-37.8136,144.9631,1291,14,1118.0,10,0,192.0
 2020-04-14,australia,western-australia,-31.9505,115.8605,527,6,251.0,10,0,35.0
+2020-04-15,australia,australian-capital-territory,-35.4735,149.0124,103,3,72.0,0,1,0.0
+2020-04-15,australia,new-south-wales,-33.8688,151.2093,2886,25,4.0,16,0,0.0
+2020-04-15,australia,northern-territory,-12.4634,130.8456,28,0,6.0,0,0,0.0
+2020-04-15,australia,queensland,-28.0167,153.4,999,5,442.0,1,0,0.0
+2020-04-15,australia,south-australia,-34.9285,138.6007,433,4,240.0,0,0,0.0
+2020-04-15,australia,tasmania,-41.4545,145.9707,165,6,53.0,0,0,0.0
+2020-04-15,australia,victoria,-37.8136,144.9631,1299,14,1118.0,8,0,0.0
+2020-04-15,australia,western-australia,-31.9505,115.8605,527,6,251.0,0,0,0.0

@@ -83,3 +83,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-12,china,jilin,43.6661,126.1923,99,1,1,0,96.0,0.0
 2020-04-13,china,jilin,43.6661,126.1923,100,1,1,0,96.0,0.0
 2020-04-14,china,jilin,43.6661,126.1923,100,0,1,0,96.0,0.0
+2020-04-15,china,jilin,43.6661,126.1923,102,2,1,0,96.0,0.0

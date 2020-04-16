@@ -83,3 +83,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-12,eswatini,,-26.5225,31.4659,14,0,7.0,2,0,0.0
 2020-04-13,eswatini,,-26.5225,31.4659,15,0,7.0,1,0,0.0
 2020-04-14,eswatini,,-26.5225,31.4659,15,0,8.0,0,0,1.0
+2020-04-15,eswatini,,-26.5225,31.4659,15,0,8.0,0,0,0.0

@@ -83,3 +83,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-12,taiwan,,23.7,121.0,388,6,109.0,3,0,10.0
 2020-04-13,taiwan,,23.7,121.0,393,6,109.0,5,0,0.0
 2020-04-14,taiwan,,23.7,121.0,393,6,124.0,0,0,15.0
+2020-04-15,taiwan,,23.7,121.0,395,6,124.0,2,0,0.0

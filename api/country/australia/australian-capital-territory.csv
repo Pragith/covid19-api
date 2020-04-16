@@ -83,3 +83,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-12,australia,australian-capital-territory,-35.4735,149.0124,103,0,2,0,59.0,0.0
 2020-04-13,australia,australian-capital-territory,-35.4735,149.0124,102,-1,2,0,59.0,0.0
 2020-04-14,australia,australian-capital-territory,-35.4735,149.0124,103,1,2,0,72.0,13.0
+2020-04-15,australia,australian-capital-territory,-35.4735,149.0124,103,0,3,1,72.0,0.0
