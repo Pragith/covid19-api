@@ -84,3 +84,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,north-carolina,35.70394416,-79.25541492,84037037.0,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",69,6,0.0,0.0
 2020-04-14,us,north-carolina,35.70394416,-79.25541492,84037037.0,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",75,6,0.0,0.0
 2020-04-15,us,north-carolina,35.70394416,-79.25541492,84037037.0,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",81,6,1.0,1.0
+2020-04-16,us,north-carolina,35.70394416,-79.25541492,84037037.0,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",81,0,1.0,0.0

@@ -84,3 +84,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,north-carolina,36.25669272,-77.6556109,84037083.0,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",22,1,0.0,0.0
 2020-04-14,us,north-carolina,36.25669272,-77.6556109,84037083.0,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",25,3,1.0,1.0
 2020-04-15,us,north-carolina,36.25669272,-77.6556109,84037083.0,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",30,5,1.0,0.0
+2020-04-16,us,north-carolina,36.25669272,-77.6556109,84037083.0,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",30,0,1.0,0.0

@@ -84,3 +84,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,tennessee,35.17670231,-85.16652245,84047065.0,US,USA,840,47065.0,hamilton,"Hamilton, Tennessee, US",109,2,10.0,0.0
 2020-04-14,us,tennessee,35.17670231,-85.16652245,84047065.0,US,USA,840,47065.0,hamilton,"Hamilton, Tennessee, US",110,1,11.0,1.0
 2020-04-15,us,tennessee,35.17670231,-85.16652245,84047065.0,US,USA,840,47065.0,hamilton,"Hamilton, Tennessee, US",110,0,11.0,0.0
+2020-04-16,us,tennessee,35.17670231,-85.16652245,84047065.0,US,USA,840,47065.0,hamilton,"Hamilton, Tennessee, US",109,-1,11.0,0.0

@@ -84,3 +84,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",66,1,0.0,0.0
 2020-04-14,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",67,1,1.0,1.0
 2020-04-15,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",68,1,2.0,1.0
+2020-04-16,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",71,3,2.0,0.0

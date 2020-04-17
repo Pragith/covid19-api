@@ -84,3 +84,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,tennessee,35.38433717,-85.72142731,84047061.0,US,USA,840,47061.0,grundy,"Grundy, Tennessee, US",23,0,0.0,0.0
 2020-04-14,us,tennessee,35.38433717,-85.72142731,84047061.0,US,USA,840,47061.0,grundy,"Grundy, Tennessee, US",23,0,1.0,1.0
 2020-04-15,us,tennessee,35.38433717,-85.72142731,84047061.0,US,USA,840,47061.0,grundy,"Grundy, Tennessee, US",23,0,1.0,0.0
+2020-04-16,us,tennessee,35.38433717,-85.72142731,84047061.0,US,USA,840,47061.0,grundy,"Grundy, Tennessee, US",24,1,1.0,0.0

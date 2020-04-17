@@ -84,3 +84,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,wisconsin,43.42574087,-89.94966132,84055111.0,US,USA,840,55111.0,sauk,"Sauk, Wisconsin, US",26,0,2.0,0.0
 2020-04-14,us,wisconsin,43.42574087,-89.94966132,84055111.0,US,USA,840,55111.0,sauk,"Sauk, Wisconsin, US",28,2,4.0,2.0
 2020-04-15,us,wisconsin,43.42574087,-89.94966132,84055111.0,US,USA,840,55111.0,sauk,"Sauk, Wisconsin, US",31,3,4.0,0.0
+2020-04-16,us,wisconsin,43.42574087,-89.94966132,84055111.0,US,USA,840,55111.0,sauk,"Sauk, Wisconsin, US",31,0,3.0,-1.0

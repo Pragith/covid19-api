@@ -84,3 +84,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,georgia,32.79248718,-81.96040187,84013165.0,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",10,1,1.0,0.0
 2020-04-14,us,georgia,32.79248718,-81.96040187,84013165.0,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",11,1,1.0,0.0
 2020-04-15,us,georgia,32.79248718,-81.96040187,84013165.0,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",12,1,1.0,0.0
+2020-04-16,us,georgia,32.79248718,-81.96040187,84013165.0,US,USA,840,13165.0,jenkins,"Jenkins, Georgia, US",12,0,1.0,0.0

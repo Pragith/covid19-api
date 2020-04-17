@@ -84,6 +84,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,northern-mariana-islands,0.0,0.0,,US,USA,840,,unassigned,"Unassigned, Northern Mariana Islands, US",5,0,1.0,0.0
 2020-04-14,us,northern-mariana-islands,0.0,0.0,,US,USA,840,,unassigned,"Unassigned, Northern Mariana Islands, US",5,0,1.0,0.0
 2020-04-15,us,northern-mariana-islands,0.0,0.0,,US,USA,840,,unassigned,"Unassigned, Northern Mariana Islands, US",7,2,1.0,0.0
+2020-04-16,us,northern-mariana-islands,0.0,0.0,,US,USA,840,,unassigned,"Unassigned, Northern Mariana Islands, US",7,0,1.0,0.0
 2020-01-22,us,northern-mariana-islands,15.0979,145.6739,580.0,MP,MNP,580,69.0,,"Northern Mariana Islands, US",0,0,0.0,0.0
 2020-01-23,us,northern-mariana-islands,15.0979,145.6739,580.0,MP,MNP,580,69.0,,"Northern Mariana Islands, US",0,0,0.0,0.0
 2020-01-24,us,northern-mariana-islands,15.0979,145.6739,580.0,MP,MNP,580,69.0,,"Northern Mariana Islands, US",0,0,0.0,0.0
@@ -169,3 +170,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,northern-mariana-islands,15.0979,145.6739,580.0,MP,MNP,580,69.0,,"Northern Mariana Islands, US",6,0,1.0,0.0
 2020-04-14,us,northern-mariana-islands,15.0979,145.6739,580.0,MP,MNP,580,69.0,,"Northern Mariana Islands, US",6,0,1.0,0.0
 2020-04-15,us,northern-mariana-islands,15.0979,145.6739,580.0,MP,MNP,580,69.0,,"Northern Mariana Islands, US",6,0,1.0,0.0
+2020-04-16,us,northern-mariana-islands,15.0979,145.6739,580.0,MP,MNP,580,69.0,,"Northern Mariana Islands, US",6,0,1.0,0.0

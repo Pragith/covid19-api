@@ -69,8 +69,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-03-29,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",53,10,2.0,0.0
 2020-03-30,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",69,16,2.0,0.0
 2020-03-31,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",99,30,2.0,0.0
-2020-04-01,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",99,0,2.0,0.0
-2020-04-02,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",163,64,0.0,-2.0
+2020-04-01,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",109,10,2.0,0.0
+2020-04-02,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",163,54,0.0,-2.0
 2020-04-03,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",163,0,2.0,2.0
 2020-04-04,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",194,31,2.0,0.0
 2020-04-05,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",231,37,2.0,0.0
@@ -84,3 +84,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",385,18,2.0,0.0
 2020-04-14,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",271,-114,0.0,-2.0
 2020-04-15,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",458,187,2.0,2.0
+2020-04-16,us,new-hampshire,42.91537785,-71.7200253,84033011.0,US,USA,840,33011.0,hillsborough,"Hillsborough, New Hampshire, US",458,0,2.0,0.0

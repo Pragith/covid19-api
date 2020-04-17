@@ -84,3 +84,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,kentucky,38.94384345,-84.37875208,84021037.0,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",47,0,3.0,0.0
 2020-04-14,us,kentucky,38.94384345,-84.37875208,84021037.0,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",45,-2,3.0,0.0
 2020-04-15,us,kentucky,38.94384345,-84.37875208,84021037.0,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",47,2,3.0,0.0
+2020-04-16,us,kentucky,38.94384345,-84.37875208,84021037.0,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",53,6,5.0,2.0

@@ -84,3 +84,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-13,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",27,1,0.0,0.0
 2020-04-14,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",29,2,0.0,0.0
 2020-04-15,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",29,0,0.0,0.0
+2020-04-16,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",32,3,1.0,1.0
