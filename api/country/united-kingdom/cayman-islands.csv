@@ -84,3 +84,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-13,united-kingdom,cayman-islands,19.3133,-81.2546,53,0,1,0,6.0,0.0
 2020-04-14,united-kingdom,cayman-islands,19.3133,-81.2546,54,1,1,0,6.0,0.0
 2020-04-15,united-kingdom,cayman-islands,19.3133,-81.2546,54,0,1,0,6.0,0.0
+2020-04-16,united-kingdom,cayman-islands,19.3133,-81.2546,60,6,1,0,6.0,0.0

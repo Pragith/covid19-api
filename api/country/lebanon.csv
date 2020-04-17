@@ -84,3 +84,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-13,lebanon,,33.8547,35.8623,632,20,80.0,2,0,0.0
 2020-04-14,lebanon,,33.8547,35.8623,641,21,80.0,9,1,0.0
 2020-04-15,lebanon,,33.8547,35.8623,658,21,85.0,17,0,5.0
+2020-04-16,lebanon,,33.8547,35.8623,663,21,86.0,5,0,1.0

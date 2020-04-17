@@ -84,3 +84,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-13,new-zealand,,-40.9006,174.886,1349,5,546.0,19,1,75.0
 2020-04-14,new-zealand,,-40.9006,174.886,1366,9,628.0,17,4,82.0
 2020-04-15,new-zealand,,-40.9006,174.886,1386,9,728.0,20,0,100.0
+2020-04-16,new-zealand,,-40.9006,174.886,1401,9,770.0,15,0,42.0

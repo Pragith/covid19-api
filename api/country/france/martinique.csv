@@ -84,3 +84,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-13,france,martinique,14.6415,-61.0242,157,2,6,0,50.0,0.0
 2020-04-14,france,martinique,14.6415,-61.0242,157,0,6,0,50.0,0.0
 2020-04-15,france,martinique,14.6415,-61.0242,158,1,8,2,73.0,23.0
+2020-04-16,france,martinique,14.6415,-61.0242,158,0,8,0,73.0,0.0
