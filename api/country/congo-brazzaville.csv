@@ -85,3 +85,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-14,congo-brazzaville,,-4.0383,21.7587,60,5,5.0,0,0,0.0
 2020-04-15,congo-brazzaville,,-4.0383,21.7587,117,5,11.0,57,0,6.0
 2020-04-16,congo-brazzaville,,-4.0383,21.7587,117,5,11.0,0,0,0.0
+2020-04-17,congo-brazzaville,,-4.0383,21.7587,143,6,11.0,26,1,0.0

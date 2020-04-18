@@ -945,3 +945,14 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-16,france,saint-barthelemy,17.9,-62.8333,6,0,4.0,0,0,0.0
 2020-04-16,france,saint-pierre-and-miquelon,46.8852,-56.3159,1,0,0.0,0,0,0.0
 2020-04-16,france,st-martin,18.0708,-63.0501,35,2,13.0,0,0,0.0
+2020-04-17,france,,46.2276,2.2137,147969,18681,34420.0,2009,761,1608.0
+2020-04-17,france,french-guiana,3.9339,-53.1258,96,0,61.0,10,0,10.0
+2020-04-17,france,french-polynesia,-17.6797,149.4068,55,0,0.0,0,0,0.0
+2020-04-17,france,guadeloupe,16.25,-61.5833,145,8,67.0,0,0,0.0
+2020-04-17,france,martinique,14.6415,-61.0242,158,8,73.0,0,0,0.0
+2020-04-17,france,mayotte,-12.8275,45.1662,245,4,117.0,12,1,48.0
+2020-04-17,france,new-caledonia,-20.9043,165.618,18,0,14.0,0,0,13.0
+2020-04-17,france,reunion,-21.1351,55.2471,402,0,237.0,8,0,0.0
+2020-04-17,france,saint-barthelemy,17.9,-62.8333,6,0,4.0,0,0,0.0
+2020-04-17,france,saint-pierre-and-miquelon,46.8852,-56.3159,1,0,0.0,0,0,0.0
+2020-04-17,france,st-martin,18.0708,-63.0501,35,2,13.0,0,0,0.0

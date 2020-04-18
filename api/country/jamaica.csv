@@ -85,3 +85,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-14,jamaica,,18.1096,-77.2975,73,4,19.0,0,0,0.0
 2020-04-15,jamaica,,18.1096,-77.2975,125,5,21.0,52,1,2.0
 2020-04-16,jamaica,,18.1096,-77.2975,143,5,21.0,18,0,0.0
+2020-04-17,jamaica,,18.1096,-77.2975,143,5,25.0,0,0,4.0

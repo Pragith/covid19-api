@@ -85,3 +85,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-14,bangladesh,,23.685,90.3563,1012,46,42.0,209,7,0.0
 2020-04-15,bangladesh,,23.685,90.3563,1231,50,49.0,219,4,7.0
 2020-04-16,bangladesh,,23.685,90.3563,1572,60,49.0,341,10,0.0
+2020-04-17,bangladesh,,23.685,90.3563,1838,75,58.0,266,15,9.0
