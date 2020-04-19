@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,texas,31.99045053,-97.13423143,84048217,US,USA,840,48217.0,hill,"Hill, Texas, US",8,0,0,0
 2020-04-16,us,texas,31.99045053,-97.13423143,84048217,US,USA,840,48217.0,hill,"Hill, Texas, US",9,1,1,1
 2020-04-17,us,texas,31.99045053,-97.13423143,84048217,US,USA,840,48217.0,hill,"Hill, Texas, US",10,1,1,0
+2020-04-18,us,texas,31.99045053,-97.13423143,84048217,US,USA,840,48217.0,hill,"Hill, Texas, US",10,0,1,0

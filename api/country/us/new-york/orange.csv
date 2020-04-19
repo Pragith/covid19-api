@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-york,41.40337468,-74.30240757,84036071,US,USA,840,36071.0,orange,"Orange, New York, US",5830,0,178,0
 2020-04-16,us,new-york,41.40337468,-74.30240757,84036071,US,USA,840,36071.0,orange,"Orange, New York, US",6266,436,204,26
 2020-04-17,us,new-york,41.40337468,-74.30240757,84036071,US,USA,840,36071.0,orange,"Orange, New York, US",6514,248,204,0
+2020-04-18,us,new-york,41.40337468,-74.30240757,84036071,US,USA,840,36071.0,orange,"Orange, New York, US",6514,0,211,7

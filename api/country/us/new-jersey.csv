@@ -86,6 +86,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,0.0,0.0,84080034,US,USA,840,80034.0,out-of-nj,"Out of NJ, New Jersey, US",0,0,0,0
 2020-04-16,us,new-jersey,0.0,0.0,84080034,US,USA,840,80034.0,out-of-nj,"Out of NJ, New Jersey, US",0,0,0,0
 2020-04-17,us,new-jersey,0.0,0.0,84080034,US,USA,840,80034.0,out-of-nj,"Out of NJ, New Jersey, US",0,0,0,0
+2020-04-18,us,new-jersey,0.0,0.0,84080034,US,USA,840,80034.0,out-of-nj,"Out of NJ, New Jersey, US",0,0,0,0
 2020-01-22,us,new-jersey,0.0,0.0,84090034,US,USA,840,90034.0,unassigned,"Unassigned, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,0.0,0.0,84090034,US,USA,840,90034.0,unassigned,"Unassigned, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,0.0,0.0,84090034,US,USA,840,90034.0,unassigned,"Unassigned, New Jersey, US",0,0,0,0
@@ -173,6 +174,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,0.0,0.0,84090034,US,USA,840,90034.0,unassigned,"Unassigned, New Jersey, US",1189,-513,2,0
 2020-04-16,us,new-jersey,0.0,0.0,84090034,US,USA,840,90034.0,unassigned,"Unassigned, New Jersey, US",1048,-141,3,1
 2020-04-17,us,new-jersey,0.0,0.0,84090034,US,USA,840,90034.0,unassigned,"Unassigned, New Jersey, US",719,-329,3,0
+2020-04-18,us,new-jersey,0.0,0.0,84090034,US,USA,840,90034.0,unassigned,"Unassigned, New Jersey, US",748,29,2,-1
 2020-01-22,us,new-jersey,39.15008829,-74.80170244,84034009,US,USA,840,34009.0,cape-may,"Cape May, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,39.15008829,-74.80170244,84034009,US,USA,840,34009.0,cape-may,"Cape May, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,39.15008829,-74.80170244,84034009,US,USA,840,34009.0,cape-may,"Cape May, New Jersey, US",0,0,0,0
@@ -260,6 +262,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,39.15008829,-74.80170244,84034009,US,USA,840,34009.0,cape-may,"Cape May, New Jersey, US",178,9,10,0
 2020-04-16,us,new-jersey,39.15008829,-74.80170244,84034009,US,USA,840,34009.0,cape-may,"Cape May, New Jersey, US",186,8,10,0
 2020-04-17,us,new-jersey,39.15008829,-74.80170244,84034009,US,USA,840,34009.0,cape-may,"Cape May, New Jersey, US",189,3,14,4
+2020-04-18,us,new-jersey,39.15008829,-74.80170244,84034009,US,USA,840,34009.0,cape-may,"Cape May, New Jersey, US",199,10,14,0
 2020-01-22,us,new-jersey,39.37199394,-75.10712559,84034011,US,USA,840,34011.0,cumberland,"Cumberland, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,39.37199394,-75.10712559,84034011,US,USA,840,34011.0,cumberland,"Cumberland, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,39.37199394,-75.10712559,84034011,US,USA,840,34011.0,cumberland,"Cumberland, New Jersey, US",0,0,0,0
@@ -347,6 +350,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,39.37199394,-75.10712559,84034011,US,USA,840,34011.0,cumberland,"Cumberland, New Jersey, US",210,9,3,0
 2020-04-16,us,new-jersey,39.37199394,-75.10712559,84034011,US,USA,840,34011.0,cumberland,"Cumberland, New Jersey, US",223,13,3,0
 2020-04-17,us,new-jersey,39.37199394,-75.10712559,84034011,US,USA,840,34011.0,cumberland,"Cumberland, New Jersey, US",263,40,3,0
+2020-04-18,us,new-jersey,39.37199394,-75.10712559,84034011,US,USA,840,34011.0,cumberland,"Cumberland, New Jersey, US",272,9,4,1
 2020-01-22,us,new-jersey,39.47538693,-74.65848483,84034001,US,USA,840,34001.0,atlantic,"Atlantic, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,39.47538693,-74.65848483,84034001,US,USA,840,34001.0,atlantic,"Atlantic, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,39.47538693,-74.65848483,84034001,US,USA,840,34001.0,atlantic,"Atlantic, New Jersey, US",0,0,0,0
@@ -434,6 +438,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,39.47538693,-74.65848483,84034001,US,USA,840,34001.0,atlantic,"Atlantic, New Jersey, US",322,38,13,2
 2020-04-16,us,new-jersey,39.47538693,-74.65848483,84034001,US,USA,840,34001.0,atlantic,"Atlantic, New Jersey, US",344,22,13,0
 2020-04-17,us,new-jersey,39.47538693,-74.65848483,84034001,US,USA,840,34001.0,atlantic,"Atlantic, New Jersey, US",370,26,17,4
+2020-04-18,us,new-jersey,39.47538693,-74.65848483,84034001,US,USA,840,34001.0,atlantic,"Atlantic, New Jersey, US",382,12,19,2
 2020-01-22,us,new-jersey,39.58719656,-75.34696629999998,84034033,US,USA,840,34033.0,salem,"Salem, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,39.58719656,-75.34696629999998,84034033,US,USA,840,34033.0,salem,"Salem, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,39.58719656,-75.34696629999998,84034033,US,USA,840,34033.0,salem,"Salem, New Jersey, US",0,0,0,0
@@ -521,6 +526,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,39.58719656,-75.34696629999998,84034033,US,USA,840,34033.0,salem,"Salem, New Jersey, US",84,11,4,0
 2020-04-16,us,new-jersey,39.58719656,-75.34696629999998,84034033,US,USA,840,34033.0,salem,"Salem, New Jersey, US",95,11,4,0
 2020-04-17,us,new-jersey,39.58719656,-75.34696629999998,84034033,US,USA,840,34033.0,salem,"Salem, New Jersey, US",102,7,4,0
+2020-04-18,us,new-jersey,39.58719656,-75.34696629999998,84034033,US,USA,840,34033.0,salem,"Salem, New Jersey, US",105,3,4,0
 2020-01-22,us,new-jersey,39.71581067,-75.13995546,84034015,US,USA,840,34015.0,gloucester,"Gloucester, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,39.71581067,-75.13995546,84034015,US,USA,840,34015.0,gloucester,"Gloucester, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,39.71581067,-75.13995546,84034015,US,USA,840,34015.0,gloucester,"Gloucester, New Jersey, US",0,0,0,0
@@ -608,6 +614,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,39.71581067,-75.13995546,84034015,US,USA,840,34015.0,gloucester,"Gloucester, New Jersey, US",602,15,14,3
 2020-04-16,us,new-jersey,39.71581067,-75.13995546,84034015,US,USA,840,34015.0,gloucester,"Gloucester, New Jersey, US",624,22,18,4
 2020-04-17,us,new-jersey,39.71581067,-75.13995546,84034015,US,USA,840,34015.0,gloucester,"Gloucester, New Jersey, US",664,40,22,4
+2020-04-18,us,new-jersey,39.71581067,-75.13995546,84034015,US,USA,840,34015.0,gloucester,"Gloucester, New Jersey, US",683,19,23,1
 2020-01-22,us,new-jersey,39.80343818,-74.96388753,84034007,US,USA,840,34007.0,camden,"Camden, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,39.80343818,-74.96388753,84034007,US,USA,840,34007.0,camden,"Camden, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,39.80343818,-74.96388753,84034007,US,USA,840,34007.0,camden,"Camden, New Jersey, US",0,0,0,0
@@ -695,6 +702,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,39.80343818,-74.96388753,84034007,US,USA,840,34007.0,camden,"Camden, New Jersey, US",1587,110,49,8
 2020-04-16,us,new-jersey,39.80343818,-74.96388753,84034007,US,USA,840,34007.0,camden,"Camden, New Jersey, US",1734,147,60,11
 2020-04-17,us,new-jersey,39.80343818,-74.96388753,84034007,US,USA,840,34007.0,camden,"Camden, New Jersey, US",1807,73,64,4
+2020-04-18,us,new-jersey,39.80343818,-74.96388753,84034007,US,USA,840,34007.0,camden,"Camden, New Jersey, US",1918,111,73,9
 2020-01-22,us,new-jersey,39.87681124,-74.66927768,84034005,US,USA,840,34005.0,burlington,"Burlington, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,39.87681124,-74.66927768,84034005,US,USA,840,34005.0,burlington,"Burlington, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,39.87681124,-74.66927768,84034005,US,USA,840,34005.0,burlington,"Burlington, New Jersey, US",0,0,0,0
@@ -782,6 +790,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,39.87681124,-74.66927768,84034005,US,USA,840,34005.0,burlington,"Burlington, New Jersey, US",1261,54,45,17
 2020-04-16,us,new-jersey,39.87681124,-74.66927768,84034005,US,USA,840,34005.0,burlington,"Burlington, New Jersey, US",1326,65,52,7
 2020-04-17,us,new-jersey,39.87681124,-74.66927768,84034005,US,USA,840,34005.0,burlington,"Burlington, New Jersey, US",1366,40,54,2
+2020-04-18,us,new-jersey,39.87681124,-74.66927768,84034005,US,USA,840,34005.0,burlington,"Burlington, New Jersey, US",1456,90,57,3
 2020-01-22,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",0,0,0,0
@@ -869,6 +878,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",4016,183,166,17
 2020-04-16,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",4272,256,185,19
 2020-04-17,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",4424,152,201,16
+2020-04-18,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",4548,124,212,11
 2020-01-22,us,new-jersey,40.26549699,-74.22240686,84034025,US,USA,840,34025.0,monmouth,"Monmouth, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.26549699,-74.22240686,84034025,US,USA,840,34025.0,monmouth,"Monmouth, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.26549699,-74.22240686,84034025,US,USA,840,34025.0,monmouth,"Monmouth, New Jersey, US",0,0,0,0
@@ -956,6 +966,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.26549699,-74.22240686,84034025,US,USA,840,34025.0,monmouth,"Monmouth, New Jersey, US",4122,119,167,22
 2020-04-16,us,new-jersey,40.26549699,-74.22240686,84034025,US,USA,840,34025.0,monmouth,"Monmouth, New Jersey, US",4299,177,190,23
 2020-04-17,us,new-jersey,40.26549699,-74.22240686,84034025,US,USA,840,34025.0,monmouth,"Monmouth, New Jersey, US",4414,115,206,16
+2020-04-18,us,new-jersey,40.26549699,-74.22240686,84034025,US,USA,840,34025.0,monmouth,"Monmouth, New Jersey, US",4528,114,221,15
 2020-01-22,us,new-jersey,40.28047017,-74.70479631,84034021,US,USA,840,34021.0,mercer,"Mercer, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.28047017,-74.70479631,84034021,US,USA,840,34021.0,mercer,"Mercer, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.28047017,-74.70479631,84034021,US,USA,840,34021.0,mercer,"Mercer, New Jersey, US",0,0,0,0
@@ -1043,6 +1054,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.28047017,-74.70479631,84034021,US,USA,840,34021.0,mercer,"Mercer, New Jersey, US",1856,125,76,5
 2020-04-16,us,new-jersey,40.28047017,-74.70479631,84034021,US,USA,840,34021.0,mercer,"Mercer, New Jersey, US",2037,181,87,11
 2020-04-17,us,new-jersey,40.28047017,-74.70479631,84034021,US,USA,840,34021.0,mercer,"Mercer, New Jersey, US",2123,86,101,14
+2020-04-18,us,new-jersey,40.28047017,-74.70479631,84034021,US,USA,840,34021.0,mercer,"Mercer, New Jersey, US",2215,92,110,9
 2020-01-22,us,new-jersey,40.43629879,-74.41426991,84034023,US,USA,840,34023.0,middlesex,"Middlesex, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.43629879,-74.41426991,84034023,US,USA,840,34023.0,middlesex,"Middlesex, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.43629879,-74.41426991,84034023,US,USA,840,34023.0,middlesex,"Middlesex, New Jersey, US",0,0,0,0
@@ -1130,6 +1142,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.43629879,-74.41426991,84034023,US,USA,840,34023.0,middlesex,"Middlesex, New Jersey, US",6576,263,248,32
 2020-04-16,us,new-jersey,40.43629879,-74.41426991,84034023,US,USA,840,34023.0,middlesex,"Middlesex, New Jersey, US",6994,418,278,30
 2020-04-17,us,new-jersey,40.43629879,-74.41426991,84034023,US,USA,840,34023.0,middlesex,"Middlesex, New Jersey, US",7308,314,309,31
+2020-04-18,us,new-jersey,40.43629879,-74.41426991,84034023,US,USA,840,34023.0,middlesex,"Middlesex, New Jersey, US",7624,316,313,4
 2020-01-22,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",0,0,0,0
@@ -1217,6 +1230,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",356,7,14,3
 2020-04-16,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",373,17,15,1
 2020-04-17,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",385,12,16,1
+2020-04-18,us,new-jersey,40.56335249,-74.91284156,84034019,US,USA,840,34019.0,hunterdon,"Hunterdon, New Jersey, US",391,6,17,1
 2020-01-22,us,new-jersey,40.56465737,-74.61683016,84034035,US,USA,840,34035.0,somerset,"Somerset, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.56465737,-74.61683016,84034035,US,USA,840,34035.0,somerset,"Somerset, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.56465737,-74.61683016,84034035,US,USA,840,34035.0,somerset,"Somerset, New Jersey, US",0,0,0,0
@@ -1304,6 +1318,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.56465737,-74.61683016,84034035,US,USA,840,34035.0,somerset,"Somerset, New Jersey, US",2001,90,101,10
 2020-04-16,us,new-jersey,40.56465737,-74.61683016,84034035,US,USA,840,34035.0,somerset,"Somerset, New Jersey, US",2103,102,121,20
 2020-04-17,us,new-jersey,40.56465737,-74.61683016,84034035,US,USA,840,34035.0,somerset,"Somerset, New Jersey, US",2195,92,135,14
+2020-04-18,us,new-jersey,40.56465737,-74.61683016,84034035,US,USA,840,34035.0,somerset,"Somerset, New Jersey, US",2283,88,146,11
 2020-01-22,us,new-jersey,40.65835409,-74.30680092,84034039,US,USA,840,34039.0,union,"Union, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.65835409,-74.30680092,84034039,US,USA,840,34039.0,union,"Union, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.65835409,-74.30680092,84034039,US,USA,840,34039.0,union,"Union, New Jersey, US",0,0,0,0
@@ -1391,6 +1406,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.65835409,-74.30680092,84034039,US,USA,840,34039.0,union,"Union, New Jersey, US",7438,173,269,31
 2020-04-16,us,new-jersey,40.65835409,-74.30680092,84034039,US,USA,840,34039.0,union,"Union, New Jersey, US",7904,466,301,32
 2020-04-17,us,new-jersey,40.65835409,-74.30680092,84034039,US,USA,840,34039.0,union,"Union, New Jersey, US",8429,525,330,29
+2020-04-18,us,new-jersey,40.65835409,-74.30680092,84034039,US,USA,840,34039.0,union,"Union, New Jersey, US",8959,530,356,26
 2020-01-22,us,new-jersey,40.73766234,-74.07515667,84034017,US,USA,840,34017.0,hudson,"Hudson, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.73766234,-74.07515667,84034017,US,USA,840,34017.0,hudson,"Hudson, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.73766234,-74.07515667,84034017,US,USA,840,34017.0,hudson,"Hudson, New Jersey, US",0,0,0,0
@@ -1478,6 +1494,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.73766234,-74.07515667,84034017,US,USA,840,34017.0,hudson,"Hudson, New Jersey, US",8511,269,312,35
 2020-04-16,us,new-jersey,40.73766234,-74.07515667,84034017,US,USA,840,34017.0,hudson,"Hudson, New Jersey, US",9165,654,365,53
 2020-04-17,us,new-jersey,40.73766234,-74.07515667,84034017,US,USA,840,34017.0,hudson,"Hudson, New Jersey, US",9636,471,420,55
+2020-04-18,us,new-jersey,40.73766234,-74.07515667,84034017,US,USA,840,34017.0,hudson,"Hudson, New Jersey, US",9956,320,434,14
 2020-01-22,us,new-jersey,40.78681335,-74.24657979,84034013,US,USA,840,34013.0,essex,"Essex, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.78681335,-74.24657979,84034013,US,USA,840,34013.0,essex,"Essex, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.78681335,-74.24657979,84034013,US,USA,840,34013.0,essex,"Essex, New Jersey, US",0,0,0,0
@@ -1565,6 +1582,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.78681335,-74.24657979,84034013,US,USA,840,34013.0,essex,"Essex, New Jersey, US",8579,367,590,55
 2020-04-16,us,new-jersey,40.78681335,-74.24657979,84034013,US,USA,840,34013.0,essex,"Essex, New Jersey, US",9084,505,642,52
 2020-04-17,us,new-jersey,40.78681335,-74.24657979,84034013,US,USA,840,34013.0,essex,"Essex, New Jersey, US",9672,588,684,42
+2020-04-18,us,new-jersey,40.78681335,-74.24657979,84034013,US,USA,840,34013.0,essex,"Essex, New Jersey, US",9901,229,732,48
 2020-01-22,us,new-jersey,40.85951833,-74.99556527,84034041,US,USA,840,34041.0,warren,"Warren, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.85951833,-74.99556527,84034041,US,USA,840,34041.0,warren,"Warren, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.85951833,-74.99556527,84034041,US,USA,840,34041.0,warren,"Warren, New Jersey, US",0,0,0,0
@@ -1652,6 +1670,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.85951833,-74.99556527,84034041,US,USA,840,34041.0,warren,"Warren, New Jersey, US",468,26,30,5
 2020-04-16,us,new-jersey,40.85951833,-74.99556527,84034041,US,USA,840,34041.0,warren,"Warren, New Jersey, US",501,33,33,3
 2020-04-17,us,new-jersey,40.85951833,-74.99556527,84034041,US,USA,840,34041.0,warren,"Warren, New Jersey, US",521,20,36,3
+2020-04-18,us,new-jersey,40.85951833,-74.99556527,84034041,US,USA,840,34041.0,warren,"Warren, New Jersey, US",543,22,39,3
 2020-01-22,us,new-jersey,40.86095313,-74.54553709999998,84034027,US,USA,840,34027.0,morris,"Morris, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.86095313,-74.54553709999998,84034027,US,USA,840,34027.0,morris,"Morris, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.86095313,-74.54553709999998,84034027,US,USA,840,34027.0,morris,"Morris, New Jersey, US",0,0,0,0
@@ -1739,6 +1758,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.86095313,-74.54553709999998,84034027,US,USA,840,34027.0,morris,"Morris, New Jersey, US",3525,101,212,20
 2020-04-16,us,new-jersey,40.86095313,-74.54553709999998,84034027,US,USA,840,34027.0,morris,"Morris, New Jersey, US",3701,176,216,4
 2020-04-17,us,new-jersey,40.86095313,-74.54553709999998,84034027,US,USA,840,34027.0,morris,"Morris, New Jersey, US",3822,121,232,16
+2020-04-18,us,new-jersey,40.86095313,-74.54553709999998,84034027,US,USA,840,34027.0,morris,"Morris, New Jersey, US",3984,162,255,23
 2020-01-22,us,new-jersey,40.96010917,-74.07164325,84034003,US,USA,840,34003.0,bergen,"Bergen, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,40.96010917,-74.07164325,84034003,US,USA,840,34003.0,bergen,"Bergen, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,40.96010917,-74.07164325,84034003,US,USA,840,34003.0,bergen,"Bergen, New Jersey, US",0,0,0,0
@@ -1826,6 +1846,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,40.96010917,-74.07164325,84034003,US,USA,840,34003.0,bergen,"Bergen, New Jersey, US",10848,422,608,58
 2020-04-16,us,new-jersey,40.96010917,-74.07164325,84034003,US,USA,840,34003.0,bergen,"Bergen, New Jersey, US",11409,561,668,60
 2020-04-17,us,new-jersey,40.96010917,-74.07164325,84034003,US,USA,840,34003.0,bergen,"Bergen, New Jersey, US",11863,454,714,46
+2020-04-18,us,new-jersey,40.96010917,-74.07164325,84034003,US,USA,840,34003.0,bergen,"Bergen, New Jersey, US",12163,300,741,27
 2020-01-22,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",0,0,0,0
@@ -1913,6 +1934,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",6750,312,182,26
 2020-04-16,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",7317,567,211,29
 2020-04-17,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",7604,287,221,10
+2020-04-18,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",7936,332,243,22
 2020-01-22,us,new-jersey,41.13891592,-74.69118243,84034037,US,USA,840,34037.0,sussex,"Sussex, New Jersey, US",0,0,0,0
 2020-01-23,us,new-jersey,41.13891592,-74.69118243,84034037,US,USA,840,34037.0,sussex,"Sussex, New Jersey, US",0,0,0,0
 2020-01-24,us,new-jersey,41.13891592,-74.69118243,84034037,US,USA,840,34037.0,sussex,"Sussex, New Jersey, US",0,0,0,0
@@ -2000,3 +2022,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-jersey,41.13891592,-74.69118243,84034037,US,USA,840,34037.0,sussex,"Sussex, New Jersey, US",551,16,41,2
 2020-04-16,us,new-jersey,41.13891592,-74.69118243,84034037,US,USA,840,34037.0,sussex,"Sussex, New Jersey, US",578,27,43,2
 2020-04-17,us,new-jersey,41.13891592,-74.69118243,84034037,US,USA,840,34037.0,sussex,"Sussex, New Jersey, US",591,13,54,11
+2020-04-18,us,new-jersey,41.13891592,-74.69118243,84034037,US,USA,840,34037.0,sussex,"Sussex, New Jersey, US",626,35,55,1

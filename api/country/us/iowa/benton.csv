@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,iowa,42.08011739,-92.06463573,84019011,US,USA,840,19011.0,benton,"Benton, Iowa, US",19,-1,1,0
 2020-04-16,us,iowa,42.08011739,-92.06463573,84019011,US,USA,840,19011.0,benton,"Benton, Iowa, US",20,1,1,0
 2020-04-17,us,iowa,42.08011739,-92.06463573,84019011,US,USA,840,19011.0,benton,"Benton, Iowa, US",21,1,1,0
+2020-04-18,us,iowa,42.08011739,-92.06463573,84019011,US,USA,840,19011.0,benton,"Benton, Iowa, US",21,0,1,0

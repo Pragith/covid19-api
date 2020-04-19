@@ -86,6 +86,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,0.0,0.0,84080028,US,USA,840,80028.0,out-of-ms,"Out of MS, Mississippi, US",0,0,0,0
 2020-04-16,us,mississippi,0.0,0.0,84080028,US,USA,840,80028.0,out-of-ms,"Out of MS, Mississippi, US",0,0,0,0
 2020-04-17,us,mississippi,0.0,0.0,84080028,US,USA,840,80028.0,out-of-ms,"Out of MS, Mississippi, US",0,0,0,0
+2020-04-18,us,mississippi,0.0,0.0,84080028,US,USA,840,80028.0,out-of-ms,"Out of MS, Mississippi, US",0,0,0,0
 2020-01-22,us,mississippi,0.0,0.0,84090028,US,USA,840,90028.0,unassigned,"Unassigned, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,0.0,0.0,84090028,US,USA,840,90028.0,unassigned,"Unassigned, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,0.0,0.0,84090028,US,USA,840,90028.0,unassigned,"Unassigned, Mississippi, US",0,0,0,0
@@ -173,6 +174,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,0.0,0.0,84090028,US,USA,840,90028.0,unassigned,"Unassigned, Mississippi, US",0,0,0,0
 2020-04-16,us,mississippi,0.0,0.0,84090028,US,USA,840,90028.0,unassigned,"Unassigned, Mississippi, US",0,0,0,0
 2020-04-17,us,mississippi,0.0,0.0,84090028,US,USA,840,90028.0,unassigned,"Unassigned, Mississippi, US",0,0,0,0
+2020-04-18,us,mississippi,0.0,0.0,84090028,US,USA,840,90028.0,unassigned,"Unassigned, Mississippi, US",0,0,0,0
 2020-01-22,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",0,0,0,0
@@ -260,6 +262,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",49,3,5,0
 2020-04-16,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",50,1,5,0
 2020-04-17,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",50,0,5,0
+2020-04-18,us,mississippi,30.41830223,-89.48851033,84028045,US,USA,840,28045.0,hancock,"Hancock, Mississippi, US",50,0,5,0
 2020-01-22,us,mississippi,30.51359752,-89.12467576,84028047,US,USA,840,28047.0,harrison,"Harrison, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,30.51359752,-89.12467576,84028047,US,USA,840,28047.0,harrison,"Harrison, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,30.51359752,-89.12467576,84028047,US,USA,840,28047.0,harrison,"Harrison, Mississippi, US",0,0,0,0
@@ -347,6 +350,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,30.51359752,-89.12467576,84028047,US,USA,840,28047.0,harrison,"Harrison, Mississippi, US",129,8,5,0
 2020-04-16,us,mississippi,30.51359752,-89.12467576,84028047,US,USA,840,28047.0,harrison,"Harrison, Mississippi, US",134,5,5,0
 2020-04-17,us,mississippi,30.51359752,-89.12467576,84028047,US,USA,840,28047.0,harrison,"Harrison, Mississippi, US",137,3,5,0
+2020-04-18,us,mississippi,30.51359752,-89.12467576,84028047,US,USA,840,28047.0,harrison,"Harrison, Mississippi, US",144,7,5,0
 2020-01-22,us,mississippi,30.54020656,-88.64184064,84028059,US,USA,840,28059.0,jackson,"Jackson, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,30.54020656,-88.64184064,84028059,US,USA,840,28059.0,jackson,"Jackson, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,30.54020656,-88.64184064,84028059,US,USA,840,28059.0,jackson,"Jackson, Mississippi, US",0,0,0,0
@@ -434,6 +438,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,30.54020656,-88.64184064,84028059,US,USA,840,28059.0,jackson,"Jackson, Mississippi, US",182,25,5,0
 2020-04-16,us,mississippi,30.54020656,-88.64184064,84028059,US,USA,840,28059.0,jackson,"Jackson, Mississippi, US",189,7,5,0
 2020-04-17,us,mississippi,30.54020656,-88.64184064,84028059,US,USA,840,28059.0,jackson,"Jackson, Mississippi, US",196,7,6,1
+2020-04-18,us,mississippi,30.54020656,-88.64184064,84028059,US,USA,840,28059.0,jackson,"Jackson, Mississippi, US",201,5,6,0
 2020-01-22,us,mississippi,30.77090935,-89.58677275,84028109,US,USA,840,28109.0,pearl-river,"Pearl River, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,30.77090935,-89.58677275,84028109,US,USA,840,28109.0,pearl-river,"Pearl River, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,30.77090935,-89.58677275,84028109,US,USA,840,28109.0,pearl-river,"Pearl River, Mississippi, US",0,0,0,0
@@ -521,6 +526,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,30.77090935,-89.58677275,84028109,US,USA,840,28109.0,pearl-river,"Pearl River, Mississippi, US",102,9,8,0
 2020-04-16,us,mississippi,30.77090935,-89.58677275,84028109,US,USA,840,28109.0,pearl-river,"Pearl River, Mississippi, US",112,10,8,0
 2020-04-17,us,mississippi,30.77090935,-89.58677275,84028109,US,USA,840,28109.0,pearl-river,"Pearl River, Mississippi, US",115,3,8,0
+2020-04-18,us,mississippi,30.77090935,-89.58677275,84028109,US,USA,840,28109.0,pearl-river,"Pearl River, Mississippi, US",119,4,10,2
 2020-01-22,us,mississippi,30.79187949,-89.11547539,84028131,US,USA,840,28131.0,stone,"Stone, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,30.79187949,-89.11547539,84028131,US,USA,840,28131.0,stone,"Stone, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,30.79187949,-89.11547539,84028131,US,USA,840,28131.0,stone,"Stone, Mississippi, US",0,0,0,0
@@ -608,6 +614,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,30.79187949,-89.11547539,84028131,US,USA,840,28131.0,stone,"Stone, Mississippi, US",15,1,0,0
 2020-04-16,us,mississippi,30.79187949,-89.11547539,84028131,US,USA,840,28131.0,stone,"Stone, Mississippi, US",16,1,0,0
 2020-04-17,us,mississippi,30.79187949,-89.11547539,84028131,US,USA,840,28131.0,stone,"Stone, Mississippi, US",17,1,0,0
+2020-04-18,us,mississippi,30.79187949,-89.11547539,84028131,US,USA,840,28131.0,stone,"Stone, Mississippi, US",17,0,0,0
 2020-01-22,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",0,0,0,0
@@ -695,6 +702,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",8,-2,0,0
 2020-04-16,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",8,0,0,0
 2020-04-17,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",9,1,0,0
+2020-04-18,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",10,1,1,1
 2020-01-22,us,mississippi,31.14971548,-90.10446654,84028147,US,USA,840,28147.0,walthall,"Walthall, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.14971548,-90.10446654,84028147,US,USA,840,28147.0,walthall,"Walthall, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.14971548,-90.10446654,84028147,US,USA,840,28147.0,walthall,"Walthall, Mississippi, US",0,0,0,0
@@ -782,6 +790,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.14971548,-90.10446654,84028147,US,USA,840,28147.0,walthall,"Walthall, Mississippi, US",22,0,0,0
 2020-04-16,us,mississippi,31.14971548,-90.10446654,84028147,US,USA,840,28147.0,walthall,"Walthall, Mississippi, US",22,0,0,0
 2020-04-17,us,mississippi,31.14971548,-90.10446654,84028147,US,USA,840,28147.0,walthall,"Walthall, Mississippi, US",22,0,0,0
+2020-04-18,us,mississippi,31.14971548,-90.10446654,84028147,US,USA,840,28147.0,walthall,"Walthall, Mississippi, US",23,1,0,0
 2020-01-22,us,mississippi,31.16078225,-91.31018819,84028157,US,USA,840,28157.0,wilkinson,"Wilkinson, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.16078225,-91.31018819,84028157,US,USA,840,28157.0,wilkinson,"Wilkinson, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.16078225,-91.31018819,84028157,US,USA,840,28157.0,wilkinson,"Wilkinson, Mississippi, US",0,0,0,0
@@ -869,6 +878,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.16078225,-91.31018819,84028157,US,USA,840,28157.0,wilkinson,"Wilkinson, Mississippi, US",51,2,3,0
 2020-04-16,us,mississippi,31.16078225,-91.31018819,84028157,US,USA,840,28157.0,wilkinson,"Wilkinson, Mississippi, US",53,2,3,0
 2020-04-17,us,mississippi,31.16078225,-91.31018819,84028157,US,USA,840,28157.0,wilkinson,"Wilkinson, Mississippi, US",53,0,3,0
+2020-04-18,us,mississippi,31.16078225,-91.31018819,84028157,US,USA,840,28157.0,wilkinson,"Wilkinson, Mississippi, US",55,2,4,1
 2020-01-22,us,mississippi,31.17161885,-88.99281835,84028111,US,USA,840,28111.0,perry,"Perry, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.17161885,-88.99281835,84028111,US,USA,840,28111.0,perry,"Perry, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.17161885,-88.99281835,84028111,US,USA,840,28111.0,perry,"Perry, Mississippi, US",0,0,0,0
@@ -956,6 +966,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.17161885,-88.99281835,84028111,US,USA,840,28111.0,perry,"Perry, Mississippi, US",20,0,1,0
 2020-04-16,us,mississippi,31.17161885,-88.99281835,84028111,US,USA,840,28111.0,perry,"Perry, Mississippi, US",20,0,1,0
 2020-04-17,us,mississippi,31.17161885,-88.99281835,84028111,US,USA,840,28111.0,perry,"Perry, Mississippi, US",21,1,1,0
+2020-04-18,us,mississippi,31.17161885,-88.99281835,84028111,US,USA,840,28111.0,perry,"Perry, Mississippi, US",22,1,1,0
 2020-01-22,us,mississippi,31.17467303,-90.80501621,84028005,US,USA,840,28005.0,amite,"Amite, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.17467303,-90.80501621,84028005,US,USA,840,28005.0,amite,"Amite, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.17467303,-90.80501621,84028005,US,USA,840,28005.0,amite,"Amite, Mississippi, US",0,0,0,0
@@ -1043,6 +1054,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.17467303,-90.80501621,84028005,US,USA,840,28005.0,amite,"Amite, Mississippi, US",15,1,1,0
 2020-04-16,us,mississippi,31.17467303,-90.80501621,84028005,US,USA,840,28005.0,amite,"Amite, Mississippi, US",16,1,1,0
 2020-04-17,us,mississippi,31.17467303,-90.80501621,84028005,US,USA,840,28005.0,amite,"Amite, Mississippi, US",17,1,1,0
+2020-04-18,us,mississippi,31.17467303,-90.80501621,84028005,US,USA,840,28005.0,amite,"Amite, Mississippi, US",16,-1,1,0
 2020-01-22,us,mississippi,31.17507789,-90.40392572,84028113,US,USA,840,28113.0,pike,"Pike, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.17507789,-90.40392572,84028113,US,USA,840,28113.0,pike,"Pike, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.17507789,-90.40392572,84028113,US,USA,840,28113.0,pike,"Pike, Mississippi, US",0,0,0,0
@@ -1130,6 +1142,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.17507789,-90.40392572,84028113,US,USA,840,28113.0,pike,"Pike, Mississippi, US",72,10,2,1
 2020-04-16,us,mississippi,31.17507789,-90.40392572,84028113,US,USA,840,28113.0,pike,"Pike, Mississippi, US",82,10,2,0
 2020-04-17,us,mississippi,31.17507789,-90.40392572,84028113,US,USA,840,28113.0,pike,"Pike, Mississippi, US",93,11,2,0
+2020-04-18,us,mississippi,31.17507789,-90.40392572,84028113,US,USA,840,28113.0,pike,"Pike, Mississippi, US",97,4,2,0
 2020-01-22,us,mississippi,31.18961454,-89.25832496,84028035,US,USA,840,28035.0,forrest,"Forrest, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.18961454,-89.25832496,84028035,US,USA,840,28035.0,forrest,"Forrest, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.18961454,-89.25832496,84028035,US,USA,840,28035.0,forrest,"Forrest, Mississippi, US",0,0,0,0
@@ -1217,6 +1230,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.18961454,-89.25832496,84028035,US,USA,840,28035.0,forrest,"Forrest, Mississippi, US",122,8,2,0
 2020-04-16,us,mississippi,31.18961454,-89.25832496,84028035,US,USA,840,28035.0,forrest,"Forrest, Mississippi, US",134,12,2,0
 2020-04-17,us,mississippi,31.18961454,-89.25832496,84028035,US,USA,840,28035.0,forrest,"Forrest, Mississippi, US",137,3,2,0
+2020-04-18,us,mississippi,31.18961454,-89.25832496,84028035,US,USA,840,28035.0,forrest,"Forrest, Mississippi, US",137,0,3,1
 2020-01-22,us,mississippi,31.20572971,-89.5077704,84028073,US,USA,840,28073.0,lamar,"Lamar, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.20572971,-89.5077704,84028073,US,USA,840,28073.0,lamar,"Lamar, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.20572971,-89.5077704,84028073,US,USA,840,28073.0,lamar,"Lamar, Mississippi, US",0,0,0,0
@@ -1304,6 +1318,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.20572971,-89.5077704,84028073,US,USA,840,28073.0,lamar,"Lamar, Mississippi, US",48,2,1,0
 2020-04-16,us,mississippi,31.20572971,-89.5077704,84028073,US,USA,840,28073.0,lamar,"Lamar, Mississippi, US",56,8,1,0
 2020-04-17,us,mississippi,31.20572971,-89.5077704,84028073,US,USA,840,28073.0,lamar,"Lamar, Mississippi, US",57,1,1,0
+2020-04-18,us,mississippi,31.20572971,-89.5077704,84028073,US,USA,840,28073.0,lamar,"Lamar, Mississippi, US",59,2,1,0
 2020-01-22,us,mississippi,31.21444233,-88.63922281,84028041,US,USA,840,28041.0,greene,"Greene, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.21444233,-88.63922281,84028041,US,USA,840,28041.0,greene,"Greene, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.21444233,-88.63922281,84028041,US,USA,840,28041.0,greene,"Greene, Mississippi, US",0,0,0,0
@@ -1391,6 +1406,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.21444233,-88.63922281,84028041,US,USA,840,28041.0,greene,"Greene, Mississippi, US",3,1,0,0
 2020-04-16,us,mississippi,31.21444233,-88.63922281,84028041,US,USA,840,28041.0,greene,"Greene, Mississippi, US",3,0,0,0
 2020-04-17,us,mississippi,31.21444233,-88.63922281,84028041,US,USA,840,28041.0,greene,"Greene, Mississippi, US",3,0,0,0
+2020-04-18,us,mississippi,31.21444233,-88.63922281,84028041,US,USA,840,28041.0,greene,"Greene, Mississippi, US",3,0,0,0
 2020-01-22,us,mississippi,31.23132643,-89.8209217,84028091,US,USA,840,28091.0,marion,"Marion, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.23132643,-89.8209217,84028091,US,USA,840,28091.0,marion,"Marion, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.23132643,-89.8209217,84028091,US,USA,840,28091.0,marion,"Marion, Mississippi, US",0,0,0,0
@@ -1478,6 +1494,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.23132643,-89.8209217,84028091,US,USA,840,28091.0,marion,"Marion, Mississippi, US",34,9,0,0
 2020-04-16,us,mississippi,31.23132643,-89.8209217,84028091,US,USA,840,28091.0,marion,"Marion, Mississippi, US",35,1,0,0
 2020-04-17,us,mississippi,31.23132643,-89.8209217,84028091,US,USA,840,28091.0,marion,"Marion, Mississippi, US",38,3,0,0
+2020-04-18,us,mississippi,31.23132643,-89.8209217,84028091,US,USA,840,28091.0,marion,"Marion, Mississippi, US",39,1,0,0
 2020-01-22,us,mississippi,31.47669768,-91.35326037,84028001,US,USA,840,28001.0,adams,"Adams, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.47669768,-91.35326037,84028001,US,USA,840,28001.0,adams,"Adams, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.47669768,-91.35326037,84028001,US,USA,840,28001.0,adams,"Adams, Mississippi, US",0,0,0,0
@@ -1565,6 +1582,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.47669768,-91.35326037,84028001,US,USA,840,28001.0,adams,"Adams, Mississippi, US",64,2,3,2
 2020-04-16,us,mississippi,31.47669768,-91.35326037,84028001,US,USA,840,28001.0,adams,"Adams, Mississippi, US",70,6,4,1
 2020-04-17,us,mississippi,31.47669768,-91.35326037,84028001,US,USA,840,28001.0,adams,"Adams, Mississippi, US",73,3,5,1
+2020-04-18,us,mississippi,31.47669768,-91.35326037,84028001,US,USA,840,28001.0,adams,"Adams, Mississippi, US",73,0,6,1
 2020-01-22,us,mississippi,31.47786634,-90.89672989,84028037,US,USA,840,28037.0,franklin,"Franklin, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.47786634,-90.89672989,84028037,US,USA,840,28037.0,franklin,"Franklin, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.47786634,-90.89672989,84028037,US,USA,840,28037.0,franklin,"Franklin, Mississippi, US",0,0,0,0
@@ -1652,6 +1670,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.47786634,-90.89672989,84028037,US,USA,840,28037.0,franklin,"Franklin, Mississippi, US",10,0,0,0
 2020-04-16,us,mississippi,31.47786634,-90.89672989,84028037,US,USA,840,28037.0,franklin,"Franklin, Mississippi, US",14,4,0,0
 2020-04-17,us,mississippi,31.47786634,-90.89672989,84028037,US,USA,840,28037.0,franklin,"Franklin, Mississippi, US",14,0,0,0
+2020-04-18,us,mississippi,31.47786634,-90.89672989,84028037,US,USA,840,28037.0,franklin,"Franklin, Mississippi, US",15,1,0,0
 2020-01-22,us,mississippi,31.53288662,-90.45391915,84028085,US,USA,840,28085.0,lincoln,"Lincoln, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.53288662,-90.45391915,84028085,US,USA,840,28085.0,lincoln,"Lincoln, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.53288662,-90.45391915,84028085,US,USA,840,28085.0,lincoln,"Lincoln, Mississippi, US",0,0,0,0
@@ -1739,6 +1758,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.53288662,-90.45391915,84028085,US,USA,840,28085.0,lincoln,"Lincoln, Mississippi, US",81,25,4,0
 2020-04-16,us,mississippi,31.53288662,-90.45391915,84028085,US,USA,840,28085.0,lincoln,"Lincoln, Mississippi, US",86,5,6,2
 2020-04-17,us,mississippi,31.53288662,-90.45391915,84028085,US,USA,840,28085.0,lincoln,"Lincoln, Mississippi, US",95,9,6,0
+2020-04-18,us,mississippi,31.53288662,-90.45391915,84028085,US,USA,840,28085.0,lincoln,"Lincoln, Mississippi, US",102,7,6,0
 2020-01-22,us,mississippi,31.55147224,-90.10841127,84028077,US,USA,840,28077.0,lawrence,"Lawrence, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.55147224,-90.10841127,84028077,US,USA,840,28077.0,lawrence,"Lawrence, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.55147224,-90.10841127,84028077,US,USA,840,28077.0,lawrence,"Lawrence, Mississippi, US",0,0,0,0
@@ -1826,6 +1846,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.55147224,-90.10841127,84028077,US,USA,840,28077.0,lawrence,"Lawrence, Mississippi, US",7,0,0,0
 2020-04-16,us,mississippi,31.55147224,-90.10841127,84028077,US,USA,840,28077.0,lawrence,"Lawrence, Mississippi, US",10,3,0,0
 2020-04-17,us,mississippi,31.55147224,-90.10841127,84028077,US,USA,840,28077.0,lawrence,"Lawrence, Mississippi, US",12,2,0,0
+2020-04-18,us,mississippi,31.55147224,-90.10841127,84028077,US,USA,840,28077.0,lawrence,"Lawrence, Mississippi, US",14,2,0,0
 2020-01-22,us,mississippi,31.56884708,-89.82670990000003,84028065,US,USA,840,28065.0,jefferson-davis,"Jefferson Davis, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.56884708,-89.82670990000003,84028065,US,USA,840,28065.0,jefferson-davis,"Jefferson Davis, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.56884708,-89.82670990000003,84028065,US,USA,840,28065.0,jefferson-davis,"Jefferson Davis, Mississippi, US",0,0,0,0
@@ -1913,6 +1934,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.56884708,-89.82670990000003,84028065,US,USA,840,28065.0,jefferson-davis,"Jefferson Davis, Mississippi, US",7,1,1,0
 2020-04-16,us,mississippi,31.56884708,-89.82670990000003,84028065,US,USA,840,28065.0,jefferson-davis,"Jefferson Davis, Mississippi, US",7,0,1,0
 2020-04-17,us,mississippi,31.56884708,-89.82670990000003,84028065,US,USA,840,28065.0,jefferson-davis,"Jefferson Davis, Mississippi, US",8,1,1,0
+2020-04-18,us,mississippi,31.56884708,-89.82670990000003,84028065,US,USA,840,28065.0,jefferson-davis,"Jefferson Davis, Mississippi, US",8,0,1,0
 2020-01-22,us,mississippi,31.62257767,-89.16896899999998,84028067,US,USA,840,28067.0,jones,"Jones, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.62257767,-89.16896899999998,84028067,US,USA,840,28067.0,jones,"Jones, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.62257767,-89.16896899999998,84028067,US,USA,840,28067.0,jones,"Jones, Mississippi, US",0,0,0,0
@@ -2000,6 +2022,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.62257767,-89.16896899999998,84028067,US,USA,840,28067.0,jones,"Jones, Mississippi, US",42,2,0,0
 2020-04-16,us,mississippi,31.62257767,-89.16896899999998,84028067,US,USA,840,28067.0,jones,"Jones, Mississippi, US",48,6,0,0
 2020-04-17,us,mississippi,31.62257767,-89.16896899999998,84028067,US,USA,840,28067.0,jones,"Jones, Mississippi, US",56,8,0,0
+2020-04-18,us,mississippi,31.62257767,-89.16896899999998,84028067,US,USA,840,28067.0,jones,"Jones, Mississippi, US",63,7,0,0
 2020-01-22,us,mississippi,31.63225413,-89.55389939,84028031,US,USA,840,28031.0,covington,"Covington, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.63225413,-89.55389939,84028031,US,USA,840,28031.0,covington,"Covington, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.63225413,-89.55389939,84028031,US,USA,840,28031.0,covington,"Covington, Mississippi, US",0,0,0,0
@@ -2087,6 +2110,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.63225413,-89.55389939,84028031,US,USA,840,28031.0,covington,"Covington, Mississippi, US",19,4,0,0
 2020-04-16,us,mississippi,31.63225413,-89.55389939,84028031,US,USA,840,28031.0,covington,"Covington, Mississippi, US",19,0,0,0
 2020-04-17,us,mississippi,31.63225413,-89.55389939,84028031,US,USA,840,28031.0,covington,"Covington, Mississippi, US",22,3,0,0
+2020-04-18,us,mississippi,31.63225413,-89.55389939,84028031,US,USA,840,28031.0,covington,"Covington, Mississippi, US",28,6,0,0
 2020-01-22,us,mississippi,31.64135687,-88.69573913,84028153,US,USA,840,28153.0,wayne,"Wayne, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.64135687,-88.69573913,84028153,US,USA,840,28153.0,wayne,"Wayne, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.64135687,-88.69573913,84028153,US,USA,840,28153.0,wayne,"Wayne, Mississippi, US",0,0,0,0
@@ -2174,6 +2198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.64135687,-88.69573913,84028153,US,USA,840,28153.0,wayne,"Wayne, Mississippi, US",9,0,0,0
 2020-04-16,us,mississippi,31.64135687,-88.69573913,84028153,US,USA,840,28153.0,wayne,"Wayne, Mississippi, US",10,1,0,0
 2020-04-17,us,mississippi,31.64135687,-88.69573913,84028153,US,USA,840,28153.0,wayne,"Wayne, Mississippi, US",10,0,0,0
+2020-04-18,us,mississippi,31.64135687,-88.69573913,84028153,US,USA,840,28153.0,wayne,"Wayne, Mississippi, US",10,0,0,0
 2020-01-22,us,mississippi,31.73397872,-91.03764977,84028063,US,USA,840,28063.0,jefferson,"Jefferson, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.73397872,-91.03764977,84028063,US,USA,840,28063.0,jefferson,"Jefferson, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.73397872,-91.03764977,84028063,US,USA,840,28063.0,jefferson,"Jefferson, Mississippi, US",0,0,0,0
@@ -2261,6 +2286,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.73397872,-91.03764977,84028063,US,USA,840,28063.0,jefferson,"Jefferson, Mississippi, US",4,0,0,0
 2020-04-16,us,mississippi,31.73397872,-91.03764977,84028063,US,USA,840,28063.0,jefferson,"Jefferson, Mississippi, US",4,0,0,0
 2020-04-17,us,mississippi,31.73397872,-91.03764977,84028063,US,USA,840,28063.0,jefferson,"Jefferson, Mississippi, US",4,0,0,0
+2020-04-18,us,mississippi,31.73397872,-91.03764977,84028063,US,USA,840,28063.0,jefferson,"Jefferson, Mississippi, US",4,0,0,0
 2020-01-22,us,mississippi,31.86977774,-90.44565118,84028029,US,USA,840,28029.0,copiah,"Copiah, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.86977774,-90.44565118,84028029,US,USA,840,28029.0,copiah,"Copiah, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.86977774,-90.44565118,84028029,US,USA,840,28029.0,copiah,"Copiah, Mississippi, US",0,0,0,0
@@ -2348,6 +2374,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.86977774,-90.44565118,84028029,US,USA,840,28029.0,copiah,"Copiah, Mississippi, US",35,4,0,0
 2020-04-16,us,mississippi,31.86977774,-90.44565118,84028029,US,USA,840,28029.0,copiah,"Copiah, Mississippi, US",39,4,1,1
 2020-04-17,us,mississippi,31.86977774,-90.44565118,84028029,US,USA,840,28029.0,copiah,"Copiah, Mississippi, US",40,1,1,0
+2020-04-18,us,mississippi,31.86977774,-90.44565118,84028029,US,USA,840,28029.0,copiah,"Copiah, Mississippi, US",41,1,1,0
 2020-01-22,us,mississippi,31.91282117,-89.91716179,84028127,US,USA,840,28127.0,simpson,"Simpson, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.91282117,-89.91716179,84028127,US,USA,840,28127.0,simpson,"Simpson, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.91282117,-89.91716179,84028127,US,USA,840,28127.0,simpson,"Simpson, Mississippi, US",0,0,0,0
@@ -2435,6 +2462,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.91282117,-89.91716179,84028127,US,USA,840,28127.0,simpson,"Simpson, Mississippi, US",12,5,0,0
 2020-04-16,us,mississippi,31.91282117,-89.91716179,84028127,US,USA,840,28127.0,simpson,"Simpson, Mississippi, US",13,1,0,0
 2020-04-17,us,mississippi,31.91282117,-89.91716179,84028127,US,USA,840,28127.0,simpson,"Simpson, Mississippi, US",14,1,0,0
+2020-04-18,us,mississippi,31.91282117,-89.91716179,84028127,US,USA,840,28127.0,simpson,"Simpson, Mississippi, US",14,0,0,0
 2020-01-22,us,mississippi,31.97061673,-90.90702196,84028021,US,USA,840,28021.0,claiborne,"Claiborne, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,31.97061673,-90.90702196,84028021,US,USA,840,28021.0,claiborne,"Claiborne, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,31.97061673,-90.90702196,84028021,US,USA,840,28021.0,claiborne,"Claiborne, Mississippi, US",0,0,0,0
@@ -2522,6 +2550,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,31.97061673,-90.90702196,84028021,US,USA,840,28021.0,claiborne,"Claiborne, Mississippi, US",8,2,0,0
 2020-04-16,us,mississippi,31.97061673,-90.90702196,84028021,US,USA,840,28021.0,claiborne,"Claiborne, Mississippi, US",8,0,0,0
 2020-04-17,us,mississippi,31.97061673,-90.90702196,84028021,US,USA,840,28021.0,claiborne,"Claiborne, Mississippi, US",8,0,0,0
+2020-04-18,us,mississippi,31.97061673,-90.90702196,84028021,US,USA,840,28021.0,claiborne,"Claiborne, Mississippi, US",8,0,0,0
 2020-01-22,us,mississippi,32.01744532,-89.50644846,84028129,US,USA,840,28129.0,smith,"Smith, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.01744532,-89.50644846,84028129,US,USA,840,28129.0,smith,"Smith, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.01744532,-89.50644846,84028129,US,USA,840,28129.0,smith,"Smith, Mississippi, US",0,0,0,0
@@ -2609,6 +2638,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.01744532,-89.50644846,84028129,US,USA,840,28129.0,smith,"Smith, Mississippi, US",36,6,1,0
 2020-04-16,us,mississippi,32.01744532,-89.50644846,84028129,US,USA,840,28129.0,smith,"Smith, Mississippi, US",37,1,1,0
 2020-04-17,us,mississippi,32.01744532,-89.50644846,84028129,US,USA,840,28129.0,smith,"Smith, Mississippi, US",38,1,1,0
+2020-04-18,us,mississippi,32.01744532,-89.50644846,84028129,US,USA,840,28129.0,smith,"Smith, Mississippi, US",39,1,1,0
 2020-01-22,us,mississippi,32.01922104,-89.11786866,84028061,US,USA,840,28061.0,jasper,"Jasper, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.01922104,-89.11786866,84028061,US,USA,840,28061.0,jasper,"Jasper, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.01922104,-89.11786866,84028061,US,USA,840,28061.0,jasper,"Jasper, Mississippi, US",0,0,0,0
@@ -2696,6 +2726,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.01922104,-89.11786866,84028061,US,USA,840,28061.0,jasper,"Jasper, Mississippi, US",15,1,0,0
 2020-04-16,us,mississippi,32.01922104,-89.11786866,84028061,US,USA,840,28061.0,jasper,"Jasper, Mississippi, US",19,4,0,0
 2020-04-17,us,mississippi,32.01922104,-89.11786866,84028061,US,USA,840,28061.0,jasper,"Jasper, Mississippi, US",20,1,1,1
+2020-04-18,us,mississippi,32.01922104,-89.11786866,84028061,US,USA,840,28061.0,jasper,"Jasper, Mississippi, US",22,2,1,0
 2020-01-22,us,mississippi,32.04158545,-88.68896219999998,84028023,US,USA,840,28023.0,clarke,"Clarke, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.04158545,-88.68896219999998,84028023,US,USA,840,28023.0,clarke,"Clarke, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.04158545,-88.68896219999998,84028023,US,USA,840,28023.0,clarke,"Clarke, Mississippi, US",0,0,0,0
@@ -2783,6 +2814,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.04158545,-88.68896219999998,84028023,US,USA,840,28023.0,clarke,"Clarke, Mississippi, US",19,4,1,0
 2020-04-16,us,mississippi,32.04158545,-88.68896219999998,84028023,US,USA,840,28023.0,clarke,"Clarke, Mississippi, US",20,1,1,0
 2020-04-17,us,mississippi,32.04158545,-88.68896219999998,84028023,US,USA,840,28023.0,clarke,"Clarke, Mississippi, US",21,1,1,0
+2020-04-18,us,mississippi,32.04158545,-88.68896219999998,84028023,US,USA,840,28023.0,clarke,"Clarke, Mississippi, US",22,1,2,1
 2020-01-22,us,mississippi,32.26469147,-89.94537876,84028121,US,USA,840,28121.0,rankin,"Rankin, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.26469147,-89.94537876,84028121,US,USA,840,28121.0,rankin,"Rankin, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.26469147,-89.94537876,84028121,US,USA,840,28121.0,rankin,"Rankin, Mississippi, US",0,0,0,0
@@ -2870,6 +2902,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.26469147,-89.94537876,84028121,US,USA,840,28121.0,rankin,"Rankin, Mississippi, US",113,8,2,0
 2020-04-16,us,mississippi,32.26469147,-89.94537876,84028121,US,USA,840,28121.0,rankin,"Rankin, Mississippi, US",122,9,2,0
 2020-04-17,us,mississippi,32.26469147,-89.94537876,84028121,US,USA,840,28121.0,rankin,"Rankin, Mississippi, US",128,6,2,0
+2020-04-18,us,mississippi,32.26469147,-89.94537876,84028121,US,USA,840,28121.0,rankin,"Rankin, Mississippi, US",130,2,2,0
 2020-01-22,us,mississippi,32.2656285,-90.44435448,84028049,US,USA,840,28049.0,hinds,"Hinds, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.2656285,-90.44435448,84028049,US,USA,840,28049.0,hinds,"Hinds, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.2656285,-90.44435448,84028049,US,USA,840,28049.0,hinds,"Hinds, Mississippi, US",0,0,0,0
@@ -2957,6 +2990,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.2656285,-90.44435448,84028049,US,USA,840,28049.0,hinds,"Hinds, Mississippi, US",280,17,4,2
 2020-04-16,us,mississippi,32.2656285,-90.44435448,84028049,US,USA,840,28049.0,hinds,"Hinds, Mississippi, US",301,21,4,0
 2020-04-17,us,mississippi,32.2656285,-90.44435448,84028049,US,USA,840,28049.0,hinds,"Hinds, Mississippi, US",314,13,5,1
+2020-04-18,us,mississippi,32.2656285,-90.44435448,84028049,US,USA,840,28049.0,hinds,"Hinds, Mississippi, US",325,11,5,0
 2020-01-22,us,mississippi,32.35810271,-90.83352619,84028149,US,USA,840,28149.0,warren,"Warren, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.35810271,-90.83352619,84028149,US,USA,840,28149.0,warren,"Warren, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.35810271,-90.83352619,84028149,US,USA,840,28149.0,warren,"Warren, Mississippi, US",0,0,0,0
@@ -3044,6 +3078,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.35810271,-90.83352619,84028149,US,USA,840,28149.0,warren,"Warren, Mississippi, US",15,1,1,1
 2020-04-16,us,mississippi,32.35810271,-90.83352619,84028149,US,USA,840,28149.0,warren,"Warren, Mississippi, US",16,1,1,0
 2020-04-17,us,mississippi,32.35810271,-90.83352619,84028149,US,USA,840,28149.0,warren,"Warren, Mississippi, US",17,1,1,0
+2020-04-18,us,mississippi,32.35810271,-90.83352619,84028149,US,USA,840,28149.0,warren,"Warren, Mississippi, US",18,1,1,0
 2020-01-22,us,mississippi,32.40021118,-89.11843336,84028101,US,USA,840,28101.0,newton,"Newton, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.40021118,-89.11843336,84028101,US,USA,840,28101.0,newton,"Newton, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.40021118,-89.11843336,84028101,US,USA,840,28101.0,newton,"Newton, Mississippi, US",0,0,0,0
@@ -3131,6 +3166,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.40021118,-89.11843336,84028101,US,USA,840,28101.0,newton,"Newton, Mississippi, US",14,0,0,0
 2020-04-16,us,mississippi,32.40021118,-89.11843336,84028101,US,USA,840,28101.0,newton,"Newton, Mississippi, US",16,2,0,0
 2020-04-17,us,mississippi,32.40021118,-89.11843336,84028101,US,USA,840,28101.0,newton,"Newton, Mississippi, US",19,3,0,0
+2020-04-18,us,mississippi,32.40021118,-89.11843336,84028101,US,USA,840,28101.0,newton,"Newton, Mississippi, US",21,2,0,0
 2020-01-22,us,mississippi,32.40419769,-88.66229662,84028075,US,USA,840,28075.0,lauderdale,"Lauderdale, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.40419769,-88.66229662,84028075,US,USA,840,28075.0,lauderdale,"Lauderdale, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.40419769,-88.66229662,84028075,US,USA,840,28075.0,lauderdale,"Lauderdale, Mississippi, US",0,0,0,0
@@ -3218,6 +3254,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.40419769,-88.66229662,84028075,US,USA,840,28075.0,lauderdale,"Lauderdale, Mississippi, US",165,9,12,1
 2020-04-16,us,mississippi,32.40419769,-88.66229662,84028075,US,USA,840,28075.0,lauderdale,"Lauderdale, Mississippi, US",174,9,12,0
 2020-04-17,us,mississippi,32.40419769,-88.66229662,84028075,US,USA,840,28075.0,lauderdale,"Lauderdale, Mississippi, US",181,7,13,1
+2020-04-18,us,mississippi,32.40419769,-88.66229662,84028075,US,USA,840,28075.0,lauderdale,"Lauderdale, Mississippi, US",190,9,14,1
 2020-01-22,us,mississippi,32.406704100000006,-89.53789439,84028123,US,USA,840,28123.0,scott,"Scott, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.406704100000006,-89.53789439,84028123,US,USA,840,28123.0,scott,"Scott, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.406704100000006,-89.53789439,84028123,US,USA,840,28123.0,scott,"Scott, Mississippi, US",0,0,0,0
@@ -3305,6 +3342,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.406704100000006,-89.53789439,84028123,US,USA,840,28123.0,scott,"Scott, Mississippi, US",79,17,0,0
 2020-04-16,us,mississippi,32.406704100000006,-89.53789439,84028123,US,USA,840,28123.0,scott,"Scott, Mississippi, US",100,21,0,0
 2020-04-17,us,mississippi,32.406704100000006,-89.53789439,84028123,US,USA,840,28123.0,scott,"Scott, Mississippi, US",96,-4,0,0
+2020-04-18,us,mississippi,32.406704100000006,-89.53789439,84028123,US,USA,840,28123.0,scott,"Scott, Mississippi, US",106,10,0,0
 2020-01-22,us,mississippi,32.63389156,-90.03513564,84028089,US,USA,840,28089.0,madison,"Madison, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.63389156,-90.03513564,84028089,US,USA,840,28089.0,madison,"Madison, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.63389156,-90.03513564,84028089,US,USA,840,28089.0,madison,"Madison, Mississippi, US",0,0,0,0
@@ -3392,6 +3430,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.63389156,-90.03513564,84028089,US,USA,840,28089.0,madison,"Madison, Mississippi, US",112,4,3,0
 2020-04-16,us,mississippi,32.63389156,-90.03513564,84028089,US,USA,840,28089.0,madison,"Madison, Mississippi, US",116,4,3,0
 2020-04-17,us,mississippi,32.63389156,-90.03513564,84028089,US,USA,840,28089.0,madison,"Madison, Mississippi, US",123,7,3,0
+2020-04-18,us,mississippi,32.63389156,-90.03513564,84028089,US,USA,840,28089.0,madison,"Madison, Mississippi, US",127,4,3,0
 2020-01-22,us,mississippi,32.72531359,-90.97392828,84028055,US,USA,840,28055.0,issaquena,"Issaquena, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.72531359,-90.97392828,84028055,US,USA,840,28055.0,issaquena,"Issaquena, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.72531359,-90.97392828,84028055,US,USA,840,28055.0,issaquena,"Issaquena, Mississippi, US",0,0,0,0
@@ -3479,6 +3518,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.72531359,-90.97392828,84028055,US,USA,840,28055.0,issaquena,"Issaquena, Mississippi, US",0,0,0,0
 2020-04-16,us,mississippi,32.72531359,-90.97392828,84028055,US,USA,840,28055.0,issaquena,"Issaquena, Mississippi, US",0,0,0,0
 2020-04-17,us,mississippi,32.72531359,-90.97392828,84028055,US,USA,840,28055.0,issaquena,"Issaquena, Mississippi, US",0,0,0,0
+2020-04-18,us,mississippi,32.72531359,-90.97392828,84028055,US,USA,840,28055.0,issaquena,"Issaquena, Mississippi, US",0,0,0,0
 2020-01-22,us,mississippi,32.75339664,-89.11726492,84028099,US,USA,840,28099.0,neshoba,"Neshoba, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.75339664,-89.11726492,84028099,US,USA,840,28099.0,neshoba,"Neshoba, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.75339664,-89.11726492,84028099,US,USA,840,28099.0,neshoba,"Neshoba, Mississippi, US",0,0,0,0
@@ -3566,6 +3606,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.75339664,-89.11726492,84028099,US,USA,840,28099.0,neshoba,"Neshoba, Mississippi, US",35,2,1,0
 2020-04-16,us,mississippi,32.75339664,-89.11726492,84028099,US,USA,840,28099.0,neshoba,"Neshoba, Mississippi, US",39,4,1,0
 2020-04-17,us,mississippi,32.75339664,-89.11726492,84028099,US,USA,840,28099.0,neshoba,"Neshoba, Mississippi, US",46,7,1,0
+2020-04-18,us,mississippi,32.75339664,-89.11726492,84028099,US,USA,840,28099.0,neshoba,"Neshoba, Mississippi, US",55,9,1,0
 2020-01-22,us,mississippi,32.7536828,-89.52402044,84028079,US,USA,840,28079.0,leake,"Leake, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.7536828,-89.52402044,84028079,US,USA,840,28079.0,leake,"Leake, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.7536828,-89.52402044,84028079,US,USA,840,28079.0,leake,"Leake, Mississippi, US",0,0,0,0
@@ -3653,6 +3694,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.7536828,-89.52402044,84028079,US,USA,840,28079.0,leake,"Leake, Mississippi, US",40,8,1,0
 2020-04-16,us,mississippi,32.7536828,-89.52402044,84028079,US,USA,840,28079.0,leake,"Leake, Mississippi, US",50,10,1,0
 2020-04-17,us,mississippi,32.7536828,-89.52402044,84028079,US,USA,840,28079.0,leake,"Leake, Mississippi, US",60,10,1,0
+2020-04-18,us,mississippi,32.7536828,-89.52402044,84028079,US,USA,840,28079.0,leake,"Leake, Mississippi, US",64,4,1,0
 2020-01-22,us,mississippi,32.75462946,-88.64105766,84028069,US,USA,840,28069.0,kemper,"Kemper, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.75462946,-88.64105766,84028069,US,USA,840,28069.0,kemper,"Kemper, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.75462946,-88.64105766,84028069,US,USA,840,28069.0,kemper,"Kemper, Mississippi, US",0,0,0,0
@@ -3740,6 +3782,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.75462946,-88.64105766,84028069,US,USA,840,28069.0,kemper,"Kemper, Mississippi, US",15,1,0,0
 2020-04-16,us,mississippi,32.75462946,-88.64105766,84028069,US,USA,840,28069.0,kemper,"Kemper, Mississippi, US",16,1,0,0
 2020-04-17,us,mississippi,32.75462946,-88.64105766,84028069,US,USA,840,28069.0,kemper,"Kemper, Mississippi, US",16,0,0,0
+2020-04-18,us,mississippi,32.75462946,-88.64105766,84028069,US,USA,840,28069.0,kemper,"Kemper, Mississippi, US",17,1,0,0
 2020-01-22,us,mississippi,32.77890365,-90.39656148,84028163,US,USA,840,28163.0,yazoo,"Yazoo, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.77890365,-90.39656148,84028163,US,USA,840,28163.0,yazoo,"Yazoo, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.77890365,-90.39656148,84028163,US,USA,840,28163.0,yazoo,"Yazoo, Mississippi, US",0,0,0,0
@@ -3827,6 +3870,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.77890365,-90.39656148,84028163,US,USA,840,28163.0,yazoo,"Yazoo, Mississippi, US",65,1,1,0
 2020-04-16,us,mississippi,32.77890365,-90.39656148,84028163,US,USA,840,28163.0,yazoo,"Yazoo, Mississippi, US",72,7,1,0
 2020-04-17,us,mississippi,32.77890365,-90.39656148,84028163,US,USA,840,28163.0,yazoo,"Yazoo, Mississippi, US",81,9,1,0
+2020-04-18,us,mississippi,32.77890365,-90.39656148,84028163,US,USA,840,28163.0,yazoo,"Yazoo, Mississippi, US",85,4,1,0
 2020-01-22,us,mississippi,32.88149103,-90.8159538,84028125,US,USA,840,28125.0,sharkey,"Sharkey, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,32.88149103,-90.8159538,84028125,US,USA,840,28125.0,sharkey,"Sharkey, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,32.88149103,-90.8159538,84028125,US,USA,840,28125.0,sharkey,"Sharkey, Mississippi, US",0,0,0,0
@@ -3914,6 +3958,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,32.88149103,-90.8159538,84028125,US,USA,840,28125.0,sharkey,"Sharkey, Mississippi, US",3,0,0,0
 2020-04-16,us,mississippi,32.88149103,-90.8159538,84028125,US,USA,840,28125.0,sharkey,"Sharkey, Mississippi, US",3,0,0,0
 2020-04-17,us,mississippi,32.88149103,-90.8159538,84028125,US,USA,840,28125.0,sharkey,"Sharkey, Mississippi, US",3,0,0,0
+2020-04-18,us,mississippi,32.88149103,-90.8159538,84028125,US,USA,840,28125.0,sharkey,"Sharkey, Mississippi, US",3,0,0,0
 2020-01-22,us,mississippi,33.08658803,-89.57838564,84028007,US,USA,840,28007.0,attala,"Attala, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.08658803,-89.57838564,84028007,US,USA,840,28007.0,attala,"Attala, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.08658803,-89.57838564,84028007,US,USA,840,28007.0,attala,"Attala, Mississippi, US",0,0,0,0
@@ -4001,6 +4046,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.08658803,-89.57838564,84028007,US,USA,840,28007.0,attala,"Attala, Mississippi, US",25,3,0,0
 2020-04-16,us,mississippi,33.08658803,-89.57838564,84028007,US,USA,840,28007.0,attala,"Attala, Mississippi, US",28,3,0,0
 2020-04-17,us,mississippi,33.08658803,-89.57838564,84028007,US,USA,840,28007.0,attala,"Attala, Mississippi, US",31,3,0,0
+2020-04-18,us,mississippi,33.08658803,-89.57838564,84028007,US,USA,840,28007.0,attala,"Attala, Mississippi, US",34,3,0,0
 2020-01-22,us,mississippi,33.08747908,-89.03391385,84028159,US,USA,840,28159.0,winston,"Winston, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.08747908,-89.03391385,84028159,US,USA,840,28159.0,winston,"Winston, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.08747908,-89.03391385,84028159,US,USA,840,28159.0,winston,"Winston, Mississippi, US",0,0,0,0
@@ -4088,6 +4134,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.08747908,-89.03391385,84028159,US,USA,840,28159.0,winston,"Winston, Mississippi, US",22,2,0,0
 2020-04-16,us,mississippi,33.08747908,-89.03391385,84028159,US,USA,840,28159.0,winston,"Winston, Mississippi, US",24,2,0,0
 2020-04-17,us,mississippi,33.08747908,-89.03391385,84028159,US,USA,840,28159.0,winston,"Winston, Mississippi, US",27,3,0,0
+2020-04-18,us,mississippi,33.08747908,-89.03391385,84028159,US,USA,840,28159.0,winston,"Winston, Mississippi, US",29,2,0,0
 2020-01-22,us,mississippi,33.11009499,-88.56949061,84028103,US,USA,840,28103.0,noxubee,"Noxubee, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.11009499,-88.56949061,84028103,US,USA,840,28103.0,noxubee,"Noxubee, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.11009499,-88.56949061,84028103,US,USA,840,28103.0,noxubee,"Noxubee, Mississippi, US",0,0,0,0
@@ -4175,6 +4222,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.11009499,-88.56949061,84028103,US,USA,840,28103.0,noxubee,"Noxubee, Mississippi, US",10,4,0,0
 2020-04-16,us,mississippi,33.11009499,-88.56949061,84028103,US,USA,840,28103.0,noxubee,"Noxubee, Mississippi, US",18,8,0,0
 2020-04-17,us,mississippi,33.11009499,-88.56949061,84028103,US,USA,840,28103.0,noxubee,"Noxubee, Mississippi, US",20,2,0,0
+2020-04-18,us,mississippi,33.11009499,-88.56949061,84028103,US,USA,840,28103.0,noxubee,"Noxubee, Mississippi, US",20,0,0,0
 2020-01-22,us,mississippi,33.12345854,-90.08923538,84028051,US,USA,840,28051.0,holmes,"Holmes, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.12345854,-90.08923538,84028051,US,USA,840,28051.0,holmes,"Holmes, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.12345854,-90.08923538,84028051,US,USA,840,28051.0,holmes,"Holmes, Mississippi, US",0,0,0,0
@@ -4262,6 +4310,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.12345854,-90.08923538,84028051,US,USA,840,28051.0,holmes,"Holmes, Mississippi, US",52,5,3,0
 2020-04-16,us,mississippi,33.12345854,-90.08923538,84028051,US,USA,840,28051.0,holmes,"Holmes, Mississippi, US",53,1,3,0
 2020-04-17,us,mississippi,33.12345854,-90.08923538,84028051,US,USA,840,28051.0,holmes,"Holmes, Mississippi, US",54,1,4,1
+2020-04-18,us,mississippi,33.12345854,-90.08923538,84028051,US,USA,840,28051.0,holmes,"Holmes, Mississippi, US",58,4,4,0
 2020-01-22,us,mississippi,33.12825718,-90.52252707,84028053,US,USA,840,28053.0,humphreys,"Humphreys, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.12825718,-90.52252707,84028053,US,USA,840,28053.0,humphreys,"Humphreys, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.12825718,-90.52252707,84028053,US,USA,840,28053.0,humphreys,"Humphreys, Mississippi, US",0,0,0,0
@@ -4349,6 +4398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.12825718,-90.52252707,84028053,US,USA,840,28053.0,humphreys,"Humphreys, Mississippi, US",12,1,2,1
 2020-04-16,us,mississippi,33.12825718,-90.52252707,84028053,US,USA,840,28053.0,humphreys,"Humphreys, Mississippi, US",12,0,3,1
 2020-04-17,us,mississippi,33.12825718,-90.52252707,84028053,US,USA,840,28053.0,humphreys,"Humphreys, Mississippi, US",12,0,3,0
+2020-04-18,us,mississippi,33.12825718,-90.52252707,84028053,US,USA,840,28053.0,humphreys,"Humphreys, Mississippi, US",12,0,3,0
 2020-01-22,us,mississippi,33.28392041,-90.94196237,84028151,US,USA,840,28151.0,washington,"Washington, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.28392041,-90.94196237,84028151,US,USA,840,28151.0,washington,"Washington, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.28392041,-90.94196237,84028151,US,USA,840,28151.0,washington,"Washington, Mississippi, US",0,0,0,0
@@ -4436,6 +4486,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.28392041,-90.94196237,84028151,US,USA,840,28151.0,washington,"Washington, Mississippi, US",62,5,2,0
 2020-04-16,us,mississippi,33.28392041,-90.94196237,84028151,US,USA,840,28151.0,washington,"Washington, Mississippi, US",67,5,2,0
 2020-04-17,us,mississippi,33.28392041,-90.94196237,84028151,US,USA,840,28151.0,washington,"Washington, Mississippi, US",68,1,2,0
+2020-04-18,us,mississippi,33.28392041,-90.94196237,84028151,US,USA,840,28151.0,washington,"Washington, Mississippi, US",70,2,3,1
 2020-01-22,us,mississippi,33.34598242,-89.24809382,84028019,US,USA,840,28019.0,choctaw,"Choctaw, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.34598242,-89.24809382,84028019,US,USA,840,28019.0,choctaw,"Choctaw, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.34598242,-89.24809382,84028019,US,USA,840,28019.0,choctaw,"Choctaw, Mississippi, US",0,0,0,0
@@ -4523,6 +4574,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.34598242,-89.24809382,84028019,US,USA,840,28019.0,choctaw,"Choctaw, Mississippi, US",11,0,1,0
 2020-04-16,us,mississippi,33.34598242,-89.24809382,84028019,US,USA,840,28019.0,choctaw,"Choctaw, Mississippi, US",11,0,1,0
 2020-04-17,us,mississippi,33.34598242,-89.24809382,84028019,US,USA,840,28019.0,choctaw,"Choctaw, Mississippi, US",11,0,1,0
+2020-04-18,us,mississippi,33.34598242,-89.24809382,84028019,US,USA,840,28019.0,choctaw,"Choctaw, Mississippi, US",11,0,1,0
 2020-01-22,us,mississippi,33.42491685,-88.87905132,84028105,US,USA,840,28105.0,oktibbeha,"Oktibbeha, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.42491685,-88.87905132,84028105,US,USA,840,28105.0,oktibbeha,"Oktibbeha, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.42491685,-88.87905132,84028105,US,USA,840,28105.0,oktibbeha,"Oktibbeha, Mississippi, US",0,0,0,0
@@ -4610,6 +4662,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.42491685,-88.87905132,84028105,US,USA,840,28105.0,oktibbeha,"Oktibbeha, Mississippi, US",41,4,1,0
 2020-04-16,us,mississippi,33.42491685,-88.87905132,84028105,US,USA,840,28105.0,oktibbeha,"Oktibbeha, Mississippi, US",42,1,1,0
 2020-04-17,us,mississippi,33.42491685,-88.87905132,84028105,US,USA,840,28105.0,oktibbeha,"Oktibbeha, Mississippi, US",42,0,2,1
+2020-04-18,us,mississippi,33.42491685,-88.87905132,84028105,US,USA,840,28105.0,oktibbeha,"Oktibbeha, Mississippi, US",43,1,2,0
 2020-01-22,us,mississippi,33.44834567,-89.91994479,84028015,US,USA,840,28015.0,carroll,"Carroll, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.44834567,-89.91994479,84028015,US,USA,840,28015.0,carroll,"Carroll, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.44834567,-89.91994479,84028015,US,USA,840,28015.0,carroll,"Carroll, Mississippi, US",0,0,0,0
@@ -4697,6 +4750,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.44834567,-89.91994479,84028015,US,USA,840,28015.0,carroll,"Carroll, Mississippi, US",9,1,0,0
 2020-04-16,us,mississippi,33.44834567,-89.91994479,84028015,US,USA,840,28015.0,carroll,"Carroll, Mississippi, US",9,0,1,1
 2020-04-17,us,mississippi,33.44834567,-89.91994479,84028015,US,USA,840,28015.0,carroll,"Carroll, Mississippi, US",10,1,1,0
+2020-04-18,us,mississippi,33.44834567,-89.91994479,84028015,US,USA,840,28015.0,carroll,"Carroll, Mississippi, US",10,0,1,0
 2020-01-22,us,mississippi,33.47386518,-88.44191529999998,84028087,US,USA,840,28087.0,lowndes,"Lowndes, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.47386518,-88.44191529999998,84028087,US,USA,840,28087.0,lowndes,"Lowndes, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.47386518,-88.44191529999998,84028087,US,USA,840,28087.0,lowndes,"Lowndes, Mississippi, US",0,0,0,0
@@ -4784,6 +4838,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.47386518,-88.44191529999998,84028087,US,USA,840,28087.0,lowndes,"Lowndes, Mississippi, US",27,2,0,0
 2020-04-16,us,mississippi,33.47386518,-88.44191529999998,84028087,US,USA,840,28087.0,lowndes,"Lowndes, Mississippi, US",30,3,0,0
 2020-04-17,us,mississippi,33.47386518,-88.44191529999998,84028087,US,USA,840,28087.0,lowndes,"Lowndes, Mississippi, US",30,0,1,1
+2020-04-18,us,mississippi,33.47386518,-88.44191529999998,84028087,US,USA,840,28087.0,lowndes,"Lowndes, Mississippi, US",32,2,1,0
 2020-01-22,us,mississippi,33.49419589,-89.61729103,84028097,US,USA,840,28097.0,montgomery,"Montgomery, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.49419589,-89.61729103,84028097,US,USA,840,28097.0,montgomery,"Montgomery, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.49419589,-89.61729103,84028097,US,USA,840,28097.0,montgomery,"Montgomery, Mississippi, US",0,0,0,0
@@ -4871,6 +4926,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.49419589,-89.61729103,84028097,US,USA,840,28097.0,montgomery,"Montgomery, Mississippi, US",15,0,1,0
 2020-04-16,us,mississippi,33.49419589,-89.61729103,84028097,US,USA,840,28097.0,montgomery,"Montgomery, Mississippi, US",15,0,1,0
 2020-04-17,us,mississippi,33.49419589,-89.61729103,84028097,US,USA,840,28097.0,montgomery,"Montgomery, Mississippi, US",15,0,1,0
+2020-04-18,us,mississippi,33.49419589,-89.61729103,84028097,US,USA,840,28097.0,montgomery,"Montgomery, Mississippi, US",15,0,1,0
 2020-01-22,us,mississippi,33.55545125,-90.29900733,84028083,US,USA,840,28083.0,leflore,"Leflore, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.55545125,-90.29900733,84028083,US,USA,840,28083.0,leflore,"Leflore, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.55545125,-90.29900733,84028083,US,USA,840,28083.0,leflore,"Leflore, Mississippi, US",0,0,0,0
@@ -4958,6 +5014,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.55545125,-90.29900733,84028083,US,USA,840,28083.0,leflore,"Leflore, Mississippi, US",55,3,6,0
 2020-04-16,us,mississippi,33.55545125,-90.29900733,84028083,US,USA,840,28083.0,leflore,"Leflore, Mississippi, US",62,7,6,0
 2020-04-17,us,mississippi,33.55545125,-90.29900733,84028083,US,USA,840,28083.0,leflore,"Leflore, Mississippi, US",70,8,6,0
+2020-04-18,us,mississippi,33.55545125,-90.29900733,84028083,US,USA,840,28083.0,leflore,"Leflore, Mississippi, US",75,5,6,0
 2020-01-22,us,mississippi,33.60192578,-90.58882684,84028133,US,USA,840,28133.0,sunflower,"Sunflower, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.60192578,-90.58882684,84028133,US,USA,840,28133.0,sunflower,"Sunflower, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.60192578,-90.58882684,84028133,US,USA,840,28133.0,sunflower,"Sunflower, Mississippi, US",0,0,0,0
@@ -5045,6 +5102,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.60192578,-90.58882684,84028133,US,USA,840,28133.0,sunflower,"Sunflower, Mississippi, US",42,1,2,0
 2020-04-16,us,mississippi,33.60192578,-90.58882684,84028133,US,USA,840,28133.0,sunflower,"Sunflower, Mississippi, US",43,1,2,0
 2020-04-17,us,mississippi,33.60192578,-90.58882684,84028133,US,USA,840,28133.0,sunflower,"Sunflower, Mississippi, US",45,2,2,0
+2020-04-18,us,mississippi,33.60192578,-90.58882684,84028133,US,USA,840,28133.0,sunflower,"Sunflower, Mississippi, US",46,1,2,0
 2020-01-22,us,mississippi,33.61300486,-89.28392912,84028155,US,USA,840,28155.0,webster,"Webster, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.61300486,-89.28392912,84028155,US,USA,840,28155.0,webster,"Webster, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.61300486,-89.28392912,84028155,US,USA,840,28155.0,webster,"Webster, Mississippi, US",0,0,0,0
@@ -5132,6 +5190,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.61300486,-89.28392912,84028155,US,USA,840,28155.0,webster,"Webster, Mississippi, US",14,0,1,0
 2020-04-16,us,mississippi,33.61300486,-89.28392912,84028155,US,USA,840,28155.0,webster,"Webster, Mississippi, US",15,1,1,0
 2020-04-17,us,mississippi,33.61300486,-89.28392912,84028155,US,USA,840,28155.0,webster,"Webster, Mississippi, US",17,2,1,0
+2020-04-18,us,mississippi,33.61300486,-89.28392912,84028155,US,USA,840,28155.0,webster,"Webster, Mississippi, US",15,-2,1,0
 2020-01-22,us,mississippi,33.65358105,-88.77784255,84028025,US,USA,840,28025.0,clay,"Clay, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.65358105,-88.77784255,84028025,US,USA,840,28025.0,clay,"Clay, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.65358105,-88.77784255,84028025,US,USA,840,28025.0,clay,"Clay, Mississippi, US",0,0,0,0
@@ -5219,6 +5278,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.65358105,-88.77784255,84028025,US,USA,840,28025.0,clay,"Clay, Mississippi, US",21,1,0,0
 2020-04-16,us,mississippi,33.65358105,-88.77784255,84028025,US,USA,840,28025.0,clay,"Clay, Mississippi, US",21,0,0,0
 2020-04-17,us,mississippi,33.65358105,-88.77784255,84028025,US,USA,840,28025.0,clay,"Clay, Mississippi, US",22,1,1,1
+2020-04-18,us,mississippi,33.65358105,-88.77784255,84028025,US,USA,840,28025.0,clay,"Clay, Mississippi, US",24,2,1,0
 2020-01-22,us,mississippi,33.77036166,-89.80245083,84028043,US,USA,840,28043.0,grenada,"Grenada, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.77036166,-89.80245083,84028043,US,USA,840,28043.0,grenada,"Grenada, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.77036166,-89.80245083,84028043,US,USA,840,28043.0,grenada,"Grenada, Mississippi, US",0,0,0,0
@@ -5306,6 +5366,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.77036166,-89.80245083,84028043,US,USA,840,28043.0,grenada,"Grenada, Mississippi, US",14,1,0,0
 2020-04-16,us,mississippi,33.77036166,-89.80245083,84028043,US,USA,840,28043.0,grenada,"Grenada, Mississippi, US",14,0,0,0
 2020-04-17,us,mississippi,33.77036166,-89.80245083,84028043,US,USA,840,28043.0,grenada,"Grenada, Mississippi, US",15,1,0,0
+2020-04-18,us,mississippi,33.77036166,-89.80245083,84028043,US,USA,840,28043.0,grenada,"Grenada, Mississippi, US",19,4,0,0
 2020-01-22,us,mississippi,33.79696941,-90.87372121,84028011,US,USA,840,28011.0,bolivar,"Bolivar, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.79696941,-90.87372121,84028011,US,USA,840,28011.0,bolivar,"Bolivar, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.79696941,-90.87372121,84028011,US,USA,840,28011.0,bolivar,"Bolivar, Mississippi, US",0,0,0,0
@@ -5393,6 +5454,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.79696941,-90.87372121,84028011,US,USA,840,28011.0,bolivar,"Bolivar, Mississippi, US",70,1,5,1
 2020-04-16,us,mississippi,33.79696941,-90.87372121,84028011,US,USA,840,28011.0,bolivar,"Bolivar, Mississippi, US",74,4,5,0
 2020-04-17,us,mississippi,33.79696941,-90.87372121,84028011,US,USA,840,28011.0,bolivar,"Bolivar, Mississippi, US",76,2,5,0
+2020-04-18,us,mississippi,33.79696941,-90.87372121,84028011,US,USA,840,28011.0,bolivar,"Bolivar, Mississippi, US",79,3,5,0
 2020-01-22,us,mississippi,33.89236763,-88.4808438,84028095,US,USA,840,28095.0,monroe,"Monroe, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.89236763,-88.4808438,84028095,US,USA,840,28095.0,monroe,"Monroe, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.89236763,-88.4808438,84028095,US,USA,840,28095.0,monroe,"Monroe, Mississippi, US",0,0,0,0
@@ -5480,6 +5542,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.89236763,-88.4808438,84028095,US,USA,840,28095.0,monroe,"Monroe, Mississippi, US",46,8,2,0
 2020-04-16,us,mississippi,33.89236763,-88.4808438,84028095,US,USA,840,28095.0,monroe,"Monroe, Mississippi, US",54,8,3,1
 2020-04-17,us,mississippi,33.89236763,-88.4808438,84028095,US,USA,840,28095.0,monroe,"Monroe, Mississippi, US",58,4,3,0
+2020-04-18,us,mississippi,33.89236763,-88.4808438,84028095,US,USA,840,28095.0,monroe,"Monroe, Mississippi, US",62,4,4,1
 2020-01-22,us,mississippi,33.91983202,-88.9481545,84028017,US,USA,840,28017.0,chickasaw,"Chickasaw, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.91983202,-88.9481545,84028017,US,USA,840,28017.0,chickasaw,"Chickasaw, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.91983202,-88.9481545,84028017,US,USA,840,28017.0,chickasaw,"Chickasaw, Mississippi, US",0,0,0,0
@@ -5567,6 +5630,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.91983202,-88.9481545,84028017,US,USA,840,28017.0,chickasaw,"Chickasaw, Mississippi, US",33,1,2,0
 2020-04-16,us,mississippi,33.91983202,-88.9481545,84028017,US,USA,840,28017.0,chickasaw,"Chickasaw, Mississippi, US",37,4,2,0
 2020-04-17,us,mississippi,33.91983202,-88.9481545,84028017,US,USA,840,28017.0,chickasaw,"Chickasaw, Mississippi, US",39,2,2,0
+2020-04-18,us,mississippi,33.91983202,-88.9481545,84028017,US,USA,840,28017.0,chickasaw,"Chickasaw, Mississippi, US",40,1,2,0
 2020-01-22,us,mississippi,33.93683395,-89.33686647,84028013,US,USA,840,28013.0,calhoun,"Calhoun, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.93683395,-89.33686647,84028013,US,USA,840,28013.0,calhoun,"Calhoun, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.93683395,-89.33686647,84028013,US,USA,840,28013.0,calhoun,"Calhoun, Mississippi, US",0,0,0,0
@@ -5654,6 +5718,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.93683395,-89.33686647,84028013,US,USA,840,28013.0,calhoun,"Calhoun, Mississippi, US",27,2,2,1
 2020-04-16,us,mississippi,33.93683395,-89.33686647,84028013,US,USA,840,28013.0,calhoun,"Calhoun, Mississippi, US",30,3,2,0
 2020-04-17,us,mississippi,33.93683395,-89.33686647,84028013,US,USA,840,28013.0,calhoun,"Calhoun, Mississippi, US",32,2,2,0
+2020-04-18,us,mississippi,33.93683395,-89.33686647,84028013,US,USA,840,28013.0,calhoun,"Calhoun, Mississippi, US",36,4,2,0
 2020-01-22,us,mississippi,33.95339918,-90.1729398,84028135,US,USA,840,28135.0,tallahatchie,"Tallahatchie, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,33.95339918,-90.1729398,84028135,US,USA,840,28135.0,tallahatchie,"Tallahatchie, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,33.95339918,-90.1729398,84028135,US,USA,840,28135.0,tallahatchie,"Tallahatchie, Mississippi, US",0,0,0,0
@@ -5741,6 +5806,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,33.95339918,-90.1729398,84028135,US,USA,840,28135.0,tallahatchie,"Tallahatchie, Mississippi, US",6,2,0,0
 2020-04-16,us,mississippi,33.95339918,-90.1729398,84028135,US,USA,840,28135.0,tallahatchie,"Tallahatchie, Mississippi, US",7,1,0,0
 2020-04-17,us,mississippi,33.95339918,-90.1729398,84028135,US,USA,840,28135.0,tallahatchie,"Tallahatchie, Mississippi, US",8,1,1,1
+2020-04-18,us,mississippi,33.95339918,-90.1729398,84028135,US,USA,840,28135.0,tallahatchie,"Tallahatchie, Mississippi, US",8,0,1,0
 2020-01-22,us,mississippi,34.02824175,-89.70762049999998,84028161,US,USA,840,28161.0,yalobusha,"Yalobusha, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.02824175,-89.70762049999998,84028161,US,USA,840,28161.0,yalobusha,"Yalobusha, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.02824175,-89.70762049999998,84028161,US,USA,840,28161.0,yalobusha,"Yalobusha, Mississippi, US",0,0,0,0
@@ -5828,6 +5894,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.02824175,-89.70762049999998,84028161,US,USA,840,28161.0,yalobusha,"Yalobusha, Mississippi, US",14,0,0,0
 2020-04-16,us,mississippi,34.02824175,-89.70762049999998,84028161,US,USA,840,28161.0,yalobusha,"Yalobusha, Mississippi, US",14,0,0,0
 2020-04-17,us,mississippi,34.02824175,-89.70762049999998,84028161,US,USA,840,28161.0,yalobusha,"Yalobusha, Mississippi, US",14,0,0,0
+2020-04-18,us,mississippi,34.02824175,-89.70762049999998,84028161,US,USA,840,28161.0,yalobusha,"Yalobusha, Mississippi, US",15,1,0,0
 2020-01-22,us,mississippi,34.226046000000004,-89.03636807,84028115,US,USA,840,28115.0,pontotoc,"Pontotoc, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.226046000000004,-89.03636807,84028115,US,USA,840,28115.0,pontotoc,"Pontotoc, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.226046000000004,-89.03636807,84028115,US,USA,840,28115.0,pontotoc,"Pontotoc, Mississippi, US",0,0,0,0
@@ -5915,6 +5982,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.226046000000004,-89.03636807,84028115,US,USA,840,28115.0,pontotoc,"Pontotoc, Mississippi, US",15,0,2,0
 2020-04-16,us,mississippi,34.226046000000004,-89.03636807,84028115,US,USA,840,28115.0,pontotoc,"Pontotoc, Mississippi, US",16,1,2,0
 2020-04-17,us,mississippi,34.226046000000004,-89.03636807,84028115,US,USA,840,28115.0,pontotoc,"Pontotoc, Mississippi, US",17,1,2,0
+2020-04-18,us,mississippi,34.226046000000004,-89.03636807,84028115,US,USA,840,28115.0,pontotoc,"Pontotoc, Mississippi, US",17,0,2,0
 2020-01-22,us,mississippi,34.22772299,-90.60415045,84028027,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.22772299,-90.60415045,84028027,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.22772299,-90.60415045,84028027,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",0,0,0,0
@@ -6002,6 +6070,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.22772299,-90.60415045,84028027,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",43,4,1,0
 2020-04-16,us,mississippi,34.22772299,-90.60415045,84028027,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",45,2,1,0
 2020-04-17,us,mississippi,34.22772299,-90.60415045,84028027,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",45,0,1,0
+2020-04-18,us,mississippi,34.22772299,-90.60415045,84028027,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",46,1,1,0
 2020-01-22,us,mississippi,34.25157572,-90.28908,84028119,US,USA,840,28119.0,quitman,"Quitman, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.25157572,-90.28908,84028119,US,USA,840,28119.0,quitman,"Quitman, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.25157572,-90.28908,84028119,US,USA,840,28119.0,quitman,"Quitman, Mississippi, US",0,0,0,0
@@ -6089,6 +6158,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.25157572,-90.28908,84028119,US,USA,840,28119.0,quitman,"Quitman, Mississippi, US",13,1,0,0
 2020-04-16,us,mississippi,34.25157572,-90.28908,84028119,US,USA,840,28119.0,quitman,"Quitman, Mississippi, US",13,0,0,0
 2020-04-17,us,mississippi,34.25157572,-90.28908,84028119,US,USA,840,28119.0,quitman,"Quitman, Mississippi, US",13,0,0,0
+2020-04-18,us,mississippi,34.25157572,-90.28908,84028119,US,USA,840,28119.0,quitman,"Quitman, Mississippi, US",13,0,0,0
 2020-01-22,us,mississippi,34.27993475,-88.3606733,84028057,US,USA,840,28057.0,itawamba,"Itawamba, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.27993475,-88.3606733,84028057,US,USA,840,28057.0,itawamba,"Itawamba, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.27993475,-88.3606733,84028057,US,USA,840,28057.0,itawamba,"Itawamba, Mississippi, US",0,0,0,0
@@ -6176,6 +6246,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.27993475,-88.3606733,84028057,US,USA,840,28057.0,itawamba,"Itawamba, Mississippi, US",11,2,0,0
 2020-04-16,us,mississippi,34.27993475,-88.3606733,84028057,US,USA,840,28057.0,itawamba,"Itawamba, Mississippi, US",13,2,0,0
 2020-04-17,us,mississippi,34.27993475,-88.3606733,84028057,US,USA,840,28057.0,itawamba,"Itawamba, Mississippi, US",13,0,1,1
+2020-04-18,us,mississippi,34.27993475,-88.3606733,84028057,US,USA,840,28057.0,itawamba,"Itawamba, Mississippi, US",21,8,1,0
 2020-01-22,us,mississippi,34.291877500000005,-88.68149954,84028081,US,USA,840,28081.0,lee,"Lee, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.291877500000005,-88.68149954,84028081,US,USA,840,28081.0,lee,"Lee, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.291877500000005,-88.68149954,84028081,US,USA,840,28081.0,lee,"Lee, Mississippi, US",0,0,0,0
@@ -6263,6 +6334,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.291877500000005,-88.68149954,84028081,US,USA,840,28081.0,lee,"Lee, Mississippi, US",46,0,4,0
 2020-04-16,us,mississippi,34.291877500000005,-88.68149954,84028081,US,USA,840,28081.0,lee,"Lee, Mississippi, US",48,2,4,0
 2020-04-17,us,mississippi,34.291877500000005,-88.68149954,84028081,US,USA,840,28081.0,lee,"Lee, Mississippi, US",49,1,4,0
+2020-04-18,us,mississippi,34.291877500000005,-88.68149954,84028081,US,USA,840,28081.0,lee,"Lee, Mississippi, US",54,5,4,0
 2020-01-22,us,mississippi,34.35687874,-89.48490961,84028071,US,USA,840,28071.0,lafayette,"Lafayette, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.35687874,-89.48490961,84028071,US,USA,840,28071.0,lafayette,"Lafayette, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.35687874,-89.48490961,84028071,US,USA,840,28071.0,lafayette,"Lafayette, Mississippi, US",0,0,0,0
@@ -6350,6 +6422,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.35687874,-89.48490961,84028071,US,USA,840,28071.0,lafayette,"Lafayette, Mississippi, US",36,3,2,0
 2020-04-16,us,mississippi,34.35687874,-89.48490961,84028071,US,USA,840,28071.0,lafayette,"Lafayette, Mississippi, US",39,3,2,0
 2020-04-17,us,mississippi,34.35687874,-89.48490961,84028071,US,USA,840,28071.0,lafayette,"Lafayette, Mississippi, US",39,0,2,0
+2020-04-18,us,mississippi,34.35687874,-89.48490961,84028071,US,USA,840,28071.0,lafayette,"Lafayette, Mississippi, US",40,1,3,1
 2020-01-22,us,mississippi,34.36398677,-89.95064249,84028107,US,USA,840,28107.0,panola,"Panola, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.36398677,-89.95064249,84028107,US,USA,840,28107.0,panola,"Panola, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.36398677,-89.95064249,84028107,US,USA,840,28107.0,panola,"Panola, Mississippi, US",0,0,0,0
@@ -6437,6 +6510,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.36398677,-89.95064249,84028107,US,USA,840,28107.0,panola,"Panola, Mississippi, US",26,0,2,0
 2020-04-16,us,mississippi,34.36398677,-89.95064249,84028107,US,USA,840,28107.0,panola,"Panola, Mississippi, US",27,1,2,0
 2020-04-17,us,mississippi,34.36398677,-89.95064249,84028107,US,USA,840,28107.0,panola,"Panola, Mississippi, US",27,0,2,0
+2020-04-18,us,mississippi,34.36398677,-89.95064249,84028107,US,USA,840,28107.0,panola,"Panola, Mississippi, US",30,3,2,0
 2020-01-22,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",0,0,0,0
@@ -6524,6 +6598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",9,1,1,0
 2020-04-16,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",9,0,1,0
 2020-04-17,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",9,0,1,0
+2020-04-18,us,mississippi,34.49162015,-89.00776006,84028145,US,USA,840,28145.0,union,"Union, Mississippi, US",9,0,1,0
 2020-01-22,us,mississippi,34.61810501,-88.51986294,84028117,US,USA,840,28117.0,prentiss,"Prentiss, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.61810501,-88.51986294,84028117,US,USA,840,28117.0,prentiss,"Prentiss, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.61810501,-88.51986294,84028117,US,USA,840,28117.0,prentiss,"Prentiss, Mississippi, US",0,0,0,0
@@ -6611,6 +6686,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.61810501,-88.51986294,84028117,US,USA,840,28117.0,prentiss,"Prentiss, Mississippi, US",15,1,0,0
 2020-04-16,us,mississippi,34.61810501,-88.51986294,84028117,US,USA,840,28117.0,prentiss,"Prentiss, Mississippi, US",15,0,0,0
 2020-04-17,us,mississippi,34.61810501,-88.51986294,84028117,US,USA,840,28117.0,prentiss,"Prentiss, Mississippi, US",16,1,0,0
+2020-04-18,us,mississippi,34.61810501,-88.51986294,84028117,US,USA,840,28117.0,prentiss,"Prentiss, Mississippi, US",16,0,0,0
 2020-01-22,us,mississippi,34.64967704,-90.37481167,84028143,US,USA,840,28143.0,tunica,"Tunica, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.64967704,-90.37481167,84028143,US,USA,840,28143.0,tunica,"Tunica, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.64967704,-90.37481167,84028143,US,USA,840,28143.0,tunica,"Tunica, Mississippi, US",0,0,0,0
@@ -6698,6 +6774,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.64967704,-90.37481167,84028143,US,USA,840,28143.0,tunica,"Tunica, Mississippi, US",23,0,1,0
 2020-04-16,us,mississippi,34.64967704,-90.37481167,84028143,US,USA,840,28143.0,tunica,"Tunica, Mississippi, US",26,3,1,0
 2020-04-17,us,mississippi,34.64967704,-90.37481167,84028143,US,USA,840,28143.0,tunica,"Tunica, Mississippi, US",28,2,1,0
+2020-04-18,us,mississippi,34.64967704,-90.37481167,84028143,US,USA,840,28143.0,tunica,"Tunica, Mississippi, US",30,2,1,0
 2020-01-22,us,mississippi,34.65133709,-89.94485778,84028137,US,USA,840,28137.0,tate,"Tate, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.65133709,-89.94485778,84028137,US,USA,840,28137.0,tate,"Tate, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.65133709,-89.94485778,84028137,US,USA,840,28137.0,tate,"Tate, Mississippi, US",0,0,0,0
@@ -6785,6 +6862,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.65133709,-89.94485778,84028137,US,USA,840,28137.0,tate,"Tate, Mississippi, US",26,1,0,0
 2020-04-16,us,mississippi,34.65133709,-89.94485778,84028137,US,USA,840,28137.0,tate,"Tate, Mississippi, US",27,1,0,0
 2020-04-17,us,mississippi,34.65133709,-89.94485778,84028137,US,USA,840,28137.0,tate,"Tate, Mississippi, US",27,0,0,0
+2020-04-18,us,mississippi,34.65133709,-89.94485778,84028137,US,USA,840,28137.0,tate,"Tate, Mississippi, US",29,2,0,0
 2020-01-22,us,mississippi,34.74023475,-88.23917219,84028141,US,USA,840,28141.0,tishomingo,"Tishomingo, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.74023475,-88.23917219,84028141,US,USA,840,28141.0,tishomingo,"Tishomingo, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.74023475,-88.23917219,84028141,US,USA,840,28141.0,tishomingo,"Tishomingo, Mississippi, US",0,0,0,0
@@ -6872,6 +6950,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.74023475,-88.23917219,84028141,US,USA,840,28141.0,tishomingo,"Tishomingo, Mississippi, US",2,0,0,0
 2020-04-16,us,mississippi,34.74023475,-88.23917219,84028141,US,USA,840,28141.0,tishomingo,"Tishomingo, Mississippi, US",2,0,0,0
 2020-04-17,us,mississippi,34.74023475,-88.23917219,84028141,US,USA,840,28141.0,tishomingo,"Tishomingo, Mississippi, US",2,0,0,0
+2020-04-18,us,mississippi,34.74023475,-88.23917219,84028141,US,USA,840,28141.0,tishomingo,"Tishomingo, Mississippi, US",3,1,0,0
 2020-01-22,us,mississippi,34.76216286,-89.50299462,84028093,US,USA,840,28093.0,marshall,"Marshall, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.76216286,-89.50299462,84028093,US,USA,840,28093.0,marshall,"Marshall, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.76216286,-89.50299462,84028093,US,USA,840,28093.0,marshall,"Marshall, Mississippi, US",0,0,0,0
@@ -6959,6 +7038,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.76216286,-89.50299462,84028093,US,USA,840,28093.0,marshall,"Marshall, Mississippi, US",35,1,2,0
 2020-04-16,us,mississippi,34.76216286,-89.50299462,84028093,US,USA,840,28093.0,marshall,"Marshall, Mississippi, US",37,2,2,0
 2020-04-17,us,mississippi,34.76216286,-89.50299462,84028093,US,USA,840,28093.0,marshall,"Marshall, Mississippi, US",37,0,2,0
+2020-04-18,us,mississippi,34.76216286,-89.50299462,84028093,US,USA,840,28093.0,marshall,"Marshall, Mississippi, US",39,2,2,0
 2020-01-22,us,mississippi,34.76872156,-88.90988194,84028139,US,USA,840,28139.0,tippah,"Tippah, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.76872156,-88.90988194,84028139,US,USA,840,28139.0,tippah,"Tippah, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.76872156,-88.90988194,84028139,US,USA,840,28139.0,tippah,"Tippah, Mississippi, US",0,0,0,0
@@ -7046,6 +7126,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.76872156,-88.90988194,84028139,US,USA,840,28139.0,tippah,"Tippah, Mississippi, US",45,0,6,0
 2020-04-16,us,mississippi,34.76872156,-88.90988194,84028139,US,USA,840,28139.0,tippah,"Tippah, Mississippi, US",45,0,6,0
 2020-04-17,us,mississippi,34.76872156,-88.90988194,84028139,US,USA,840,28139.0,tippah,"Tippah, Mississippi, US",45,0,6,0
+2020-04-18,us,mississippi,34.76872156,-88.90988194,84028139,US,USA,840,28139.0,tippah,"Tippah, Mississippi, US",46,1,7,1
 2020-01-22,us,mississippi,34.81681228,-89.18945516,84028009,US,USA,840,28009.0,benton,"Benton, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.81681228,-89.18945516,84028009,US,USA,840,28009.0,benton,"Benton, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.81681228,-89.18945516,84028009,US,USA,840,28009.0,benton,"Benton, Mississippi, US",0,0,0,0
@@ -7133,6 +7214,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.81681228,-89.18945516,84028009,US,USA,840,28009.0,benton,"Benton, Mississippi, US",5,0,0,0
 2020-04-16,us,mississippi,34.81681228,-89.18945516,84028009,US,USA,840,28009.0,benton,"Benton, Mississippi, US",5,0,0,0
 2020-04-17,us,mississippi,34.81681228,-89.18945516,84028009,US,USA,840,28009.0,benton,"Benton, Mississippi, US",6,1,0,0
+2020-04-18,us,mississippi,34.81681228,-89.18945516,84028009,US,USA,840,28009.0,benton,"Benton, Mississippi, US",5,-1,0,0
 2020-01-22,us,mississippi,34.87625235,-89.99091418,84028033,US,USA,840,28033.0,desoto,"DeSoto, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.87625235,-89.99091418,84028033,US,USA,840,28033.0,desoto,"DeSoto, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.87625235,-89.99091418,84028033,US,USA,840,28033.0,desoto,"DeSoto, Mississippi, US",0,0,0,0
@@ -7220,6 +7302,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.87625235,-89.99091418,84028033,US,USA,840,28033.0,desoto,"DeSoto, Mississippi, US",199,11,3,1
 2020-04-16,us,mississippi,34.87625235,-89.99091418,84028033,US,USA,840,28033.0,desoto,"DeSoto, Mississippi, US",211,12,3,0
 2020-04-17,us,mississippi,34.87625235,-89.99091418,84028033,US,USA,840,28033.0,desoto,"DeSoto, Mississippi, US",213,2,3,0
+2020-04-18,us,mississippi,34.87625235,-89.99091418,84028033,US,USA,840,28033.0,desoto,"DeSoto, Mississippi, US",220,7,3,0
 2020-01-22,us,mississippi,34.88084463,-88.57996173,84028003,US,USA,840,28003.0,alcorn,"Alcorn, Mississippi, US",0,0,0,0
 2020-01-23,us,mississippi,34.88084463,-88.57996173,84028003,US,USA,840,28003.0,alcorn,"Alcorn, Mississippi, US",0,0,0,0
 2020-01-24,us,mississippi,34.88084463,-88.57996173,84028003,US,USA,840,28003.0,alcorn,"Alcorn, Mississippi, US",0,0,0,0
@@ -7307,3 +7390,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,34.88084463,-88.57996173,84028003,US,USA,840,28003.0,alcorn,"Alcorn, Mississippi, US",7,0,0,0
 2020-04-16,us,mississippi,34.88084463,-88.57996173,84028003,US,USA,840,28003.0,alcorn,"Alcorn, Mississippi, US",7,0,0,0
 2020-04-17,us,mississippi,34.88084463,-88.57996173,84028003,US,USA,840,28003.0,alcorn,"Alcorn, Mississippi, US",7,0,0,0
+2020-04-18,us,mississippi,34.88084463,-88.57996173,84028003,US,USA,840,28003.0,alcorn,"Alcorn, Mississippi, US",7,0,0,0

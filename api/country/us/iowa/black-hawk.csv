@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,iowa,42.4704581,-92.30524729,84019013,US,USA,840,19013.0,black-hawk,"Black Hawk, Iowa, US",85,7,0,0
 2020-04-16,us,iowa,42.4704581,-92.30524729,84019013,US,USA,840,19013.0,black-hawk,"Black Hawk, Iowa, US",109,24,0,0
 2020-04-17,us,iowa,42.4704581,-92.30524729,84019013,US,USA,840,19013.0,black-hawk,"Black Hawk, Iowa, US",138,29,1,1
+2020-04-18,us,iowa,42.4704581,-92.30524729,84019013,US,USA,840,19013.0,black-hawk,"Black Hawk, Iowa, US",166,28,1,0

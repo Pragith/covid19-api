@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,ohio,40.0543329,-84.22871271,84039109,US,USA,840,39109.0,miami,"Miami, Ohio, US",125,3,21,2
 2020-04-16,us,ohio,40.0543329,-84.22871271,84039109,US,USA,840,39109.0,miami,"Miami, Ohio, US",127,2,22,1
 2020-04-17,us,ohio,40.0543329,-84.22871271,84039109,US,USA,840,39109.0,miami,"Miami, Ohio, US",129,2,22,0
+2020-04-18,us,ohio,40.0543329,-84.22871271,84039109,US,USA,840,39109.0,miami,"Miami, Ohio, US",129,0,22,0

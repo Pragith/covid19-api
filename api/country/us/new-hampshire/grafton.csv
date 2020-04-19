@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",44,-1,0,0
 2020-04-16,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",44,0,0,0
 2020-04-17,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",44,0,0,0
+2020-04-18,us,new-hampshire,43.93779815,-71.82057197,84033009,US,USA,840,33009.0,grafton,"Grafton, New Hampshire, US",45,1,0,0

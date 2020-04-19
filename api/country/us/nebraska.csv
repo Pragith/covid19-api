@@ -86,6 +86,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,0.0,0.0,84080031,US,USA,840,80031.0,out-of-ne,"Out of NE, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,0.0,0.0,84080031,US,USA,840,80031.0,out-of-ne,"Out of NE, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,0.0,0.0,84080031,US,USA,840,80031.0,out-of-ne,"Out of NE, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,0.0,0.0,84080031,US,USA,840,80031.0,out-of-ne,"Out of NE, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,0.0,0.0,84090031,US,USA,840,90031.0,unassigned,"Unassigned, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,0.0,0.0,84090031,US,USA,840,90031.0,unassigned,"Unassigned, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,0.0,0.0,84090031,US,USA,840,90031.0,unassigned,"Unassigned, Nebraska, US",0,0,0,0
@@ -173,6 +174,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,0.0,0.0,84090031,US,USA,840,90031.0,unassigned,"Unassigned, Nebraska, US",19,1,5,0
 2020-04-16,us,nebraska,0.0,0.0,84090031,US,USA,840,90031.0,unassigned,"Unassigned, Nebraska, US",23,4,6,1
 2020-04-17,us,nebraska,0.0,0.0,84090031,US,USA,840,90031.0,unassigned,"Unassigned, Nebraska, US",92,69,9,3
+2020-04-18,us,nebraska,0.0,0.0,84090031,US,USA,840,90031.0,unassigned,"Unassigned, Nebraska, US",60,-32,9,0
 2020-01-22,us,nebraska,40.1247415,-95.71755036,84031147,US,USA,840,31147.0,richardson,"Richardson, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.1247415,-95.71755036,84031147,US,USA,840,31147.0,richardson,"Richardson, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.1247415,-95.71755036,84031147,US,USA,840,31147.0,richardson,"Richardson, Nebraska, US",0,0,0,0
@@ -260,6 +262,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.1247415,-95.71755036,84031147,US,USA,840,31147.0,richardson,"Richardson, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.1247415,-95.71755036,84031147,US,USA,840,31147.0,richardson,"Richardson, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.1247415,-95.71755036,84031147,US,USA,840,31147.0,richardson,"Richardson, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.1247415,-95.71755036,84031147,US,USA,840,31147.0,richardson,"Richardson, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.13141096,-96.23705437,84031133,US,USA,840,31133.0,pawnee,"Pawnee, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.13141096,-96.23705437,84031133,US,USA,840,31133.0,pawnee,"Pawnee, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.13141096,-96.23705437,84031133,US,USA,840,31133.0,pawnee,"Pawnee, Nebraska, US",0,0,0,0
@@ -347,6 +350,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.13141096,-96.23705437,84031133,US,USA,840,31133.0,pawnee,"Pawnee, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.13141096,-96.23705437,84031133,US,USA,840,31133.0,pawnee,"Pawnee, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.13141096,-96.23705437,84031133,US,USA,840,31133.0,pawnee,"Pawnee, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.13141096,-96.23705437,84031133,US,USA,840,31133.0,pawnee,"Pawnee, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.17556879999999,-100.476998,84031145,US,USA,840,31145.0,red-willow,"Red Willow, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.17556879999999,-100.476998,84031145,US,USA,840,31145.0,red-willow,"Red Willow, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.17556879999999,-100.476998,84031145,US,USA,840,31145.0,red-willow,"Red Willow, Nebraska, US",0,0,0,0
@@ -434,6 +438,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.17556879999999,-100.476998,84031145,US,USA,840,31145.0,red-willow,"Red Willow, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.17556879999999,-100.476998,84031145,US,USA,840,31145.0,red-willow,"Red Willow, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.17556879999999,-100.476998,84031145,US,USA,840,31145.0,red-willow,"Red Willow, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.17556879999999,-100.476998,84031145,US,USA,840,31145.0,red-willow,"Red Willow, Nebraska, US",1,1,0,0
 2020-01-22,us,nebraska,40.17584531,-97.142601,84031095,US,USA,840,31095.0,jefferson,"Jefferson, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.17584531,-97.142601,84031095,US,USA,840,31095.0,jefferson,"Jefferson, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.17584531,-97.142601,84031095,US,USA,840,31095.0,jefferson,"Jefferson, Nebraska, US",0,0,0,0
@@ -521,6 +526,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.17584531,-97.142601,84031095,US,USA,840,31095.0,jefferson,"Jefferson, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.17584531,-97.142601,84031095,US,USA,840,31095.0,jefferson,"Jefferson, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.17584531,-97.142601,84031095,US,USA,840,31095.0,jefferson,"Jefferson, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.17584531,-97.142601,84031095,US,USA,840,31095.0,jefferson,"Jefferson, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.17609175,-101.0416477,84031087,US,USA,840,31087.0,hitchcock,"Hitchcock, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.17609175,-101.0416477,84031087,US,USA,840,31087.0,hitchcock,"Hitchcock, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.17609175,-101.0416477,84031087,US,USA,840,31087.0,hitchcock,"Hitchcock, Nebraska, US",0,0,0,0
@@ -608,6 +614,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.17609175,-101.0416477,84031087,US,USA,840,31087.0,hitchcock,"Hitchcock, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.17609175,-101.0416477,84031087,US,USA,840,31087.0,hitchcock,"Hitchcock, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.17609175,-101.0416477,84031087,US,USA,840,31087.0,hitchcock,"Hitchcock, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.17609175,-101.0416477,84031087,US,USA,840,31087.0,hitchcock,"Hitchcock, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.17626377,-97.59504381,84031169,US,USA,840,31169.0,thayer,"Thayer, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.17626377,-97.59504381,84031169,US,USA,840,31169.0,thayer,"Thayer, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.17626377,-97.59504381,84031169,US,USA,840,31169.0,thayer,"Thayer, Nebraska, US",0,0,0,0
@@ -695,6 +702,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.17626377,-97.59504381,84031169,US,USA,840,31169.0,thayer,"Thayer, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.17626377,-97.59504381,84031169,US,USA,840,31169.0,thayer,"Thayer, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.17626377,-97.59504381,84031169,US,USA,840,31169.0,thayer,"Thayer, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.17626377,-97.59504381,84031169,US,USA,840,31169.0,thayer,"Thayer, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.17636348,-98.95299073,84031061,US,USA,840,31061.0,franklin,"Franklin, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.17636348,-98.95299073,84031061,US,USA,840,31061.0,franklin,"Franklin, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.17636348,-98.95299073,84031061,US,USA,840,31061.0,franklin,"Franklin, Nebraska, US",0,0,0,0
@@ -782,6 +790,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.17636348,-98.95299073,84031061,US,USA,840,31061.0,franklin,"Franklin, Nebraska, US",3,0,0,0
 2020-04-16,us,nebraska,40.17636348,-98.95299073,84031061,US,USA,840,31061.0,franklin,"Franklin, Nebraska, US",3,0,0,0
 2020-04-17,us,nebraska,40.17636348,-98.95299073,84031061,US,USA,840,31061.0,franklin,"Franklin, Nebraska, US",3,0,0,0
+2020-04-18,us,nebraska,40.17636348,-98.95299073,84031061,US,USA,840,31061.0,franklin,"Franklin, Nebraska, US",3,0,0,0
 2020-01-22,us,nebraska,40.17637905,-98.04743961,84031129,US,USA,840,31129.0,nuckolls,"Nuckolls, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.17637905,-98.04743961,84031129,US,USA,840,31129.0,nuckolls,"Nuckolls, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.17637905,-98.04743961,84031129,US,USA,840,31129.0,nuckolls,"Nuckolls, Nebraska, US",0,0,0,0
@@ -869,6 +878,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.17637905,-98.04743961,84031129,US,USA,840,31129.0,nuckolls,"Nuckolls, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.17637905,-98.04743961,84031129,US,USA,840,31129.0,nuckolls,"Nuckolls, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.17637905,-98.04743961,84031129,US,USA,840,31129.0,nuckolls,"Nuckolls, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.17637905,-98.04743961,84031129,US,USA,840,31129.0,nuckolls,"Nuckolls, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.17638677,-101.6876522,84031057,US,USA,840,31057.0,dundy,"Dundy, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.17638677,-101.6876522,84031057,US,USA,840,31057.0,dundy,"Dundy, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.17638677,-101.6876522,84031057,US,USA,840,31057.0,dundy,"Dundy, Nebraska, US",0,0,0,0
@@ -956,6 +966,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.17638677,-101.6876522,84031057,US,USA,840,31057.0,dundy,"Dundy, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.17638677,-101.6876522,84031057,US,USA,840,31057.0,dundy,"Dundy, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.17638677,-101.6876522,84031057,US,USA,840,31057.0,dundy,"Dundy, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.17638677,-101.6876522,84031057,US,USA,840,31057.0,dundy,"Dundy, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.17642064,-99.91247454,84031065,US,USA,840,31065.0,furnas,"Furnas, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.17642064,-99.91247454,84031065,US,USA,840,31065.0,furnas,"Furnas, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.17642064,-99.91247454,84031065,US,USA,840,31065.0,furnas,"Furnas, Nebraska, US",0,0,0,0
@@ -1043,6 +1054,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.17642064,-99.91247454,84031065,US,USA,840,31065.0,furnas,"Furnas, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.17642064,-99.91247454,84031065,US,USA,840,31065.0,furnas,"Furnas, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.17642064,-99.91247454,84031065,US,USA,840,31065.0,furnas,"Furnas, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.17642064,-99.91247454,84031065,US,USA,840,31065.0,furnas,"Furnas, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.17642643,-98.50019851,84031181,US,USA,840,31181.0,webster,"Webster, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.17642643,-98.50019851,84031181,US,USA,840,31181.0,webster,"Webster, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.17642643,-98.50019851,84031181,US,USA,840,31181.0,webster,"Webster, Nebraska, US",0,0,0,0
@@ -1130,6 +1142,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.17642643,-98.50019851,84031181,US,USA,840,31181.0,webster,"Webster, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,40.17642643,-98.50019851,84031181,US,USA,840,31181.0,webster,"Webster, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,40.17642643,-98.50019851,84031181,US,USA,840,31181.0,webster,"Webster, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,40.17642643,-98.50019851,84031181,US,USA,840,31181.0,webster,"Webster, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,40.17658508,-99.40438879,84031083,US,USA,840,31083.0,harlan,"Harlan, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.17658508,-99.40438879,84031083,US,USA,840,31083.0,harlan,"Harlan, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.17658508,-99.40438879,84031083,US,USA,840,31083.0,harlan,"Harlan, Nebraska, US",0,0,0,0
@@ -1217,6 +1230,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.17658508,-99.40438879,84031083,US,USA,840,31083.0,harlan,"Harlan, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.17658508,-99.40438879,84031083,US,USA,840,31083.0,harlan,"Harlan, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.17658508,-99.40438879,84031083,US,USA,840,31083.0,harlan,"Harlan, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.17658508,-99.40438879,84031083,US,USA,840,31083.0,harlan,"Harlan, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.26186809,-96.68946704,84031067,US,USA,840,31067.0,gage,"Gage, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.26186809,-96.68946704,84031067,US,USA,840,31067.0,gage,"Gage, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.26186809,-96.68946704,84031067,US,USA,840,31067.0,gage,"Gage, Nebraska, US",0,0,0,0
@@ -1304,6 +1318,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.26186809,-96.68946704,84031067,US,USA,840,31067.0,gage,"Gage, Nebraska, US",26,0,1,0
 2020-04-16,us,nebraska,40.26186809,-96.68946704,84031067,US,USA,840,31067.0,gage,"Gage, Nebraska, US",26,0,1,0
 2020-04-17,us,nebraska,40.26186809,-96.68946704,84031067,US,USA,840,31067.0,gage,"Gage, Nebraska, US",26,0,1,0
+2020-04-18,us,nebraska,40.26186809,-96.68946704,84031067,US,USA,840,31067.0,gage,"Gage, Nebraska, US",27,1,1,0
 2020-01-22,us,nebraska,40.38514847,-95.85433992,84031127,US,USA,840,31127.0,nemaha,"Nemaha, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.38514847,-95.85433992,84031127,US,USA,840,31127.0,nemaha,"Nemaha, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.38514847,-95.85433992,84031127,US,USA,840,31127.0,nemaha,"Nemaha, Nebraska, US",0,0,0,0
@@ -1391,6 +1406,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.38514847,-95.85433992,84031127,US,USA,840,31127.0,nemaha,"Nemaha, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,40.38514847,-95.85433992,84031127,US,USA,840,31127.0,nemaha,"Nemaha, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,40.38514847,-95.85433992,84031127,US,USA,840,31127.0,nemaha,"Nemaha, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,40.38514847,-95.85433992,84031127,US,USA,840,31127.0,nemaha,"Nemaha, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,40.39257596,-96.26522753,84031097,US,USA,840,31097.0,johnson,"Johnson, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.39257596,-96.26522753,84031097,US,USA,840,31097.0,johnson,"Johnson, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.39257596,-96.26522753,84031097,US,USA,840,31097.0,johnson,"Johnson, Nebraska, US",0,0,0,0
@@ -1478,6 +1494,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.39257596,-96.26522753,84031097,US,USA,840,31097.0,johnson,"Johnson, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,40.39257596,-96.26522753,84031097,US,USA,840,31097.0,johnson,"Johnson, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,40.39257596,-96.26522753,84031097,US,USA,840,31097.0,johnson,"Johnson, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,40.39257596,-96.26522753,84031097,US,USA,840,31097.0,johnson,"Johnson, Nebraska, US",2,1,0,0
 2020-01-22,us,nebraska,40.50663314,-98.94877182,84031099,US,USA,840,31099.0,kearney,"Kearney, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.50663314,-98.94877182,84031099,US,USA,840,31099.0,kearney,"Kearney, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.50663314,-98.94877182,84031099,US,USA,840,31099.0,kearney,"Kearney, Nebraska, US",0,0,0,0
@@ -1565,6 +1582,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.50663314,-98.94877182,84031099,US,USA,840,31099.0,kearney,"Kearney, Nebraska, US",3,0,0,0
 2020-04-16,us,nebraska,40.50663314,-98.94877182,84031099,US,USA,840,31099.0,kearney,"Kearney, Nebraska, US",3,0,0,0
 2020-04-17,us,nebraska,40.50663314,-98.94877182,84031099,US,USA,840,31099.0,kearney,"Kearney, Nebraska, US",3,0,0,0
+2020-04-18,us,nebraska,40.50663314,-98.94877182,84031099,US,USA,840,31099.0,kearney,"Kearney, Nebraska, US",3,0,0,0
 2020-01-22,us,nebraska,40.51156033,-99.41461667,84031137,US,USA,840,31137.0,phelps,"Phelps, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.51156033,-99.41461667,84031137,US,USA,840,31137.0,phelps,"Phelps, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.51156033,-99.41461667,84031137,US,USA,840,31137.0,phelps,"Phelps, Nebraska, US",0,0,0,0
@@ -1652,6 +1670,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.51156033,-99.41461667,84031137,US,USA,840,31137.0,phelps,"Phelps, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,40.51156033,-99.41461667,84031137,US,USA,840,31137.0,phelps,"Phelps, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,40.51156033,-99.41461667,84031137,US,USA,840,31137.0,phelps,"Phelps, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,40.51156033,-99.41461667,84031137,US,USA,840,31137.0,phelps,"Phelps, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,40.51481965,-99.83020279,84031073,US,USA,840,31073.0,gosper,"Gosper, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.51481965,-99.83020279,84031073,US,USA,840,31073.0,gosper,"Gosper, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.51481965,-99.83020279,84031073,US,USA,840,31073.0,gosper,"Gosper, Nebraska, US",0,0,0,0
@@ -1739,6 +1758,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.51481965,-99.83020279,84031073,US,USA,840,31073.0,gosper,"Gosper, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,40.51481965,-99.83020279,84031073,US,USA,840,31073.0,gosper,"Gosper, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,40.51481965,-99.83020279,84031073,US,USA,840,31073.0,gosper,"Gosper, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,40.51481965,-99.83020279,84031073,US,USA,840,31073.0,gosper,"Gosper, Nebraska, US",3,2,0,0
 2020-01-22,us,nebraska,40.5237198,-101.6978026,84031029,US,USA,840,31029.0,chase,"Chase, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.5237198,-101.6978026,84031029,US,USA,840,31029.0,chase,"Chase, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.5237198,-101.6978026,84031029,US,USA,840,31029.0,chase,"Chase, Nebraska, US",0,0,0,0
@@ -1826,6 +1846,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.5237198,-101.6978026,84031029,US,USA,840,31029.0,chase,"Chase, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.5237198,-101.6978026,84031029,US,USA,840,31029.0,chase,"Chase, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.5237198,-101.6978026,84031029,US,USA,840,31029.0,chase,"Chase, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.5237198,-101.6978026,84031029,US,USA,840,31029.0,chase,"Chase, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.52418865,-97.14085859,84031151,US,USA,840,31151.0,saline,"Saline, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.52418865,-97.14085859,84031151,US,USA,840,31151.0,saline,"Saline, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.52418865,-97.14085859,84031151,US,USA,840,31151.0,saline,"Saline, Nebraska, US",0,0,0,0
@@ -1913,6 +1934,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.52418865,-97.14085859,84031151,US,USA,840,31151.0,saline,"Saline, Nebraska, US",1,1,0,0
 2020-04-16,us,nebraska,40.52418865,-97.14085859,84031151,US,USA,840,31151.0,saline,"Saline, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,40.52418865,-97.14085859,84031151,US,USA,840,31151.0,saline,"Saline, Nebraska, US",3,2,0,0
+2020-04-18,us,nebraska,40.52418865,-97.14085859,84031151,US,USA,840,31151.0,saline,"Saline, Nebraska, US",4,1,0,0
 2020-01-22,us,nebraska,40.52439441,-98.05126296,84031035,US,USA,840,31035.0,clay,"Clay, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.52439441,-98.05126296,84031035,US,USA,840,31035.0,clay,"Clay, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.52439441,-98.05126296,84031035,US,USA,840,31035.0,clay,"Clay, Nebraska, US",0,0,0,0
@@ -2000,6 +2022,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.52439441,-98.05126296,84031035,US,USA,840,31035.0,clay,"Clay, Nebraska, US",2,0,0,0
 2020-04-16,us,nebraska,40.52439441,-98.05126296,84031035,US,USA,840,31035.0,clay,"Clay, Nebraska, US",2,0,0,0
 2020-04-17,us,nebraska,40.52439441,-98.05126296,84031035,US,USA,840,31035.0,clay,"Clay, Nebraska, US",2,0,0,0
+2020-04-18,us,nebraska,40.52439441,-98.05126296,84031035,US,USA,840,31035.0,clay,"Clay, Nebraska, US",3,1,0,0
 2020-01-22,us,nebraska,40.52449420000001,-98.50117804,84031001,US,USA,840,31001.0,adams,"Adams, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.52449420000001,-98.50117804,84031001,US,USA,840,31001.0,adams,"Adams, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.52449420000001,-98.50117804,84031001,US,USA,840,31001.0,adams,"Adams, Nebraska, US",0,0,0,0
@@ -2087,6 +2110,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.52449420000001,-98.50117804,84031001,US,USA,840,31001.0,adams,"Adams, Nebraska, US",62,0,0,0
 2020-04-16,us,nebraska,40.52449420000001,-98.50117804,84031001,US,USA,840,31001.0,adams,"Adams, Nebraska, US",65,3,0,0
 2020-04-17,us,nebraska,40.52449420000001,-98.50117804,84031001,US,USA,840,31001.0,adams,"Adams, Nebraska, US",64,-1,0,0
+2020-04-18,us,nebraska,40.52449420000001,-98.50117804,84031001,US,USA,840,31001.0,adams,"Adams, Nebraska, US",85,21,0,0
 2020-01-22,us,nebraska,40.52451972,-101.0603568,84031085,US,USA,840,31085.0,hayes,"Hayes, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.52451972,-101.0603568,84031085,US,USA,840,31085.0,hayes,"Hayes, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.52451972,-101.0603568,84031085,US,USA,840,31085.0,hayes,"Hayes, Nebraska, US",0,0,0,0
@@ -2174,6 +2198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.52451972,-101.0603568,84031085,US,USA,840,31085.0,hayes,"Hayes, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.52451972,-101.0603568,84031085,US,USA,840,31085.0,hayes,"Hayes, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.52451972,-101.0603568,84031085,US,USA,840,31085.0,hayes,"Hayes, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.52451972,-101.0603568,84031085,US,USA,840,31085.0,hayes,"Hayes, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.52458567,-97.59646937,84031059,US,USA,840,31059.0,fillmore,"Fillmore, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.52458567,-97.59646937,84031059,US,USA,840,31059.0,fillmore,"Fillmore, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.52458567,-97.59646937,84031059,US,USA,840,31059.0,fillmore,"Fillmore, Nebraska, US",0,0,0,0
@@ -2261,6 +2286,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.52458567,-97.59646937,84031059,US,USA,840,31059.0,fillmore,"Fillmore, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.52458567,-97.59646937,84031059,US,USA,840,31059.0,fillmore,"Fillmore, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.52458567,-97.59646937,84031059,US,USA,840,31059.0,fillmore,"Fillmore, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.52458567,-97.59646937,84031059,US,USA,840,31059.0,fillmore,"Fillmore, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.52993007,-100.3924658,84031063,US,USA,840,31063.0,frontier,"Frontier, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.52993007,-100.3924658,84031063,US,USA,840,31063.0,frontier,"Frontier, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.52993007,-100.3924658,84031063,US,USA,840,31063.0,frontier,"Frontier, Nebraska, US",0,0,0,0
@@ -2348,6 +2374,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.52993007,-100.3924658,84031063,US,USA,840,31063.0,frontier,"Frontier, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.52993007,-100.3924658,84031063,US,USA,840,31063.0,frontier,"Frontier, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.52993007,-100.3924658,84031063,US,USA,840,31063.0,frontier,"Frontier, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.52993007,-100.3924658,84031063,US,USA,840,31063.0,frontier,"Frontier, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.64843556,-96.13374142,84031131,US,USA,840,31131.0,otoe,"Otoe, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.64843556,-96.13374142,84031131,US,USA,840,31131.0,otoe,"Otoe, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.64843556,-96.13374142,84031131,US,USA,840,31131.0,otoe,"Otoe, Nebraska, US",0,0,0,0
@@ -2435,6 +2462,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.64843556,-96.13374142,84031131,US,USA,840,31131.0,otoe,"Otoe, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,40.64843556,-96.13374142,84031131,US,USA,840,31131.0,otoe,"Otoe, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,40.64843556,-96.13374142,84031131,US,USA,840,31131.0,otoe,"Otoe, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,40.64843556,-96.13374142,84031131,US,USA,840,31131.0,otoe,"Otoe, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,40.78416049,-96.68777155,84031109,US,USA,840,31109.0,lancaster,"Lancaster, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.78416049,-96.68777155,84031109,US,USA,840,31109.0,lancaster,"Lancaster, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.78416049,-96.68777155,84031109,US,USA,840,31109.0,lancaster,"Lancaster, Nebraska, US",0,0,0,0
@@ -2522,6 +2550,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.78416049,-96.68777155,84031109,US,USA,840,31109.0,lancaster,"Lancaster, Nebraska, US",57,0,1,0
 2020-04-16,us,nebraska,40.78416049,-96.68777155,84031109,US,USA,840,31109.0,lancaster,"Lancaster, Nebraska, US",59,2,1,0
 2020-04-17,us,nebraska,40.78416049,-96.68777155,84031109,US,USA,840,31109.0,lancaster,"Lancaster, Nebraska, US",62,3,1,0
+2020-04-18,us,nebraska,40.78416049,-96.68777155,84031109,US,USA,840,31109.0,lancaster,"Lancaster, Nebraska, US",63,1,1,0
 2020-01-22,us,nebraska,40.85082525,-101.6502942,84031135,US,USA,840,31135.0,perkins,"Perkins, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.85082525,-101.6502942,84031135,US,USA,840,31135.0,perkins,"Perkins, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.85082525,-101.6502942,84031135,US,USA,840,31135.0,perkins,"Perkins, Nebraska, US",0,0,0,0
@@ -2609,6 +2638,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.85082525,-101.6502942,84031135,US,USA,840,31135.0,perkins,"Perkins, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,40.85082525,-101.6502942,84031135,US,USA,840,31135.0,perkins,"Perkins, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,40.85082525,-101.6502942,84031135,US,USA,840,31135.0,perkins,"Perkins, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,40.85082525,-101.6502942,84031135,US,USA,840,31135.0,perkins,"Perkins, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,40.85486962,-99.07500296,84031019,US,USA,840,31019.0,buffalo,"Buffalo, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.85486962,-99.07500296,84031019,US,USA,840,31019.0,buffalo,"Buffalo, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.85486962,-99.07500296,84031019,US,USA,840,31019.0,buffalo,"Buffalo, Nebraska, US",0,0,0,0
@@ -2696,6 +2726,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.85486962,-99.07500296,84031019,US,USA,840,31019.0,buffalo,"Buffalo, Nebraska, US",38,0,1,0
 2020-04-16,us,nebraska,40.85486962,-99.07500296,84031019,US,USA,840,31019.0,buffalo,"Buffalo, Nebraska, US",42,4,1,0
 2020-04-17,us,nebraska,40.85486962,-99.07500296,84031019,US,USA,840,31019.0,buffalo,"Buffalo, Nebraska, US",44,2,1,0
+2020-04-18,us,nebraska,40.85486962,-99.07500296,84031019,US,USA,840,31019.0,buffalo,"Buffalo, Nebraska, US",47,3,1,0
 2020-01-22,us,nebraska,40.87028216,-99.8201461,84031047,US,USA,840,31047.0,dawson,"Dawson, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.87028216,-99.8201461,84031047,US,USA,840,31047.0,dawson,"Dawson, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.87028216,-99.8201461,84031047,US,USA,840,31047.0,dawson,"Dawson, Nebraska, US",0,0,0,0
@@ -2783,6 +2814,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.87028216,-99.8201461,84031047,US,USA,840,31047.0,dawson,"Dawson, Nebraska, US",18,0,0,0
 2020-04-16,us,nebraska,40.87028216,-99.8201461,84031047,US,USA,840,31047.0,dawson,"Dawson, Nebraska, US",21,3,0,0
 2020-04-17,us,nebraska,40.87028216,-99.8201461,84031047,US,USA,840,31047.0,dawson,"Dawson, Nebraska, US",24,3,0,0
+2020-04-18,us,nebraska,40.87028216,-99.8201461,84031047,US,USA,840,31047.0,dawson,"Dawson, Nebraska, US",30,6,0,0
 2020-01-22,us,nebraska,40.87241834,-97.139673,84031159,US,USA,840,31159.0,seward,"Seward, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.87241834,-97.139673,84031159,US,USA,840,31159.0,seward,"Seward, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.87241834,-97.139673,84031159,US,USA,840,31159.0,seward,"Seward, Nebraska, US",0,0,0,0
@@ -2870,6 +2902,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.87241834,-97.139673,84031159,US,USA,840,31159.0,seward,"Seward, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,40.87241834,-97.139673,84031159,US,USA,840,31159.0,seward,"Seward, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,40.87241834,-97.139673,84031159,US,USA,840,31159.0,seward,"Seward, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,40.87241834,-97.139673,84031159,US,USA,840,31159.0,seward,"Seward, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,40.87257079,-98.50218293,84031079,US,USA,840,31079.0,hall,"Hall, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.87257079,-98.50218293,84031079,US,USA,840,31079.0,hall,"Hall, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.87257079,-98.50218293,84031079,US,USA,840,31079.0,hall,"Hall, Nebraska, US",0,0,0,0
@@ -2957,6 +2990,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.87257079,-98.50218293,84031079,US,USA,840,31079.0,hall,"Hall, Nebraska, US",214,0,4,0
 2020-04-16,us,nebraska,40.87257079,-98.50218293,84031079,US,USA,840,31079.0,hall,"Hall, Nebraska, US",231,17,4,0
 2020-04-17,us,nebraska,40.87257079,-98.50218293,84031079,US,USA,840,31079.0,hall,"Hall, Nebraska, US",247,16,4,0
+2020-04-18,us,nebraska,40.87257079,-98.50218293,84031079,US,USA,840,31079.0,hall,"Hall, Nebraska, US",403,156,4,0
 2020-01-22,us,nebraska,40.87272618,-97.59710186,84031185,US,USA,840,31185.0,york,"York, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.87272618,-97.59710186,84031185,US,USA,840,31185.0,york,"York, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.87272618,-97.59710186,84031185,US,USA,840,31185.0,york,"York, Nebraska, US",0,0,0,0
@@ -3044,6 +3078,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.87272618,-97.59710186,84031185,US,USA,840,31185.0,york,"York, Nebraska, US",4,0,0,0
 2020-04-16,us,nebraska,40.87272618,-97.59710186,84031185,US,USA,840,31185.0,york,"York, Nebraska, US",5,1,0,0
 2020-04-17,us,nebraska,40.87272618,-97.59710186,84031185,US,USA,840,31185.0,york,"York, Nebraska, US",6,1,0,0
+2020-04-18,us,nebraska,40.87272618,-97.59710186,84031185,US,USA,840,31185.0,york,"York, Nebraska, US",6,0,0,0
 2020-01-22,us,nebraska,40.87349452,-98.02099117,84031081,US,USA,840,31081.0,hamilton,"Hamilton, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.87349452,-98.02099117,84031081,US,USA,840,31081.0,hamilton,"Hamilton, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.87349452,-98.02099117,84031081,US,USA,840,31081.0,hamilton,"Hamilton, Nebraska, US",0,0,0,0
@@ -3131,6 +3166,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.87349452,-98.02099117,84031081,US,USA,840,31081.0,hamilton,"Hamilton, Nebraska, US",13,0,0,0
 2020-04-16,us,nebraska,40.87349452,-98.02099117,84031081,US,USA,840,31081.0,hamilton,"Hamilton, Nebraska, US",14,1,0,0
 2020-04-17,us,nebraska,40.87349452,-98.02099117,84031081,US,USA,840,31081.0,hamilton,"Hamilton, Nebraska, US",14,0,0,0
+2020-04-18,us,nebraska,40.87349452,-98.02099117,84031081,US,USA,840,31081.0,hamilton,"Hamilton, Nebraska, US",16,2,0,0
 2020-01-22,us,nebraska,40.90899107,-96.13971217,84031025,US,USA,840,31025.0,cass,"Cass, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,40.90899107,-96.13971217,84031025,US,USA,840,31025.0,cass,"Cass, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,40.90899107,-96.13971217,84031025,US,USA,840,31025.0,cass,"Cass, Nebraska, US",0,0,0,0
@@ -3218,6 +3254,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,40.90899107,-96.13971217,84031025,US,USA,840,31025.0,cass,"Cass, Nebraska, US",3,0,0,0
 2020-04-16,us,nebraska,40.90899107,-96.13971217,84031025,US,USA,840,31025.0,cass,"Cass, Nebraska, US",3,0,0,0
 2020-04-17,us,nebraska,40.90899107,-96.13971217,84031025,US,USA,840,31025.0,cass,"Cass, Nebraska, US",3,0,0,0
+2020-04-18,us,nebraska,40.90899107,-96.13971217,84031025,US,USA,840,31025.0,cass,"Cass, Nebraska, US",3,0,0,0
 2020-01-22,us,nebraska,41.04658298,-100.7475374,84031111,US,USA,840,31111.0,lincoln,"Lincoln, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.04658298,-100.7475374,84031111,US,USA,840,31111.0,lincoln,"Lincoln, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.04658298,-100.7475374,84031111,US,USA,840,31111.0,lincoln,"Lincoln, Nebraska, US",0,0,0,0
@@ -3305,6 +3342,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.04658298,-100.7475374,84031111,US,USA,840,31111.0,lincoln,"Lincoln, Nebraska, US",17,0,1,0
 2020-04-16,us,nebraska,41.04658298,-100.7475374,84031111,US,USA,840,31111.0,lincoln,"Lincoln, Nebraska, US",17,0,1,0
 2020-04-17,us,nebraska,41.04658298,-100.7475374,84031111,US,USA,840,31111.0,lincoln,"Lincoln, Nebraska, US",17,0,1,0
+2020-04-18,us,nebraska,41.04658298,-100.7475374,84031111,US,USA,840,31111.0,lincoln,"Lincoln, Nebraska, US",18,1,1,0
 2020-01-22,us,nebraska,41.11168186,-102.3333331,84031049,US,USA,840,31049.0,deuel,"Deuel, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.11168186,-102.3333331,84031049,US,USA,840,31049.0,deuel,"Deuel, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.11168186,-102.3333331,84031049,US,USA,840,31049.0,deuel,"Deuel, Nebraska, US",0,0,0,0
@@ -3392,6 +3430,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.11168186,-102.3333331,84031049,US,USA,840,31049.0,deuel,"Deuel, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.11168186,-102.3333331,84031049,US,USA,840,31049.0,deuel,"Deuel, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.11168186,-102.3333331,84031049,US,USA,840,31049.0,deuel,"Deuel, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.11168186,-102.3333331,84031049,US,USA,840,31049.0,deuel,"Deuel, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.11314181,-96.11156432,84031153,US,USA,840,31153.0,sarpy,"Sarpy, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.11314181,-96.11156432,84031153,US,USA,840,31153.0,sarpy,"Sarpy, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.11314181,-96.11156432,84031153,US,USA,840,31153.0,sarpy,"Sarpy, Nebraska, US",0,0,0,0
@@ -3479,6 +3518,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.11314181,-96.11156432,84031153,US,USA,840,31153.0,sarpy,"Sarpy, Nebraska, US",46,0,0,0
 2020-04-16,us,nebraska,41.11314181,-96.11156432,84031153,US,USA,840,31153.0,sarpy,"Sarpy, Nebraska, US",46,0,0,0
 2020-04-17,us,nebraska,41.11314181,-96.11156432,84031153,US,USA,840,31153.0,sarpy,"Sarpy, Nebraska, US",47,1,0,0
+2020-04-18,us,nebraska,41.11314181,-96.11156432,84031153,US,USA,840,31153.0,sarpy,"Sarpy, Nebraska, US",48,1,0,0
 2020-01-22,us,nebraska,41.16624273,-98.0374887,84031121,US,USA,840,31121.0,merrick,"Merrick, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.16624273,-98.0374887,84031121,US,USA,840,31121.0,merrick,"Merrick, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.16624273,-98.0374887,84031121,US,USA,840,31121.0,merrick,"Merrick, Nebraska, US",0,0,0,0
@@ -3566,6 +3606,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.16624273,-98.0374887,84031121,US,USA,840,31121.0,merrick,"Merrick, Nebraska, US",2,0,0,0
 2020-04-16,us,nebraska,41.16624273,-98.0374887,84031121,US,USA,840,31121.0,merrick,"Merrick, Nebraska, US",5,3,0,0
 2020-04-17,us,nebraska,41.16624273,-98.0374887,84031121,US,USA,840,31121.0,merrick,"Merrick, Nebraska, US",5,0,0,0
+2020-04-18,us,nebraska,41.16624273,-98.0374887,84031121,US,USA,840,31121.0,merrick,"Merrick, Nebraska, US",6,1,0,0
 2020-01-22,us,nebraska,41.18813488,-97.56630712,84031143,US,USA,840,31143.0,polk,"Polk, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.18813488,-97.56630712,84031143,US,USA,840,31143.0,polk,"Polk, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.18813488,-97.56630712,84031143,US,USA,840,31143.0,polk,"Polk, Nebraska, US",0,0,0,0
@@ -3653,6 +3694,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.18813488,-97.56630712,84031143,US,USA,840,31143.0,polk,"Polk, Nebraska, US",2,0,0,0
 2020-04-16,us,nebraska,41.18813488,-97.56630712,84031143,US,USA,840,31143.0,polk,"Polk, Nebraska, US",3,1,0,0
 2020-04-17,us,nebraska,41.18813488,-97.56630712,84031143,US,USA,840,31143.0,polk,"Polk, Nebraska, US",4,1,0,0
+2020-04-18,us,nebraska,41.18813488,-97.56630712,84031143,US,USA,840,31143.0,polk,"Polk, Nebraska, US",5,1,0,0
 2020-01-22,us,nebraska,41.19774275,-103.7148131,84031105,US,USA,840,31105.0,kimball,"Kimball, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.19774275,-103.7148131,84031105,US,USA,840,31105.0,kimball,"Kimball, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.19774275,-103.7148131,84031105,US,USA,840,31105.0,kimball,"Kimball, Nebraska, US",0,0,0,0
@@ -3740,6 +3782,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.19774275,-103.7148131,84031105,US,USA,840,31105.0,kimball,"Kimball, Nebraska, US",9,0,0,0
 2020-04-16,us,nebraska,41.19774275,-103.7148131,84031105,US,USA,840,31105.0,kimball,"Kimball, Nebraska, US",9,0,0,0
 2020-04-17,us,nebraska,41.19774275,-103.7148131,84031105,US,USA,840,31105.0,kimball,"Kimball, Nebraska, US",9,0,0,0
+2020-04-18,us,nebraska,41.19774275,-103.7148131,84031105,US,USA,840,31105.0,kimball,"Kimball, Nebraska, US",9,0,0,0
 2020-01-22,us,nebraska,41.19930341,-101.6620164,84031101,US,USA,840,31101.0,keith,"Keith, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.19930341,-101.6620164,84031101,US,USA,840,31101.0,keith,"Keith, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.19930341,-101.6620164,84031101,US,USA,840,31101.0,keith,"Keith, Nebraska, US",0,0,0,0
@@ -3827,6 +3870,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.19930341,-101.6620164,84031101,US,USA,840,31101.0,keith,"Keith, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.19930341,-101.6620164,84031101,US,USA,840,31101.0,keith,"Keith, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.19930341,-101.6620164,84031101,US,USA,840,31101.0,keith,"Keith, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.19930341,-101.6620164,84031101,US,USA,840,31101.0,keith,"Keith, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.21999357,-102.9941693,84031033,US,USA,840,31033.0,cheyenne,"Cheyenne, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.21999357,-102.9941693,84031033,US,USA,840,31033.0,cheyenne,"Cheyenne, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.21999357,-102.9941693,84031033,US,USA,840,31033.0,cheyenne,"Cheyenne, Nebraska, US",0,0,0,0
@@ -3914,6 +3958,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.21999357,-102.9941693,84031033,US,USA,840,31033.0,cheyenne,"Cheyenne, Nebraska, US",2,0,0,0
 2020-04-16,us,nebraska,41.21999357,-102.9941693,84031033,US,USA,840,31033.0,cheyenne,"Cheyenne, Nebraska, US",3,1,0,0
 2020-04-17,us,nebraska,41.21999357,-102.9941693,84031033,US,USA,840,31033.0,cheyenne,"Cheyenne, Nebraska, US",3,0,0,0
+2020-04-18,us,nebraska,41.21999357,-102.9941693,84031033,US,USA,840,31033.0,cheyenne,"Cheyenne, Nebraska, US",4,1,0,0
 2020-01-22,us,nebraska,41.2200529,-98.5166499,84031093,US,USA,840,31093.0,howard,"Howard, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.2200529,-98.5166499,84031093,US,USA,840,31093.0,howard,"Howard, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.2200529,-98.5166499,84031093,US,USA,840,31093.0,howard,"Howard, Nebraska, US",0,0,0,0
@@ -4001,6 +4046,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.2200529,-98.5166499,84031093,US,USA,840,31093.0,howard,"Howard, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.2200529,-98.5166499,84031093,US,USA,840,31093.0,howard,"Howard, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.2200529,-98.5166499,84031093,US,USA,840,31093.0,howard,"Howard, Nebraska, US",2,2,0,0
+2020-04-18,us,nebraska,41.2200529,-98.5166499,84031093,US,USA,840,31093.0,howard,"Howard, Nebraska, US",2,0,0,0
 2020-01-22,us,nebraska,41.22045983,-98.97588642,84031163,US,USA,840,31163.0,sherman,"Sherman, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.22045983,-98.97588642,84031163,US,USA,840,31163.0,sherman,"Sherman, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.22045983,-98.97588642,84031163,US,USA,840,31163.0,sherman,"Sherman, Nebraska, US",0,0,0,0
@@ -4088,6 +4134,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.22045983,-98.97588642,84031163,US,USA,840,31163.0,sherman,"Sherman, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.22045983,-98.97588642,84031163,US,USA,840,31163.0,sherman,"Sherman, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.22045983,-98.97588642,84031163,US,USA,840,31163.0,sherman,"Sherman, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.22045983,-98.97588642,84031163,US,USA,840,31163.0,sherman,"Sherman, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.22703692,-97.13106306,84031023,US,USA,840,31023.0,butler,"Butler, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.22703692,-97.13106306,84031023,US,USA,840,31023.0,butler,"Butler, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.22703692,-97.13106306,84031023,US,USA,840,31023.0,butler,"Butler, Nebraska, US",0,0,0,0
@@ -4175,6 +4222,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.22703692,-97.13106306,84031023,US,USA,840,31023.0,butler,"Butler, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.22703692,-97.13106306,84031023,US,USA,840,31023.0,butler,"Butler, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.22703692,-97.13106306,84031023,US,USA,840,31023.0,butler,"Butler, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.22703692,-97.13106306,84031023,US,USA,840,31023.0,butler,"Butler, Nebraska, US",1,1,0,0
 2020-01-22,us,nebraska,41.2278103,-96.63773905,84031155,US,USA,840,31155.0,saunders,"Saunders, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.2278103,-96.63773905,84031155,US,USA,840,31155.0,saunders,"Saunders, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.2278103,-96.63773905,84031155,US,USA,840,31155.0,saunders,"Saunders, Nebraska, US",0,0,0,0
@@ -4262,6 +4310,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.2278103,-96.63773905,84031155,US,USA,840,31155.0,saunders,"Saunders, Nebraska, US",6,0,0,0
 2020-04-16,us,nebraska,41.2278103,-96.63773905,84031155,US,USA,840,31155.0,saunders,"Saunders, Nebraska, US",6,0,0,0
 2020-04-17,us,nebraska,41.2278103,-96.63773905,84031155,US,USA,840,31155.0,saunders,"Saunders, Nebraska, US",6,0,0,0
+2020-04-18,us,nebraska,41.2278103,-96.63773905,84031155,US,USA,840,31155.0,saunders,"Saunders, Nebraska, US",6,0,0,0
 2020-01-22,us,nebraska,41.29518299,-96.15085305,84031055,US,USA,840,31055.0,douglas,"Douglas, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.29518299,-96.15085305,84031055,US,USA,840,31055.0,douglas,"Douglas, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.29518299,-96.15085305,84031055,US,USA,840,31055.0,douglas,"Douglas, Nebraska, US",0,0,0,0
@@ -4349,6 +4398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.29518299,-96.15085305,84031055,US,USA,840,31055.0,douglas,"Douglas, Nebraska, US",251,0,5,0
 2020-04-16,us,nebraska,41.29518299,-96.15085305,84031055,US,USA,840,31055.0,douglas,"Douglas, Nebraska, US",259,8,5,0
 2020-04-17,us,nebraska,41.29518299,-96.15085305,84031055,US,USA,840,31055.0,douglas,"Douglas, Nebraska, US",266,7,5,0
+2020-04-18,us,nebraska,41.29518299,-96.15085305,84031055,US,USA,840,31055.0,douglas,"Douglas, Nebraska, US",266,0,5,0
 2020-01-22,us,nebraska,41.39374521,-99.72805369,84031041,US,USA,840,31041.0,custer,"Custer, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.39374521,-99.72805369,84031041,US,USA,840,31041.0,custer,"Custer, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.39374521,-99.72805369,84031041,US,USA,840,31041.0,custer,"Custer, Nebraska, US",0,0,0,0
@@ -4436,6 +4486,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.39374521,-99.72805369,84031041,US,USA,840,31041.0,custer,"Custer, Nebraska, US",19,0,0,0
 2020-04-16,us,nebraska,41.39374521,-99.72805369,84031041,US,USA,840,31041.0,custer,"Custer, Nebraska, US",19,0,0,0
 2020-04-17,us,nebraska,41.39374521,-99.72805369,84031041,US,USA,840,31041.0,custer,"Custer, Nebraska, US",19,0,0,0
+2020-04-18,us,nebraska,41.39374521,-99.72805369,84031041,US,USA,840,31041.0,custer,"Custer, Nebraska, US",18,-1,0,0
 2020-01-22,us,nebraska,41.39750195,-97.99327291,84031125,US,USA,840,31125.0,nance,"Nance, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.39750195,-97.99327291,84031125,US,USA,840,31125.0,nance,"Nance, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.39750195,-97.99327291,84031125,US,USA,840,31125.0,nance,"Nance, Nebraska, US",0,0,0,0
@@ -4523,6 +4574,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.39750195,-97.99327291,84031125,US,USA,840,31125.0,nance,"Nance, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.39750195,-97.99327291,84031125,US,USA,840,31125.0,nance,"Nance, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.39750195,-97.99327291,84031125,US,USA,840,31125.0,nance,"Nance, Nebraska, US",1,1,0,0
+2020-04-18,us,nebraska,41.39750195,-97.99327291,84031125,US,USA,840,31125.0,nance,"Nance, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,41.52815707,-96.22019892,84031177,US,USA,840,31177.0,washington,"Washington, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.52815707,-96.22019892,84031177,US,USA,840,31177.0,washington,"Washington, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.52815707,-96.22019892,84031177,US,USA,840,31177.0,washington,"Washington, Nebraska, US",0,0,0,0
@@ -4610,6 +4662,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.52815707,-96.22019892,84031177,US,USA,840,31177.0,washington,"Washington, Nebraska, US",22,2,0,0
 2020-04-16,us,nebraska,41.52815707,-96.22019892,84031177,US,USA,840,31177.0,washington,"Washington, Nebraska, US",20,-2,0,0
 2020-04-17,us,nebraska,41.52815707,-96.22019892,84031177,US,USA,840,31177.0,washington,"Washington, Nebraska, US",20,0,0,0
+2020-04-18,us,nebraska,41.52815707,-96.22019892,84031177,US,USA,840,31177.0,washington,"Washington, Nebraska, US",20,0,0,0
 2020-01-22,us,nebraska,41.54634427,-103.7114332,84031007,US,USA,840,31007.0,banner,"Banner, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.54634427,-103.7114332,84031007,US,USA,840,31007.0,banner,"Banner, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.54634427,-103.7114332,84031007,US,USA,840,31007.0,banner,"Banner, Nebraska, US",0,0,0,0
@@ -4697,6 +4750,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.54634427,-103.7114332,84031007,US,USA,840,31007.0,banner,"Banner, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.54634427,-103.7114332,84031007,US,USA,840,31007.0,banner,"Banner, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.54634427,-103.7114332,84031007,US,USA,840,31007.0,banner,"Banner, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.54634427,-103.7114332,84031007,US,USA,840,31007.0,banner,"Banner, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.56650314,-100.4817851,84031113,US,USA,840,31113.0,logan,"Logan, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.56650314,-100.4817851,84031113,US,USA,840,31113.0,logan,"Logan, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.56650314,-100.4817851,84031113,US,USA,840,31113.0,logan,"Logan, Nebraska, US",0,0,0,0
@@ -4784,6 +4838,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.56650314,-100.4817851,84031113,US,USA,840,31113.0,logan,"Logan, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.56650314,-100.4817851,84031113,US,USA,840,31113.0,logan,"Logan, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.56650314,-100.4817851,84031113,US,USA,840,31113.0,logan,"Logan, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.56650314,-100.4817851,84031113,US,USA,840,31113.0,logan,"Logan, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.56730777,-98.98197724,84031175,US,USA,840,31175.0,valley,"Valley, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.56730777,-98.98197724,84031175,US,USA,840,31175.0,valley,"Valley, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.56730777,-98.98197724,84031175,US,USA,840,31175.0,valley,"Valley, Nebraska, US",0,0,0,0
@@ -4871,6 +4926,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.56730777,-98.98197724,84031175,US,USA,840,31175.0,valley,"Valley, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.56730777,-98.98197724,84031175,US,USA,840,31175.0,valley,"Valley, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.56730777,-98.98197724,84031175,US,USA,840,31175.0,valley,"Valley, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.56730777,-98.98197724,84031175,US,USA,840,31175.0,valley,"Valley, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.56742671,-98.52150266,84031077,US,USA,840,31077.0,greeley,"Greeley, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.56742671,-98.52150266,84031077,US,USA,840,31077.0,greeley,"Greeley, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.56742671,-98.52150266,84031077,US,USA,840,31077.0,greeley,"Greeley, Nebraska, US",0,0,0,0
@@ -4958,6 +5014,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.56742671,-98.52150266,84031077,US,USA,840,31077.0,greeley,"Greeley, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.56742671,-98.52150266,84031077,US,USA,840,31077.0,greeley,"Greeley, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.56742671,-98.52150266,84031077,US,USA,840,31077.0,greeley,"Greeley, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.56742671,-98.52150266,84031077,US,USA,840,31077.0,greeley,"Greeley, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.56797682,-101.0599362,84031117,US,USA,840,31117.0,mcpherson,"McPherson, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.56797682,-101.0599362,84031117,US,USA,840,31117.0,mcpherson,"McPherson, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.56797682,-101.0599362,84031117,US,USA,840,31117.0,mcpherson,"McPherson, Nebraska, US",0,0,0,0
@@ -5045,6 +5102,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.56797682,-101.0599362,84031117,US,USA,840,31117.0,mcpherson,"McPherson, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.56797682,-101.0599362,84031117,US,USA,840,31117.0,mcpherson,"McPherson, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.56797682,-101.0599362,84031117,US,USA,840,31117.0,mcpherson,"McPherson, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.56797682,-101.0599362,84031117,US,USA,840,31117.0,mcpherson,"McPherson, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.56896142,-101.6959559,84031005,US,USA,840,31005.0,arthur,"Arthur, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.56896142,-101.6959559,84031005,US,USA,840,31005.0,arthur,"Arthur, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.56896142,-101.6959559,84031005,US,USA,840,31005.0,arthur,"Arthur, Nebraska, US",0,0,0,0
@@ -5132,6 +5190,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.56896142,-101.6959559,84031005,US,USA,840,31005.0,arthur,"Arthur, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.56896142,-101.6959559,84031005,US,USA,840,31005.0,arthur,"Arthur, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.56896142,-101.6959559,84031005,US,USA,840,31005.0,arthur,"Arthur, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.56896142,-101.6959559,84031005,US,USA,840,31005.0,arthur,"Arthur, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.57246836,-97.52144359,84031141,US,USA,840,31141.0,platte,"Platte, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.57246836,-97.52144359,84031141,US,USA,840,31141.0,platte,"Platte, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.57246836,-97.52144359,84031141,US,USA,840,31141.0,platte,"Platte, Nebraska, US",0,0,0,0
@@ -5219,6 +5278,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.57246836,-97.52144359,84031141,US,USA,840,31141.0,platte,"Platte, Nebraska, US",6,0,0,0
 2020-04-16,us,nebraska,41.57246836,-97.52144359,84031141,US,USA,840,31141.0,platte,"Platte, Nebraska, US",6,0,0,0
 2020-04-17,us,nebraska,41.57246836,-97.52144359,84031141,US,USA,840,31141.0,platte,"Platte, Nebraska, US",6,0,0,0
+2020-04-18,us,nebraska,41.57246836,-97.52144359,84031141,US,USA,840,31141.0,platte,"Platte, Nebraska, US",6,0,0,0
 2020-01-22,us,nebraska,41.57486951,-97.0868542,84031037,US,USA,840,31037.0,colfax,"Colfax, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.57486951,-97.0868542,84031037,US,USA,840,31037.0,colfax,"Colfax, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.57486951,-97.0868542,84031037,US,USA,840,31037.0,colfax,"Colfax, Nebraska, US",0,0,0,0
@@ -5306,6 +5366,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.57486951,-97.0868542,84031037,US,USA,840,31037.0,colfax,"Colfax, Nebraska, US",4,0,0,0
 2020-04-16,us,nebraska,41.57486951,-97.0868542,84031037,US,USA,840,31037.0,colfax,"Colfax, Nebraska, US",4,0,0,0
 2020-04-17,us,nebraska,41.57486951,-97.0868542,84031037,US,USA,840,31037.0,colfax,"Colfax, Nebraska, US",4,0,0,0
+2020-04-18,us,nebraska,41.57486951,-97.0868542,84031037,US,USA,840,31037.0,colfax,"Colfax, Nebraska, US",4,0,0,0
 2020-01-22,us,nebraska,41.58071748,-96.65598179,84031053,US,USA,840,31053.0,dodge,"Dodge, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.58071748,-96.65598179,84031053,US,USA,840,31053.0,dodge,"Dodge, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.58071748,-96.65598179,84031053,US,USA,840,31053.0,dodge,"Dodge, Nebraska, US",0,0,0,0
@@ -5393,6 +5454,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.58071748,-96.65598179,84031053,US,USA,840,31053.0,dodge,"Dodge, Nebraska, US",12,0,0,0
 2020-04-16,us,nebraska,41.58071748,-96.65598179,84031053,US,USA,840,31053.0,dodge,"Dodge, Nebraska, US",12,0,0,0
 2020-04-17,us,nebraska,41.58071748,-96.65598179,84031053,US,USA,840,31053.0,dodge,"Dodge, Nebraska, US",12,0,0,0
+2020-04-18,us,nebraska,41.58071748,-96.65598179,84031053,US,USA,840,31053.0,dodge,"Dodge, Nebraska, US",12,0,0,0
 2020-01-22,us,nebraska,41.61703149,-102.3313973,84031069,US,USA,840,31069.0,garden,"Garden, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.61703149,-102.3313973,84031069,US,USA,840,31069.0,garden,"Garden, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.61703149,-102.3313973,84031069,US,USA,840,31069.0,garden,"Garden, Nebraska, US",0,0,0,0
@@ -5480,6 +5542,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.61703149,-102.3313973,84031069,US,USA,840,31069.0,garden,"Garden, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.61703149,-102.3313973,84031069,US,USA,840,31069.0,garden,"Garden, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.61703149,-102.3313973,84031069,US,USA,840,31069.0,garden,"Garden, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.61703149,-102.3313973,84031069,US,USA,840,31069.0,garden,"Garden, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.70759415,-98.06737183,84031011,US,USA,840,31011.0,boone,"Boone, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.70759415,-98.06737183,84031011,US,USA,840,31011.0,boone,"Boone, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.70759415,-98.06737183,84031011,US,USA,840,31011.0,boone,"Boone, Nebraska, US",0,0,0,0
@@ -5567,6 +5630,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.70759415,-98.06737183,84031011,US,USA,840,31011.0,boone,"Boone, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.70759415,-98.06737183,84031011,US,USA,840,31011.0,boone,"Boone, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.70759415,-98.06737183,84031011,US,USA,840,31011.0,boone,"Boone, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.70759415,-98.06737183,84031011,US,USA,840,31011.0,boone,"Boone, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.71711774,-103.0061405,84031123,US,USA,840,31123.0,morrill,"Morrill, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.71711774,-103.0061405,84031123,US,USA,840,31123.0,morrill,"Morrill, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.71711774,-103.0061405,84031123,US,USA,840,31123.0,morrill,"Morrill, Nebraska, US",0,0,0,0
@@ -5654,6 +5718,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.71711774,-103.0061405,84031123,US,USA,840,31123.0,morrill,"Morrill, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.71711774,-103.0061405,84031123,US,USA,840,31123.0,morrill,"Morrill, Nebraska, US",1,1,0,0
 2020-04-17,us,nebraska,41.71711774,-103.0061405,84031123,US,USA,840,31123.0,morrill,"Morrill, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,41.71711774,-103.0061405,84031123,US,USA,840,31123.0,morrill,"Morrill, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,41.85056773,-96.32605633,84031021,US,USA,840,31021.0,burt,"Burt, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.85056773,-96.32605633,84031021,US,USA,840,31021.0,burt,"Burt, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.85056773,-96.32605633,84031021,US,USA,840,31021.0,burt,"Burt, Nebraska, US",0,0,0,0
@@ -5741,6 +5806,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.85056773,-96.32605633,84031021,US,USA,840,31021.0,burt,"Burt, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,41.85056773,-96.32605633,84031021,US,USA,840,31021.0,burt,"Burt, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,41.85056773,-96.32605633,84031021,US,USA,840,31021.0,burt,"Burt, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,41.85056773,-96.32605633,84031021,US,USA,840,31021.0,burt,"Burt, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,41.85070896,-103.7080986,84031157,US,USA,840,31157.0,scotts-bluff,"Scotts Bluff, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.85070896,-103.7080986,84031157,US,USA,840,31157.0,scotts-bluff,"Scotts Bluff, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.85070896,-103.7080986,84031157,US,USA,840,31157.0,scotts-bluff,"Scotts Bluff, Nebraska, US",0,0,0,0
@@ -5828,6 +5894,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.85070896,-103.7080986,84031157,US,USA,840,31157.0,scotts-bluff,"Scotts Bluff, Nebraska, US",14,0,0,0
 2020-04-16,us,nebraska,41.85070896,-103.7080986,84031157,US,USA,840,31157.0,scotts-bluff,"Scotts Bluff, Nebraska, US",16,2,0,0
 2020-04-17,us,nebraska,41.85070896,-103.7080986,84031157,US,USA,840,31157.0,scotts-bluff,"Scotts Bluff, Nebraska, US",17,1,0,0
+2020-04-18,us,nebraska,41.85070896,-103.7080986,84031157,US,USA,840,31157.0,scotts-bluff,"Scotts Bluff, Nebraska, US",18,1,0,0
 2020-01-22,us,nebraska,41.91311716,-99.97677845,84031009,US,USA,840,31009.0,blaine,"Blaine, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.91311716,-99.97677845,84031009,US,USA,840,31009.0,blaine,"Blaine, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.91311716,-99.97677845,84031009,US,USA,840,31009.0,blaine,"Blaine, Nebraska, US",0,0,0,0
@@ -5915,6 +5982,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.91311716,-99.97677845,84031009,US,USA,840,31009.0,blaine,"Blaine, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.91311716,-99.97677845,84031009,US,USA,840,31009.0,blaine,"Blaine, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.91311716,-99.97677845,84031009,US,USA,840,31009.0,blaine,"Blaine, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.91311716,-99.97677845,84031009,US,USA,840,31009.0,blaine,"Blaine, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.91358968,-100.5556632,84031171,US,USA,840,31171.0,thomas,"Thomas, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.91358968,-100.5556632,84031171,US,USA,840,31171.0,thomas,"Thomas, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.91358968,-100.5556632,84031171,US,USA,840,31171.0,thomas,"Thomas, Nebraska, US",0,0,0,0
@@ -6002,6 +6070,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.91358968,-100.5556632,84031171,US,USA,840,31171.0,thomas,"Thomas, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.91358968,-100.5556632,84031171,US,USA,840,31171.0,thomas,"Thomas, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.91358968,-100.5556632,84031171,US,USA,840,31171.0,thomas,"Thomas, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.91358968,-100.5556632,84031171,US,USA,840,31171.0,thomas,"Thomas, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.91371961,-99.45440415,84031115,US,USA,840,31115.0,loup,"Loup, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.91371961,-99.45440415,84031115,US,USA,840,31115.0,loup,"Loup, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.91371961,-99.45440415,84031115,US,USA,840,31115.0,loup,"Loup, Nebraska, US",0,0,0,0
@@ -6089,6 +6158,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.91371961,-99.45440415,84031115,US,USA,840,31115.0,loup,"Loup, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.91371961,-99.45440415,84031115,US,USA,840,31115.0,loup,"Loup, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.91371961,-99.45440415,84031115,US,USA,840,31115.0,loup,"Loup, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.91371961,-99.45440415,84031115,US,USA,840,31115.0,loup,"Loup, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.91428955,-98.99111827,84031071,US,USA,840,31071.0,garfield,"Garfield, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.91428955,-98.99111827,84031071,US,USA,840,31071.0,garfield,"Garfield, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.91428955,-98.99111827,84031071,US,USA,840,31071.0,garfield,"Garfield, Nebraska, US",0,0,0,0
@@ -6176,6 +6246,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.91428955,-98.99111827,84031071,US,USA,840,31071.0,garfield,"Garfield, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.91428955,-98.99111827,84031071,US,USA,840,31071.0,garfield,"Garfield, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.91428955,-98.99111827,84031071,US,USA,840,31071.0,garfield,"Garfield, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.91428955,-98.99111827,84031071,US,USA,840,31071.0,garfield,"Garfield, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.91482725,-98.52798941,84031183,US,USA,840,31183.0,wheeler,"Wheeler, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.91482725,-98.52798941,84031183,US,USA,840,31183.0,wheeler,"Wheeler, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.91482725,-98.52798941,84031183,US,USA,840,31183.0,wheeler,"Wheeler, Nebraska, US",0,0,0,0
@@ -6263,6 +6334,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.91482725,-98.52798941,84031183,US,USA,840,31183.0,wheeler,"Wheeler, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.91482725,-98.52798941,84031183,US,USA,840,31183.0,wheeler,"Wheeler, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.91482725,-98.52798941,84031183,US,USA,840,31183.0,wheeler,"Wheeler, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.91482725,-98.52798941,84031183,US,USA,840,31183.0,wheeler,"Wheeler, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.91528587,-101.740701,84031075,US,USA,840,31075.0,grant,"Grant, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.91528587,-101.740701,84031075,US,USA,840,31075.0,grant,"Grant, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.91528587,-101.740701,84031075,US,USA,840,31075.0,grant,"Grant, Nebraska, US",0,0,0,0
@@ -6350,6 +6422,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.91528587,-101.740701,84031075,US,USA,840,31075.0,grant,"Grant, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.91528587,-101.740701,84031075,US,USA,840,31075.0,grant,"Grant, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.91528587,-101.740701,84031075,US,USA,840,31075.0,grant,"Grant, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.91528587,-101.740701,84031075,US,USA,840,31075.0,grant,"Grant, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.91586243,-101.1354293,84031091,US,USA,840,31091.0,hooker,"Hooker, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.91586243,-101.1354293,84031091,US,USA,840,31091.0,hooker,"Hooker, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.91586243,-101.1354293,84031091,US,USA,840,31091.0,hooker,"Hooker, Nebraska, US",0,0,0,0
@@ -6437,6 +6510,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.91586243,-101.1354293,84031091,US,USA,840,31091.0,hooker,"Hooker, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,41.91586243,-101.1354293,84031091,US,USA,840,31091.0,hooker,"Hooker, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,41.91586243,-101.1354293,84031091,US,USA,840,31091.0,hooker,"Hooker, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,41.91586243,-101.1354293,84031091,US,USA,840,31091.0,hooker,"Hooker, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,41.91637624,-96.78730772,84031039,US,USA,840,31039.0,cuming,"Cuming, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.91637624,-96.78730772,84031039,US,USA,840,31039.0,cuming,"Cuming, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.91637624,-96.78730772,84031039,US,USA,840,31039.0,cuming,"Cuming, Nebraska, US",0,0,0,0
@@ -6524,6 +6598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.91637624,-96.78730772,84031039,US,USA,840,31039.0,cuming,"Cuming, Nebraska, US",2,0,0,0
 2020-04-16,us,nebraska,41.91637624,-96.78730772,84031039,US,USA,840,31039.0,cuming,"Cuming, Nebraska, US",2,0,0,0
 2020-04-17,us,nebraska,41.91637624,-96.78730772,84031039,US,USA,840,31039.0,cuming,"Cuming, Nebraska, US",2,0,0,0
+2020-04-18,us,nebraska,41.91637624,-96.78730772,84031039,US,USA,840,31039.0,cuming,"Cuming, Nebraska, US",2,0,0,0
 2020-01-22,us,nebraska,41.91676024,-97.6005481,84031119,US,USA,840,31119.0,madison,"Madison, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.91676024,-97.6005481,84031119,US,USA,840,31119.0,madison,"Madison, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.91676024,-97.6005481,84031119,US,USA,840,31119.0,madison,"Madison, Nebraska, US",0,0,0,0
@@ -6611,6 +6686,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.91676024,-97.6005481,84031119,US,USA,840,31119.0,madison,"Madison, Nebraska, US",6,0,2,0
 2020-04-16,us,nebraska,41.91676024,-97.6005481,84031119,US,USA,840,31119.0,madison,"Madison, Nebraska, US",7,1,2,0
 2020-04-17,us,nebraska,41.91676024,-97.6005481,84031119,US,USA,840,31119.0,madison,"Madison, Nebraska, US",7,0,2,0
+2020-04-18,us,nebraska,41.91676024,-97.6005481,84031119,US,USA,840,31119.0,madison,"Madison, Nebraska, US",7,0,2,0
 2020-01-22,us,nebraska,41.9169835,-97.19394708,84031167,US,USA,840,31167.0,stanton,"Stanton, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,41.9169835,-97.19394708,84031167,US,USA,840,31167.0,stanton,"Stanton, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,41.9169835,-97.19394708,84031167,US,USA,840,31167.0,stanton,"Stanton, Nebraska, US",0,0,0,0
@@ -6698,6 +6774,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,41.9169835,-97.19394708,84031167,US,USA,840,31167.0,stanton,"Stanton, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,41.9169835,-97.19394708,84031167,US,USA,840,31167.0,stanton,"Stanton, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,41.9169835,-97.19394708,84031167,US,USA,840,31167.0,stanton,"Stanton, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,41.9169835,-97.19394708,84031167,US,USA,840,31167.0,stanton,"Stanton, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,42.15725356,-96.54157099,84031173,US,USA,840,31173.0,thurston,"Thurston, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.15725356,-96.54157099,84031173,US,USA,840,31173.0,thurston,"Thurston, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.15725356,-96.54157099,84031173,US,USA,840,31173.0,thurston,"Thurston, Nebraska, US",0,0,0,0
@@ -6785,6 +6862,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.15725356,-96.54157099,84031173,US,USA,840,31173.0,thurston,"Thurston, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.15725356,-96.54157099,84031173,US,USA,840,31173.0,thurston,"Thurston, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.15725356,-96.54157099,84031173,US,USA,840,31173.0,thurston,"Thurston, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.15725356,-96.54157099,84031173,US,USA,840,31173.0,thurston,"Thurston, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,42.17695516,-98.0666283,84031003,US,USA,840,31003.0,antelope,"Antelope, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.17695516,-98.0666283,84031003,US,USA,840,31003.0,antelope,"Antelope, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.17695516,-98.0666283,84031003,US,USA,840,31003.0,antelope,"Antelope, Nebraska, US",0,0,0,0
@@ -6872,6 +6950,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.17695516,-98.0666283,84031003,US,USA,840,31003.0,antelope,"Antelope, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,42.17695516,-98.0666283,84031003,US,USA,840,31003.0,antelope,"Antelope, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,42.17695516,-98.0666283,84031003,US,USA,840,31003.0,antelope,"Antelope, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,42.17695516,-98.0666283,84031003,US,USA,840,31003.0,antelope,"Antelope, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,42.20934475,-97.11926964,84031179,US,USA,840,31179.0,wayne,"Wayne, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.20934475,-97.11926964,84031179,US,USA,840,31179.0,wayne,"Wayne, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.20934475,-97.11926964,84031179,US,USA,840,31179.0,wayne,"Wayne, Nebraska, US",0,0,0,0
@@ -6959,6 +7038,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.20934475,-97.11926964,84031179,US,USA,840,31179.0,wayne,"Wayne, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,42.20934475,-97.11926964,84031179,US,USA,840,31179.0,wayne,"Wayne, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,42.20934475,-97.11926964,84031179,US,USA,840,31179.0,wayne,"Wayne, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,42.20934475,-97.11926964,84031179,US,USA,840,31179.0,wayne,"Wayne, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,42.22079243,-103.0878834,84031013,US,USA,840,31013.0,box-butte,"Box Butte, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.22079243,-103.0878834,84031013,US,USA,840,31013.0,box-butte,"Box Butte, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.22079243,-103.0878834,84031013,US,USA,840,31013.0,box-butte,"Box Butte, Nebraska, US",0,0,0,0
@@ -7046,6 +7126,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.22079243,-103.0878834,84031013,US,USA,840,31013.0,box-butte,"Box Butte, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,42.22079243,-103.0878834,84031013,US,USA,840,31013.0,box-butte,"Box Butte, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,42.22079243,-103.0878834,84031013,US,USA,840,31013.0,box-butte,"Box Butte, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,42.22079243,-103.0878834,84031013,US,USA,840,31013.0,box-butte,"Box Butte, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,42.26434853,-97.60122773,84031139,US,USA,840,31139.0,pierce,"Pierce, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.26434853,-97.60122773,84031139,US,USA,840,31139.0,pierce,"Pierce, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.26434853,-97.60122773,84031139,US,USA,840,31139.0,pierce,"Pierce, Nebraska, US",0,0,0,0
@@ -7133,6 +7214,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.26434853,-97.60122773,84031139,US,USA,840,31139.0,pierce,"Pierce, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,42.26434853,-97.60122773,84031139,US,USA,840,31139.0,pierce,"Pierce, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,42.26434853,-97.60122773,84031139,US,USA,840,31139.0,pierce,"Pierce, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,42.26434853,-97.60122773,84031139,US,USA,840,31139.0,pierce,"Pierce, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,42.39040144,-96.56656425,84031043,US,USA,840,31043.0,dakota,"Dakota, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.39040144,-96.56656425,84031043,US,USA,840,31043.0,dakota,"Dakota, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.39040144,-96.56656425,84031043,US,USA,840,31043.0,dakota,"Dakota, Nebraska, US",0,0,0,0
@@ -7220,6 +7302,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.39040144,-96.56656425,84031043,US,USA,840,31043.0,dakota,"Dakota, Nebraska, US",2,0,0,0
 2020-04-16,us,nebraska,42.39040144,-96.56656425,84031043,US,USA,840,31043.0,dakota,"Dakota, Nebraska, US",3,1,0,0
 2020-04-17,us,nebraska,42.39040144,-96.56656425,84031043,US,USA,840,31043.0,dakota,"Dakota, Nebraska, US",9,6,0,0
+2020-04-18,us,nebraska,42.39040144,-96.56656425,84031043,US,USA,840,31043.0,dakota,"Dakota, Nebraska, US",22,13,0,0
 2020-01-22,us,nebraska,42.42252217,-99.44832069,84031149,US,USA,840,31149.0,rock,"Rock, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.42252217,-99.44832069,84031149,US,USA,840,31149.0,rock,"Rock, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.42252217,-99.44832069,84031149,US,USA,840,31149.0,rock,"Rock, Nebraska, US",0,0,0,0
@@ -7307,6 +7390,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.42252217,-99.44832069,84031149,US,USA,840,31149.0,rock,"Rock, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.42252217,-99.44832069,84031149,US,USA,840,31149.0,rock,"Rock, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.42252217,-99.44832069,84031149,US,USA,840,31149.0,rock,"Rock, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.42252217,-99.44832069,84031149,US,USA,840,31149.0,rock,"Rock, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,42.43018907,-99.92904055,84031017,US,USA,840,31017.0,brown,"Brown, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.43018907,-99.92904055,84031017,US,USA,840,31017.0,brown,"Brown, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.43018907,-99.92904055,84031017,US,USA,840,31017.0,brown,"Brown, Nebraska, US",0,0,0,0
@@ -7394,6 +7478,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.43018907,-99.92904055,84031017,US,USA,840,31017.0,brown,"Brown, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.43018907,-99.92904055,84031017,US,USA,840,31017.0,brown,"Brown, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.43018907,-99.92904055,84031017,US,USA,840,31017.0,brown,"Brown, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.43018907,-99.92904055,84031017,US,USA,840,31017.0,brown,"Brown, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,42.45522056,-98.78402558,84031089,US,USA,840,31089.0,holt,"Holt, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.45522056,-98.78402558,84031089,US,USA,840,31089.0,holt,"Holt, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.45522056,-98.78402558,84031089,US,USA,840,31089.0,holt,"Holt, Nebraska, US",0,0,0,0
@@ -7481,6 +7566,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.45522056,-98.78402558,84031089,US,USA,840,31089.0,holt,"Holt, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.45522056,-98.78402558,84031089,US,USA,840,31089.0,holt,"Holt, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.45522056,-98.78402558,84031089,US,USA,840,31089.0,holt,"Holt, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.45522056,-98.78402558,84031089,US,USA,840,31089.0,holt,"Holt, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,42.48932059,-103.7576544,84031165,US,USA,840,31165.0,sioux,"Sioux, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.48932059,-103.7576544,84031165,US,USA,840,31165.0,sioux,"Sioux, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.48932059,-103.7576544,84031165,US,USA,840,31165.0,sioux,"Sioux, Nebraska, US",0,0,0,0
@@ -7568,6 +7654,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.48932059,-103.7576544,84031165,US,USA,840,31165.0,sioux,"Sioux, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.48932059,-103.7576544,84031165,US,USA,840,31165.0,sioux,"Sioux, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.48932059,-103.7576544,84031165,US,USA,840,31165.0,sioux,"Sioux, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.48932059,-103.7576544,84031165,US,USA,840,31165.0,sioux,"Sioux, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,42.49188363,-96.86782408,84031051,US,USA,840,31051.0,dixon,"Dixon, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.49188363,-96.86782408,84031051,US,USA,840,31051.0,dixon,"Dixon, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.49188363,-96.86782408,84031051,US,USA,840,31051.0,dixon,"Dixon, Nebraska, US",0,0,0,0
@@ -7655,6 +7742,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.49188363,-96.86782408,84031051,US,USA,840,31051.0,dixon,"Dixon, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.49188363,-96.86782408,84031051,US,USA,840,31051.0,dixon,"Dixon, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.49188363,-96.86782408,84031051,US,USA,840,31051.0,dixon,"Dixon, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.49188363,-96.86782408,84031051,US,USA,840,31051.0,dixon,"Dixon, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,42.50284406,-102.4126613,84031161,US,USA,840,31161.0,sheridan,"Sheridan, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.50284406,-102.4126613,84031161,US,USA,840,31161.0,sheridan,"Sheridan, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.50284406,-102.4126613,84031161,US,USA,840,31161.0,sheridan,"Sheridan, Nebraska, US",0,0,0,0
@@ -7742,6 +7830,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.50284406,-102.4126613,84031161,US,USA,840,31161.0,sheridan,"Sheridan, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.50284406,-102.4126613,84031161,US,USA,840,31161.0,sheridan,"Sheridan, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.50284406,-102.4126613,84031161,US,USA,840,31161.0,sheridan,"Sheridan, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.50284406,-102.4126613,84031161,US,USA,840,31161.0,sheridan,"Sheridan, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,42.54502621,-101.1244332,84031031,US,USA,840,31031.0,cherry,"Cherry, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.54502621,-101.1244332,84031031,US,USA,840,31031.0,cherry,"Cherry, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.54502621,-101.1244332,84031031,US,USA,840,31031.0,cherry,"Cherry, Nebraska, US",0,0,0,0
@@ -7829,6 +7918,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.54502621,-101.1244332,84031031,US,USA,840,31031.0,cherry,"Cherry, Nebraska, US",1,0,0,0
 2020-04-16,us,nebraska,42.54502621,-101.1244332,84031031,US,USA,840,31031.0,cherry,"Cherry, Nebraska, US",1,0,0,0
 2020-04-17,us,nebraska,42.54502621,-101.1244332,84031031,US,USA,840,31031.0,cherry,"Cherry, Nebraska, US",1,0,0,0
+2020-04-18,us,nebraska,42.54502621,-101.1244332,84031031,US,USA,840,31031.0,cherry,"Cherry, Nebraska, US",1,0,0,0
 2020-01-22,us,nebraska,42.5988851,-97.25311951,84031027,US,USA,840,31027.0,cedar,"Cedar, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.5988851,-97.25311951,84031027,US,USA,840,31027.0,cedar,"Cedar, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.5988851,-97.25311951,84031027,US,USA,840,31027.0,cedar,"Cedar, Nebraska, US",0,0,0,0
@@ -7916,6 +8006,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.5988851,-97.25311951,84031027,US,USA,840,31027.0,cedar,"Cedar, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.5988851,-97.25311951,84031027,US,USA,840,31027.0,cedar,"Cedar, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.5988851,-97.25311951,84031027,US,USA,840,31027.0,cedar,"Cedar, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.5988851,-97.25311951,84031027,US,USA,840,31027.0,cedar,"Cedar, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,42.63758421,-97.89178836,84031107,US,USA,840,31107.0,knox,"Knox, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.63758421,-97.89178836,84031107,US,USA,840,31107.0,knox,"Knox, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.63758421,-97.89178836,84031107,US,USA,840,31107.0,knox,"Knox, Nebraska, US",0,0,0,0
@@ -8003,6 +8094,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.63758421,-97.89178836,84031107,US,USA,840,31107.0,knox,"Knox, Nebraska, US",2,0,0,0
 2020-04-16,us,nebraska,42.63758421,-97.89178836,84031107,US,USA,840,31107.0,knox,"Knox, Nebraska, US",2,0,0,0
 2020-04-17,us,nebraska,42.63758421,-97.89178836,84031107,US,USA,840,31107.0,knox,"Knox, Nebraska, US",2,0,0,0
+2020-04-18,us,nebraska,42.63758421,-97.89178836,84031107,US,USA,840,31107.0,knox,"Knox, Nebraska, US",2,0,0,0
 2020-01-22,us,nebraska,42.71985036,-103.1313774,84031045,US,USA,840,31045.0,dawes,"Dawes, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.71985036,-103.1313774,84031045,US,USA,840,31045.0,dawes,"Dawes, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.71985036,-103.1313774,84031045,US,USA,840,31045.0,dawes,"Dawes, Nebraska, US",0,0,0,0
@@ -8090,6 +8182,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.71985036,-103.1313774,84031045,US,USA,840,31045.0,dawes,"Dawes, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.71985036,-103.1313774,84031045,US,USA,840,31045.0,dawes,"Dawes, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.71985036,-103.1313774,84031045,US,USA,840,31045.0,dawes,"Dawes, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.71985036,-103.1313774,84031045,US,USA,840,31045.0,dawes,"Dawes, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,42.87990694,-99.71343729,84031103,US,USA,840,31103.0,keya-paha,"Keya Paha, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.87990694,-99.71343729,84031103,US,USA,840,31103.0,keya-paha,"Keya Paha, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.87990694,-99.71343729,84031103,US,USA,840,31103.0,keya-paha,"Keya Paha, Nebraska, US",0,0,0,0
@@ -8177,6 +8270,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.87990694,-99.71343729,84031103,US,USA,840,31103.0,keya-paha,"Keya Paha, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.87990694,-99.71343729,84031103,US,USA,840,31103.0,keya-paha,"Keya Paha, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.87990694,-99.71343729,84031103,US,USA,840,31103.0,keya-paha,"Keya Paha, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.87990694,-99.71343729,84031103,US,USA,840,31103.0,keya-paha,"Keya Paha, Nebraska, US",0,0,0,0
 2020-01-22,us,nebraska,42.8997274,-98.76486568,84031015,US,USA,840,31015.0,boyd,"Boyd, Nebraska, US",0,0,0,0
 2020-01-23,us,nebraska,42.8997274,-98.76486568,84031015,US,USA,840,31015.0,boyd,"Boyd, Nebraska, US",0,0,0,0
 2020-01-24,us,nebraska,42.8997274,-98.76486568,84031015,US,USA,840,31015.0,boyd,"Boyd, Nebraska, US",0,0,0,0
@@ -8264,3 +8358,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,nebraska,42.8997274,-98.76486568,84031015,US,USA,840,31015.0,boyd,"Boyd, Nebraska, US",0,0,0,0
 2020-04-16,us,nebraska,42.8997274,-98.76486568,84031015,US,USA,840,31015.0,boyd,"Boyd, Nebraska, US",0,0,0,0
 2020-04-17,us,nebraska,42.8997274,-98.76486568,84031015,US,USA,840,31015.0,boyd,"Boyd, Nebraska, US",0,0,0,0
+2020-04-18,us,nebraska,42.8997274,-98.76486568,84031015,US,USA,840,31015.0,boyd,"Boyd, Nebraska, US",0,0,0,0

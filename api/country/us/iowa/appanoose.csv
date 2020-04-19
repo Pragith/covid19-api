@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,iowa,40.74324454,-92.86865906,84019007,US,USA,840,19007.0,appanoose,"Appanoose, Iowa, US",1,0,1,0
 2020-04-16,us,iowa,40.74324454,-92.86865906,84019007,US,USA,840,19007.0,appanoose,"Appanoose, Iowa, US",2,1,1,0
 2020-04-17,us,iowa,40.74324454,-92.86865906,84019007,US,USA,840,19007.0,appanoose,"Appanoose, Iowa, US",2,0,1,0
+2020-04-18,us,iowa,40.74324454,-92.86865906,84019007,US,USA,840,19007.0,appanoose,"Appanoose, Iowa, US",2,0,2,1

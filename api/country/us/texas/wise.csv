@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,texas,33.21570665,-97.65460265,84048497,US,USA,840,48497.0,wise,"Wise, Texas, US",5,0,0,0
 2020-04-16,us,texas,33.21570665,-97.65460265,84048497,US,USA,840,48497.0,wise,"Wise, Texas, US",7,2,1,1
 2020-04-17,us,texas,33.21570665,-97.65460265,84048497,US,USA,840,48497.0,wise,"Wise, Texas, US",8,1,2,1
+2020-04-18,us,texas,33.21570665,-97.65460265,84048497,US,USA,840,48497.0,wise,"Wise, Texas, US",9,1,2,0

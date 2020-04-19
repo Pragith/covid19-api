@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",8,-2,0,0
 2020-04-16,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",8,0,0,0
 2020-04-17,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",9,1,0,0
+2020-04-18,us,mississippi,30.86259065,-88.64436789,84028039,US,USA,840,28039.0,george,"George, Mississippi, US",10,1,1,1

@@ -77,8 +77,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-06,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",11,1,0,0
 2020-04-07,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",11,0,0,0
 2020-04-08,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",13,2,0,0
-2020-04-09,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",13,0,0,0
-2020-04-10,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",32,19,0,0
+2020-04-09,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",31,18,0,0
+2020-04-10,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",32,1,0,0
 2020-04-11,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",37,5,0,0
 2020-04-12,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",37,0,0,0
 2020-04-13,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",39,2,0,0
@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",39,1,0,0
 2020-04-16,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",39,0,0,0
 2020-04-17,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",42,3,0,0
+2020-04-18,us,illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,clinton,"Clinton, Illinois, US",44,2,0,0
