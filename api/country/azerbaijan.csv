@@ -86,3 +86,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-15,azerbaijan,,40.1431,47.5769,1253,13,404.0,56,0,53.0
 2020-04-16,azerbaijan,,40.1431,47.5769,1283,15,460.0,30,2,56.0
 2020-04-17,azerbaijan,,40.1431,47.5769,1340,15,528.0,57,0,68.0
+2020-04-18,azerbaijan,,40.1431,47.5769,1373,18,590.0,33,3,62.0

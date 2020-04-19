@@ -86,3 +86,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-15,angola,,-11.2027,17.8739,19,2,5.0,0,0,0.0
 2020-04-16,angola,,-11.2027,17.8739,19,2,5.0,0,0,0.0
 2020-04-17,angola,,-11.2027,17.8739,19,2,5.0,0,0,0.0
+2020-04-18,angola,,-11.2027,17.8739,24,2,6.0,5,0,1.0

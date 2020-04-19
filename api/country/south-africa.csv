@@ -86,3 +86,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-15,south-africa,,-30.5595,22.9375,2506,34,410.0,91,7,0.0
 2020-04-16,south-africa,,-30.5595,22.9375,2605,48,903.0,99,14,493.0
 2020-04-17,south-africa,,-30.5595,22.9375,2783,50,903.0,178,2,0.0
+2020-04-18,south-africa,,-30.5595,22.9375,3034,52,903.0,251,2,0.0

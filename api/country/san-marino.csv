@@ -86,3 +86,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-15,san-marino,,43.9424,12.4578,372,36,53.0,1,0,0.0
 2020-04-16,san-marino,,43.9424,12.4578,426,38,55.0,54,2,2.0
 2020-04-17,san-marino,,43.9424,12.4578,435,39,57.0,9,1,2.0
+2020-04-18,san-marino,,43.9424,12.4578,455,39,60.0,20,0,3.0

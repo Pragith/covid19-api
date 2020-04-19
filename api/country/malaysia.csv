@@ -86,3 +86,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-15,malaysia,,2.5,112.5,5072,83,2647.0,85,1,169.0
 2020-04-16,malaysia,,2.5,112.5,5182,84,2766.0,110,1,119.0
 2020-04-17,malaysia,,2.5,112.5,5251,86,2967.0,69,2,201.0
+2020-04-18,malaysia,,2.5,112.5,5305,88,3102.0,54,2,135.0

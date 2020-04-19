@@ -86,3 +86,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-15,canada,yukon,64.2823,-135.0,8,0,0,0,0.0,0.0
 2020-04-16,canada,yukon,64.2823,-135.0,8,0,0,0,0.0,0.0
 2020-04-17,canada,yukon,64.2823,-135.0,8,0,0,0,0.0,0.0
+2020-04-18,canada,yukon,64.2823,-135.0,9,1,0,0,0.0,0.0

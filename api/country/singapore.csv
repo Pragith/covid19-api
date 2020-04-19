@@ -86,3 +86,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-15,singapore,,1.2833,103.8333,3699,10,652.0,447,0,41.0
 2020-04-16,singapore,,1.2833,103.8333,4427,10,683.0,728,0,31.0
 2020-04-17,singapore,,1.2833,103.8333,5050,11,708.0,623,1,25.0
+2020-04-18,singapore,,1.2833,103.8333,5992,11,740.0,942,0,32.0

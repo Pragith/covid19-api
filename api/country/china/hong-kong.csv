@@ -86,3 +86,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-15,china,hong-kong,22.3,114.2,1017,5,4,0,459.0,25.0
 2020-04-16,china,hong-kong,22.3,114.2,1017,0,4,0,485.0,26.0
 2020-04-17,china,hong-kong,22.3,114.2,1021,4,4,0,533.0,48.0
+2020-04-18,china,hong-kong,22.3,114.2,1024,3,4,0,568.0,35.0

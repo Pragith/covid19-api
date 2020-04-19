@@ -86,3 +86,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-15,canada,british-columbia,49.2827,-123.1207,1517,27,72,3,0.0,0.0
 2020-04-16,canada,british-columbia,49.2827,-123.1207,1561,44,75,3,0.0,0.0
 2020-04-17,canada,british-columbia,49.2827,-123.1207,1575,14,77,2,0.0,0.0
+2020-04-18,canada,british-columbia,49.2827,-123.1207,1618,43,78,1,0.0,0.0

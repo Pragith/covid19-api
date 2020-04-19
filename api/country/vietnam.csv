@@ -86,3 +86,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-15,vietnam,,16.0,108.0,267,0,171.0,1,0,2.0
 2020-04-16,vietnam,,16.0,108.0,268,0,177.0,1,0,6.0
 2020-04-17,vietnam,,16.0,108.0,268,0,198.0,0,0,21.0
+2020-04-18,vietnam,,16.0,108.0,268,0,201.0,0,0,3.0
