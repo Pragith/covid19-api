@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Texas,28.89333001,-98.52730485,84048013,US,USA,840,48013.0,Atascosa,"Atascosa, Texas, US",9,0,0,0
 2020-04-16,US,Texas,28.89333001,-98.52730485,84048013,US,USA,840,48013.0,Atascosa,"Atascosa, Texas, US",9,0,0,0
 2020-04-17,US,Texas,28.89333001,-98.52730485,84048013,US,USA,840,48013.0,Atascosa,"Atascosa, Texas, US",10,1,1,1
+2020-04-18,US,Texas,28.89333001,-98.52730485,84048013,US,USA,840,48013.0,Atascosa,"Atascosa, Texas, US",10,0,1,0

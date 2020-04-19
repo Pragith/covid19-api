@@ -77,8 +77,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-06,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",3,0,1,0
 2020-04-07,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",3,0,1,0
 2020-04-08,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",4,1,1,0
-2020-04-09,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",4,0,1,0
-2020-04-10,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",8,4,1,0
+2020-04-09,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",6,2,1,0
+2020-04-10,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",8,2,1,0
 2020-04-11,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",8,0,1,0
 2020-04-12,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",8,0,1,0
 2020-04-13,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",9,1,1,0
@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",9,0,1,0
 2020-04-16,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",9,0,1,0
 2020-04-17,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",11,2,1,0
+2020-04-18,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",13,2,1,0

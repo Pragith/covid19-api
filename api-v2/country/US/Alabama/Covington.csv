@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alabama,31.2477854,-86.45050893,84001039,US,USA,840,1039.0,Covington,"Covington, Alabama, US",17,1,0,0
 2020-04-16,US,Alabama,31.2477854,-86.45050893,84001039,US,USA,840,1039.0,Covington,"Covington, Alabama, US",18,1,0,0
 2020-04-17,US,Alabama,31.2477854,-86.45050893,84001039,US,USA,840,1039.0,Covington,"Covington, Alabama, US",19,1,1,1
+2020-04-18,US,Alabama,31.2477854,-86.45050893,84001039,US,USA,840,1039.0,Covington,"Covington, Alabama, US",21,2,1,0

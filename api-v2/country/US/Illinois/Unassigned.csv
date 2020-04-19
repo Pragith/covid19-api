@@ -75,10 +75,10 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-04,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",58,-357,1,0
 2020-04-05,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",62,4,0,-1
 2020-04-06,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",72,10,1,1
-2020-04-07,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",72,0,1,0
-2020-04-08,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",73,1,1,0
-2020-04-09,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",73,0,1,0
-2020-04-10,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",81,8,1,0
+2020-04-07,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",65,-7,1,0
+2020-04-08,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",73,8,1,0
+2020-04-09,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",68,-5,1,0
+2020-04-10,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",81,13,1,0
 2020-04-11,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",85,4,0,-1
 2020-04-12,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",101,16,1,1
 2020-04-13,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",65,-36,1,0
@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",45,-9,1,0
 2020-04-16,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",55,10,1,0
 2020-04-17,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",74,19,1,0
+2020-04-18,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",84,10,3,2

@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,Rutland,"Rutland, Vermont, US",39,31,0,0
 2020-04-16,US,Vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,Rutland,"Rutland, Vermont, US",41,2,0,0
 2020-04-17,US,Vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,Rutland,"Rutland, Vermont, US",41,0,1,1
+2020-04-18,US,Vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,Rutland,"Rutland, Vermont, US",42,1,1,0

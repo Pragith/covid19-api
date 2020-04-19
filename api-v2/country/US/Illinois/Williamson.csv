@@ -75,10 +75,10 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-04,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",3,1,0,0
 2020-04-05,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",3,0,0,0
 2020-04-06,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",3,0,0,0
-2020-04-07,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",3,0,0,0
-2020-04-08,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",9,6,0,0
-2020-04-09,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",9,0,0,0
-2020-04-10,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",10,1,0,0
+2020-04-07,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",8,5,0,0
+2020-04-08,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",9,1,0,0
+2020-04-09,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",10,1,0,0
+2020-04-10,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",10,0,0,0
 2020-04-11,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",10,0,0,0
 2020-04-12,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",10,0,0,0
 2020-04-13,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",10,0,0,0
@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",12,2,0,0
 2020-04-16,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",12,0,0,0
 2020-04-17,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",13,1,0,0
+2020-04-18,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",13,0,0,0

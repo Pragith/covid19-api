@@ -86,6 +86,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,0.0,0.0,84080002,US,USA,840,80002.0,Out of AK,"Out of AK, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,0.0,0.0,84080002,US,USA,840,80002.0,Out of AK,"Out of AK, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,0.0,0.0,84080002,US,USA,840,80002.0,Out of AK,"Out of AK, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,0.0,0.0,84080002,US,USA,840,80002.0,Out of AK,"Out of AK, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,0.0,0.0,84090002,US,USA,840,90002.0,Unassigned,"Unassigned, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,0.0,0.0,84090002,US,USA,840,90002.0,Unassigned,"Unassigned, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,0.0,0.0,84090002,US,USA,840,90002.0,Unassigned,"Unassigned, Alaska, US",0,0,0,0
@@ -173,6 +174,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,0.0,0.0,84090002,US,USA,840,90002.0,Unassigned,"Unassigned, Alaska, US",0,0,4,0
 2020-04-16,US,Alaska,0.0,0.0,84090002,US,USA,840,90002.0,Unassigned,"Unassigned, Alaska, US",0,0,4,0
 2020-04-17,US,Alaska,0.0,0.0,84090002,US,USA,840,90002.0,Unassigned,"Unassigned, Alaska, US",0,0,4,0
+2020-04-18,US,Alaska,0.0,0.0,84090002,US,USA,840,90002.0,Unassigned,"Unassigned, Alaska, US",0,0,4,0
 2020-01-22,US,Alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,Aleutians West,"Aleutians West, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,Aleutians West,"Aleutians West, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,Aleutians West,"Aleutians West, Alaska, US",0,0,0,0
@@ -260,6 +262,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,Aleutians West,"Aleutians West, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,Aleutians West,"Aleutians West, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,Aleutians West,"Aleutians West, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,52.72541116,-110.4086433,84002016,US,USA,840,2016.0,Aleutians West,"Aleutians West, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,Aleutians East,"Aleutians East, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,Aleutians East,"Aleutians East, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,Aleutians East,"Aleutians East, Alaska, US",0,0,0,0
@@ -347,6 +350,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,Aleutians East,"Aleutians East, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,Aleutians East,"Aleutians East, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,Aleutians East,"Aleutians East, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,55.32222414,-161.9722021,84002013,US,USA,840,2013.0,Aleutians East,"Aleutians East, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,Ketchikan Gateway,"Ketchikan Gateway, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,Ketchikan Gateway,"Ketchikan Gateway, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,Ketchikan Gateway,"Ketchikan Gateway, Alaska, US",0,0,0,0
@@ -434,6 +438,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,Ketchikan Gateway,"Ketchikan Gateway, Alaska, US",15,0,0,0
 2020-04-16,US,Alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,Ketchikan Gateway,"Ketchikan Gateway, Alaska, US",15,0,0,0
 2020-04-17,US,Alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,Ketchikan Gateway,"Ketchikan Gateway, Alaska, US",15,0,0,0
+2020-04-18,US,Alaska,55.57445008,-130.975561,84002130,US,USA,840,2130.0,Ketchikan Gateway,"Ketchikan Gateway, Alaska, US",15,0,0,0
 2020-01-22,US,Alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,Prince of Wales-Hyder,"Prince of Wales-Hyder, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,Prince of Wales-Hyder,"Prince of Wales-Hyder, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,Prince of Wales-Hyder,"Prince of Wales-Hyder, Alaska, US",0,0,0,0
@@ -521,6 +526,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,Prince of Wales-Hyder,"Prince of Wales-Hyder, Alaska, US",2,0,0,0
 2020-04-16,US,Alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,Prince of Wales-Hyder,"Prince of Wales-Hyder, Alaska, US",2,0,0,0
 2020-04-17,US,Alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,Prince of Wales-Hyder,"Prince of Wales-Hyder, Alaska, US",2,0,0,0
+2020-04-18,US,Alaska,55.76261984,-133.0511621,84002198,US,USA,840,2198.0,Prince of Wales-Hyder,"Prince of Wales-Hyder, Alaska, US",2,0,0,0
 2020-01-22,US,Alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,Wrangell,"Wrangell, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,Wrangell,"Wrangell, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,Wrangell,"Wrangell, Alaska, US",0,0,0,0
@@ -608,6 +614,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,Wrangell,"Wrangell, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,Wrangell,"Wrangell, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,Wrangell,"Wrangell, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,56.3202004,-132.05837309999998,84002275,US,USA,840,2275.0,Wrangell,"Wrangell, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,Petersburg,"Petersburg, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,Petersburg,"Petersburg, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,Petersburg,"Petersburg, Alaska, US",0,0,0,0
@@ -695,6 +702,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,Petersburg,"Petersburg, Alaska, US",2,0,0,0
 2020-04-16,US,Alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,Petersburg,"Petersburg, Alaska, US",2,0,0,0
 2020-04-17,US,Alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,Petersburg,"Petersburg, Alaska, US",2,0,0,0
+2020-04-18,US,Alaska,57.13978948,-132.9540995,84002195,US,USA,840,2195.0,Petersburg,"Petersburg, Alaska, US",2,0,0,0
 2020-01-22,US,Alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,Sitka,"Sitka, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,Sitka,"Sitka, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,Sitka,"Sitka, Alaska, US",0,0,0,0
@@ -782,6 +790,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,Sitka,"Sitka, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,Sitka,"Sitka, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,Sitka,"Sitka, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,57.24124555,-135.3206587,84002220,US,USA,840,2220.0,Sitka,"Sitka, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,Kodiak Island,"Kodiak Island, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,Kodiak Island,"Kodiak Island, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,Kodiak Island,"Kodiak Island, Alaska, US",0,0,0,0
@@ -869,6 +878,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,Kodiak Island,"Kodiak Island, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,Kodiak Island,"Kodiak Island, Alaska, US",1,1,0,0
 2020-04-17,US,Alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,Kodiak Island,"Kodiak Island, Alaska, US",1,0,0,0
+2020-04-18,US,Alaska,57.65529415,-153.7493579,84002150,US,USA,840,2150.0,Kodiak Island,"Kodiak Island, Alaska, US",1,0,0,0
 2020-01-22,US,Alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,Hoonah-Angoon,"Hoonah-Angoon, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,Hoonah-Angoon,"Hoonah-Angoon, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,Hoonah-Angoon,"Hoonah-Angoon, Alaska, US",0,0,0,0
@@ -956,6 +966,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,Hoonah-Angoon,"Hoonah-Angoon, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,Hoonah-Angoon,"Hoonah-Angoon, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,Hoonah-Angoon,"Hoonah-Angoon, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,58.29307365,-135.64244240000002,84002105,US,USA,840,2105.0,Hoonah-Angoon,"Hoonah-Angoon, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,Juneau,"Juneau, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,Juneau,"Juneau, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,Juneau,"Juneau, Alaska, US",0,0,0,0
@@ -1043,6 +1054,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,Juneau,"Juneau, Alaska, US",21,3,0,0
 2020-04-16,US,Alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,Juneau,"Juneau, Alaska, US",23,2,0,0
 2020-04-17,US,Alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,Juneau,"Juneau, Alaska, US",24,1,0,0
+2020-04-18,US,Alaska,58.45031811,-134.200436,84002110,US,USA,840,2110.0,Juneau,"Juneau, Alaska, US",24,0,0,0
 2020-01-22,US,Alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,Lake and Peninsula,"Lake and Peninsula, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,Lake and Peninsula,"Lake and Peninsula, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,Lake and Peninsula,"Lake and Peninsula, Alaska, US",0,0,0,0
@@ -1130,6 +1142,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,Lake and Peninsula,"Lake and Peninsula, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,Lake and Peninsula,"Lake and Peninsula, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,Lake and Peninsula,"Lake and Peninsula, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,58.62403337,-156.21405890000003,84002164,US,USA,840,2164.0,Lake and Peninsula,"Lake and Peninsula, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,Bristol Bay,"Bristol Bay, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,Bristol Bay,"Bristol Bay, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,Bristol Bay,"Bristol Bay, Alaska, US",0,0,0,0
@@ -1217,6 +1230,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,Bristol Bay,"Bristol Bay, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,Bristol Bay,"Bristol Bay, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,Bristol Bay,"Bristol Bay, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,58.74513976,-156.701064,84002060,US,USA,840,2060.0,Bristol Bay,"Bristol Bay, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,Haines,"Haines, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,Haines,"Haines, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,Haines,"Haines, Alaska, US",0,0,0,0
@@ -1304,6 +1318,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,Haines,"Haines, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,Haines,"Haines, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,Haines,"Haines, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,59.09893571,-135.4679843,84002100,US,USA,840,2100.0,Haines,"Haines, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,Skagway,"Skagway, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,Skagway,"Skagway, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,Skagway,"Skagway, Alaska, US",0,0,0,0
@@ -1391,6 +1406,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,Skagway,"Skagway, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,Skagway,"Skagway, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,Skagway,"Skagway, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,59.56149996,-135.3337748,84002230,US,USA,840,2230.0,Skagway,"Skagway, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,Dillingham,"Dillingham, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,Dillingham,"Dillingham, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,Dillingham,"Dillingham, Alaska, US",0,0,0,0
@@ -1478,6 +1494,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,Dillingham,"Dillingham, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,Dillingham,"Dillingham, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,Dillingham,"Dillingham, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,59.79603738,-158.23819419999995,84002070,US,USA,840,2070.0,Dillingham,"Dillingham, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,Yakutat,"Yakutat, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,Yakutat,"Yakutat, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,Yakutat,"Yakutat, Alaska, US",0,0,0,0
@@ -1565,6 +1582,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,Yakutat,"Yakutat, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,Yakutat,"Yakutat, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,Yakutat,"Yakutat, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,59.8909808,-140.36014509999998,84002282,US,USA,840,2282.0,Yakutat,"Yakutat, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,Kenai Peninsula,"Kenai Peninsula,Alaska,US",0,0,0,0
 2020-01-23,US,Alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,Kenai Peninsula,"Kenai Peninsula,Alaska,US",0,0,0,0
 2020-01-24,US,Alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,Kenai Peninsula,"Kenai Peninsula,Alaska,US",0,0,0,0
@@ -1652,6 +1670,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,Kenai Peninsula,"Kenai Peninsula,Alaska,US",16,1,0,0
 2020-04-16,US,Alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,Kenai Peninsula,"Kenai Peninsula,Alaska,US",16,0,0,0
 2020-04-17,US,Alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,Kenai Peninsula,"Kenai Peninsula,Alaska,US",17,1,0,0
+2020-04-18,US,Alaska,60.24429722,-151.53888840000005,84002122,US,USA,840,2122.0,Kenai Peninsula,"Kenai Peninsula,Alaska,US",19,2,0,0
 2020-01-22,US,Alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,Bethel,"Bethel, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,Bethel,"Bethel, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,Bethel,"Bethel, Alaska, US",0,0,0,0
@@ -1739,6 +1758,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,Bethel,"Bethel, Alaska, US",1,0,0,0
 2020-04-16,US,Alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,Bethel,"Bethel, Alaska, US",1,0,0,0
 2020-04-17,US,Alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,Bethel,"Bethel, Alaska, US",1,0,0,0
+2020-04-18,US,Alaska,60.90980451,-159.8561831,84002050,US,USA,840,2050.0,Bethel,"Bethel, Alaska, US",1,0,0,0
 2020-01-22,US,Alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,Anchorage,"Anchorage,Alaska,US",0,0,0,0
 2020-01-23,US,Alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,Anchorage,"Anchorage,Alaska,US",0,0,0,0
 2020-01-24,US,Alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,Anchorage,"Anchorage,Alaska,US",0,0,0,0
@@ -1826,6 +1846,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,Anchorage,"Anchorage,Alaska,US",139,3,4,0
 2020-04-16,US,Alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,Anchorage,"Anchorage,Alaska,US",143,4,4,0
 2020-04-17,US,Alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,Anchorage,"Anchorage,Alaska,US",150,7,4,0
+2020-04-18,US,Alaska,61.14998174,-149.14269860000005,84002020,US,USA,840,2020.0,Anchorage,"Anchorage,Alaska,US",151,1,4,0
 2020-01-22,US,Alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,Valdez-Cordova,"Valdez-Cordova, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,Valdez-Cordova,"Valdez-Cordova, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,Valdez-Cordova,"Valdez-Cordova, Alaska, US",0,0,0,0
@@ -1913,6 +1934,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,Valdez-Cordova,"Valdez-Cordova, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,Valdez-Cordova,"Valdez-Cordova, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,Valdez-Cordova,"Valdez-Cordova, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,61.47502768,-144.7126799,84002261,US,USA,840,2261.0,Valdez-Cordova,"Valdez-Cordova, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,Kusilvak,"Kusilvak, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,Kusilvak,"Kusilvak, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,Kusilvak,"Kusilvak, Alaska, US",0,0,0,0
@@ -2000,6 +2022,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,Kusilvak,"Kusilvak, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,Kusilvak,"Kusilvak, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,Kusilvak,"Kusilvak, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,62.15429159999999,-163.39678830000003,84002158,US,USA,840,2158.0,Kusilvak,"Kusilvak, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,Matanuska-Susitna,"Matanuska-Susitna,Alaska,US",0,0,0,0
 2020-01-23,US,Alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,Matanuska-Susitna,"Matanuska-Susitna,Alaska,US",0,0,0,0
 2020-01-24,US,Alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,Matanuska-Susitna,"Matanuska-Susitna,Alaska,US",0,0,0,0
@@ -2087,6 +2110,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,Matanuska-Susitna,"Matanuska-Susitna,Alaska,US",15,0,0,0
 2020-04-16,US,Alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,Matanuska-Susitna,"Matanuska-Susitna,Alaska,US",15,0,0,0
 2020-04-17,US,Alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,Matanuska-Susitna,"Matanuska-Susitna,Alaska,US",15,0,0,0
+2020-04-18,US,Alaska,62.31305045,-149.5741743,84002170,US,USA,840,2170.0,Matanuska-Susitna,"Matanuska-Susitna,Alaska,US",17,2,0,0
 2020-01-22,US,Alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,Denali,"Denali, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,Denali,"Denali, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,Denali,"Denali, Alaska, US",0,0,0,0
@@ -2174,6 +2198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,Denali,"Denali, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,Denali,"Denali, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,Denali,"Denali, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,63.67264044,-150.0076108,84002068,US,USA,840,2068.0,Denali,"Denali, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,Southeast Fairbanks,"Southeast Fairbanks, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,Southeast Fairbanks,"Southeast Fairbanks, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,Southeast Fairbanks,"Southeast Fairbanks, Alaska, US",0,0,0,0
@@ -2261,6 +2286,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,Southeast Fairbanks,"Southeast Fairbanks, Alaska, US",1,0,0,0
 2020-04-16,US,Alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,Southeast Fairbanks,"Southeast Fairbanks, Alaska, US",1,0,0,0
 2020-04-17,US,Alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,Southeast Fairbanks,"Southeast Fairbanks, Alaska, US",1,0,0,0
+2020-04-18,US,Alaska,63.87692095,-143.2127643,84002240,US,USA,840,2240.0,Southeast Fairbanks,"Southeast Fairbanks, Alaska, US",1,0,0,0
 2020-01-22,US,Alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,Fairbanks North Star,"Fairbanks North Star,Alaska,US",0,0,0,0
 2020-01-23,US,Alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,Fairbanks North Star,"Fairbanks North Star,Alaska,US",0,0,0,0
 2020-01-24,US,Alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,Fairbanks North Star,"Fairbanks North Star,Alaska,US",0,0,0,0
@@ -2348,6 +2374,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,Fairbanks North Star,"Fairbanks North Star,Alaska,US",79,0,1,0
 2020-04-16,US,Alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,Fairbanks North Star,"Fairbanks North Star,Alaska,US",79,0,1,0
 2020-04-17,US,Alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,Fairbanks North Star,"Fairbanks North Star,Alaska,US",79,0,1,0
+2020-04-18,US,Alaska,64.80726247,-146.5692662,84002090,US,USA,840,2090.0,Fairbanks North Star,"Fairbanks North Star,Alaska,US",79,0,1,0
 2020-01-22,US,Alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,Nome,"Nome, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,Nome,"Nome, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,Nome,"Nome, Alaska, US",0,0,0,0
@@ -2435,6 +2462,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,Nome,"Nome, Alaska, US",1,1,0,0
 2020-04-16,US,Alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,Nome,"Nome, Alaska, US",1,0,0,0
 2020-04-17,US,Alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,Nome,"Nome, Alaska, US",1,0,0,0
+2020-04-18,US,Alaska,64.90320724,-164.0353804,84002180,US,USA,840,2180.0,Nome,"Nome, Alaska, US",1,0,0,0
 2020-01-22,US,Alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,Yukon-Koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,Yukon-Koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,Yukon-Koyukuk,"Yukon-Koyukuk, Alaska, US",0,0,0,0
@@ -2522,6 +2550,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,Yukon-Koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0,0
 2020-04-16,US,Alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,Yukon-Koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0,0
 2020-04-17,US,Alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,Yukon-Koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0,0
+2020-04-18,US,Alaska,65.50815459,-151.3907387,84002290,US,USA,840,2290.0,Yukon-Koyukuk,"Yukon-Koyukuk, Alaska, US",1,0,0,0
 2020-01-22,US,Alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,Northwest Arctic,"Northwest Arctic, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,Northwest Arctic,"Northwest Arctic, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,Northwest Arctic,"Northwest Arctic, Alaska, US",0,0,0,0
@@ -2609,6 +2638,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,Northwest Arctic,"Northwest Arctic, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,Northwest Arctic,"Northwest Arctic, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,Northwest Arctic,"Northwest Arctic, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,67.04919196,-159.7503946,84002188,US,USA,840,2188.0,Northwest Arctic,"Northwest Arctic, Alaska, US",0,0,0,0
 2020-01-22,US,Alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,North Slope,"North Slope, Alaska, US",0,0,0,0
 2020-01-23,US,Alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,North Slope,"North Slope, Alaska, US",0,0,0,0
 2020-01-24,US,Alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,North Slope,"North Slope, Alaska, US",0,0,0,0
@@ -2696,3 +2726,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,North Slope,"North Slope, Alaska, US",0,0,0,0
 2020-04-16,US,Alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,North Slope,"North Slope, Alaska, US",0,0,0,0
 2020-04-17,US,Alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,North Slope,"North Slope, Alaska, US",0,0,0,0
+2020-04-18,US,Alaska,69.31479216,-153.4836093,84002185,US,USA,840,2185.0,North Slope,"North Slope, Alaska, US",0,0,0,0

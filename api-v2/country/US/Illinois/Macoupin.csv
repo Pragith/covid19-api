@@ -75,10 +75,10 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-04,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",4,3,0,0
 2020-04-05,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",5,1,0,0
 2020-04-06,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",7,2,0,0
-2020-04-07,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",7,0,0,0
-2020-04-08,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",10,3,0,0
-2020-04-09,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",10,0,0,0
-2020-04-10,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",14,4,0,0
+2020-04-07,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",8,1,0,0
+2020-04-08,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",10,2,0,0
+2020-04-09,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",12,2,0,0
+2020-04-10,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",14,2,0,0
 2020-04-11,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",14,0,0,0
 2020-04-12,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",16,2,0,0
 2020-04-13,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",16,0,0,0
@@ -86,3 +86,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",17,1,0,0
 2020-04-16,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",18,1,0,0
 2020-04-17,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",18,0,0,0
+2020-04-18,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",21,3,0,0

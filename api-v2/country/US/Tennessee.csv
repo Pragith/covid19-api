@@ -86,6 +86,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,0.0,0.0,84080047,US,USA,840,80047.0,Out of TN,"Out of TN, Tennessee, US",260,0,1,0
 2020-04-16,US,Tennessee,0.0,0.0,84080047,US,USA,840,80047.0,Out of TN,"Out of TN, Tennessee, US",243,-17,1,0
 2020-04-17,US,Tennessee,0.0,0.0,84080047,US,USA,840,80047.0,Out of TN,"Out of TN, Tennessee, US",250,7,1,0
+2020-04-18,US,Tennessee,0.0,0.0,84080047,US,USA,840,80047.0,Out of TN,"Out of TN, Tennessee, US",259,9,1,0
 2020-01-22,US,Tennessee,0.0,0.0,84090047,US,USA,840,90047.0,Unassigned,"Unassigned, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,0.0,0.0,84090047,US,USA,840,90047.0,Unassigned,"Unassigned, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,0.0,0.0,84090047,US,USA,840,90047.0,Unassigned,"Unassigned, Tennessee, US",0,0,0,0
@@ -173,6 +174,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,0.0,0.0,84090047,US,USA,840,90047.0,Unassigned,"Unassigned, Tennessee, US",136,0,0,0
 2020-04-16,US,Tennessee,0.0,0.0,84090047,US,USA,840,90047.0,Unassigned,"Unassigned, Tennessee, US",197,61,0,0
 2020-04-17,US,Tennessee,0.0,0.0,84090047,US,USA,840,90047.0,Unassigned,"Unassigned, Tennessee, US",209,12,0,0
+2020-04-18,US,Tennessee,0.0,0.0,84090047,US,USA,840,90047.0,Unassigned,"Unassigned, Tennessee, US",37,-172,0,0
 2020-01-22,US,Tennessee,35.12245443,-84.52075859,84047139,US,USA,840,47139.0,Polk,"Polk, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.12245443,-84.52075859,84047139,US,USA,840,47139.0,Polk,"Polk, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.12245443,-84.52075859,84047139,US,USA,840,47139.0,Polk,"Polk, Tennessee, US",0,0,0,0
@@ -260,6 +262,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.12245443,-84.52075859,84047139,US,USA,840,47139.0,Polk,"Polk, Tennessee, US",5,0,0,0
 2020-04-16,US,Tennessee,35.12245443,-84.52075859,84047139,US,USA,840,47139.0,Polk,"Polk, Tennessee, US",5,0,0,0
 2020-04-17,US,Tennessee,35.12245443,-84.52075859,84047139,US,USA,840,47139.0,Polk,"Polk, Tennessee, US",5,0,0,0
+2020-04-18,US,Tennessee,35.12245443,-84.52075859,84047139,US,USA,840,47139.0,Polk,"Polk, Tennessee, US",5,0,0,0
 2020-01-22,US,Tennessee,35.12997174,-85.62265895,84047115,US,USA,840,47115.0,Marion,"Marion, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.12997174,-85.62265895,84047115,US,USA,840,47115.0,Marion,"Marion, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.12997174,-85.62265895,84047115,US,USA,840,47115.0,Marion,"Marion, Tennessee, US",0,0,0,0
@@ -347,6 +350,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.12997174,-85.62265895,84047115,US,USA,840,47115.0,Marion,"Marion, Tennessee, US",26,0,1,0
 2020-04-16,US,Tennessee,35.12997174,-85.62265895,84047115,US,USA,840,47115.0,Marion,"Marion, Tennessee, US",27,1,1,0
 2020-04-17,US,Tennessee,35.12997174,-85.62265895,84047115,US,USA,840,47115.0,Marion,"Marion, Tennessee, US",27,0,1,0
+2020-04-18,US,Tennessee,35.12997174,-85.62265895,84047115,US,USA,840,47115.0,Marion,"Marion, Tennessee, US",28,1,1,0
 2020-01-22,US,Tennessee,35.13738622,-86.58910106,84047103,US,USA,840,47103.0,Lincoln,"Lincoln, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.13738622,-86.58910106,84047103,US,USA,840,47103.0,Lincoln,"Lincoln, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.13738622,-86.58910106,84047103,US,USA,840,47103.0,Lincoln,"Lincoln, Tennessee, US",0,0,0,0
@@ -434,6 +438,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.13738622,-86.58910106,84047103,US,USA,840,47103.0,Lincoln,"Lincoln, Tennessee, US",9,0,0,0
 2020-04-16,US,Tennessee,35.13738622,-86.58910106,84047103,US,USA,840,47103.0,Lincoln,"Lincoln, Tennessee, US",9,0,0,0
 2020-04-17,US,Tennessee,35.13738622,-86.58910106,84047103,US,USA,840,47103.0,Lincoln,"Lincoln, Tennessee, US",9,0,0,0
+2020-04-18,US,Tennessee,35.13738622,-86.58910106,84047103,US,USA,840,47103.0,Lincoln,"Lincoln, Tennessee, US",9,0,0,0
 2020-01-22,US,Tennessee,35.15634626,-86.09201039,84047051,US,USA,840,47051.0,Franklin,"Franklin, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.15634626,-86.09201039,84047051,US,USA,840,47051.0,Franklin,"Franklin, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.15634626,-86.09201039,84047051,US,USA,840,47051.0,Franklin,"Franklin, Tennessee, US",0,0,0,0
@@ -521,6 +526,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.15634626,-86.09201039,84047051,US,USA,840,47051.0,Franklin,"Franklin, Tennessee, US",23,0,1,0
 2020-04-16,US,Tennessee,35.15634626,-86.09201039,84047051,US,USA,840,47051.0,Franklin,"Franklin, Tennessee, US",23,0,1,0
 2020-04-17,US,Tennessee,35.15634626,-86.09201039,84047051,US,USA,840,47051.0,Franklin,"Franklin, Tennessee, US",23,0,1,0
+2020-04-18,US,Tennessee,35.15634626,-86.09201039,84047051,US,USA,840,47051.0,Franklin,"Franklin, Tennessee, US",23,0,1,0
 2020-01-22,US,Tennessee,35.15739424,-84.857186,84047011,US,USA,840,47011.0,Bradley,"Bradley, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.15739424,-84.857186,84047011,US,USA,840,47011.0,Bradley,"Bradley, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.15739424,-84.857186,84047011,US,USA,840,47011.0,Bradley,"Bradley, Tennessee, US",0,0,0,0
@@ -608,6 +614,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.15739424,-84.857186,84047011,US,USA,840,47011.0,Bradley,"Bradley, Tennessee, US",33,0,1,0
 2020-04-16,US,Tennessee,35.15739424,-84.857186,84047011,US,USA,840,47011.0,Bradley,"Bradley, Tennessee, US",33,0,1,0
 2020-04-17,US,Tennessee,35.15739424,-84.857186,84047011,US,USA,840,47011.0,Bradley,"Bradley, Tennessee, US",35,2,1,0
+2020-04-18,US,Tennessee,35.15739424,-84.857186,84047011,US,USA,840,47011.0,Bradley,"Bradley, Tennessee, US",38,3,1,0
 2020-01-22,US,Tennessee,35.17468549,-88.5647812,84047109,US,USA,840,47109.0,McNairy,"McNairy, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.17468549,-88.5647812,84047109,US,USA,840,47109.0,McNairy,"McNairy, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.17468549,-88.5647812,84047109,US,USA,840,47109.0,McNairy,"McNairy, Tennessee, US",0,0,0,0
@@ -695,6 +702,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.17468549,-88.5647812,84047109,US,USA,840,47109.0,McNairy,"McNairy, Tennessee, US",9,0,0,0
 2020-04-16,US,Tennessee,35.17468549,-88.5647812,84047109,US,USA,840,47109.0,McNairy,"McNairy, Tennessee, US",9,0,0,0
 2020-04-17,US,Tennessee,35.17468549,-88.5647812,84047109,US,USA,840,47109.0,McNairy,"McNairy, Tennessee, US",9,0,0,0
+2020-04-18,US,Tennessee,35.17468549,-88.5647812,84047109,US,USA,840,47109.0,McNairy,"McNairy, Tennessee, US",9,0,0,0
 2020-01-22,US,Tennessee,35.17670231,-85.16652245,84047065,US,USA,840,47065.0,Hamilton,"Hamilton, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.17670231,-85.16652245,84047065,US,USA,840,47065.0,Hamilton,"Hamilton, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.17670231,-85.16652245,84047065,US,USA,840,47065.0,Hamilton,"Hamilton, Tennessee, US",0,0,0,0
@@ -782,6 +790,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.17670231,-85.16652245,84047065,US,USA,840,47065.0,Hamilton,"Hamilton, Tennessee, US",110,0,11,0
 2020-04-16,US,Tennessee,35.17670231,-85.16652245,84047065,US,USA,840,47065.0,Hamilton,"Hamilton, Tennessee, US",109,-1,11,0
 2020-04-17,US,Tennessee,35.17670231,-85.16652245,84047065,US,USA,840,47065.0,Hamilton,"Hamilton, Tennessee, US",110,1,11,0
+2020-04-18,US,Tennessee,35.17670231,-85.16652245,84047065,US,USA,840,47065.0,Hamilton,"Hamilton, Tennessee, US",114,4,11,0
 2020-01-22,US,Tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,Shelby,"Shelby, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,Shelby,"Shelby, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,Shelby,"Shelby, Tennessee, US",0,0,0,0
@@ -869,6 +878,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,Shelby,"Shelby, Tennessee, US",1359,0,26,0
 2020-04-16,US,Tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,Shelby,"Shelby, Tennessee, US",1508,149,32,6
 2020-04-17,US,Tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,Shelby,"Shelby, Tennessee, US",1492,-16,33,1
+2020-04-18,US,Tennessee,35.1864775,-89.89692423,84047157,US,USA,840,47157.0,Shelby,"Shelby, Tennessee, US",1682,190,33,0
 2020-01-22,US,Tennessee,35.19615831,-89.41399032,84047047,US,USA,840,47047.0,Fayette,"Fayette, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.19615831,-89.41399032,84047047,US,USA,840,47047.0,Fayette,"Fayette, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.19615831,-89.41399032,84047047,US,USA,840,47047.0,Fayette,"Fayette, Tennessee, US",0,0,0,0
@@ -956,6 +966,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.19615831,-89.41399032,84047047,US,USA,840,47047.0,Fayette,"Fayette, Tennessee, US",37,0,0,0
 2020-04-16,US,Tennessee,35.19615831,-89.41399032,84047047,US,USA,840,47047.0,Fayette,"Fayette, Tennessee, US",39,2,1,1
 2020-04-17,US,Tennessee,35.19615831,-89.41399032,84047047,US,USA,840,47047.0,Fayette,"Fayette, Tennessee, US",42,3,1,0
+2020-04-18,US,Tennessee,35.19615831,-89.41399032,84047047,US,USA,840,47047.0,Fayette,"Fayette, Tennessee, US",44,2,1,0
 2020-01-22,US,Tennessee,35.19732531,-88.18593755,84047071,US,USA,840,47071.0,Hardin,"Hardin, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.19732531,-88.18593755,84047071,US,USA,840,47071.0,Hardin,"Hardin, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.19732531,-88.18593755,84047071,US,USA,840,47071.0,Hardin,"Hardin, Tennessee, US",0,0,0,0
@@ -1043,6 +1054,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.19732531,-88.18593755,84047071,US,USA,840,47071.0,Hardin,"Hardin, Tennessee, US",2,0,0,0
 2020-04-16,US,Tennessee,35.19732531,-88.18593755,84047071,US,USA,840,47071.0,Hardin,"Hardin, Tennessee, US",4,2,0,0
 2020-04-17,US,Tennessee,35.19732531,-88.18593755,84047071,US,USA,840,47071.0,Hardin,"Hardin, Tennessee, US",4,0,0,0
+2020-04-18,US,Tennessee,35.19732531,-88.18593755,84047071,US,USA,840,47071.0,Hardin,"Hardin, Tennessee, US",4,0,0,0
 2020-01-22,US,Tennessee,35.20222469,-87.03992678,84047055,US,USA,840,47055.0,Giles,"Giles, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.20222469,-87.03992678,84047055,US,USA,840,47055.0,Giles,"Giles, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.20222469,-87.03992678,84047055,US,USA,840,47055.0,Giles,"Giles, Tennessee, US",0,0,0,0
@@ -1130,6 +1142,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.20222469,-87.03992678,84047055,US,USA,840,47055.0,Giles,"Giles, Tennessee, US",3,0,0,0
 2020-04-16,US,Tennessee,35.20222469,-87.03992678,84047055,US,USA,840,47055.0,Giles,"Giles, Tennessee, US",4,1,0,0
 2020-04-17,US,Tennessee,35.20222469,-87.03992678,84047055,US,USA,840,47055.0,Giles,"Giles, Tennessee, US",5,1,0,0
+2020-04-18,US,Tennessee,35.20222469,-87.03992678,84047055,US,USA,840,47055.0,Giles,"Giles, Tennessee, US",5,0,0,0
 2020-01-22,US,Tennessee,35.20772017,-88.99161161,84047069,US,USA,840,47069.0,Hardeman,"Hardeman, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.20772017,-88.99161161,84047069,US,USA,840,47069.0,Hardeman,"Hardeman, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.20772017,-88.99161161,84047069,US,USA,840,47069.0,Hardeman,"Hardeman, Tennessee, US",0,0,0,0
@@ -1217,6 +1230,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.20772017,-88.99161161,84047069,US,USA,840,47069.0,Hardeman,"Hardeman, Tennessee, US",7,0,0,0
 2020-04-16,US,Tennessee,35.20772017,-88.99161161,84047069,US,USA,840,47069.0,Hardeman,"Hardeman, Tennessee, US",7,0,0,0
 2020-04-17,US,Tennessee,35.20772017,-88.99161161,84047069,US,USA,840,47069.0,Hardeman,"Hardeman, Tennessee, US",7,0,0,0
+2020-04-18,US,Tennessee,35.20772017,-88.99161161,84047069,US,USA,840,47069.0,Hardeman,"Hardeman, Tennessee, US",7,0,0,0
 2020-01-22,US,Tennessee,35.21675201,-87.39787695,84047099,US,USA,840,47099.0,Lawrence,"Lawrence, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.21675201,-87.39787695,84047099,US,USA,840,47099.0,Lawrence,"Lawrence, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.21675201,-87.39787695,84047099,US,USA,840,47099.0,Lawrence,"Lawrence, Tennessee, US",0,0,0,0
@@ -1304,6 +1318,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.21675201,-87.39787695,84047099,US,USA,840,47099.0,Lawrence,"Lawrence, Tennessee, US",15,0,0,0
 2020-04-16,US,Tennessee,35.21675201,-87.39787695,84047099,US,USA,840,47099.0,Lawrence,"Lawrence, Tennessee, US",15,0,0,0
 2020-04-17,US,Tennessee,35.21675201,-87.39787695,84047099,US,USA,840,47099.0,Lawrence,"Lawrence, Tennessee, US",15,0,0,0
+2020-04-18,US,Tennessee,35.21675201,-87.39787695,84047099,US,USA,840,47099.0,Lawrence,"Lawrence, Tennessee, US",15,0,0,0
 2020-01-22,US,Tennessee,35.23868267,-87.78644456,84047181,US,USA,840,47181.0,Wayne,"Wayne, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.23868267,-87.78644456,84047181,US,USA,840,47181.0,Wayne,"Wayne, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.23868267,-87.78644456,84047181,US,USA,840,47181.0,Wayne,"Wayne, Tennessee, US",0,0,0,0
@@ -1391,6 +1406,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.23868267,-87.78644456,84047181,US,USA,840,47181.0,Wayne,"Wayne, Tennessee, US",2,0,0,0
 2020-04-16,US,Tennessee,35.23868267,-87.78644456,84047181,US,USA,840,47181.0,Wayne,"Wayne, Tennessee, US",2,0,0,0
 2020-04-17,US,Tennessee,35.23868267,-87.78644456,84047181,US,USA,840,47181.0,Wayne,"Wayne, Tennessee, US",2,0,0,0
+2020-04-18,US,Tennessee,35.23868267,-87.78644456,84047181,US,USA,840,47181.0,Wayne,"Wayne, Tennessee, US",2,0,0,0
 2020-01-22,US,Tennessee,35.27724699,-86.36230578,84047127,US,USA,840,47127.0,Moore,"Moore, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.27724699,-86.36230578,84047127,US,USA,840,47127.0,Moore,"Moore, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.27724699,-86.36230578,84047127,US,USA,840,47127.0,Moore,"Moore, Tennessee, US",0,0,0,0
@@ -1478,6 +1494,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.27724699,-86.36230578,84047127,US,USA,840,47127.0,Moore,"Moore, Tennessee, US",0,0,0,0
 2020-04-16,US,Tennessee,35.27724699,-86.36230578,84047127,US,USA,840,47127.0,Moore,"Moore, Tennessee, US",1,1,0,0
 2020-04-17,US,Tennessee,35.27724699,-86.36230578,84047127,US,USA,840,47127.0,Moore,"Moore, Tennessee, US",1,0,0,0
+2020-04-18,US,Tennessee,35.27724699,-86.36230578,84047127,US,USA,840,47127.0,Moore,"Moore, Tennessee, US",1,0,0,0
 2020-01-22,US,Tennessee,35.36979721,-85.41022136,84047153,US,USA,840,47153.0,Sequatchie,"Sequatchie, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.36979721,-85.41022136,84047153,US,USA,840,47153.0,Sequatchie,"Sequatchie, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.36979721,-85.41022136,84047153,US,USA,840,47153.0,Sequatchie,"Sequatchie, Tennessee, US",0,0,0,0
@@ -1565,6 +1582,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.36979721,-85.41022136,84047153,US,USA,840,47153.0,Sequatchie,"Sequatchie, Tennessee, US",3,0,0,0
 2020-04-16,US,Tennessee,35.36979721,-85.41022136,84047153,US,USA,840,47153.0,Sequatchie,"Sequatchie, Tennessee, US",3,0,0,0
 2020-04-17,US,Tennessee,35.36979721,-85.41022136,84047153,US,USA,840,47153.0,Sequatchie,"Sequatchie, Tennessee, US",3,0,0,0
+2020-04-18,US,Tennessee,35.36979721,-85.41022136,84047153,US,USA,840,47153.0,Sequatchie,"Sequatchie, Tennessee, US",3,0,0,0
 2020-01-22,US,Tennessee,35.38433717,-85.72142731,84047061,US,USA,840,47061.0,Grundy,"Grundy, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.38433717,-85.72142731,84047061,US,USA,840,47061.0,Grundy,"Grundy, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.38433717,-85.72142731,84047061,US,USA,840,47061.0,Grundy,"Grundy, Tennessee, US",0,0,0,0
@@ -1652,6 +1670,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.38433717,-85.72142731,84047061,US,USA,840,47061.0,Grundy,"Grundy, Tennessee, US",23,0,1,0
 2020-04-16,US,Tennessee,35.38433717,-85.72142731,84047061,US,USA,840,47061.0,Grundy,"Grundy, Tennessee, US",24,1,1,0
 2020-04-17,US,Tennessee,35.38433717,-85.72142731,84047061,US,USA,840,47061.0,Grundy,"Grundy, Tennessee, US",25,1,1,0
+2020-04-18,US,Tennessee,35.38433717,-85.72142731,84047061,US,USA,840,47061.0,Grundy,"Grundy, Tennessee, US",25,0,1,0
 2020-01-22,US,Tennessee,35.42527478,-88.6095842,84047023,US,USA,840,47023.0,Chester,"Chester, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.42527478,-88.6095842,84047023,US,USA,840,47023.0,Chester,"Chester, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.42527478,-88.6095842,84047023,US,USA,840,47023.0,Chester,"Chester, Tennessee, US",0,0,0,0
@@ -1739,6 +1758,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.42527478,-88.6095842,84047023,US,USA,840,47023.0,Chester,"Chester, Tennessee, US",5,0,0,0
 2020-04-16,US,Tennessee,35.42527478,-88.6095842,84047023,US,USA,840,47023.0,Chester,"Chester, Tennessee, US",6,1,0,0
 2020-04-17,US,Tennessee,35.42527478,-88.6095842,84047023,US,USA,840,47023.0,Chester,"Chester, Tennessee, US",6,0,0,0
+2020-04-18,US,Tennessee,35.42527478,-88.6095842,84047023,US,USA,840,47023.0,Chester,"Chester, Tennessee, US",6,0,0,0
 2020-01-22,US,Tennessee,35.42812616,-84.61520715,84047107,US,USA,840,47107.0,McMinn,"McMinn, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.42812616,-84.61520715,84047107,US,USA,840,47107.0,McMinn,"McMinn, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.42812616,-84.61520715,84047107,US,USA,840,47107.0,McMinn,"McMinn, Tennessee, US",0,0,0,0
@@ -1826,6 +1846,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.42812616,-84.61520715,84047107,US,USA,840,47107.0,McMinn,"McMinn, Tennessee, US",5,0,0,0
 2020-04-16,US,Tennessee,35.42812616,-84.61520715,84047107,US,USA,840,47107.0,McMinn,"McMinn, Tennessee, US",5,0,0,0
 2020-04-17,US,Tennessee,35.42812616,-84.61520715,84047107,US,USA,840,47107.0,McMinn,"McMinn, Tennessee, US",6,1,0,0
+2020-04-18,US,Tennessee,35.42812616,-84.61520715,84047107,US,USA,840,47107.0,McMinn,"McMinn, Tennessee, US",6,0,0,0
 2020-01-22,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",0,0,0,0
@@ -1913,6 +1934,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",9,0,0,0
 2020-04-16,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",9,0,0,0
 2020-04-17,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",9,0,1,1
+2020-04-18,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",10,1,1,0
 2020-01-22,US,Tennessee,35.45798777,-86.76420988,84047117,US,USA,840,47117.0,Marshall,"Marshall, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.45798777,-86.76420988,84047117,US,USA,840,47117.0,Marshall,"Marshall, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.45798777,-86.76420988,84047117,US,USA,840,47117.0,Marshall,"Marshall, Tennessee, US",0,0,0,0
@@ -2000,6 +2022,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.45798777,-86.76420988,84047117,US,USA,840,47117.0,Marshall,"Marshall, Tennessee, US",9,0,1,0
 2020-04-16,US,Tennessee,35.45798777,-86.76420988,84047117,US,USA,840,47117.0,Marshall,"Marshall, Tennessee, US",9,0,1,0
 2020-04-17,US,Tennessee,35.45798777,-86.76420988,84047117,US,USA,840,47117.0,Marshall,"Marshall, Tennessee, US",12,3,1,0
+2020-04-18,US,Tennessee,35.45798777,-86.76420988,84047117,US,USA,840,47117.0,Marshall,"Marshall, Tennessee, US",13,1,1,0
 2020-01-22,US,Tennessee,35.49090731,-86.07311784,84047031,US,USA,840,47031.0,Coffee,"Coffee, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.49090731,-86.07311784,84047031,US,USA,840,47031.0,Coffee,"Coffee, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.49090731,-86.07311784,84047031,US,USA,840,47031.0,Coffee,"Coffee, Tennessee, US",0,0,0,0
@@ -2087,6 +2110,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.49090731,-86.07311784,84047031,US,USA,840,47031.0,Coffee,"Coffee, Tennessee, US",12,0,0,0
 2020-04-16,US,Tennessee,35.49090731,-86.07311784,84047031,US,USA,840,47031.0,Coffee,"Coffee, Tennessee, US",13,1,0,0
 2020-04-17,US,Tennessee,35.49090731,-86.07311784,84047031,US,USA,840,47031.0,Coffee,"Coffee, Tennessee, US",17,4,0,0
+2020-04-18,US,Tennessee,35.49090731,-86.07311784,84047031,US,USA,840,47031.0,Coffee,"Coffee, Tennessee, US",18,1,0,0
 2020-01-22,US,Tennessee,35.501942,-89.73694895,84047167,US,USA,840,47167.0,Tipton,"Tipton, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.501942,-89.73694895,84047167,US,USA,840,47167.0,Tipton,"Tipton, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.501942,-89.73694895,84047167,US,USA,840,47167.0,Tipton,"Tipton, Tennessee, US",0,0,0,0
@@ -2174,6 +2198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.501942,-89.73694895,84047167,US,USA,840,47167.0,Tipton,"Tipton, Tennessee, US",52,0,0,0
 2020-04-16,US,Tennessee,35.501942,-89.73694895,84047167,US,USA,840,47167.0,Tipton,"Tipton, Tennessee, US",53,1,0,0
 2020-04-17,US,Tennessee,35.501942,-89.73694895,84047167,US,USA,840,47167.0,Tipton,"Tipton, Tennessee, US",54,1,0,0
+2020-04-18,US,Tennessee,35.501942,-89.73694895,84047167,US,USA,840,47167.0,Tipton,"Tipton, Tennessee, US",55,1,0,0
 2020-01-22,US,Tennessee,35.51123746,-86.45549096,84047003,US,USA,840,47003.0,Bedford,"Bedford, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.51123746,-86.45549096,84047003,US,USA,840,47003.0,Bedford,"Bedford, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.51123746,-86.45549096,84047003,US,USA,840,47003.0,Bedford,"Bedford, Tennessee, US",0,0,0,0
@@ -2261,6 +2286,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.51123746,-86.45549096,84047003,US,USA,840,47003.0,Bedford,"Bedford, Tennessee, US",25,0,2,0
 2020-04-16,US,Tennessee,35.51123746,-86.45549096,84047003,US,USA,840,47003.0,Bedford,"Bedford, Tennessee, US",33,8,2,0
 2020-04-17,US,Tennessee,35.51123746,-86.45549096,84047003,US,USA,840,47003.0,Bedford,"Bedford, Tennessee, US",40,7,2,0
+2020-04-18,US,Tennessee,35.51123746,-86.45549096,84047003,US,USA,840,47003.0,Bedford,"Bedford, Tennessee, US",48,8,2,0
 2020-01-22,US,Tennessee,35.51558739,-84.81482914,84047121,US,USA,840,47121.0,Meigs,"Meigs, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.51558739,-84.81482914,84047121,US,USA,840,47121.0,Meigs,"Meigs, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.51558739,-84.81482914,84047121,US,USA,840,47121.0,Meigs,"Meigs, Tennessee, US",0,0,0,0
@@ -2348,6 +2374,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.51558739,-84.81482914,84047121,US,USA,840,47121.0,Meigs,"Meigs, Tennessee, US",3,0,0,0
 2020-04-16,US,Tennessee,35.51558739,-84.81482914,84047121,US,USA,840,47121.0,Meigs,"Meigs, Tennessee, US",3,0,0,0
 2020-04-17,US,Tennessee,35.51558739,-84.81482914,84047121,US,USA,840,47121.0,Meigs,"Meigs, Tennessee, US",3,0,0,0
+2020-04-18,US,Tennessee,35.51558739,-84.81482914,84047121,US,USA,840,47121.0,Meigs,"Meigs, Tennessee, US",3,0,0,0
 2020-01-22,US,Tennessee,35.52853208,-87.49022694,84047101,US,USA,840,47101.0,Lewis,"Lewis, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.52853208,-87.49022694,84047101,US,USA,840,47101.0,Lewis,"Lewis, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.52853208,-87.49022694,84047101,US,USA,840,47101.0,Lewis,"Lewis, Tennessee, US",0,0,0,0
@@ -2435,6 +2462,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.52853208,-87.49022694,84047101,US,USA,840,47101.0,Lewis,"Lewis, Tennessee, US",2,0,0,0
 2020-04-16,US,Tennessee,35.52853208,-87.49022694,84047101,US,USA,840,47101.0,Lewis,"Lewis, Tennessee, US",2,0,0,0
 2020-04-17,US,Tennessee,35.52853208,-87.49022694,84047101,US,USA,840,47101.0,Lewis,"Lewis, Tennessee, US",2,0,0,0
+2020-04-18,US,Tennessee,35.52853208,-87.49022694,84047101,US,USA,840,47101.0,Lewis,"Lewis, Tennessee, US",2,0,0,0
 2020-01-22,US,Tennessee,35.58332824,-89.28536625,84047075,US,USA,840,47075.0,Haywood,"Haywood, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.58332824,-89.28536625,84047075,US,USA,840,47075.0,Haywood,"Haywood, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.58332824,-89.28536625,84047075,US,USA,840,47075.0,Haywood,"Haywood, Tennessee, US",0,0,0,0
@@ -2522,6 +2550,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.58332824,-89.28536625,84047075,US,USA,840,47075.0,Haywood,"Haywood, Tennessee, US",12,0,1,0
 2020-04-16,US,Tennessee,35.58332824,-89.28536625,84047075,US,USA,840,47075.0,Haywood,"Haywood, Tennessee, US",12,0,1,0
 2020-04-17,US,Tennessee,35.58332824,-89.28536625,84047075,US,USA,840,47075.0,Haywood,"Haywood, Tennessee, US",12,0,1,0
+2020-04-18,US,Tennessee,35.58332824,-89.28536625,84047075,US,USA,840,47075.0,Haywood,"Haywood, Tennessee, US",12,0,1,0
 2020-01-22,US,Tennessee,35.59942968,-85.20611967,84047007,US,USA,840,47007.0,Bledsoe,"Bledsoe, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.59942968,-85.20611967,84047007,US,USA,840,47007.0,Bledsoe,"Bledsoe, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.59942968,-85.20611967,84047007,US,USA,840,47007.0,Bledsoe,"Bledsoe, Tennessee, US",0,0,0,0
@@ -2609,6 +2638,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.59942968,-85.20611967,84047007,US,USA,840,47007.0,Bledsoe,"Bledsoe, Tennessee, US",8,0,0,0
 2020-04-16,US,Tennessee,35.59942968,-85.20611967,84047007,US,USA,840,47007.0,Bledsoe,"Bledsoe, Tennessee, US",7,-1,0,0
 2020-04-17,US,Tennessee,35.59942968,-85.20611967,84047007,US,USA,840,47007.0,Bledsoe,"Bledsoe, Tennessee, US",7,0,0,0
+2020-04-18,US,Tennessee,35.59942968,-85.20611967,84047007,US,USA,840,47007.0,Bledsoe,"Bledsoe, Tennessee, US",8,1,0,0
 2020-01-22,US,Tennessee,35.60048904,-88.11043779,84047039,US,USA,840,47039.0,Decatur,"Decatur, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.60048904,-88.11043779,84047039,US,USA,840,47039.0,Decatur,"Decatur, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.60048904,-88.11043779,84047039,US,USA,840,47039.0,Decatur,"Decatur, Tennessee, US",0,0,0,0
@@ -2696,6 +2726,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.60048904,-88.11043779,84047039,US,USA,840,47039.0,Decatur,"Decatur, Tennessee, US",3,0,0,0
 2020-04-16,US,Tennessee,35.60048904,-88.11043779,84047039,US,USA,840,47039.0,Decatur,"Decatur, Tennessee, US",3,0,0,0
 2020-04-17,US,Tennessee,35.60048904,-88.11043779,84047039,US,USA,840,47039.0,Decatur,"Decatur, Tennessee, US",3,0,0,0
+2020-04-18,US,Tennessee,35.60048904,-88.11043779,84047039,US,USA,840,47039.0,Decatur,"Decatur, Tennessee, US",5,2,0,0
 2020-01-22,US,Tennessee,35.60536161,-84.93076643,84047143,US,USA,840,47143.0,Rhea,"Rhea, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.60536161,-84.93076643,84047143,US,USA,840,47143.0,Rhea,"Rhea, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.60536161,-84.93076643,84047143,US,USA,840,47143.0,Rhea,"Rhea, Tennessee, US",0,0,0,0
@@ -2783,6 +2814,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.60536161,-84.93076643,84047143,US,USA,840,47143.0,Rhea,"Rhea, Tennessee, US",0,0,0,0
 2020-04-16,US,Tennessee,35.60536161,-84.93076643,84047143,US,USA,840,47143.0,Rhea,"Rhea, Tennessee, US",0,0,0,0
 2020-04-17,US,Tennessee,35.60536161,-84.93076643,84047143,US,USA,840,47143.0,Rhea,"Rhea, Tennessee, US",0,0,0,0
+2020-04-18,US,Tennessee,35.60536161,-84.93076643,84047143,US,USA,840,47143.0,Rhea,"Rhea, Tennessee, US",1,1,0,0
 2020-01-22,US,Tennessee,35.61181957,-88.84076036,84047113,US,USA,840,47113.0,Madison,"Madison, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.61181957,-88.84076036,84047113,US,USA,840,47113.0,Madison,"Madison, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.61181957,-88.84076036,84047113,US,USA,840,47113.0,Madison,"Madison, Tennessee, US",0,0,0,0
@@ -2870,6 +2902,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.61181957,-88.84076036,84047113,US,USA,840,47113.0,Madison,"Madison, Tennessee, US",73,0,0,0
 2020-04-16,US,Tennessee,35.61181957,-88.84076036,84047113,US,USA,840,47113.0,Madison,"Madison, Tennessee, US",75,2,0,0
 2020-04-17,US,Tennessee,35.61181957,-88.84076036,84047113,US,USA,840,47113.0,Madison,"Madison, Tennessee, US",73,-2,0,0
+2020-04-18,US,Tennessee,35.61181957,-88.84076036,84047113,US,USA,840,47113.0,Madison,"Madison, Tennessee, US",83,10,0,0
 2020-01-22,US,Tennessee,35.6187413,-87.07462444,84047119,US,USA,840,47119.0,Maury,"Maury, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.6187413,-87.07462444,84047119,US,USA,840,47119.0,Maury,"Maury, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.6187413,-87.07462444,84047119,US,USA,840,47119.0,Maury,"Maury, Tennessee, US",0,0,0,0
@@ -2957,6 +2990,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.6187413,-87.07462444,84047119,US,USA,840,47119.0,Maury,"Maury, Tennessee, US",33,0,0,0
 2020-04-16,US,Tennessee,35.6187413,-87.07462444,84047119,US,USA,840,47119.0,Maury,"Maury, Tennessee, US",33,0,0,0
 2020-04-17,US,Tennessee,35.6187413,-87.07462444,84047119,US,USA,840,47119.0,Maury,"Maury, Tennessee, US",33,0,0,0
+2020-04-18,US,Tennessee,35.6187413,-87.07462444,84047119,US,USA,840,47119.0,Maury,"Maury, Tennessee, US",34,1,0,0
 2020-01-22,US,Tennessee,35.63708728,-87.86139634,84047135,US,USA,840,47135.0,Perry,"Perry, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.63708728,-87.86139634,84047135,US,USA,840,47135.0,Perry,"Perry, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.63708728,-87.86139634,84047135,US,USA,840,47135.0,Perry,"Perry, Tennessee, US",0,0,0,0
@@ -3044,6 +3078,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.63708728,-87.86139634,84047135,US,USA,840,47135.0,Perry,"Perry, Tennessee, US",4,0,0,0
 2020-04-16,US,Tennessee,35.63708728,-87.86139634,84047135,US,USA,840,47135.0,Perry,"Perry, Tennessee, US",5,1,0,0
 2020-04-17,US,Tennessee,35.63708728,-87.86139634,84047135,US,USA,840,47135.0,Perry,"Perry, Tennessee, US",6,1,0,0
+2020-04-18,US,Tennessee,35.63708728,-87.86139634,84047135,US,USA,840,47135.0,Perry,"Perry, Tennessee, US",6,0,0,0
 2020-01-22,US,Tennessee,35.65581134,-88.38600175,84047077,US,USA,840,47077.0,Henderson,"Henderson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.65581134,-88.38600175,84047077,US,USA,840,47077.0,Henderson,"Henderson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.65581134,-88.38600175,84047077,US,USA,840,47077.0,Henderson,"Henderson, Tennessee, US",0,0,0,0
@@ -3131,6 +3166,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.65581134,-88.38600175,84047077,US,USA,840,47077.0,Henderson,"Henderson, Tennessee, US",2,0,0,0
 2020-04-16,US,Tennessee,35.65581134,-88.38600175,84047077,US,USA,840,47077.0,Henderson,"Henderson, Tennessee, US",2,0,0,0
 2020-04-17,US,Tennessee,35.65581134,-88.38600175,84047077,US,USA,840,47077.0,Henderson,"Henderson, Tennessee, US",2,0,0,0
+2020-04-18,US,Tennessee,35.65581134,-88.38600175,84047077,US,USA,840,47077.0,Henderson,"Henderson, Tennessee, US",2,0,0,0
 2020-01-22,US,Tennessee,35.6728299,-85.77969117,84047177,US,USA,840,47177.0,Warren,"Warren, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.6728299,-85.77969117,84047177,US,USA,840,47177.0,Warren,"Warren, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.6728299,-85.77969117,84047177,US,USA,840,47177.0,Warren,"Warren, Tennessee, US",0,0,0,0
@@ -3218,6 +3254,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.6728299,-85.77969117,84047177,US,USA,840,47177.0,Warren,"Warren, Tennessee, US",4,0,0,0
 2020-04-16,US,Tennessee,35.6728299,-85.77969117,84047177,US,USA,840,47177.0,Warren,"Warren, Tennessee, US",4,0,0,0
 2020-04-17,US,Tennessee,35.6728299,-85.77969117,84047177,US,USA,840,47177.0,Warren,"Warren, Tennessee, US",4,0,0,0
+2020-04-18,US,Tennessee,35.6728299,-85.77969117,84047177,US,USA,840,47177.0,Warren,"Warren, Tennessee, US",4,0,0,0
 2020-01-22,US,Tennessee,35.68938198,-83.92847788,84047009,US,USA,840,47009.0,Blount,"Blount, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.68938198,-83.92847788,84047009,US,USA,840,47009.0,Blount,"Blount, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.68938198,-83.92847788,84047009,US,USA,840,47009.0,Blount,"Blount, Tennessee, US",0,0,0,0
@@ -3305,6 +3342,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.68938198,-83.92847788,84047009,US,USA,840,47009.0,Blount,"Blount, Tennessee, US",47,0,3,0
 2020-04-16,US,Tennessee,35.68938198,-83.92847788,84047009,US,USA,840,47009.0,Blount,"Blount, Tennessee, US",47,0,3,0
 2020-04-17,US,Tennessee,35.68938198,-83.92847788,84047009,US,USA,840,47009.0,Blount,"Blount, Tennessee, US",46,-1,3,0
+2020-04-18,US,Tennessee,35.68938198,-83.92847788,84047009,US,USA,840,47009.0,Blount,"Blount, Tennessee, US",46,0,3,0
 2020-01-22,US,Tennessee,35.69864497,-85.45221699,84047175,US,USA,840,47175.0,Van Buren,"Van Buren, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.69864497,-85.45221699,84047175,US,USA,840,47175.0,Van Buren,"Van Buren, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.69864497,-85.45221699,84047175,US,USA,840,47175.0,Van Buren,"Van Buren, Tennessee, US",0,0,0,0
@@ -3392,6 +3430,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.69864497,-85.45221699,84047175,US,USA,840,47175.0,Van Buren,"Van Buren, Tennessee, US",1,0,0,0
 2020-04-16,US,Tennessee,35.69864497,-85.45221699,84047175,US,USA,840,47175.0,Van Buren,"Van Buren, Tennessee, US",1,0,0,0
 2020-04-17,US,Tennessee,35.69864497,-85.45221699,84047175,US,USA,840,47175.0,Van Buren,"Van Buren, Tennessee, US",1,0,0,0
+2020-04-18,US,Tennessee,35.69864497,-85.45221699,84047175,US,USA,840,47175.0,Van Buren,"Van Buren, Tennessee, US",1,0,0,0
 2020-01-22,US,Tennessee,35.73939663,-84.31145275,84047105,US,USA,840,47105.0,Loudon,"Loudon, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.73939663,-84.31145275,84047105,US,USA,840,47105.0,Loudon,"Loudon, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.73939663,-84.31145275,84047105,US,USA,840,47105.0,Loudon,"Loudon, Tennessee, US",0,0,0,0
@@ -3479,6 +3518,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.73939663,-84.31145275,84047105,US,USA,840,47105.0,Loudon,"Loudon, Tennessee, US",17,0,0,0
 2020-04-16,US,Tennessee,35.73939663,-84.31145275,84047105,US,USA,840,47105.0,Loudon,"Loudon, Tennessee, US",18,1,0,0
 2020-04-17,US,Tennessee,35.73939663,-84.31145275,84047105,US,USA,840,47105.0,Loudon,"Loudon, Tennessee, US",19,1,0,0
+2020-04-18,US,Tennessee,35.73939663,-84.31145275,84047105,US,USA,840,47105.0,Loudon,"Loudon, Tennessee, US",21,2,0,0
 2020-01-22,US,Tennessee,35.75893438,-89.63015909999999,84047097,US,USA,840,47097.0,Lauderdale,"Lauderdale, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.75893438,-89.63015909999999,84047097,US,USA,840,47097.0,Lauderdale,"Lauderdale, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.75893438,-89.63015909999999,84047097,US,USA,840,47097.0,Lauderdale,"Lauderdale, Tennessee, US",0,0,0,0
@@ -3566,6 +3606,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.75893438,-89.63015909999999,84047097,US,USA,840,47097.0,Lauderdale,"Lauderdale, Tennessee, US",9,0,0,0
 2020-04-16,US,Tennessee,35.75893438,-89.63015909999999,84047097,US,USA,840,47097.0,Lauderdale,"Lauderdale, Tennessee, US",12,3,0,0
 2020-04-17,US,Tennessee,35.75893438,-89.63015909999999,84047097,US,USA,840,47097.0,Lauderdale,"Lauderdale, Tennessee, US",12,0,0,0
+2020-04-18,US,Tennessee,35.75893438,-89.63015909999999,84047097,US,USA,840,47097.0,Lauderdale,"Lauderdale, Tennessee, US",13,1,0,0
 2020-01-22,US,Tennessee,35.78077323,-83.52244332,84047155,US,USA,840,47155.0,Sevier,"Sevier, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.78077323,-83.52244332,84047155,US,USA,840,47155.0,Sevier,"Sevier, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.78077323,-83.52244332,84047155,US,USA,840,47155.0,Sevier,"Sevier, Tennessee, US",0,0,0,0
@@ -3653,6 +3694,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.78077323,-83.52244332,84047155,US,USA,840,47155.0,Sevier,"Sevier, Tennessee, US",22,0,0,0
 2020-04-16,US,Tennessee,35.78077323,-83.52244332,84047155,US,USA,840,47155.0,Sevier,"Sevier, Tennessee, US",22,0,0,0
 2020-04-17,US,Tennessee,35.78077323,-83.52244332,84047155,US,USA,840,47155.0,Sevier,"Sevier, Tennessee, US",22,0,0,0
+2020-04-18,US,Tennessee,35.78077323,-83.52244332,84047155,US,USA,840,47155.0,Sevier,"Sevier, Tennessee, US",24,2,0,0
 2020-01-22,US,Tennessee,35.80609681,-87.47643507,84047081,US,USA,840,47081.0,Hickman,"Hickman, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.80609681,-87.47643507,84047081,US,USA,840,47081.0,Hickman,"Hickman, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.80609681,-87.47643507,84047081,US,USA,840,47081.0,Hickman,"Hickman, Tennessee, US",0,0,0,0
@@ -3740,6 +3782,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.80609681,-87.47643507,84047081,US,USA,840,47081.0,Hickman,"Hickman, Tennessee, US",2,0,0,0
 2020-04-16,US,Tennessee,35.80609681,-87.47643507,84047081,US,USA,840,47081.0,Hickman,"Hickman, Tennessee, US",2,0,0,0
 2020-04-17,US,Tennessee,35.80609681,-87.47643507,84047081,US,USA,840,47081.0,Hickman,"Hickman, Tennessee, US",2,0,0,0
+2020-04-18,US,Tennessee,35.80609681,-87.47643507,84047081,US,USA,840,47081.0,Hickman,"Hickman, Tennessee, US",2,0,0,0
 2020-01-22,US,Tennessee,35.80990797,-86.05738983,84047015,US,USA,840,47015.0,Cannon,"Cannon, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.80990797,-86.05738983,84047015,US,USA,840,47015.0,Cannon,"Cannon, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.80990797,-86.05738983,84047015,US,USA,840,47015.0,Cannon,"Cannon, Tennessee, US",0,0,0,0
@@ -3827,6 +3870,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.80990797,-86.05738983,84047015,US,USA,840,47015.0,Cannon,"Cannon, Tennessee, US",7,0,0,0
 2020-04-16,US,Tennessee,35.80990797,-86.05738983,84047015,US,USA,840,47015.0,Cannon,"Cannon, Tennessee, US",7,0,0,0
 2020-04-17,US,Tennessee,35.80990797,-86.05738983,84047015,US,USA,840,47015.0,Cannon,"Cannon, Tennessee, US",8,1,0,0
+2020-04-18,US,Tennessee,35.80990797,-86.05738983,84047015,US,USA,840,47015.0,Cannon,"Cannon, Tennessee, US",9,1,0,0
 2020-01-22,US,Tennessee,35.81830662,-89.14916269,84047033,US,USA,840,47033.0,Crockett,"Crockett, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.81830662,-89.14916269,84047033,US,USA,840,47033.0,Crockett,"Crockett, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.81830662,-89.14916269,84047033,US,USA,840,47033.0,Crockett,"Crockett, Tennessee, US",0,0,0,0
@@ -3914,6 +3958,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.81830662,-89.14916269,84047033,US,USA,840,47033.0,Crockett,"Crockett, Tennessee, US",0,0,0,0
 2020-04-16,US,Tennessee,35.81830662,-89.14916269,84047033,US,USA,840,47033.0,Crockett,"Crockett, Tennessee, US",0,0,0,0
 2020-04-17,US,Tennessee,35.81830662,-89.14916269,84047033,US,USA,840,47033.0,Crockett,"Crockett, Tennessee, US",0,0,0,0
+2020-04-18,US,Tennessee,35.81830662,-89.14916269,84047033,US,USA,840,47033.0,Crockett,"Crockett, Tennessee, US",0,0,0,0
 2020-01-22,US,Tennessee,35.84591405,-86.4107263,84047149,US,USA,840,47149.0,Rutherford,"Rutherford, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.84591405,-86.4107263,84047149,US,USA,840,47149.0,Rutherford,"Rutherford, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.84591405,-86.4107263,84047149,US,USA,840,47149.0,Rutherford,"Rutherford, Tennessee, US",0,0,0,0
@@ -4001,6 +4046,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.84591405,-86.4107263,84047149,US,USA,840,47149.0,Rutherford,"Rutherford, Tennessee, US",253,0,6,0
 2020-04-16,US,Tennessee,35.84591405,-86.4107263,84047149,US,USA,840,47149.0,Rutherford,"Rutherford, Tennessee, US",269,16,6,0
 2020-04-17,US,Tennessee,35.84591405,-86.4107263,84047149,US,USA,840,47149.0,Rutherford,"Rutherford, Tennessee, US",271,2,6,0
+2020-04-18,US,Tennessee,35.84591405,-86.4107263,84047149,US,USA,840,47149.0,Rutherford,"Rutherford, Tennessee, US",295,24,6,0
 2020-01-22,US,Tennessee,35.84923189,-84.52458689,84047145,US,USA,840,47145.0,Roane,"Roane, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.84923189,-84.52458689,84047145,US,USA,840,47145.0,Roane,"Roane, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.84923189,-84.52458689,84047145,US,USA,840,47145.0,Roane,"Roane, Tennessee, US",0,0,0,0
@@ -4088,6 +4134,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.84923189,-84.52458689,84047145,US,USA,840,47145.0,Roane,"Roane, Tennessee, US",5,0,0,0
 2020-04-16,US,Tennessee,35.84923189,-84.52458689,84047145,US,USA,840,47145.0,Roane,"Roane, Tennessee, US",6,1,0,0
 2020-04-17,US,Tennessee,35.84923189,-84.52458689,84047145,US,USA,840,47145.0,Roane,"Roane, Tennessee, US",7,1,0,0
+2020-04-18,US,Tennessee,35.84923189,-84.52458689,84047145,US,USA,840,47145.0,Roane,"Roane, Tennessee, US",8,1,0,0
 2020-01-22,US,Tennessee,35.89099229,-86.89281867,84047187,US,USA,840,47187.0,Williamson,"Williamson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.89099229,-86.89281867,84047187,US,USA,840,47187.0,Williamson,"Williamson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.89099229,-86.89281867,84047187,US,USA,840,47187.0,Williamson,"Williamson, Tennessee, US",0,0,0,0
@@ -4175,6 +4222,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.89099229,-86.89281867,84047187,US,USA,840,47187.0,Williamson,"Williamson, Tennessee, US",322,0,5,0
 2020-04-16,US,Tennessee,35.89099229,-86.89281867,84047187,US,USA,840,47187.0,Williamson,"Williamson, Tennessee, US",321,-1,5,0
 2020-04-17,US,Tennessee,35.89099229,-86.89281867,84047187,US,USA,840,47187.0,Williamson,"Williamson, Tennessee, US",324,3,5,0
+2020-04-18,US,Tennessee,35.89099229,-86.89281867,84047187,US,USA,840,47187.0,Williamson,"Williamson, Tennessee, US",336,12,5,0
 2020-01-22,US,Tennessee,35.9278914,-83.11828725,84047029,US,USA,840,47029.0,Cocke,"Cocke, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.9278914,-83.11828725,84047029,US,USA,840,47029.0,Cocke,"Cocke, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.9278914,-83.11828725,84047029,US,USA,840,47029.0,Cocke,"Cocke, Tennessee, US",0,0,0,0
@@ -4262,6 +4310,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.9278914,-83.11828725,84047029,US,USA,840,47029.0,Cocke,"Cocke, Tennessee, US",5,0,0,0
 2020-04-16,US,Tennessee,35.9278914,-83.11828725,84047029,US,USA,840,47029.0,Cocke,"Cocke, Tennessee, US",8,3,0,0
 2020-04-17,US,Tennessee,35.9278914,-83.11828725,84047029,US,USA,840,47029.0,Cocke,"Cocke, Tennessee, US",11,3,0,0
+2020-04-18,US,Tennessee,35.9278914,-83.11828725,84047029,US,USA,840,47029.0,Cocke,"Cocke, Tennessee, US",11,0,0,0
 2020-01-22,US,Tennessee,35.92929884,-85.45591799,84047185,US,USA,840,47185.0,White,"White, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.92929884,-85.45591799,84047185,US,USA,840,47185.0,White,"White, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.92929884,-85.45591799,84047185,US,USA,840,47185.0,White,"White, Tennessee, US",0,0,0,0
@@ -4349,6 +4398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.92929884,-85.45591799,84047185,US,USA,840,47185.0,White,"White, Tennessee, US",4,0,0,0
 2020-04-16,US,Tennessee,35.92929884,-85.45591799,84047185,US,USA,840,47185.0,White,"White, Tennessee, US",4,0,0,0
 2020-04-17,US,Tennessee,35.92929884,-85.45591799,84047185,US,USA,840,47185.0,White,"White, Tennessee, US",4,0,0,0
+2020-04-18,US,Tennessee,35.92929884,-85.45591799,84047185,US,USA,840,47185.0,White,"White, Tennessee, US",4,0,0,0
 2020-01-22,US,Tennessee,35.95271721,-84.99840585,84047035,US,USA,840,47035.0,Cumberland,"Cumberland, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.95271721,-84.99840585,84047035,US,USA,840,47035.0,Cumberland,"Cumberland, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.95271721,-84.99840585,84047035,US,USA,840,47035.0,Cumberland,"Cumberland, Tennessee, US",0,0,0,0
@@ -4436,6 +4486,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.95271721,-84.99840585,84047035,US,USA,840,47035.0,Cumberland,"Cumberland, Tennessee, US",51,0,0,0
 2020-04-16,US,Tennessee,35.95271721,-84.99840585,84047035,US,USA,840,47035.0,Cumberland,"Cumberland, Tennessee, US",53,2,0,0
 2020-04-17,US,Tennessee,35.95271721,-84.99840585,84047035,US,USA,840,47035.0,Cumberland,"Cumberland, Tennessee, US",55,2,0,0
+2020-04-18,US,Tennessee,35.95271721,-84.99840585,84047035,US,USA,840,47035.0,Cumberland,"Cumberland, Tennessee, US",56,1,0,0
 2020-01-22,US,Tennessee,35.97366108,-88.45189331,84047017,US,USA,840,47017.0,Carroll,"Carroll, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.97366108,-88.45189331,84047017,US,USA,840,47017.0,Carroll,"Carroll, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.97366108,-88.45189331,84047017,US,USA,840,47017.0,Carroll,"Carroll, Tennessee, US",0,0,0,0
@@ -4523,6 +4574,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.97366108,-88.45189331,84047017,US,USA,840,47017.0,Carroll,"Carroll, Tennessee, US",12,0,0,0
 2020-04-16,US,Tennessee,35.97366108,-88.45189331,84047017,US,USA,840,47017.0,Carroll,"Carroll, Tennessee, US",13,1,0,0
 2020-04-17,US,Tennessee,35.97366108,-88.45189331,84047017,US,USA,840,47017.0,Carroll,"Carroll, Tennessee, US",13,0,0,0
+2020-04-18,US,Tennessee,35.97366108,-88.45189331,84047017,US,USA,840,47017.0,Carroll,"Carroll, Tennessee, US",13,0,0,0
 2020-01-22,US,Tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,DeKalb,"DeKalb,Tennessee,US",0,0,0,0
 2020-01-23,US,Tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,DeKalb,"DeKalb,Tennessee,US",0,0,0,0
 2020-01-24,US,Tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,DeKalb,"DeKalb,Tennessee,US",0,0,0,0
@@ -4610,6 +4662,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,DeKalb,"DeKalb,Tennessee,US",10,0,0,0
 2020-04-16,US,Tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,DeKalb,"DeKalb,Tennessee,US",10,0,0,0
 2020-04-17,US,Tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,DeKalb,"DeKalb,Tennessee,US",10,0,0,0
+2020-04-18,US,Tennessee,35.97616272,-85.83689361,84047041,US,USA,840,47041.0,DeKalb,"DeKalb,Tennessee,US",10,0,0,0
 2020-01-22,US,Tennessee,35.99438059,-88.93358327,84047053,US,USA,840,47053.0,Gibson,"Gibson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.99438059,-88.93358327,84047053,US,USA,840,47053.0,Gibson,"Gibson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.99438059,-88.93358327,84047053,US,USA,840,47053.0,Gibson,"Gibson, Tennessee, US",0,0,0,0
@@ -4697,6 +4750,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.99438059,-88.93358327,84047053,US,USA,840,47053.0,Gibson,"Gibson, Tennessee, US",21,0,0,0
 2020-04-16,US,Tennessee,35.99438059,-88.93358327,84047053,US,USA,840,47053.0,Gibson,"Gibson, Tennessee, US",24,3,0,0
 2020-04-17,US,Tennessee,35.99438059,-88.93358327,84047053,US,USA,840,47053.0,Gibson,"Gibson, Tennessee, US",25,1,0,0
+2020-04-18,US,Tennessee,35.99438059,-88.93358327,84047053,US,USA,840,47053.0,Gibson,"Gibson, Tennessee, US",27,2,0,0
 2020-01-22,US,Tennessee,35.99508821,-83.94635435,84047093,US,USA,840,47093.0,Knox,"Knox, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,35.99508821,-83.94635435,84047093,US,USA,840,47093.0,Knox,"Knox, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,35.99508821,-83.94635435,84047093,US,USA,840,47093.0,Knox,"Knox, Tennessee, US",0,0,0,0
@@ -4784,6 +4838,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,35.99508821,-83.94635435,84047093,US,USA,840,47093.0,Knox,"Knox, Tennessee, US",174,0,4,0
 2020-04-16,US,Tennessee,35.99508821,-83.94635435,84047093,US,USA,840,47093.0,Knox,"Knox, Tennessee, US",179,5,4,0
 2020-04-17,US,Tennessee,35.99508821,-83.94635435,84047093,US,USA,840,47093.0,Knox,"Knox, Tennessee, US",182,3,4,0
+2020-04-18,US,Tennessee,35.99508821,-83.94635435,84047093,US,USA,840,47093.0,Knox,"Knox, Tennessee, US",194,12,4,0
 2020-01-22,US,Tennessee,36.03958805,-87.77992872,84047085,US,USA,840,47085.0,Humphreys,"Humphreys, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.03958805,-87.77992872,84047085,US,USA,840,47085.0,Humphreys,"Humphreys, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.03958805,-87.77992872,84047085,US,USA,840,47085.0,Humphreys,"Humphreys, Tennessee, US",0,0,0,0
@@ -4871,6 +4926,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.03958805,-87.77992872,84047085,US,USA,840,47085.0,Humphreys,"Humphreys, Tennessee, US",4,0,0,0
 2020-04-16,US,Tennessee,36.03958805,-87.77992872,84047085,US,USA,840,47085.0,Humphreys,"Humphreys, Tennessee, US",4,0,0,0
 2020-04-17,US,Tennessee,36.03958805,-87.77992872,84047085,US,USA,840,47085.0,Humphreys,"Humphreys, Tennessee, US",4,0,0,0
+2020-04-18,US,Tennessee,36.03958805,-87.77992872,84047085,US,USA,840,47085.0,Humphreys,"Humphreys, Tennessee, US",4,0,0,0
 2020-01-22,US,Tennessee,36.04818632,-83.45148924,84047089,US,USA,840,47089.0,Jefferson,"Jefferson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.04818632,-83.45148924,84047089,US,USA,840,47089.0,Jefferson,"Jefferson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.04818632,-83.45148924,84047089,US,USA,840,47089.0,Jefferson,"Jefferson, Tennessee, US",0,0,0,0
@@ -4958,6 +5014,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.04818632,-83.45148924,84047089,US,USA,840,47089.0,Jefferson,"Jefferson, Tennessee, US",16,0,0,0
 2020-04-16,US,Tennessee,36.04818632,-83.45148924,84047089,US,USA,840,47089.0,Jefferson,"Jefferson, Tennessee, US",16,0,1,1
 2020-04-17,US,Tennessee,36.04818632,-83.45148924,84047089,US,USA,840,47089.0,Jefferson,"Jefferson, Tennessee, US",16,0,1,0
+2020-04-18,US,Tennessee,36.04818632,-83.45148924,84047089,US,USA,840,47089.0,Jefferson,"Jefferson, Tennessee, US",16,0,1,0
 2020-01-22,US,Tennessee,36.05931946,-89.41542855,84047045,US,USA,840,47045.0,Dyer,"Dyer, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.05931946,-89.41542855,84047045,US,USA,840,47045.0,Dyer,"Dyer, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.05931946,-89.41542855,84047045,US,USA,840,47045.0,Dyer,"Dyer, Tennessee, US",0,0,0,0
@@ -5045,6 +5102,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.05931946,-89.41542855,84047045,US,USA,840,47045.0,Dyer,"Dyer, Tennessee, US",22,0,0,0
 2020-04-16,US,Tennessee,36.05931946,-89.41542855,84047045,US,USA,840,47045.0,Dyer,"Dyer, Tennessee, US",24,2,0,0
 2020-04-17,US,Tennessee,36.05931946,-89.41542855,84047045,US,USA,840,47045.0,Dyer,"Dyer, Tennessee, US",24,0,0,0
+2020-04-18,US,Tennessee,36.05931946,-89.41542855,84047045,US,USA,840,47045.0,Dyer,"Dyer, Tennessee, US",24,0,0,0
 2020-01-22,US,Tennessee,36.07110411,-88.06849355,84047005,US,USA,840,47005.0,Benton,"Benton, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.07110411,-88.06849355,84047005,US,USA,840,47005.0,Benton,"Benton, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.07110411,-88.06849355,84047005,US,USA,840,47005.0,Benton,"Benton, Tennessee, US",0,0,0,0
@@ -5132,6 +5190,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.07110411,-88.06849355,84047005,US,USA,840,47005.0,Benton,"Benton, Tennessee, US",4,0,0,0
 2020-04-16,US,Tennessee,36.07110411,-88.06849355,84047005,US,USA,840,47005.0,Benton,"Benton, Tennessee, US",4,0,0,0
 2020-04-17,US,Tennessee,36.07110411,-88.06849355,84047005,US,USA,840,47005.0,Benton,"Benton, Tennessee, US",4,0,0,0
+2020-04-18,US,Tennessee,36.07110411,-88.06849355,84047005,US,USA,840,47005.0,Benton,"Benton, Tennessee, US",4,0,0,0
 2020-01-22,US,Tennessee,36.10890856,-82.43709629,84047171,US,USA,840,47171.0,Unicoi,"Unicoi, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.10890856,-82.43709629,84047171,US,USA,840,47171.0,Unicoi,"Unicoi, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.10890856,-82.43709629,84047171,US,USA,840,47171.0,Unicoi,"Unicoi, Tennessee, US",0,0,0,0
@@ -5219,6 +5278,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.10890856,-82.43709629,84047171,US,USA,840,47171.0,Unicoi,"Unicoi, Tennessee, US",1,0,0,0
 2020-04-16,US,Tennessee,36.10890856,-82.43709629,84047171,US,USA,840,47171.0,Unicoi,"Unicoi, Tennessee, US",1,0,0,0
 2020-04-17,US,Tennessee,36.10890856,-82.43709629,84047171,US,USA,840,47171.0,Unicoi,"Unicoi, Tennessee, US",1,0,0,0
+2020-04-18,US,Tennessee,36.10890856,-82.43709629,84047171,US,USA,840,47171.0,Unicoi,"Unicoi, Tennessee, US",1,0,0,0
 2020-01-22,US,Tennessee,36.12684348,-84.19965764,84047001,US,USA,840,47001.0,Anderson,"Anderson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.12684348,-84.19965764,84047001,US,USA,840,47001.0,Anderson,"Anderson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.12684348,-84.19965764,84047001,US,USA,840,47001.0,Anderson,"Anderson, Tennessee, US",0,0,0,0
@@ -5306,6 +5366,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.12684348,-84.19965764,84047001,US,USA,840,47001.0,Anderson,"Anderson, Tennessee, US",15,0,1,0
 2020-04-16,US,Tennessee,36.12684348,-84.19965764,84047001,US,USA,840,47001.0,Anderson,"Anderson, Tennessee, US",16,1,1,0
 2020-04-17,US,Tennessee,36.12684348,-84.19965764,84047001,US,USA,840,47001.0,Anderson,"Anderson, Tennessee, US",16,0,1,0
+2020-04-18,US,Tennessee,36.12684348,-84.19965764,84047001,US,USA,840,47001.0,Anderson,"Anderson, Tennessee, US",16,0,1,0
 2020-01-22,US,Tennessee,36.13248031,-84.64880098,84047129,US,USA,840,47129.0,Morgan,"Morgan, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.13248031,-84.64880098,84047129,US,USA,840,47129.0,Morgan,"Morgan, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.13248031,-84.64880098,84047129,US,USA,840,47129.0,Morgan,"Morgan, Tennessee, US",0,0,0,0
@@ -5393,6 +5454,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.13248031,-84.64880098,84047129,US,USA,840,47129.0,Morgan,"Morgan, Tennessee, US",6,0,0,0
 2020-04-16,US,Tennessee,36.13248031,-84.64880098,84047129,US,USA,840,47129.0,Morgan,"Morgan, Tennessee, US",5,-1,0,0
 2020-04-17,US,Tennessee,36.13248031,-84.64880098,84047129,US,USA,840,47129.0,Morgan,"Morgan, Tennessee, US",5,0,0,0
+2020-04-18,US,Tennessee,36.13248031,-84.64880098,84047129,US,USA,840,47129.0,Morgan,"Morgan, Tennessee, US",5,0,0,0
 2020-01-22,US,Tennessee,36.14005459,-85.50646123,84047141,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.14005459,-85.50646123,84047141,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.14005459,-85.50646123,84047141,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",0,0,0,0
@@ -5480,6 +5542,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.14005459,-85.50646123,84047141,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",92,0,0,0
 2020-04-16,US,Tennessee,36.14005459,-85.50646123,84047141,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",93,1,0,0
 2020-04-17,US,Tennessee,36.14005459,-85.50646123,84047141,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",93,0,2,2
+2020-04-18,US,Tennessee,36.14005459,-85.50646123,84047141,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",94,1,2,0
 2020-01-22,US,Tennessee,36.14669837,-87.35891709,84047043,US,USA,840,47043.0,Dickson,"Dickson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.14669837,-87.35891709,84047043,US,USA,840,47043.0,Dickson,"Dickson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.14669837,-87.35891709,84047043,US,USA,840,47043.0,Dickson,"Dickson, Tennessee, US",0,0,0,0
@@ -5567,6 +5630,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.14669837,-87.35891709,84047043,US,USA,840,47043.0,Dickson,"Dickson, Tennessee, US",33,0,0,0
 2020-04-16,US,Tennessee,36.14669837,-87.35891709,84047043,US,USA,840,47043.0,Dickson,"Dickson, Tennessee, US",37,4,0,0
 2020-04-17,US,Tennessee,36.14669837,-87.35891709,84047043,US,USA,840,47043.0,Dickson,"Dickson, Tennessee, US",39,2,0,0
+2020-04-18,US,Tennessee,36.14669837,-87.35891709,84047043,US,USA,840,47043.0,Dickson,"Dickson, Tennessee, US",42,3,0,0
 2020-01-22,US,Tennessee,36.15496772,-86.29775884,84047189,US,USA,840,47189.0,Wilson,"Wilson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.15496772,-86.29775884,84047189,US,USA,840,47189.0,Wilson,"Wilson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.15496772,-86.29775884,84047189,US,USA,840,47189.0,Wilson,"Wilson, Tennessee, US",0,0,0,0
@@ -5654,6 +5718,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.15496772,-86.29775884,84047189,US,USA,840,47189.0,Wilson,"Wilson, Tennessee, US",145,0,1,0
 2020-04-16,US,Tennessee,36.15496772,-86.29775884,84047189,US,USA,840,47189.0,Wilson,"Wilson, Tennessee, US",155,10,1,0
 2020-04-17,US,Tennessee,36.15496772,-86.29775884,84047189,US,USA,840,47189.0,Wilson,"Wilson, Tennessee, US",161,6,1,0
+2020-04-18,US,Tennessee,36.15496772,-86.29775884,84047189,US,USA,840,47189.0,Wilson,"Wilson, Tennessee, US",171,10,1,0
 2020-01-22,US,Tennessee,36.17007426,-86.78646056,84047037,US,USA,840,47037.0,Davidson,"Davidson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.17007426,-86.78646056,84047037,US,USA,840,47037.0,Davidson,"Davidson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.17007426,-86.78646056,84047037,US,USA,840,47037.0,Davidson,"Davidson, Tennessee, US",0,0,0,0
@@ -5741,6 +5806,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.17007426,-86.78646056,84047037,US,USA,840,47037.0,Davidson,"Davidson, Tennessee, US",1237,0,18,0
 2020-04-16,US,Tennessee,36.17007426,-86.78646056,84047037,US,USA,840,47037.0,Davidson,"Davidson, Tennessee, US",1492,255,19,1
 2020-04-17,US,Tennessee,36.17007426,-86.78646056,84047037,US,USA,840,47037.0,Davidson,"Davidson, Tennessee, US",1307,-185,19,0
+2020-04-18,US,Tennessee,36.17007426,-86.78646056,84047037,US,USA,840,47037.0,Davidson,"Davidson, Tennessee, US",1465,158,19,0
 2020-01-22,US,Tennessee,36.17470125,-82.84691273,84047059,US,USA,840,47059.0,Greene,"Greene, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.17470125,-82.84691273,84047059,US,USA,840,47059.0,Greene,"Greene, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.17470125,-82.84691273,84047059,US,USA,840,47059.0,Greene,"Greene, Tennessee, US",0,0,0,0
@@ -5828,6 +5894,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.17470125,-82.84691273,84047059,US,USA,840,47059.0,Greene,"Greene, Tennessee, US",27,0,2,0
 2020-04-16,US,Tennessee,36.17470125,-82.84691273,84047059,US,USA,840,47059.0,Greene,"Greene, Tennessee, US",28,1,2,0
 2020-04-17,US,Tennessee,36.17470125,-82.84691273,84047059,US,USA,840,47059.0,Greene,"Greene, Tennessee, US",29,1,2,0
+2020-04-18,US,Tennessee,36.17470125,-82.84691273,84047059,US,USA,840,47059.0,Greene,"Greene, Tennessee, US",30,1,2,0
 2020-01-22,US,Tennessee,36.21990035,-83.26586179,84047063,US,USA,840,47063.0,Hamblen,"Hamblen, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.21990035,-83.26586179,84047063,US,USA,840,47063.0,Hamblen,"Hamblen, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.21990035,-83.26586179,84047063,US,USA,840,47063.0,Hamblen,"Hamblen, Tennessee, US",0,0,0,0
@@ -5915,6 +5982,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.21990035,-83.26586179,84047063,US,USA,840,47063.0,Hamblen,"Hamblen, Tennessee, US",6,0,1,0
 2020-04-16,US,Tennessee,36.21990035,-83.26586179,84047063,US,USA,840,47063.0,Hamblen,"Hamblen, Tennessee, US",7,1,1,0
 2020-04-17,US,Tennessee,36.21990035,-83.26586179,84047063,US,USA,840,47063.0,Hamblen,"Hamblen, Tennessee, US",7,0,1,0
+2020-04-18,US,Tennessee,36.21990035,-83.26586179,84047063,US,USA,840,47063.0,Hamblen,"Hamblen, Tennessee, US",7,0,1,0
 2020-01-22,US,Tennessee,36.25359775,-85.95411046,84047159,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.25359775,-85.95411046,84047159,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.25359775,-85.95411046,84047159,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",0,0,0,0
@@ -6002,6 +6070,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.25359775,-85.95411046,84047159,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",10,0,0,0
 2020-04-16,US,Tennessee,36.25359775,-85.95411046,84047159,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",10,0,1,1
 2020-04-17,US,Tennessee,36.25359775,-85.95411046,84047159,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",11,1,1,0
+2020-04-18,US,Tennessee,36.25359775,-85.95411046,84047159,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",12,1,1,0
 2020-01-22,US,Tennessee,36.26136216,-87.08903581,84047021,US,USA,840,47021.0,Cheatham,"Cheatham, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.26136216,-87.08903581,84047021,US,USA,840,47021.0,Cheatham,"Cheatham, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.26136216,-87.08903581,84047021,US,USA,840,47021.0,Cheatham,"Cheatham, Tennessee, US",0,0,0,0
@@ -6089,6 +6158,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.26136216,-87.08903581,84047021,US,USA,840,47021.0,Cheatham,"Cheatham, Tennessee, US",19,0,0,0
 2020-04-16,US,Tennessee,36.26136216,-87.08903581,84047021,US,USA,840,47021.0,Cheatham,"Cheatham, Tennessee, US",19,0,0,0
 2020-04-17,US,Tennessee,36.26136216,-87.08903581,84047021,US,USA,840,47021.0,Cheatham,"Cheatham, Tennessee, US",20,1,0,0
+2020-04-18,US,Tennessee,36.26136216,-87.08903581,84047021,US,USA,840,47021.0,Cheatham,"Cheatham, Tennessee, US",21,1,0,0
 2020-01-22,US,Tennessee,36.27469206,-83.51254721,84047057,US,USA,840,47057.0,Grainger,"Grainger, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.27469206,-83.51254721,84047057,US,USA,840,47057.0,Grainger,"Grainger, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.27469206,-83.51254721,84047057,US,USA,840,47057.0,Grainger,"Grainger, Tennessee, US",0,0,0,0
@@ -6176,6 +6246,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.27469206,-83.51254721,84047057,US,USA,840,47057.0,Grainger,"Grainger, Tennessee, US",4,0,0,0
 2020-04-16,US,Tennessee,36.27469206,-83.51254721,84047057,US,USA,840,47057.0,Grainger,"Grainger, Tennessee, US",4,0,0,0
 2020-04-17,US,Tennessee,36.27469206,-83.51254721,84047057,US,USA,840,47057.0,Grainger,"Grainger, Tennessee, US",4,0,0,0
+2020-04-18,US,Tennessee,36.27469206,-83.51254721,84047057,US,USA,840,47057.0,Grainger,"Grainger, Tennessee, US",4,0,0,0
 2020-01-22,US,Tennessee,36.28590426,-83.83651902,84047173,US,USA,840,47173.0,Union,"Union, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.28590426,-83.83651902,84047173,US,USA,840,47173.0,Union,"Union, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.28590426,-83.83651902,84047173,US,USA,840,47173.0,Union,"Union, Tennessee, US",0,0,0,0
@@ -6263,6 +6334,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.28590426,-83.83651902,84047173,US,USA,840,47173.0,Union,"Union, Tennessee, US",3,0,0,0
 2020-04-16,US,Tennessee,36.28590426,-83.83651902,84047173,US,USA,840,47173.0,Union,"Union, Tennessee, US",3,0,0,0
 2020-04-17,US,Tennessee,36.28590426,-83.83651902,84047173,US,USA,840,47173.0,Union,"Union, Tennessee, US",3,0,0,0
+2020-04-18,US,Tennessee,36.28590426,-83.83651902,84047173,US,USA,840,47173.0,Union,"Union, Tennessee, US",3,0,0,0
 2020-01-22,US,Tennessee,36.28872054,-87.71878828,84047083,US,USA,840,47083.0,Houston,"Houston, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.28872054,-87.71878828,84047083,US,USA,840,47083.0,Houston,"Houston, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.28872054,-87.71878828,84047083,US,USA,840,47083.0,Houston,"Houston, Tennessee, US",0,0,0,0
@@ -6350,6 +6422,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.28872054,-87.71878828,84047083,US,USA,840,47083.0,Houston,"Houston, Tennessee, US",3,0,0,0
 2020-04-16,US,Tennessee,36.28872054,-87.71878828,84047083,US,USA,840,47083.0,Houston,"Houston, Tennessee, US",4,1,0,0
 2020-04-17,US,Tennessee,36.28872054,-87.71878828,84047083,US,USA,840,47083.0,Houston,"Houston, Tennessee, US",4,0,0,0
+2020-04-18,US,Tennessee,36.28872054,-87.71878828,84047083,US,USA,840,47083.0,Houston,"Houston, Tennessee, US",4,0,0,0
 2020-01-22,US,Tennessee,36.28969086,-82.12588974,84047019,US,USA,840,47019.0,Carter,"Carter, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.28969086,-82.12588974,84047019,US,USA,840,47019.0,Carter,"Carter, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.28969086,-82.12588974,84047019,US,USA,840,47019.0,Carter,"Carter, Tennessee, US",0,0,0,0
@@ -6437,6 +6510,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.28969086,-82.12588974,84047019,US,USA,840,47019.0,Carter,"Carter, Tennessee, US",3,0,1,0
 2020-04-16,US,Tennessee,36.28969086,-82.12588974,84047019,US,USA,840,47019.0,Carter,"Carter, Tennessee, US",4,1,1,0
 2020-04-17,US,Tennessee,36.28969086,-82.12588974,84047019,US,USA,840,47019.0,Carter,"Carter, Tennessee, US",5,1,1,0
+2020-04-18,US,Tennessee,36.28969086,-82.12588974,84047019,US,USA,840,47019.0,Carter,"Carter, Tennessee, US",5,0,1,0
 2020-01-22,US,Tennessee,36.29472368,-82.49454720000001,84047179,US,USA,840,47179.0,Washington,"Washington, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.29472368,-82.49454720000001,84047179,US,USA,840,47179.0,Washington,"Washington, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.29472368,-82.49454720000001,84047179,US,USA,840,47179.0,Washington,"Washington, Tennessee, US",0,0,0,0
@@ -6524,6 +6598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.29472368,-82.49454720000001,84047179,US,USA,840,47179.0,Washington,"Washington, Tennessee, US",44,0,0,0
 2020-04-16,US,Tennessee,36.29472368,-82.49454720000001,84047179,US,USA,840,47179.0,Washington,"Washington, Tennessee, US",45,1,0,0
 2020-04-17,US,Tennessee,36.29472368,-82.49454720000001,84047179,US,USA,840,47179.0,Washington,"Washington, Tennessee, US",46,1,0,0
+2020-04-18,US,Tennessee,36.29472368,-82.49454720000001,84047179,US,USA,840,47179.0,Washington,"Washington, Tennessee, US",46,0,0,0
 2020-01-22,US,Tennessee,36.29896232,-88.71990865,84047183,US,USA,840,47183.0,Weakley,"Weakley, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.29896232,-88.71990865,84047183,US,USA,840,47183.0,Weakley,"Weakley, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.29896232,-88.71990865,84047183,US,USA,840,47183.0,Weakley,"Weakley, Tennessee, US",0,0,0,0
@@ -6611,6 +6686,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.29896232,-88.71990865,84047183,US,USA,840,47183.0,Weakley,"Weakley, Tennessee, US",6,0,0,0
 2020-04-16,US,Tennessee,36.29896232,-88.71990865,84047183,US,USA,840,47183.0,Weakley,"Weakley, Tennessee, US",6,0,0,0
 2020-04-17,US,Tennessee,36.29896232,-88.71990865,84047183,US,USA,840,47183.0,Weakley,"Weakley, Tennessee, US",6,0,0,0
+2020-04-18,US,Tennessee,36.29896232,-88.71990865,84047183,US,USA,840,47183.0,Weakley,"Weakley, Tennessee, US",6,0,0,0
 2020-01-22,US,Tennessee,36.33160906,-88.30121797,84047079,US,USA,840,47079.0,Henry,"Henry, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.33160906,-88.30121797,84047079,US,USA,840,47079.0,Henry,"Henry, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.33160906,-88.30121797,84047079,US,USA,840,47079.0,Henry,"Henry, Tennessee, US",0,0,0,0
@@ -6698,6 +6774,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.33160906,-88.30121797,84047079,US,USA,840,47079.0,Henry,"Henry, Tennessee, US",8,0,0,0
 2020-04-16,US,Tennessee,36.33160906,-88.30121797,84047079,US,USA,840,47079.0,Henry,"Henry, Tennessee, US",8,0,0,0
 2020-04-17,US,Tennessee,36.33160906,-88.30121797,84047079,US,USA,840,47079.0,Henry,"Henry, Tennessee, US",8,0,0,0
+2020-04-18,US,Tennessee,36.33160906,-88.30121797,84047079,US,USA,840,47079.0,Henry,"Henry, Tennessee, US",9,1,0,0
 2020-01-22,US,Tennessee,36.34117832,-85.28989535,84047133,US,USA,840,47133.0,Overton,"Overton, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.34117832,-85.28989535,84047133,US,USA,840,47133.0,Overton,"Overton, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.34117832,-85.28989535,84047133,US,USA,840,47133.0,Overton,"Overton, Tennessee, US",0,0,0,0
@@ -6785,6 +6862,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.34117832,-85.28989535,84047133,US,USA,840,47133.0,Overton,"Overton, Tennessee, US",5,0,0,0
 2020-04-16,US,Tennessee,36.34117832,-85.28989535,84047133,US,USA,840,47133.0,Overton,"Overton, Tennessee, US",7,2,0,0
 2020-04-17,US,Tennessee,36.34117832,-85.28989535,84047133,US,USA,840,47133.0,Overton,"Overton, Tennessee, US",7,0,0,0
+2020-04-18,US,Tennessee,36.34117832,-85.28989535,84047133,US,USA,840,47133.0,Overton,"Overton, Tennessee, US",7,0,0,0
 2020-01-22,US,Tennessee,36.34180170000001,-89.48921915,84047095,US,USA,840,47095.0,Lake,"Lake, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.34180170000001,-89.48921915,84047095,US,USA,840,47095.0,Lake,"Lake, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.34180170000001,-89.48921915,84047095,US,USA,840,47095.0,Lake,"Lake, Tennessee, US",0,0,0,0
@@ -6872,6 +6950,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.34180170000001,-89.48921915,84047095,US,USA,840,47095.0,Lake,"Lake, Tennessee, US",4,0,0,0
 2020-04-16,US,Tennessee,36.34180170000001,-89.48921915,84047095,US,USA,840,47095.0,Lake,"Lake, Tennessee, US",4,0,0,0
 2020-04-17,US,Tennessee,36.34180170000001,-89.48921915,84047095,US,USA,840,47095.0,Lake,"Lake, Tennessee, US",4,0,0,0
+2020-04-18,US,Tennessee,36.34180170000001,-89.48921915,84047095,US,USA,840,47095.0,Lake,"Lake, Tennessee, US",4,0,0,0
 2020-01-22,US,Tennessee,36.35732446,-89.14921589,84047131,US,USA,840,47131.0,Obion,"Obion, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.35732446,-89.14921589,84047131,US,USA,840,47131.0,Obion,"Obion, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.35732446,-89.14921589,84047131,US,USA,840,47131.0,Obion,"Obion, Tennessee, US",0,0,0,0
@@ -6959,6 +7038,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.35732446,-89.14921589,84047131,US,USA,840,47131.0,Obion,"Obion, Tennessee, US",8,0,1,0
 2020-04-16,US,Tennessee,36.35732446,-89.14921589,84047131,US,USA,840,47131.0,Obion,"Obion, Tennessee, US",8,0,1,0
 2020-04-17,US,Tennessee,36.35732446,-89.14921589,84047131,US,USA,840,47131.0,Obion,"Obion, Tennessee, US",8,0,1,0
+2020-04-18,US,Tennessee,36.35732446,-89.14921589,84047131,US,USA,840,47131.0,Obion,"Obion, Tennessee, US",9,1,1,0
 2020-01-22,US,Tennessee,36.36380466,-85.67239905,84047087,US,USA,840,47087.0,Jackson,"Jackson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.36380466,-85.67239905,84047087,US,USA,840,47087.0,Jackson,"Jackson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.36380466,-85.67239905,84047087,US,USA,840,47087.0,Jackson,"Jackson, Tennessee, US",0,0,0,0
@@ -7046,6 +7126,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.36380466,-85.67239905,84047087,US,USA,840,47087.0,Jackson,"Jackson, Tennessee, US",7,0,0,0
 2020-04-16,US,Tennessee,36.36380466,-85.67239905,84047087,US,USA,840,47087.0,Jackson,"Jackson, Tennessee, US",6,-1,0,0
 2020-04-17,US,Tennessee,36.36380466,-85.67239905,84047087,US,USA,840,47087.0,Jackson,"Jackson, Tennessee, US",6,0,0,0
+2020-04-18,US,Tennessee,36.36380466,-85.67239905,84047087,US,USA,840,47087.0,Jackson,"Jackson, Tennessee, US",6,0,0,0
 2020-01-22,US,Tennessee,36.38128818,-84.92870012,84047049,US,USA,840,47049.0,Fentress,"Fentress, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.38128818,-84.92870012,84047049,US,USA,840,47049.0,Fentress,"Fentress, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.38128818,-84.92870012,84047049,US,USA,840,47049.0,Fentress,"Fentress, Tennessee, US",0,0,0,0
@@ -7133,6 +7214,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.38128818,-84.92870012,84047049,US,USA,840,47049.0,Fentress,"Fentress, Tennessee, US",3,0,0,0
 2020-04-16,US,Tennessee,36.38128818,-84.92870012,84047049,US,USA,840,47049.0,Fentress,"Fentress, Tennessee, US",3,0,0,0
 2020-04-17,US,Tennessee,36.38128818,-84.92870012,84047049,US,USA,840,47049.0,Fentress,"Fentress, Tennessee, US",4,1,0,0
+2020-04-18,US,Tennessee,36.38128818,-84.92870012,84047049,US,USA,840,47049.0,Fentress,"Fentress, Tennessee, US",4,0,0,0
 2020-01-22,US,Tennessee,36.39026213,-86.16087954,84047169,US,USA,840,47169.0,Trousdale,"Trousdale, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.39026213,-86.16087954,84047169,US,USA,840,47169.0,Trousdale,"Trousdale, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.39026213,-86.16087954,84047169,US,USA,840,47169.0,Trousdale,"Trousdale, Tennessee, US",0,0,0,0
@@ -7220,6 +7302,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.39026213,-86.16087954,84047169,US,USA,840,47169.0,Trousdale,"Trousdale, Tennessee, US",20,0,1,0
 2020-04-16,US,Tennessee,36.39026213,-86.16087954,84047169,US,USA,840,47169.0,Trousdale,"Trousdale, Tennessee, US",19,-1,1,0
 2020-04-17,US,Tennessee,36.39026213,-86.16087954,84047169,US,USA,840,47169.0,Trousdale,"Trousdale, Tennessee, US",19,0,1,0
+2020-04-18,US,Tennessee,36.39026213,-86.16087954,84047169,US,USA,840,47169.0,Trousdale,"Trousdale, Tennessee, US",20,1,1,0
 2020-01-22,US,Tennessee,36.40355516,-84.15108559999999,84047013,US,USA,840,47013.0,Campbell,"Campbell, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.40355516,-84.15108559999999,84047013,US,USA,840,47013.0,Campbell,"Campbell, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.40355516,-84.15108559999999,84047013,US,USA,840,47013.0,Campbell,"Campbell, Tennessee, US",0,0,0,0
@@ -7307,6 +7390,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.40355516,-84.15108559999999,84047013,US,USA,840,47013.0,Campbell,"Campbell, Tennessee, US",12,0,0,0
 2020-04-16,US,Tennessee,36.40355516,-84.15108559999999,84047013,US,USA,840,47013.0,Campbell,"Campbell, Tennessee, US",12,0,1,1
 2020-04-17,US,Tennessee,36.40355516,-84.15108559999999,84047013,US,USA,840,47013.0,Campbell,"Campbell, Tennessee, US",12,0,1,0
+2020-04-18,US,Tennessee,36.40355516,-84.15108559999999,84047013,US,USA,840,47013.0,Campbell,"Campbell, Tennessee, US",13,1,1,0
 2020-01-22,US,Tennessee,36.42325673,-84.50360494,84047151,US,USA,840,47151.0,Scott,"Scott, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.42325673,-84.50360494,84047151,US,USA,840,47151.0,Scott,"Scott, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.42325673,-84.50360494,84047151,US,USA,840,47151.0,Scott,"Scott, Tennessee, US",0,0,0,0
@@ -7394,6 +7478,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.42325673,-84.50360494,84047151,US,USA,840,47151.0,Scott,"Scott, Tennessee, US",10,0,0,0
 2020-04-16,US,Tennessee,36.42325673,-84.50360494,84047151,US,USA,840,47151.0,Scott,"Scott, Tennessee, US",11,1,0,0
 2020-04-17,US,Tennessee,36.42325673,-84.50360494,84047151,US,USA,840,47151.0,Scott,"Scott, Tennessee, US",11,0,0,0
+2020-04-18,US,Tennessee,36.42325673,-84.50360494,84047151,US,USA,840,47151.0,Scott,"Scott, Tennessee, US",11,0,0,0
 2020-01-22,US,Tennessee,36.44355426,-82.94885298,84047073,US,USA,840,47073.0,Hawkins,"Hawkins, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.44355426,-82.94885298,84047073,US,USA,840,47073.0,Hawkins,"Hawkins, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.44355426,-82.94885298,84047073,US,USA,840,47073.0,Hawkins,"Hawkins, Tennessee, US",0,0,0,0
@@ -7481,6 +7566,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.44355426,-82.94885298,84047073,US,USA,840,47073.0,Hawkins,"Hawkins, Tennessee, US",24,0,2,0
 2020-04-16,US,Tennessee,36.44355426,-82.94885298,84047073,US,USA,840,47073.0,Hawkins,"Hawkins, Tennessee, US",26,2,2,0
 2020-04-17,US,Tennessee,36.44355426,-82.94885298,84047073,US,USA,840,47073.0,Hawkins,"Hawkins, Tennessee, US",26,0,2,0
+2020-04-18,US,Tennessee,36.44355426,-82.94885298,84047073,US,USA,840,47073.0,Hawkins,"Hawkins, Tennessee, US",27,1,2,0
 2020-01-22,US,Tennessee,36.45523950000001,-81.84886538,84047091,US,USA,840,47091.0,Johnson,"Johnson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.45523950000001,-81.84886538,84047091,US,USA,840,47091.0,Johnson,"Johnson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.45523950000001,-81.84886538,84047091,US,USA,840,47091.0,Johnson,"Johnson, Tennessee, US",0,0,0,0
@@ -7568,6 +7654,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.45523950000001,-81.84886538,84047091,US,USA,840,47091.0,Johnson,"Johnson, Tennessee, US",2,0,0,0
 2020-04-16,US,Tennessee,36.45523950000001,-81.84886538,84047091,US,USA,840,47091.0,Johnson,"Johnson, Tennessee, US",2,0,0,0
 2020-04-17,US,Tennessee,36.45523950000001,-81.84886538,84047091,US,USA,840,47091.0,Johnson,"Johnson, Tennessee, US",2,0,0,0
+2020-04-18,US,Tennessee,36.45523950000001,-81.84886538,84047091,US,USA,840,47091.0,Johnson,"Johnson, Tennessee, US",2,0,0,0
 2020-01-22,US,Tennessee,36.46824103,-86.45917204,84047165,US,USA,840,47165.0,Sumner,"Sumner, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.46824103,-86.45917204,84047165,US,USA,840,47165.0,Sumner,"Sumner, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.46824103,-86.45917204,84047165,US,USA,840,47165.0,Sumner,"Sumner, Tennessee, US",0,0,0,0
@@ -7655,6 +7742,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.46824103,-86.45917204,84047165,US,USA,840,47165.0,Sumner,"Sumner, Tennessee, US",466,0,27,0
 2020-04-16,US,Tennessee,36.46824103,-86.45917204,84047165,US,USA,840,47165.0,Sumner,"Sumner, Tennessee, US",478,12,27,0
 2020-04-17,US,Tennessee,36.46824103,-86.45917204,84047165,US,USA,840,47165.0,Sumner,"Sumner, Tennessee, US",491,13,28,1
+2020-04-18,US,Tennessee,36.46824103,-86.45917204,84047165,US,USA,840,47165.0,Sumner,"Sumner, Tennessee, US",497,6,29,1
 2020-01-22,US,Tennessee,36.48319149,-83.65947309,84047025,US,USA,840,47025.0,Claiborne,"Claiborne, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.48319149,-83.65947309,84047025,US,USA,840,47025.0,Claiborne,"Claiborne, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.48319149,-83.65947309,84047025,US,USA,840,47025.0,Claiborne,"Claiborne, Tennessee, US",0,0,0,0
@@ -7742,6 +7830,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.48319149,-83.65947309,84047025,US,USA,840,47025.0,Claiborne,"Claiborne, Tennessee, US",5,0,0,0
 2020-04-16,US,Tennessee,36.48319149,-83.65947309,84047025,US,USA,840,47025.0,Claiborne,"Claiborne, Tennessee, US",5,0,0,0
 2020-04-17,US,Tennessee,36.48319149,-83.65947309,84047025,US,USA,840,47025.0,Claiborne,"Claiborne, Tennessee, US",5,0,0,0
+2020-04-18,US,Tennessee,36.48319149,-83.65947309,84047025,US,USA,840,47025.0,Claiborne,"Claiborne, Tennessee, US",5,0,0,0
 2020-01-22,US,Tennessee,36.49609412,-87.38550661,84047125,US,USA,840,47125.0,Montgomery,"Montgomery, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.49609412,-87.38550661,84047125,US,USA,840,47125.0,Montgomery,"Montgomery, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.49609412,-87.38550661,84047125,US,USA,840,47125.0,Montgomery,"Montgomery, Tennessee, US",0,0,0,0
@@ -7829,6 +7918,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.49609412,-87.38550661,84047125,US,USA,840,47125.0,Montgomery,"Montgomery, Tennessee, US",102,0,2,0
 2020-04-16,US,Tennessee,36.49609412,-87.38550661,84047125,US,USA,840,47125.0,Montgomery,"Montgomery, Tennessee, US",102,0,2,0
 2020-04-17,US,Tennessee,36.49609412,-87.38550661,84047125,US,USA,840,47125.0,Montgomery,"Montgomery, Tennessee, US",102,0,2,0
+2020-04-18,US,Tennessee,36.49609412,-87.38550661,84047125,US,USA,840,47125.0,Montgomery,"Montgomery, Tennessee, US",108,6,2,0
 2020-01-22,US,Tennessee,36.50235092,-87.83920548,84047161,US,USA,840,47161.0,Stewart,"Stewart, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.50235092,-87.83920548,84047161,US,USA,840,47161.0,Stewart,"Stewart, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.50235092,-87.83920548,84047161,US,USA,840,47161.0,Stewart,"Stewart, Tennessee, US",0,0,0,0
@@ -7916,6 +8006,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.50235092,-87.83920548,84047161,US,USA,840,47161.0,Stewart,"Stewart, Tennessee, US",4,0,0,0
 2020-04-16,US,Tennessee,36.50235092,-87.83920548,84047161,US,USA,840,47161.0,Stewart,"Stewart, Tennessee, US",4,0,0,0
 2020-04-17,US,Tennessee,36.50235092,-87.83920548,84047161,US,USA,840,47161.0,Stewart,"Stewart, Tennessee, US",4,0,0,0
+2020-04-18,US,Tennessee,36.50235092,-87.83920548,84047161,US,USA,840,47161.0,Stewart,"Stewart, Tennessee, US",5,1,0,0
 2020-01-22,US,Tennessee,36.51240691,-82.30412917,84047163,US,USA,840,47163.0,Sullivan,"Sullivan, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.51240691,-82.30412917,84047163,US,USA,840,47163.0,Sullivan,"Sullivan, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.51240691,-82.30412917,84047163,US,USA,840,47163.0,Sullivan,"Sullivan, Tennessee, US",0,0,0,0
@@ -8003,6 +8094,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.51240691,-82.30412917,84047163,US,USA,840,47163.0,Sullivan,"Sullivan, Tennessee, US",43,0,1,0
 2020-04-16,US,Tennessee,36.51240691,-82.30412917,84047163,US,USA,840,47163.0,Sullivan,"Sullivan, Tennessee, US",43,0,1,0
 2020-04-17,US,Tennessee,36.51240691,-82.30412917,84047163,US,USA,840,47163.0,Sullivan,"Sullivan, Tennessee, US",45,2,1,0
+2020-04-18,US,Tennessee,36.51240691,-82.30412917,84047163,US,USA,840,47163.0,Sullivan,"Sullivan, Tennessee, US",45,0,1,0
 2020-01-22,US,Tennessee,36.52454807,-86.87346725,84047147,US,USA,840,47147.0,Robertson,"Robertson, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.52454807,-86.87346725,84047147,US,USA,840,47147.0,Robertson,"Robertson, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.52454807,-86.87346725,84047147,US,USA,840,47147.0,Robertson,"Robertson, Tennessee, US",0,0,0,0
@@ -8090,6 +8182,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.52454807,-86.87346725,84047147,US,USA,840,47147.0,Robertson,"Robertson, Tennessee, US",88,0,0,0
 2020-04-16,US,Tennessee,36.52454807,-86.87346725,84047147,US,USA,840,47147.0,Robertson,"Robertson, Tennessee, US",94,6,0,0
 2020-04-17,US,Tennessee,36.52454807,-86.87346725,84047147,US,USA,840,47147.0,Robertson,"Robertson, Tennessee, US",95,1,0,0
+2020-04-18,US,Tennessee,36.52454807,-86.87346725,84047147,US,USA,840,47147.0,Robertson,"Robertson, Tennessee, US",105,10,0,0
 2020-01-22,US,Tennessee,36.52692871,-83.22375847,84047067,US,USA,840,47067.0,Hancock,"Hancock, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.52692871,-83.22375847,84047067,US,USA,840,47067.0,Hancock,"Hancock, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.52692871,-83.22375847,84047067,US,USA,840,47067.0,Hancock,"Hancock, Tennessee, US",0,0,0,0
@@ -8177,6 +8270,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.52692871,-83.22375847,84047067,US,USA,840,47067.0,Hancock,"Hancock, Tennessee, US",0,0,0,0
 2020-04-16,US,Tennessee,36.52692871,-83.22375847,84047067,US,USA,840,47067.0,Hancock,"Hancock, Tennessee, US",0,0,0,0
 2020-04-17,US,Tennessee,36.52692871,-83.22375847,84047067,US,USA,840,47067.0,Hancock,"Hancock, Tennessee, US",0,0,0,0
+2020-04-18,US,Tennessee,36.52692871,-83.22375847,84047067,US,USA,840,47067.0,Hancock,"Hancock, Tennessee, US",0,0,0,0
 2020-01-22,US,Tennessee,36.53157855,-86.00778595,84047111,US,USA,840,47111.0,Macon,"Macon, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.53157855,-86.00778595,84047111,US,USA,840,47111.0,Macon,"Macon, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.53157855,-86.00778595,84047111,US,USA,840,47111.0,Macon,"Macon, Tennessee, US",0,0,0,0
@@ -8264,6 +8358,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.53157855,-86.00778595,84047111,US,USA,840,47111.0,Macon,"Macon, Tennessee, US",27,0,2,0
 2020-04-16,US,Tennessee,36.53157855,-86.00778595,84047111,US,USA,840,47111.0,Macon,"Macon, Tennessee, US",29,2,3,1
 2020-04-17,US,Tennessee,36.53157855,-86.00778595,84047111,US,USA,840,47111.0,Macon,"Macon, Tennessee, US",30,1,3,0
+2020-04-18,US,Tennessee,36.53157855,-86.00778595,84047111,US,USA,840,47111.0,Macon,"Macon, Tennessee, US",31,1,3,0
 2020-01-22,US,Tennessee,36.55151008,-85.53930419,84047027,US,USA,840,47027.0,Clay,"Clay, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.55151008,-85.53930419,84047027,US,USA,840,47027.0,Clay,"Clay, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.55151008,-85.53930419,84047027,US,USA,840,47027.0,Clay,"Clay, Tennessee, US",0,0,0,0
@@ -8351,6 +8446,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.55151008,-85.53930419,84047027,US,USA,840,47027.0,Clay,"Clay, Tennessee, US",4,0,0,0
 2020-04-16,US,Tennessee,36.55151008,-85.53930419,84047027,US,USA,840,47027.0,Clay,"Clay, Tennessee, US",5,1,0,0
 2020-04-17,US,Tennessee,36.55151008,-85.53930419,84047027,US,USA,840,47027.0,Clay,"Clay, Tennessee, US",5,0,0,0
+2020-04-18,US,Tennessee,36.55151008,-85.53930419,84047027,US,USA,840,47027.0,Clay,"Clay, Tennessee, US",5,0,0,0
 2020-01-22,US,Tennessee,36.55606529,-85.07763299999998,84047137,US,USA,840,47137.0,Pickett,"Pickett, Tennessee, US",0,0,0,0
 2020-01-23,US,Tennessee,36.55606529,-85.07763299999998,84047137,US,USA,840,47137.0,Pickett,"Pickett, Tennessee, US",0,0,0,0
 2020-01-24,US,Tennessee,36.55606529,-85.07763299999998,84047137,US,USA,840,47137.0,Pickett,"Pickett, Tennessee, US",0,0,0,0
@@ -8438,3 +8534,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-15,US,Tennessee,36.55606529,-85.07763299999998,84047137,US,USA,840,47137.0,Pickett,"Pickett, Tennessee, US",0,0,0,0
 2020-04-16,US,Tennessee,36.55606529,-85.07763299999998,84047137,US,USA,840,47137.0,Pickett,"Pickett, Tennessee, US",0,0,0,0
 2020-04-17,US,Tennessee,36.55606529,-85.07763299999998,84047137,US,USA,840,47137.0,Pickett,"Pickett, Tennessee, US",0,0,0,0
+2020-04-18,US,Tennessee,36.55606529,-85.07763299999998,84047137,US,USA,840,47137.0,Pickett,"Pickett, Tennessee, US",0,0,0,0
