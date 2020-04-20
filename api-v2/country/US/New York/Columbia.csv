@@ -87,3 +87,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,New York,42.24819348,-73.63089095,84036021,US,USA,840,36021.0,Columbia,"Columbia, New York, US",100,0,10,0
 2020-04-17,US,New York,42.24819348,-73.63089095,84036021,US,USA,840,36021.0,Columbia,"Columbia, New York, US",101,1,10,0
 2020-04-18,US,New York,42.24819348,-73.63089095,84036021,US,USA,840,36021.0,Columbia,"Columbia, New York, US",105,4,10,0
+2020-04-19,US,New York,42.24819348,-73.63089095,84036021,US,USA,840,36021.0,Columbia,"Columbia, New York, US",107,2,11,1

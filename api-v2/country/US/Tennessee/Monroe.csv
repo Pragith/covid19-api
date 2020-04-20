@@ -87,3 +87,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",9,0,0,0
 2020-04-17,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",9,0,1,1
 2020-04-18,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",10,1,1,0
+2020-04-19,US,Tennessee,35.44550387,-84.24902965,84047123,US,USA,840,47123.0,Monroe,"Monroe, Tennessee, US",10,0,1,0

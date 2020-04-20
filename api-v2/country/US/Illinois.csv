@@ -87,6 +87,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,0.0,0.0,84080017,US,USA,840,80017.0,Out of IL,"Out of IL, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,0.0,0.0,84080017,US,USA,840,80017.0,Out of IL,"Out of IL, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,0.0,0.0,84080017,US,USA,840,80017.0,Out of IL,"Out of IL, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,0.0,0.0,84080017,US,USA,840,80017.0,Out of IL,"Out of IL, Illinois, US",0,0,0,0
 2020-01-22,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",0,0,0,0
@@ -175,6 +176,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",55,10,1,0
 2020-04-17,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",74,19,1,0
 2020-04-18,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",84,10,3,2
+2020-04-19,US,Illinois,0.0,0.0,84090017,US,USA,840,90017.0,Unassigned,"Unassigned, Illinois, US",115,31,3,0
 2020-01-22,US,Illinois,37.18049267,-89.32910838,84017003,US,USA,840,17003.0,Alexander,"Alexander, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.18049267,-89.32910838,84017003,US,USA,840,17003.0,Alexander,"Alexander, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.18049267,-89.32910838,84017003,US,USA,840,17003.0,Alexander,"Alexander, Illinois, US",0,0,0,0
@@ -263,6 +265,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.18049267,-89.32910838,84017003,US,USA,840,17003.0,Alexander,"Alexander, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,37.18049267,-89.32910838,84017003,US,USA,840,17003.0,Alexander,"Alexander, Illinois, US",1,1,0,0
 2020-04-18,US,Illinois,37.18049267,-89.32910838,84017003,US,USA,840,17003.0,Alexander,"Alexander, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,37.18049267,-89.32910838,84017003,US,USA,840,17003.0,Alexander,"Alexander, Illinois, US",2,1,0,0
 2020-01-22,US,Illinois,37.22078441,-88.71036614,84017127,US,USA,840,17127.0,Massac,"Massac, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.22078441,-88.71036614,84017127,US,USA,840,17127.0,Massac,"Massac, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.22078441,-88.71036614,84017127,US,USA,840,17127.0,Massac,"Massac, Illinois, US",0,0,0,0
@@ -351,6 +354,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.22078441,-88.71036614,84017127,US,USA,840,17127.0,Massac,"Massac, Illinois, US",4,0,0,0
 2020-04-17,US,Illinois,37.22078441,-88.71036614,84017127,US,USA,840,17127.0,Massac,"Massac, Illinois, US",4,0,0,0
 2020-04-18,US,Illinois,37.22078441,-88.71036614,84017127,US,USA,840,17127.0,Massac,"Massac, Illinois, US",3,-1,0,0
+2020-04-19,US,Illinois,37.22078441,-88.71036614,84017127,US,USA,840,17127.0,Massac,"Massac, Illinois, US",3,0,0,0
 2020-01-22,US,Illinois,37.22631423,-89.13085001,84017153,US,USA,840,17153.0,Pulaski,"Pulaski, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.22631423,-89.13085001,84017153,US,USA,840,17153.0,Pulaski,"Pulaski, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.22631423,-89.13085001,84017153,US,USA,840,17153.0,Pulaski,"Pulaski, Illinois, US",0,0,0,0
@@ -439,6 +443,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.22631423,-89.13085001,84017153,US,USA,840,17153.0,Pulaski,"Pulaski, Illinois, US",6,1,0,0
 2020-04-17,US,Illinois,37.22631423,-89.13085001,84017153,US,USA,840,17153.0,Pulaski,"Pulaski, Illinois, US",5,-1,0,0
 2020-04-18,US,Illinois,37.22631423,-89.13085001,84017153,US,USA,840,17153.0,Pulaski,"Pulaski, Illinois, US",9,4,0,0
+2020-04-19,US,Illinois,37.22631423,-89.13085001,84017153,US,USA,840,17153.0,Pulaski,"Pulaski, Illinois, US",9,0,0,0
 2020-01-22,US,Illinois,37.41391284,-88.56152109,84017151,US,USA,840,17151.0,Pope,"Pope, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.41391284,-88.56152109,84017151,US,USA,840,17151.0,Pope,"Pope, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.41391284,-88.56152109,84017151,US,USA,840,17151.0,Pope,"Pope, Illinois, US",0,0,0,0
@@ -527,6 +532,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.41391284,-88.56152109,84017151,US,USA,840,17151.0,Pope,"Pope, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,37.41391284,-88.56152109,84017151,US,USA,840,17151.0,Pope,"Pope, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,37.41391284,-88.56152109,84017151,US,USA,840,17151.0,Pope,"Pope, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,37.41391284,-88.56152109,84017151,US,USA,840,17151.0,Pope,"Pope, Illinois, US",0,0,0,0
 2020-01-22,US,Illinois,37.45939802,-88.88165419,84017087,US,USA,840,17087.0,Johnson,"Johnson, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.45939802,-88.88165419,84017087,US,USA,840,17087.0,Johnson,"Johnson, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.45939802,-88.88165419,84017087,US,USA,840,17087.0,Johnson,"Johnson, Illinois, US",0,0,0,0
@@ -615,6 +621,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.45939802,-88.88165419,84017087,US,USA,840,17087.0,Johnson,"Johnson, Illinois, US",2,0,0,0
 2020-04-17,US,Illinois,37.45939802,-88.88165419,84017087,US,USA,840,17087.0,Johnson,"Johnson, Illinois, US",2,0,0,0
 2020-04-18,US,Illinois,37.45939802,-88.88165419,84017087,US,USA,840,17087.0,Johnson,"Johnson, Illinois, US",2,0,0,0
+2020-04-19,US,Illinois,37.45939802,-88.88165419,84017087,US,USA,840,17087.0,Johnson,"Johnson, Illinois, US",2,0,0,0
 2020-01-22,US,Illinois,37.47119609,-89.25548938,84017181,US,USA,840,17181.0,Union,"Union, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.47119609,-89.25548938,84017181,US,USA,840,17181.0,Union,"Union, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.47119609,-89.25548938,84017181,US,USA,840,17181.0,Union,"Union, Illinois, US",0,0,0,0
@@ -703,6 +710,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.47119609,-89.25548938,84017181,US,USA,840,17181.0,Union,"Union, Illinois, US",3,0,0,0
 2020-04-17,US,Illinois,37.47119609,-89.25548938,84017181,US,USA,840,17181.0,Union,"Union, Illinois, US",4,1,0,0
 2020-04-18,US,Illinois,37.47119609,-89.25548938,84017181,US,USA,840,17181.0,Union,"Union, Illinois, US",5,1,0,0
+2020-04-19,US,Illinois,37.47119609,-89.25548938,84017181,US,USA,840,17181.0,Union,"Union, Illinois, US",5,0,0,0
 2020-01-22,US,Illinois,37.51810645,-88.26873022,84017069,US,USA,840,17069.0,Hardin,"Hardin, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.51810645,-88.26873022,84017069,US,USA,840,17069.0,Hardin,"Hardin, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.51810645,-88.26873022,84017069,US,USA,840,17069.0,Hardin,"Hardin, Illinois, US",0,0,0,0
@@ -791,6 +799,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.51810645,-88.26873022,84017069,US,USA,840,17069.0,Hardin,"Hardin, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,37.51810645,-88.26873022,84017069,US,USA,840,17069.0,Hardin,"Hardin, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,37.51810645,-88.26873022,84017069,US,USA,840,17069.0,Hardin,"Hardin, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,37.51810645,-88.26873022,84017069,US,USA,840,17069.0,Hardin,"Hardin, Illinois, US",0,0,0,0
 2020-01-22,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",0,0,0,0
@@ -879,6 +888,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",12,0,0,0
 2020-04-17,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",13,1,0,0
 2020-04-18,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",13,0,0,0
+2020-04-19,US,Illinois,37.73033511,-88.92994027,84017199,US,USA,840,17199.0,Williamson,"Williamson, Illinois, US",14,1,0,0
 2020-01-22,US,Illinois,37.75332999,-88.54119706,84017165,US,USA,840,17165.0,Saline,"Saline, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.75332999,-88.54119706,84017165,US,USA,840,17165.0,Saline,"Saline, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.75332999,-88.54119706,84017165,US,USA,840,17165.0,Saline,"Saline, Illinois, US",0,0,0,0
@@ -967,6 +977,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.75332999,-88.54119706,84017165,US,USA,840,17165.0,Saline,"Saline, Illinois, US",3,0,0,0
 2020-04-17,US,Illinois,37.75332999,-88.54119706,84017165,US,USA,840,17165.0,Saline,"Saline, Illinois, US",3,0,0,0
 2020-04-18,US,Illinois,37.75332999,-88.54119706,84017165,US,USA,840,17165.0,Saline,"Saline, Illinois, US",3,0,0,0
+2020-04-19,US,Illinois,37.75332999,-88.54119706,84017165,US,USA,840,17165.0,Saline,"Saline, Illinois, US",3,0,0,0
 2020-01-22,US,Illinois,37.76430935,-88.22953869,84017059,US,USA,840,17059.0,Gallatin,"Gallatin, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.76430935,-88.22953869,84017059,US,USA,840,17059.0,Gallatin,"Gallatin, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.76430935,-88.22953869,84017059,US,USA,840,17059.0,Gallatin,"Gallatin, Illinois, US",0,0,0,0
@@ -1055,6 +1066,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.76430935,-88.22953869,84017059,US,USA,840,17059.0,Gallatin,"Gallatin, Illinois, US",2,0,0,0
 2020-04-17,US,Illinois,37.76430935,-88.22953869,84017059,US,USA,840,17059.0,Gallatin,"Gallatin, Illinois, US",2,0,0,0
 2020-04-18,US,Illinois,37.76430935,-88.22953869,84017059,US,USA,840,17059.0,Gallatin,"Gallatin, Illinois, US",2,0,0,0
+2020-04-19,US,Illinois,37.76430935,-88.22953869,84017059,US,USA,840,17059.0,Gallatin,"Gallatin, Illinois, US",2,0,0,0
 2020-01-22,US,Illinois,37.78595185,-89.38232563,84017077,US,USA,840,17077.0,Jackson,"Jackson, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.78595185,-89.38232563,84017077,US,USA,840,17077.0,Jackson,"Jackson, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.78595185,-89.38232563,84017077,US,USA,840,17077.0,Jackson,"Jackson, Illinois, US",0,0,0,0
@@ -1143,6 +1155,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.78595185,-89.38232563,84017077,US,USA,840,17077.0,Jackson,"Jackson, Illinois, US",39,0,4,0
 2020-04-17,US,Illinois,37.78595185,-89.38232563,84017077,US,USA,840,17077.0,Jackson,"Jackson, Illinois, US",40,1,4,0
 2020-04-18,US,Illinois,37.78595185,-89.38232563,84017077,US,USA,840,17077.0,Jackson,"Jackson, Illinois, US",42,2,4,0
+2020-04-19,US,Illinois,37.78595185,-89.38232563,84017077,US,USA,840,17077.0,Jackson,"Jackson, Illinois, US",42,0,4,0
 2020-01-22,US,Illinois,37.99189086,-88.92567818,84017055,US,USA,840,17055.0,Franklin,"Franklin, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,37.99189086,-88.92567818,84017055,US,USA,840,17055.0,Franklin,"Franklin, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,37.99189086,-88.92567818,84017055,US,USA,840,17055.0,Franklin,"Franklin, Illinois, US",0,0,0,0
@@ -1231,6 +1244,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,37.99189086,-88.92567818,84017055,US,USA,840,17055.0,Franklin,"Franklin, Illinois, US",4,0,0,0
 2020-04-17,US,Illinois,37.99189086,-88.92567818,84017055,US,USA,840,17055.0,Franklin,"Franklin, Illinois, US",5,1,0,0
 2020-04-18,US,Illinois,37.99189086,-88.92567818,84017055,US,USA,840,17055.0,Franklin,"Franklin, Illinois, US",5,0,0,0
+2020-04-19,US,Illinois,37.99189086,-88.92567818,84017055,US,USA,840,17055.0,Franklin,"Franklin, Illinois, US",5,0,0,0
 2020-01-22,US,Illinois,38.05095369,-89.82512254,84017157,US,USA,840,17157.0,Randolph,"Randolph, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.05095369,-89.82512254,84017157,US,USA,840,17157.0,Randolph,"Randolph, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.05095369,-89.82512254,84017157,US,USA,840,17157.0,Randolph,"Randolph, Illinois, US",0,0,0,0
@@ -1319,6 +1333,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.05095369,-89.82512254,84017157,US,USA,840,17157.0,Randolph,"Randolph, Illinois, US",46,0,0,0
 2020-04-17,US,Illinois,38.05095369,-89.82512254,84017157,US,USA,840,17157.0,Randolph,"Randolph, Illinois, US",48,2,1,1
 2020-04-18,US,Illinois,38.05095369,-89.82512254,84017157,US,USA,840,17157.0,Randolph,"Randolph, Illinois, US",54,6,1,0
+2020-04-19,US,Illinois,38.05095369,-89.82512254,84017157,US,USA,840,17157.0,Randolph,"Randolph, Illinois, US",57,3,1,0
 2020-01-22,US,Illinois,38.08163641,-88.53883373,84017065,US,USA,840,17065.0,Hamilton,"Hamilton, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.08163641,-88.53883373,84017065,US,USA,840,17065.0,Hamilton,"Hamilton, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.08163641,-88.53883373,84017065,US,USA,840,17065.0,Hamilton,"Hamilton, Illinois, US",0,0,0,0
@@ -1407,6 +1422,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.08163641,-88.53883373,84017065,US,USA,840,17065.0,Hamilton,"Hamilton, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,38.08163641,-88.53883373,84017065,US,USA,840,17065.0,Hamilton,"Hamilton, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,38.08163641,-88.53883373,84017065,US,USA,840,17065.0,Hamilton,"Hamilton, Illinois, US",1,1,0,0
+2020-04-19,US,Illinois,38.08163641,-88.53883373,84017065,US,USA,840,17065.0,Hamilton,"Hamilton, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,38.08510853,-89.36856219,84017145,US,USA,840,17145.0,Perry,"Perry, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.08510853,-89.36856219,84017145,US,USA,840,17145.0,Perry,"Perry, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.08510853,-89.36856219,84017145,US,USA,840,17145.0,Perry,"Perry, Illinois, US",0,0,0,0
@@ -1495,6 +1511,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.08510853,-89.36856219,84017145,US,USA,840,17145.0,Perry,"Perry, Illinois, US",1,0,0,0
 2020-04-17,US,Illinois,38.08510853,-89.36856219,84017145,US,USA,840,17145.0,Perry,"Perry, Illinois, US",1,0,0,0
 2020-04-18,US,Illinois,38.08510853,-89.36856219,84017145,US,USA,840,17145.0,Perry,"Perry, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,38.08510853,-89.36856219,84017145,US,USA,840,17145.0,Perry,"Perry, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,38.08706198,-88.17657461,84017193,US,USA,840,17193.0,White,"White, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.08706198,-88.17657461,84017193,US,USA,840,17193.0,White,"White, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.08706198,-88.17657461,84017193,US,USA,840,17193.0,White,"White, Illinois, US",0,0,0,0
@@ -1583,6 +1600,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.08706198,-88.17657461,84017193,US,USA,840,17193.0,White,"White, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,38.08706198,-88.17657461,84017193,US,USA,840,17193.0,White,"White, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,38.08706198,-88.17657461,84017193,US,USA,840,17193.0,White,"White, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,38.08706198,-88.17657461,84017193,US,USA,840,17193.0,White,"White, Illinois, US",0,0,0,0
 2020-01-22,US,Illinois,38.27594376,-90.17761038,84017133,US,USA,840,17133.0,Monroe,"Monroe, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.27594376,-90.17761038,84017133,US,USA,840,17133.0,Monroe,"Monroe, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.27594376,-90.17761038,84017133,US,USA,840,17133.0,Monroe,"Monroe, Illinois, US",0,0,0,0
@@ -1671,6 +1689,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.27594376,-90.17761038,84017133,US,USA,840,17133.0,Monroe,"Monroe, Illinois, US",50,1,5,1
 2020-04-17,US,Illinois,38.27594376,-90.17761038,84017133,US,USA,840,17133.0,Monroe,"Monroe, Illinois, US",52,2,6,1
 2020-04-18,US,Illinois,38.27594376,-90.17761038,84017133,US,USA,840,17133.0,Monroe,"Monroe, Illinois, US",52,0,7,1
+2020-04-19,US,Illinois,38.27594376,-90.17761038,84017133,US,USA,840,17133.0,Monroe,"Monroe, Illinois, US",53,1,7,0
 2020-01-22,US,Illinois,38.29980057,-88.9240025,84017081,US,USA,840,17081.0,Jefferson,"Jefferson, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.29980057,-88.9240025,84017081,US,USA,840,17081.0,Jefferson,"Jefferson, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.29980057,-88.9240025,84017081,US,USA,840,17081.0,Jefferson,"Jefferson, Illinois, US",0,0,0,0
@@ -1759,6 +1778,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.29980057,-88.9240025,84017081,US,USA,840,17081.0,Jefferson,"Jefferson, Illinois, US",10,1,0,0
 2020-04-17,US,Illinois,38.29980057,-88.9240025,84017081,US,USA,840,17081.0,Jefferson,"Jefferson, Illinois, US",11,1,0,0
 2020-04-18,US,Illinois,38.29980057,-88.9240025,84017081,US,USA,840,17081.0,Jefferson,"Jefferson, Illinois, US",12,1,0,0
+2020-04-19,US,Illinois,38.29980057,-88.9240025,84017081,US,USA,840,17081.0,Jefferson,"Jefferson, Illinois, US",31,19,0,0
 2020-01-22,US,Illinois,38.35309213,-89.40982703,84017189,US,USA,840,17189.0,Washington,"Washington, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.35309213,-89.40982703,84017189,US,USA,840,17189.0,Washington,"Washington, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.35309213,-89.40982703,84017189,US,USA,840,17189.0,Washington,"Washington, Illinois, US",0,0,0,0
@@ -1847,6 +1867,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.35309213,-89.40982703,84017189,US,USA,840,17189.0,Washington,"Washington, Illinois, US",4,1,0,0
 2020-04-17,US,Illinois,38.35309213,-89.40982703,84017189,US,USA,840,17189.0,Washington,"Washington, Illinois, US",5,1,0,0
 2020-04-18,US,Illinois,38.35309213,-89.40982703,84017189,US,USA,840,17189.0,Washington,"Washington, Illinois, US",6,1,0,0
+2020-04-19,US,Illinois,38.35309213,-89.40982703,84017189,US,USA,840,17189.0,Washington,"Washington, Illinois, US",7,1,0,0
 2020-01-22,US,Illinois,38.41353228,-88.05720863,84017047,US,USA,840,17047.0,Edwards,"Edwards, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.41353228,-88.05720863,84017047,US,USA,840,17047.0,Edwards,"Edwards, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.41353228,-88.05720863,84017047,US,USA,840,17047.0,Edwards,"Edwards, Illinois, US",0,0,0,0
@@ -1935,6 +1956,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.41353228,-88.05720863,84017047,US,USA,840,17047.0,Edwards,"Edwards, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,38.41353228,-88.05720863,84017047,US,USA,840,17047.0,Edwards,"Edwards, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,38.41353228,-88.05720863,84017047,US,USA,840,17047.0,Edwards,"Edwards, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,38.41353228,-88.05720863,84017047,US,USA,840,17047.0,Edwards,"Edwards, Illinois, US",0,0,0,0
 2020-01-22,US,Illinois,38.42955355,-88.42586459,84017191,US,USA,840,17191.0,Wayne,"Wayne, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.42955355,-88.42586459,84017191,US,USA,840,17191.0,Wayne,"Wayne, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.42955355,-88.42586459,84017191,US,USA,840,17191.0,Wayne,"Wayne, Illinois, US",0,0,0,0
@@ -2023,6 +2045,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.42955355,-88.42586459,84017191,US,USA,840,17191.0,Wayne,"Wayne, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,38.42955355,-88.42586459,84017191,US,USA,840,17191.0,Wayne,"Wayne, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,38.42955355,-88.42586459,84017191,US,USA,840,17191.0,Wayne,"Wayne, Illinois, US",1,1,0,0
+2020-04-19,US,Illinois,38.42955355,-88.42586459,84017191,US,USA,840,17191.0,Wayne,"Wayne, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,38.44272901,-87.84922065,84017185,US,USA,840,17185.0,Wabash,"Wabash, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.44272901,-87.84922065,84017185,US,USA,840,17185.0,Wabash,"Wabash, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.44272901,-87.84922065,84017185,US,USA,840,17185.0,Wabash,"Wabash, Illinois, US",0,0,0,0
@@ -2111,6 +2134,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.44272901,-87.84922065,84017185,US,USA,840,17185.0,Wabash,"Wabash, Illinois, US",1,0,0,0
 2020-04-17,US,Illinois,38.44272901,-87.84922065,84017185,US,USA,840,17185.0,Wabash,"Wabash, Illinois, US",1,0,0,0
 2020-04-18,US,Illinois,38.44272901,-87.84922065,84017185,US,USA,840,17185.0,Wabash,"Wabash, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,38.44272901,-87.84922065,84017185,US,USA,840,17185.0,Wabash,"Wabash, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,38.46996033,-89.93063427,84017163,US,USA,840,17163.0,St. Clair,"St. Clair, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.46996033,-89.93063427,84017163,US,USA,840,17163.0,St. Clair,"St. Clair, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.46996033,-89.93063427,84017163,US,USA,840,17163.0,St. Clair,"St. Clair, Illinois, US",0,0,0,0
@@ -2199,6 +2223,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.46996033,-89.93063427,84017163,US,USA,840,17163.0,St. Clair,"St. Clair, Illinois, US",239,14,14,4
 2020-04-17,US,Illinois,38.46996033,-89.93063427,84017163,US,USA,840,17163.0,St. Clair,"St. Clair, Illinois, US",254,15,17,3
 2020-04-18,US,Illinois,38.46996033,-89.93063427,84017163,US,USA,840,17163.0,St. Clair,"St. Clair, Illinois, US",265,11,17,0
+2020-04-19,US,Illinois,38.46996033,-89.93063427,84017163,US,USA,840,17163.0,St. Clair,"St. Clair, Illinois, US",271,6,18,1
 2020-01-22,US,Illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,Clinton,"Clinton, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,Clinton,"Clinton, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,Clinton,"Clinton, Illinois, US",0,0,0,0
@@ -2287,6 +2312,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,Clinton,"Clinton, Illinois, US",39,0,0,0
 2020-04-17,US,Illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,Clinton,"Clinton, Illinois, US",42,3,0,0
 2020-04-18,US,Illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,Clinton,"Clinton, Illinois, US",44,2,0,0
+2020-04-19,US,Illinois,38.60704876,-89.42385254,84017027,US,USA,840,17027.0,Clinton,"Clinton, Illinois, US",45,1,0,0
 2020-01-22,US,Illinois,38.64963204,-88.91899208,84017121,US,USA,840,17121.0,Marion,"Marion, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.64963204,-88.91899208,84017121,US,USA,840,17121.0,Marion,"Marion, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.64963204,-88.91899208,84017121,US,USA,840,17121.0,Marion,"Marion, Illinois, US",0,0,0,0
@@ -2375,6 +2401,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.64963204,-88.91899208,84017121,US,USA,840,17121.0,Marion,"Marion, Illinois, US",17,0,0,0
 2020-04-17,US,Illinois,38.64963204,-88.91899208,84017121,US,USA,840,17121.0,Marion,"Marion, Illinois, US",17,0,0,0
 2020-04-18,US,Illinois,38.64963204,-88.91899208,84017121,US,USA,840,17121.0,Marion,"Marion, Illinois, US",19,2,0,0
+2020-04-19,US,Illinois,38.64963204,-88.91899208,84017121,US,USA,840,17121.0,Marion,"Marion, Illinois, US",20,1,0,0
 2020-01-22,US,Illinois,38.71240969,-88.08475366,84017159,US,USA,840,17159.0,Richland,"Richland, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.71240969,-88.08475366,84017159,US,USA,840,17159.0,Richland,"Richland, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.71240969,-88.08475366,84017159,US,USA,840,17159.0,Richland,"Richland, Illinois, US",0,0,0,0
@@ -2463,6 +2490,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.71240969,-88.08475366,84017159,US,USA,840,17159.0,Richland,"Richland, Illinois, US",1,0,0,0
 2020-04-17,US,Illinois,38.71240969,-88.08475366,84017159,US,USA,840,17159.0,Richland,"Richland, Illinois, US",2,1,0,0
 2020-04-18,US,Illinois,38.71240969,-88.08475366,84017159,US,USA,840,17159.0,Richland,"Richland, Illinois, US",2,0,0,0
+2020-04-19,US,Illinois,38.71240969,-88.08475366,84017159,US,USA,840,17159.0,Richland,"Richland, Illinois, US",2,0,0,0
 2020-01-22,US,Illinois,38.71987914,-87.72884035,84017101,US,USA,840,17101.0,Lawrence,"Lawrence, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.71987914,-87.72884035,84017101,US,USA,840,17101.0,Lawrence,"Lawrence, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.71987914,-87.72884035,84017101,US,USA,840,17101.0,Lawrence,"Lawrence, Illinois, US",0,0,0,0
@@ -2551,6 +2579,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.71987914,-87.72884035,84017101,US,USA,840,17101.0,Lawrence,"Lawrence, Illinois, US",2,0,0,0
 2020-04-17,US,Illinois,38.71987914,-87.72884035,84017101,US,USA,840,17101.0,Lawrence,"Lawrence, Illinois, US",2,0,0,0
 2020-04-18,US,Illinois,38.71987914,-87.72884035,84017101,US,USA,840,17101.0,Lawrence,"Lawrence, Illinois, US",2,0,0,0
+2020-04-19,US,Illinois,38.71987914,-87.72884035,84017101,US,USA,840,17101.0,Lawrence,"Lawrence, Illinois, US",2,0,0,0
 2020-01-22,US,Illinois,38.75388572,-88.48914513,84017025,US,USA,840,17025.0,Clay,"Clay, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.75388572,-88.48914513,84017025,US,USA,840,17025.0,Clay,"Clay, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.75388572,-88.48914513,84017025,US,USA,840,17025.0,Clay,"Clay, Illinois, US",0,0,0,0
@@ -2639,6 +2668,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.75388572,-88.48914513,84017025,US,USA,840,17025.0,Clay,"Clay, Illinois, US",1,0,0,0
 2020-04-17,US,Illinois,38.75388572,-88.48914513,84017025,US,USA,840,17025.0,Clay,"Clay, Illinois, US",1,0,0,0
 2020-04-18,US,Illinois,38.75388572,-88.48914513,84017025,US,USA,840,17025.0,Clay,"Clay, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,38.75388572,-88.48914513,84017025,US,USA,840,17025.0,Clay,"Clay, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,38.83042506,-89.90422563,84017119,US,USA,840,17119.0,Madison,"Madison, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.83042506,-89.90422563,84017119,US,USA,840,17119.0,Madison,"Madison, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.83042506,-89.90422563,84017119,US,USA,840,17119.0,Madison,"Madison, Illinois, US",0,0,0,0
@@ -2727,6 +2757,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.83042506,-89.90422563,84017119,US,USA,840,17119.0,Madison,"Madison, Illinois, US",151,16,3,1
 2020-04-17,US,Illinois,38.83042506,-89.90422563,84017119,US,USA,840,17119.0,Madison,"Madison, Illinois, US",157,6,5,2
 2020-04-18,US,Illinois,38.83042506,-89.90422563,84017119,US,USA,840,17119.0,Madison,"Madison, Illinois, US",169,12,5,0
+2020-04-19,US,Illinois,38.83042506,-89.90422563,84017119,US,USA,840,17119.0,Madison,"Madison, Illinois, US",180,11,6,1
 2020-01-22,US,Illinois,38.88829622,-89.43534887,84017005,US,USA,840,17005.0,Bond,"Bond, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,38.88829622,-89.43534887,84017005,US,USA,840,17005.0,Bond,"Bond, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,38.88829622,-89.43534887,84017005,US,USA,840,17005.0,Bond,"Bond, Illinois, US",0,0,0,0
@@ -2815,6 +2846,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,38.88829622,-89.43534887,84017005,US,USA,840,17005.0,Bond,"Bond, Illinois, US",4,0,0,0
 2020-04-17,US,Illinois,38.88829622,-89.43534887,84017005,US,USA,840,17005.0,Bond,"Bond, Illinois, US",4,0,1,1
 2020-04-18,US,Illinois,38.88829622,-89.43534887,84017005,US,USA,840,17005.0,Bond,"Bond, Illinois, US",4,0,1,0
+2020-04-19,US,Illinois,38.88829622,-89.43534887,84017005,US,USA,840,17005.0,Bond,"Bond, Illinois, US",4,0,1,0
 2020-01-22,US,Illinois,39.00072038,-89.02452658,84017051,US,USA,840,17051.0,Fayette,"Fayette, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.00072038,-89.02452658,84017051,US,USA,840,17051.0,Fayette,"Fayette, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.00072038,-89.02452658,84017051,US,USA,840,17051.0,Fayette,"Fayette, Illinois, US",0,0,0,0
@@ -2903,6 +2935,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.00072038,-89.02452658,84017051,US,USA,840,17051.0,Fayette,"Fayette, Illinois, US",12,0,1,0
 2020-04-17,US,Illinois,39.00072038,-89.02452658,84017051,US,USA,840,17051.0,Fayette,"Fayette, Illinois, US",12,0,1,0
 2020-04-18,US,Illinois,39.00072038,-89.02452658,84017051,US,USA,840,17051.0,Fayette,"Fayette, Illinois, US",13,1,1,0
+2020-04-19,US,Illinois,39.00072038,-89.02452658,84017051,US,USA,840,17051.0,Fayette,"Fayette, Illinois, US",15,2,1,0
 2020-01-22,US,Illinois,39.0032229,-87.75954624,84017033,US,USA,840,17033.0,Crawford,"Crawford, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.0032229,-87.75954624,84017033,US,USA,840,17033.0,Crawford,"Crawford, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.0032229,-87.75954624,84017033,US,USA,840,17033.0,Crawford,"Crawford, Illinois, US",0,0,0,0
@@ -2991,6 +3024,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.0032229,-87.75954624,84017033,US,USA,840,17033.0,Crawford,"Crawford, Illinois, US",4,0,0,0
 2020-04-17,US,Illinois,39.0032229,-87.75954624,84017033,US,USA,840,17033.0,Crawford,"Crawford, Illinois, US",4,0,0,0
 2020-04-18,US,Illinois,39.0032229,-87.75954624,84017033,US,USA,840,17033.0,Crawford,"Crawford, Illinois, US",5,1,0,0
+2020-04-19,US,Illinois,39.0032229,-87.75954624,84017033,US,USA,840,17033.0,Crawford,"Crawford, Illinois, US",4,-1,0,0
 2020-01-22,US,Illinois,39.01054275,-88.15437049,84017079,US,USA,840,17079.0,Jasper,"Jasper, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.01054275,-88.15437049,84017079,US,USA,840,17079.0,Jasper,"Jasper, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.01054275,-88.15437049,84017079,US,USA,840,17079.0,Jasper,"Jasper, Illinois, US",0,0,0,0
@@ -3079,6 +3113,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.01054275,-88.15437049,84017079,US,USA,840,17079.0,Jasper,"Jasper, Illinois, US",3,0,1,0
 2020-04-17,US,Illinois,39.01054275,-88.15437049,84017079,US,USA,840,17079.0,Jasper,"Jasper, Illinois, US",4,1,1,0
 2020-04-18,US,Illinois,39.01054275,-88.15437049,84017079,US,USA,840,17079.0,Jasper,"Jasper, Illinois, US",7,3,1,0
+2020-04-19,US,Illinois,39.01054275,-88.15437049,84017079,US,USA,840,17079.0,Jasper,"Jasper, Illinois, US",20,13,1,0
 2020-01-22,US,Illinois,39.05935711,-88.58969584,84017049,US,USA,840,17049.0,Effingham,"Effingham, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.05935711,-88.58969584,84017049,US,USA,840,17049.0,Effingham,"Effingham, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.05935711,-88.58969584,84017049,US,USA,840,17049.0,Effingham,"Effingham, Illinois, US",0,0,0,0
@@ -3167,6 +3202,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.05935711,-88.58969584,84017049,US,USA,840,17049.0,Effingham,"Effingham, Illinois, US",4,1,1,0
 2020-04-17,US,Illinois,39.05935711,-88.58969584,84017049,US,USA,840,17049.0,Effingham,"Effingham, Illinois, US",4,0,1,0
 2020-04-18,US,Illinois,39.05935711,-88.58969584,84017049,US,USA,840,17049.0,Effingham,"Effingham, Illinois, US",4,0,1,0
+2020-04-19,US,Illinois,39.05935711,-88.58969584,84017049,US,USA,840,17049.0,Effingham,"Effingham, Illinois, US",4,0,1,0
 2020-01-22,US,Illinois,39.08869046,-90.35393073,84017083,US,USA,840,17083.0,Jersey,"Jersey, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.08869046,-90.35393073,84017083,US,USA,840,17083.0,Jersey,"Jersey, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.08869046,-90.35393073,84017083,US,USA,840,17083.0,Jersey,"Jersey, Illinois, US",0,0,0,0
@@ -3255,6 +3291,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.08869046,-90.35393073,84017083,US,USA,840,17083.0,Jersey,"Jersey, Illinois, US",8,0,0,0
 2020-04-17,US,Illinois,39.08869046,-90.35393073,84017083,US,USA,840,17083.0,Jersey,"Jersey, Illinois, US",8,0,0,0
 2020-04-18,US,Illinois,39.08869046,-90.35393073,84017083,US,USA,840,17083.0,Jersey,"Jersey, Illinois, US",8,0,0,0
+2020-04-19,US,Illinois,39.08869046,-90.35393073,84017083,US,USA,840,17083.0,Jersey,"Jersey, Illinois, US",8,0,0,0
 2020-01-22,US,Illinois,39.16840183,-90.66330078,84017013,US,USA,840,17013.0,Calhoun,"Calhoun, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.16840183,-90.66330078,84017013,US,USA,840,17013.0,Calhoun,"Calhoun, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.16840183,-90.66330078,84017013,US,USA,840,17013.0,Calhoun,"Calhoun, Illinois, US",0,0,0,0
@@ -3343,6 +3380,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.16840183,-90.66330078,84017013,US,USA,840,17013.0,Calhoun,"Calhoun, Illinois, US",1,0,0,0
 2020-04-17,US,Illinois,39.16840183,-90.66330078,84017013,US,USA,840,17013.0,Calhoun,"Calhoun, Illinois, US",1,0,0,0
 2020-04-18,US,Illinois,39.16840183,-90.66330078,84017013,US,USA,840,17013.0,Calhoun,"Calhoun, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,39.16840183,-90.66330078,84017013,US,USA,840,17013.0,Calhoun,"Calhoun, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",0,0,0,0
@@ -3431,6 +3469,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",9,0,1,0
 2020-04-17,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",11,2,1,0
 2020-04-18,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",13,2,1,0
+2020-04-19,US,Illinois,39.23198845,-89.47809254,84017135,US,USA,840,17135.0,Montgomery,"Montgomery, Illinois, US",14,1,1,0
 2020-01-22,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",0,0,0,0
@@ -3519,6 +3558,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",18,1,0,0
 2020-04-17,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",18,0,0,0
 2020-04-18,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",21,3,0,0
+2020-04-19,US,Illinois,39.26119767,-89.92424028,84017117,US,USA,840,17117.0,Macoupin,"Macoupin, Illinois, US",21,0,0,0
 2020-01-22,US,Illinois,39.27432424,-88.2401158,84017035,US,USA,840,17035.0,Cumberland,"Cumberland, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.27432424,-88.2401158,84017035,US,USA,840,17035.0,Cumberland,"Cumberland, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.27432424,-88.2401158,84017035,US,USA,840,17035.0,Cumberland,"Cumberland, Illinois, US",0,0,0,0
@@ -3607,6 +3647,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.27432424,-88.2401158,84017035,US,USA,840,17035.0,Cumberland,"Cumberland, Illinois, US",2,0,0,0
 2020-04-17,US,Illinois,39.27432424,-88.2401158,84017035,US,USA,840,17035.0,Cumberland,"Cumberland, Illinois, US",2,0,0,0
 2020-04-18,US,Illinois,39.27432424,-88.2401158,84017035,US,USA,840,17035.0,Cumberland,"Cumberland, Illinois, US",2,0,0,0
+2020-04-19,US,Illinois,39.27432424,-88.2401158,84017035,US,USA,840,17035.0,Cumberland,"Cumberland, Illinois, US",2,0,0,0
 2020-01-22,US,Illinois,39.33425789,-87.78705622,84017023,US,USA,840,17023.0,Clark,"Clark, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.33425789,-87.78705622,84017023,US,USA,840,17023.0,Clark,"Clark, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.33425789,-87.78705622,84017023,US,USA,840,17023.0,Clark,"Clark, Illinois, US",0,0,0,0
@@ -3695,6 +3736,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.33425789,-87.78705622,84017023,US,USA,840,17023.0,Clark,"Clark, Illinois, US",4,0,0,0
 2020-04-17,US,Illinois,39.33425789,-87.78705622,84017023,US,USA,840,17023.0,Clark,"Clark, Illinois, US",4,0,0,0
 2020-04-18,US,Illinois,39.33425789,-87.78705622,84017023,US,USA,840,17023.0,Clark,"Clark, Illinois, US",4,0,0,0
+2020-04-19,US,Illinois,39.33425789,-87.78705622,84017023,US,USA,840,17023.0,Clark,"Clark, Illinois, US",4,0,0,0
 2020-01-22,US,Illinois,39.35907414,-90.388865,84017061,US,USA,840,17061.0,Greene,"Greene, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.35907414,-90.388865,84017061,US,USA,840,17061.0,Greene,"Greene, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.35907414,-90.388865,84017061,US,USA,840,17061.0,Greene,"Greene, Illinois, US",0,0,0,0
@@ -3783,6 +3825,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.35907414,-90.388865,84017061,US,USA,840,17061.0,Greene,"Greene, Illinois, US",1,0,0,0
 2020-04-17,US,Illinois,39.35907414,-90.388865,84017061,US,USA,840,17061.0,Greene,"Greene, Illinois, US",1,0,0,0
 2020-04-18,US,Illinois,39.35907414,-90.388865,84017061,US,USA,840,17061.0,Greene,"Greene, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,39.35907414,-90.388865,84017061,US,USA,840,17061.0,Greene,"Greene, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,39.39133527,-88.80611122,84017173,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.39133527,-88.80611122,84017173,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.39133527,-88.80611122,84017173,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",0,0,0,0
@@ -3871,6 +3914,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.39133527,-88.80611122,84017173,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",4,0,0,0
 2020-04-17,US,Illinois,39.39133527,-88.80611122,84017173,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",4,0,0,0
 2020-04-18,US,Illinois,39.39133527,-88.80611122,84017173,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",4,0,0,0
+2020-04-19,US,Illinois,39.39133527,-88.80611122,84017173,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",4,0,0,0
 2020-01-22,US,Illinois,39.51949084,-88.22358557,84017029,US,USA,840,17029.0,Coles,"Coles, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.51949084,-88.22358557,84017029,US,USA,840,17029.0,Coles,"Coles, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.51949084,-88.22358557,84017029,US,USA,840,17029.0,Coles,"Coles, Illinois, US",0,0,0,0
@@ -3959,6 +4003,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.51949084,-88.22358557,84017029,US,USA,840,17029.0,Coles,"Coles, Illinois, US",9,0,0,0
 2020-04-17,US,Illinois,39.51949084,-88.22358557,84017029,US,USA,840,17029.0,Coles,"Coles, Illinois, US",9,0,0,0
 2020-04-18,US,Illinois,39.51949084,-88.22358557,84017029,US,USA,840,17029.0,Coles,"Coles, Illinois, US",14,5,0,0
+2020-04-19,US,Illinois,39.51949084,-88.22358557,84017029,US,USA,840,17029.0,Coles,"Coles, Illinois, US",16,2,0,0
 2020-01-22,US,Illinois,39.54581621,-89.27780482,84017021,US,USA,840,17021.0,Christian,"Christian, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.54581621,-89.27780482,84017021,US,USA,840,17021.0,Christian,"Christian, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.54581621,-89.27780482,84017021,US,USA,840,17021.0,Christian,"Christian, Illinois, US",0,0,0,0
@@ -4047,6 +4092,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.54581621,-89.27780482,84017021,US,USA,840,17021.0,Christian,"Christian, Illinois, US",24,0,4,1
 2020-04-17,US,Illinois,39.54581621,-89.27780482,84017021,US,USA,840,17021.0,Christian,"Christian, Illinois, US",24,0,4,0
 2020-04-18,US,Illinois,39.54581621,-89.27780482,84017021,US,USA,840,17021.0,Christian,"Christian, Illinois, US",25,1,4,0
+2020-04-19,US,Illinois,39.54581621,-89.27780482,84017021,US,USA,840,17021.0,Christian,"Christian, Illinois, US",25,0,4,0
 2020-01-22,US,Illinois,39.62265059,-90.8877017,84017149,US,USA,840,17149.0,Pike,"Pike, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.62265059,-90.8877017,84017149,US,USA,840,17149.0,Pike,"Pike, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.62265059,-90.8877017,84017149,US,USA,840,17149.0,Pike,"Pike, Illinois, US",0,0,0,0
@@ -4135,6 +4181,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.62265059,-90.8877017,84017149,US,USA,840,17149.0,Pike,"Pike, Illinois, US",1,0,0,0
 2020-04-17,US,Illinois,39.62265059,-90.8877017,84017149,US,USA,840,17149.0,Pike,"Pike, Illinois, US",1,0,0,0
 2020-04-18,US,Illinois,39.62265059,-90.8877017,84017149,US,USA,840,17149.0,Pike,"Pike, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,39.62265059,-90.8877017,84017149,US,USA,840,17149.0,Pike,"Pike, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,39.64187451,-88.62099969,84017139,US,USA,840,17139.0,Moultrie,"Moultrie, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.64187451,-88.62099969,84017139,US,USA,840,17139.0,Moultrie,"Moultrie, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.64187451,-88.62099969,84017139,US,USA,840,17139.0,Moultrie,"Moultrie, Illinois, US",0,0,0,0
@@ -4223,94 +4270,96 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.64187451,-88.62099969,84017139,US,USA,840,17139.0,Moultrie,"Moultrie, Illinois, US",2,0,0,0
 2020-04-17,US,Illinois,39.64187451,-88.62099969,84017139,US,USA,840,17139.0,Moultrie,"Moultrie, Illinois, US",2,0,0,0
 2020-04-18,US,Illinois,39.64187451,-88.62099969,84017139,US,USA,840,17139.0,Moultrie,"Moultrie, Illinois, US",2,0,0,0
-2020-01-22,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-01-23,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-01-24,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-01-25,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-01-26,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-01-27,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-01-28,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-01-29,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-01-30,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-01-31,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-01,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-02,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-03,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-04,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-05,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-06,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-07,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-08,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-09,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-10,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-11,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-12,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-13,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-14,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-15,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-16,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-17,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-18,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-19,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-20,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-21,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-22,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-23,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-24,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-25,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-26,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-27,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-28,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-02-29,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-01,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-02,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-03,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-04,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-05,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-06,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-07,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-08,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-09,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-10,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-11,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-12,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-13,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-14,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-15,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-16,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-17,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-18,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-19,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-20,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-21,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-22,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-23,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-24,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-25,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-26,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-27,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-28,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-29,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-30,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-03-31,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-01,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-02,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-03,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-04,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-05,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-06,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-07,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-08,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-09,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-10,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-11,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-12,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-13,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-14,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-15,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-16,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-17,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
-2020-04-18,US,Illinois,39.6429169,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,39.64187451,-88.62099969,84017139,US,USA,840,17139.0,Moultrie,"Moultrie, Illinois, US",2,0,0,0
+2020-01-22,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-01-23,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-01-24,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-01-25,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-01-26,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-01-27,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-01-28,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-01-29,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-01-30,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-01-31,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-01,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-02,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-03,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-04,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-05,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-06,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-07,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-08,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-09,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-10,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-11,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-12,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-13,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-14,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-15,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-16,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-17,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-18,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-19,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-20,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-21,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-22,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-23,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-24,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-25,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-26,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-27,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-28,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-02-29,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-01,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-02,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-03,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-04,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-05,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-06,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-07,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-08,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-09,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-10,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-11,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-12,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-13,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-14,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-15,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-16,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-17,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-18,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-19,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-20,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-21,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-22,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-23,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-24,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-25,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-26,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-27,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-28,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-29,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-30,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-03-31,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-01,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-02,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-03,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-04,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-05,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-06,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-07,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-08,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-09,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-10,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-11,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-12,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-13,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-14,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-15,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-16,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-17,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-18,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,39.642916899999996,-90.47814431,84017171,US,USA,840,17171.0,Scott,"Scott, Illinois, US",0,0,0,0
 2020-01-22,US,Illinois,39.6809186,-87.74759563,84017045,US,USA,840,17045.0,Edgar,"Edgar, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.6809186,-87.74759563,84017045,US,USA,840,17045.0,Edgar,"Edgar, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.6809186,-87.74759563,84017045,US,USA,840,17045.0,Edgar,"Edgar, Illinois, US",0,0,0,0
@@ -4399,6 +4448,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.6809186,-87.74759563,84017045,US,USA,840,17045.0,Edgar,"Edgar, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,39.6809186,-87.74759563,84017045,US,USA,840,17045.0,Edgar,"Edgar, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,39.6809186,-87.74759563,84017045,US,USA,840,17045.0,Edgar,"Edgar, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,39.6809186,-87.74759563,84017045,US,USA,840,17045.0,Edgar,"Edgar, Illinois, US",0,0,0,0
 2020-01-22,US,Illinois,39.71654544,-90.20255104,84017137,US,USA,840,17137.0,Morgan,"Morgan, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.71654544,-90.20255104,84017137,US,USA,840,17137.0,Morgan,"Morgan, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.71654544,-90.20255104,84017137,US,USA,840,17137.0,Morgan,"Morgan, Illinois, US",0,0,0,0
@@ -4487,6 +4537,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.71654544,-90.20255104,84017137,US,USA,840,17137.0,Morgan,"Morgan, Illinois, US",11,1,1,0
 2020-04-17,US,Illinois,39.71654544,-90.20255104,84017137,US,USA,840,17137.0,Morgan,"Morgan, Illinois, US",12,1,1,0
 2020-04-18,US,Illinois,39.71654544,-90.20255104,84017137,US,USA,840,17137.0,Morgan,"Morgan, Illinois, US",12,0,1,0
+2020-04-19,US,Illinois,39.71654544,-90.20255104,84017137,US,USA,840,17137.0,Morgan,"Morgan, Illinois, US",12,0,1,0
 2020-01-22,US,Illinois,39.75836914,-89.65872023,84017167,US,USA,840,17167.0,Sangamon,"Sangamon, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.75836914,-89.65872023,84017167,US,USA,840,17167.0,Sangamon,"Sangamon, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.75836914,-89.65872023,84017167,US,USA,840,17167.0,Sangamon,"Sangamon, Illinois, US",0,0,0,0
@@ -4575,6 +4626,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.75836914,-89.65872023,84017167,US,USA,840,17167.0,Sangamon,"Sangamon, Illinois, US",54,4,4,0
 2020-04-17,US,Illinois,39.75836914,-89.65872023,84017167,US,USA,840,17167.0,Sangamon,"Sangamon, Illinois, US",58,4,3,-1
 2020-04-18,US,Illinois,39.75836914,-89.65872023,84017167,US,USA,840,17167.0,Sangamon,"Sangamon, Illinois, US",61,3,3,0
+2020-04-19,US,Illinois,39.75836914,-89.65872023,84017167,US,USA,840,17167.0,Sangamon,"Sangamon, Illinois, US",62,1,4,1
 2020-01-22,US,Illinois,39.76768052,-88.21854195,84017041,US,USA,840,17041.0,Douglas,"Douglas, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.76768052,-88.21854195,84017041,US,USA,840,17041.0,Douglas,"Douglas, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.76768052,-88.21854195,84017041,US,USA,840,17041.0,Douglas,"Douglas, Illinois, US",0,0,0,0
@@ -4663,6 +4715,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.76768052,-88.21854195,84017041,US,USA,840,17041.0,Douglas,"Douglas, Illinois, US",12,1,0,0
 2020-04-17,US,Illinois,39.76768052,-88.21854195,84017041,US,USA,840,17041.0,Douglas,"Douglas, Illinois, US",12,0,0,0
 2020-04-18,US,Illinois,39.76768052,-88.21854195,84017041,US,USA,840,17041.0,Douglas,"Douglas, Illinois, US",12,0,0,0
+2020-04-19,US,Illinois,39.76768052,-88.21854195,84017041,US,USA,840,17041.0,Douglas,"Douglas, Illinois, US",12,0,0,0
 2020-01-22,US,Illinois,39.86064913,-88.96342505,84017115,US,USA,840,17115.0,Macon,"Macon, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.86064913,-88.96342505,84017115,US,USA,840,17115.0,Macon,"Macon, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.86064913,-88.96342505,84017115,US,USA,840,17115.0,Macon,"Macon, Illinois, US",0,0,0,0
@@ -4751,6 +4804,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.86064913,-88.96342505,84017115,US,USA,840,17115.0,Macon,"Macon, Illinois, US",47,3,5,0
 2020-04-17,US,Illinois,39.86064913,-88.96342505,84017115,US,USA,840,17115.0,Macon,"Macon, Illinois, US",47,0,5,0
 2020-04-18,US,Illinois,39.86064913,-88.96342505,84017115,US,USA,840,17115.0,Macon,"Macon, Illinois, US",55,8,7,2
+2020-04-19,US,Illinois,39.86064913,-88.96342505,84017115,US,USA,840,17115.0,Macon,"Macon, Illinois, US",54,-1,7,0
 2020-01-22,US,Illinois,39.96209138,-90.75068024,84017009,US,USA,840,17009.0,Brown,"Brown, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.96209138,-90.75068024,84017009,US,USA,840,17009.0,Brown,"Brown, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.96209138,-90.75068024,84017009,US,USA,840,17009.0,Brown,"Brown, Illinois, US",0,0,0,0
@@ -4839,6 +4893,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.96209138,-90.75068024,84017009,US,USA,840,17009.0,Brown,"Brown, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,39.96209138,-90.75068024,84017009,US,USA,840,17009.0,Brown,"Brown, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,39.96209138,-90.75068024,84017009,US,USA,840,17009.0,Brown,"Brown, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,39.96209138,-90.75068024,84017009,US,USA,840,17009.0,Brown,"Brown, Illinois, US",0,0,0,0
 2020-01-22,US,Illinois,39.96991073,-90.24734436,84017017,US,USA,840,17017.0,Cass,"Cass, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.96991073,-90.24734436,84017017,US,USA,840,17017.0,Cass,"Cass, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.96991073,-90.24734436,84017017,US,USA,840,17017.0,Cass,"Cass, Illinois, US",0,0,0,0
@@ -4927,6 +4982,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.96991073,-90.24734436,84017017,US,USA,840,17017.0,Cass,"Cass, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,39.96991073,-90.24734436,84017017,US,USA,840,17017.0,Cass,"Cass, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,39.96991073,-90.24734436,84017017,US,USA,840,17017.0,Cass,"Cass, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,39.96991073,-90.24734436,84017017,US,USA,840,17017.0,Cass,"Cass, Illinois, US",0,0,0,0
 2020-01-22,US,Illinois,39.98815591,-91.18786813,84017001,US,USA,840,17001.0,Adams,"Adams, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,39.98815591,-91.18786813,84017001,US,USA,840,17001.0,Adams,"Adams, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,39.98815591,-91.18786813,84017001,US,USA,840,17001.0,Adams,"Adams, Illinois, US",0,0,0,0
@@ -5015,6 +5071,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,39.98815591,-91.18786813,84017001,US,USA,840,17001.0,Adams,"Adams, Illinois, US",29,2,0,0
 2020-04-17,US,Illinois,39.98815591,-91.18786813,84017001,US,USA,840,17001.0,Adams,"Adams, Illinois, US",30,1,0,0
 2020-04-18,US,Illinois,39.98815591,-91.18786813,84017001,US,USA,840,17001.0,Adams,"Adams, Illinois, US",31,1,0,0
+2020-04-19,US,Illinois,39.98815591,-91.18786813,84017001,US,USA,840,17001.0,Adams,"Adams, Illinois, US",34,3,0,0
 2020-01-22,US,Illinois,40.01360584,-88.59319339,84017147,US,USA,840,17147.0,Piatt,"Piatt, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.01360584,-88.59319339,84017147,US,USA,840,17147.0,Piatt,"Piatt, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.01360584,-88.59319339,84017147,US,USA,840,17147.0,Piatt,"Piatt, Illinois, US",0,0,0,0
@@ -5103,6 +5160,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.01360584,-88.59319339,84017147,US,USA,840,17147.0,Piatt,"Piatt, Illinois, US",7,1,0,0
 2020-04-17,US,Illinois,40.01360584,-88.59319339,84017147,US,USA,840,17147.0,Piatt,"Piatt, Illinois, US",7,0,0,0
 2020-04-18,US,Illinois,40.01360584,-88.59319339,84017147,US,USA,840,17147.0,Piatt,"Piatt, Illinois, US",7,0,0,0
+2020-04-19,US,Illinois,40.01360584,-88.59319339,84017147,US,USA,840,17147.0,Piatt,"Piatt, Illinois, US",7,0,0,0
 2020-01-22,US,Illinois,40.02742725,-89.80246001,84017129,US,USA,840,17129.0,Menard,"Menard, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.02742725,-89.80246001,84017129,US,USA,840,17129.0,Menard,"Menard, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.02742725,-89.80246001,84017129,US,USA,840,17129.0,Menard,"Menard, Illinois, US",0,0,0,0
@@ -5191,6 +5249,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.02742725,-89.80246001,84017129,US,USA,840,17129.0,Menard,"Menard, Illinois, US",2,0,0,0
 2020-04-17,US,Illinois,40.02742725,-89.80246001,84017129,US,USA,840,17129.0,Menard,"Menard, Illinois, US",2,0,0,0
 2020-04-18,US,Illinois,40.02742725,-89.80246001,84017129,US,USA,840,17129.0,Menard,"Menard, Illinois, US",3,1,0,0
+2020-04-19,US,Illinois,40.02742725,-89.80246001,84017129,US,USA,840,17129.0,Menard,"Menard, Illinois, US",3,0,0,0
 2020-01-22,US,Illinois,40.12581572,-89.36638784,84017107,US,USA,840,17107.0,Logan,"Logan, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.12581572,-89.36638784,84017107,US,USA,840,17107.0,Logan,"Logan, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.12581572,-89.36638784,84017107,US,USA,840,17107.0,Logan,"Logan, Illinois, US",0,0,0,0
@@ -5279,6 +5338,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.12581572,-89.36638784,84017107,US,USA,840,17107.0,Logan,"Logan, Illinois, US",5,1,0,0
 2020-04-17,US,Illinois,40.12581572,-89.36638784,84017107,US,USA,840,17107.0,Logan,"Logan, Illinois, US",5,0,0,0
 2020-04-18,US,Illinois,40.12581572,-89.36638784,84017107,US,USA,840,17107.0,Logan,"Logan, Illinois, US",4,-1,0,0
+2020-04-19,US,Illinois,40.12581572,-89.36638784,84017107,US,USA,840,17107.0,Logan,"Logan, Illinois, US",4,0,0,0
 2020-01-22,US,Illinois,40.13919438,-88.20046615,84017019,US,USA,840,17019.0,Champaign,"Champaign, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.13919438,-88.20046615,84017019,US,USA,840,17019.0,Champaign,"Champaign, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.13919438,-88.20046615,84017019,US,USA,840,17019.0,Champaign,"Champaign, Illinois, US",0,0,0,0
@@ -5367,94 +5427,96 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.13919438,-88.20046615,84017019,US,USA,840,17019.0,Champaign,"Champaign, Illinois, US",90,0,4,2
 2020-04-17,US,Illinois,40.13919438,-88.20046615,84017019,US,USA,840,17019.0,Champaign,"Champaign, Illinois, US",92,2,4,0
 2020-04-18,US,Illinois,40.13919438,-88.20046615,84017019,US,USA,840,17019.0,Champaign,"Champaign, Illinois, US",93,1,4,0
-2020-01-22,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-01-23,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-01-24,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-01-25,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-01-26,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-01-27,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-01-28,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-01-29,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-01-30,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-01-31,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-01,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-02,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-03,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-04,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-05,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-06,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-07,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-08,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-09,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-10,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-11,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-12,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-13,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-14,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-15,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-16,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-17,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-18,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-19,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-20,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-21,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-22,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-23,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-24,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-25,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-26,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-27,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-28,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-02-29,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-01,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-02,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-03,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-04,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-05,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-06,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-07,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-08,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-09,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-10,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-11,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-12,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-13,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-14,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-15,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-16,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-17,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-18,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-19,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-20,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-21,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-22,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-23,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-24,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-25,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-26,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-27,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-28,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-29,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-30,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-03-31,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-04-01,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-04-02,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-04-03,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-04-04,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-04-05,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-04-06,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-04-07,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-04-08,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
-2020-04-09,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,1,0,0
-2020-04-10,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
-2020-04-11,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
-2020-04-12,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
-2020-04-13,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
-2020-04-14,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
-2020-04-15,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
-2020-04-16,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
-2020-04-17,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
-2020-04-18,US,Illinois,40.1571798,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,40.13919438,-88.20046615,84017019,US,USA,840,17019.0,Champaign,"Champaign, Illinois, US",95,2,4,0
+2020-01-22,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-01-23,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-01-24,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-01-25,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-01-26,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-01-27,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-01-28,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-01-29,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-01-30,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-01-31,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-01,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-02,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-03,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-04,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-05,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-06,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-07,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-08,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-09,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-10,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-11,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-12,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-13,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-14,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-15,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-16,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-17,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-18,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-19,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-20,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-21,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-22,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-23,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-24,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-25,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-26,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-27,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-28,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-02-29,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-01,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-02,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-03,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-04,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-05,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-06,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-07,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-08,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-09,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-10,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-11,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-12,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-13,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-14,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-15,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-16,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-17,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-18,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-19,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-20,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-21,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-22,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-23,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-24,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-25,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-26,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-27,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-28,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-29,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-30,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-03-31,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-04-01,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-04-02,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-04-03,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-04-04,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-04-05,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-04-06,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-04-07,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-04-08,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",0,0,0,0
+2020-04-09,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,1,0,0
+2020-04-10,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
+2020-04-11,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
+2020-04-12,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
+2020-04-13,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
+2020-04-14,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
+2020-04-15,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
+2020-04-16,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
+2020-04-17,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
+2020-04-18,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,40.157179799999994,-90.61114163,84017169,US,USA,840,17169.0,Schuyler,"Schuyler, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,40.17514519,-88.90959682,84017039,US,USA,840,17039.0,De Witt,"De Witt, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.17514519,-88.90959682,84017039,US,USA,840,17039.0,De Witt,"De Witt, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.17514519,-88.90959682,84017039,US,USA,840,17039.0,De Witt,"De Witt, Illinois, US",0,0,0,0
@@ -5543,6 +5605,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.17514519,-88.90959682,84017039,US,USA,840,17039.0,De Witt,"De Witt, Illinois, US",1,0,0,0
 2020-04-17,US,Illinois,40.17514519,-88.90959682,84017039,US,USA,840,17039.0,De Witt,"De Witt, Illinois, US",1,0,0,0
 2020-04-18,US,Illinois,40.17514519,-88.90959682,84017039,US,USA,840,17039.0,De Witt,"De Witt, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,40.17514519,-88.90959682,84017039,US,USA,840,17039.0,De Witt,"De Witt, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,40.18417171,-87.73384359,84017183,US,USA,840,17183.0,Vermilion,"Vermilion, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.18417171,-87.73384359,84017183,US,USA,840,17183.0,Vermilion,"Vermilion, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.18417171,-87.73384359,84017183,US,USA,840,17183.0,Vermilion,"Vermilion, Illinois, US",0,0,0,0
@@ -5631,6 +5694,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.18417171,-87.73384359,84017183,US,USA,840,17183.0,Vermilion,"Vermilion, Illinois, US",8,0,0,0
 2020-04-17,US,Illinois,40.18417171,-87.73384359,84017183,US,USA,840,17183.0,Vermilion,"Vermilion, Illinois, US",8,0,0,0
 2020-04-18,US,Illinois,40.18417171,-87.73384359,84017183,US,USA,840,17183.0,Vermilion,"Vermilion, Illinois, US",9,1,0,0
+2020-04-19,US,Illinois,40.18417171,-87.73384359,84017183,US,USA,840,17183.0,Vermilion,"Vermilion, Illinois, US",9,0,0,0
 2020-01-22,US,Illinois,40.23917274,-89.91824452,84017125,US,USA,840,17125.0,Mason,"Mason, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.23917274,-89.91824452,84017125,US,USA,840,17125.0,Mason,"Mason, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.23917274,-89.91824452,84017125,US,USA,840,17125.0,Mason,"Mason, Illinois, US",0,0,0,0
@@ -5719,6 +5783,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.23917274,-89.91824452,84017125,US,USA,840,17125.0,Mason,"Mason, Illinois, US",4,1,0,0
 2020-04-17,US,Illinois,40.23917274,-89.91824452,84017125,US,USA,840,17125.0,Mason,"Mason, Illinois, US",4,0,0,0
 2020-04-18,US,Illinois,40.23917274,-89.91824452,84017125,US,USA,840,17125.0,Mason,"Mason, Illinois, US",4,0,0,0
+2020-04-19,US,Illinois,40.23917274,-89.91824452,84017125,US,USA,840,17125.0,Mason,"Mason, Illinois, US",4,0,0,0
 2020-01-22,US,Illinois,40.40423981,-91.16313899,84017067,US,USA,840,17067.0,Hancock,"Hancock, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.40423981,-91.16313899,84017067,US,USA,840,17067.0,Hancock,"Hancock, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.40423981,-91.16313899,84017067,US,USA,840,17067.0,Hancock,"Hancock, Illinois, US",0,0,0,0
@@ -5807,6 +5872,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.40423981,-91.16313899,84017067,US,USA,840,17067.0,Hancock,"Hancock, Illinois, US",3,0,0,0
 2020-04-17,US,Illinois,40.40423981,-91.16313899,84017067,US,USA,840,17067.0,Hancock,"Hancock, Illinois, US",3,0,0,0
 2020-04-18,US,Illinois,40.40423981,-91.16313899,84017067,US,USA,840,17067.0,Hancock,"Hancock, Illinois, US",3,0,0,0
+2020-04-19,US,Illinois,40.40423981,-91.16313899,84017067,US,USA,840,17067.0,Hancock,"Hancock, Illinois, US",3,0,0,0
 2020-01-22,US,Illinois,40.45674722,-90.67775541,84017109,US,USA,840,17109.0,McDonough,"McDonough, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.45674722,-90.67775541,84017109,US,USA,840,17109.0,McDonough,"McDonough, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.45674722,-90.67775541,84017109,US,USA,840,17109.0,McDonough,"McDonough, Illinois, US",0,0,0,0
@@ -5895,6 +5961,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.45674722,-90.67775541,84017109,US,USA,840,17109.0,McDonough,"McDonough, Illinois, US",3,1,0,0
 2020-04-17,US,Illinois,40.45674722,-90.67775541,84017109,US,USA,840,17109.0,McDonough,"McDonough, Illinois, US",3,0,0,0
 2020-04-18,US,Illinois,40.45674722,-90.67775541,84017109,US,USA,840,17109.0,McDonough,"McDonough, Illinois, US",3,0,0,0
+2020-04-19,US,Illinois,40.45674722,-90.67775541,84017109,US,USA,840,17109.0,McDonough,"McDonough, Illinois, US",3,0,0,0
 2020-01-22,US,Illinois,40.47289135,-90.20862357,84017057,US,USA,840,17057.0,Fulton,"Fulton, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.47289135,-90.20862357,84017057,US,USA,840,17057.0,Fulton,"Fulton, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.47289135,-90.20862357,84017057,US,USA,840,17057.0,Fulton,"Fulton, Illinois, US",0,0,0,0
@@ -5983,6 +6050,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.47289135,-90.20862357,84017057,US,USA,840,17057.0,Fulton,"Fulton, Illinois, US",1,0,0,0
 2020-04-17,US,Illinois,40.47289135,-90.20862357,84017057,US,USA,840,17057.0,Fulton,"Fulton, Illinois, US",1,0,0,0
 2020-04-18,US,Illinois,40.47289135,-90.20862357,84017057,US,USA,840,17057.0,Fulton,"Fulton, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,40.47289135,-90.20862357,84017057,US,USA,840,17057.0,Fulton,"Fulton, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,40.48996987,-88.84621113,84017113,US,USA,840,17113.0,McLean,"McLean, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.48996987,-88.84621113,84017113,US,USA,840,17113.0,McLean,"McLean, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.48996987,-88.84621113,84017113,US,USA,840,17113.0,McLean,"McLean, Illinois, US",0,0,0,0
@@ -6071,6 +6139,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.48996987,-88.84621113,84017113,US,USA,840,17113.0,McLean,"McLean, Illinois, US",82,0,3,1
 2020-04-17,US,Illinois,40.48996987,-88.84621113,84017113,US,USA,840,17113.0,McLean,"McLean, Illinois, US",83,1,3,0
 2020-04-18,US,Illinois,40.48996987,-88.84621113,84017113,US,USA,840,17113.0,McLean,"McLean, Illinois, US",83,0,3,0
+2020-04-19,US,Illinois,40.48996987,-88.84621113,84017113,US,USA,840,17113.0,McLean,"McLean, Illinois, US",85,2,3,0
 2020-01-22,US,Illinois,40.50716185,-89.51404662,84017179,US,USA,840,17179.0,Tazewell,"Tazewell, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.50716185,-89.51404662,84017179,US,USA,840,17179.0,Tazewell,"Tazewell, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.50716185,-89.51404662,84017179,US,USA,840,17179.0,Tazewell,"Tazewell, Illinois, US",0,0,0,0
@@ -6159,6 +6228,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.50716185,-89.51404662,84017179,US,USA,840,17179.0,Tazewell,"Tazewell, Illinois, US",21,0,3,0
 2020-04-17,US,Illinois,40.50716185,-89.51404662,84017179,US,USA,840,17179.0,Tazewell,"Tazewell, Illinois, US",21,0,3,0
 2020-04-18,US,Illinois,40.50716185,-89.51404662,84017179,US,USA,840,17179.0,Tazewell,"Tazewell, Illinois, US",41,20,3,0
+2020-04-19,US,Illinois,40.50716185,-89.51404662,84017179,US,USA,840,17179.0,Tazewell,"Tazewell, Illinois, US",26,-15,3,0
 2020-01-22,US,Illinois,40.59706922,-88.22350769,84017053,US,USA,840,17053.0,Ford,"Ford, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.59706922,-88.22350769,84017053,US,USA,840,17053.0,Ford,"Ford, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.59706922,-88.22350769,84017053,US,USA,840,17053.0,Ford,"Ford, Illinois, US",0,0,0,0
@@ -6247,6 +6317,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.59706922,-88.22350769,84017053,US,USA,840,17053.0,Ford,"Ford, Illinois, US",4,0,1,0
 2020-04-17,US,Illinois,40.59706922,-88.22350769,84017053,US,USA,840,17053.0,Ford,"Ford, Illinois, US",4,0,1,0
 2020-04-18,US,Illinois,40.59706922,-88.22350769,84017053,US,USA,840,17053.0,Ford,"Ford, Illinois, US",5,1,1,0
+2020-04-19,US,Illinois,40.59706922,-88.22350769,84017053,US,USA,840,17053.0,Ford,"Ford, Illinois, US",5,0,1,0
 2020-01-22,US,Illinois,40.74717633,-87.82466784,84017075,US,USA,840,17075.0,Iroquois,"Iroquois, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.74717633,-87.82466784,84017075,US,USA,840,17075.0,Iroquois,"Iroquois, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.74717633,-87.82466784,84017075,US,USA,840,17075.0,Iroquois,"Iroquois, Illinois, US",0,0,0,0
@@ -6335,6 +6406,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.74717633,-87.82466784,84017075,US,USA,840,17075.0,Iroquois,"Iroquois, Illinois, US",11,0,0,0
 2020-04-17,US,Illinois,40.74717633,-87.82466784,84017075,US,USA,840,17075.0,Iroquois,"Iroquois, Illinois, US",12,1,0,0
 2020-04-18,US,Illinois,40.74717633,-87.82466784,84017075,US,USA,840,17075.0,Iroquois,"Iroquois, Illinois, US",12,0,0,0
+2020-04-19,US,Illinois,40.74717633,-87.82466784,84017075,US,USA,840,17075.0,Iroquois,"Iroquois, Illinois, US",13,1,0,0
 2020-01-22,US,Illinois,40.78579374,-89.20973757,84017203,US,USA,840,17203.0,Woodford,"Woodford, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.78579374,-89.20973757,84017203,US,USA,840,17203.0,Woodford,"Woodford, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.78579374,-89.20973757,84017203,US,USA,840,17203.0,Woodford,"Woodford, Illinois, US",0,0,0,0
@@ -6423,6 +6495,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.78579374,-89.20973757,84017203,US,USA,840,17203.0,Woodford,"Woodford, Illinois, US",11,0,0,0
 2020-04-17,US,Illinois,40.78579374,-89.20973757,84017203,US,USA,840,17203.0,Woodford,"Woodford, Illinois, US",11,0,0,0
 2020-04-18,US,Illinois,40.78579374,-89.20973757,84017203,US,USA,840,17203.0,Woodford,"Woodford, Illinois, US",11,0,0,0
+2020-04-19,US,Illinois,40.78579374,-89.20973757,84017203,US,USA,840,17203.0,Woodford,"Woodford, Illinois, US",11,0,0,0
 2020-01-22,US,Illinois,40.78702156,-89.76078901,84017143,US,USA,840,17143.0,Peoria,"Peoria, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.78702156,-89.76078901,84017143,US,USA,840,17143.0,Peoria,"Peoria, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.78702156,-89.76078901,84017143,US,USA,840,17143.0,Peoria,"Peoria, Illinois, US",0,0,0,0
@@ -6511,6 +6584,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.78702156,-89.76078901,84017143,US,USA,840,17143.0,Peoria,"Peoria, Illinois, US",34,1,1,0
 2020-04-17,US,Illinois,40.78702156,-89.76078901,84017143,US,USA,840,17143.0,Peoria,"Peoria, Illinois, US",34,0,1,0
 2020-04-18,US,Illinois,40.78702156,-89.76078901,84017143,US,USA,840,17143.0,Peoria,"Peoria, Illinois, US",37,3,2,1
+2020-04-19,US,Illinois,40.78702156,-89.76078901,84017143,US,USA,840,17143.0,Peoria,"Peoria, Illinois, US",39,2,2,0
 2020-01-22,US,Illinois,40.81908672,-90.92491462,84017071,US,USA,840,17071.0,Henderson,"Henderson, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.81908672,-90.92491462,84017071,US,USA,840,17071.0,Henderson,"Henderson, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.81908672,-90.92491462,84017071,US,USA,840,17071.0,Henderson,"Henderson, Illinois, US",0,0,0,0
@@ -6599,6 +6673,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.81908672,-90.92491462,84017071,US,USA,840,17071.0,Henderson,"Henderson, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,40.81908672,-90.92491462,84017071,US,USA,840,17071.0,Henderson,"Henderson, Illinois, US",1,1,0,0
 2020-04-18,US,Illinois,40.81908672,-90.92491462,84017071,US,USA,840,17071.0,Henderson,"Henderson, Illinois, US",2,1,0,0
+2020-04-19,US,Illinois,40.81908672,-90.92491462,84017071,US,USA,840,17071.0,Henderson,"Henderson, Illinois, US",2,0,0,0
 2020-01-22,US,Illinois,40.84925021,-90.6147432,84017187,US,USA,840,17187.0,Warren,"Warren, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.84925021,-90.6147432,84017187,US,USA,840,17187.0,Warren,"Warren, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.84925021,-90.6147432,84017187,US,USA,840,17187.0,Warren,"Warren, Illinois, US",0,0,0,0
@@ -6687,6 +6762,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.84925021,-90.6147432,84017187,US,USA,840,17187.0,Warren,"Warren, Illinois, US",2,0,0,0
 2020-04-17,US,Illinois,40.84925021,-90.6147432,84017187,US,USA,840,17187.0,Warren,"Warren, Illinois, US",2,0,0,0
 2020-04-18,US,Illinois,40.84925021,-90.6147432,84017187,US,USA,840,17187.0,Warren,"Warren, Illinois, US",4,2,0,0
+2020-04-19,US,Illinois,40.84925021,-90.6147432,84017187,US,USA,840,17187.0,Warren,"Warren, Illinois, US",13,9,0,0
 2020-01-22,US,Illinois,40.89188292,-88.55784752,84017105,US,USA,840,17105.0,Livingston,"Livingston, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.89188292,-88.55784752,84017105,US,USA,840,17105.0,Livingston,"Livingston, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.89188292,-88.55784752,84017105,US,USA,840,17105.0,Livingston,"Livingston, Illinois, US",0,0,0,0
@@ -6775,6 +6851,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.89188292,-88.55784752,84017105,US,USA,840,17105.0,Livingston,"Livingston, Illinois, US",17,0,0,0
 2020-04-17,US,Illinois,40.89188292,-88.55784752,84017105,US,USA,840,17105.0,Livingston,"Livingston, Illinois, US",18,1,0,0
 2020-04-18,US,Illinois,40.89188292,-88.55784752,84017105,US,USA,840,17105.0,Livingston,"Livingston, Illinois, US",17,-1,0,0
+2020-04-19,US,Illinois,40.89188292,-88.55784752,84017105,US,USA,840,17105.0,Livingston,"Livingston, Illinois, US",17,0,0,0
 2020-01-22,US,Illinois,40.93148779,-90.21330340000002,84017095,US,USA,840,17095.0,Knox,"Knox, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,40.93148779,-90.21330340000002,84017095,US,USA,840,17095.0,Knox,"Knox, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,40.93148779,-90.21330340000002,84017095,US,USA,840,17095.0,Knox,"Knox, Illinois, US",0,0,0,0
@@ -6863,6 +6940,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,40.93148779,-90.21330340000002,84017095,US,USA,840,17095.0,Knox,"Knox, Illinois, US",2,0,0,0
 2020-04-17,US,Illinois,40.93148779,-90.21330340000002,84017095,US,USA,840,17095.0,Knox,"Knox, Illinois, US",3,1,0,0
 2020-04-18,US,Illinois,40.93148779,-90.21330340000002,84017095,US,USA,840,17095.0,Knox,"Knox, Illinois, US",5,2,0,0
+2020-04-19,US,Illinois,40.93148779,-90.21330340000002,84017095,US,USA,840,17095.0,Knox,"Knox, Illinois, US",9,4,0,0
 2020-01-22,US,Illinois,41.0327901,-89.34510444,84017123,US,USA,840,17123.0,Marshall,"Marshall, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.0327901,-89.34510444,84017123,US,USA,840,17123.0,Marshall,"Marshall, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.0327901,-89.34510444,84017123,US,USA,840,17123.0,Marshall,"Marshall, Illinois, US",0,0,0,0
@@ -6951,6 +7029,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.0327901,-89.34510444,84017123,US,USA,840,17123.0,Marshall,"Marshall, Illinois, US",2,0,0,0
 2020-04-17,US,Illinois,41.0327901,-89.34510444,84017123,US,USA,840,17123.0,Marshall,"Marshall, Illinois, US",2,0,0,0
 2020-04-18,US,Illinois,41.0327901,-89.34510444,84017123,US,USA,840,17123.0,Marshall,"Marshall, Illinois, US",3,1,0,0
+2020-04-19,US,Illinois,41.0327901,-89.34510444,84017123,US,USA,840,17123.0,Marshall,"Marshall, Illinois, US",4,1,0,0
 2020-01-22,US,Illinois,41.09309773,-89.79745866,84017175,US,USA,840,17175.0,Stark,"Stark, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.09309773,-89.79745866,84017175,US,USA,840,17175.0,Stark,"Stark, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.09309773,-89.79745866,84017175,US,USA,840,17175.0,Stark,"Stark, Illinois, US",0,0,0,0
@@ -7039,6 +7118,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.09309773,-89.79745866,84017175,US,USA,840,17175.0,Stark,"Stark, Illinois, US",1,0,0,0
 2020-04-17,US,Illinois,41.09309773,-89.79745866,84017175,US,USA,840,17175.0,Stark,"Stark, Illinois, US",1,0,0,0
 2020-04-18,US,Illinois,41.09309773,-89.79745866,84017175,US,USA,840,17175.0,Stark,"Stark, Illinois, US",1,0,0,0
+2020-04-19,US,Illinois,41.09309773,-89.79745866,84017175,US,USA,840,17175.0,Stark,"Stark, Illinois, US",1,0,0,0
 2020-01-22,US,Illinois,41.13746989,-87.86205334,84017091,US,USA,840,17091.0,Kankakee,"Kankakee, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.13746989,-87.86205334,84017091,US,USA,840,17091.0,Kankakee,"Kankakee, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.13746989,-87.86205334,84017091,US,USA,840,17091.0,Kankakee,"Kankakee, Illinois, US",0,0,0,0
@@ -7127,6 +7207,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.13746989,-87.86205334,84017091,US,USA,840,17091.0,Kankakee,"Kankakee, Illinois, US",252,26,10,0
 2020-04-17,US,Illinois,41.13746989,-87.86205334,84017091,US,USA,840,17091.0,Kankakee,"Kankakee, Illinois, US",260,8,10,0
 2020-04-18,US,Illinois,41.13746989,-87.86205334,84017091,US,USA,840,17091.0,Kankakee,"Kankakee, Illinois, US",272,12,12,2
+2020-04-19,US,Illinois,41.13746989,-87.86205334,84017091,US,USA,840,17091.0,Kankakee,"Kankakee, Illinois, US",275,3,12,0
 2020-01-22,US,Illinois,41.2013541,-89.2869272,84017155,US,USA,840,17155.0,Putnam,"Putnam, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.2013541,-89.2869272,84017155,US,USA,840,17155.0,Putnam,"Putnam, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.2013541,-89.2869272,84017155,US,USA,840,17155.0,Putnam,"Putnam, Illinois, US",0,0,0,0
@@ -7215,6 +7296,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.2013541,-89.2869272,84017155,US,USA,840,17155.0,Putnam,"Putnam, Illinois, US",0,0,0,0
 2020-04-17,US,Illinois,41.2013541,-89.2869272,84017155,US,USA,840,17155.0,Putnam,"Putnam, Illinois, US",0,0,0,0
 2020-04-18,US,Illinois,41.2013541,-89.2869272,84017155,US,USA,840,17155.0,Putnam,"Putnam, Illinois, US",0,0,0,0
+2020-04-19,US,Illinois,41.2013541,-89.2869272,84017155,US,USA,840,17155.0,Putnam,"Putnam, Illinois, US",0,0,0,0
 2020-01-22,US,Illinois,41.20596782,-90.74290052,84017131,US,USA,840,17131.0,Mercer,"Mercer, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.20596782,-90.74290052,84017131,US,USA,840,17131.0,Mercer,"Mercer, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.20596782,-90.74290052,84017131,US,USA,840,17131.0,Mercer,"Mercer, Illinois, US",0,0,0,0
@@ -7303,6 +7385,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.20596782,-90.74290052,84017131,US,USA,840,17131.0,Mercer,"Mercer, Illinois, US",4,1,0,0
 2020-04-17,US,Illinois,41.20596782,-90.74290052,84017131,US,USA,840,17131.0,Mercer,"Mercer, Illinois, US",4,0,0,0
 2020-04-18,US,Illinois,41.20596782,-90.74290052,84017131,US,USA,840,17131.0,Mercer,"Mercer, Illinois, US",5,1,0,0
+2020-04-19,US,Illinois,41.20596782,-90.74290052,84017131,US,USA,840,17131.0,Mercer,"Mercer, Illinois, US",5,0,0,0
 2020-01-22,US,Illinois,41.28569601,-88.41905692,84017063,US,USA,840,17063.0,Grundy,"Grundy, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.28569601,-88.41905692,84017063,US,USA,840,17063.0,Grundy,"Grundy, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.28569601,-88.41905692,84017063,US,USA,840,17063.0,Grundy,"Grundy, Illinois, US",0,0,0,0
@@ -7391,6 +7474,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.28569601,-88.41905692,84017063,US,USA,840,17063.0,Grundy,"Grundy, Illinois, US",24,0,0,0
 2020-04-17,US,Illinois,41.28569601,-88.41905692,84017063,US,USA,840,17063.0,Grundy,"Grundy, Illinois, US",24,0,0,0
 2020-04-18,US,Illinois,41.28569601,-88.41905692,84017063,US,USA,840,17063.0,Grundy,"Grundy, Illinois, US",26,2,0,0
+2020-04-19,US,Illinois,41.28569601,-88.41905692,84017063,US,USA,840,17063.0,Grundy,"Grundy, Illinois, US",26,0,0,0
 2020-01-22,US,Illinois,41.34426129999999,-88.88633881,84017099,US,USA,840,17099.0,LaSalle,"LaSalle,Illinois,US",0,0,0,0
 2020-01-23,US,Illinois,41.34426129999999,-88.88633881,84017099,US,USA,840,17099.0,LaSalle,"LaSalle,Illinois,US",0,0,0,0
 2020-01-24,US,Illinois,41.34426129999999,-88.88633881,84017099,US,USA,840,17099.0,LaSalle,"LaSalle,Illinois,US",0,0,0,0
@@ -7479,6 +7563,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.34426129999999,-88.88633881,84017099,US,USA,840,17099.0,LaSalle,"LaSalle,Illinois,US",25,1,1,0
 2020-04-17,US,Illinois,41.34426129999999,-88.88633881,84017099,US,USA,840,17099.0,LaSalle,"LaSalle,Illinois,US",27,2,1,0
 2020-04-18,US,Illinois,41.34426129999999,-88.88633881,84017099,US,USA,840,17099.0,LaSalle,"LaSalle,Illinois,US",27,0,1,0
+2020-04-19,US,Illinois,41.34426129999999,-88.88633881,84017099,US,USA,840,17099.0,LaSalle,"LaSalle,Illinois,US",28,1,1,0
 2020-01-22,US,Illinois,41.3533994,-90.13296166,84017073,US,USA,840,17073.0,Henry,"Henry, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.3533994,-90.13296166,84017073,US,USA,840,17073.0,Henry,"Henry, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.3533994,-90.13296166,84017073,US,USA,840,17073.0,Henry,"Henry, Illinois, US",0,0,0,0
@@ -7567,6 +7652,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.3533994,-90.13296166,84017073,US,USA,840,17073.0,Henry,"Henry, Illinois, US",25,0,0,0
 2020-04-17,US,Illinois,41.3533994,-90.13296166,84017073,US,USA,840,17073.0,Henry,"Henry, Illinois, US",28,3,0,0
 2020-04-18,US,Illinois,41.3533994,-90.13296166,84017073,US,USA,840,17073.0,Henry,"Henry, Illinois, US",30,2,0,0
+2020-04-19,US,Illinois,41.3533994,-90.13296166,84017073,US,USA,840,17073.0,Henry,"Henry, Illinois, US",30,0,0,0
 2020-01-22,US,Illinois,41.40385234,-89.5283051,84017011,US,USA,840,17011.0,Bureau,"Bureau, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.40385234,-89.5283051,84017011,US,USA,840,17011.0,Bureau,"Bureau, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.40385234,-89.5283051,84017011,US,USA,840,17011.0,Bureau,"Bureau, Illinois, US",0,0,0,0
@@ -7655,6 +7741,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.40385234,-89.5283051,84017011,US,USA,840,17011.0,Bureau,"Bureau, Illinois, US",7,0,0,0
 2020-04-17,US,Illinois,41.40385234,-89.5283051,84017011,US,USA,840,17011.0,Bureau,"Bureau, Illinois, US",7,0,0,0
 2020-04-18,US,Illinois,41.40385234,-89.5283051,84017011,US,USA,840,17011.0,Bureau,"Bureau, Illinois, US",8,1,0,0
+2020-04-19,US,Illinois,41.40385234,-89.5283051,84017011,US,USA,840,17011.0,Bureau,"Bureau, Illinois, US",8,0,0,0
 2020-01-22,US,Illinois,41.44619267,-87.97862712,84017197,US,USA,840,17197.0,Will,"Will, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.44619267,-87.97862712,84017197,US,USA,840,17197.0,Will,"Will, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.44619267,-87.97862712,84017197,US,USA,840,17197.0,Will,"Will, Illinois, US",0,0,0,0
@@ -7743,6 +7830,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.44619267,-87.97862712,84017197,US,USA,840,17197.0,Will,"Will, Illinois, US",1494,61,88,7
 2020-04-17,US,Illinois,41.44619267,-87.97862712,84017197,US,USA,840,17197.0,Will,"Will, Illinois, US",1566,72,90,2
 2020-04-18,US,Illinois,41.44619267,-87.97862712,84017197,US,USA,840,17197.0,Will,"Will, Illinois, US",1603,37,94,4
+2020-04-19,US,Illinois,41.44619267,-87.97862712,84017197,US,USA,840,17197.0,Will,"Will, Illinois, US",1643,40,101,7
 2020-01-22,US,Illinois,41.46613806,-90.57042164,84017161,US,USA,840,17161.0,Rock Island,"Rock Island, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.46613806,-90.57042164,84017161,US,USA,840,17161.0,Rock Island,"Rock Island, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.46613806,-90.57042164,84017161,US,USA,840,17161.0,Rock Island,"Rock Island, Illinois, US",0,0,0,0
@@ -7831,6 +7919,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.46613806,-90.57042164,84017161,US,USA,840,17161.0,Rock Island,"Rock Island, Illinois, US",154,16,4,0
 2020-04-17,US,Illinois,41.46613806,-90.57042164,84017161,US,USA,840,17161.0,Rock Island,"Rock Island, Illinois, US",167,13,4,0
 2020-04-18,US,Illinois,41.46613806,-90.57042164,84017161,US,USA,840,17161.0,Rock Island,"Rock Island, Illinois, US",187,20,4,0
+2020-04-19,US,Illinois,41.46613806,-90.57042164,84017161,US,USA,840,17161.0,Rock Island,"Rock Island, Illinois, US",188,1,4,0
 2020-01-22,US,Illinois,41.59081014,-88.42869583,84017093,US,USA,840,17093.0,Kendall,"Kendall, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.59081014,-88.42869583,84017093,US,USA,840,17093.0,Kendall,"Kendall, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.59081014,-88.42869583,84017093,US,USA,840,17093.0,Kendall,"Kendall, Illinois, US",0,0,0,0
@@ -7919,6 +8008,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.59081014,-88.42869583,84017093,US,USA,840,17093.0,Kendall,"Kendall, Illinois, US",119,3,2,0
 2020-04-17,US,Illinois,41.59081014,-88.42869583,84017093,US,USA,840,17093.0,Kendall,"Kendall, Illinois, US",123,4,2,0
 2020-04-18,US,Illinois,41.59081014,-88.42869583,84017093,US,USA,840,17093.0,Kendall,"Kendall, Illinois, US",135,12,3,1
+2020-04-19,US,Illinois,41.59081014,-88.42869583,84017093,US,USA,840,17093.0,Kendall,"Kendall, Illinois, US",135,0,3,0
 2020-01-22,US,Illinois,41.74583951,-89.29977132,84017103,US,USA,840,17103.0,Lee,"Lee, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.74583951,-89.29977132,84017103,US,USA,840,17103.0,Lee,"Lee, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.74583951,-89.29977132,84017103,US,USA,840,17103.0,Lee,"Lee, Illinois, US",0,0,0,0
@@ -8007,6 +8097,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.74583951,-89.29977132,84017103,US,USA,840,17103.0,Lee,"Lee, Illinois, US",15,0,0,0
 2020-04-17,US,Illinois,41.74583951,-89.29977132,84017103,US,USA,840,17103.0,Lee,"Lee, Illinois, US",17,2,0,0
 2020-04-18,US,Illinois,41.74583951,-89.29977132,84017103,US,USA,840,17103.0,Lee,"Lee, Illinois, US",17,0,0,0
+2020-04-19,US,Illinois,41.74583951,-89.29977132,84017103,US,USA,840,17103.0,Lee,"Lee, Illinois, US",17,0,0,0
 2020-01-22,US,Illinois,41.75509713,-89.91556058,84017195,US,USA,840,17195.0,Whiteside,"Whiteside, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.75509713,-89.91556058,84017195,US,USA,840,17195.0,Whiteside,"Whiteside, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.75509713,-89.91556058,84017195,US,USA,840,17195.0,Whiteside,"Whiteside, Illinois, US",0,0,0,0
@@ -8095,6 +8186,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.75509713,-89.91556058,84017195,US,USA,840,17195.0,Whiteside,"Whiteside, Illinois, US",30,1,3,0
 2020-04-17,US,Illinois,41.75509713,-89.91556058,84017195,US,USA,840,17195.0,Whiteside,"Whiteside, Illinois, US",31,1,3,0
 2020-04-18,US,Illinois,41.75509713,-89.91556058,84017195,US,USA,840,17195.0,Whiteside,"Whiteside, Illinois, US",36,5,3,0
+2020-04-19,US,Illinois,41.75509713,-89.91556058,84017195,US,USA,840,17195.0,Whiteside,"Whiteside, Illinois, US",36,0,3,0
 2020-01-22,US,Illinois,41.84144849,-87.81658794,84017031,US,USA,840,17031.0,Cook,"Cook, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.84144849,-87.81658794,84017031,US,USA,840,17031.0,Cook,"Cook, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.84144849,-87.81658794,84017031,US,USA,840,17031.0,Cook,"Cook, Illinois, US",1,1,0,0
@@ -8183,6 +8275,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.84144849,-87.81658794,84017031,US,USA,840,17031.0,Cook,"Cook, Illinois, US",18087,781,722,92
 2020-04-17,US,Illinois,41.84144849,-87.81658794,84017031,US,USA,840,17031.0,Cook,"Cook, Illinois, US",19391,1304,760,38
 2020-04-18,US,Illinois,41.84144849,-87.81658794,84017031,US,USA,840,17031.0,Cook,"Cook, Illinois, US",20395,1004,860,100
+2020-04-19,US,Illinois,41.84144849,-87.81658794,84017031,US,USA,840,17031.0,Cook,"Cook, Illinois, US",21272,877,877,17
 2020-01-22,US,Illinois,41.85116968,-88.08642662,84017043,US,USA,840,17043.0,DuPage,"DuPage, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.85116968,-88.08642662,84017043,US,USA,840,17043.0,DuPage,"DuPage, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.85116968,-88.08642662,84017043,US,USA,840,17043.0,DuPage,"DuPage, Illinois, US",0,0,0,0
@@ -8271,6 +8364,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.85116968,-88.08642662,84017043,US,USA,840,17043.0,DuPage,"DuPage, Illinois, US",1463,77,69,3
 2020-04-17,US,Illinois,41.85116968,-88.08642662,84017043,US,USA,840,17043.0,DuPage,"DuPage, Illinois, US",1560,97,77,8
 2020-04-18,US,Illinois,41.85116968,-88.08642662,84017043,US,USA,840,17043.0,DuPage,"DuPage, Illinois, US",1642,82,82,5
+2020-04-19,US,Illinois,41.85116968,-88.08642662,84017043,US,USA,840,17043.0,DuPage,"DuPage, Illinois, US",1695,53,85,3
 2020-01-22,US,Illinois,41.89373302,-88.76958483,84017037,US,USA,840,17037.0,DeKalb,"DeKalb, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.89373302,-88.76958483,84017037,US,USA,840,17037.0,DeKalb,"DeKalb, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.89373302,-88.76958483,84017037,US,USA,840,17037.0,DeKalb,"DeKalb, Illinois, US",0,0,0,0
@@ -8359,6 +8453,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.89373302,-88.76958483,84017037,US,USA,840,17037.0,DeKalb,"DeKalb, Illinois, US",39,2,1,0
 2020-04-17,US,Illinois,41.89373302,-88.76958483,84017037,US,USA,840,17037.0,DeKalb,"DeKalb, Illinois, US",46,7,1,0
 2020-04-18,US,Illinois,41.89373302,-88.76958483,84017037,US,USA,840,17037.0,DeKalb,"DeKalb, Illinois, US",54,8,1,0
+2020-04-19,US,Illinois,41.89373302,-88.76958483,84017037,US,USA,840,17037.0,DeKalb,"DeKalb, Illinois, US",55,1,1,0
 2020-01-22,US,Illinois,41.93842729,-88.42861412,84017089,US,USA,840,17089.0,Kane,"Kane, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,41.93842729,-88.42861412,84017089,US,USA,840,17089.0,Kane,"Kane, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,41.93842729,-88.42861412,84017089,US,USA,840,17089.0,Kane,"Kane, Illinois, US",0,0,0,0
@@ -8447,6 +8542,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,41.93842729,-88.42861412,84017089,US,USA,840,17089.0,Kane,"Kane, Illinois, US",490,27,25,1
 2020-04-17,US,Illinois,41.93842729,-88.42861412,84017089,US,USA,840,17089.0,Kane,"Kane, Illinois, US",538,48,28,3
 2020-04-18,US,Illinois,41.93842729,-88.42861412,84017089,US,USA,840,17089.0,Kane,"Kane, Illinois, US",582,44,29,1
+2020-04-19,US,Illinois,41.93842729,-88.42861412,84017089,US,USA,840,17089.0,Kane,"Kane, Illinois, US",605,23,30,1
 2020-01-22,US,Illinois,42.04165196,-89.32184679,84017141,US,USA,840,17141.0,Ogle,"Ogle, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,42.04165196,-89.32184679,84017141,US,USA,840,17141.0,Ogle,"Ogle, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,42.04165196,-89.32184679,84017141,US,USA,840,17141.0,Ogle,"Ogle, Illinois, US",0,0,0,0
@@ -8535,6 +8631,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,42.04165196,-89.32184679,84017141,US,USA,840,17141.0,Ogle,"Ogle, Illinois, US",29,1,1,0
 2020-04-17,US,Illinois,42.04165196,-89.32184679,84017141,US,USA,840,17141.0,Ogle,"Ogle, Illinois, US",40,11,1,0
 2020-04-18,US,Illinois,42.04165196,-89.32184679,84017141,US,USA,840,17141.0,Ogle,"Ogle, Illinois, US",48,8,1,0
+2020-04-19,US,Illinois,42.04165196,-89.32184679,84017141,US,USA,840,17141.0,Ogle,"Ogle, Illinois, US",48,0,1,0
 2020-01-22,US,Illinois,42.06823429,-89.93395545,84017015,US,USA,840,17015.0,Carroll,"Carroll, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,42.06823429,-89.93395545,84017015,US,USA,840,17015.0,Carroll,"Carroll, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,42.06823429,-89.93395545,84017015,US,USA,840,17015.0,Carroll,"Carroll, Illinois, US",0,0,0,0
@@ -8623,6 +8720,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,42.06823429,-89.93395545,84017015,US,USA,840,17015.0,Carroll,"Carroll, Illinois, US",5,0,1,0
 2020-04-17,US,Illinois,42.06823429,-89.93395545,84017015,US,USA,840,17015.0,Carroll,"Carroll, Illinois, US",5,0,1,0
 2020-04-18,US,Illinois,42.06823429,-89.93395545,84017015,US,USA,840,17015.0,Carroll,"Carroll, Illinois, US",6,1,1,0
+2020-04-19,US,Illinois,42.06823429,-89.93395545,84017015,US,USA,840,17015.0,Carroll,"Carroll, Illinois, US",6,0,1,0
 2020-01-22,US,Illinois,42.3224907,-88.00367925,84017097,US,USA,840,17097.0,Lake,"Lake, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,42.3224907,-88.00367925,84017097,US,USA,840,17097.0,Lake,"Lake, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,42.3224907,-88.00367925,84017097,US,USA,840,17097.0,Lake,"Lake, Illinois, US",0,0,0,0
@@ -8711,6 +8809,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,42.3224907,-88.00367925,84017097,US,USA,840,17097.0,Lake,"Lake, Illinois, US",1767,56,70,8
 2020-04-17,US,Illinois,42.3224907,-88.00367925,84017097,US,USA,840,17097.0,Lake,"Lake, Illinois, US",1914,147,71,1
 2020-04-18,US,Illinois,42.3224907,-88.00367925,84017097,US,USA,840,17097.0,Lake,"Lake, Illinois, US",2073,159,75,4
+2020-04-19,US,Illinois,42.3224907,-88.00367925,84017097,US,USA,840,17097.0,Lake,"Lake, Illinois, US",2162,89,75,0
 2020-01-22,US,Illinois,42.32359279,-88.82345779,84017007,US,USA,840,17007.0,Boone,"Boone, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,42.32359279,-88.82345779,84017007,US,USA,840,17007.0,Boone,"Boone, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,42.32359279,-88.82345779,84017007,US,USA,840,17007.0,Boone,"Boone, Illinois, US",0,0,0,0
@@ -8799,6 +8898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,42.32359279,-88.82345779,84017007,US,USA,840,17007.0,Boone,"Boone, Illinois, US",18,2,1,0
 2020-04-17,US,Illinois,42.32359279,-88.82345779,84017007,US,USA,840,17007.0,Boone,"Boone, Illinois, US",21,3,2,1
 2020-04-18,US,Illinois,42.32359279,-88.82345779,84017007,US,USA,840,17007.0,Boone,"Boone, Illinois, US",29,8,2,0
+2020-04-19,US,Illinois,42.32359279,-88.82345779,84017007,US,USA,840,17007.0,Boone,"Boone, Illinois, US",30,1,2,0
 2020-01-22,US,Illinois,42.32451172,-88.45248227,84017111,US,USA,840,17111.0,McHenry,"McHenry, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,42.32451172,-88.45248227,84017111,US,USA,840,17111.0,McHenry,"McHenry, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,42.32451172,-88.45248227,84017111,US,USA,840,17111.0,McHenry,"McHenry, Illinois, US",0,0,0,0
@@ -8887,6 +8987,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,42.32451172,-88.45248227,84017111,US,USA,840,17111.0,McHenry,"McHenry, Illinois, US",279,15,13,2
 2020-04-17,US,Illinois,42.32451172,-88.45248227,84017111,US,USA,840,17111.0,McHenry,"McHenry, Illinois, US",306,27,13,0
 2020-04-18,US,Illinois,42.32451172,-88.45248227,84017111,US,USA,840,17111.0,McHenry,"McHenry, Illinois, US",340,34,17,4
+2020-04-19,US,Illinois,42.32451172,-88.45248227,84017111,US,USA,840,17111.0,McHenry,"McHenry, Illinois, US",340,0,17,0
 2020-01-22,US,Illinois,42.33641854,-89.16085327,84017201,US,USA,840,17201.0,Winnebago,"Winnebago, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,42.33641854,-89.16085327,84017201,US,USA,840,17201.0,Winnebago,"Winnebago, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,42.33641854,-89.16085327,84017201,US,USA,840,17201.0,Winnebago,"Winnebago, Illinois, US",0,0,0,0
@@ -8975,6 +9076,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,42.33641854,-89.16085327,84017201,US,USA,840,17201.0,Winnebago,"Winnebago, Illinois, US",121,9,4,0
 2020-04-17,US,Illinois,42.33641854,-89.16085327,84017201,US,USA,840,17201.0,Winnebago,"Winnebago, Illinois, US",145,24,4,0
 2020-04-18,US,Illinois,42.33641854,-89.16085327,84017201,US,USA,840,17201.0,Winnebago,"Winnebago, Illinois, US",172,27,4,0
+2020-04-19,US,Illinois,42.33641854,-89.16085327,84017201,US,USA,840,17201.0,Winnebago,"Winnebago, Illinois, US",178,6,4,0
 2020-01-22,US,Illinois,42.35129217,-89.662598,84017177,US,USA,840,17177.0,Stephenson,"Stephenson, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,42.35129217,-89.662598,84017177,US,USA,840,17177.0,Stephenson,"Stephenson, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,42.35129217,-89.662598,84017177,US,USA,840,17177.0,Stephenson,"Stephenson, Illinois, US",0,0,0,0
@@ -9063,6 +9165,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,42.35129217,-89.662598,84017177,US,USA,840,17177.0,Stephenson,"Stephenson, Illinois, US",9,0,0,0
 2020-04-17,US,Illinois,42.35129217,-89.662598,84017177,US,USA,840,17177.0,Stephenson,"Stephenson, Illinois, US",10,1,0,0
 2020-04-18,US,Illinois,42.35129217,-89.662598,84017177,US,USA,840,17177.0,Stephenson,"Stephenson, Illinois, US",12,2,0,0
+2020-04-19,US,Illinois,42.35129217,-89.662598,84017177,US,USA,840,17177.0,Stephenson,"Stephenson, Illinois, US",12,0,0,0
 2020-01-22,US,Illinois,42.36542373,-90.21094405,84017085,US,USA,840,17085.0,Jo Daviess,"Jo Daviess, Illinois, US",0,0,0,0
 2020-01-23,US,Illinois,42.36542373,-90.21094405,84017085,US,USA,840,17085.0,Jo Daviess,"Jo Daviess, Illinois, US",0,0,0,0
 2020-01-24,US,Illinois,42.36542373,-90.21094405,84017085,US,USA,840,17085.0,Jo Daviess,"Jo Daviess, Illinois, US",0,0,0,0
@@ -9151,3 +9254,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Illinois,42.36542373,-90.21094405,84017085,US,USA,840,17085.0,Jo Daviess,"Jo Daviess, Illinois, US",11,0,0,0
 2020-04-17,US,Illinois,42.36542373,-90.21094405,84017085,US,USA,840,17085.0,Jo Daviess,"Jo Daviess, Illinois, US",11,0,0,0
 2020-04-18,US,Illinois,42.36542373,-90.21094405,84017085,US,USA,840,17085.0,Jo Daviess,"Jo Daviess, Illinois, US",12,1,0,0
+2020-04-19,US,Illinois,42.36542373,-90.21094405,84017085,US,USA,840,17085.0,Jo Daviess,"Jo Daviess, Illinois, US",12,0,0,0

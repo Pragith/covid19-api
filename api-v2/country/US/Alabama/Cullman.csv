@@ -87,3 +87,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Alabama,34.13020303,-86.86888037,84001043,US,USA,840,1043.0,Cullman,"Cullman, Alabama, US",40,0,1,0
 2020-04-17,US,Alabama,34.13020303,-86.86888037,84001043,US,USA,840,1043.0,Cullman,"Cullman, Alabama, US",53,13,1,0
 2020-04-18,US,Alabama,34.13020303,-86.86888037,84001043,US,USA,840,1043.0,Cullman,"Cullman, Alabama, US",42,-11,1,0
+2020-04-19,US,Alabama,34.13020303,-86.86888037,84001043,US,USA,840,1043.0,Cullman,"Cullman, Alabama, US",42,0,0,-1

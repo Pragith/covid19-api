@@ -87,3 +87,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Alabama,33.29526734,-85.45708831,84001111,US,USA,840,1111.0,Randolph,"Randolph, Alabama, US",46,1,4,0
 2020-04-17,US,Alabama,33.29526734,-85.45708831,84001111,US,USA,840,1111.0,Randolph,"Randolph, Alabama, US",51,5,4,0
 2020-04-18,US,Alabama,33.29526734,-85.45708831,84001111,US,USA,840,1111.0,Randolph,"Randolph, Alabama, US",51,0,4,0
+2020-04-19,US,Alabama,33.29526734,-85.45708831,84001111,US,USA,840,1111.0,Randolph,"Randolph, Alabama, US",53,2,3,-1

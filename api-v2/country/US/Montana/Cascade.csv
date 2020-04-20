@@ -87,3 +87,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,US,Montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,Cascade,"Cascade, Montana, US",13,0,0,0
 2020-04-17,US,Montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,Cascade,"Cascade, Montana, US",13,0,0,0
 2020-04-18,US,Montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,Cascade,"Cascade, Montana, US",13,0,1,1
+2020-04-19,US,Montana,47.30797024,-111.3467922,84030013,US,USA,840,30013.0,Cascade,"Cascade, Montana, US",13,0,1,0
