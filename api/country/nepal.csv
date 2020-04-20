@@ -87,3 +87,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-16,nepal,,28.1667,84.25,16,0,2.0,0,0,1.0
 2020-04-17,nepal,,28.1667,84.25,30,0,2.0,14,0,0.0
 2020-04-18,nepal,,28.1667,84.25,31,0,2.0,1,0,0.0
+2020-04-19,nepal,,28.1667,84.25,31,0,4.0,0,0,2.0

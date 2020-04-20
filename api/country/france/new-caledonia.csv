@@ -87,3 +87,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-16,france,new-caledonia,-20.9043,165.618,18,0,0,0,1.0,0.0
 2020-04-17,france,new-caledonia,-20.9043,165.618,18,0,0,0,14.0,13.0
 2020-04-18,france,new-caledonia,-20.9043,165.618,18,0,0,0,14.0,0.0
+2020-04-19,france,new-caledonia,-20.9043,165.618,18,0,0,0,15.0,1.0

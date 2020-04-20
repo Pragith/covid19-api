@@ -87,3 +87,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-16,mongolia,,46.8625,103.8467,31,0,5.0,1,0,0.0
 2020-04-17,mongolia,,46.8625,103.8467,31,0,5.0,0,0,0.0
 2020-04-18,mongolia,,46.8625,103.8467,31,0,5.0,0,0,0.0
+2020-04-19,mongolia,,46.8625,103.8467,32,0,7.0,1,0,2.0

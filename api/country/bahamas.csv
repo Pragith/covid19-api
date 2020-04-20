@@ -87,3 +87,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-16,bahamas,,25.0343,-77.3963,53,8,6.0,4,0,0.0
 2020-04-17,bahamas,,25.0343,-77.3963,54,9,6.0,1,1,0.0
 2020-04-18,bahamas,,25.0343,-77.3963,55,9,10.0,1,0,4.0
+2020-04-19,bahamas,,25.0343,-77.3963,55,9,10.0,0,0,0.0

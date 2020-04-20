@@ -87,3 +87,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-16,united-kingdom,british-virgin-islands,18.4207,-64.64,3,0,0,0,2.0,0.0
 2020-04-17,united-kingdom,british-virgin-islands,18.4207,-64.64,4,1,0,0,2.0,0.0
 2020-04-18,united-kingdom,british-virgin-islands,18.4207,-64.64,4,0,0,0,2.0,0.0
+2020-04-19,united-kingdom,british-virgin-islands,18.4207,-64.64,4,0,1,1,2.0,0.0
