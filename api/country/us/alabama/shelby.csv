@@ -87,3 +87,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,us,alabama,33.26879845,-86.66232561,84001117,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",243,6,7,0
 2020-04-17,us,alabama,33.26879845,-86.66232561,84001117,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",248,5,8,1
 2020-04-18,us,alabama,33.26879845,-86.66232561,84001117,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",257,9,7,-1
+2020-04-19,us,alabama,33.26879845,-86.66232561,84001117,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",268,11,7,0

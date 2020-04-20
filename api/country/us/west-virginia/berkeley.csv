@@ -87,3 +87,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-16,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",102,3,0,0
 2020-04-17,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",106,4,1,1
 2020-04-18,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",106,0,1,0
+2020-04-19,us,west-virginia,39.46704621,-78.02414609,84054003,US,USA,840,54003.0,berkeley,"Berkeley, West Virginia, US",109,3,1,0
