@@ -88,3 +88,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,michigan,43.83353985,-83.04078453,84026063,US,USA,840,26063.0,huron,"Huron, Michigan, US",8,0,0,0
 2020-04-18,us,michigan,43.83353985,-83.04078453,84026063,US,USA,840,26063.0,huron,"Huron, Michigan, US",10,2,0,0
 2020-04-19,us,michigan,43.83353985,-83.04078453,84026063,US,USA,840,26063.0,huron,"Huron, Michigan, US",10,0,0,0
+2020-04-20,us,michigan,43.83353985,-83.04078453,84026063,US,USA,840,26063.0,huron,"Huron, Michigan, US",10,0,1,1

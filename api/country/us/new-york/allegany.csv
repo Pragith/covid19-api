@@ -88,3 +88,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,new-york,42.25748406,-78.02750466,84036003,US,USA,840,36003.0,allegany,"Allegany, New York, US",29,1,1,0
 2020-04-18,us,new-york,42.25748406,-78.02750466,84036003,US,USA,840,36003.0,allegany,"Allegany, New York, US",30,1,1,0
 2020-04-19,us,new-york,42.25748406,-78.02750466,84036003,US,USA,840,36003.0,allegany,"Allegany, New York, US",30,0,2,1
+2020-04-20,us,new-york,42.25748406,-78.02750466,84036003,US,USA,840,36003.0,allegany,"Allegany, New York, US",30,0,2,0

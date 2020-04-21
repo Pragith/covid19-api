@@ -88,3 +88,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",87,10,1,1
 2020-04-18,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",73,-14,6,5
 2020-04-19,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",79,6,6,0
+2020-04-20,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",73,-6,0,-6

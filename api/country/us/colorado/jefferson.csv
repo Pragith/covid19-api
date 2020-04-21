@@ -88,3 +88,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,colorado,39.58635604,-105.2517692,84008059,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",860,23,33,1
 2020-04-18,us,colorado,39.58635604,-105.2517692,84008059,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",888,28,35,2
 2020-04-19,us,colorado,39.58635604,-105.2517692,84008059,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",957,69,36,1
+2020-04-20,us,colorado,39.58635604,-105.2517692,84008059,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",957,0,36,0

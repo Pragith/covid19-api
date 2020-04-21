@@ -88,3 +88,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",573,23,18,0
 2020-04-18,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",590,17,20,2
 2020-04-19,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",632,42,21,1
+2020-04-20,us,massachusetts,41.72980578,-70.28854339,84025001,US,USA,840,25001.0,barnstable,"Barnstable, Massachusetts, US",632,0,21,0

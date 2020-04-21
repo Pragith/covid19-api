@@ -88,6 +88,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,0.0,0.0,84080021,US,USA,840,80021.0,out-of-ky,"Out of KY, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,0.0,0.0,84080021,US,USA,840,80021.0,out-of-ky,"Out of KY, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,0.0,0.0,84080021,US,USA,840,80021.0,out-of-ky,"Out of KY, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,0.0,0.0,84080021,US,USA,840,80021.0,out-of-ky,"Out of KY, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",0,0,0,0
@@ -177,6 +178,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",87,10,1,1
 2020-04-18,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",73,-14,6,5
 2020-04-19,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",79,6,6,0
+2020-04-20,us,kentucky,0.0,0.0,84090021,US,USA,840,90021.0,unassigned,"Unassigned, Kentucky, US",73,-6,0,-6
 2020-01-22,us,kentucky,36.55238827,-89.20140068,84021075,US,USA,840,21075.0,fulton,"Fulton, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.55238827,-89.20140068,84021075,US,USA,840,21075.0,fulton,"Fulton, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.55238827,-89.20140068,84021075,US,USA,840,21075.0,fulton,"Fulton, Kentucky, US",0,0,0,0
@@ -266,6 +268,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.55238827,-89.20140068,84021075,US,USA,840,21075.0,fulton,"Fulton, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,36.55238827,-89.20140068,84021075,US,USA,840,21075.0,fulton,"Fulton, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,36.55238827,-89.20140068,84021075,US,USA,840,21075.0,fulton,"Fulton, Kentucky, US",1,1,0,0
+2020-04-20,us,kentucky,36.55238827,-89.20140068,84021075,US,USA,840,21075.0,fulton,"Fulton, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,36.62093411,-88.2731593,84021035,US,USA,840,21035.0,calloway,"Calloway, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.62093411,-88.2731593,84021035,US,USA,840,21035.0,calloway,"Calloway, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.62093411,-88.2731593,84021035,US,USA,840,21035.0,calloway,"Calloway, Kentucky, US",0,0,0,0
@@ -355,6 +358,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.62093411,-88.2731593,84021035,US,USA,840,21035.0,calloway,"Calloway, Kentucky, US",22,0,1,0
 2020-04-18,us,kentucky,36.62093411,-88.2731593,84021035,US,USA,840,21035.0,calloway,"Calloway, Kentucky, US",21,-1,1,0
 2020-04-19,us,kentucky,36.62093411,-88.2731593,84021035,US,USA,840,21035.0,calloway,"Calloway, Kentucky, US",21,0,1,0
+2020-04-20,us,kentucky,36.62093411,-88.2731593,84021035,US,USA,840,21035.0,calloway,"Calloway, Kentucky, US",21,0,1,0
 2020-01-22,us,kentucky,36.67948079999999,-88.97875928,84021105,US,USA,840,21105.0,hickman,"Hickman, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.67948079999999,-88.97875928,84021105,US,USA,840,21105.0,hickman,"Hickman, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.67948079999999,-88.97875928,84021105,US,USA,840,21105.0,hickman,"Hickman, Kentucky, US",0,0,0,0
@@ -444,6 +448,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.67948079999999,-88.97875928,84021105,US,USA,840,21105.0,hickman,"Hickman, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,36.67948079999999,-88.97875928,84021105,US,USA,840,21105.0,hickman,"Hickman, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,36.67948079999999,-88.97875928,84021105,US,USA,840,21105.0,hickman,"Hickman, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,36.67948079999999,-88.97875928,84021105,US,USA,840,21105.0,hickman,"Hickman, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,36.71225341,-85.71596443,84021171,US,USA,840,21171.0,monroe,"Monroe, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.71225341,-85.71596443,84021171,US,USA,840,21171.0,monroe,"Monroe, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.71225341,-85.71596443,84021171,US,USA,840,21171.0,monroe,"Monroe, Kentucky, US",0,0,0,0
@@ -533,6 +538,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.71225341,-85.71596443,84021171,US,USA,840,21171.0,monroe,"Monroe, Kentucky, US",3,0,0,0
 2020-04-18,us,kentucky,36.71225341,-85.71596443,84021171,US,USA,840,21171.0,monroe,"Monroe, Kentucky, US",3,0,0,0
 2020-04-19,us,kentucky,36.71225341,-85.71596443,84021171,US,USA,840,21171.0,monroe,"Monroe, Kentucky, US",3,0,0,0
+2020-04-20,us,kentucky,36.71225341,-85.71596443,84021171,US,USA,840,21171.0,monroe,"Monroe, Kentucky, US",3,0,0,0
 2020-01-22,us,kentucky,36.72292505,-88.65143315,84021083,US,USA,840,21083.0,graves,"Graves, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.72292505,-88.65143315,84021083,US,USA,840,21083.0,graves,"Graves, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.72292505,-88.65143315,84021083,US,USA,840,21083.0,graves,"Graves, Kentucky, US",0,0,0,0
@@ -622,6 +628,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.72292505,-88.65143315,84021083,US,USA,840,21083.0,graves,"Graves, Kentucky, US",28,4,2,1
 2020-04-18,us,kentucky,36.72292505,-88.65143315,84021083,US,USA,840,21083.0,graves,"Graves, Kentucky, US",41,13,2,0
 2020-04-19,us,kentucky,36.72292505,-88.65143315,84021083,US,USA,840,21083.0,graves,"Graves, Kentucky, US",51,10,2,0
+2020-04-20,us,kentucky,36.72292505,-88.65143315,84021083,US,USA,840,21083.0,graves,"Graves, Kentucky, US",63,12,3,1
 2020-01-22,us,kentucky,36.72581156,-85.13377529,84021053,US,USA,840,21053.0,clinton,"Clinton, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.72581156,-85.13377529,84021053,US,USA,840,21053.0,clinton,"Clinton, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.72581156,-85.13377529,84021053,US,USA,840,21053.0,clinton,"Clinton, Kentucky, US",0,0,0,0
@@ -711,6 +718,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.72581156,-85.13377529,84021053,US,USA,840,21053.0,clinton,"Clinton, Kentucky, US",2,0,0,0
 2020-04-18,us,kentucky,36.72581156,-85.13377529,84021053,US,USA,840,21053.0,clinton,"Clinton, Kentucky, US",2,0,0,0
 2020-04-19,us,kentucky,36.72581156,-85.13377529,84021053,US,USA,840,21053.0,clinton,"Clinton, Kentucky, US",2,0,0,0
+2020-04-20,us,kentucky,36.72581156,-85.13377529,84021053,US,USA,840,21053.0,clinton,"Clinton, Kentucky, US",2,0,0,0
 2020-01-22,us,kentucky,36.73355174,-83.67766671,84021013,US,USA,840,21013.0,bell,"Bell, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.73355174,-83.67766671,84021013,US,USA,840,21013.0,bell,"Bell, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.73355174,-83.67766671,84021013,US,USA,840,21013.0,bell,"Bell, Kentucky, US",0,0,0,0
@@ -800,6 +808,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.73355174,-83.67766671,84021013,US,USA,840,21013.0,bell,"Bell, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,36.73355174,-83.67766671,84021013,US,USA,840,21013.0,bell,"Bell, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,36.73355174,-83.67766671,84021013,US,USA,840,21013.0,bell,"Bell, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,36.73355174,-83.67766671,84021013,US,USA,840,21013.0,bell,"Bell, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,36.73874143,-84.48102924,84021147,US,USA,840,21147.0,mccreary,"McCreary, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.73874143,-84.48102924,84021147,US,USA,840,21147.0,mccreary,"McCreary, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.73874143,-84.48102924,84021147,US,USA,840,21147.0,mccreary,"McCreary, Kentucky, US",0,0,0,0
@@ -889,6 +898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.73874143,-84.48102924,84021147,US,USA,840,21147.0,mccreary,"McCreary, Kentucky, US",9,0,0,0
 2020-04-18,us,kentucky,36.73874143,-84.48102924,84021147,US,USA,840,21147.0,mccreary,"McCreary, Kentucky, US",9,0,0,0
 2020-04-19,us,kentucky,36.73874143,-84.48102924,84021147,US,USA,840,21147.0,mccreary,"McCreary, Kentucky, US",10,1,0,0
+2020-04-20,us,kentucky,36.73874143,-84.48102924,84021147,US,USA,840,21147.0,mccreary,"McCreary, Kentucky, US",10,0,0,0
 2020-01-22,us,kentucky,36.74058474,-86.58047435,84021213,US,USA,840,21213.0,simpson,"Simpson, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.74058474,-86.58047435,84021213,US,USA,840,21213.0,simpson,"Simpson, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.74058474,-86.58047435,84021213,US,USA,840,21213.0,simpson,"Simpson, Kentucky, US",0,0,0,0
@@ -978,6 +988,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.74058474,-86.58047435,84021213,US,USA,840,21213.0,simpson,"Simpson, Kentucky, US",20,1,2,0
 2020-04-18,us,kentucky,36.74058474,-86.58047435,84021213,US,USA,840,21213.0,simpson,"Simpson, Kentucky, US",21,1,2,0
 2020-04-19,us,kentucky,36.74058474,-86.58047435,84021213,US,USA,840,21213.0,simpson,"Simpson, Kentucky, US",21,0,2,0
+2020-04-20,us,kentucky,36.74058474,-86.58047435,84021213,US,USA,840,21213.0,simpson,"Simpson, Kentucky, US",21,0,2,0
 2020-01-22,us,kentucky,36.75197631,-86.19457544,84021003,US,USA,840,21003.0,allen,"Allen, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.75197631,-86.19457544,84021003,US,USA,840,21003.0,allen,"Allen, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.75197631,-86.19457544,84021003,US,USA,840,21003.0,allen,"Allen, Kentucky, US",0,0,0,0
@@ -1067,6 +1078,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.75197631,-86.19457544,84021003,US,USA,840,21003.0,allen,"Allen, Kentucky, US",4,1,0,0
 2020-04-18,us,kentucky,36.75197631,-86.19457544,84021003,US,USA,840,21003.0,allen,"Allen, Kentucky, US",4,0,0,0
 2020-04-19,us,kentucky,36.75197631,-86.19457544,84021003,US,USA,840,21003.0,allen,"Allen, Kentucky, US",4,0,0,0
+2020-04-20,us,kentucky,36.75197631,-86.19457544,84021003,US,USA,840,21003.0,allen,"Allen, Kentucky, US",4,0,0,0
 2020-01-22,us,kentucky,36.75700531,-84.14541217,84021235,US,USA,840,21235.0,whitley,"Whitley, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.75700531,-84.14541217,84021235,US,USA,840,21235.0,whitley,"Whitley, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.75700531,-84.14541217,84021235,US,USA,840,21235.0,whitley,"Whitley, Kentucky, US",0,0,0,0
@@ -1156,6 +1168,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.75700531,-84.14541217,84021235,US,USA,840,21235.0,whitley,"Whitley, Kentucky, US",8,1,0,0
 2020-04-18,us,kentucky,36.75700531,-84.14541217,84021235,US,USA,840,21235.0,whitley,"Whitley, Kentucky, US",8,0,0,0
 2020-04-19,us,kentucky,36.75700531,-84.14541217,84021235,US,USA,840,21235.0,whitley,"Whitley, Kentucky, US",8,0,0,0
+2020-04-20,us,kentucky,36.75700531,-84.14541217,84021235,US,USA,840,21235.0,whitley,"Whitley, Kentucky, US",8,0,0,0
 2020-01-22,us,kentucky,36.78926125,-85.39050034,84021057,US,USA,840,21057.0,cumberland,"Cumberland, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.78926125,-85.39050034,84021057,US,USA,840,21057.0,cumberland,"Cumberland, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.78926125,-85.39050034,84021057,US,USA,840,21057.0,cumberland,"Cumberland, Kentucky, US",0,0,0,0
@@ -1245,6 +1258,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.78926125,-85.39050034,84021057,US,USA,840,21057.0,cumberland,"Cumberland, Kentucky, US",2,0,0,0
 2020-04-18,us,kentucky,36.78926125,-85.39050034,84021057,US,USA,840,21057.0,cumberland,"Cumberland, Kentucky, US",2,0,0,0
 2020-04-19,us,kentucky,36.78926125,-85.39050034,84021057,US,USA,840,21057.0,cumberland,"Cumberland, Kentucky, US",3,1,0,0
+2020-04-20,us,kentucky,36.78926125,-85.39050034,84021057,US,USA,840,21057.0,cumberland,"Cumberland, Kentucky, US",3,0,0,0
 2020-01-22,us,kentucky,36.80310688,-84.8251971,84021231,US,USA,840,21231.0,wayne,"Wayne, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.80310688,-84.8251971,84021231,US,USA,840,21231.0,wayne,"Wayne, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.80310688,-84.8251971,84021231,US,USA,840,21231.0,wayne,"Wayne, Kentucky, US",0,0,0,0
@@ -1334,6 +1348,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.80310688,-84.8251971,84021231,US,USA,840,21231.0,wayne,"Wayne, Kentucky, US",6,0,0,0
 2020-04-18,us,kentucky,36.80310688,-84.8251971,84021231,US,USA,840,21231.0,wayne,"Wayne, Kentucky, US",6,0,0,0
 2020-04-19,us,kentucky,36.80310688,-84.8251971,84021231,US,USA,840,21231.0,wayne,"Wayne, Kentucky, US",6,0,0,0
+2020-04-20,us,kentucky,36.80310688,-84.8251971,84021231,US,USA,840,21231.0,wayne,"Wayne, Kentucky, US",6,0,0,0
 2020-01-22,us,kentucky,36.80767017,-87.87333656,84021221,US,USA,840,21221.0,trigg,"Trigg, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.80767017,-87.87333656,84021221,US,USA,840,21221.0,trigg,"Trigg, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.80767017,-87.87333656,84021221,US,USA,840,21221.0,trigg,"Trigg, Kentucky, US",0,0,0,0
@@ -1423,6 +1438,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.80767017,-87.87333656,84021221,US,USA,840,21221.0,trigg,"Trigg, Kentucky, US",4,0,0,0
 2020-04-18,us,kentucky,36.80767017,-87.87333656,84021221,US,USA,840,21221.0,trigg,"Trigg, Kentucky, US",4,0,0,0
 2020-04-19,us,kentucky,36.80767017,-87.87333656,84021221,US,USA,840,21221.0,trigg,"Trigg, Kentucky, US",4,0,0,0
+2020-04-20,us,kentucky,36.80767017,-87.87333656,84021221,US,USA,840,21221.0,trigg,"Trigg, Kentucky, US",4,0,0,0
 2020-01-22,us,kentucky,36.8381152,-87.17878374,84021219,US,USA,840,21219.0,todd,"Todd, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.8381152,-87.17878374,84021219,US,USA,840,21219.0,todd,"Todd, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.8381152,-87.17878374,84021219,US,USA,840,21219.0,todd,"Todd, Kentucky, US",0,0,0,0
@@ -1512,6 +1528,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.8381152,-87.17878374,84021219,US,USA,840,21219.0,todd,"Todd, Kentucky, US",9,-1,0,0
 2020-04-18,us,kentucky,36.8381152,-87.17878374,84021219,US,USA,840,21219.0,todd,"Todd, Kentucky, US",11,2,0,0
 2020-04-19,us,kentucky,36.8381152,-87.17878374,84021219,US,USA,840,21219.0,todd,"Todd, Kentucky, US",9,-2,0,0
+2020-04-20,us,kentucky,36.8381152,-87.17878374,84021219,US,USA,840,21219.0,todd,"Todd, Kentucky, US",9,0,0,0
 2020-01-22,us,kentucky,36.85372876,-88.96692220000001,84021039,US,USA,840,21039.0,carlisle,"Carlisle, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.85372876,-88.96692220000001,84021039,US,USA,840,21039.0,carlisle,"Carlisle, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.85372876,-88.96692220000001,84021039,US,USA,840,21039.0,carlisle,"Carlisle, Kentucky, US",0,0,0,0
@@ -1601,6 +1618,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.85372876,-88.96692220000001,84021039,US,USA,840,21039.0,carlisle,"Carlisle, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,36.85372876,-88.96692220000001,84021039,US,USA,840,21039.0,carlisle,"Carlisle, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,36.85372876,-88.96692220000001,84021039,US,USA,840,21039.0,carlisle,"Carlisle, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,36.85372876,-88.96692220000001,84021039,US,USA,840,21039.0,carlisle,"Carlisle, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,36.85699301,-83.21899516,84021095,US,USA,840,21095.0,harlan,"Harlan, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.85699301,-83.21899516,84021095,US,USA,840,21095.0,harlan,"Harlan, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.85699301,-83.21899516,84021095,US,USA,840,21095.0,harlan,"Harlan, Kentucky, US",0,0,0,0
@@ -1690,6 +1708,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.85699301,-83.21899516,84021095,US,USA,840,21095.0,harlan,"Harlan, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,36.85699301,-83.21899516,84021095,US,USA,840,21095.0,harlan,"Harlan, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,36.85699301,-83.21899516,84021095,US,USA,840,21095.0,harlan,"Harlan, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,36.85699301,-83.21899516,84021095,US,USA,840,21095.0,harlan,"Harlan, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,36.85949479,-86.877635,84021141,US,USA,840,21141.0,logan,"Logan, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.85949479,-86.877635,84021141,US,USA,840,21141.0,logan,"Logan, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.85949479,-86.877635,84021141,US,USA,840,21141.0,logan,"Logan, Kentucky, US",0,0,0,0
@@ -1779,6 +1798,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.85949479,-86.877635,84021141,US,USA,840,21141.0,logan,"Logan, Kentucky, US",8,-1,0,0
 2020-04-18,us,kentucky,36.85949479,-86.877635,84021141,US,USA,840,21141.0,logan,"Logan, Kentucky, US",8,0,0,0
 2020-04-19,us,kentucky,36.85949479,-86.877635,84021141,US,USA,840,21141.0,logan,"Logan, Kentucky, US",8,0,0,0
+2020-04-20,us,kentucky,36.85949479,-86.877635,84021141,US,USA,840,21141.0,logan,"Logan, Kentucky, US",8,0,0,0
 2020-01-22,us,kentucky,36.88007070000001,-88.32803576,84021157,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.88007070000001,-88.32803576,84021157,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.88007070000001,-88.32803576,84021157,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",0,0,0,0
@@ -1868,6 +1888,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.88007070000001,-88.32803576,84021157,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",12,0,0,0
 2020-04-18,us,kentucky,36.88007070000001,-88.32803576,84021157,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",12,0,0,0
 2020-04-19,us,kentucky,36.88007070000001,-88.32803576,84021157,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",12,0,0,0
+2020-04-20,us,kentucky,36.88007070000001,-88.32803576,84021157,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",14,2,0,0
 2020-01-22,us,kentucky,36.89225732,-83.85403396,84021121,US,USA,840,21121.0,knox,"Knox, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.89225732,-83.85403396,84021121,US,USA,840,21121.0,knox,"Knox, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.89225732,-83.85403396,84021121,US,USA,840,21121.0,knox,"Knox, Kentucky, US",0,0,0,0
@@ -1957,6 +1978,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.89225732,-83.85403396,84021121,US,USA,840,21121.0,knox,"Knox, Kentucky, US",4,1,0,0
 2020-04-18,us,kentucky,36.89225732,-83.85403396,84021121,US,USA,840,21121.0,knox,"Knox, Kentucky, US",4,0,0,0
 2020-04-19,us,kentucky,36.89225732,-83.85403396,84021121,US,USA,840,21121.0,knox,"Knox, Kentucky, US",5,1,0,0
+2020-04-20,us,kentucky,36.89225732,-83.85403396,84021121,US,USA,840,21121.0,knox,"Knox, Kentucky, US",5,0,0,0
 2020-01-22,us,kentucky,36.89267803,-87.49055367,84021047,US,USA,840,21047.0,christian,"Christian, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.89267803,-87.49055367,84021047,US,USA,840,21047.0,christian,"Christian, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.89267803,-87.49055367,84021047,US,USA,840,21047.0,christian,"Christian, Kentucky, US",0,0,0,0
@@ -2046,6 +2068,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.89267803,-87.49055367,84021047,US,USA,840,21047.0,christian,"Christian, Kentucky, US",78,6,3,0
 2020-04-18,us,kentucky,36.89267803,-87.49055367,84021047,US,USA,840,21047.0,christian,"Christian, Kentucky, US",79,1,3,0
 2020-04-19,us,kentucky,36.89267803,-87.49055367,84021047,US,USA,840,21047.0,christian,"Christian, Kentucky, US",79,0,3,0
+2020-04-20,us,kentucky,36.89267803,-87.49055367,84021047,US,USA,840,21047.0,christian,"Christian, Kentucky, US",79,0,3,0
 2020-01-22,us,kentucky,36.96469836,-85.93338945,84021009,US,USA,840,21009.0,barren,"Barren, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.96469836,-85.93338945,84021009,US,USA,840,21009.0,barren,"Barren, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.96469836,-85.93338945,84021009,US,USA,840,21009.0,barren,"Barren, Kentucky, US",0,0,0,0
@@ -2135,6 +2158,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.96469836,-85.93338945,84021009,US,USA,840,21009.0,barren,"Barren, Kentucky, US",6,0,0,0
 2020-04-18,us,kentucky,36.96469836,-85.93338945,84021009,US,USA,840,21009.0,barren,"Barren, Kentucky, US",6,0,0,0
 2020-04-19,us,kentucky,36.96469836,-85.93338945,84021009,US,USA,840,21009.0,barren,"Barren, Kentucky, US",6,0,0,0
+2020-04-20,us,kentucky,36.96469836,-85.93338945,84021009,US,USA,840,21009.0,barren,"Barren, Kentucky, US",6,0,0,0
 2020-01-22,us,kentucky,36.99308373,-85.06070117,84021207,US,USA,840,21207.0,russell,"Russell, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.99308373,-85.06070117,84021207,US,USA,840,21207.0,russell,"Russell, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.99308373,-85.06070117,84021207,US,USA,840,21207.0,russell,"Russell, Kentucky, US",0,0,0,0
@@ -2224,6 +2248,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.99308373,-85.06070117,84021207,US,USA,840,21207.0,russell,"Russell, Kentucky, US",11,-1,2,2
 2020-04-18,us,kentucky,36.99308373,-85.06070117,84021207,US,USA,840,21207.0,russell,"Russell, Kentucky, US",12,1,2,0
 2020-04-19,us,kentucky,36.99308373,-85.06070117,84021207,US,USA,840,21207.0,russell,"Russell, Kentucky, US",15,3,2,0
+2020-04-20,us,kentucky,36.99308373,-85.06070117,84021207,US,USA,840,21207.0,russell,"Russell, Kentucky, US",15,0,2,0
 2020-01-22,us,kentucky,36.99459295,-85.63123699,84021169,US,USA,840,21169.0,metcalfe,"Metcalfe, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.99459295,-85.63123699,84021169,US,USA,840,21169.0,metcalfe,"Metcalfe, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.99459295,-85.63123699,84021169,US,USA,840,21169.0,metcalfe,"Metcalfe, Kentucky, US",0,0,0,0
@@ -2313,6 +2338,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.99459295,-85.63123699,84021169,US,USA,840,21169.0,metcalfe,"Metcalfe, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,36.99459295,-85.63123699,84021169,US,USA,840,21169.0,metcalfe,"Metcalfe, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,36.99459295,-85.63123699,84021169,US,USA,840,21169.0,metcalfe,"Metcalfe, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,36.99459295,-85.63123699,84021169,US,USA,840,21169.0,metcalfe,"Metcalfe, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,36.99903045,-86.42672751,84021227,US,USA,840,21227.0,warren,"Warren, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,36.99903045,-86.42672751,84021227,US,USA,840,21227.0,warren,"Warren, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,36.99903045,-86.42672751,84021227,US,USA,840,21227.0,warren,"Warren, Kentucky, US",0,0,0,0
@@ -2402,6 +2428,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,36.99903045,-86.42672751,84021227,US,USA,840,21227.0,warren,"Warren, Kentucky, US",71,0,0,0
 2020-04-18,us,kentucky,36.99903045,-86.42672751,84021227,US,USA,840,21227.0,warren,"Warren, Kentucky, US",87,16,0,0
 2020-04-19,us,kentucky,36.99903045,-86.42672751,84021227,US,USA,840,21227.0,warren,"Warren, Kentucky, US",95,8,0,0
+2020-04-20,us,kentucky,36.99903045,-86.42672751,84021227,US,USA,840,21227.0,warren,"Warren, Kentucky, US",101,6,0,0
 2020-01-22,us,kentucky,37.02080035,-88.07886257,84021143,US,USA,840,21143.0,lyon,"Lyon, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.02080035,-88.07886257,84021143,US,USA,840,21143.0,lyon,"Lyon, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.02080035,-88.07886257,84021143,US,USA,840,21143.0,lyon,"Lyon, Kentucky, US",0,0,0,0
@@ -2491,6 +2518,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.02080035,-88.07886257,84021143,US,USA,840,21143.0,lyon,"Lyon, Kentucky, US",13,0,2,0
 2020-04-18,us,kentucky,37.02080035,-88.07886257,84021143,US,USA,840,21143.0,lyon,"Lyon, Kentucky, US",13,0,2,0
 2020-04-19,us,kentucky,37.02080035,-88.07886257,84021143,US,USA,840,21143.0,lyon,"Lyon, Kentucky, US",13,0,2,0
+2020-04-20,us,kentucky,37.02080035,-88.07886257,84021143,US,USA,840,21143.0,lyon,"Lyon, Kentucky, US",13,0,2,0
 2020-01-22,us,kentucky,37.05350953,-88.70445755,84021145,US,USA,840,21145.0,mccracken,"McCracken, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.05350953,-88.70445755,84021145,US,USA,840,21145.0,mccracken,"McCracken, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.05350953,-88.70445755,84021145,US,USA,840,21145.0,mccracken,"McCracken, Kentucky, US",0,0,0,0
@@ -2580,6 +2608,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.05350953,-88.70445755,84021145,US,USA,840,21145.0,mccracken,"McCracken, Kentucky, US",27,-1,2,0
 2020-04-18,us,kentucky,37.05350953,-88.70445755,84021145,US,USA,840,21145.0,mccracken,"McCracken, Kentucky, US",29,2,2,0
 2020-04-19,us,kentucky,37.05350953,-88.70445755,84021145,US,USA,840,21145.0,mccracken,"McCracken, Kentucky, US",29,0,2,0
+2020-04-20,us,kentucky,37.05350953,-88.70445755,84021145,US,USA,840,21145.0,mccracken,"McCracken, Kentucky, US",29,0,2,0
 2020-01-22,us,kentucky,37.05842757,-88.99427697,84021007,US,USA,840,21007.0,ballard,"Ballard, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.05842757,-88.99427697,84021007,US,USA,840,21007.0,ballard,"Ballard, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.05842757,-88.99427697,84021007,US,USA,840,21007.0,ballard,"Ballard, Kentucky, US",0,0,0,0
@@ -2669,6 +2698,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.05842757,-88.99427697,84021007,US,USA,840,21007.0,ballard,"Ballard, Kentucky, US",3,-1,0,0
 2020-04-18,us,kentucky,37.05842757,-88.99427697,84021007,US,USA,840,21007.0,ballard,"Ballard, Kentucky, US",3,0,0,0
 2020-04-19,us,kentucky,37.05842757,-88.99427697,84021007,US,USA,840,21007.0,ballard,"Ballard, Kentucky, US",4,1,0,0
+2020-04-20,us,kentucky,37.05842757,-88.99427697,84021007,US,USA,840,21007.0,ballard,"Ballard, Kentucky, US",4,0,0,0
 2020-01-22,us,kentucky,37.09246661,-83.37999606,84021131,US,USA,840,21131.0,leslie,"Leslie, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.09246661,-83.37999606,84021131,US,USA,840,21131.0,leslie,"Leslie, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.09246661,-83.37999606,84021131,US,USA,840,21131.0,leslie,"Leslie, Kentucky, US",0,0,0,0
@@ -2758,6 +2788,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.09246661,-83.37999606,84021131,US,USA,840,21131.0,leslie,"Leslie, Kentucky, US",2,0,0,0
 2020-04-18,us,kentucky,37.09246661,-83.37999606,84021131,US,USA,840,21131.0,leslie,"Leslie, Kentucky, US",2,0,0,0
 2020-04-19,us,kentucky,37.09246661,-83.37999606,84021131,US,USA,840,21131.0,leslie,"Leslie, Kentucky, US",2,0,0,0
+2020-04-20,us,kentucky,37.09246661,-83.37999606,84021131,US,USA,840,21131.0,leslie,"Leslie, Kentucky, US",2,0,0,0
 2020-01-22,us,kentucky,37.10459774,-85.28129668,84021001,US,USA,840,21001.0,adair,"Adair, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.10459774,-85.28129668,84021001,US,USA,840,21001.0,adair,"Adair, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.10459774,-85.28129668,84021001,US,USA,840,21001.0,adair,"Adair, Kentucky, US",0,0,0,0
@@ -2847,6 +2878,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.10459774,-85.28129668,84021001,US,USA,840,21001.0,adair,"Adair, Kentucky, US",45,0,3,0
 2020-04-18,us,kentucky,37.10459774,-85.28129668,84021001,US,USA,840,21001.0,adair,"Adair, Kentucky, US",47,2,3,0
 2020-04-19,us,kentucky,37.10459774,-85.28129668,84021001,US,USA,840,21001.0,adair,"Adair, Kentucky, US",53,6,3,0
+2020-04-20,us,kentucky,37.10459774,-85.28129668,84021001,US,USA,840,21001.0,adair,"Adair, Kentucky, US",54,1,4,1
 2020-01-22,us,kentucky,37.10466131,-84.57629079,84021199,US,USA,840,21199.0,pulaski,"Pulaski, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.10466131,-84.57629079,84021199,US,USA,840,21199.0,pulaski,"Pulaski, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.10466131,-84.57629079,84021199,US,USA,840,21199.0,pulaski,"Pulaski, Kentucky, US",0,0,0,0
@@ -2936,6 +2968,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.10466131,-84.57629079,84021199,US,USA,840,21199.0,pulaski,"Pulaski, Kentucky, US",34,1,2,0
 2020-04-18,us,kentucky,37.10466131,-84.57629079,84021199,US,USA,840,21199.0,pulaski,"Pulaski, Kentucky, US",35,1,2,0
 2020-04-19,us,kentucky,37.10466131,-84.57629079,84021199,US,USA,840,21199.0,pulaski,"Pulaski, Kentucky, US",35,0,2,0
+2020-04-20,us,kentucky,37.10466131,-84.57629079,84021199,US,USA,840,21199.0,pulaski,"Pulaski, Kentucky, US",35,0,2,0
 2020-01-22,us,kentucky,37.10975748,-84.11321779,84021125,US,USA,840,21125.0,laurel,"Laurel, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.10975748,-84.11321779,84021125,US,USA,840,21125.0,laurel,"Laurel, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.10975748,-84.11321779,84021125,US,USA,840,21125.0,laurel,"Laurel, Kentucky, US",0,0,0,0
@@ -3025,6 +3058,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.10975748,-84.11321779,84021125,US,USA,840,21125.0,laurel,"Laurel, Kentucky, US",13,1,2,0
 2020-04-18,us,kentucky,37.10975748,-84.11321779,84021125,US,USA,840,21125.0,laurel,"Laurel, Kentucky, US",13,0,2,0
 2020-04-19,us,kentucky,37.10975748,-84.11321779,84021125,US,USA,840,21125.0,laurel,"Laurel, Kentucky, US",13,0,2,0
+2020-04-20,us,kentucky,37.10975748,-84.11321779,84021125,US,USA,840,21125.0,laurel,"Laurel, Kentucky, US",13,0,2,0
 2020-01-22,us,kentucky,37.12306748,-82.85346474,84021133,US,USA,840,21133.0,letcher,"Letcher, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.12306748,-82.85346474,84021133,US,USA,840,21133.0,letcher,"Letcher, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.12306748,-82.85346474,84021133,US,USA,840,21133.0,letcher,"Letcher, Kentucky, US",0,0,0,0
@@ -3114,6 +3148,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.12306748,-82.85346474,84021133,US,USA,840,21133.0,letcher,"Letcher, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,37.12306748,-82.85346474,84021133,US,USA,840,21133.0,letcher,"Letcher, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,37.12306748,-82.85346474,84021133,US,USA,840,21133.0,letcher,"Letcher, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,37.12306748,-82.85346474,84021133,US,USA,840,21133.0,letcher,"Letcher, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,37.14749129,-87.86948214,84021033,US,USA,840,21033.0,caldwell,"Caldwell, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.14749129,-87.86948214,84021033,US,USA,840,21033.0,caldwell,"Caldwell, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.14749129,-87.86948214,84021033,US,USA,840,21033.0,caldwell,"Caldwell, Kentucky, US",0,0,0,0
@@ -3203,6 +3238,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.14749129,-87.86948214,84021033,US,USA,840,21033.0,caldwell,"Caldwell, Kentucky, US",11,1,0,0
 2020-04-18,us,kentucky,37.14749129,-87.86948214,84021033,US,USA,840,21033.0,caldwell,"Caldwell, Kentucky, US",11,0,0,0
 2020-04-19,us,kentucky,37.14749129,-87.86948214,84021033,US,USA,840,21033.0,caldwell,"Caldwell, Kentucky, US",11,0,0,0
+2020-04-20,us,kentucky,37.14749129,-87.86948214,84021033,US,USA,840,21033.0,caldwell,"Caldwell, Kentucky, US",11,0,0,0
 2020-01-22,us,kentucky,37.16451126,-83.712575,84021051,US,USA,840,21051.0,clay,"Clay, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.16451126,-83.712575,84021051,US,USA,840,21051.0,clay,"Clay, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.16451126,-83.712575,84021051,US,USA,840,21051.0,clay,"Clay, Kentucky, US",0,0,0,0
@@ -3292,6 +3328,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.16451126,-83.712575,84021051,US,USA,840,21051.0,clay,"Clay, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,37.16451126,-83.712575,84021051,US,USA,840,21051.0,clay,"Clay, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,37.16451126,-83.712575,84021051,US,USA,840,21051.0,clay,"Clay, Kentucky, US",1,1,0,0
+2020-04-20,us,kentucky,37.16451126,-83.712575,84021051,US,USA,840,21051.0,clay,"Clay, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,37.20946153,-86.68748787,84021031,US,USA,840,21031.0,butler,"Butler, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.20946153,-86.68748787,84021031,US,USA,840,21031.0,butler,"Butler, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.20946153,-86.68748787,84021031,US,USA,840,21031.0,butler,"Butler, Kentucky, US",0,0,0,0
@@ -3381,6 +3418,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.20946153,-86.68748787,84021031,US,USA,840,21031.0,butler,"Butler, Kentucky, US",51,24,1,0
 2020-04-18,us,kentucky,37.20946153,-86.68748787,84021031,US,USA,840,21031.0,butler,"Butler, Kentucky, US",62,11,2,1
 2020-04-19,us,kentucky,37.20946153,-86.68748787,84021031,US,USA,840,21031.0,butler,"Butler, Kentucky, US",73,11,2,0
+2020-04-20,us,kentucky,37.20946153,-86.68748787,84021031,US,USA,840,21031.0,butler,"Butler, Kentucky, US",72,-1,2,0
 2020-01-22,us,kentucky,37.21137452,-88.34797529,84021139,US,USA,840,21139.0,livingston,"Livingston, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.21137452,-88.34797529,84021139,US,USA,840,21139.0,livingston,"Livingston, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.21137452,-88.34797529,84021139,US,USA,840,21139.0,livingston,"Livingston, Kentucky, US",0,0,0,0
@@ -3470,6 +3508,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.21137452,-88.34797529,84021139,US,USA,840,21139.0,livingston,"Livingston, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,37.21137452,-88.34797529,84021139,US,USA,840,21139.0,livingston,"Livingston, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,37.21137452,-88.34797529,84021139,US,USA,840,21139.0,livingston,"Livingston, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,37.21137452,-88.34797529,84021139,US,USA,840,21139.0,livingston,"Livingston, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,37.21218923,-86.23955613,84021061,US,USA,840,21061.0,edmonson,"Edmonson, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.21218923,-86.23955613,84021061,US,USA,840,21061.0,edmonson,"Edmonson, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.21218923,-86.23955613,84021061,US,USA,840,21061.0,edmonson,"Edmonson, Kentucky, US",0,0,0,0
@@ -3559,6 +3598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.21218923,-86.23955613,84021061,US,USA,840,21061.0,edmonson,"Edmonson, Kentucky, US",7,0,0,0
 2020-04-18,us,kentucky,37.21218923,-86.23955613,84021061,US,USA,840,21061.0,edmonson,"Edmonson, Kentucky, US",7,0,0,0
 2020-04-19,us,kentucky,37.21218923,-86.23955613,84021061,US,USA,840,21061.0,edmonson,"Edmonson, Kentucky, US",7,0,0,0
+2020-04-20,us,kentucky,37.21218923,-86.23955613,84021061,US,USA,840,21061.0,edmonson,"Edmonson, Kentucky, US",7,0,0,0
 2020-01-22,us,kentucky,37.21425819,-87.14632053,84021177,US,USA,840,21177.0,muhlenberg,"Muhlenberg, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.21425819,-87.14632053,84021177,US,USA,840,21177.0,muhlenberg,"Muhlenberg, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.21425819,-87.14632053,84021177,US,USA,840,21177.0,muhlenberg,"Muhlenberg, Kentucky, US",0,0,0,0
@@ -3648,6 +3688,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.21425819,-87.14632053,84021177,US,USA,840,21177.0,muhlenberg,"Muhlenberg, Kentucky, US",54,-1,2,0
 2020-04-18,us,kentucky,37.21425819,-87.14632053,84021177,US,USA,840,21177.0,muhlenberg,"Muhlenberg, Kentucky, US",58,4,2,0
 2020-04-19,us,kentucky,37.21425819,-87.14632053,84021177,US,USA,840,21177.0,muhlenberg,"Muhlenberg, Kentucky, US",75,17,2,0
+2020-04-20,us,kentucky,37.21425819,-87.14632053,84021177,US,USA,840,21177.0,muhlenberg,"Muhlenberg, Kentucky, US",76,1,2,0
 2020-01-22,us,kentucky,37.25023553,-83.22922731,84021193,US,USA,840,21193.0,perry,"Perry, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.25023553,-83.22922731,84021193,US,USA,840,21193.0,perry,"Perry, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.25023553,-83.22922731,84021193,US,USA,840,21193.0,perry,"Perry, Kentucky, US",0,0,0,0
@@ -3737,6 +3778,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.25023553,-83.22922731,84021193,US,USA,840,21193.0,perry,"Perry, Kentucky, US",4,0,0,0
 2020-04-18,us,kentucky,37.25023553,-83.22922731,84021193,US,USA,840,21193.0,perry,"Perry, Kentucky, US",4,0,0,0
 2020-04-19,us,kentucky,37.25023553,-83.22922731,84021193,US,USA,840,21193.0,perry,"Perry, Kentucky, US",4,0,0,0
+2020-04-20,us,kentucky,37.25023553,-83.22922731,84021193,US,USA,840,21193.0,perry,"Perry, Kentucky, US",4,0,0,0
 2020-01-22,us,kentucky,37.26484328,-85.5540745,84021087,US,USA,840,21087.0,green,"Green, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.26484328,-85.5540745,84021087,US,USA,840,21087.0,green,"Green, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.26484328,-85.5540745,84021087,US,USA,840,21087.0,green,"Green, Kentucky, US",0,0,0,0
@@ -3826,6 +3868,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.26484328,-85.5540745,84021087,US,USA,840,21087.0,green,"Green, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,37.26484328,-85.5540745,84021087,US,USA,840,21087.0,green,"Green, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,37.26484328,-85.5540745,84021087,US,USA,840,21087.0,green,"Green, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,37.26484328,-85.5540745,84021087,US,USA,840,21087.0,green,"Green, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,37.29943898,-85.88461055,84021099,US,USA,840,21099.0,hart,"Hart, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.29943898,-85.88461055,84021099,US,USA,840,21099.0,hart,"Hart, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.29943898,-85.88461055,84021099,US,USA,840,21099.0,hart,"Hart, Kentucky, US",0,0,0,0
@@ -3915,6 +3958,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.29943898,-85.88461055,84021099,US,USA,840,21099.0,hart,"Hart, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,37.29943898,-85.88461055,84021099,US,USA,840,21099.0,hart,"Hart, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,37.29943898,-85.88461055,84021099,US,USA,840,21099.0,hart,"Hart, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,37.29943898,-85.88461055,84021099,US,USA,840,21099.0,hart,"Hart, Kentucky, US",2,1,0,0
 2020-01-22,us,kentucky,37.30939025,-87.54670406,84021107,US,USA,840,21107.0,hopkins,"Hopkins, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.30939025,-87.54670406,84021107,US,USA,840,21107.0,hopkins,"Hopkins, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.30939025,-87.54670406,84021107,US,USA,840,21107.0,hopkins,"Hopkins, Kentucky, US",0,0,0,0
@@ -4004,6 +4048,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.30939025,-87.54670406,84021107,US,USA,840,21107.0,hopkins,"Hopkins, Kentucky, US",104,7,9,0
 2020-04-18,us,kentucky,37.30939025,-87.54670406,84021107,US,USA,840,21107.0,hopkins,"Hopkins, Kentucky, US",109,5,9,0
 2020-04-19,us,kentucky,37.30939025,-87.54670406,84021107,US,USA,840,21107.0,hopkins,"Hopkins, Kentucky, US",111,2,10,1
+2020-04-20,us,kentucky,37.30939025,-87.54670406,84021107,US,USA,840,21107.0,hopkins,"Hopkins, Kentucky, US",112,1,11,1
 2020-01-22,us,kentucky,37.32533118,-84.92726209,84021045,US,USA,840,21045.0,casey,"Casey, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.32533118,-84.92726209,84021045,US,USA,840,21045.0,casey,"Casey, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.32533118,-84.92726209,84021045,US,USA,840,21045.0,casey,"Casey, Kentucky, US",0,0,0,0
@@ -4093,6 +4138,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.32533118,-84.92726209,84021045,US,USA,840,21045.0,casey,"Casey, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,37.32533118,-84.92726209,84021045,US,USA,840,21045.0,casey,"Casey, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,37.32533118,-84.92726209,84021045,US,USA,840,21045.0,casey,"Casey, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,37.32533118,-84.92726209,84021045,US,USA,840,21045.0,casey,"Casey, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,37.35388197,-82.94981134,84021119,US,USA,840,21119.0,knott,"Knott, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.35388197,-82.94981134,84021119,US,USA,840,21119.0,knott,"Knott, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.35388197,-82.94981134,84021119,US,USA,840,21119.0,knott,"Knott, Kentucky, US",0,0,0,0
@@ -4182,6 +4228,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.35388197,-82.94981134,84021119,US,USA,840,21119.0,knott,"Knott, Kentucky, US",2,1,0,0
 2020-04-18,us,kentucky,37.35388197,-82.94981134,84021119,US,USA,840,21119.0,knott,"Knott, Kentucky, US",3,1,0,0
 2020-04-19,us,kentucky,37.35388197,-82.94981134,84021119,US,USA,840,21119.0,knott,"Knott, Kentucky, US",3,0,0,0
+2020-04-20,us,kentucky,37.35388197,-82.94981134,84021119,US,USA,840,21119.0,knott,"Knott, Kentucky, US",3,0,0,0
 2020-01-22,us,kentucky,37.35839237,-88.08826090000002,84021055,US,USA,840,21055.0,crittenden,"Crittenden, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.35839237,-88.08826090000002,84021055,US,USA,840,21055.0,crittenden,"Crittenden, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.35839237,-88.08826090000002,84021055,US,USA,840,21055.0,crittenden,"Crittenden, Kentucky, US",0,0,0,0
@@ -4271,6 +4318,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.35839237,-88.08826090000002,84021055,US,USA,840,21055.0,crittenden,"Crittenden, Kentucky, US",3,0,0,0
 2020-04-18,us,kentucky,37.35839237,-88.08826090000002,84021055,US,USA,840,21055.0,crittenden,"Crittenden, Kentucky, US",3,0,0,0
 2020-04-19,us,kentucky,37.35839237,-88.08826090000002,84021055,US,USA,840,21055.0,crittenden,"Crittenden, Kentucky, US",3,0,0,0
+2020-04-20,us,kentucky,37.35839237,-88.08826090000002,84021055,US,USA,840,21055.0,crittenden,"Crittenden, Kentucky, US",3,0,1,1
 2020-01-22,us,kentucky,37.36642393,-84.31176452,84021203,US,USA,840,21203.0,rockcastle,"Rockcastle, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.36642393,-84.31176452,84021203,US,USA,840,21203.0,rockcastle,"Rockcastle, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.36642393,-84.31176452,84021203,US,USA,840,21203.0,rockcastle,"Rockcastle, Kentucky, US",0,0,0,0
@@ -4360,6 +4408,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.36642393,-84.31176452,84021203,US,USA,840,21203.0,rockcastle,"Rockcastle, Kentucky, US",11,0,0,0
 2020-04-18,us,kentucky,37.36642393,-84.31176452,84021203,US,USA,840,21203.0,rockcastle,"Rockcastle, Kentucky, US",11,0,0,0
 2020-04-19,us,kentucky,37.36642393,-84.31176452,84021203,US,USA,840,21203.0,rockcastle,"Rockcastle, Kentucky, US",11,0,0,0
+2020-04-20,us,kentucky,37.36642393,-84.31176452,84021203,US,USA,840,21203.0,rockcastle,"Rockcastle, Kentucky, US",11,0,0,0
 2020-01-22,us,kentucky,37.3677562,-85.3329931,84021217,US,USA,840,21217.0,taylor,"Taylor, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.3677562,-85.3329931,84021217,US,USA,840,21217.0,taylor,"Taylor, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.3677562,-85.3329931,84021217,US,USA,840,21217.0,taylor,"Taylor, Kentucky, US",0,0,0,0
@@ -4449,6 +4498,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.3677562,-85.3329931,84021217,US,USA,840,21217.0,taylor,"Taylor, Kentucky, US",4,0,0,0
 2020-04-18,us,kentucky,37.3677562,-85.3329931,84021217,US,USA,840,21217.0,taylor,"Taylor, Kentucky, US",5,1,0,0
 2020-04-19,us,kentucky,37.3677562,-85.3329931,84021217,US,USA,840,21217.0,taylor,"Taylor, Kentucky, US",5,0,0,0
+2020-04-20,us,kentucky,37.3677562,-85.3329931,84021217,US,USA,840,21217.0,taylor,"Taylor, Kentucky, US",4,-1,0,0
 2020-01-22,us,kentucky,37.41866422,-83.99825483,84021109,US,USA,840,21109.0,jackson,"Jackson, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.41866422,-83.99825483,84021109,US,USA,840,21109.0,jackson,"Jackson, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.41866422,-83.99825483,84021109,US,USA,840,21109.0,jackson,"Jackson, Kentucky, US",0,0,0,0
@@ -4538,6 +4588,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.41866422,-83.99825483,84021109,US,USA,840,21109.0,jackson,"Jackson, Kentucky, US",43,6,2,0
 2020-04-18,us,kentucky,37.41866422,-83.99825483,84021109,US,USA,840,21109.0,jackson,"Jackson, Kentucky, US",43,0,2,0
 2020-04-19,us,kentucky,37.41866422,-83.99825483,84021109,US,USA,840,21109.0,jackson,"Jackson, Kentucky, US",55,12,3,1
+2020-04-20,us,kentucky,37.41866422,-83.99825483,84021109,US,USA,840,21109.0,jackson,"Jackson, Kentucky, US",57,2,3,0
 2020-01-22,us,kentucky,37.42823949,-83.68811419,84021189,US,USA,840,21189.0,owsley,"Owsley, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.42823949,-83.68811419,84021189,US,USA,840,21189.0,owsley,"Owsley, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.42823949,-83.68811419,84021189,US,USA,840,21189.0,owsley,"Owsley, Kentucky, US",0,0,0,0
@@ -4627,6 +4678,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.42823949,-83.68811419,84021189,US,USA,840,21189.0,owsley,"Owsley, Kentucky, US",2,0,0,0
 2020-04-18,us,kentucky,37.42823949,-83.68811419,84021189,US,USA,840,21189.0,owsley,"Owsley, Kentucky, US",2,0,0,0
 2020-04-19,us,kentucky,37.42823949,-83.68811419,84021189,US,USA,840,21189.0,owsley,"Owsley, Kentucky, US",2,0,0,0
+2020-04-20,us,kentucky,37.42823949,-83.68811419,84021189,US,USA,840,21189.0,owsley,"Owsley, Kentucky, US",2,0,0,0
 2020-01-22,us,kentucky,37.45475628,-84.6565327,84021137,US,USA,840,21137.0,lincoln,"Lincoln, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.45475628,-84.6565327,84021137,US,USA,840,21137.0,lincoln,"Lincoln, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.45475628,-84.6565327,84021137,US,USA,840,21137.0,lincoln,"Lincoln, Kentucky, US",0,0,0,0
@@ -4716,6 +4768,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.45475628,-84.6565327,84021137,US,USA,840,21137.0,lincoln,"Lincoln, Kentucky, US",4,1,1,0
 2020-04-18,us,kentucky,37.45475628,-84.6565327,84021137,US,USA,840,21137.0,lincoln,"Lincoln, Kentucky, US",4,0,1,0
 2020-04-19,us,kentucky,37.45475628,-84.6565327,84021137,US,USA,840,21137.0,lincoln,"Lincoln, Kentucky, US",4,0,1,0
+2020-04-20,us,kentucky,37.45475628,-84.6565327,84021137,US,USA,840,21137.0,lincoln,"Lincoln, Kentucky, US",4,0,1,0
 2020-01-22,us,kentucky,37.46231118,-86.34248968,84021085,US,USA,840,21085.0,grayson,"Grayson, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.46231118,-86.34248968,84021085,US,USA,840,21085.0,grayson,"Grayson, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.46231118,-86.34248968,84021085,US,USA,840,21085.0,grayson,"Grayson, Kentucky, US",0,0,0,0
@@ -4805,6 +4858,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.46231118,-86.34248968,84021085,US,USA,840,21085.0,grayson,"Grayson, Kentucky, US",8,2,0,0
 2020-04-18,us,kentucky,37.46231118,-86.34248968,84021085,US,USA,840,21085.0,grayson,"Grayson, Kentucky, US",8,0,0,0
 2020-04-19,us,kentucky,37.46231118,-86.34248968,84021085,US,USA,840,21085.0,grayson,"Grayson, Kentucky, US",14,6,0,0
+2020-04-20,us,kentucky,37.46231118,-86.34248968,84021085,US,USA,840,21085.0,grayson,"Grayson, Kentucky, US",16,2,1,1
 2020-01-22,us,kentucky,37.47088263,-82.39487445,84021195,US,USA,840,21195.0,pike,"Pike, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.47088263,-82.39487445,84021195,US,USA,840,21195.0,pike,"Pike, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.47088263,-82.39487445,84021195,US,USA,840,21195.0,pike,"Pike, Kentucky, US",0,0,0,0
@@ -4894,6 +4948,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.47088263,-82.39487445,84021195,US,USA,840,21195.0,pike,"Pike, Kentucky, US",6,0,1,0
 2020-04-18,us,kentucky,37.47088263,-82.39487445,84021195,US,USA,840,21195.0,pike,"Pike, Kentucky, US",6,0,1,0
 2020-04-19,us,kentucky,37.47088263,-82.39487445,84021195,US,USA,840,21195.0,pike,"Pike, Kentucky, US",6,0,1,0
+2020-04-20,us,kentucky,37.47088263,-82.39487445,84021195,US,USA,840,21195.0,pike,"Pike, Kentucky, US",6,0,2,1
 2020-01-22,us,kentucky,37.47751843,-86.85368087,84021183,US,USA,840,21183.0,ohio,"Ohio, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.47751843,-86.85368087,84021183,US,USA,840,21183.0,ohio,"Ohio, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.47751843,-86.85368087,84021183,US,USA,840,21183.0,ohio,"Ohio, Kentucky, US",0,0,0,0
@@ -4983,6 +5038,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.47751843,-86.85368087,84021183,US,USA,840,21183.0,ohio,"Ohio, Kentucky, US",9,0,0,0
 2020-04-18,us,kentucky,37.47751843,-86.85368087,84021183,US,USA,840,21183.0,ohio,"Ohio, Kentucky, US",13,4,0,0
 2020-04-19,us,kentucky,37.47751843,-86.85368087,84021183,US,USA,840,21183.0,ohio,"Ohio, Kentucky, US",17,4,0,0
+2020-04-20,us,kentucky,37.47751843,-86.85368087,84021183,US,USA,840,21183.0,ohio,"Ohio, Kentucky, US",17,0,0,0
 2020-01-22,us,kentucky,37.52168356,-87.67989953,84021233,US,USA,840,21233.0,webster,"Webster, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.52168356,-87.67989953,84021233,US,USA,840,21233.0,webster,"Webster, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.52168356,-87.67989953,84021233,US,USA,840,21233.0,webster,"Webster, Kentucky, US",0,0,0,0
@@ -5072,6 +5128,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.52168356,-87.67989953,84021233,US,USA,840,21233.0,webster,"Webster, Kentucky, US",12,1,0,0
 2020-04-18,us,kentucky,37.52168356,-87.67989953,84021233,US,USA,840,21233.0,webster,"Webster, Kentucky, US",13,1,0,0
 2020-04-19,us,kentucky,37.52168356,-87.67989953,84021233,US,USA,840,21233.0,webster,"Webster, Kentucky, US",13,0,0,0
+2020-04-20,us,kentucky,37.52168356,-87.67989953,84021233,US,USA,840,21233.0,webster,"Webster, Kentucky, US",13,0,0,0
 2020-01-22,us,kentucky,37.52333168,-83.31959161,84021025,US,USA,840,21025.0,breathitt,"Breathitt, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.52333168,-83.31959161,84021025,US,USA,840,21025.0,breathitt,"Breathitt, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.52333168,-83.31959161,84021025,US,USA,840,21025.0,breathitt,"Breathitt, Kentucky, US",0,0,0,0
@@ -5161,6 +5218,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.52333168,-83.31959161,84021025,US,USA,840,21025.0,breathitt,"Breathitt, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,37.52333168,-83.31959161,84021025,US,USA,840,21025.0,breathitt,"Breathitt, Kentucky, US",2,1,0,0
 2020-04-19,us,kentucky,37.52333168,-83.31959161,84021025,US,USA,840,21025.0,breathitt,"Breathitt, Kentucky, US",1,-1,0,0
+2020-04-20,us,kentucky,37.52333168,-83.31959161,84021025,US,USA,840,21025.0,breathitt,"Breathitt, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,37.5301951,-87.26803443,84021149,US,USA,840,21149.0,mclean,"McLean, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.5301951,-87.26803443,84021149,US,USA,840,21149.0,mclean,"McLean, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.5301951,-87.26803443,84021149,US,USA,840,21149.0,mclean,"McLean, Kentucky, US",0,0,0,0
@@ -5250,6 +5308,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.5301951,-87.26803443,84021149,US,USA,840,21149.0,mclean,"McLean, Kentucky, US",7,0,1,0
 2020-04-18,us,kentucky,37.5301951,-87.26803443,84021149,US,USA,840,21149.0,mclean,"McLean, Kentucky, US",7,0,1,0
 2020-04-19,us,kentucky,37.5301951,-87.26803443,84021149,US,USA,840,21149.0,mclean,"McLean, Kentucky, US",8,1,1,0
+2020-04-20,us,kentucky,37.5301951,-87.26803443,84021149,US,USA,840,21149.0,mclean,"McLean, Kentucky, US",8,0,1,0
 2020-01-22,us,kentucky,37.54567114,-85.70138352,84021123,US,USA,840,21123.0,larue,"Larue, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.54567114,-85.70138352,84021123,US,USA,840,21123.0,larue,"Larue, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.54567114,-85.70138352,84021123,US,USA,840,21123.0,larue,"Larue, Kentucky, US",0,0,0,0
@@ -5339,6 +5398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.54567114,-85.70138352,84021123,US,USA,840,21123.0,larue,"Larue, Kentucky, US",5,1,0,0
 2020-04-18,us,kentucky,37.54567114,-85.70138352,84021123,US,USA,840,21123.0,larue,"Larue, Kentucky, US",5,0,0,0
 2020-04-19,us,kentucky,37.54567114,-85.70138352,84021123,US,USA,840,21123.0,larue,"Larue, Kentucky, US",5,0,0,0
+2020-04-20,us,kentucky,37.54567114,-85.70138352,84021123,US,USA,840,21123.0,larue,"Larue, Kentucky, US",5,0,0,0
 2020-01-22,us,kentucky,37.55218078,-85.26898542,84021155,US,USA,840,21155.0,marion,"Marion, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.55218078,-85.26898542,84021155,US,USA,840,21155.0,marion,"Marion, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.55218078,-85.26898542,84021155,US,USA,840,21155.0,marion,"Marion, Kentucky, US",0,0,0,0
@@ -5428,6 +5488,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.55218078,-85.26898542,84021155,US,USA,840,21155.0,marion,"Marion, Kentucky, US",13,1,0,0
 2020-04-18,us,kentucky,37.55218078,-85.26898542,84021155,US,USA,840,21155.0,marion,"Marion, Kentucky, US",13,0,0,0
 2020-04-19,us,kentucky,37.55218078,-85.26898542,84021155,US,USA,840,21155.0,marion,"Marion, Kentucky, US",13,0,0,0
+2020-04-20,us,kentucky,37.55218078,-85.26898542,84021155,US,USA,840,21155.0,marion,"Marion, Kentucky, US",13,0,0,0
 2020-01-22,us,kentucky,37.56213922,-82.74750924,84021071,US,USA,840,21071.0,floyd,"Floyd, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.56213922,-82.74750924,84021071,US,USA,840,21071.0,floyd,"Floyd, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.56213922,-82.74750924,84021071,US,USA,840,21071.0,floyd,"Floyd, Kentucky, US",0,0,0,0
@@ -5517,6 +5578,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.56213922,-82.74750924,84021071,US,USA,840,21071.0,floyd,"Floyd, Kentucky, US",4,0,0,0
 2020-04-18,us,kentucky,37.56213922,-82.74750924,84021071,US,USA,840,21071.0,floyd,"Floyd, Kentucky, US",4,0,0,0
 2020-04-19,us,kentucky,37.56213922,-82.74750924,84021071,US,USA,840,21071.0,floyd,"Floyd, Kentucky, US",4,0,0,0
+2020-04-20,us,kentucky,37.56213922,-82.74750924,84021071,US,USA,840,21071.0,floyd,"Floyd, Kentucky, US",4,0,0,0
 2020-01-22,us,kentucky,37.59645942,-83.71513901,84021129,US,USA,840,21129.0,lee,"Lee, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.59645942,-83.71513901,84021129,US,USA,840,21129.0,lee,"Lee, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.59645942,-83.71513901,84021129,US,USA,840,21129.0,lee,"Lee, Kentucky, US",0,0,0,0
@@ -5606,6 +5668,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.59645942,-83.71513901,84021129,US,USA,840,21129.0,lee,"Lee, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,37.59645942,-83.71513901,84021129,US,USA,840,21129.0,lee,"Lee, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,37.59645942,-83.71513901,84021129,US,USA,840,21129.0,lee,"Lee, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,37.59645942,-83.71513901,84021129,US,USA,840,21129.0,lee,"Lee, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,37.62680923,-84.8633779,84021021,US,USA,840,21021.0,boyle,"Boyle, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.62680923,-84.8633779,84021021,US,USA,840,21021.0,boyle,"Boyle, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.62680923,-84.8633779,84021021,US,USA,840,21021.0,boyle,"Boyle, Kentucky, US",0,0,0,0
@@ -5695,95 +5758,97 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.62680923,-84.8633779,84021021,US,USA,840,21021.0,boyle,"Boyle, Kentucky, US",13,1,0,0
 2020-04-18,us,kentucky,37.62680923,-84.8633779,84021021,US,USA,840,21021.0,boyle,"Boyle, Kentucky, US",13,0,0,0
 2020-04-19,us,kentucky,37.62680923,-84.8633779,84021021,US,USA,840,21021.0,boyle,"Boyle, Kentucky, US",13,0,0,0
-2020-01-22,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-01-23,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-01-24,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-01-25,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-01-26,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-01-27,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-01-28,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-01-29,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-01-30,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-01-31,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-01,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-02,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-03,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-04,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-05,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-06,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-07,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-08,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-09,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-10,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-11,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-12,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-13,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-14,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-15,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-16,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-17,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-18,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-19,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-20,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-21,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-22,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-23,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-24,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-25,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-26,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-27,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-28,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-02-29,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-01,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-02,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-03,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-04,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-05,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-06,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-07,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-08,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-09,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-10,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-11,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-12,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-13,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-14,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-15,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-16,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-17,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-18,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-19,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-20,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-21,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-22,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-23,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-24,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-25,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-26,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-27,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-28,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-29,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-30,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-03-31,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-01,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-02,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-03,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-04,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-05,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-06,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-07,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-08,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-09,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-10,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-11,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-12,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-13,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-14,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
-2020-04-15,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",1,1,0,0
-2020-04-16,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",3,2,0,0
-2020-04-17,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",3,0,0,0
-2020-04-18,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",1,-2,0,0
-2020-04-19,us,kentucky,37.638866799999995,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,37.62680923,-84.8633779,84021021,US,USA,840,21021.0,boyle,"Boyle, Kentucky, US",13,0,0,0
+2020-01-22,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-01-23,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-01-24,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-01-25,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-01-26,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-01-27,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-01-28,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-01-29,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-01-30,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-01-31,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-01,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-02,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-03,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-04,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-05,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-06,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-07,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-08,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-09,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-10,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-11,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-12,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-13,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-14,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-15,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-16,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-17,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-18,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-19,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-20,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-21,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-22,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-23,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-24,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-25,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-26,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-27,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-28,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-02-29,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-01,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-02,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-03,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-04,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-05,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-06,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-07,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-08,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-09,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-10,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-11,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-12,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-13,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-14,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-15,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-16,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-17,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-18,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-19,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-20,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-21,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-22,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-23,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-24,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-25,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-26,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-27,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-28,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-29,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-30,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-03-31,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-01,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-02,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-03,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-04,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-05,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-06,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-07,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-08,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-09,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-10,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-11,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-12,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-13,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-14,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",0,0,0,0
+2020-04-15,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",1,1,0,0
+2020-04-16,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",3,2,0,0
+2020-04-17,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",3,0,0,0
+2020-04-18,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",1,-2,0,0
+2020-04-19,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,37.6388668,-84.53289319,84021079,US,USA,840,21079.0,garrard,"Garrard, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,37.66166713,-87.94300009,84021225,US,USA,840,21225.0,union,"Union, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.66166713,-87.94300009,84021225,US,USA,840,21225.0,union,"Union, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.66166713,-87.94300009,84021225,US,USA,840,21225.0,union,"Union, Kentucky, US",0,0,0,0
@@ -5873,6 +5938,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.66166713,-87.94300009,84021225,US,USA,840,21225.0,union,"Union, Kentucky, US",6,0,0,0
 2020-04-18,us,kentucky,37.66166713,-87.94300009,84021225,US,USA,840,21225.0,union,"Union, Kentucky, US",8,2,0,0
 2020-04-19,us,kentucky,37.66166713,-87.94300009,84021225,US,USA,840,21225.0,union,"Union, Kentucky, US",8,0,0,0
+2020-04-20,us,kentucky,37.66166713,-87.94300009,84021225,US,USA,840,21225.0,union,"Union, Kentucky, US",8,0,0,0
 2020-01-22,us,kentucky,37.69241417,-83.95956369,84021065,US,USA,840,21065.0,estill,"Estill, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.69241417,-83.95956369,84021065,US,USA,840,21065.0,estill,"Estill, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.69241417,-83.95956369,84021065,US,USA,840,21065.0,estill,"Estill, Kentucky, US",0,0,0,0
@@ -5962,6 +6028,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.69241417,-83.95956369,84021065,US,USA,840,21065.0,estill,"Estill, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,37.69241417,-83.95956369,84021065,US,USA,840,21065.0,estill,"Estill, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,37.69241417,-83.95956369,84021065,US,USA,840,21065.0,estill,"Estill, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,37.69241417,-83.95956369,84021065,US,USA,840,21065.0,estill,"Estill, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,37.6976111,-85.96319251,84021093,US,USA,840,21093.0,hardin,"Hardin, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.6976111,-85.96319251,84021093,US,USA,840,21093.0,hardin,"Hardin, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.6976111,-85.96319251,84021093,US,USA,840,21093.0,hardin,"Hardin, Kentucky, US",0,0,0,0
@@ -6051,6 +6118,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.6976111,-85.96319251,84021093,US,USA,840,21093.0,hardin,"Hardin, Kentucky, US",29,2,0,0
 2020-04-18,us,kentucky,37.6976111,-85.96319251,84021093,US,USA,840,21093.0,hardin,"Hardin, Kentucky, US",29,0,0,0
 2020-04-19,us,kentucky,37.6976111,-85.96319251,84021093,US,USA,840,21093.0,hardin,"Hardin, Kentucky, US",29,0,0,0
+2020-04-20,us,kentucky,37.6976111,-85.96319251,84021093,US,USA,840,21093.0,hardin,"Hardin, Kentucky, US",29,0,0,0
 2020-01-22,us,kentucky,37.70820545,-83.0657714,84021153,US,USA,840,21153.0,magoffin,"Magoffin, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.70820545,-83.0657714,84021153,US,USA,840,21153.0,magoffin,"Magoffin, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.70820545,-83.0657714,84021153,US,USA,840,21153.0,magoffin,"Magoffin, Kentucky, US",0,0,0,0
@@ -6140,6 +6208,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.70820545,-83.0657714,84021153,US,USA,840,21153.0,magoffin,"Magoffin, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,37.70820545,-83.0657714,84021153,US,USA,840,21153.0,magoffin,"Magoffin, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,37.70820545,-83.0657714,84021153,US,USA,840,21153.0,magoffin,"Magoffin, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,37.70820545,-83.0657714,84021153,US,USA,840,21153.0,magoffin,"Magoffin, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,37.71659336,-84.27220275,84021151,US,USA,840,21151.0,madison,"Madison, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.71659336,-84.27220275,84021151,US,USA,840,21151.0,madison,"Madison, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.71659336,-84.27220275,84021151,US,USA,840,21151.0,madison,"Madison, Kentucky, US",0,0,0,0
@@ -6229,6 +6298,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.71659336,-84.27220275,84021151,US,USA,840,21151.0,madison,"Madison, Kentucky, US",21,0,1,0
 2020-04-18,us,kentucky,37.71659336,-84.27220275,84021151,US,USA,840,21151.0,madison,"Madison, Kentucky, US",21,0,1,0
 2020-04-19,us,kentucky,37.71659336,-84.27220275,84021151,US,USA,840,21151.0,madison,"Madison, Kentucky, US",21,0,1,0
+2020-04-20,us,kentucky,37.71659336,-84.27220275,84021151,US,USA,840,21151.0,madison,"Madison, Kentucky, US",21,0,1,0
 2020-01-22,us,kentucky,37.73028906,-87.09019479999998,84021059,US,USA,840,21059.0,daviess,"Daviess, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.73028906,-87.09019479999998,84021059,US,USA,840,21059.0,daviess,"Daviess, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.73028906,-87.09019479999998,84021059,US,USA,840,21059.0,daviess,"Daviess, Kentucky, US",0,0,0,0
@@ -6318,6 +6388,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.73028906,-87.09019479999998,84021059,US,USA,840,21059.0,daviess,"Daviess, Kentucky, US",105,-1,3,0
 2020-04-18,us,kentucky,37.73028906,-87.09019479999998,84021059,US,USA,840,21059.0,daviess,"Daviess, Kentucky, US",109,4,3,0
 2020-04-19,us,kentucky,37.73028906,-87.09019479999998,84021059,US,USA,840,21059.0,daviess,"Daviess, Kentucky, US",125,16,3,0
+2020-04-20,us,kentucky,37.73028906,-87.09019479999998,84021059,US,USA,840,21059.0,daviess,"Daviess, Kentucky, US",130,5,3,0
 2020-01-22,us,kentucky,37.73941626,-83.49303612,84021237,US,USA,840,21237.0,wolfe,"Wolfe, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.73941626,-83.49303612,84021237,US,USA,840,21237.0,wolfe,"Wolfe, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.73941626,-83.49303612,84021237,US,USA,840,21237.0,wolfe,"Wolfe, Kentucky, US",0,0,0,0
@@ -6407,6 +6478,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.73941626,-83.49303612,84021237,US,USA,840,21237.0,wolfe,"Wolfe, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,37.73941626,-83.49303612,84021237,US,USA,840,21237.0,wolfe,"Wolfe, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,37.73941626,-83.49303612,84021237,US,USA,840,21237.0,wolfe,"Wolfe, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,37.73941626,-83.49303612,84021237,US,USA,840,21237.0,wolfe,"Wolfe, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,37.75599461,-85.17407732,84021229,US,USA,840,21229.0,washington,"Washington, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.75599461,-85.17407732,84021229,US,USA,840,21229.0,washington,"Washington, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.75599461,-85.17407732,84021229,US,USA,840,21229.0,washington,"Washington, Kentucky, US",0,0,0,0
@@ -6496,6 +6568,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.75599461,-85.17407732,84021229,US,USA,840,21229.0,washington,"Washington, Kentucky, US",3,0,0,0
 2020-04-18,us,kentucky,37.75599461,-85.17407732,84021229,US,USA,840,21229.0,washington,"Washington, Kentucky, US",3,0,0,0
 2020-04-19,us,kentucky,37.75599461,-85.17407732,84021229,US,USA,840,21229.0,washington,"Washington, Kentucky, US",3,0,0,0
+2020-04-20,us,kentucky,37.75599461,-85.17407732,84021229,US,USA,840,21229.0,washington,"Washington, Kentucky, US",3,0,0,0
 2020-01-22,us,kentucky,37.77377239,-86.42885017,84021027,US,USA,840,21027.0,breckinridge,"Breckinridge, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.77377239,-86.42885017,84021027,US,USA,840,21027.0,breckinridge,"Breckinridge, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.77377239,-86.42885017,84021027,US,USA,840,21027.0,breckinridge,"Breckinridge, Kentucky, US",0,0,0,0
@@ -6585,6 +6658,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.77377239,-86.42885017,84021027,US,USA,840,21027.0,breckinridge,"Breckinridge, Kentucky, US",5,1,0,0
 2020-04-18,us,kentucky,37.77377239,-86.42885017,84021027,US,USA,840,21027.0,breckinridge,"Breckinridge, Kentucky, US",6,1,0,0
 2020-04-19,us,kentucky,37.77377239,-86.42885017,84021027,US,USA,840,21027.0,breckinridge,"Breckinridge, Kentucky, US",6,0,0,0
+2020-04-20,us,kentucky,37.77377239,-86.42885017,84021027,US,USA,840,21027.0,breckinridge,"Breckinridge, Kentucky, US",6,0,0,0
 2020-01-22,us,kentucky,37.79344553,-87.57392021,84021101,US,USA,840,21101.0,henderson,"Henderson, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.79344553,-87.57392021,84021101,US,USA,840,21101.0,henderson,"Henderson, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.79344553,-87.57392021,84021101,US,USA,840,21101.0,henderson,"Henderson, Kentucky, US",0,0,0,0
@@ -6674,6 +6748,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.79344553,-87.57392021,84021101,US,USA,840,21101.0,henderson,"Henderson, Kentucky, US",25,-1,0,0
 2020-04-18,us,kentucky,37.79344553,-87.57392021,84021101,US,USA,840,21101.0,henderson,"Henderson, Kentucky, US",28,3,0,0
 2020-04-19,us,kentucky,37.79344553,-87.57392021,84021101,US,USA,840,21101.0,henderson,"Henderson, Kentucky, US",28,0,0,0
+2020-04-20,us,kentucky,37.79344553,-87.57392021,84021101,US,USA,840,21101.0,henderson,"Henderson, Kentucky, US",33,5,0,0
 2020-01-22,us,kentucky,37.79990579,-82.51247478,84021159,US,USA,840,21159.0,martin,"Martin, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.79990579,-82.51247478,84021159,US,USA,840,21159.0,martin,"Martin, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.79990579,-82.51247478,84021159,US,USA,840,21159.0,martin,"Martin, Kentucky, US",0,0,0,0
@@ -6763,6 +6838,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.79990579,-82.51247478,84021159,US,USA,840,21159.0,martin,"Martin, Kentucky, US",2,0,0,0
 2020-04-18,us,kentucky,37.79990579,-82.51247478,84021159,US,USA,840,21159.0,martin,"Martin, Kentucky, US",2,0,0,0
 2020-04-19,us,kentucky,37.79990579,-82.51247478,84021159,US,USA,840,21159.0,martin,"Martin, Kentucky, US",2,0,0,0
+2020-04-20,us,kentucky,37.79990579,-82.51247478,84021159,US,USA,840,21159.0,martin,"Martin, Kentucky, US",2,0,0,0
 2020-01-22,us,kentucky,37.80335779,-85.4657193,84021179,US,USA,840,21179.0,nelson,"Nelson, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.80335779,-85.4657193,84021179,US,USA,840,21179.0,nelson,"Nelson, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.80335779,-85.4657193,84021179,US,USA,840,21179.0,nelson,"Nelson, Kentucky, US",0,0,0,0
@@ -6852,6 +6928,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.80335779,-85.4657193,84021179,US,USA,840,21179.0,nelson,"Nelson, Kentucky, US",13,-1,0,0
 2020-04-18,us,kentucky,37.80335779,-85.4657193,84021179,US,USA,840,21179.0,nelson,"Nelson, Kentucky, US",13,0,0,0
 2020-04-19,us,kentucky,37.80335779,-85.4657193,84021179,US,USA,840,21179.0,nelson,"Nelson, Kentucky, US",13,0,0,0
+2020-04-20,us,kentucky,37.80335779,-85.4657193,84021179,US,USA,840,21179.0,nelson,"Nelson, Kentucky, US",13,0,0,0
 2020-01-22,us,kentucky,37.81474237,-84.87488475,84021167,US,USA,840,21167.0,mercer,"Mercer, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.81474237,-84.87488475,84021167,US,USA,840,21167.0,mercer,"Mercer, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.81474237,-84.87488475,84021167,US,USA,840,21167.0,mercer,"Mercer, Kentucky, US",0,0,0,0
@@ -6941,6 +7018,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.81474237,-84.87488475,84021167,US,USA,840,21167.0,mercer,"Mercer, Kentucky, US",9,0,0,0
 2020-04-18,us,kentucky,37.81474237,-84.87488475,84021167,US,USA,840,21167.0,mercer,"Mercer, Kentucky, US",9,0,0,0
 2020-04-19,us,kentucky,37.81474237,-84.87488475,84021167,US,USA,840,21167.0,mercer,"Mercer, Kentucky, US",9,0,0,0
+2020-04-20,us,kentucky,37.81474237,-84.87488475,84021167,US,USA,840,21167.0,mercer,"Mercer, Kentucky, US",9,0,0,0
 2020-01-22,us,kentucky,37.83218794,-83.82553961,84021197,US,USA,840,21197.0,powell,"Powell, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.83218794,-83.82553961,84021197,US,USA,840,21197.0,powell,"Powell, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.83218794,-83.82553961,84021197,US,USA,840,21197.0,powell,"Powell, Kentucky, US",0,0,0,0
@@ -7030,6 +7108,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.83218794,-83.82553961,84021197,US,USA,840,21197.0,powell,"Powell, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,37.83218794,-83.82553961,84021197,US,USA,840,21197.0,powell,"Powell, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,37.83218794,-83.82553961,84021197,US,USA,840,21197.0,powell,"Powell, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,37.83218794,-83.82553961,84021197,US,USA,840,21197.0,powell,"Powell, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,37.83766422,-86.78280584,84021091,US,USA,840,21091.0,hancock,"Hancock, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.83766422,-86.78280584,84021091,US,USA,840,21091.0,hancock,"Hancock, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.83766422,-86.78280584,84021091,US,USA,840,21091.0,hancock,"Hancock, Kentucky, US",0,0,0,0
@@ -7119,6 +7198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.83766422,-86.78280584,84021091,US,USA,840,21091.0,hancock,"Hancock, Kentucky, US",5,-1,0,0
 2020-04-18,us,kentucky,37.83766422,-86.78280584,84021091,US,USA,840,21091.0,hancock,"Hancock, Kentucky, US",6,1,0,0
 2020-04-19,us,kentucky,37.83766422,-86.78280584,84021091,US,USA,840,21091.0,hancock,"Hancock, Kentucky, US",6,0,0,0
+2020-04-20,us,kentucky,37.83766422,-86.78280584,84021091,US,USA,840,21091.0,hancock,"Hancock, Kentucky, US",6,0,0,0
 2020-01-22,us,kentucky,37.85106355,-82.8264322,84021115,US,USA,840,21115.0,johnson,"Johnson, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.85106355,-82.8264322,84021115,US,USA,840,21115.0,johnson,"Johnson, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.85106355,-82.8264322,84021115,US,USA,840,21115.0,johnson,"Johnson, Kentucky, US",0,0,0,0
@@ -7208,6 +7288,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.85106355,-82.8264322,84021115,US,USA,840,21115.0,johnson,"Johnson, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,37.85106355,-82.8264322,84021115,US,USA,840,21115.0,johnson,"Johnson, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,37.85106355,-82.8264322,84021115,US,USA,840,21115.0,johnson,"Johnson, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,37.85106355,-82.8264322,84021115,US,USA,840,21115.0,johnson,"Johnson, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,37.87119786,-84.58252003,84021113,US,USA,840,21113.0,jessamine,"Jessamine, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.87119786,-84.58252003,84021113,US,USA,840,21113.0,jessamine,"Jessamine, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.87119786,-84.58252003,84021113,US,USA,840,21113.0,jessamine,"Jessamine, Kentucky, US",0,0,0,0
@@ -7297,6 +7378,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.87119786,-84.58252003,84021113,US,USA,840,21113.0,jessamine,"Jessamine, Kentucky, US",31,1,0,0
 2020-04-18,us,kentucky,37.87119786,-84.58252003,84021113,US,USA,840,21113.0,jessamine,"Jessamine, Kentucky, US",33,2,0,0
 2020-04-19,us,kentucky,37.87119786,-84.58252003,84021113,US,USA,840,21113.0,jessamine,"Jessamine, Kentucky, US",32,-1,0,0
+2020-04-20,us,kentucky,37.87119786,-84.58252003,84021113,US,USA,840,21113.0,jessamine,"Jessamine, Kentucky, US",32,0,0,0
 2020-01-22,us,kentucky,37.92465657,-83.25558245,84021175,US,USA,840,21175.0,morgan,"Morgan, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.92465657,-83.25558245,84021175,US,USA,840,21175.0,morgan,"Morgan, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.92465657,-83.25558245,84021175,US,USA,840,21175.0,morgan,"Morgan, Kentucky, US",0,0,0,0
@@ -7386,6 +7468,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.92465657,-83.25558245,84021175,US,USA,840,21175.0,morgan,"Morgan, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,37.92465657,-83.25558245,84021175,US,USA,840,21175.0,morgan,"Morgan, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,37.92465657,-83.25558245,84021175,US,USA,840,21175.0,morgan,"Morgan, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,37.92465657,-83.25558245,84021175,US,USA,840,21175.0,morgan,"Morgan, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,37.94090733,-83.59985712,84021165,US,USA,840,21165.0,menifee,"Menifee, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.94090733,-83.59985712,84021165,US,USA,840,21165.0,menifee,"Menifee, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.94090733,-83.59985712,84021165,US,USA,840,21165.0,menifee,"Menifee, Kentucky, US",0,0,0,0
@@ -7475,6 +7558,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.94090733,-83.59985712,84021165,US,USA,840,21165.0,menifee,"Menifee, Kentucky, US",3,0,0,0
 2020-04-18,us,kentucky,37.94090733,-83.59985712,84021165,US,USA,840,21165.0,menifee,"Menifee, Kentucky, US",3,0,0,0
 2020-04-19,us,kentucky,37.94090733,-83.59985712,84021165,US,USA,840,21165.0,menifee,"Menifee, Kentucky, US",3,0,0,0
+2020-04-20,us,kentucky,37.94090733,-83.59985712,84021165,US,USA,840,21165.0,menifee,"Menifee, Kentucky, US",3,0,0,0
 2020-01-22,us,kentucky,37.96163597,-86.21028219,84021163,US,USA,840,21163.0,meade,"Meade, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.96163597,-86.21028219,84021163,US,USA,840,21163.0,meade,"Meade, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.96163597,-86.21028219,84021163,US,USA,840,21163.0,meade,"Meade, Kentucky, US",0,0,0,0
@@ -7564,6 +7648,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.96163597,-86.21028219,84021163,US,USA,840,21163.0,meade,"Meade, Kentucky, US",2,0,1,0
 2020-04-18,us,kentucky,37.96163597,-86.21028219,84021163,US,USA,840,21163.0,meade,"Meade, Kentucky, US",2,0,1,0
 2020-04-19,us,kentucky,37.96163597,-86.21028219,84021163,US,USA,840,21163.0,meade,"Meade, Kentucky, US",3,1,1,0
+2020-04-20,us,kentucky,37.96163597,-86.21028219,84021163,US,USA,840,21163.0,meade,"Meade, Kentucky, US",3,0,1,0
 2020-01-22,us,kentucky,37.9689263,-84.14615986,84021049,US,USA,840,21049.0,clark,"Clark, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.9689263,-84.14615986,84021049,US,USA,840,21049.0,clark,"Clark, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.9689263,-84.14615986,84021049,US,USA,840,21049.0,clark,"Clark, Kentucky, US",0,0,0,0
@@ -7653,6 +7738,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.9689263,-84.14615986,84021049,US,USA,840,21049.0,clark,"Clark, Kentucky, US",18,0,0,0
 2020-04-18,us,kentucky,37.9689263,-84.14615986,84021049,US,USA,840,21049.0,clark,"Clark, Kentucky, US",18,0,0,0
 2020-04-19,us,kentucky,37.9689263,-84.14615986,84021049,US,USA,840,21049.0,clark,"Clark, Kentucky, US",18,0,0,0
+2020-04-20,us,kentucky,37.9689263,-84.14615986,84021049,US,USA,840,21049.0,clark,"Clark, Kentucky, US",18,0,0,0
 2020-01-22,us,kentucky,37.97162523,-85.68955617,84021029,US,USA,840,21029.0,bullitt,"Bullitt, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,37.97162523,-85.68955617,84021029,US,USA,840,21029.0,bullitt,"Bullitt, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,37.97162523,-85.68955617,84021029,US,USA,840,21029.0,bullitt,"Bullitt, Kentucky, US",0,0,0,0
@@ -7742,6 +7828,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,37.97162523,-85.68955617,84021029,US,USA,840,21029.0,bullitt,"Bullitt, Kentucky, US",31,0,2,0
 2020-04-18,us,kentucky,37.97162523,-85.68955617,84021029,US,USA,840,21029.0,bullitt,"Bullitt, Kentucky, US",31,0,2,0
 2020-04-19,us,kentucky,37.97162523,-85.68955617,84021029,US,USA,840,21029.0,bullitt,"Bullitt, Kentucky, US",33,2,2,0
+2020-04-20,us,kentucky,37.97162523,-85.68955617,84021029,US,USA,840,21029.0,bullitt,"Bullitt, Kentucky, US",33,0,2,0
 2020-01-22,us,kentucky,38.00671029,-84.99171713,84021005,US,USA,840,21005.0,anderson,"Anderson, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.00671029,-84.99171713,84021005,US,USA,840,21005.0,anderson,"Anderson, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.00671029,-84.99171713,84021005,US,USA,840,21005.0,anderson,"Anderson, Kentucky, US",0,0,0,0
@@ -7831,6 +7918,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.00671029,-84.99171713,84021005,US,USA,840,21005.0,anderson,"Anderson, Kentucky, US",5,0,1,0
 2020-04-18,us,kentucky,38.00671029,-84.99171713,84021005,US,USA,840,21005.0,anderson,"Anderson, Kentucky, US",7,2,1,0
 2020-04-19,us,kentucky,38.00671029,-84.99171713,84021005,US,USA,840,21005.0,anderson,"Anderson, Kentucky, US",6,-1,1,0
+2020-04-20,us,kentucky,38.00671029,-84.99171713,84021005,US,USA,840,21005.0,anderson,"Anderson, Kentucky, US",6,0,1,0
 2020-01-22,us,kentucky,38.03223971,-85.32749335,84021215,US,USA,840,21215.0,spencer,"Spencer, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.03223971,-85.32749335,84021215,US,USA,840,21215.0,spencer,"Spencer, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.03223971,-85.32749335,84021215,US,USA,840,21215.0,spencer,"Spencer, Kentucky, US",0,0,0,0
@@ -7920,6 +8008,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.03223971,-85.32749335,84021215,US,USA,840,21215.0,spencer,"Spencer, Kentucky, US",8,0,0,0
 2020-04-18,us,kentucky,38.03223971,-85.32749335,84021215,US,USA,840,21215.0,spencer,"Spencer, Kentucky, US",8,0,0,0
 2020-04-19,us,kentucky,38.03223971,-85.32749335,84021215,US,USA,840,21215.0,spencer,"Spencer, Kentucky, US",9,1,0,0
+2020-04-20,us,kentucky,38.03223971,-85.32749335,84021215,US,USA,840,21215.0,spencer,"Spencer, Kentucky, US",9,0,0,0
 2020-01-22,us,kentucky,38.03253032,-83.9145241,84021173,US,USA,840,21173.0,montgomery,"Montgomery, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.03253032,-83.9145241,84021173,US,USA,840,21173.0,montgomery,"Montgomery, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.03253032,-83.9145241,84021173,US,USA,840,21173.0,montgomery,"Montgomery, Kentucky, US",0,0,0,0
@@ -8009,6 +8098,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.03253032,-83.9145241,84021173,US,USA,840,21173.0,montgomery,"Montgomery, Kentucky, US",9,0,0,0
 2020-04-18,us,kentucky,38.03253032,-83.9145241,84021173,US,USA,840,21173.0,montgomery,"Montgomery, Kentucky, US",9,0,0,0
 2020-04-19,us,kentucky,38.03253032,-83.9145241,84021173,US,USA,840,21173.0,montgomery,"Montgomery, Kentucky, US",9,0,0,0
+2020-04-20,us,kentucky,38.03253032,-83.9145241,84021173,US,USA,840,21173.0,montgomery,"Montgomery, Kentucky, US",9,0,0,0
 2020-01-22,us,kentucky,38.0368225,-84.45576892,84021067,US,USA,840,21067.0,fayette,"Fayette, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.0368225,-84.45576892,84021067,US,USA,840,21067.0,fayette,"Fayette, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.0368225,-84.45576892,84021067,US,USA,840,21067.0,fayette,"Fayette, Kentucky, US",0,0,0,0
@@ -8098,6 +8188,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.0368225,-84.45576892,84021067,US,USA,840,21067.0,fayette,"Fayette, Kentucky, US",210,1,7,0
 2020-04-18,us,kentucky,38.0368225,-84.45576892,84021067,US,USA,840,21067.0,fayette,"Fayette, Kentucky, US",218,8,7,0
 2020-04-19,us,kentucky,38.0368225,-84.45576892,84021067,US,USA,840,21067.0,fayette,"Fayette, Kentucky, US",219,1,7,0
+2020-04-20,us,kentucky,38.0368225,-84.45576892,84021067,US,USA,840,21067.0,fayette,"Fayette, Kentucky, US",219,0,7,0
 2020-01-22,us,kentucky,38.04178222,-84.7417556,84021239,US,USA,840,21239.0,woodford,"Woodford, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.04178222,-84.7417556,84021239,US,USA,840,21239.0,woodford,"Woodford, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.04178222,-84.7417556,84021239,US,USA,840,21239.0,woodford,"Woodford, Kentucky, US",0,0,0,0
@@ -8187,6 +8278,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.04178222,-84.7417556,84021239,US,USA,840,21239.0,woodford,"Woodford, Kentucky, US",18,-2,0,0
 2020-04-18,us,kentucky,38.04178222,-84.7417556,84021239,US,USA,840,21239.0,woodford,"Woodford, Kentucky, US",19,1,0,0
 2020-04-19,us,kentucky,38.04178222,-84.7417556,84021239,US,USA,840,21239.0,woodford,"Woodford, Kentucky, US",18,-1,0,0
+2020-04-20,us,kentucky,38.04178222,-84.7417556,84021239,US,USA,840,21239.0,woodford,"Woodford, Kentucky, US",18,0,0,0
 2020-01-22,us,kentucky,38.07136018,-82.72882223,84021127,US,USA,840,21127.0,lawrence,"Lawrence, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.07136018,-82.72882223,84021127,US,USA,840,21127.0,lawrence,"Lawrence, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.07136018,-82.72882223,84021127,US,USA,840,21127.0,lawrence,"Lawrence, Kentucky, US",0,0,0,0
@@ -8276,6 +8368,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.07136018,-82.72882223,84021127,US,USA,840,21127.0,lawrence,"Lawrence, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,38.07136018,-82.72882223,84021127,US,USA,840,21127.0,lawrence,"Lawrence, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,38.07136018,-82.72882223,84021127,US,USA,840,21127.0,lawrence,"Lawrence, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,38.07136018,-82.72882223,84021127,US,USA,840,21127.0,lawrence,"Lawrence, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,38.11624059,-83.09771563,84021063,US,USA,840,21063.0,elliott,"Elliott, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.11624059,-83.09771563,84021063,US,USA,840,21063.0,elliott,"Elliott, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.11624059,-83.09771563,84021063,US,USA,840,21063.0,elliott,"Elliott, Kentucky, US",0,0,0,0
@@ -8365,6 +8458,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.11624059,-83.09771563,84021063,US,USA,840,21063.0,elliott,"Elliott, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,38.11624059,-83.09771563,84021063,US,USA,840,21063.0,elliott,"Elliott, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,38.11624059,-83.09771563,84021063,US,USA,840,21063.0,elliott,"Elliott, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,38.11624059,-83.09771563,84021063,US,USA,840,21063.0,elliott,"Elliott, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,38.14735938,-83.74588932,84021011,US,USA,840,21011.0,bath,"Bath, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.14735938,-83.74588932,84021011,US,USA,840,21011.0,bath,"Bath, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.14735938,-83.74588932,84021011,US,USA,840,21011.0,bath,"Bath, Kentucky, US",0,0,0,0
@@ -8454,6 +8548,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.14735938,-83.74588932,84021011,US,USA,840,21011.0,bath,"Bath, Kentucky, US",3,0,0,0
 2020-04-18,us,kentucky,38.14735938,-83.74588932,84021011,US,USA,840,21011.0,bath,"Bath, Kentucky, US",3,0,0,0
 2020-04-19,us,kentucky,38.14735938,-83.74588932,84021011,US,USA,840,21011.0,bath,"Bath, Kentucky, US",3,0,0,0
+2020-04-20,us,kentucky,38.14735938,-83.74588932,84021011,US,USA,840,21011.0,bath,"Bath, Kentucky, US",3,0,0,0
 2020-01-22,us,kentucky,38.18664655,-85.65931031,84021111,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.18664655,-85.65931031,84021111,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.18664655,-85.65931031,84021111,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",0,0,0,0
@@ -8543,6 +8638,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.18664655,-85.65931031,84021111,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",599,-1,60,4
 2020-04-18,us,kentucky,38.18664655,-85.65931031,84021111,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",689,90,60,0
 2020-04-19,us,kentucky,38.18664655,-85.65931031,84021111,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",814,125,60,0
+2020-04-20,us,kentucky,38.18664655,-85.65931031,84021111,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",867,53,67,7
 2020-01-22,us,kentucky,38.19484205,-83.42088935,84021205,US,USA,840,21205.0,rowan,"Rowan, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.19484205,-83.42088935,84021205,US,USA,840,21205.0,rowan,"Rowan, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.19484205,-83.42088935,84021205,US,USA,840,21205.0,rowan,"Rowan, Kentucky, US",0,0,0,0
@@ -8632,6 +8728,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.19484205,-83.42088935,84021205,US,USA,840,21205.0,rowan,"Rowan, Kentucky, US",2,1,0,0
 2020-04-18,us,kentucky,38.19484205,-83.42088935,84021205,US,USA,840,21205.0,rowan,"Rowan, Kentucky, US",2,0,0,0
 2020-04-19,us,kentucky,38.19484205,-83.42088935,84021205,US,USA,840,21205.0,rowan,"Rowan, Kentucky, US",1,-1,0,0
+2020-04-20,us,kentucky,38.19484205,-83.42088935,84021205,US,USA,840,21205.0,rowan,"Rowan, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,38.2054607,-84.21827874,84021017,US,USA,840,21017.0,bourbon,"Bourbon, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.2054607,-84.21827874,84021017,US,USA,840,21017.0,bourbon,"Bourbon, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.2054607,-84.21827874,84021017,US,USA,840,21017.0,bourbon,"Bourbon, Kentucky, US",0,0,0,0
@@ -8721,6 +8818,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.2054607,-84.21827874,84021017,US,USA,840,21017.0,bourbon,"Bourbon, Kentucky, US",5,-2,1,0
 2020-04-18,us,kentucky,38.2054607,-84.21827874,84021017,US,USA,840,21017.0,bourbon,"Bourbon, Kentucky, US",7,2,1,0
 2020-04-19,us,kentucky,38.2054607,-84.21827874,84021017,US,USA,840,21017.0,bourbon,"Bourbon, Kentucky, US",7,0,1,0
+2020-04-20,us,kentucky,38.2054607,-84.21827874,84021017,US,USA,840,21017.0,bourbon,"Bourbon, Kentucky, US",7,0,1,0
 2020-01-22,us,kentucky,38.21476019,-85.194223,84021211,US,USA,840,21211.0,shelby,"Shelby, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.21476019,-85.194223,84021211,US,USA,840,21211.0,shelby,"Shelby, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.21476019,-85.194223,84021211,US,USA,840,21211.0,shelby,"Shelby, Kentucky, US",0,0,0,0
@@ -8810,6 +8908,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.21476019,-85.194223,84021211,US,USA,840,21211.0,shelby,"Shelby, Kentucky, US",22,1,2,0
 2020-04-18,us,kentucky,38.21476019,-85.194223,84021211,US,USA,840,21211.0,shelby,"Shelby, Kentucky, US",23,1,2,0
 2020-04-19,us,kentucky,38.21476019,-85.194223,84021211,US,USA,840,21211.0,shelby,"Shelby, Kentucky, US",23,0,2,0
+2020-04-20,us,kentucky,38.21476019,-85.194223,84021211,US,USA,840,21211.0,shelby,"Shelby, Kentucky, US",22,-1,2,0
 2020-01-22,us,kentucky,38.2379395,-84.87962551,84021073,US,USA,840,21073.0,franklin,"Franklin, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.2379395,-84.87962551,84021073,US,USA,840,21073.0,franklin,"Franklin, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.2379395,-84.87962551,84021073,US,USA,840,21073.0,franklin,"Franklin, Kentucky, US",0,0,0,0
@@ -8899,6 +8998,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.2379395,-84.87962551,84021073,US,USA,840,21073.0,franklin,"Franklin, Kentucky, US",12,1,0,0
 2020-04-18,us,kentucky,38.2379395,-84.87962551,84021073,US,USA,840,21073.0,franklin,"Franklin, Kentucky, US",21,9,0,0
 2020-04-19,us,kentucky,38.2379395,-84.87962551,84021073,US,USA,840,21073.0,franklin,"Franklin, Kentucky, US",13,-8,0,0
+2020-04-20,us,kentucky,38.2379395,-84.87962551,84021073,US,USA,840,21073.0,franklin,"Franklin, Kentucky, US",13,0,0,0
 2020-01-22,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",0,0,0,0
@@ -8988,6 +9088,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",22,1,0,0
 2020-04-18,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",23,1,0,0
 2020-04-19,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",23,0,0,0
+2020-04-20,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",22,-1,0,0
 2020-01-22,us,kentucky,38.31690743,-83.05092385,84021043,US,USA,840,21043.0,carter,"Carter, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.31690743,-83.05092385,84021043,US,USA,840,21043.0,carter,"Carter, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.31690743,-83.05092385,84021043,US,USA,840,21043.0,carter,"Carter, Kentucky, US",0,0,0,0
@@ -9077,6 +9178,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.31690743,-83.05092385,84021043,US,USA,840,21043.0,carter,"Carter, Kentucky, US",4,-1,0,0
 2020-04-18,us,kentucky,38.31690743,-83.05092385,84021043,US,USA,840,21043.0,carter,"Carter, Kentucky, US",4,0,0,0
 2020-04-19,us,kentucky,38.31690743,-83.05092385,84021043,US,USA,840,21043.0,carter,"Carter, Kentucky, US",4,0,0,0
+2020-04-20,us,kentucky,38.31690743,-83.05092385,84021043,US,USA,840,21043.0,carter,"Carter, Kentucky, US",4,0,0,0
 2020-01-22,us,kentucky,38.33342292,-84.01889177,84021181,US,USA,840,21181.0,nicholas,"Nicholas, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.33342292,-84.01889177,84021181,US,USA,840,21181.0,nicholas,"Nicholas, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.33342292,-84.01889177,84021181,US,USA,840,21181.0,nicholas,"Nicholas, Kentucky, US",0,0,0,0
@@ -9166,6 +9268,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.33342292,-84.01889177,84021181,US,USA,840,21181.0,nicholas,"Nicholas, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,38.33342292,-84.01889177,84021181,US,USA,840,21181.0,nicholas,"Nicholas, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,38.33342292,-84.01889177,84021181,US,USA,840,21181.0,nicholas,"Nicholas, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,38.33342292,-84.01889177,84021181,US,USA,840,21181.0,nicholas,"Nicholas, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,38.36176608,-82.68652187,84021019,US,USA,840,21019.0,boyd,"Boyd, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.36176608,-82.68652187,84021019,US,USA,840,21019.0,boyd,"Boyd, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.36176608,-82.68652187,84021019,US,USA,840,21019.0,boyd,"Boyd, Kentucky, US",0,0,0,0
@@ -9255,6 +9358,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.36176608,-82.68652187,84021019,US,USA,840,21019.0,boyd,"Boyd, Kentucky, US",29,2,2,0
 2020-04-18,us,kentucky,38.36176608,-82.68652187,84021019,US,USA,840,21019.0,boyd,"Boyd, Kentucky, US",29,0,2,0
 2020-04-19,us,kentucky,38.36176608,-82.68652187,84021019,US,USA,840,21019.0,boyd,"Boyd, Kentucky, US",29,0,2,0
+2020-04-20,us,kentucky,38.36176608,-82.68652187,84021019,US,USA,840,21019.0,boyd,"Boyd, Kentucky, US",29,0,2,0
 2020-01-22,us,kentucky,38.36758311,-83.69657514,84021069,US,USA,840,21069.0,fleming,"Fleming, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.36758311,-83.69657514,84021069,US,USA,840,21069.0,fleming,"Fleming, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.36758311,-83.69657514,84021069,US,USA,840,21069.0,fleming,"Fleming, Kentucky, US",0,0,0,0
@@ -9344,6 +9448,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.36758311,-83.69657514,84021069,US,USA,840,21069.0,fleming,"Fleming, Kentucky, US",2,0,0,0
 2020-04-18,us,kentucky,38.36758311,-83.69657514,84021069,US,USA,840,21069.0,fleming,"Fleming, Kentucky, US",2,0,0,0
 2020-04-19,us,kentucky,38.36758311,-83.69657514,84021069,US,USA,840,21069.0,fleming,"Fleming, Kentucky, US",2,0,0,0
+2020-04-20,us,kentucky,38.36758311,-83.69657514,84021069,US,USA,840,21069.0,fleming,"Fleming, Kentucky, US",2,0,0,0
 2020-01-22,us,kentucky,38.39791089,-85.448222,84021185,US,USA,840,21185.0,oldham,"Oldham, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.39791089,-85.448222,84021185,US,USA,840,21185.0,oldham,"Oldham, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.39791089,-85.448222,84021185,US,USA,840,21185.0,oldham,"Oldham, Kentucky, US",0,0,0,0
@@ -9433,6 +9538,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.39791089,-85.448222,84021185,US,USA,840,21185.0,oldham,"Oldham, Kentucky, US",23,1,0,0
 2020-04-18,us,kentucky,38.39791089,-85.448222,84021185,US,USA,840,21185.0,oldham,"Oldham, Kentucky, US",23,0,0,0
 2020-04-19,us,kentucky,38.39791089,-85.448222,84021185,US,USA,840,21185.0,oldham,"Oldham, Kentucky, US",22,-1,0,0
+2020-04-20,us,kentucky,38.39791089,-85.448222,84021185,US,USA,840,21185.0,oldham,"Oldham, Kentucky, US",22,0,0,0
 2020-01-22,us,kentucky,38.44188174,-84.32869741,84021097,US,USA,840,21097.0,harrison,"Harrison, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.44188174,-84.32869741,84021097,US,USA,840,21097.0,harrison,"Harrison, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.44188174,-84.32869741,84021097,US,USA,840,21097.0,harrison,"Harrison, Kentucky, US",0,0,0,0
@@ -9522,6 +9628,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.44188174,-84.32869741,84021097,US,USA,840,21097.0,harrison,"Harrison, Kentucky, US",16,2,0,0
 2020-04-18,us,kentucky,38.44188174,-84.32869741,84021097,US,USA,840,21097.0,harrison,"Harrison, Kentucky, US",16,0,0,0
 2020-04-19,us,kentucky,38.44188174,-84.32869741,84021097,US,USA,840,21097.0,harrison,"Harrison, Kentucky, US",16,0,0,0
+2020-04-20,us,kentucky,38.44188174,-84.32869741,84021097,US,USA,840,21097.0,harrison,"Harrison, Kentucky, US",16,0,0,0
 2020-01-22,us,kentucky,38.44942688,-85.11587507,84021103,US,USA,840,21103.0,henry,"Henry, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.44942688,-85.11587507,84021103,US,USA,840,21103.0,henry,"Henry, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.44942688,-85.11587507,84021103,US,USA,840,21103.0,henry,"Henry, Kentucky, US",0,0,0,0
@@ -9611,6 +9718,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.44942688,-85.11587507,84021103,US,USA,840,21103.0,henry,"Henry, Kentucky, US",3,0,0,0
 2020-04-18,us,kentucky,38.44942688,-85.11587507,84021103,US,USA,840,21103.0,henry,"Henry, Kentucky, US",3,0,0,0
 2020-04-19,us,kentucky,38.44942688,-85.11587507,84021103,US,USA,840,21103.0,henry,"Henry, Kentucky, US",4,1,0,0
+2020-04-20,us,kentucky,38.44942688,-85.11587507,84021103,US,USA,840,21103.0,henry,"Henry, Kentucky, US",4,0,0,0
 2020-01-22,us,kentucky,38.51679143,-84.82404619,84021187,US,USA,840,21187.0,owen,"Owen, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.51679143,-84.82404619,84021187,US,USA,840,21187.0,owen,"Owen, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.51679143,-84.82404619,84021187,US,USA,840,21187.0,owen,"Owen, Kentucky, US",0,0,0,0
@@ -9700,6 +9808,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.51679143,-84.82404619,84021187,US,USA,840,21187.0,owen,"Owen, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,38.51679143,-84.82404619,84021187,US,USA,840,21187.0,owen,"Owen, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,38.51679143,-84.82404619,84021187,US,USA,840,21187.0,owen,"Owen, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,38.51679143,-84.82404619,84021187,US,USA,840,21187.0,owen,"Owen, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,38.51923469,-84.05055616,84021201,US,USA,840,21201.0,robertson,"Robertson, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.51923469,-84.05055616,84021201,US,USA,840,21201.0,robertson,"Robertson, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.51923469,-84.05055616,84021201,US,USA,840,21201.0,robertson,"Robertson, Kentucky, US",0,0,0,0
@@ -9789,6 +9898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.51923469,-84.05055616,84021201,US,USA,840,21201.0,robertson,"Robertson, Kentucky, US",0,0,0,0
 2020-04-18,us,kentucky,38.51923469,-84.05055616,84021201,US,USA,840,21201.0,robertson,"Robertson, Kentucky, US",0,0,0,0
 2020-04-19,us,kentucky,38.51923469,-84.05055616,84021201,US,USA,840,21201.0,robertson,"Robertson, Kentucky, US",0,0,0,0
+2020-04-20,us,kentucky,38.51923469,-84.05055616,84021201,US,USA,840,21201.0,robertson,"Robertson, Kentucky, US",0,0,0,0
 2020-01-22,us,kentucky,38.53184419,-83.37735618,84021135,US,USA,840,21135.0,lewis,"Lewis, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.53184419,-83.37735618,84021135,US,USA,840,21135.0,lewis,"Lewis, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.53184419,-83.37735618,84021135,US,USA,840,21135.0,lewis,"Lewis, Kentucky, US",0,0,0,0
@@ -9878,6 +9988,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.53184419,-83.37735618,84021135,US,USA,840,21135.0,lewis,"Lewis, Kentucky, US",2,0,0,0
 2020-04-18,us,kentucky,38.53184419,-83.37735618,84021135,US,USA,840,21135.0,lewis,"Lewis, Kentucky, US",2,0,0,0
 2020-04-19,us,kentucky,38.53184419,-83.37735618,84021135,US,USA,840,21135.0,lewis,"Lewis, Kentucky, US",3,1,0,0
+2020-04-20,us,kentucky,38.53184419,-83.37735618,84021135,US,USA,840,21135.0,lewis,"Lewis, Kentucky, US",3,0,0,0
 2020-01-22,us,kentucky,38.54332505,-82.9215658,84021089,US,USA,840,21089.0,greenup,"Greenup, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.54332505,-82.9215658,84021089,US,USA,840,21089.0,greenup,"Greenup, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.54332505,-82.9215658,84021089,US,USA,840,21089.0,greenup,"Greenup, Kentucky, US",0,0,0,0
@@ -9967,6 +10078,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.54332505,-82.9215658,84021089,US,USA,840,21089.0,greenup,"Greenup, Kentucky, US",10,-1,0,0
 2020-04-18,us,kentucky,38.54332505,-82.9215658,84021089,US,USA,840,21089.0,greenup,"Greenup, Kentucky, US",10,0,0,0
 2020-04-19,us,kentucky,38.54332505,-82.9215658,84021089,US,USA,840,21089.0,greenup,"Greenup, Kentucky, US",10,0,0,0
+2020-04-20,us,kentucky,38.54332505,-82.9215658,84021089,US,USA,840,21089.0,greenup,"Greenup, Kentucky, US",10,0,0,0
 2020-01-22,us,kentucky,38.59471935,-83.82151043,84021161,US,USA,840,21161.0,mason,"Mason, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.59471935,-83.82151043,84021161,US,USA,840,21161.0,mason,"Mason, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.59471935,-83.82151043,84021161,US,USA,840,21161.0,mason,"Mason, Kentucky, US",0,0,0,0
@@ -10056,6 +10168,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.59471935,-83.82151043,84021161,US,USA,840,21161.0,mason,"Mason, Kentucky, US",6,0,0,0
 2020-04-18,us,kentucky,38.59471935,-83.82151043,84021161,US,USA,840,21161.0,mason,"Mason, Kentucky, US",6,0,0,0
 2020-04-19,us,kentucky,38.59471935,-83.82151043,84021161,US,USA,840,21161.0,mason,"Mason, Kentucky, US",6,0,0,0
+2020-04-20,us,kentucky,38.59471935,-83.82151043,84021161,US,USA,840,21161.0,mason,"Mason, Kentucky, US",6,0,0,0
 2020-01-22,us,kentucky,38.61056487,-85.33775972,84021223,US,USA,840,21223.0,trimble,"Trimble, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.61056487,-85.33775972,84021223,US,USA,840,21223.0,trimble,"Trimble, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.61056487,-85.33775972,84021223,US,USA,840,21223.0,trimble,"Trimble, Kentucky, US",0,0,0,0
@@ -10145,6 +10258,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.61056487,-85.33775972,84021223,US,USA,840,21223.0,trimble,"Trimble, Kentucky, US",2,1,0,0
 2020-04-18,us,kentucky,38.61056487,-85.33775972,84021223,US,USA,840,21223.0,trimble,"Trimble, Kentucky, US",2,0,0,0
 2020-04-19,us,kentucky,38.61056487,-85.33775972,84021223,US,USA,840,21223.0,trimble,"Trimble, Kentucky, US",2,0,0,0
+2020-04-20,us,kentucky,38.61056487,-85.33775972,84021223,US,USA,840,21223.0,trimble,"Trimble, Kentucky, US",2,0,0,0
 2020-01-22,us,kentucky,38.64962758,-84.62415957,84021081,US,USA,840,21081.0,grant,"Grant, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.64962758,-84.62415957,84021081,US,USA,840,21081.0,grant,"Grant, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.64962758,-84.62415957,84021081,US,USA,840,21081.0,grant,"Grant, Kentucky, US",0,0,0,0
@@ -10234,6 +10348,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.64962758,-84.62415957,84021081,US,USA,840,21081.0,grant,"Grant, Kentucky, US",16,0,1,0
 2020-04-18,us,kentucky,38.64962758,-84.62415957,84021081,US,USA,840,21081.0,grant,"Grant, Kentucky, US",16,0,1,0
 2020-04-19,us,kentucky,38.64962758,-84.62415957,84021081,US,USA,840,21081.0,grant,"Grant, Kentucky, US",16,0,1,0
+2020-04-20,us,kentucky,38.64962758,-84.62415957,84021081,US,USA,840,21081.0,grant,"Grant, Kentucky, US",16,0,1,0
 2020-01-22,us,kentucky,38.66599534,-85.12601074,84021041,US,USA,840,21041.0,carroll,"Carroll, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.66599534,-85.12601074,84021041,US,USA,840,21041.0,carroll,"Carroll, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.66599534,-85.12601074,84021041,US,USA,840,21041.0,carroll,"Carroll, Kentucky, US",0,0,0,0
@@ -10323,6 +10438,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.66599534,-85.12601074,84021041,US,USA,840,21041.0,carroll,"Carroll, Kentucky, US",2,0,0,0
 2020-04-18,us,kentucky,38.66599534,-85.12601074,84021041,US,USA,840,21041.0,carroll,"Carroll, Kentucky, US",2,0,0,0
 2020-04-19,us,kentucky,38.66599534,-85.12601074,84021041,US,USA,840,21041.0,carroll,"Carroll, Kentucky, US",2,0,0,0
+2020-04-20,us,kentucky,38.66599534,-85.12601074,84021041,US,USA,840,21041.0,carroll,"Carroll, Kentucky, US",2,0,0,0
 2020-01-22,us,kentucky,38.69158994,-84.08532444,84021023,US,USA,840,21023.0,bracken,"Bracken, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.69158994,-84.08532444,84021023,US,USA,840,21023.0,bracken,"Bracken, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.69158994,-84.08532444,84021023,US,USA,840,21023.0,bracken,"Bracken, Kentucky, US",0,0,0,0
@@ -10412,6 +10528,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.69158994,-84.08532444,84021023,US,USA,840,21023.0,bracken,"Bracken, Kentucky, US",7,0,0,0
 2020-04-18,us,kentucky,38.69158994,-84.08532444,84021023,US,USA,840,21023.0,bracken,"Bracken, Kentucky, US",7,0,0,0
 2020-04-19,us,kentucky,38.69158994,-84.08532444,84021023,US,USA,840,21023.0,bracken,"Bracken, Kentucky, US",7,0,0,0
+2020-04-20,us,kentucky,38.69158994,-84.08532444,84021023,US,USA,840,21023.0,bracken,"Bracken, Kentucky, US",7,0,0,0
 2020-01-22,us,kentucky,38.69607718,-84.35599463,84021191,US,USA,840,21191.0,pendleton,"Pendleton, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.69607718,-84.35599463,84021191,US,USA,840,21191.0,pendleton,"Pendleton, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.69607718,-84.35599463,84021191,US,USA,840,21191.0,pendleton,"Pendleton, Kentucky, US",0,0,0,0
@@ -10501,6 +10618,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.69607718,-84.35599463,84021191,US,USA,840,21191.0,pendleton,"Pendleton, Kentucky, US",5,0,0,0
 2020-04-18,us,kentucky,38.69607718,-84.35599463,84021191,US,USA,840,21191.0,pendleton,"Pendleton, Kentucky, US",5,0,0,0
 2020-04-19,us,kentucky,38.69607718,-84.35599463,84021191,US,USA,840,21191.0,pendleton,"Pendleton, Kentucky, US",5,0,0,0
+2020-04-20,us,kentucky,38.69607718,-84.35599463,84021191,US,USA,840,21191.0,pendleton,"Pendleton, Kentucky, US",5,0,0,0
 2020-01-22,us,kentucky,38.75398691,-84.8558382,84021077,US,USA,840,21077.0,gallatin,"Gallatin, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.75398691,-84.8558382,84021077,US,USA,840,21077.0,gallatin,"Gallatin, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.75398691,-84.8558382,84021077,US,USA,840,21077.0,gallatin,"Gallatin, Kentucky, US",0,0,0,0
@@ -10590,6 +10708,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.75398691,-84.8558382,84021077,US,USA,840,21077.0,gallatin,"Gallatin, Kentucky, US",1,0,0,0
 2020-04-18,us,kentucky,38.75398691,-84.8558382,84021077,US,USA,840,21077.0,gallatin,"Gallatin, Kentucky, US",1,0,0,0
 2020-04-19,us,kentucky,38.75398691,-84.8558382,84021077,US,USA,840,21077.0,gallatin,"Gallatin, Kentucky, US",1,0,0,0
+2020-04-20,us,kentucky,38.75398691,-84.8558382,84021077,US,USA,840,21077.0,gallatin,"Gallatin, Kentucky, US",1,0,0,0
 2020-01-22,us,kentucky,38.93950319,-84.53241199,84021117,US,USA,840,21117.0,kenton,"Kenton, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.93950319,-84.53241199,84021117,US,USA,840,21117.0,kenton,"Kenton, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.93950319,-84.53241199,84021117,US,USA,840,21117.0,kenton,"Kenton, Kentucky, US",0,0,0,0
@@ -10679,6 +10798,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.93950319,-84.53241199,84021117,US,USA,840,21117.0,kenton,"Kenton, Kentucky, US",121,9,10,0
 2020-04-18,us,kentucky,38.93950319,-84.53241199,84021117,US,USA,840,21117.0,kenton,"Kenton, Kentucky, US",128,7,10,0
 2020-04-19,us,kentucky,38.93950319,-84.53241199,84021117,US,USA,840,21117.0,kenton,"Kenton, Kentucky, US",149,21,10,0
+2020-04-20,us,kentucky,38.93950319,-84.53241199,84021117,US,USA,840,21117.0,kenton,"Kenton, Kentucky, US",156,7,11,1
 2020-01-22,us,kentucky,38.94384345,-84.37875208,84021037,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.94384345,-84.37875208,84021037,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.94384345,-84.37875208,84021037,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",0,0,0,0
@@ -10768,6 +10888,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.94384345,-84.37875208,84021037,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",55,2,5,0
 2020-04-18,us,kentucky,38.94384345,-84.37875208,84021037,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",55,0,6,1
 2020-04-19,us,kentucky,38.94384345,-84.37875208,84021037,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",56,1,6,0
+2020-04-20,us,kentucky,38.94384345,-84.37875208,84021037,US,USA,840,21037.0,campbell,"Campbell, Kentucky, US",58,2,6,0
 2020-01-22,us,kentucky,38.97065142,-84.72615357,84021015,US,USA,840,21015.0,boone,"Boone, Kentucky, US",0,0,0,0
 2020-01-23,us,kentucky,38.97065142,-84.72615357,84021015,US,USA,840,21015.0,boone,"Boone, Kentucky, US",0,0,0,0
 2020-01-24,us,kentucky,38.97065142,-84.72615357,84021015,US,USA,840,21015.0,boone,"Boone, Kentucky, US",0,0,0,0
@@ -10857,3 +10978,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.97065142,-84.72615357,84021015,US,USA,840,21015.0,boone,"Boone, Kentucky, US",73,6,2,0
 2020-04-18,us,kentucky,38.97065142,-84.72615357,84021015,US,USA,840,21015.0,boone,"Boone, Kentucky, US",74,1,2,0
 2020-04-19,us,kentucky,38.97065142,-84.72615357,84021015,US,USA,840,21015.0,boone,"Boone, Kentucky, US",81,7,2,0
+2020-04-20,us,kentucky,38.97065142,-84.72615357,84021015,US,USA,840,21015.0,boone,"Boone, Kentucky, US",81,0,2,0

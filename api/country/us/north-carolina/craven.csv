@@ -88,3 +88,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",33,1,1,0
 2020-04-18,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",33,0,2,1
 2020-04-19,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",34,1,2,0
+2020-04-20,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",36,2,3,1

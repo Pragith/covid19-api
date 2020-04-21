@@ -88,3 +88,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",22,1,0,0
 2020-04-18,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",23,1,0,0
 2020-04-19,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",23,0,0,0
+2020-04-20,us,kentucky,38.29622293,-84.5816631,84021209,US,USA,840,21209.0,scott,"Scott, Kentucky, US",22,-1,0,0

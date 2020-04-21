@@ -88,3 +88,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-17,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",378,1,22,0
 2020-04-18,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",384,6,23,1
 2020-04-19,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",385,1,23,0
+2020-04-20,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",385,0,24,1
