@@ -88,3 +88,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-17,china,hebei,39.549,116.1306,328,0,6,0,316.0,1.0
 2020-04-18,china,hebei,39.549,116.1306,328,0,6,0,316.0,0.0
 2020-04-19,china,hebei,39.549,116.1306,328,0,6,0,316.0,0.0
+2020-04-20,china,hebei,39.549,116.1306,328,0,6,0,317.0,1.0

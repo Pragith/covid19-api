@@ -978,3 +978,14 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-19,france,saint-barthelemy,17.9,-62.8333,6,0,5.0,0,0,0.0
 2020-04-19,france,saint-pierre-and-miquelon,46.8852,-56.3159,1,0,0.0,0,0,0.0
 2020-04-19,france,st-martin,18.0708,-63.0501,37,2,19.0,0,0,0.0
+2020-04-20,france,,46.2276,2.2137,155275,20265,37409.0,2381,547,831.0
+2020-04-20,france,french-guiana,3.9339,-53.1258,97,1,69.0,1,1,5.0
+2020-04-20,france,french-polynesia,-17.6797,149.4068,56,0,19.0,1,0,17.0
+2020-04-20,france,guadeloupe,16.25,-61.5833,148,8,73.0,0,0,0.0
+2020-04-20,france,martinique,14.6415,-61.0242,163,12,73.0,0,0,0.0
+2020-04-20,france,mayotte,-12.8275,45.1662,271,4,117.0,0,0,0.0
+2020-04-20,france,new-caledonia,-20.9043,165.618,18,0,15.0,0,0,0.0
+2020-04-20,france,reunion,-21.1351,55.2471,408,0,237.0,0,0,0.0
+2020-04-20,france,saint-barthelemy,17.9,-62.8333,6,0,5.0,0,0,0.0
+2020-04-20,france,saint-pierre-and-miquelon,46.8852,-56.3159,1,0,0.0,0,0,0.0
+2020-04-20,france,st-martin,18.0708,-63.0501,37,2,19.0,0,0,0.0

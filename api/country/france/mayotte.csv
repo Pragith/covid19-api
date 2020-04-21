@@ -88,3 +88,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-17,france,mayotte,-12.8275,45.1662,245,12,4,1,117.0,48.0
 2020-04-18,france,mayotte,-12.8275,45.1662,254,9,4,0,117.0,0.0
 2020-04-19,france,mayotte,-12.8275,45.1662,271,17,4,0,117.0,0.0
+2020-04-20,france,mayotte,-12.8275,45.1662,271,0,4,0,117.0,0.0

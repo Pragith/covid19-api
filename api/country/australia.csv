@@ -711,3 +711,11 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-19,australia,tasmania,-41.4545,145.9707,180,7,67.0,0,0,0.0
 2020-04-19,australia,victoria,-37.8136,144.9631,1319,14,1172.0,0,0,0.0
 2020-04-19,australia,western-australia,-31.9505,115.8605,541,7,340.0,0,0,0.0
+2020-04-20,australia,australian-capital-territory,-35.4735,149.0124,103,3,88.0,0,0,0.0
+2020-04-20,australia,new-south-wales,-33.8688,151.2093,2926,26,1379.0,0,0,0.0
+2020-04-20,australia,northern-territory,-12.4634,130.8456,28,0,9.0,0,0,0.0
+2020-04-20,australia,queensland,-28.0167,153.4,1015,6,738.0,0,0,0.0
+2020-04-20,australia,south-australia,-34.9285,138.6007,435,4,331.0,0,0,0.0
+2020-04-20,australia,tasmania,-41.4545,145.9707,180,7,67.0,0,0,0.0
+2020-04-20,australia,victoria,-37.8136,144.9631,1319,14,1172.0,0,0,0.0
+2020-04-20,australia,western-australia,-31.9505,115.8605,541,7,340.0,0,0,0.0
