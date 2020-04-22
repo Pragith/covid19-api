@@ -89,3 +89,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,US,California,37.93433732,-121.2730061,84006077,US,USA,840,6077.0,San Joaquin,"San Joaquin, California, US",400,29,17,0
 2020-04-19,US,California,37.93433732,-121.2730061,84006077,US,USA,840,6077.0,San Joaquin,"San Joaquin, California, US",415,15,17,0
 2020-04-20,US,California,37.93433732,-121.2730061,84006077,US,USA,840,6077.0,San Joaquin,"San Joaquin, California, US",428,13,17,0
+2020-04-21,US,California,37.93433732,-121.2730061,84006077,US,USA,840,6077.0,San Joaquin,"San Joaquin, California, US",449,21,18,1
