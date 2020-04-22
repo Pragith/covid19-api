@@ -89,3 +89,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-18,china,shaanxi,35.1917,108.8701,256,0,3,0,252.0,0.0
 2020-04-19,china,shaanxi,35.1917,108.8701,256,0,3,0,252.0,0.0
 2020-04-20,china,shaanxi,35.1917,108.8701,256,0,3,0,252.0,0.0
+2020-04-21,china,shaanxi,35.1917,108.8701,277,21,3,0,253.0,1.0

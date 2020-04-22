@@ -89,3 +89,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-18,saudi-arabia,,24.0,45.0,8274,92,1329.0,1132,5,280.0
 2020-04-19,saudi-arabia,,24.0,45.0,9362,97,1398.0,1088,5,69.0
 2020-04-20,saudi-arabia,,24.0,45.0,10484,103,1490.0,1122,6,92.0
+2020-04-21,saudi-arabia,,24.0,45.0,11631,109,1640.0,1147,6,150.0

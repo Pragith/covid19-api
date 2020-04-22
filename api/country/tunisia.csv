@@ -89,3 +89,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-18,tunisia,,34.0,9.0,864,37,43.0,0,0,0.0
 2020-04-19,tunisia,,34.0,9.0,879,38,43.0,15,1,0.0
 2020-04-20,tunisia,,34.0,9.0,884,38,148.0,5,0,105.0
+2020-04-21,tunisia,,34.0,9.0,884,38,148.0,0,0,0.0

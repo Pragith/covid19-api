@@ -89,3 +89,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-18,china,guizhou,26.8154,106.8748,146,0,2,0,144.0,0.0
 2020-04-19,china,guizhou,26.8154,106.8748,147,1,2,0,145.0,1.0
 2020-04-20,china,guizhou,26.8154,106.8748,147,0,2,0,145.0,0.0
+2020-04-21,china,guizhou,26.8154,106.8748,147,0,2,0,145.0,0.0

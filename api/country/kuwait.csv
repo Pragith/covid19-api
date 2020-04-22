@@ -89,3 +89,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-18,kuwait,,29.5,47.75,1751,6,280.0,93,1,22.0
 2020-04-19,kuwait,,29.5,47.75,1915,7,305.0,164,1,25.0
 2020-04-20,kuwait,,29.5,47.75,1995,9,367.0,80,2,62.0
+2020-04-21,kuwait,,29.5,47.75,2080,11,412.0,85,2,45.0

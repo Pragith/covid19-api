@@ -89,3 +89,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-18,canada,nova-scotia,44.681999999999995,-63.7443,649,43,7,3,0.0,0.0
 2020-04-19,canada,nova-scotia,44.681999999999995,-63.7443,675,26,9,2,0.0,0.0
 2020-04-20,canada,nova-scotia,44.681999999999995,-63.7443,721,46,9,0,0.0,0.0
+2020-04-21,canada,nova-scotia,44.681999999999995,-63.7443,737,16,10,1,0.0,0.0

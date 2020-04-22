@@ -89,3 +89,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-18,kyrgyzstan,,41.2044,74.7661,506,5,130.0,17,0,16.0
 2020-04-19,kyrgyzstan,,41.2044,74.7661,554,5,133.0,48,0,3.0
 2020-04-20,kyrgyzstan,,41.2044,74.7661,568,7,201.0,14,2,68.0
+2020-04-21,kyrgyzstan,,41.2044,74.7661,590,7,216.0,22,0,15.0

@@ -89,3 +89,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-18,trinidad-and-tobago,,10.6918,-61.2225,114,8,21.0,0,0,1.0
 2020-04-19,trinidad-and-tobago,,10.6918,-61.2225,114,8,21.0,0,0,0.0
 2020-04-20,trinidad-and-tobago,,10.6918,-61.2225,114,8,22.0,0,0,1.0
+2020-04-21,trinidad-and-tobago,,10.6918,-61.2225,115,8,28.0,1,0,6.0
