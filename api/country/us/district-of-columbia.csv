@@ -89,6 +89,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,district-of-columbia,0.0,0.0,84080011,US,USA,840,80011.0,out-of-dc,"Out of DC, District of Columbia, US",0,0,0,0
 2020-04-19,us,district-of-columbia,0.0,0.0,84080011,US,USA,840,80011.0,out-of-dc,"Out of DC, District of Columbia, US",0,0,0,0
 2020-04-20,us,district-of-columbia,0.0,0.0,84080011,US,USA,840,80011.0,out-of-dc,"Out of DC, District of Columbia, US",0,0,0,0
+2020-04-21,us,district-of-columbia,0.0,0.0,84080011,US,USA,840,80011.0,out-of-dc,"Out of DC, District of Columbia, US",0,0,0,0
 2020-01-22,us,district-of-columbia,0.0,0.0,84090011,US,USA,840,90011.0,unassigned,"Unassigned, District of Columbia, US",0,0,0,0
 2020-01-23,us,district-of-columbia,0.0,0.0,84090011,US,USA,840,90011.0,unassigned,"Unassigned, District of Columbia, US",0,0,0,0
 2020-01-24,us,district-of-columbia,0.0,0.0,84090011,US,USA,840,90011.0,unassigned,"Unassigned, District of Columbia, US",0,0,0,0
@@ -179,6 +180,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,district-of-columbia,0.0,0.0,84090011,US,USA,840,90011.0,unassigned,"Unassigned, District of Columbia, US",0,0,0,0
 2020-04-19,us,district-of-columbia,0.0,0.0,84090011,US,USA,840,90011.0,unassigned,"Unassigned, District of Columbia, US",0,0,0,0
 2020-04-20,us,district-of-columbia,0.0,0.0,84090011,US,USA,840,90011.0,unassigned,"Unassigned, District of Columbia, US",0,0,0,0
+2020-04-21,us,district-of-columbia,0.0,0.0,84090011,US,USA,840,90011.0,unassigned,"Unassigned, District of Columbia, US",0,0,0,0
 2020-01-22,us,district-of-columbia,38.90417773,-77.01655992,84011001,US,USA,840,11001.0,district-of-columbia,"District of Columbia,District of Columbia,US",0,0,0,0
 2020-01-23,us,district-of-columbia,38.90417773,-77.01655992,84011001,US,USA,840,11001.0,district-of-columbia,"District of Columbia,District of Columbia,US",0,0,0,0
 2020-01-24,us,district-of-columbia,38.90417773,-77.01655992,84011001,US,USA,840,11001.0,district-of-columbia,"District of Columbia,District of Columbia,US",0,0,0,0
@@ -269,3 +271,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,district-of-columbia,38.90417773,-77.01655992,84011001,US,USA,840,11001.0,district-of-columbia,"District of Columbia,District of Columbia,US",2666,190,91,5
 2020-04-19,us,district-of-columbia,38.90417773,-77.01655992,84011001,US,USA,840,11001.0,district-of-columbia,"District of Columbia,District of Columbia,US",2793,127,96,5
 2020-04-20,us,district-of-columbia,38.90417773,-77.01655992,84011001,US,USA,840,11001.0,district-of-columbia,"District of Columbia,District of Columbia,US",2927,134,105,9
+2020-04-21,us,district-of-columbia,38.90417773,-77.01655992,84011001,US,USA,840,11001.0,district-of-columbia,"District of Columbia,District of Columbia,US",3098,171,112,7

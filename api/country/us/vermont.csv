@@ -89,6 +89,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,0.0,0.0,84080050,US,USA,840,80050.0,out-of-vt,"Out of VT, Vermont, US",0,0,0,0
 2020-04-19,us,vermont,0.0,0.0,84080050,US,USA,840,80050.0,out-of-vt,"Out of VT, Vermont, US",0,0,0,0
 2020-04-20,us,vermont,0.0,0.0,84080050,US,USA,840,80050.0,out-of-vt,"Out of VT, Vermont, US",0,0,0,0
+2020-04-21,us,vermont,0.0,0.0,84080050,US,USA,840,80050.0,out-of-vt,"Out of VT, Vermont, US",0,0,0,0
 2020-01-22,us,vermont,0.0,0.0,84090050,US,USA,840,90050.0,unassigned,"Unassigned, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,0.0,0.0,84090050,US,USA,840,90050.0,unassigned,"Unassigned, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,0.0,0.0,84090050,US,USA,840,90050.0,unassigned,"Unassigned, Vermont, US",0,0,0,0
@@ -179,6 +180,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,0.0,0.0,84090050,US,USA,840,90050.0,unassigned,"Unassigned, Vermont, US",10,0,1,1
 2020-04-19,us,vermont,0.0,0.0,84090050,US,USA,840,90050.0,unassigned,"Unassigned, Vermont, US",10,0,1,0
 2020-04-20,us,vermont,0.0,0.0,84090050,US,USA,840,90050.0,unassigned,"Unassigned, Vermont, US",11,1,0,-1
+2020-04-21,us,vermont,0.0,0.0,84090050,US,USA,840,90050.0,unassigned,"Unassigned, Vermont, US",3,-8,0,0
 2020-01-22,us,vermont,42.986982,-72.71268875,84050025,US,USA,840,50025.0,windham,"Windham, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,42.986982,-72.71268875,84050025,US,USA,840,50025.0,windham,"Windham, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,42.986982,-72.71268875,84050025,US,USA,840,50025.0,windham,"Windham, Vermont, US",0,0,0,0
@@ -269,6 +271,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,42.986982,-72.71268875,84050025,US,USA,840,50025.0,windham,"Windham, Vermont, US",63,3,2,0
 2020-04-19,us,vermont,42.986982,-72.71268875,84050025,US,USA,840,50025.0,windham,"Windham, Vermont, US",63,0,2,0
 2020-04-20,us,vermont,42.986982,-72.71268875,84050025,US,USA,840,50025.0,windham,"Windham, Vermont, US",63,0,2,0
+2020-04-21,us,vermont,42.986982,-72.71268875,84050025,US,USA,840,50025.0,windham,"Windham, Vermont, US",65,2,2,0
 2020-01-22,us,vermont,43.03519828,-73.09048868,84050003,US,USA,840,50003.0,bennington,"Bennington, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,43.03519828,-73.09048868,84050003,US,USA,840,50003.0,bennington,"Bennington, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,43.03519828,-73.09048868,84050003,US,USA,840,50003.0,bennington,"Bennington, Vermont, US",0,0,0,0
@@ -359,6 +362,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,43.03519828,-73.09048868,84050003,US,USA,840,50003.0,bennington,"Bennington, Vermont, US",37,4,1,0
 2020-04-19,us,vermont,43.03519828,-73.09048868,84050003,US,USA,840,50003.0,bennington,"Bennington, Vermont, US",37,0,1,0
 2020-04-20,us,vermont,43.03519828,-73.09048868,84050003,US,USA,840,50003.0,bennington,"Bennington, Vermont, US",37,0,1,0
+2020-04-21,us,vermont,43.03519828,-73.09048868,84050003,US,USA,840,50003.0,bennington,"Bennington, Vermont, US",37,0,1,0
 2020-01-22,us,vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,rutland,"Rutland, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,rutland,"Rutland, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,rutland,"Rutland, Vermont, US",0,0,0,0
@@ -449,6 +453,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,rutland,"Rutland, Vermont, US",42,1,1,0
 2020-04-19,us,vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,rutland,"Rutland, Vermont, US",43,1,1,0
 2020-04-20,us,vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,rutland,"Rutland, Vermont, US",43,0,1,0
+2020-04-21,us,vermont,43.57723578,-73.03741676,84050021,US,USA,840,50021.0,rutland,"Rutland, Vermont, US",44,1,1,0
 2020-01-22,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",0,0,0,0
@@ -539,6 +544,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",34,1,2,0
 2020-04-19,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",37,3,2,0
 2020-04-20,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",37,0,2,0
+2020-04-21,us,vermont,43.58010937,-72.58595157,84050027,US,USA,840,50027.0,windsor,"Windsor, Vermont, US",38,1,2,0
 2020-01-22,us,vermont,44.00470222,-72.37640104,84050017,US,USA,840,50017.0,orange,"Orange, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,44.00470222,-72.37640104,84050017,US,USA,840,50017.0,orange,"Orange, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,44.00470222,-72.37640104,84050017,US,USA,840,50017.0,orange,"Orange, Vermont, US",0,0,0,0
@@ -629,6 +635,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,44.00470222,-72.37640104,84050017,US,USA,840,50017.0,orange,"Orange, Vermont, US",5,0,0,0
 2020-04-19,us,vermont,44.00470222,-72.37640104,84050017,US,USA,840,50017.0,orange,"Orange, Vermont, US",5,0,0,0
 2020-04-20,us,vermont,44.00470222,-72.37640104,84050017,US,USA,840,50017.0,orange,"Orange, Vermont, US",5,0,0,0
+2020-04-21,us,vermont,44.00470222,-72.37640104,84050017,US,USA,840,50017.0,orange,"Orange, Vermont, US",6,1,0,0
 2020-01-22,us,vermont,44.03217337,-73.14130877,84050001,US,USA,840,50001.0,addison,"Addison, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,44.03217337,-73.14130877,84050001,US,USA,840,50001.0,addison,"Addison, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,44.03217337,-73.14130877,84050001,US,USA,840,50001.0,addison,"Addison, Vermont, US",0,0,0,0
@@ -719,6 +726,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,44.03217337,-73.14130877,84050001,US,USA,840,50001.0,addison,"Addison, Vermont, US",61,4,2,1
 2020-04-19,us,vermont,44.03217337,-73.14130877,84050001,US,USA,840,50001.0,addison,"Addison, Vermont, US",61,0,2,0
 2020-04-20,us,vermont,44.03217337,-73.14130877,84050001,US,USA,840,50001.0,addison,"Addison, Vermont, US",61,0,2,0
+2020-04-21,us,vermont,44.03217337,-73.14130877,84050001,US,USA,840,50001.0,addison,"Addison, Vermont, US",61,0,2,0
 2020-01-22,us,vermont,44.27343241,-72.61604978,84050023,US,USA,840,50023.0,washington,"Washington, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,44.27343241,-72.61604978,84050023,US,USA,840,50023.0,washington,"Washington, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,44.27343241,-72.61604978,84050023,US,USA,840,50023.0,washington,"Washington, Vermont, US",0,0,0,0
@@ -809,6 +817,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,44.27343241,-72.61604978,84050023,US,USA,840,50023.0,washington,"Washington, Vermont, US",31,1,1,0
 2020-04-19,us,vermont,44.27343241,-72.61604978,84050023,US,USA,840,50023.0,washington,"Washington, Vermont, US",32,1,1,0
 2020-04-20,us,vermont,44.27343241,-72.61604978,84050023,US,USA,840,50023.0,washington,"Washington, Vermont, US",32,0,1,0
+2020-04-21,us,vermont,44.27343241,-72.61604978,84050023,US,USA,840,50023.0,washington,"Washington, Vermont, US",32,0,1,0
 2020-01-22,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",0,0,0,0
@@ -899,6 +908,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",384,6,23,1
 2020-04-19,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",385,1,23,0
 2020-04-20,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",385,0,24,1
+2020-04-21,us,vermont,44.46322849,-73.08359212,84050007,US,USA,840,50007.0,chittenden,"Chittenden, Vermont, US",391,6,25,1
 2020-01-22,us,vermont,44.46548598,-72.10314651,84050005,US,USA,840,50005.0,caledonia,"Caledonia, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,44.46548598,-72.10314651,84050005,US,USA,840,50005.0,caledonia,"Caledonia, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,44.46548598,-72.10314651,84050005,US,USA,840,50005.0,caledonia,"Caledonia, Vermont, US",0,0,0,0
@@ -989,6 +999,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,44.46548598,-72.10314651,84050005,US,USA,840,50005.0,caledonia,"Caledonia, Vermont, US",10,0,0,0
 2020-04-19,us,vermont,44.46548598,-72.10314651,84050005,US,USA,840,50005.0,caledonia,"Caledonia, Vermont, US",12,2,0,0
 2020-04-20,us,vermont,44.46548598,-72.10314651,84050005,US,USA,840,50005.0,caledonia,"Caledonia, Vermont, US",12,0,0,0
+2020-04-21,us,vermont,44.46548598,-72.10314651,84050005,US,USA,840,50005.0,caledonia,"Caledonia, Vermont, US",12,0,0,0
 2020-01-22,us,vermont,44.60353043,-72.64356694,84050015,US,USA,840,50015.0,lamoille,"Lamoille, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,44.60353043,-72.64356694,84050015,US,USA,840,50015.0,lamoille,"Lamoille, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,44.60353043,-72.64356694,84050015,US,USA,840,50015.0,lamoille,"Lamoille, Vermont, US",0,0,0,0
@@ -1079,6 +1090,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,44.60353043,-72.64356694,84050015,US,USA,840,50015.0,lamoille,"Lamoille, Vermont, US",23,1,2,0
 2020-04-19,us,vermont,44.60353043,-72.64356694,84050015,US,USA,840,50015.0,lamoille,"Lamoille, Vermont, US",23,0,2,0
 2020-04-20,us,vermont,44.60353043,-72.64356694,84050015,US,USA,840,50015.0,lamoille,"Lamoille, Vermont, US",23,0,2,0
+2020-04-21,us,vermont,44.60353043,-72.64356694,84050015,US,USA,840,50015.0,lamoille,"Lamoille, Vermont, US",23,0,2,0
 2020-01-22,us,vermont,44.72736416,-71.73579864,84050009,US,USA,840,50009.0,essex,"Essex, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,44.72736416,-71.73579864,84050009,US,USA,840,50009.0,essex,"Essex, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,44.72736416,-71.73579864,84050009,US,USA,840,50009.0,essex,"Essex, Vermont, US",0,0,0,0
@@ -1169,96 +1181,98 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,44.72736416,-71.73579864,84050009,US,USA,840,50009.0,essex,"Essex, Vermont, US",1,0,0,0
 2020-04-19,us,vermont,44.72736416,-71.73579864,84050009,US,USA,840,50009.0,essex,"Essex, Vermont, US",2,1,0,0
 2020-04-20,us,vermont,44.72736416,-71.73579864,84050009,US,USA,840,50009.0,essex,"Essex, Vermont, US",2,0,0,0
-2020-01-22,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-01-23,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-01-24,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-01-25,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-01-26,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-01-27,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-01-28,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-01-29,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-01-30,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-01-31,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-01,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-02,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-03,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-04,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-05,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-06,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-07,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-08,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-09,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-10,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-11,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-12,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-13,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-14,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-15,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-16,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-17,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-18,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-19,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-20,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-21,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-22,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-23,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-24,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-25,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-26,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-27,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-28,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-02-29,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-01,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-02,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-03,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-04,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-05,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-06,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-07,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-08,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-09,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-10,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-11,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-12,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-13,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-14,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-15,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-16,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-17,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-18,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-19,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-20,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-21,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-22,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-23,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-24,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-25,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-26,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-27,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-28,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-29,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-30,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-03-31,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-04-01,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-04-02,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-04-03,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-04-04,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-04-05,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-04-06,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
-2020-04-07,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",1,1,0,0
-2020-04-08,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",1,0,0,0
-2020-04-09,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,2,0,0
-2020-04-10,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
-2020-04-11,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
-2020-04-12,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
-2020-04-13,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
-2020-04-14,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
-2020-04-15,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
-2020-04-16,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
-2020-04-17,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
-2020-04-18,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
-2020-04-19,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
-2020-04-20,us,vermont,44.7975824,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-21,us,vermont,44.72736416,-71.73579864,84050009,US,USA,840,50009.0,essex,"Essex, Vermont, US",2,0,0,0
+2020-01-22,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-01-23,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-01-24,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-01-25,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-01-26,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-01-27,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-01-28,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-01-29,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-01-30,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-01-31,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-01,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-02,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-03,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-04,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-05,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-06,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-07,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-08,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-09,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-10,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-11,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-12,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-13,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-14,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-15,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-16,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-17,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-18,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-19,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-20,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-21,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-22,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-23,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-24,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-25,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-26,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-27,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-28,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-02-29,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-01,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-02,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-03,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-04,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-05,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-06,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-07,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-08,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-09,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-10,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-11,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-12,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-13,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-14,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-15,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-16,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-17,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-18,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-19,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-20,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-21,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-22,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-23,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-24,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-25,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-26,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-27,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-28,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-29,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-30,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-03-31,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-04-01,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-04-02,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-04-03,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-04-04,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-04-05,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-04-06,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",0,0,0,0
+2020-04-07,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",1,1,0,0
+2020-04-08,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",1,0,0,0
+2020-04-09,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,2,0,0
+2020-04-10,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-11,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-12,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-13,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-14,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-15,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-16,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-17,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-18,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-19,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-20,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
+2020-04-21,us,vermont,44.797582399999996,-73.29679772,84050013,US,USA,840,50013.0,grand-isle,"Grand Isle, Vermont, US",3,0,0,0
 2020-01-22,us,vermont,44.82964024,-72.24562697,84050019,US,USA,840,50019.0,orleans,"Orleans, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,44.82964024,-72.24562697,84050019,US,USA,840,50019.0,orleans,"Orleans, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,44.82964024,-72.24562697,84050019,US,USA,840,50019.0,orleans,"Orleans, Vermont, US",0,0,0,0
@@ -1349,6 +1363,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,44.82964024,-72.24562697,84050019,US,USA,840,50019.0,orleans,"Orleans, Vermont, US",9,1,0,0
 2020-04-19,us,vermont,44.82964024,-72.24562697,84050019,US,USA,840,50019.0,orleans,"Orleans, Vermont, US",9,0,0,0
 2020-04-20,us,vermont,44.82964024,-72.24562697,84050019,US,USA,840,50019.0,orleans,"Orleans, Vermont, US",9,0,0,0
+2020-04-21,us,vermont,44.82964024,-72.24562697,84050019,US,USA,840,50019.0,orleans,"Orleans, Vermont, US",9,0,0,0
 2020-01-22,us,vermont,44.85627605,-72.91249563,84050011,US,USA,840,50011.0,franklin,"Franklin, Vermont, US",0,0,0,0
 2020-01-23,us,vermont,44.85627605,-72.91249563,84050011,US,USA,840,50011.0,franklin,"Franklin, Vermont, US",0,0,0,0
 2020-01-24,us,vermont,44.85627605,-72.91249563,84050011,US,USA,840,50011.0,franklin,"Franklin, Vermont, US",0,0,0,0
@@ -1439,3 +1454,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,vermont,44.85627605,-72.91249563,84050011,US,USA,840,50011.0,franklin,"Franklin, Vermont, US",90,2,3,0
 2020-04-19,us,vermont,44.85627605,-72.91249563,84050011,US,USA,840,50011.0,franklin,"Franklin, Vermont, US",91,1,3,0
 2020-04-20,us,vermont,44.85627605,-72.91249563,84050011,US,USA,840,50011.0,franklin,"Franklin, Vermont, US",93,2,3,0
+2020-04-21,us,vermont,44.85627605,-72.91249563,84050011,US,USA,840,50011.0,franklin,"Franklin, Vermont, US",92,-1,4,1

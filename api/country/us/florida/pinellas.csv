@@ -89,3 +89,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,florida,27.93130349,-82.72239666,84012103,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",587,22,16,0
 2020-04-19,us,florida,27.93130349,-82.72239666,84012103,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",592,5,16,0
 2020-04-20,us,florida,27.93130349,-82.72239666,84012103,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",607,15,16,0
+2020-04-21,us,florida,27.93130349,-82.72239666,84012103,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",632,25,18,2

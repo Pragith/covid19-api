@@ -89,3 +89,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",4548,124,212,11
 2020-04-19,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",4648,100,217,5
 2020-04-20,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",4868,220,222,5
+2020-04-21,us,new-jersey,39.8895449,-74.28089251,84034029,US,USA,840,34029.0,ocean,"Ocean, New Jersey, US",4868,0,222,0

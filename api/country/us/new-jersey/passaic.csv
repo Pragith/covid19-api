@@ -89,3 +89,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",7936,332,243,22
 2020-04-19,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",8288,352,250,7
 2020-04-20,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",8479,191,263,13
+2020-04-21,us,new-jersey,41.03238628,-74.29954144,84034031,US,USA,840,34031.0,passaic,"Passaic, New Jersey, US",8479,0,263,0

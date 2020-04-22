@@ -89,3 +89,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,michigan,0.0,0.0,84090026,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",48,2,3,-1
 2020-04-19,us,michigan,0.0,0.0,84090026,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",29,-19,4,1
 2020-04-20,us,michigan,0.0,0.0,84090026,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",28,-1,4,0
+2020-04-21,us,michigan,0.0,0.0,84090026,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",28,0,4,0

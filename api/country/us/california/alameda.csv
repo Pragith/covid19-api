@@ -89,3 +89,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,california,37.64629437,-121.8929271,84006001,US,USA,840,6001.0,alameda,"Alameda, California, US",1114,51,41,1
 2020-04-19,us,california,37.64629437,-121.8929271,84006001,US,USA,840,6001.0,alameda,"Alameda, California, US",1164,50,42,1
 2020-04-20,us,california,37.64629437,-121.8929271,84006001,US,USA,840,6001.0,alameda,"Alameda, California, US",1193,29,42,0
+2020-04-21,us,california,37.64629437,-121.8929271,84006001,US,USA,840,6001.0,alameda,"Alameda, California, US",1241,48,43,1
