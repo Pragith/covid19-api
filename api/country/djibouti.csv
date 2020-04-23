@@ -90,3 +90,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-19,djibouti,,11.8251,42.5903,846,2,102.0,114,0,26.0
 2020-04-20,djibouti,,11.8251,42.5903,846,2,102.0,0,0,0.0
 2020-04-21,djibouti,,11.8251,42.5903,945,2,112.0,99,0,10.0
+2020-04-22,djibouti,,11.8251,42.5903,974,2,183.0,29,0,71.0

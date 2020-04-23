@@ -90,3 +90,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-19,croatia,,45.1,15.2,1871,47,709.0,39,8,94.0
 2020-04-20,croatia,,45.1,15.2,1881,47,771.0,10,0,62.0
 2020-04-21,croatia,,45.1,15.2,1908,48,801.0,27,1,30.0
+2020-04-22,croatia,,45.1,15.2,1950,48,869.0,42,0,68.0

@@ -272,3 +272,6 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-21,denmark,,56.2639,9.5018,7695,370,4700.0,180,6,388.0
 2020-04-21,denmark,faroe-islands,61.8926,-6.9118,185,0,178.0,0,0,2.0
 2020-04-21,denmark,greenland,71.7069,-42.6043,11,0,11.0,0,0,0.0
+2020-04-22,denmark,,56.2639,9.5018,7912,384,5087.0,217,14,387.0
+2020-04-22,denmark,faroe-islands,61.8926,-6.9118,185,0,178.0,0,0,0.0
+2020-04-22,denmark,greenland,71.7069,-42.6043,11,0,11.0,0,0,0.0

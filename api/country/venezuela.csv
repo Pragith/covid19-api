@@ -90,3 +90,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-19,venezuela,,6.4238,-66.5897,256,9,117.0,29,0,4.0
 2020-04-20,venezuela,,6.4238,-66.5897,256,9,117.0,0,0,0.0
 2020-04-21,venezuela,,6.4238,-66.5897,285,10,117.0,29,1,0.0
+2020-04-22,venezuela,,6.4238,-66.5897,288,10,122.0,3,0,5.0

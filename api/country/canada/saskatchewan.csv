@@ -90,3 +90,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-19,canada,saskatchewan,52.9399,-106.4509,315,2,4,0,0.0,0.0
 2020-04-20,canada,saskatchewan,52.9399,-106.4509,316,1,4,0,0.0,0.0
 2020-04-21,canada,saskatchewan,52.9399,-106.4509,320,4,4,0,0.0,0.0
+2020-04-22,canada,saskatchewan,52.9399,-106.4509,326,6,4,0,0.0,0.0
