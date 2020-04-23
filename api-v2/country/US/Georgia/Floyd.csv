@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,US,Georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,Floyd,"Floyd, Georgia, US",122,1,8,0
 2020-04-20,US,Georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,Floyd,"Floyd, Georgia, US",126,4,9,1
 2020-04-21,US,Georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,Floyd,"Floyd, Georgia, US",127,1,9,0
+2020-04-22,US,Georgia,34.26268279,-85.21577392,84013115,US,USA,840,13115.0,Floyd,"Floyd, Georgia, US",128,1,8,-1

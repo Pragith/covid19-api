@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,US,Alabama,31.68099859,-87.83548597,84001025,US,USA,840,1025.0,Clarke,"Clarke, Alabama, US",24,0,0,0
 2020-04-20,US,Alabama,31.68099859,-87.83548597,84001025,US,USA,840,1025.0,Clarke,"Clarke, Alabama, US",24,0,0,0
 2020-04-21,US,Alabama,31.68099859,-87.83548597,84001025,US,USA,840,1025.0,Clarke,"Clarke, Alabama, US",24,0,1,1
+2020-04-22,US,Alabama,31.68099859,-87.83548597,84001025,US,USA,840,1025.0,Clarke,"Clarke, Alabama, US",25,1,1,0

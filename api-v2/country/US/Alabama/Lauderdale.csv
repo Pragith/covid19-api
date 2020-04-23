@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,US,Alabama,34.90171875,-87.65624729,84001077,US,USA,840,1077.0,Lauderdale,"Lauderdale, Alabama, US",23,0,4,0
 2020-04-20,US,Alabama,34.90171875,-87.65624729,84001077,US,USA,840,1077.0,Lauderdale,"Lauderdale, Alabama, US",24,1,4,0
 2020-04-21,US,Alabama,34.90171875,-87.65624729,84001077,US,USA,840,1077.0,Lauderdale,"Lauderdale, Alabama, US",25,1,4,0
+2020-04-22,US,Alabama,34.90171875,-87.65624729,84001077,US,USA,840,1077.0,Lauderdale,"Lauderdale, Alabama, US",25,0,3,-1

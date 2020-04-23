@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,US,Virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,Falls Church,"Falls Church, Virginia, US",0,0,0,0
 2020-04-20,US,Virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,Falls Church,"Falls Church, Virginia, US",24,24,0,0
 2020-04-21,US,Virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,Falls Church,"Falls Church, Virginia, US",24,0,0,0
+2020-04-22,US,Virginia,38.88485255,-77.17560759,84051610,US,USA,840,51610.0,Falls Church,"Falls Church, Virginia, US",25,1,1,1

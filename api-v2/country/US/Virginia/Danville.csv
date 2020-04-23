@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,US,Virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,Danville,"Danville, Virginia, US",27,3,0,0
 2020-04-20,US,Virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,Danville,"Danville, Virginia, US",28,1,0,0
 2020-04-21,US,Virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,Danville,"Danville, Virginia, US",29,1,0,0
+2020-04-22,US,Virginia,36.58022376,-79.40395668,84051590,US,USA,840,51590.0,Danville,"Danville, Virginia, US",29,0,1,1

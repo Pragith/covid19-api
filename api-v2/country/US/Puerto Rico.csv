@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,US,Puerto Rico,18.2208,-66.5901,630,PR,PRI,630,72.0,,"Puerto Rico, US",1213,95,62,2
 2020-04-20,US,Puerto Rico,18.2208,-66.5901,630,PR,PRI,630,72.0,,"Puerto Rico, US",1252,39,63,1
 2020-04-21,US,Puerto Rico,18.2208,-66.5901,630,PR,PRI,630,72.0,,"Puerto Rico, US",1298,46,64,1
+2020-04-22,US,Puerto Rico,18.2208,-66.5901,630,PR,PRI,630,72.0,,"Puerto Rico, US",1252,-46,63,-1
