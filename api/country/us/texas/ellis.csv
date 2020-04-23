@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,texas,32.34894117,-96.79371841,84048139,US,USA,840,48139.0,ellis,"Ellis, Texas, US",83,0,3,0
 2020-04-20,us,texas,32.34894117,-96.79371841,84048139,US,USA,840,48139.0,ellis,"Ellis, Texas, US",90,7,3,0
 2020-04-21,us,texas,32.34894117,-96.79371841,84048139,US,USA,840,48139.0,ellis,"Ellis, Texas, US",100,10,4,1
+2020-04-22,us,texas,32.34894117,-96.79371841,84048139,US,USA,840,48139.0,ellis,"Ellis, Texas, US",110,10,4,0

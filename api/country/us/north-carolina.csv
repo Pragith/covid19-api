@@ -90,6 +90,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,0.0,0.0,84080037,US,USA,840,80037.0,out-of-nc,"Out of NC, North Carolina, US",0,0,0,0
 2020-04-20,us,north-carolina,0.0,0.0,84080037,US,USA,840,80037.0,out-of-nc,"Out of NC, North Carolina, US",0,0,0,0
 2020-04-21,us,north-carolina,0.0,0.0,84080037,US,USA,840,80037.0,out-of-nc,"Out of NC, North Carolina, US",0,0,0,0
+2020-04-22,us,north-carolina,0.0,0.0,84080037,US,USA,840,80037.0,out-of-nc,"Out of NC, North Carolina, US",0,0,0,0
 2020-01-22,us,north-carolina,0.0,0.0,84090037,US,USA,840,90037.0,unassigned,"Unassigned, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,0.0,0.0,84090037,US,USA,840,90037.0,unassigned,"Unassigned, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,0.0,0.0,84090037,US,USA,840,90037.0,unassigned,"Unassigned, North Carolina, US",0,0,0,0
@@ -181,6 +182,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,0.0,0.0,84090037,US,USA,840,90037.0,unassigned,"Unassigned, North Carolina, US",3,3,0,0
 2020-04-20,us,north-carolina,0.0,0.0,84090037,US,USA,840,90037.0,unassigned,"Unassigned, North Carolina, US",0,-3,0,0
 2020-04-21,us,north-carolina,0.0,0.0,84090037,US,USA,840,90037.0,unassigned,"Unassigned, North Carolina, US",0,0,0,0
+2020-04-22,us,north-carolina,0.0,0.0,84090037,US,USA,840,90037.0,unassigned,"Unassigned, North Carolina, US",0,0,0,0
 2020-01-22,us,north-carolina,34.070565,-78.22814204,84037019,US,USA,840,37019.0,brunswick,"Brunswick, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.070565,-78.22814204,84037019,US,USA,840,37019.0,brunswick,"Brunswick, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.070565,-78.22814204,84037019,US,USA,840,37019.0,brunswick,"Brunswick, North Carolina, US",0,0,0,0
@@ -272,6 +274,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.070565,-78.22814204,84037019,US,USA,840,37019.0,brunswick,"Brunswick, North Carolina, US",36,0,2,0
 2020-04-20,us,north-carolina,34.070565,-78.22814204,84037019,US,USA,840,37019.0,brunswick,"Brunswick, North Carolina, US",36,0,2,0
 2020-04-21,us,north-carolina,34.070565,-78.22814204,84037019,US,USA,840,37019.0,brunswick,"Brunswick, North Carolina, US",38,2,2,0
+2020-04-22,us,north-carolina,34.070565,-78.22814204,84037019,US,USA,840,37019.0,brunswick,"Brunswick, North Carolina, US",38,0,2,0
 2020-01-22,us,north-carolina,34.25758282,-77.87075626,84037129,US,USA,840,37129.0,new-hanover,"New Hanover, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.25758282,-77.87075626,84037129,US,USA,840,37129.0,new-hanover,"New Hanover, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.25758282,-77.87075626,84037129,US,USA,840,37129.0,new-hanover,"New Hanover, North Carolina, US",0,0,0,0
@@ -363,6 +366,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.25758282,-77.87075626,84037129,US,USA,840,37129.0,new-hanover,"New Hanover, North Carolina, US",68,0,1,0
 2020-04-20,us,north-carolina,34.25758282,-77.87075626,84037129,US,USA,840,37129.0,new-hanover,"New Hanover, North Carolina, US",68,0,1,0
 2020-04-21,us,north-carolina,34.25758282,-77.87075626,84037129,US,USA,840,37129.0,new-hanover,"New Hanover, North Carolina, US",69,1,3,2
+2020-04-22,us,north-carolina,34.25758282,-77.87075626,84037129,US,USA,840,37129.0,new-hanover,"New Hanover, North Carolina, US",69,0,3,0
 2020-01-22,us,north-carolina,34.26744084,-78.65801424,84037047,US,USA,840,37047.0,columbus,"Columbus, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.26744084,-78.65801424,84037047,US,USA,840,37047.0,columbus,"Columbus, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.26744084,-78.65801424,84037047,US,USA,840,37047.0,columbus,"Columbus, North Carolina, US",0,0,0,0
@@ -454,6 +458,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.26744084,-78.65801424,84037047,US,USA,840,37047.0,columbus,"Columbus, North Carolina, US",58,3,3,1
 2020-04-20,us,north-carolina,34.26744084,-78.65801424,84037047,US,USA,840,37047.0,columbus,"Columbus, North Carolina, US",59,1,3,0
 2020-04-21,us,north-carolina,34.26744084,-78.65801424,84037047,US,USA,840,37047.0,columbus,"Columbus, North Carolina, US",61,2,3,0
+2020-04-22,us,north-carolina,34.26744084,-78.65801424,84037047,US,USA,840,37047.0,columbus,"Columbus, North Carolina, US",76,15,5,2
 2020-01-22,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",0,0,0,0
@@ -545,6 +550,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",7,1,0,0
 2020-04-20,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",8,1,0,0
 2020-04-21,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",9,1,0,0
+2020-04-22,us,north-carolina,34.52265624,-77.90352133,84037141,US,USA,840,37141.0,pender,"Pender, North Carolina, US",11,2,0,0
 2020-01-22,us,north-carolina,34.61296243,-78.56180059,84037017,US,USA,840,37017.0,bladen,"Bladen, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.61296243,-78.56180059,84037017,US,USA,840,37017.0,bladen,"Bladen, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.61296243,-78.56180059,84037017,US,USA,840,37017.0,bladen,"Bladen, North Carolina, US",0,0,0,0
@@ -636,97 +642,99 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.61296243,-78.56180059,84037017,US,USA,840,37017.0,bladen,"Bladen, North Carolina, US",2,0,0,0
 2020-04-20,us,north-carolina,34.61296243,-78.56180059,84037017,US,USA,840,37017.0,bladen,"Bladen, North Carolina, US",2,0,0,0
 2020-04-21,us,north-carolina,34.61296243,-78.56180059,84037017,US,USA,840,37017.0,bladen,"Bladen, North Carolina, US",4,2,0,0
-2020-01-22,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-01-23,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-01-24,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-01-25,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-01-26,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-01-27,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-01-28,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-01-29,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-01-30,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-01-31,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-01,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-02,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-03,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-04,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-05,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-06,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-07,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-08,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-09,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-10,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-11,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-12,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-13,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-14,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-15,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-16,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-17,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-18,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-19,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-20,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-21,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-22,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-23,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-24,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-25,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-26,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-27,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-28,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-02-29,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-01,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-02,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-03,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-04,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-05,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-06,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-07,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-08,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-09,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-10,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-11,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-12,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-13,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-14,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-15,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-16,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-17,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-18,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-19,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-20,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
-2020-03-21,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",1,1,0,0
-2020-03-22,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",1,0,0,0
-2020-03-23,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",1,0,0,0
-2020-03-24,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,1,0,0
-2020-03-25,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
-2020-03-26,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
-2020-03-27,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
-2020-03-28,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
-2020-03-29,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
-2020-03-30,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
-2020-03-31,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",3,1,0,0
-2020-04-01,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",3,0,0,0
-2020-04-02,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",3,0,0,0
-2020-04-03,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",3,0,0,0
-2020-04-04,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",5,2,0,0
-2020-04-05,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",5,0,0,0
-2020-04-06,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",5,0,0,0
-2020-04-07,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",6,1,0,0
-2020-04-08,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",7,1,0,0
-2020-04-09,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",7,0,0,0
-2020-04-10,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",7,0,0,0
-2020-04-11,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",7,0,0,0
-2020-04-12,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",8,1,0,0
-2020-04-13,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",11,3,0,0
-2020-04-14,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",11,0,0,0
-2020-04-15,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",11,0,0,0
-2020-04-16,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",15,4,0,0
-2020-04-17,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",20,5,0,0
-2020-04-18,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",22,2,2,2
-2020-04-19,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",25,3,2,0
-2020-04-20,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",27,2,2,0
-2020-04-21,us,north-carolina,34.64244496,-79.10250529999999,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",34,7,2,0
+2020-04-22,us,north-carolina,34.61296243,-78.56180059,84037017,US,USA,840,37017.0,bladen,"Bladen, North Carolina, US",4,0,0,0
+2020-01-22,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-01-23,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-01-24,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-01-25,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-01-26,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-01-27,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-01-28,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-01-29,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-01-30,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-01-31,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-01,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-02,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-03,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-04,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-05,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-06,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-07,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-08,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-09,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-10,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-11,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-12,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-13,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-14,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-15,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-16,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-17,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-18,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-19,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-20,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-21,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-22,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-23,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-24,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-25,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-26,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-27,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-28,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-02-29,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-01,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-02,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-03,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-04,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-05,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-06,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-07,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-08,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-09,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-10,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-11,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-12,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-13,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-14,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-15,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-16,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-17,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-18,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-19,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-20,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",0,0,0,0
+2020-03-21,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",1,1,0,0
+2020-03-22,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",1,0,0,0
+2020-03-23,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",1,0,0,0
+2020-03-24,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,1,0,0
+2020-03-25,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
+2020-03-26,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
+2020-03-27,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
+2020-03-28,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
+2020-03-29,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
+2020-03-30,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",2,0,0,0
+2020-03-31,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",3,1,0,0
+2020-04-01,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",3,0,0,0
+2020-04-02,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",3,0,0,0
+2020-04-03,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",3,0,0,0
+2020-04-04,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",5,2,0,0
+2020-04-05,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",5,0,0,0
+2020-04-06,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",5,0,0,0
+2020-04-07,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",6,1,0,0
+2020-04-08,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",7,1,0,0
+2020-04-09,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",7,0,0,0
+2020-04-10,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",7,0,0,0
+2020-04-11,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",7,0,0,0
+2020-04-12,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",8,1,0,0
+2020-04-13,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",11,3,0,0
+2020-04-14,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",11,0,0,0
+2020-04-15,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",11,0,0,0
+2020-04-16,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",15,4,0,0
+2020-04-17,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",20,5,0,0
+2020-04-18,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",22,2,2,2
+2020-04-19,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",25,3,2,0
+2020-04-20,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",27,2,2,0
+2020-04-21,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",34,7,2,0
+2020-04-22,us,north-carolina,34.64244496,-79.10250529999998,84037155,US,USA,840,37155.0,robeson,"Robeson, North Carolina, US",44,10,2,0
 2020-01-22,us,north-carolina,34.72607366,-77.42908179,84037133,US,USA,840,37133.0,onslow,"Onslow, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.72607366,-77.42908179,84037133,US,USA,840,37133.0,onslow,"Onslow, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.72607366,-77.42908179,84037133,US,USA,840,37133.0,onslow,"Onslow, North Carolina, US",0,0,0,0
@@ -818,6 +826,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.72607366,-77.42908179,84037133,US,USA,840,37133.0,onslow,"Onslow, North Carolina, US",37,0,1,0
 2020-04-20,us,north-carolina,34.72607366,-77.42908179,84037133,US,USA,840,37133.0,onslow,"Onslow, North Carolina, US",37,0,1,0
 2020-04-21,us,north-carolina,34.72607366,-77.42908179,84037133,US,USA,840,37133.0,onslow,"Onslow, North Carolina, US",38,1,1,0
+2020-04-22,us,north-carolina,34.72607366,-77.42908179,84037133,US,USA,840,37133.0,onslow,"Onslow, North Carolina, US",38,0,1,0
 2020-01-22,us,north-carolina,34.8386299,-79.4757978,84037165,US,USA,840,37165.0,scotland,"Scotland, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.8386299,-79.4757978,84037165,US,USA,840,37165.0,scotland,"Scotland, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.8386299,-79.4757978,84037165,US,USA,840,37165.0,scotland,"Scotland, North Carolina, US",0,0,0,0
@@ -909,6 +918,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.8386299,-79.4757978,84037165,US,USA,840,37165.0,scotland,"Scotland, North Carolina, US",12,1,0,0
 2020-04-20,us,north-carolina,34.8386299,-79.4757978,84037165,US,USA,840,37165.0,scotland,"Scotland, North Carolina, US",12,0,0,0
 2020-04-21,us,north-carolina,34.8386299,-79.4757978,84037165,US,USA,840,37165.0,scotland,"Scotland, North Carolina, US",13,1,0,0
+2020-04-22,us,north-carolina,34.8386299,-79.4757978,84037165,US,USA,840,37165.0,scotland,"Scotland, North Carolina, US",15,2,0,0
 2020-01-22,us,north-carolina,34.8932941,-76.54120135,84037031,US,USA,840,37031.0,carteret,"Carteret, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.8932941,-76.54120135,84037031,US,USA,840,37031.0,carteret,"Carteret, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.8932941,-76.54120135,84037031,US,USA,840,37031.0,carteret,"Carteret, North Carolina, US",0,0,0,0
@@ -1000,6 +1010,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.8932941,-76.54120135,84037031,US,USA,840,37031.0,carteret,"Carteret, North Carolina, US",24,0,2,0
 2020-04-20,us,north-carolina,34.8932941,-76.54120135,84037031,US,USA,840,37031.0,carteret,"Carteret, North Carolina, US",24,0,2,0
 2020-04-21,us,north-carolina,34.8932941,-76.54120135,84037031,US,USA,840,37031.0,carteret,"Carteret, North Carolina, US",24,0,2,0
+2020-04-22,us,north-carolina,34.8932941,-76.54120135,84037031,US,USA,840,37031.0,carteret,"Carteret, North Carolina, US",27,3,3,1
 2020-01-22,us,north-carolina,34.93449805,-77.93140529,84037061,US,USA,840,37061.0,duplin,"Duplin, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.93449805,-77.93140529,84037061,US,USA,840,37061.0,duplin,"Duplin, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.93449805,-77.93140529,84037061,US,USA,840,37061.0,duplin,"Duplin, North Carolina, US",0,0,0,0
@@ -1091,6 +1102,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.93449805,-77.93140529,84037061,US,USA,840,37061.0,duplin,"Duplin, North Carolina, US",24,1,0,0
 2020-04-20,us,north-carolina,34.93449805,-77.93140529,84037061,US,USA,840,37061.0,duplin,"Duplin, North Carolina, US",26,2,0,0
 2020-04-21,us,north-carolina,34.93449805,-77.93140529,84037061,US,USA,840,37061.0,duplin,"Duplin, North Carolina, US",32,6,0,0
+2020-04-22,us,north-carolina,34.93449805,-77.93140529,84037061,US,USA,840,37061.0,duplin,"Duplin, North Carolina, US",35,3,0,0
 2020-01-22,us,north-carolina,34.97403241,-80.09953279,84037007,US,USA,840,37007.0,anson,"Anson, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.97403241,-80.09953279,84037007,US,USA,840,37007.0,anson,"Anson, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.97403241,-80.09953279,84037007,US,USA,840,37007.0,anson,"Anson, North Carolina, US",0,0,0,0
@@ -1182,6 +1194,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.97403241,-80.09953279,84037007,US,USA,840,37007.0,anson,"Anson, North Carolina, US",16,0,0,0
 2020-04-20,us,north-carolina,34.97403241,-80.09953279,84037007,US,USA,840,37007.0,anson,"Anson, North Carolina, US",18,2,0,0
 2020-04-21,us,north-carolina,34.97403241,-80.09953279,84037007,US,USA,840,37007.0,anson,"Anson, North Carolina, US",19,1,0,0
+2020-04-22,us,north-carolina,34.97403241,-80.09953279,84037007,US,USA,840,37007.0,anson,"Anson, North Carolina, US",19,0,0,0
 2020-01-22,us,north-carolina,34.98820368,-78.36914061,84037163,US,USA,840,37163.0,sampson,"Sampson, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.98820368,-78.36914061,84037163,US,USA,840,37163.0,sampson,"Sampson, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.98820368,-78.36914061,84037163,US,USA,840,37163.0,sampson,"Sampson, North Carolina, US",0,0,0,0
@@ -1273,6 +1286,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.98820368,-78.36914061,84037163,US,USA,840,37163.0,sampson,"Sampson, North Carolina, US",22,3,0,0
 2020-04-20,us,north-carolina,34.98820368,-78.36914061,84037163,US,USA,840,37163.0,sampson,"Sampson, North Carolina, US",22,0,0,0
 2020-04-21,us,north-carolina,34.98820368,-78.36914061,84037163,US,USA,840,37163.0,sampson,"Sampson, North Carolina, US",22,0,0,0
+2020-04-22,us,north-carolina,34.98820368,-78.36914061,84037163,US,USA,840,37163.0,sampson,"Sampson, North Carolina, US",23,1,0,0
 2020-01-22,us,north-carolina,34.98960527,-80.52955873,84037179,US,USA,840,37179.0,union,"Union, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,34.98960527,-80.52955873,84037179,US,USA,840,37179.0,union,"Union, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,34.98960527,-80.52955873,84037179,US,USA,840,37179.0,union,"Union, North Carolina, US",0,0,0,0
@@ -1364,6 +1378,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,34.98960527,-80.52955873,84037179,US,USA,840,37179.0,union,"Union, North Carolina, US",149,8,3,0
 2020-04-20,us,north-carolina,34.98960527,-80.52955873,84037179,US,USA,840,37179.0,union,"Union, North Carolina, US",163,14,6,3
 2020-04-21,us,north-carolina,34.98960527,-80.52955873,84037179,US,USA,840,37179.0,union,"Union, North Carolina, US",171,8,6,0
+2020-04-22,us,north-carolina,34.98960527,-80.52955873,84037179,US,USA,840,37179.0,union,"Union, North Carolina, US",179,8,6,0
 2020-01-22,us,north-carolina,35.00417719,-79.74491009,84037153,US,USA,840,37153.0,richmond,"Richmond, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.00417719,-79.74491009,84037153,US,USA,840,37153.0,richmond,"Richmond, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.00417719,-79.74491009,84037153,US,USA,840,37153.0,richmond,"Richmond, North Carolina, US",0,0,0,0
@@ -1455,6 +1470,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.00417719,-79.74491009,84037153,US,USA,840,37153.0,richmond,"Richmond, North Carolina, US",19,1,2,0
 2020-04-20,us,north-carolina,35.00417719,-79.74491009,84037153,US,USA,840,37153.0,richmond,"Richmond, North Carolina, US",20,1,2,0
 2020-04-21,us,north-carolina,35.00417719,-79.74491009,84037153,US,USA,840,37153.0,richmond,"Richmond, North Carolina, US",20,0,2,0
+2020-04-22,us,north-carolina,35.00417719,-79.74491009,84037153,US,USA,840,37153.0,richmond,"Richmond, North Carolina, US",22,2,2,0
 2020-01-22,us,north-carolina,35.01888303,-79.23651674,84037093,US,USA,840,37093.0,hoke,"Hoke, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.01888303,-79.23651674,84037093,US,USA,840,37093.0,hoke,"Hoke, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.01888303,-79.23651674,84037093,US,USA,840,37093.0,hoke,"Hoke, North Carolina, US",0,0,0,0
@@ -1546,6 +1562,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.01888303,-79.23651674,84037093,US,USA,840,37093.0,hoke,"Hoke, North Carolina, US",23,0,0,0
 2020-04-20,us,north-carolina,35.01888303,-79.23651674,84037093,US,USA,840,37093.0,hoke,"Hoke, North Carolina, US",23,0,0,0
 2020-04-21,us,north-carolina,35.01888303,-79.23651674,84037093,US,USA,840,37093.0,hoke,"Hoke, North Carolina, US",25,2,0,0
+2020-04-22,us,north-carolina,35.01888303,-79.23651674,84037093,US,USA,840,37093.0,hoke,"Hoke, North Carolina, US",30,5,0,0
 2020-01-22,us,north-carolina,35.02254606,-77.35870791,84037103,US,USA,840,37103.0,jones,"Jones, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.02254606,-77.35870791,84037103,US,USA,840,37103.0,jones,"Jones, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.02254606,-77.35870791,84037103,US,USA,840,37103.0,jones,"Jones, North Carolina, US",0,0,0,0
@@ -1637,6 +1654,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.02254606,-77.35870791,84037103,US,USA,840,37103.0,jones,"Jones, North Carolina, US",9,0,1,0
 2020-04-20,us,north-carolina,35.02254606,-77.35870791,84037103,US,USA,840,37103.0,jones,"Jones, North Carolina, US",9,0,1,0
 2020-04-21,us,north-carolina,35.02254606,-77.35870791,84037103,US,USA,840,37103.0,jones,"Jones, North Carolina, US",9,0,1,0
+2020-04-22,us,north-carolina,35.02254606,-77.35870791,84037103,US,USA,840,37103.0,jones,"Jones, North Carolina, US",12,3,2,1
 2020-01-22,us,north-carolina,35.04762133,-78.82623165,84037051,US,USA,840,37051.0,cumberland,"Cumberland, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.04762133,-78.82623165,84037051,US,USA,840,37051.0,cumberland,"Cumberland, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.04762133,-78.82623165,84037051,US,USA,840,37051.0,cumberland,"Cumberland, North Carolina, US",0,0,0,0
@@ -1728,6 +1746,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.04762133,-78.82623165,84037051,US,USA,840,37051.0,cumberland,"Cumberland, North Carolina, US",113,0,6,0
 2020-04-20,us,north-carolina,35.04762133,-78.82623165,84037051,US,USA,840,37051.0,cumberland,"Cumberland, North Carolina, US",113,0,6,0
 2020-04-21,us,north-carolina,35.04762133,-78.82623165,84037051,US,USA,840,37051.0,cumberland,"Cumberland, North Carolina, US",127,14,6,0
+2020-04-22,us,north-carolina,35.04762133,-78.82623165,84037051,US,USA,840,37051.0,cumberland,"Cumberland, North Carolina, US",133,6,6,0
 2020-01-22,us,north-carolina,35.05704275,-83.74353633,84037043,US,USA,840,37043.0,clay,"Clay, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.05704275,-83.74353633,84037043,US,USA,840,37043.0,clay,"Clay, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.05704275,-83.74353633,84037043,US,USA,840,37043.0,clay,"Clay, North Carolina, US",0,0,0,0
@@ -1819,6 +1838,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.05704275,-83.74353633,84037043,US,USA,840,37043.0,clay,"Clay, North Carolina, US",5,0,0,0
 2020-04-20,us,north-carolina,35.05704275,-83.74353633,84037043,US,USA,840,37043.0,clay,"Clay, North Carolina, US",5,0,0,0
 2020-04-21,us,north-carolina,35.05704275,-83.74353633,84037043,US,USA,840,37043.0,clay,"Clay, North Carolina, US",6,1,0,0
+2020-04-22,us,north-carolina,35.05704275,-83.74353633,84037043,US,USA,840,37043.0,clay,"Clay, North Carolina, US",6,0,0,0
 2020-01-22,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",0,0,0,0
@@ -1910,6 +1930,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",34,1,2,0
 2020-04-20,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",36,2,3,1
 2020-04-21,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",36,0,3,0
+2020-04-22,us,north-carolina,35.11833364,-77.08398081,84037049,US,USA,840,37049.0,craven,"Craven, North Carolina, US",36,0,4,1
 2020-01-22,us,north-carolina,35.1349263,-84.05970864,84037039,US,USA,840,37039.0,cherokee,"Cherokee, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.1349263,-84.05970864,84037039,US,USA,840,37039.0,cherokee,"Cherokee, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.1349263,-84.05970864,84037039,US,USA,840,37039.0,cherokee,"Cherokee, North Carolina, US",0,0,0,0
@@ -2001,6 +2022,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.1349263,-84.05970864,84037039,US,USA,840,37039.0,cherokee,"Cherokee, North Carolina, US",16,0,1,0
 2020-04-20,us,north-carolina,35.1349263,-84.05970864,84037039,US,USA,840,37039.0,cherokee,"Cherokee, North Carolina, US",16,0,1,0
 2020-04-21,us,north-carolina,35.1349263,-84.05970864,84037039,US,USA,840,37039.0,cherokee,"Cherokee, North Carolina, US",18,2,1,0
+2020-04-22,us,north-carolina,35.1349263,-84.05970864,84037039,US,USA,840,37039.0,cherokee,"Cherokee, North Carolina, US",18,0,1,0
 2020-01-22,us,north-carolina,35.14867843,-83.41696617,84037113,US,USA,840,37113.0,macon,"Macon, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.14867843,-83.41696617,84037113,US,USA,840,37113.0,macon,"Macon, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.14867843,-83.41696617,84037113,US,USA,840,37113.0,macon,"Macon, North Carolina, US",0,0,0,0
@@ -2092,6 +2114,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.14867843,-83.41696617,84037113,US,USA,840,37113.0,macon,"Macon, North Carolina, US",2,0,1,0
 2020-04-20,us,north-carolina,35.14867843,-83.41696617,84037113,US,USA,840,37113.0,macon,"Macon, North Carolina, US",2,0,1,0
 2020-04-21,us,north-carolina,35.14867843,-83.41696617,84037113,US,USA,840,37113.0,macon,"Macon, North Carolina, US",2,0,1,0
+2020-04-22,us,north-carolina,35.14867843,-83.41696617,84037113,US,USA,840,37113.0,macon,"Macon, North Carolina, US",2,0,1,0
 2020-01-22,us,north-carolina,35.15253315,-76.66559823,84037137,US,USA,840,37137.0,pamlico,"Pamlico, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.15253315,-76.66559823,84037137,US,USA,840,37137.0,pamlico,"Pamlico, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.15253315,-76.66559823,84037137,US,USA,840,37137.0,pamlico,"Pamlico, North Carolina, US",0,0,0,0
@@ -2183,6 +2206,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.15253315,-76.66559823,84037137,US,USA,840,37137.0,pamlico,"Pamlico, North Carolina, US",6,0,0,0
 2020-04-20,us,north-carolina,35.15253315,-76.66559823,84037137,US,USA,840,37137.0,pamlico,"Pamlico, North Carolina, US",6,0,0,0
 2020-04-21,us,north-carolina,35.15253315,-76.66559823,84037137,US,USA,840,37137.0,pamlico,"Pamlico, North Carolina, US",6,0,0,0
+2020-04-22,us,north-carolina,35.15253315,-76.66559823,84037137,US,USA,840,37137.0,pamlico,"Pamlico, North Carolina, US",6,0,0,0
 2020-01-22,us,north-carolina,35.20383864,-82.79638423,84037175,US,USA,840,37175.0,transylvania,"Transylvania, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.20383864,-82.79638423,84037175,US,USA,840,37175.0,transylvania,"Transylvania, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.20383864,-82.79638423,84037175,US,USA,840,37175.0,transylvania,"Transylvania, North Carolina, US",0,0,0,0
@@ -2274,97 +2298,99 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.20383864,-82.79638423,84037175,US,USA,840,37175.0,transylvania,"Transylvania, North Carolina, US",7,0,0,0
 2020-04-20,us,north-carolina,35.20383864,-82.79638423,84037175,US,USA,840,37175.0,transylvania,"Transylvania, North Carolina, US",8,1,0,0
 2020-04-21,us,north-carolina,35.20383864,-82.79638423,84037175,US,USA,840,37175.0,transylvania,"Transylvania, North Carolina, US",8,0,0,0
-2020-01-22,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-01-23,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-01-24,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-01-25,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-01-26,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-01-27,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-01-28,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-01-29,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-01-30,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-01-31,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-01,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-02,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-03,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-04,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-05,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-06,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-07,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-08,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-09,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-10,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-11,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-12,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-13,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-14,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-15,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-16,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-17,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-18,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-19,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-20,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-21,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-22,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-23,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-24,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-25,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-26,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-27,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-28,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-02-29,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-01,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-02,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-03,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-04,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-05,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-06,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-07,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-08,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-09,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-10,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-11,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-12,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-13,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-14,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-15,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-16,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-17,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-18,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-19,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-20,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-21,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-22,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-23,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
-2020-03-24,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",1,1,0,0
-2020-03-25,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",2,1,0,0
-2020-03-26,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,1,0,0
-2020-03-27,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
-2020-03-28,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
-2020-03-29,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
-2020-03-30,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
-2020-03-31,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
-2020-04-01,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
-2020-04-02,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",5,2,0,0
-2020-04-03,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",7,2,0,0
-2020-04-04,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",7,0,0,0
-2020-04-05,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",7,0,0,0
-2020-04-06,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",8,1,0,0
-2020-04-07,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",10,2,0,0
-2020-04-08,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",11,1,0,0
-2020-04-09,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",14,3,0,0
-2020-04-10,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",14,0,0,0
-2020-04-11,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",14,0,0,0
-2020-04-12,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",14,0,0,0
-2020-04-13,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",15,1,0,0
-2020-04-14,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",15,0,0,0
-2020-04-15,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",15,0,0,0
-2020-04-16,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",16,1,0,0
-2020-04-17,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",17,1,1,1
-2020-04-18,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",18,1,1,0
-2020-04-19,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",21,3,1,0
-2020-04-20,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",21,0,1,0
-2020-04-21,us,north-carolina,35.240325899999995,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",27,6,1,0
+2020-04-22,us,north-carolina,35.20383864,-82.79638423,84037175,US,USA,840,37175.0,transylvania,"Transylvania, North Carolina, US",8,0,0,0
+2020-01-22,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-01-23,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-01-24,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-01-25,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-01-26,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-01-27,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-01-28,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-01-29,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-01-30,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-01-31,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-01,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-02,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-03,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-04,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-05,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-06,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-07,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-08,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-09,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-10,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-11,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-12,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-13,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-14,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-15,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-16,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-17,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-18,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-19,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-20,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-21,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-22,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-23,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-24,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-25,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-26,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-27,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-28,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-02-29,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-01,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-02,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-03,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-04,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-05,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-06,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-07,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-08,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-09,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-10,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-11,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-12,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-13,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-14,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-15,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-16,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-17,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-18,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-19,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-20,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-21,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-22,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-23,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",0,0,0,0
+2020-03-24,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",1,1,0,0
+2020-03-25,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",2,1,0,0
+2020-03-26,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,1,0,0
+2020-03-27,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
+2020-03-28,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
+2020-03-29,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
+2020-03-30,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
+2020-03-31,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
+2020-04-01,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",3,0,0,0
+2020-04-02,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",5,2,0,0
+2020-04-03,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",7,2,0,0
+2020-04-04,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",7,0,0,0
+2020-04-05,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",7,0,0,0
+2020-04-06,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",8,1,0,0
+2020-04-07,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",10,2,0,0
+2020-04-08,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",11,1,0,0
+2020-04-09,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",14,3,0,0
+2020-04-10,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",14,0,0,0
+2020-04-11,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",14,0,0,0
+2020-04-12,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",14,0,0,0
+2020-04-13,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",15,1,0,0
+2020-04-14,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",15,0,0,0
+2020-04-15,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",15,0,0,0
+2020-04-16,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",16,1,0,0
+2020-04-17,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",17,1,1,1
+2020-04-18,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",18,1,1,0
+2020-04-19,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",21,3,1,0
+2020-04-20,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",21,0,1,0
+2020-04-21,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",27,6,1,0
+2020-04-22,us,north-carolina,35.24032589999999,-77.64245615,84037107,US,USA,840,37107.0,lenoir,"Lenoir, North Carolina, US",34,7,1,0
 2020-01-22,us,north-carolina,35.24469268,-80.8317671,84037119,US,USA,840,37119.0,mecklenburg,"Mecklenburg, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.24469268,-80.8317671,84037119,US,USA,840,37119.0,mecklenburg,"Mecklenburg, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.24469268,-80.8317671,84037119,US,USA,840,37119.0,mecklenburg,"Mecklenburg, North Carolina, US",0,0,0,0
@@ -2456,6 +2482,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.24469268,-80.8317671,84037119,US,USA,840,37119.0,mecklenburg,"Mecklenburg, North Carolina, US",1183,30,29,5
 2020-04-20,us,north-carolina,35.24469268,-80.8317671,84037119,US,USA,840,37119.0,mecklenburg,"Mecklenburg, North Carolina, US",1231,48,36,7
 2020-04-21,us,north-carolina,35.24469268,-80.8317671,84037119,US,USA,840,37119.0,mecklenburg,"Mecklenburg, North Carolina, US",1255,24,36,0
+2020-04-22,us,north-carolina,35.24469268,-80.8317671,84037119,US,USA,840,37119.0,mecklenburg,"Mecklenburg, North Carolina, US",1331,76,36,0
 2020-01-22,us,north-carolina,35.27820615,-82.16812354,84037149,US,USA,840,37149.0,polk,"Polk, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.27820615,-82.16812354,84037149,US,USA,840,37149.0,polk,"Polk, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.27820615,-82.16812354,84037149,US,USA,840,37149.0,polk,"Polk, North Carolina, US",0,0,0,0
@@ -2547,6 +2574,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.27820615,-82.16812354,84037149,US,USA,840,37149.0,polk,"Polk, North Carolina, US",10,0,0,0
 2020-04-20,us,north-carolina,35.27820615,-82.16812354,84037149,US,USA,840,37149.0,polk,"Polk, North Carolina, US",10,0,0,0
 2020-04-21,us,north-carolina,35.27820615,-82.16812354,84037149,US,USA,840,37149.0,polk,"Polk, North Carolina, US",10,0,0,0
+2020-04-22,us,north-carolina,35.27820615,-82.16812354,84037149,US,USA,840,37149.0,polk,"Polk, North Carolina, US",11,1,0,0
 2020-01-22,us,north-carolina,35.28814273,-83.14093385,84037099,US,USA,840,37099.0,jackson,"Jackson, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.28814273,-83.14093385,84037099,US,USA,840,37099.0,jackson,"Jackson, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.28814273,-83.14093385,84037099,US,USA,840,37099.0,jackson,"Jackson, North Carolina, US",0,0,0,0
@@ -2638,6 +2666,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.28814273,-83.14093385,84037099,US,USA,840,37099.0,jackson,"Jackson, North Carolina, US",5,0,0,0
 2020-04-20,us,north-carolina,35.28814273,-83.14093385,84037099,US,USA,840,37099.0,jackson,"Jackson, North Carolina, US",5,0,0,0
 2020-04-21,us,north-carolina,35.28814273,-83.14093385,84037099,US,USA,840,37099.0,jackson,"Jackson, North Carolina, US",5,0,0,0
+2020-04-22,us,north-carolina,35.28814273,-83.14093385,84037099,US,USA,840,37099.0,jackson,"Jackson, North Carolina, US",5,0,0,0
 2020-01-22,us,north-carolina,35.29373559,-81.17477045,84037071,US,USA,840,37071.0,gaston,"Gaston, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.29373559,-81.17477045,84037071,US,USA,840,37071.0,gaston,"Gaston, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.29373559,-81.17477045,84037071,US,USA,840,37071.0,gaston,"Gaston, North Carolina, US",0,0,0,0
@@ -2729,6 +2758,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.29373559,-81.17477045,84037071,US,USA,840,37071.0,gaston,"Gaston, North Carolina, US",111,1,3,0
 2020-04-20,us,north-carolina,35.29373559,-81.17477045,84037071,US,USA,840,37071.0,gaston,"Gaston, North Carolina, US",112,1,3,0
 2020-04-21,us,north-carolina,35.29373559,-81.17477045,84037071,US,USA,840,37071.0,gaston,"Gaston, North Carolina, US",120,8,3,0
+2020-04-22,us,north-carolina,35.29373559,-81.17477045,84037071,US,USA,840,37071.0,gaston,"Gaston, North Carolina, US",124,4,3,0
 2020-01-22,us,north-carolina,35.30885257,-79.48474178,84037125,US,USA,840,37125.0,moore,"Moore, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.30885257,-79.48474178,84037125,US,USA,840,37125.0,moore,"Moore, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.30885257,-79.48474178,84037125,US,USA,840,37125.0,moore,"Moore, North Carolina, US",0,0,0,0
@@ -2820,6 +2850,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.30885257,-79.48474178,84037125,US,USA,840,37125.0,moore,"Moore, North Carolina, US",93,0,4,0
 2020-04-20,us,north-carolina,35.30885257,-79.48474178,84037125,US,USA,840,37125.0,moore,"Moore, North Carolina, US",93,0,4,0
 2020-04-21,us,north-carolina,35.30885257,-79.48474178,84037125,US,USA,840,37125.0,moore,"Moore, North Carolina, US",95,2,6,2
+2020-04-22,us,north-carolina,35.30885257,-79.48474178,84037125,US,USA,840,37125.0,moore,"Moore, North Carolina, US",99,4,6,0
 2020-01-22,us,north-carolina,35.31647813,-80.25093221,84037167,US,USA,840,37167.0,stanly,"Stanly, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.31647813,-80.25093221,84037167,US,USA,840,37167.0,stanly,"Stanly, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.31647813,-80.25093221,84037167,US,USA,840,37167.0,stanly,"Stanly, North Carolina, US",0,0,0,0
@@ -2911,6 +2942,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.31647813,-80.25093221,84037167,US,USA,840,37167.0,stanly,"Stanly, North Carolina, US",20,0,3,1
 2020-04-20,us,north-carolina,35.31647813,-80.25093221,84037167,US,USA,840,37167.0,stanly,"Stanly, North Carolina, US",21,1,3,0
 2020-04-21,us,north-carolina,35.31647813,-80.25093221,84037167,US,USA,840,37167.0,stanly,"Stanly, North Carolina, US",21,0,3,0
+2020-04-22,us,north-carolina,35.31647813,-80.25093221,84037167,US,USA,840,37167.0,stanly,"Stanly, North Carolina, US",22,1,4,1
 2020-01-22,us,north-carolina,35.33155144,-79.90416657,84037123,US,USA,840,37123.0,montgomery,"Montgomery, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.33155144,-79.90416657,84037123,US,USA,840,37123.0,montgomery,"Montgomery, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.33155144,-79.90416657,84037123,US,USA,840,37123.0,montgomery,"Montgomery, North Carolina, US",0,0,0,0
@@ -3002,6 +3034,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.33155144,-79.90416657,84037123,US,USA,840,37123.0,montgomery,"Montgomery, North Carolina, US",18,1,1,0
 2020-04-20,us,north-carolina,35.33155144,-79.90416657,84037123,US,USA,840,37123.0,montgomery,"Montgomery, North Carolina, US",18,0,1,0
 2020-04-21,us,north-carolina,35.33155144,-79.90416657,84037123,US,USA,840,37123.0,montgomery,"Montgomery, North Carolina, US",18,0,1,0
+2020-04-22,us,north-carolina,35.33155144,-79.90416657,84037123,US,USA,840,37123.0,montgomery,"Montgomery, North Carolina, US",18,0,1,0
 2020-01-22,us,north-carolina,35.33553364,-81.55204486,84037045,US,USA,840,37045.0,cleveland,"Cleveland, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.33553364,-81.55204486,84037045,US,USA,840,37045.0,cleveland,"Cleveland, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.33553364,-81.55204486,84037045,US,USA,840,37045.0,cleveland,"Cleveland, North Carolina, US",0,0,0,0
@@ -3093,6 +3126,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.33553364,-81.55204486,84037045,US,USA,840,37045.0,cleveland,"Cleveland, North Carolina, US",44,2,2,0
 2020-04-20,us,north-carolina,35.33553364,-81.55204486,84037045,US,USA,840,37045.0,cleveland,"Cleveland, North Carolina, US",44,0,2,0
 2020-04-21,us,north-carolina,35.33553364,-81.55204486,84037045,US,USA,840,37045.0,cleveland,"Cleveland, North Carolina, US",44,0,2,0
+2020-04-22,us,north-carolina,35.33553364,-81.55204486,84037045,US,USA,840,37045.0,cleveland,"Cleveland, North Carolina, US",45,1,2,0
 2020-01-22,us,north-carolina,35.33788927,-82.4766782,84037089,US,USA,840,37089.0,henderson,"Henderson, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.33788927,-82.4766782,84037089,US,USA,840,37089.0,henderson,"Henderson, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.33788927,-82.4766782,84037089,US,USA,840,37089.0,henderson,"Henderson, North Carolina, US",0,0,0,0
@@ -3184,6 +3218,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.33788927,-82.4766782,84037089,US,USA,840,37089.0,henderson,"Henderson, North Carolina, US",120,12,11,0
 2020-04-20,us,north-carolina,35.33788927,-82.4766782,84037089,US,USA,840,37089.0,henderson,"Henderson, North Carolina, US",128,8,11,0
 2020-04-21,us,north-carolina,35.33788927,-82.4766782,84037089,US,USA,840,37089.0,henderson,"Henderson, North Carolina, US",129,1,13,2
+2020-04-22,us,north-carolina,35.33788927,-82.4766782,84037089,US,USA,840,37089.0,henderson,"Henderson, North Carolina, US",147,18,13,0
 2020-01-22,us,north-carolina,35.3506925,-83.83369267,84037075,US,USA,840,37075.0,graham,"Graham, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.3506925,-83.83369267,84037075,US,USA,840,37075.0,graham,"Graham, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.3506925,-83.83369267,84037075,US,USA,840,37075.0,graham,"Graham, North Carolina, US",0,0,0,0
@@ -3275,6 +3310,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.3506925,-83.83369267,84037075,US,USA,840,37075.0,graham,"Graham, North Carolina, US",0,0,0,0
 2020-04-20,us,north-carolina,35.3506925,-83.83369267,84037075,US,USA,840,37075.0,graham,"Graham, North Carolina, US",0,0,0,0
 2020-04-21,us,north-carolina,35.3506925,-83.83369267,84037075,US,USA,840,37075.0,graham,"Graham, North Carolina, US",0,0,0,0
+2020-04-22,us,north-carolina,35.3506925,-83.83369267,84037075,US,USA,840,37075.0,graham,"Graham, North Carolina, US",0,0,0,0
 2020-01-22,us,north-carolina,35.36438125,-78.00027268,84037191,US,USA,840,37191.0,wayne,"Wayne, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.36438125,-78.00027268,84037191,US,USA,840,37191.0,wayne,"Wayne, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.36438125,-78.00027268,84037191,US,USA,840,37191.0,wayne,"Wayne, North Carolina, US",0,0,0,0
@@ -3366,6 +3402,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.36438125,-78.00027268,84037191,US,USA,840,37191.0,wayne,"Wayne, North Carolina, US",463,85,4,0
 2020-04-20,us,north-carolina,35.36438125,-78.00027268,84037191,US,USA,840,37191.0,wayne,"Wayne, North Carolina, US",572,109,4,0
 2020-04-21,us,north-carolina,35.36438125,-78.00027268,84037191,US,USA,840,37191.0,wayne,"Wayne, North Carolina, US",581,9,6,2
+2020-04-22,us,north-carolina,35.36438125,-78.00027268,84037191,US,USA,840,37191.0,wayne,"Wayne, North Carolina, US",585,4,6,0
 2020-01-22,us,north-carolina,35.36731853,-78.87243571,84037085,US,USA,840,37085.0,harnett,"Harnett, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.36731853,-78.87243571,84037085,US,USA,840,37085.0,harnett,"Harnett, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.36731853,-78.87243571,84037085,US,USA,840,37085.0,harnett,"Harnett, North Carolina, US",0,0,0,0
@@ -3457,6 +3494,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.36731853,-78.87243571,84037085,US,USA,840,37085.0,harnett,"Harnett, North Carolina, US",58,3,3,0
 2020-04-20,us,north-carolina,35.36731853,-78.87243571,84037085,US,USA,840,37085.0,harnett,"Harnett, North Carolina, US",61,3,3,0
 2020-04-21,us,north-carolina,35.36731853,-78.87243571,84037085,US,USA,840,37085.0,harnett,"Harnett, North Carolina, US",62,1,5,2
+2020-04-22,us,north-carolina,35.36731853,-78.87243571,84037085,US,USA,840,37085.0,harnett,"Harnett, North Carolina, US",66,4,5,0
 2020-01-22,us,north-carolina,35.3877799,-80.55267168,84037025,US,USA,840,37025.0,cabarrus,"Cabarrus, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.3877799,-80.55267168,84037025,US,USA,840,37025.0,cabarrus,"Cabarrus, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.3877799,-80.55267168,84037025,US,USA,840,37025.0,cabarrus,"Cabarrus, North Carolina, US",0,0,0,0
@@ -3548,6 +3586,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.3877799,-80.55267168,84037025,US,USA,840,37025.0,cabarrus,"Cabarrus, North Carolina, US",208,1,4,0
 2020-04-20,us,north-carolina,35.3877799,-80.55267168,84037025,US,USA,840,37025.0,cabarrus,"Cabarrus, North Carolina, US",212,4,7,3
 2020-04-21,us,north-carolina,35.3877799,-80.55267168,84037025,US,USA,840,37025.0,cabarrus,"Cabarrus, North Carolina, US",223,11,7,0
+2020-04-22,us,north-carolina,35.3877799,-80.55267168,84037025,US,USA,840,37025.0,cabarrus,"Cabarrus, North Carolina, US",232,9,7,0
 2020-01-22,us,north-carolina,35.40114178,-81.92112099,84037161,US,USA,840,37161.0,rutherford,"Rutherford, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.40114178,-81.92112099,84037161,US,USA,840,37161.0,rutherford,"Rutherford, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.40114178,-81.92112099,84037161,US,USA,840,37161.0,rutherford,"Rutherford, North Carolina, US",0,0,0,0
@@ -3639,6 +3678,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.40114178,-81.92112099,84037161,US,USA,840,37161.0,rutherford,"Rutherford, North Carolina, US",75,10,4,2
 2020-04-20,us,north-carolina,35.40114178,-81.92112099,84037161,US,USA,840,37161.0,rutherford,"Rutherford, North Carolina, US",84,9,4,0
 2020-04-21,us,north-carolina,35.40114178,-81.92112099,84037161,US,USA,840,37161.0,rutherford,"Rutherford, North Carolina, US",84,0,4,0
+2020-04-22,us,north-carolina,35.40114178,-81.92112099,84037161,US,USA,840,37161.0,rutherford,"Rutherford, North Carolina, US",84,0,4,0
 2020-01-22,us,north-carolina,35.42017674,-76.15180542,84037095,US,USA,840,37095.0,hyde,"Hyde, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.42017674,-76.15180542,84037095,US,USA,840,37095.0,hyde,"Hyde, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.42017674,-76.15180542,84037095,US,USA,840,37095.0,hyde,"Hyde, North Carolina, US",0,0,0,0
@@ -3730,6 +3770,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.42017674,-76.15180542,84037095,US,USA,840,37095.0,hyde,"Hyde, North Carolina, US",0,0,0,0
 2020-04-20,us,north-carolina,35.42017674,-76.15180542,84037095,US,USA,840,37095.0,hyde,"Hyde, North Carolina, US",0,0,0,0
 2020-04-21,us,north-carolina,35.42017674,-76.15180542,84037095,US,USA,840,37095.0,hyde,"Hyde, North Carolina, US",0,0,0,0
+2020-04-22,us,north-carolina,35.42017674,-76.15180542,84037095,US,USA,840,37095.0,hyde,"Hyde, North Carolina, US",0,0,0,0
 2020-01-22,us,north-carolina,35.47623147,-79.17569362,84037105,US,USA,840,37105.0,lee,"Lee, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.47623147,-79.17569362,84037105,US,USA,840,37105.0,lee,"Lee, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.47623147,-79.17569362,84037105,US,USA,840,37105.0,lee,"Lee, North Carolina, US",0,0,0,0
@@ -3821,6 +3862,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.47623147,-79.17569362,84037105,US,USA,840,37105.0,lee,"Lee, North Carolina, US",34,4,0,0
 2020-04-20,us,north-carolina,35.47623147,-79.17569362,84037105,US,USA,840,37105.0,lee,"Lee, North Carolina, US",38,4,0,0
 2020-04-21,us,north-carolina,35.47623147,-79.17569362,84037105,US,USA,840,37105.0,lee,"Lee, North Carolina, US",45,7,0,0
+2020-04-22,us,north-carolina,35.47623147,-79.17569362,84037105,US,USA,840,37105.0,lee,"Lee, North Carolina, US",66,21,0,0
 2020-01-22,us,north-carolina,35.48508185,-81.21740317,84037109,US,USA,840,37109.0,lincoln,"Lincoln, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.48508185,-81.21740317,84037109,US,USA,840,37109.0,lincoln,"Lincoln, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.48508185,-81.21740317,84037109,US,USA,840,37109.0,lincoln,"Lincoln, North Carolina, US",0,0,0,0
@@ -3912,6 +3954,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.48508185,-81.21740317,84037109,US,USA,840,37109.0,lincoln,"Lincoln, North Carolina, US",19,-1,0,0
 2020-04-20,us,north-carolina,35.48508185,-81.21740317,84037109,US,USA,840,37109.0,lincoln,"Lincoln, North Carolina, US",19,0,0,0
 2020-04-21,us,north-carolina,35.48508185,-81.21740317,84037109,US,USA,840,37109.0,lincoln,"Lincoln, North Carolina, US",22,3,0,0
+2020-04-22,us,north-carolina,35.48508185,-81.21740317,84037109,US,USA,840,37109.0,lincoln,"Lincoln, North Carolina, US",24,2,0,0
 2020-01-22,us,north-carolina,35.48531943,-76.84325809,84037013,US,USA,840,37013.0,beaufort,"Beaufort, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.48531943,-76.84325809,84037013,US,USA,840,37013.0,beaufort,"Beaufort, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.48531943,-76.84325809,84037013,US,USA,840,37013.0,beaufort,"Beaufort, North Carolina, US",0,0,0,0
@@ -4003,6 +4046,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.48531943,-76.84325809,84037013,US,USA,840,37013.0,beaufort,"Beaufort, North Carolina, US",14,0,0,0
 2020-04-20,us,north-carolina,35.48531943,-76.84325809,84037013,US,USA,840,37013.0,beaufort,"Beaufort, North Carolina, US",15,1,0,0
 2020-04-21,us,north-carolina,35.48531943,-76.84325809,84037013,US,USA,840,37013.0,beaufort,"Beaufort, North Carolina, US",15,0,0,0
+2020-04-22,us,north-carolina,35.48531943,-76.84325809,84037013,US,USA,840,37013.0,beaufort,"Beaufort, North Carolina, US",16,1,0,0
 2020-01-22,us,north-carolina,35.48544173,-77.67578087,84037079,US,USA,840,37079.0,greene,"Greene, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.48544173,-77.67578087,84037079,US,USA,840,37079.0,greene,"Greene, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.48544173,-77.67578087,84037079,US,USA,840,37079.0,greene,"Greene, North Carolina, US",0,0,0,0
@@ -4094,6 +4138,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.48544173,-77.67578087,84037079,US,USA,840,37079.0,greene,"Greene, North Carolina, US",14,0,0,0
 2020-04-20,us,north-carolina,35.48544173,-77.67578087,84037079,US,USA,840,37079.0,greene,"Greene, North Carolina, US",14,0,0,0
 2020-04-21,us,north-carolina,35.48544173,-77.67578087,84037079,US,USA,840,37079.0,greene,"Greene, North Carolina, US",14,0,0,0
+2020-04-22,us,north-carolina,35.48544173,-77.67578087,84037079,US,USA,840,37079.0,greene,"Greene, North Carolina, US",14,0,0,0
 2020-01-22,us,north-carolina,35.48665845,-83.48748932,84037173,US,USA,840,37173.0,swain,"Swain, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.48665845,-83.48748932,84037173,US,USA,840,37173.0,swain,"Swain, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.48665845,-83.48748932,84037173,US,USA,840,37173.0,swain,"Swain, North Carolina, US",0,0,0,0
@@ -4185,6 +4230,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.48665845,-83.48748932,84037173,US,USA,840,37173.0,swain,"Swain, North Carolina, US",0,0,0,0
 2020-04-20,us,north-carolina,35.48665845,-83.48748932,84037173,US,USA,840,37173.0,swain,"Swain, North Carolina, US",0,0,0,0
 2020-04-21,us,north-carolina,35.48665845,-83.48748932,84037173,US,USA,840,37173.0,swain,"Swain, North Carolina, US",0,0,0,0
+2020-04-22,us,north-carolina,35.48665845,-83.48748932,84037173,US,USA,840,37173.0,swain,"Swain, North Carolina, US",0,0,0,0
 2020-01-22,us,north-carolina,35.51745004,-78.36622717,84037101,US,USA,840,37101.0,johnston,"Johnston, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.51745004,-78.36622717,84037101,US,USA,840,37101.0,johnston,"Johnston, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.51745004,-78.36622717,84037101,US,USA,840,37101.0,johnston,"Johnston, North Carolina, US",0,0,0,0
@@ -4276,6 +4322,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.51745004,-78.36622717,84037101,US,USA,840,37101.0,johnston,"Johnston, North Carolina, US",123,2,9,0
 2020-04-20,us,north-carolina,35.51745004,-78.36622717,84037101,US,USA,840,37101.0,johnston,"Johnston, North Carolina, US",123,0,9,0
 2020-04-21,us,north-carolina,35.51745004,-78.36622717,84037101,US,USA,840,37101.0,johnston,"Johnston, North Carolina, US",123,0,10,1
+2020-04-22,us,north-carolina,35.51745004,-78.36622717,84037101,US,USA,840,37101.0,johnston,"Johnston, North Carolina, US",123,0,10,0
 2020-01-22,us,north-carolina,35.55269063,-82.98196486,84037087,US,USA,840,37087.0,haywood,"Haywood, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.55269063,-82.98196486,84037087,US,USA,840,37087.0,haywood,"Haywood, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.55269063,-82.98196486,84037087,US,USA,840,37087.0,haywood,"Haywood, North Carolina, US",0,0,0,0
@@ -4367,6 +4414,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.55269063,-82.98196486,84037087,US,USA,840,37087.0,haywood,"Haywood, North Carolina, US",5,0,0,0
 2020-04-20,us,north-carolina,35.55269063,-82.98196486,84037087,US,USA,840,37087.0,haywood,"Haywood, North Carolina, US",5,0,0,0
 2020-04-21,us,north-carolina,35.55269063,-82.98196486,84037087,US,USA,840,37087.0,haywood,"Haywood, North Carolina, US",5,0,0,0
+2020-04-22,us,north-carolina,35.55269063,-82.98196486,84037087,US,USA,840,37087.0,haywood,"Haywood, North Carolina, US",5,0,0,0
 2020-01-22,us,north-carolina,35.59535426,-77.37353178,84037147,US,USA,840,37147.0,pitt,"Pitt, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.59535426,-77.37353178,84037147,US,USA,840,37147.0,pitt,"Pitt, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.59535426,-77.37353178,84037147,US,USA,840,37147.0,pitt,"Pitt, North Carolina, US",0,0,0,0
@@ -4458,6 +4506,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.59535426,-77.37353178,84037147,US,USA,840,37147.0,pitt,"Pitt, North Carolina, US",93,4,1,0
 2020-04-20,us,north-carolina,35.59535426,-77.37353178,84037147,US,USA,840,37147.0,pitt,"Pitt, North Carolina, US",93,0,1,0
 2020-04-21,us,north-carolina,35.59535426,-77.37353178,84037147,US,USA,840,37147.0,pitt,"Pitt, North Carolina, US",96,3,2,1
+2020-04-22,us,north-carolina,35.59535426,-77.37353178,84037147,US,USA,840,37147.0,pitt,"Pitt, North Carolina, US",99,3,2,0
 2020-01-22,us,north-carolina,35.61113393,-82.53305,84037021,US,USA,840,37021.0,buncombe,"Buncombe, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.61113393,-82.53305,84037021,US,USA,840,37021.0,buncombe,"Buncombe, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.61113393,-82.53305,84037021,US,USA,840,37021.0,buncombe,"Buncombe, North Carolina, US",0,0,0,0
@@ -4549,6 +4598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.61113393,-82.53305,84037021,US,USA,840,37021.0,buncombe,"Buncombe, North Carolina, US",47,0,3,0
 2020-04-20,us,north-carolina,35.61113393,-82.53305,84037021,US,USA,840,37021.0,buncombe,"Buncombe, North Carolina, US",47,0,3,0
 2020-04-21,us,north-carolina,35.61113393,-82.53305,84037021,US,USA,840,37021.0,buncombe,"Buncombe, North Carolina, US",48,1,3,0
+2020-04-22,us,north-carolina,35.61113393,-82.53305,84037021,US,USA,840,37021.0,buncombe,"Buncombe, North Carolina, US",49,1,3,0
 2020-01-22,us,north-carolina,35.64003916,-80.52446628,84037159,US,USA,840,37159.0,rowan,"Rowan, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.64003916,-80.52446628,84037159,US,USA,840,37159.0,rowan,"Rowan, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.64003916,-80.52446628,84037159,US,USA,840,37159.0,rowan,"Rowan, North Carolina, US",0,0,0,0
@@ -4640,6 +4690,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.64003916,-80.52446628,84037159,US,USA,840,37159.0,rowan,"Rowan, North Carolina, US",248,4,12,0
 2020-04-20,us,north-carolina,35.64003916,-80.52446628,84037159,US,USA,840,37159.0,rowan,"Rowan, North Carolina, US",250,2,12,0
 2020-04-21,us,north-carolina,35.64003916,-80.52446628,84037159,US,USA,840,37159.0,rowan,"Rowan, North Carolina, US",256,6,15,3
+2020-04-22,us,north-carolina,35.64003916,-80.52446628,84037159,US,USA,840,37159.0,rowan,"Rowan, North Carolina, US",269,13,17,2
 2020-01-22,us,north-carolina,35.66211129,-81.2132617,84037035,US,USA,840,37035.0,catawba,"Catawba, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.66211129,-81.2132617,84037035,US,USA,840,37035.0,catawba,"Catawba, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.66211129,-81.2132617,84037035,US,USA,840,37035.0,catawba,"Catawba, North Carolina, US",0,0,0,0
@@ -4731,6 +4782,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.66211129,-81.2132617,84037035,US,USA,840,37035.0,catawba,"Catawba, North Carolina, US",43,0,1,0
 2020-04-20,us,north-carolina,35.66211129,-81.2132617,84037035,US,USA,840,37035.0,catawba,"Catawba, North Carolina, US",43,0,1,0
 2020-04-21,us,north-carolina,35.66211129,-81.2132617,84037035,US,USA,840,37035.0,catawba,"Catawba, North Carolina, US",46,3,1,0
+2020-04-22,us,north-carolina,35.66211129,-81.2132617,84037035,US,USA,840,37035.0,catawba,"Catawba, North Carolina, US",47,1,1,0
 2020-01-22,us,north-carolina,35.66520691,-75.71767334,84037055,US,USA,840,37055.0,dare,"Dare, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.66520691,-75.71767334,84037055,US,USA,840,37055.0,dare,"Dare, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.66520691,-75.71767334,84037055,US,USA,840,37055.0,dare,"Dare, North Carolina, US",0,0,0,0
@@ -4822,6 +4874,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.66520691,-75.71767334,84037055,US,USA,840,37055.0,dare,"Dare, North Carolina, US",15,0,1,0
 2020-04-20,us,north-carolina,35.66520691,-75.71767334,84037055,US,USA,840,37055.0,dare,"Dare, North Carolina, US",15,0,1,0
 2020-04-21,us,north-carolina,35.66520691,-75.71767334,84037055,US,USA,840,37055.0,dare,"Dare, North Carolina, US",15,0,1,0
+2020-04-22,us,north-carolina,35.66520691,-75.71767334,84037055,US,USA,840,37055.0,dare,"Dare, North Carolina, US",15,0,1,0
 2020-01-22,us,north-carolina,35.67736232,-82.0482425,84037111,US,USA,840,37111.0,mcdowell,"McDowell, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.67736232,-82.0482425,84037111,US,USA,840,37111.0,mcdowell,"McDowell, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.67736232,-82.0482425,84037111,US,USA,840,37111.0,mcdowell,"McDowell, North Carolina, US",0,0,0,0
@@ -4913,6 +4966,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.67736232,-82.0482425,84037111,US,USA,840,37111.0,mcdowell,"McDowell, North Carolina, US",20,0,0,0
 2020-04-20,us,north-carolina,35.67736232,-82.0482425,84037111,US,USA,840,37111.0,mcdowell,"McDowell, North Carolina, US",20,0,0,0
 2020-04-21,us,north-carolina,35.67736232,-82.0482425,84037111,US,USA,840,37111.0,mcdowell,"McDowell, North Carolina, US",21,1,0,0
+2020-04-22,us,north-carolina,35.67736232,-82.0482425,84037111,US,USA,840,37111.0,mcdowell,"McDowell, North Carolina, US",21,0,0,0
 2020-01-22,us,north-carolina,35.70394416,-79.25541492,84037037,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.70394416,-79.25541492,84037037,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.70394416,-79.25541492,84037037,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",0,0,0,0
@@ -5004,6 +5058,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.70394416,-79.25541492,84037037,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",119,18,1,0
 2020-04-20,us,north-carolina,35.70394416,-79.25541492,84037037,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",127,8,1,0
 2020-04-21,us,north-carolina,35.70394416,-79.25541492,84037037,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",131,4,1,0
+2020-04-22,us,north-carolina,35.70394416,-79.25541492,84037037,US,USA,840,37037.0,chatham,"Chatham, North Carolina, US",135,4,6,5
 2020-01-22,us,north-carolina,35.70625477,-77.917978,84037195,US,USA,840,37195.0,wilson,"Wilson, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.70625477,-77.917978,84037195,US,USA,840,37195.0,wilson,"Wilson, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.70625477,-77.917978,84037195,US,USA,840,37195.0,wilson,"Wilson, North Carolina, US",0,0,0,0
@@ -5095,6 +5150,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.70625477,-77.917978,84037195,US,USA,840,37195.0,wilson,"Wilson, North Carolina, US",112,3,4,0
 2020-04-20,us,north-carolina,35.70625477,-77.917978,84037195,US,USA,840,37195.0,wilson,"Wilson, North Carolina, US",116,4,4,0
 2020-04-21,us,north-carolina,35.70625477,-77.917978,84037195,US,USA,840,37195.0,wilson,"Wilson, North Carolina, US",118,2,6,2
+2020-04-22,us,north-carolina,35.70625477,-77.917978,84037195,US,USA,840,37195.0,wilson,"Wilson, North Carolina, US",127,9,6,0
 2020-01-22,us,north-carolina,35.71015088,-79.80570339,84037151,US,USA,840,37151.0,randolph,"Randolph, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.71015088,-79.80570339,84037151,US,USA,840,37151.0,randolph,"Randolph, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.71015088,-79.80570339,84037151,US,USA,840,37151.0,randolph,"Randolph, North Carolina, US",0,0,0,0
@@ -5186,6 +5242,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.71015088,-79.80570339,84037151,US,USA,840,37151.0,randolph,"Randolph, North Carolina, US",74,5,2,0
 2020-04-20,us,north-carolina,35.71015088,-79.80570339,84037151,US,USA,840,37151.0,randolph,"Randolph, North Carolina, US",77,3,2,0
 2020-04-21,us,north-carolina,35.71015088,-79.80570339,84037151,US,USA,840,37151.0,randolph,"Randolph, North Carolina, US",78,1,2,0
+2020-04-22,us,north-carolina,35.71015088,-79.80570339,84037151,US,USA,840,37151.0,randolph,"Randolph, North Carolina, US",97,19,2,0
 2020-01-22,us,north-carolina,35.74989637,-81.70755735,84037023,US,USA,840,37023.0,burke,"Burke, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.74989637,-81.70755735,84037023,US,USA,840,37023.0,burke,"Burke, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.74989637,-81.70755735,84037023,US,USA,840,37023.0,burke,"Burke, North Carolina, US",0,0,0,0
@@ -5277,6 +5334,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.74989637,-81.70755735,84037023,US,USA,840,37023.0,burke,"Burke, North Carolina, US",68,2,6,1
 2020-04-20,us,north-carolina,35.74989637,-81.70755735,84037023,US,USA,840,37023.0,burke,"Burke, North Carolina, US",70,2,6,0
 2020-04-21,us,north-carolina,35.74989637,-81.70755735,84037023,US,USA,840,37023.0,burke,"Burke, North Carolina, US",75,5,8,2
+2020-04-22,us,north-carolina,35.74989637,-81.70755735,84037023,US,USA,840,37023.0,burke,"Burke, North Carolina, US",83,8,8,0
 2020-01-22,us,north-carolina,35.78879266,-78.65249174,84037183,US,USA,840,37183.0,wake,"Wake, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.78879266,-78.65249174,84037183,US,USA,840,37183.0,wake,"Wake, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.78879266,-78.65249174,84037183,US,USA,840,37183.0,wake,"Wake, North Carolina, US",0,0,0,0
@@ -5368,6 +5426,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.78879266,-78.65249174,84037183,US,USA,840,37183.0,wake,"Wake, North Carolina, US",592,13,4,0
 2020-04-20,us,north-carolina,35.78879266,-78.65249174,84037183,US,USA,840,37183.0,wake,"Wake, North Carolina, US",605,13,8,4
 2020-04-21,us,north-carolina,35.78879266,-78.65249174,84037183,US,USA,840,37183.0,wake,"Wake, North Carolina, US",613,8,9,1
+2020-04-22,us,north-carolina,35.78879266,-78.65249174,84037183,US,USA,840,37183.0,wake,"Wake, North Carolina, US",613,0,9,0
 2020-01-22,us,north-carolina,35.79115496,-80.21256572,84037057,US,USA,840,37057.0,davidson,"Davidson, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.79115496,-80.21256572,84037057,US,USA,840,37057.0,davidson,"Davidson, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.79115496,-80.21256572,84037057,US,USA,840,37057.0,davidson,"Davidson, North Carolina, US",0,0,0,0
@@ -5459,6 +5518,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.79115496,-80.21256572,84037057,US,USA,840,37057.0,davidson,"Davidson, North Carolina, US",94,0,2,0
 2020-04-20,us,north-carolina,35.79115496,-80.21256572,84037057,US,USA,840,37057.0,davidson,"Davidson, North Carolina, US",94,0,2,0
 2020-04-21,us,north-carolina,35.79115496,-80.21256572,84037057,US,USA,840,37057.0,davidson,"Davidson, North Carolina, US",96,2,2,0
+2020-04-22,us,north-carolina,35.79115496,-80.21256572,84037057,US,USA,840,37057.0,davidson,"Davidson, North Carolina, US",103,7,2,0
 2020-01-22,us,north-carolina,35.80950511,-80.8743128,84037097,US,USA,840,37097.0,iredell,"Iredell, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.80950511,-80.8743128,84037097,US,USA,840,37097.0,iredell,"Iredell, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.80950511,-80.8743128,84037097,US,USA,840,37097.0,iredell,"Iredell, North Carolina, US",0,0,0,0
@@ -5550,6 +5610,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.80950511,-80.8743128,84037097,US,USA,840,37097.0,iredell,"Iredell, North Carolina, US",81,0,3,0
 2020-04-20,us,north-carolina,35.80950511,-80.8743128,84037097,US,USA,840,37097.0,iredell,"Iredell, North Carolina, US",82,1,3,0
 2020-04-21,us,north-carolina,35.80950511,-80.8743128,84037097,US,USA,840,37097.0,iredell,"Iredell, North Carolina, US",88,6,3,0
+2020-04-22,us,north-carolina,35.80950511,-80.8743128,84037097,US,USA,840,37097.0,iredell,"Iredell, North Carolina, US",94,6,3,0
 2020-01-22,us,north-carolina,35.83810081,-76.57299037,84037187,US,USA,840,37187.0,washington,"Washington, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.83810081,-76.57299037,84037187,US,USA,840,37187.0,washington,"Washington, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.83810081,-76.57299037,84037187,US,USA,840,37187.0,washington,"Washington, North Carolina, US",0,0,0,0
@@ -5641,6 +5702,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.83810081,-76.57299037,84037187,US,USA,840,37187.0,washington,"Washington, North Carolina, US",20,1,2,0
 2020-04-20,us,north-carolina,35.83810081,-76.57299037,84037187,US,USA,840,37187.0,washington,"Washington, North Carolina, US",21,1,2,0
 2020-04-21,us,north-carolina,35.83810081,-76.57299037,84037187,US,USA,840,37187.0,washington,"Washington, North Carolina, US",22,1,2,0
+2020-04-22,us,north-carolina,35.83810081,-76.57299037,84037187,US,USA,840,37187.0,washington,"Washington, North Carolina, US",22,0,2,0
 2020-01-22,us,north-carolina,35.84326734,-77.10860251,84037117,US,USA,840,37117.0,martin,"Martin, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.84326734,-77.10860251,84037117,US,USA,840,37117.0,martin,"Martin, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.84326734,-77.10860251,84037117,US,USA,840,37117.0,martin,"Martin, North Carolina, US",0,0,0,0
@@ -5732,6 +5794,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.84326734,-77.10860251,84037117,US,USA,840,37117.0,martin,"Martin, North Carolina, US",9,1,0,0
 2020-04-20,us,north-carolina,35.84326734,-77.10860251,84037117,US,USA,840,37117.0,martin,"Martin, North Carolina, US",9,0,0,0
 2020-04-21,us,north-carolina,35.84326734,-77.10860251,84037117,US,USA,840,37117.0,martin,"Martin, North Carolina, US",11,2,0,0
+2020-04-22,us,north-carolina,35.84326734,-77.10860251,84037117,US,USA,840,37117.0,martin,"Martin, North Carolina, US",11,0,0,0
 2020-01-22,us,north-carolina,35.85402722,-82.71346418,84037115,US,USA,840,37115.0,madison,"Madison, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.85402722,-82.71346418,84037115,US,USA,840,37115.0,madison,"Madison, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.85402722,-82.71346418,84037115,US,USA,840,37115.0,madison,"Madison, North Carolina, US",0,0,0,0
@@ -5823,6 +5886,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.85402722,-82.71346418,84037115,US,USA,840,37115.0,madison,"Madison, North Carolina, US",0,0,0,0
 2020-04-20,us,north-carolina,35.85402722,-82.71346418,84037115,US,USA,840,37115.0,madison,"Madison, North Carolina, US",0,0,0,0
 2020-04-21,us,north-carolina,35.85402722,-82.71346418,84037115,US,USA,840,37115.0,madison,"Madison, North Carolina, US",0,0,0,0
+2020-04-22,us,north-carolina,35.85402722,-82.71346418,84037115,US,USA,840,37115.0,madison,"Madison, North Carolina, US",0,0,0,0
 2020-01-22,us,north-carolina,35.87147226,-76.17055253,84037177,US,USA,840,37177.0,tyrrell,"Tyrrell, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.87147226,-76.17055253,84037177,US,USA,840,37177.0,tyrrell,"Tyrrell, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.87147226,-76.17055253,84037177,US,USA,840,37177.0,tyrrell,"Tyrrell, North Carolina, US",0,0,0,0
@@ -5914,6 +5978,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.87147226,-76.17055253,84037177,US,USA,840,37177.0,tyrrell,"Tyrrell, North Carolina, US",4,0,0,0
 2020-04-20,us,north-carolina,35.87147226,-76.17055253,84037177,US,USA,840,37177.0,tyrrell,"Tyrrell, North Carolina, US",4,0,0,0
 2020-04-21,us,north-carolina,35.87147226,-76.17055253,84037177,US,USA,840,37177.0,tyrrell,"Tyrrell, North Carolina, US",4,0,0,0
+2020-04-22,us,north-carolina,35.87147226,-76.17055253,84037177,US,USA,840,37177.0,tyrrell,"Tyrrell, North Carolina, US",4,0,0,0
 2020-01-22,us,north-carolina,35.90079156,-82.31237181,84037199,US,USA,840,37199.0,yancey,"Yancey, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.90079156,-82.31237181,84037199,US,USA,840,37199.0,yancey,"Yancey, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.90079156,-82.31237181,84037199,US,USA,840,37199.0,yancey,"Yancey, North Carolina, US",0,0,0,0
@@ -6005,6 +6070,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.90079156,-82.31237181,84037199,US,USA,840,37199.0,yancey,"Yancey, North Carolina, US",0,0,0,0
 2020-04-20,us,north-carolina,35.90079156,-82.31237181,84037199,US,USA,840,37199.0,yancey,"Yancey, North Carolina, US",0,0,0,0
 2020-04-21,us,north-carolina,35.90079156,-82.31237181,84037199,US,USA,840,37199.0,yancey,"Yancey, North Carolina, US",0,0,0,0
+2020-04-22,us,north-carolina,35.90079156,-82.31237181,84037199,US,USA,840,37199.0,yancey,"Yancey, North Carolina, US",0,0,0,0
 2020-01-22,us,north-carolina,35.91230639,-77.59436892,84037065,US,USA,840,37065.0,edgecombe,"Edgecombe, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.91230639,-77.59436892,84037065,US,USA,840,37065.0,edgecombe,"Edgecombe, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.91230639,-77.59436892,84037065,US,USA,840,37065.0,edgecombe,"Edgecombe, North Carolina, US",0,0,0,0
@@ -6096,6 +6162,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.91230639,-77.59436892,84037065,US,USA,840,37065.0,edgecombe,"Edgecombe, North Carolina, US",58,9,1,0
 2020-04-20,us,north-carolina,35.91230639,-77.59436892,84037065,US,USA,840,37065.0,edgecombe,"Edgecombe, North Carolina, US",58,0,1,0
 2020-04-21,us,north-carolina,35.91230639,-77.59436892,84037065,US,USA,840,37065.0,edgecombe,"Edgecombe, North Carolina, US",58,0,1,0
+2020-04-22,us,north-carolina,35.91230639,-77.59436892,84037065,US,USA,840,37065.0,edgecombe,"Edgecombe, North Carolina, US",60,2,1,0
 2020-01-22,us,north-carolina,35.922379600000006,-81.17751948,84037003,US,USA,840,37003.0,alexander,"Alexander,North Carolina,US",0,0,0,0
 2020-01-23,us,north-carolina,35.922379600000006,-81.17751948,84037003,US,USA,840,37003.0,alexander,"Alexander,North Carolina,US",0,0,0,0
 2020-01-24,us,north-carolina,35.922379600000006,-81.17751948,84037003,US,USA,840,37003.0,alexander,"Alexander,North Carolina,US",0,0,0,0
@@ -6187,6 +6254,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.922379600000006,-81.17751948,84037003,US,USA,840,37003.0,alexander,"Alexander,North Carolina,US",3,0,0,0
 2020-04-20,us,north-carolina,35.922379600000006,-81.17751948,84037003,US,USA,840,37003.0,alexander,"Alexander,North Carolina,US",3,0,0,0
 2020-04-21,us,north-carolina,35.922379600000006,-81.17751948,84037003,US,USA,840,37003.0,alexander,"Alexander,North Carolina,US",4,1,0,0
+2020-04-22,us,north-carolina,35.922379600000006,-81.17751948,84037003,US,USA,840,37003.0,alexander,"Alexander,North Carolina,US",4,0,0,0
 2020-01-22,us,north-carolina,35.93099927,-80.54496571,84037059,US,USA,840,37059.0,davie,"Davie, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.93099927,-80.54496571,84037059,US,USA,840,37059.0,davie,"Davie, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.93099927,-80.54496571,84037059,US,USA,840,37059.0,davie,"Davie, North Carolina, US",0,0,0,0
@@ -6278,6 +6346,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.93099927,-80.54496571,84037059,US,USA,840,37059.0,davie,"Davie, North Carolina, US",23,0,2,0
 2020-04-20,us,north-carolina,35.93099927,-80.54496571,84037059,US,USA,840,37059.0,davie,"Davie, North Carolina, US",23,0,2,0
 2020-04-21,us,north-carolina,35.93099927,-80.54496571,84037059,US,USA,840,37059.0,davie,"Davie, North Carolina, US",24,1,2,0
+2020-04-22,us,north-carolina,35.93099927,-80.54496571,84037059,US,USA,840,37059.0,davie,"Davie, North Carolina, US",24,0,2,0
 2020-01-22,us,north-carolina,35.95204977,-81.54799522,84037027,US,USA,840,37027.0,caldwell,"Caldwell, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.95204977,-81.54799522,84037027,US,USA,840,37027.0,caldwell,"Caldwell, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.95204977,-81.54799522,84037027,US,USA,840,37027.0,caldwell,"Caldwell, North Carolina, US",0,0,0,0
@@ -6369,6 +6438,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.95204977,-81.54799522,84037027,US,USA,840,37027.0,caldwell,"Caldwell, North Carolina, US",23,1,0,0
 2020-04-20,us,north-carolina,35.95204977,-81.54799522,84037027,US,USA,840,37027.0,caldwell,"Caldwell, North Carolina, US",23,0,0,0
 2020-04-21,us,north-carolina,35.95204977,-81.54799522,84037027,US,USA,840,37027.0,caldwell,"Caldwell, North Carolina, US",23,0,0,0
+2020-04-22,us,north-carolina,35.95204977,-81.54799522,84037027,US,USA,840,37027.0,caldwell,"Caldwell, North Carolina, US",23,0,0,0
 2020-01-22,us,north-carolina,35.96575634,-77.98422508,84037127,US,USA,840,37127.0,nash,"Nash, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,35.96575634,-77.98422508,84037127,US,USA,840,37127.0,nash,"Nash, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,35.96575634,-77.98422508,84037127,US,USA,840,37127.0,nash,"Nash, North Carolina, US",0,0,0,0
@@ -6460,6 +6530,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,35.96575634,-77.98422508,84037127,US,USA,840,37127.0,nash,"Nash, North Carolina, US",61,8,1,0
 2020-04-20,us,north-carolina,35.96575634,-77.98422508,84037127,US,USA,840,37127.0,nash,"Nash, North Carolina, US",61,0,1,0
 2020-04-21,us,north-carolina,35.96575634,-77.98422508,84037127,US,USA,840,37127.0,nash,"Nash, North Carolina, US",67,6,1,0
+2020-04-22,us,north-carolina,35.96575634,-77.98422508,84037127,US,USA,840,37127.0,nash,"Nash, North Carolina, US",74,7,1,0
 2020-01-22,us,north-carolina,36.01059309,-82.1582442,84037121,US,USA,840,37121.0,mitchell,"Mitchell, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.01059309,-82.1582442,84037121,US,USA,840,37121.0,mitchell,"Mitchell, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.01059309,-82.1582442,84037121,US,USA,840,37121.0,mitchell,"Mitchell, North Carolina, US",0,0,0,0
@@ -6551,6 +6622,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.01059309,-82.1582442,84037121,US,USA,840,37121.0,mitchell,"Mitchell, North Carolina, US",5,0,0,0
 2020-04-20,us,north-carolina,36.01059309,-82.1582442,84037121,US,USA,840,37121.0,mitchell,"Mitchell, North Carolina, US",5,0,0,0
 2020-04-21,us,north-carolina,36.01059309,-82.1582442,84037121,US,USA,840,37121.0,mitchell,"Mitchell, North Carolina, US",7,2,0,0
+2020-04-22,us,north-carolina,36.01059309,-82.1582442,84037121,US,USA,840,37121.0,mitchell,"Mitchell, North Carolina, US",7,0,0,0
 2020-01-22,us,north-carolina,36.03638492,-78.87608331,84037063,US,USA,840,37063.0,durham,"Durham, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.03638492,-78.87608331,84037063,US,USA,840,37063.0,durham,"Durham, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.03638492,-78.87608331,84037063,US,USA,840,37063.0,durham,"Durham, North Carolina, US",0,0,0,0
@@ -6642,6 +6714,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.03638492,-78.87608331,84037063,US,USA,840,37063.0,durham,"Durham, North Carolina, US",409,10,5,1
 2020-04-20,us,north-carolina,36.03638492,-78.87608331,84037063,US,USA,840,37063.0,durham,"Durham, North Carolina, US",435,26,5,0
 2020-04-21,us,north-carolina,36.03638492,-78.87608331,84037063,US,USA,840,37063.0,durham,"Durham, North Carolina, US",439,4,6,1
+2020-04-22,us,north-carolina,36.03638492,-78.87608331,84037063,US,USA,840,37063.0,durham,"Durham, North Carolina, US",439,0,6,0
 2020-01-22,us,north-carolina,36.0434701,-79.39976137,84037001,US,USA,840,37001.0,alamance,"Alamance, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.0434701,-79.39976137,84037001,US,USA,840,37001.0,alamance,"Alamance, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.0434701,-79.39976137,84037001,US,USA,840,37001.0,alamance,"Alamance, North Carolina, US",0,0,0,0
@@ -6733,6 +6806,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.0434701,-79.39976137,84037001,US,USA,840,37001.0,alamance,"Alamance, North Carolina, US",50,2,0,0
 2020-04-20,us,north-carolina,36.0434701,-79.39976137,84037001,US,USA,840,37001.0,alamance,"Alamance, North Carolina, US",50,0,0,0
 2020-04-21,us,north-carolina,36.0434701,-79.39976137,84037001,US,USA,840,37001.0,alamance,"Alamance, North Carolina, US",58,8,0,0
+2020-04-22,us,north-carolina,36.0434701,-79.39976137,84037001,US,USA,840,37001.0,alamance,"Alamance, North Carolina, US",60,2,0,0
 2020-01-22,us,north-carolina,36.06092947,-79.12167935,84037135,US,USA,840,37135.0,orange,"Orange, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.06092947,-79.12167935,84037135,US,USA,840,37135.0,orange,"Orange, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.06092947,-79.12167935,84037135,US,USA,840,37135.0,orange,"Orange, North Carolina, US",0,0,0,0
@@ -6824,6 +6898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.06092947,-79.12167935,84037135,US,USA,840,37135.0,orange,"Orange, North Carolina, US",187,4,3,0
 2020-04-20,us,north-carolina,36.06092947,-79.12167935,84037135,US,USA,840,37135.0,orange,"Orange, North Carolina, US",187,0,3,0
 2020-04-21,us,north-carolina,36.06092947,-79.12167935,84037135,US,USA,840,37135.0,orange,"Orange, North Carolina, US",189,2,3,0
+2020-04-22,us,north-carolina,36.06092947,-79.12167935,84037135,US,USA,840,37135.0,orange,"Orange, North Carolina, US",195,6,7,4
 2020-01-22,us,north-carolina,36.0688473,-76.96545943,84037015,US,USA,840,37015.0,bertie,"Bertie, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.0688473,-76.96545943,84037015,US,USA,840,37015.0,bertie,"Bertie, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.0688473,-76.96545943,84037015,US,USA,840,37015.0,bertie,"Bertie, North Carolina, US",0,0,0,0
@@ -6915,6 +6990,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.0688473,-76.96545943,84037015,US,USA,840,37015.0,bertie,"Bertie, North Carolina, US",21,1,1,0
 2020-04-20,us,north-carolina,36.0688473,-76.96545943,84037015,US,USA,840,37015.0,bertie,"Bertie, North Carolina, US",24,3,1,0
 2020-04-21,us,north-carolina,36.0688473,-76.96545943,84037015,US,USA,840,37015.0,bertie,"Bertie, North Carolina, US",25,1,1,0
+2020-04-22,us,north-carolina,36.0688473,-76.96545943,84037015,US,USA,840,37015.0,bertie,"Bertie, North Carolina, US",27,2,1,0
 2020-01-22,us,north-carolina,36.07569796,-81.92308483,84037011,US,USA,840,37011.0,avery,"Avery, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.07569796,-81.92308483,84037011,US,USA,840,37011.0,avery,"Avery, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.07569796,-81.92308483,84037011,US,USA,840,37011.0,avery,"Avery, North Carolina, US",0,0,0,0
@@ -7006,6 +7082,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.07569796,-81.92308483,84037011,US,USA,840,37011.0,avery,"Avery, North Carolina, US",0,0,0,0
 2020-04-20,us,north-carolina,36.07569796,-81.92308483,84037011,US,USA,840,37011.0,avery,"Avery, North Carolina, US",0,0,0,0
 2020-04-21,us,north-carolina,36.07569796,-81.92308483,84037011,US,USA,840,37011.0,avery,"Avery, North Carolina, US",0,0,0,0
+2020-04-22,us,north-carolina,36.07569796,-81.92308483,84037011,US,USA,840,37011.0,avery,"Avery, North Carolina, US",0,0,0,0
 2020-01-22,us,north-carolina,36.07959451,-79.78824948,84037081,US,USA,840,37081.0,guilford,"Guilford, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.07959451,-79.78824948,84037081,US,USA,840,37081.0,guilford,"Guilford, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.07959451,-79.78824948,84037081,US,USA,840,37081.0,guilford,"Guilford, North Carolina, US",0,0,0,0
@@ -7097,6 +7174,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.07959451,-79.78824948,84037081,US,USA,840,37081.0,guilford,"Guilford, North Carolina, US",176,0,13,0
 2020-04-20,us,north-carolina,36.07959451,-79.78824948,84037081,US,USA,840,37081.0,guilford,"Guilford, North Carolina, US",176,0,13,0
 2020-04-21,us,north-carolina,36.07959451,-79.78824948,84037081,US,USA,840,37081.0,guilford,"Guilford, North Carolina, US",201,25,15,2
+2020-04-22,us,north-carolina,36.07959451,-79.78824948,84037081,US,USA,840,37081.0,guilford,"Guilford, North Carolina, US",233,32,16,1
 2020-01-22,us,north-carolina,36.081519,-78.28708884,84037069,US,USA,840,37069.0,franklin,"Franklin, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.081519,-78.28708884,84037069,US,USA,840,37069.0,franklin,"Franklin, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.081519,-78.28708884,84037069,US,USA,840,37069.0,franklin,"Franklin, North Carolina, US",0,0,0,0
@@ -7188,6 +7266,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.081519,-78.28708884,84037069,US,USA,840,37069.0,franklin,"Franklin, North Carolina, US",69,0,8,1
 2020-04-20,us,north-carolina,36.081519,-78.28708884,84037069,US,USA,840,37069.0,franklin,"Franklin, North Carolina, US",71,2,8,0
 2020-04-21,us,north-carolina,36.081519,-78.28708884,84037069,US,USA,840,37069.0,franklin,"Franklin, North Carolina, US",74,3,11,3
+2020-04-22,us,north-carolina,36.081519,-78.28708884,84037069,US,USA,840,37069.0,franklin,"Franklin, North Carolina, US",75,1,13,2
 2020-01-22,us,north-carolina,36.12859861,-80.25459052,84037067,US,USA,840,37067.0,forsyth,"Forsyth, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.12859861,-80.25459052,84037067,US,USA,840,37067.0,forsyth,"Forsyth, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.12859861,-80.25459052,84037067,US,USA,840,37067.0,forsyth,"Forsyth, North Carolina, US",0,0,0,0
@@ -7279,6 +7358,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.12859861,-80.25459052,84037067,US,USA,840,37067.0,forsyth,"Forsyth, North Carolina, US",126,0,5,0
 2020-04-20,us,north-carolina,36.12859861,-80.25459052,84037067,US,USA,840,37067.0,forsyth,"Forsyth, North Carolina, US",126,0,5,0
 2020-04-21,us,north-carolina,36.12859861,-80.25459052,84037067,US,USA,840,37067.0,forsyth,"Forsyth, North Carolina, US",131,5,5,0
+2020-04-22,us,north-carolina,36.12859861,-80.25459052,84037067,US,USA,840,37067.0,forsyth,"Forsyth, North Carolina, US",141,10,5,0
 2020-01-22,us,north-carolina,36.12908077,-76.60118385,84037041,US,USA,840,37041.0,chowan,"Chowan, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.12908077,-76.60118385,84037041,US,USA,840,37041.0,chowan,"Chowan, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.12908077,-76.60118385,84037041,US,USA,840,37041.0,chowan,"Chowan, North Carolina, US",0,0,0,0
@@ -7370,6 +7450,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.12908077,-76.60118385,84037041,US,USA,840,37041.0,chowan,"Chowan, North Carolina, US",6,0,0,0
 2020-04-20,us,north-carolina,36.12908077,-76.60118385,84037041,US,USA,840,37041.0,chowan,"Chowan, North Carolina, US",6,0,0,0
 2020-04-21,us,north-carolina,36.12908077,-76.60118385,84037041,US,USA,840,37041.0,chowan,"Chowan, North Carolina, US",6,0,0,0
+2020-04-22,us,north-carolina,36.12908077,-76.60118385,84037041,US,USA,840,37041.0,chowan,"Chowan, North Carolina, US",6,0,0,0
 2020-01-22,us,north-carolina,36.16222629,-80.66239436,84037197,US,USA,840,37197.0,yadkin,"Yadkin, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.16222629,-80.66239436,84037197,US,USA,840,37197.0,yadkin,"Yadkin, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.16222629,-80.66239436,84037197,US,USA,840,37197.0,yadkin,"Yadkin, North Carolina, US",0,0,0,0
@@ -7461,6 +7542,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.16222629,-80.66239436,84037197,US,USA,840,37197.0,yadkin,"Yadkin, North Carolina, US",11,0,1,0
 2020-04-20,us,north-carolina,36.16222629,-80.66239436,84037197,US,USA,840,37197.0,yadkin,"Yadkin, North Carolina, US",11,0,1,0
 2020-04-21,us,north-carolina,36.16222629,-80.66239436,84037197,US,USA,840,37197.0,yadkin,"Yadkin, North Carolina, US",11,0,1,0
+2020-04-22,us,north-carolina,36.16222629,-80.66239436,84037197,US,USA,840,37197.0,yadkin,"Yadkin, North Carolina, US",11,0,1,0
 2020-01-22,us,north-carolina,36.17847453,-76.40603143,84037143,US,USA,840,37143.0,perquimans,"Perquimans, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.17847453,-76.40603143,84037143,US,USA,840,37143.0,perquimans,"Perquimans, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.17847453,-76.40603143,84037143,US,USA,840,37143.0,perquimans,"Perquimans, North Carolina, US",0,0,0,0
@@ -7552,6 +7634,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.17847453,-76.40603143,84037143,US,USA,840,37143.0,perquimans,"Perquimans, North Carolina, US",8,0,0,0
 2020-04-20,us,north-carolina,36.17847453,-76.40603143,84037143,US,USA,840,37143.0,perquimans,"Perquimans, North Carolina, US",8,0,0,0
 2020-04-21,us,north-carolina,36.17847453,-76.40603143,84037143,US,USA,840,37143.0,perquimans,"Perquimans, North Carolina, US",8,0,0,0
+2020-04-22,us,north-carolina,36.17847453,-76.40603143,84037143,US,USA,840,37143.0,perquimans,"Perquimans, North Carolina, US",8,0,0,0
 2020-01-22,us,north-carolina,36.2084135,-81.16232895,84037193,US,USA,840,37193.0,wilkes,"Wilkes, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.2084135,-81.16232895,84037193,US,USA,840,37193.0,wilkes,"Wilkes, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.2084135,-81.16232895,84037193,US,USA,840,37193.0,wilkes,"Wilkes, North Carolina, US",0,0,0,0
@@ -7643,6 +7726,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.2084135,-81.16232895,84037193,US,USA,840,37193.0,wilkes,"Wilkes, North Carolina, US",4,0,1,0
 2020-04-20,us,north-carolina,36.2084135,-81.16232895,84037193,US,USA,840,37193.0,wilkes,"Wilkes, North Carolina, US",4,0,1,0
 2020-04-21,us,north-carolina,36.2084135,-81.16232895,84037193,US,USA,840,37193.0,wilkes,"Wilkes, North Carolina, US",5,1,1,0
+2020-04-22,us,north-carolina,36.2084135,-81.16232895,84037193,US,USA,840,37193.0,wilkes,"Wilkes, North Carolina, US",5,0,1,0
 2020-01-22,us,north-carolina,36.23103603,-81.70033724,84037189,US,USA,840,37189.0,watauga,"Watauga, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.23103603,-81.70033724,84037189,US,USA,840,37189.0,watauga,"Watauga, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.23103603,-81.70033724,84037189,US,USA,840,37189.0,watauga,"Watauga, North Carolina, US",0,0,0,0
@@ -7734,6 +7818,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.23103603,-81.70033724,84037189,US,USA,840,37189.0,watauga,"Watauga, North Carolina, US",8,0,0,0
 2020-04-20,us,north-carolina,36.23103603,-81.70033724,84037189,US,USA,840,37189.0,watauga,"Watauga, North Carolina, US",8,0,0,0
 2020-04-21,us,north-carolina,36.23103603,-81.70033724,84037189,US,USA,840,37189.0,watauga,"Watauga, North Carolina, US",8,0,0,0
+2020-04-22,us,north-carolina,36.23103603,-81.70033724,84037189,US,USA,840,37189.0,watauga,"Watauga, North Carolina, US",8,0,0,0
 2020-01-22,us,north-carolina,36.25669272,-77.6556109,84037083,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.25669272,-77.6556109,84037083,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.25669272,-77.6556109,84037083,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",0,0,0,0
@@ -7825,6 +7910,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.25669272,-77.6556109,84037083,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",32,0,1,0
 2020-04-20,us,north-carolina,36.25669272,-77.6556109,84037083,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",33,1,1,0
 2020-04-21,us,north-carolina,36.25669272,-77.6556109,84037083,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",36,3,1,0
+2020-04-22,us,north-carolina,36.25669272,-77.6556109,84037083,US,USA,840,37083.0,halifax,"Halifax, North Carolina, US",39,3,1,0
 2020-01-22,us,north-carolina,36.26723798,-76.25134778,84037139,US,USA,840,37139.0,pasquotank,"Pasquotank, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.26723798,-76.25134778,84037139,US,USA,840,37139.0,pasquotank,"Pasquotank, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.26723798,-76.25134778,84037139,US,USA,840,37139.0,pasquotank,"Pasquotank, North Carolina, US",0,0,0,0
@@ -7916,6 +8002,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.26723798,-76.25134778,84037139,US,USA,840,37139.0,pasquotank,"Pasquotank, North Carolina, US",20,0,0,0
 2020-04-20,us,north-carolina,36.26723798,-76.25134778,84037139,US,USA,840,37139.0,pasquotank,"Pasquotank, North Carolina, US",32,12,0,0
 2020-04-21,us,north-carolina,36.26723798,-76.25134778,84037139,US,USA,840,37139.0,pasquotank,"Pasquotank, North Carolina, US",32,0,1,1
+2020-04-22,us,north-carolina,36.26723798,-76.25134778,84037139,US,USA,840,37139.0,pasquotank,"Pasquotank, North Carolina, US",32,0,1,0
 2020-01-22,us,north-carolina,36.30337451,-78.65184241,84037077,US,USA,840,37077.0,granville,"Granville, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.30337451,-78.65184241,84037077,US,USA,840,37077.0,granville,"Granville, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.30337451,-78.65184241,84037077,US,USA,840,37077.0,granville,"Granville, North Carolina, US",0,0,0,0
@@ -8007,6 +8094,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.30337451,-78.65184241,84037077,US,USA,840,37077.0,granville,"Granville, North Carolina, US",110,1,5,0
 2020-04-20,us,north-carolina,36.30337451,-78.65184241,84037077,US,USA,840,37077.0,granville,"Granville, North Carolina, US",112,2,5,0
 2020-04-21,us,north-carolina,36.30337451,-78.65184241,84037077,US,USA,840,37077.0,granville,"Granville, North Carolina, US",114,2,5,0
+2020-04-22,us,north-carolina,36.30337451,-78.65184241,84037077,US,USA,840,37077.0,granville,"Granville, North Carolina, US",118,4,5,0
 2020-01-22,us,north-carolina,36.33804939,-76.15568396,84037029,US,USA,840,37029.0,camden,"Camden, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.33804939,-76.15568396,84037029,US,USA,840,37029.0,camden,"Camden, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.33804939,-76.15568396,84037029,US,USA,840,37029.0,camden,"Camden, North Carolina, US",0,0,0,0
@@ -8098,6 +8186,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.33804939,-76.15568396,84037029,US,USA,840,37029.0,camden,"Camden, North Carolina, US",0,0,0,0
 2020-04-20,us,north-carolina,36.33804939,-76.15568396,84037029,US,USA,840,37029.0,camden,"Camden, North Carolina, US",0,0,0,0
 2020-04-21,us,north-carolina,36.33804939,-76.15568396,84037029,US,USA,840,37029.0,camden,"Camden, North Carolina, US",0,0,0,0
+2020-04-22,us,north-carolina,36.33804939,-76.15568396,84037029,US,USA,840,37029.0,camden,"Camden, North Carolina, US",0,0,0,0
 2020-01-22,us,north-carolina,36.3607755,-76.98104134,84037091,US,USA,840,37091.0,hertford,"Hertford, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.3607755,-76.98104134,84037091,US,USA,840,37091.0,hertford,"Hertford, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.3607755,-76.98104134,84037091,US,USA,840,37091.0,hertford,"Hertford, North Carolina, US",0,0,0,0
@@ -8189,6 +8278,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.3607755,-76.98104134,84037091,US,USA,840,37091.0,hertford,"Hertford, North Carolina, US",9,2,1,0
 2020-04-20,us,north-carolina,36.3607755,-76.98104134,84037091,US,USA,840,37091.0,hertford,"Hertford, North Carolina, US",9,0,1,0
 2020-04-21,us,north-carolina,36.3607755,-76.98104134,84037091,US,USA,840,37091.0,hertford,"Hertford, North Carolina, US",10,1,1,0
+2020-04-22,us,north-carolina,36.3607755,-76.98104134,84037091,US,USA,840,37091.0,hertford,"Hertford, North Carolina, US",11,1,1,0
 2020-01-22,us,north-carolina,36.36123664,-75.95876401,84037053,US,USA,840,37053.0,currituck,"Currituck, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.36123664,-75.95876401,84037053,US,USA,840,37053.0,currituck,"Currituck, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.36123664,-75.95876401,84037053,US,USA,840,37053.0,currituck,"Currituck, North Carolina, US",0,0,0,0
@@ -8280,6 +8370,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.36123664,-75.95876401,84037053,US,USA,840,37053.0,currituck,"Currituck, North Carolina, US",3,0,0,0
 2020-04-20,us,north-carolina,36.36123664,-75.95876401,84037053,US,USA,840,37053.0,currituck,"Currituck, North Carolina, US",3,0,0,0
 2020-04-21,us,north-carolina,36.36123664,-75.95876401,84037053,US,USA,840,37053.0,currituck,"Currituck, North Carolina, US",3,0,0,0
+2020-04-22,us,north-carolina,36.36123664,-75.95876401,84037053,US,USA,840,37053.0,currituck,"Currituck, North Carolina, US",3,0,0,0
 2020-01-22,us,north-carolina,36.36880673,-78.40670845,84037181,US,USA,840,37181.0,vance,"Vance, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.36880673,-78.40670845,84037181,US,USA,840,37181.0,vance,"Vance, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.36880673,-78.40670845,84037181,US,USA,840,37181.0,vance,"Vance, North Carolina, US",0,0,0,0
@@ -8371,6 +8462,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.36880673,-78.40670845,84037181,US,USA,840,37181.0,vance,"Vance, North Carolina, US",32,2,1,0
 2020-04-20,us,north-carolina,36.36880673,-78.40670845,84037181,US,USA,840,37181.0,vance,"Vance, North Carolina, US",33,1,1,0
 2020-04-21,us,north-carolina,36.36880673,-78.40670845,84037181,US,USA,840,37181.0,vance,"Vance, North Carolina, US",34,1,1,0
+2020-04-22,us,north-carolina,36.36880673,-78.40670845,84037181,US,USA,840,37181.0,vance,"Vance, North Carolina, US",36,2,1,0
 2020-01-22,us,north-carolina,36.38989032,-78.97217358,84037145,US,USA,840,37145.0,person,"Person, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.38989032,-78.97217358,84037145,US,USA,840,37145.0,person,"Person, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.38989032,-78.97217358,84037145,US,USA,840,37145.0,person,"Person, North Carolina, US",0,0,0,0
@@ -8462,6 +8554,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.38989032,-78.97217358,84037145,US,USA,840,37145.0,person,"Person, North Carolina, US",16,0,0,0
 2020-04-20,us,north-carolina,36.38989032,-78.97217358,84037145,US,USA,840,37145.0,person,"Person, North Carolina, US",16,0,0,0
 2020-04-21,us,north-carolina,36.38989032,-78.97217358,84037145,US,USA,840,37145.0,person,"Person, North Carolina, US",18,2,0,0
+2020-04-22,us,north-carolina,36.38989032,-78.97217358,84037145,US,USA,840,37145.0,person,"Person, North Carolina, US",18,0,0,0
 2020-01-22,us,north-carolina,36.39312665,-79.33353281,84037033,US,USA,840,37033.0,caswell,"Caswell, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.39312665,-79.33353281,84037033,US,USA,840,37033.0,caswell,"Caswell, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.39312665,-79.33353281,84037033,US,USA,840,37033.0,caswell,"Caswell, North Carolina, US",0,0,0,0
@@ -8553,6 +8646,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.39312665,-79.33353281,84037033,US,USA,840,37033.0,caswell,"Caswell, North Carolina, US",7,0,0,0
 2020-04-20,us,north-carolina,36.39312665,-79.33353281,84037033,US,USA,840,37033.0,caswell,"Caswell, North Carolina, US",8,1,0,0
 2020-04-21,us,north-carolina,36.39312665,-79.33353281,84037033,US,USA,840,37033.0,caswell,"Caswell, North Carolina, US",8,0,0,0
+2020-04-22,us,north-carolina,36.39312665,-79.33353281,84037033,US,USA,840,37033.0,caswell,"Caswell, North Carolina, US",12,4,0,0
 2020-01-22,us,north-carolina,36.39593137,-79.77504841,84037157,US,USA,840,37157.0,rockingham,"Rockingham, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.39593137,-79.77504841,84037157,US,USA,840,37157.0,rockingham,"Rockingham, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.39593137,-79.77504841,84037157,US,USA,840,37157.0,rockingham,"Rockingham, North Carolina, US",0,0,0,0
@@ -8644,6 +8738,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.39593137,-79.77504841,84037157,US,USA,840,37157.0,rockingham,"Rockingham, North Carolina, US",18,2,2,0
 2020-04-20,us,north-carolina,36.39593137,-79.77504841,84037157,US,USA,840,37157.0,rockingham,"Rockingham, North Carolina, US",19,1,2,0
 2020-04-21,us,north-carolina,36.39593137,-79.77504841,84037157,US,USA,840,37157.0,rockingham,"Rockingham, North Carolina, US",20,1,2,0
+2020-04-22,us,north-carolina,36.39593137,-79.77504841,84037157,US,USA,840,37157.0,rockingham,"Rockingham, North Carolina, US",20,0,2,0
 2020-01-22,us,north-carolina,36.39728256,-78.10652228,84037185,US,USA,840,37185.0,warren,"Warren, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.39728256,-78.10652228,84037185,US,USA,840,37185.0,warren,"Warren, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.39728256,-78.10652228,84037185,US,USA,840,37185.0,warren,"Warren, North Carolina, US",0,0,0,0
@@ -8735,6 +8830,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.39728256,-78.10652228,84037185,US,USA,840,37185.0,warren,"Warren, North Carolina, US",3,0,0,0
 2020-04-20,us,north-carolina,36.39728256,-78.10652228,84037185,US,USA,840,37185.0,warren,"Warren, North Carolina, US",3,0,0,0
 2020-04-21,us,north-carolina,36.39728256,-78.10652228,84037185,US,USA,840,37185.0,warren,"Warren, North Carolina, US",3,0,0,0
+2020-04-22,us,north-carolina,36.39728256,-78.10652228,84037185,US,USA,840,37185.0,warren,"Warren, North Carolina, US",3,0,0,0
 2020-01-22,us,north-carolina,36.4017975,-80.23893369,84037169,US,USA,840,37169.0,stokes,"Stokes, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.4017975,-80.23893369,84037169,US,USA,840,37169.0,stokes,"Stokes, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.4017975,-80.23893369,84037169,US,USA,840,37169.0,stokes,"Stokes, North Carolina, US",0,0,0,0
@@ -8826,6 +8922,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.4017975,-80.23893369,84037169,US,USA,840,37169.0,stokes,"Stokes, North Carolina, US",10,0,0,0
 2020-04-20,us,north-carolina,36.4017975,-80.23893369,84037169,US,USA,840,37169.0,stokes,"Stokes, North Carolina, US",10,0,0,0
 2020-04-21,us,north-carolina,36.4017975,-80.23893369,84037169,US,USA,840,37169.0,stokes,"Stokes, North Carolina, US",10,0,0,0
+2020-04-22,us,north-carolina,36.4017975,-80.23893369,84037169,US,USA,840,37169.0,stokes,"Stokes, North Carolina, US",10,0,0,0
 2020-01-22,us,north-carolina,36.41689489,-80.69102283,84037171,US,USA,840,37171.0,surry,"Surry, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.41689489,-80.69102283,84037171,US,USA,840,37171.0,surry,"Surry, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.41689489,-80.69102283,84037171,US,USA,840,37171.0,surry,"Surry, North Carolina, US",0,0,0,0
@@ -8917,6 +9014,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.41689489,-80.69102283,84037171,US,USA,840,37171.0,surry,"Surry, North Carolina, US",17,0,0,0
 2020-04-20,us,north-carolina,36.41689489,-80.69102283,84037171,US,USA,840,37171.0,surry,"Surry, North Carolina, US",17,0,0,0
 2020-04-21,us,north-carolina,36.41689489,-80.69102283,84037171,US,USA,840,37171.0,surry,"Surry, North Carolina, US",17,0,0,0
+2020-04-22,us,north-carolina,36.41689489,-80.69102283,84037171,US,USA,840,37171.0,surry,"Surry, North Carolina, US",17,0,0,0
 2020-01-22,us,north-carolina,36.41736238,-77.39769443,84037131,US,USA,840,37131.0,northampton,"Northampton, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.41736238,-77.39769443,84037131,US,USA,840,37131.0,northampton,"Northampton, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.41736238,-77.39769443,84037131,US,USA,840,37131.0,northampton,"Northampton, North Carolina, US",0,0,0,0
@@ -9008,6 +9106,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.41736238,-77.39769443,84037131,US,USA,840,37131.0,northampton,"Northampton, North Carolina, US",72,2,2,1
 2020-04-20,us,north-carolina,36.41736238,-77.39769443,84037131,US,USA,840,37131.0,northampton,"Northampton, North Carolina, US",72,0,2,0
 2020-04-21,us,north-carolina,36.41736238,-77.39769443,84037131,US,USA,840,37131.0,northampton,"Northampton, North Carolina, US",74,2,2,0
+2020-04-22,us,north-carolina,36.41736238,-77.39769443,84037131,US,USA,840,37131.0,northampton,"Northampton, North Carolina, US",75,1,2,0
 2020-01-22,us,north-carolina,36.43296207,-81.49862729,84037009,US,USA,840,37009.0,ashe,"Ashe, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.43296207,-81.49862729,84037009,US,USA,840,37009.0,ashe,"Ashe, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.43296207,-81.49862729,84037009,US,USA,840,37009.0,ashe,"Ashe, North Carolina, US",0,0,0,0
@@ -9099,6 +9198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.43296207,-81.49862729,84037009,US,USA,840,37009.0,ashe,"Ashe, North Carolina, US",4,0,0,0
 2020-04-20,us,north-carolina,36.43296207,-81.49862729,84037009,US,USA,840,37009.0,ashe,"Ashe, North Carolina, US",4,0,0,0
 2020-04-21,us,north-carolina,36.43296207,-81.49862729,84037009,US,USA,840,37009.0,ashe,"Ashe, North Carolina, US",4,0,0,0
+2020-04-22,us,north-carolina,36.43296207,-81.49862729,84037009,US,USA,840,37009.0,ashe,"Ashe, North Carolina, US",4,0,0,0
 2020-01-22,us,north-carolina,36.44667547,-76.69749701,84037073,US,USA,840,37073.0,gates,"Gates, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.44667547,-76.69749701,84037073,US,USA,840,37073.0,gates,"Gates, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.44667547,-76.69749701,84037073,US,USA,840,37073.0,gates,"Gates, North Carolina, US",0,0,0,0
@@ -9190,6 +9290,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.44667547,-76.69749701,84037073,US,USA,840,37073.0,gates,"Gates, North Carolina, US",4,0,0,0
 2020-04-20,us,north-carolina,36.44667547,-76.69749701,84037073,US,USA,840,37073.0,gates,"Gates, North Carolina, US",4,0,0,0
 2020-04-21,us,north-carolina,36.44667547,-76.69749701,84037073,US,USA,840,37073.0,gates,"Gates, North Carolina, US",4,0,0,0
+2020-04-22,us,north-carolina,36.44667547,-76.69749701,84037073,US,USA,840,37073.0,gates,"Gates, North Carolina, US",4,0,0,0
 2020-01-22,us,north-carolina,36.49360862,-81.12857041,84037005,US,USA,840,37005.0,alleghany,"Alleghany, North Carolina, US",0,0,0,0
 2020-01-23,us,north-carolina,36.49360862,-81.12857041,84037005,US,USA,840,37005.0,alleghany,"Alleghany, North Carolina, US",0,0,0,0
 2020-01-24,us,north-carolina,36.49360862,-81.12857041,84037005,US,USA,840,37005.0,alleghany,"Alleghany, North Carolina, US",0,0,0,0
@@ -9281,3 +9382,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,north-carolina,36.49360862,-81.12857041,84037005,US,USA,840,37005.0,alleghany,"Alleghany, North Carolina, US",2,0,0,0
 2020-04-20,us,north-carolina,36.49360862,-81.12857041,84037005,US,USA,840,37005.0,alleghany,"Alleghany, North Carolina, US",2,0,0,0
 2020-04-21,us,north-carolina,36.49360862,-81.12857041,84037005,US,USA,840,37005.0,alleghany,"Alleghany, North Carolina, US",2,0,0,0
+2020-04-22,us,north-carolina,36.49360862,-81.12857041,84037005,US,USA,840,37005.0,alleghany,"Alleghany, North Carolina, US",2,0,0,0

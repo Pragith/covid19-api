@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,texas,29.52704478,-95.77219463,84048157,US,USA,840,48157.0,fort-bend,"Fort Bend, Texas, US",755,0,17,0
 2020-04-20,us,texas,29.52704478,-95.77219463,84048157,US,USA,840,48157.0,fort-bend,"Fort Bend, Texas, US",783,28,17,0
 2020-04-21,us,texas,29.52704478,-95.77219463,84048157,US,USA,840,48157.0,fort-bend,"Fort Bend, Texas, US",808,25,18,1
+2020-04-22,us,texas,29.52704478,-95.77219463,84048157,US,USA,840,48157.0,fort-bend,"Fort Bend, Texas, US",808,0,18,0

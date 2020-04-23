@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",100,0,0,0
 2020-04-20,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",106,6,0,0
 2020-04-21,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",122,16,0,0
+2020-04-22,us,virginia,38.51006137,-78.87260325,84051165,US,USA,840,51165.0,rockingham,"Rockingham, Virginia, US",145,23,1,1

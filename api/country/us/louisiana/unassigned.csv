@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",58,1,1,0
 2020-04-20,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",59,1,1,0
 2020-04-21,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",59,0,2,1
+2020-04-22,us,louisiana,0.0,0.0,84090022,US,USA,840,90022.0,unassigned,"Unassigned, Louisiana, US",60,1,1,-1

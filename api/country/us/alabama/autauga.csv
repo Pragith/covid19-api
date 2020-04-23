@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,alabama,32.53952745,-86.64408227,84001001,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",26,1,2,0
 2020-04-20,us,alabama,32.53952745,-86.64408227,84001001,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",28,2,1,-1
 2020-04-21,us,alabama,32.53952745,-86.64408227,84001001,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",30,2,1,0
+2020-04-22,us,alabama,32.53952745,-86.64408227,84001001,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",32,2,2,1

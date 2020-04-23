@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",199,7,1,0
 2020-04-20,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",203,4,1,0
 2020-04-21,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",203,0,2,1
+2020-04-22,us,georgia,32.80904227,-83.70489165,84013021,US,USA,840,13021.0,bibb,"Bibb, Georgia, US",224,21,4,2

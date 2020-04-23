@@ -90,3 +90,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-19,us,california,34.84060306,-116.1774685,84006071,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",1286,67,57,0
 2020-04-20,us,california,34.84060306,-116.1774685,84006071,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",1406,120,60,3
 2020-04-21,us,california,34.84060306,-116.1774685,84006071,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",1489,83,67,7
+2020-04-22,us,california,34.84060306,-116.1774685,84006071,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",1489,0,67,0
