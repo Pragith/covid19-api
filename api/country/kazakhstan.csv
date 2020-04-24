@@ -91,3 +91,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-20,kazakhstan,,48.0196,66.9237,1852,19,447.0,176,2,47.0
 2020-04-21,kazakhstan,,48.0196,66.9237,1995,19,489.0,143,0,42.0
 2020-04-22,kazakhstan,,48.0196,66.9237,2135,19,515.0,140,0,26.0
+2020-04-23,kazakhstan,,48.0196,66.9237,2289,20,560.0,154,1,45.0

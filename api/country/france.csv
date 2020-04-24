@@ -1011,3 +1011,14 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-22,france,saint-barthelemy,17.9,-62.8333,6,0,6.0,0,0,0.0
 2020-04-22,france,saint-pierre-and-miquelon,46.8852,-56.3159,1,0,0.0,0,0,0.0
 2020-04-22,france,st-martin,18.0708,-63.0501,38,2,19.0,1,0,0.0
+2020-04-23,france,,46.2276,2.2137,158183,21856,42088.0,2323,516,1431.0
+2020-04-23,france,french-guiana,3.9339,-53.1258,107,1,84.0,10,0,1.0
+2020-04-23,france,french-polynesia,-17.6797,149.4068,57,0,36.0,0,0,1.0
+2020-04-23,france,guadeloupe,16.25,-61.5833,148,12,76.0,0,0,3.0
+2020-04-23,france,martinique,14.6415,-61.0242,164,14,73.0,0,0,0.0
+2020-04-23,france,mayotte,-12.8275,45.1662,326,4,125.0,0,0,0.0
+2020-04-23,france,new-caledonia,-20.9043,165.618,18,0,17.0,0,0,0.0
+2020-04-23,france,reunion,-21.1351,55.2471,412,0,238.0,2,0,0.0
+2020-04-23,france,saint-barthelemy,17.9,-62.8333,6,0,6.0,0,0,0.0
+2020-04-23,france,saint-pierre-and-miquelon,46.8852,-56.3159,1,0,0.0,0,0,0.0
+2020-04-23,france,st-martin,18.0708,-63.0501,38,2,19.0,0,0,0.0

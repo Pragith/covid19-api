@@ -91,3 +91,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-20,united-kingdom,falkland-islands-malvinas,-51.7963,-59.5236,11,0,0,0,3.0,0.0
 2020-04-21,united-kingdom,falkland-islands-malvinas,-51.7963,-59.5236,11,0,0,0,3.0,0.0
 2020-04-22,united-kingdom,falkland-islands-malvinas,-51.7963,-59.5236,11,0,0,0,3.0,0.0
+2020-04-23,united-kingdom,falkland-islands-malvinas,-51.7963,-59.5236,12,1,0,0,11.0,8.0

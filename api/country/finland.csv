@@ -91,3 +91,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-20,finland,,64.0,26.0,3868,98,2000.0,85,4,300.0
 2020-04-21,finland,,64.0,26.0,4014,141,2000.0,146,43,0.0
 2020-04-22,finland,,64.0,26.0,4129,149,2000.0,115,8,0.0
+2020-04-23,finland,,64.0,26.0,4284,172,2000.0,155,23,0.0

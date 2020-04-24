@@ -91,3 +91,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-20,canada,grand-princess,37.6489,-122.6655,13,0,0,0,0.0,0.0
 2020-04-21,canada,grand-princess,37.6489,-122.6655,13,0,0,0,0.0,0.0
 2020-04-22,canada,grand-princess,37.6489,-122.6655,-1,-14,-1,-1,0.0,0.0
+2020-04-23,canada,grand-princess,37.6489,-122.6655,-1,0,-1,0,0.0,0.0

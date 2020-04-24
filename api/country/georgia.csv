@@ -91,3 +91,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-20,georgia,,42.3154,43.3569,402,4,95.0,8,0,2.0
 2020-04-21,georgia,,42.3154,43.3569,408,4,97.0,6,0,2.0
 2020-04-22,georgia,,42.3154,43.3569,416,5,107.0,8,1,10.0
+2020-04-23,georgia,,42.3154,43.3569,425,5,111.0,9,0,4.0

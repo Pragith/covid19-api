@@ -91,3 +91,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-20,liberia,,6.4281,-9.4295,99,8,7.0,8,0,0.0
 2020-04-21,liberia,,6.4281,-9.4295,101,8,7.0,2,0,0.0
 2020-04-22,liberia,,6.4281,-9.4295,101,8,20.0,0,0,13.0
+2020-04-23,liberia,,6.4281,-9.4295,101,8,20.0,0,0,0.0
