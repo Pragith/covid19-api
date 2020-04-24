@@ -89,5 +89,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-18,us,washington,46.23946995,-119.5120834,84053005,US,USA,840,53005.0,benton,"Benton, Washington, US",306,11,34,0
 2020-04-19,us,washington,46.23946995,-119.5120834,84053005,US,USA,840,53005.0,benton,"Benton, Washington, US",313,7,34,0
 2020-04-20,us,washington,46.23946995,-119.5120834,84053005,US,USA,840,53005.0,benton,"Benton, Washington, US",314,1,34,0
-2020-04-21,us,washington,46.23946995,-119.5120834,84053005,US,USA,840,53005.0,benton,"Benton, Washington, US",423,109,34,0
-2020-04-22,us,washington,46.23946995,-119.5120834,84053005,US,USA,840,53005.0,benton,"Benton, Washington, US",0,-423,0,-34
+2020-04-21,us,washington,46.23946995,-119.5120834,84053005,US,USA,840,53005.0,benton,"Benton, Washington, US",326,12,34,0
+2020-04-22,us,washington,46.23946995,-119.5120834,84053005,US,USA,840,53005.0,benton,"Benton, Washington, US",338,12,35,1
