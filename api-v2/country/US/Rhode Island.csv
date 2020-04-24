@@ -1,645 +1,652 @@
 date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirmed,confirmed_new,deaths,deaths_new
-2020-01-22,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-01-23,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-01-24,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-01-25,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-01-26,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-01-27,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-01-28,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-01-29,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-01-30,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-01-31,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-01,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-02,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-03,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-04,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-05,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-06,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-07,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-08,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-09,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-10,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-11,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-12,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-13,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-14,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-15,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-16,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-17,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-18,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-19,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-20,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-21,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-22,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-23,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-24,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-25,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-26,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-27,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-28,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-02-29,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-01,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-02,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-03,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-04,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-05,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-06,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-07,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-08,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-09,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-10,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-11,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-12,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-13,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-14,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-15,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-16,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-17,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-18,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-19,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-20,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-21,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-22,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-23,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-24,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-25,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-26,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-27,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-28,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-29,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-30,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-03-31,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-01,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-02,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-03,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-04,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-05,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-06,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-07,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-08,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-09,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-10,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-11,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-12,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-13,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-14,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-15,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-16,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-17,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-18,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-19,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-20,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-21,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-04-22,US,Rhode Island,0.0,0.0,84080044,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
-2020-01-22,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-01-23,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-01-24,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-01-25,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-01-26,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-01-27,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-01-28,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-01-29,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-01-30,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-01-31,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-01,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-02,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-03,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-04,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-05,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-06,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-07,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-08,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-09,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-10,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-11,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-12,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-13,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-14,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-15,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-16,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-17,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-18,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-19,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-20,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-21,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-22,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-23,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-24,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-25,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-26,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-27,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-28,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-02-29,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-01,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-02,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-03,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-04,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-05,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-06,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-07,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-08,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-09,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-10,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-11,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-12,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-13,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",9,9,0,0
-2020-03-14,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,-9,0,0
-2020-03-15,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-16,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-17,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-18,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-19,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
-2020-03-20,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",10,10,0,0
-2020-03-21,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",12,2,0,0
-2020-03-22,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",8,-4,0,0
-2020-03-23,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",5,-3,0,0
-2020-03-24,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",23,18,0,0
-2020-03-25,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",31,8,0,0
-2020-03-26,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",33,2,0,0
-2020-03-27,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",71,38,0,0
-2020-03-28,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",107,36,2,2
-2020-03-29,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",57,-50,3,1
-2020-03-30,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",171,114,4,1
-2020-03-31,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",184,13,8,4
-2020-04-01,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",160,-24,10,2
-2020-04-02,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",80,-80,12,2
-2020-04-03,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",146,66,11,-1
-2020-04-04,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",241,95,14,3
-2020-04-05,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",238,-3,22,8
-2020-04-06,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",332,94,24,2
-2020-04-07,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",353,21,27,3
-2020-04-08,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",274,-79,32,5
-2020-04-09,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",551,277,40,8
-2020-04-10,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",408,-143,40,0
-2020-04-11,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",649,241,53,13
-2020-04-12,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",965,316,60,7
-2020-04-13,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",965,0,60,0
-2020-04-14,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",1551,586,77,17
-2020-04-15,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",756,-795,77,0
-2020-04-16,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",902,146,84,7
-2020-04-17,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",790,-112,115,31
-2020-04-18,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",1146,356,134,19
-2020-04-19,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",1030,-116,147,13
-2020-04-20,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",861,-169,152,5
-2020-04-21,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",1000,139,168,16
-2020-04-22,US,Rhode Island,0.0,0.0,84090044,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",895,-105,178,10
-2020-01-22,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-01-23,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-01-24,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-01-25,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-01-26,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-01-27,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-01-28,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-01-29,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-01-30,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-01-31,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-01,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-02,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-03,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-04,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-05,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-06,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-07,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-08,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-09,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-10,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-11,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-12,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-13,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-14,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-15,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-16,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-17,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-18,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-19,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-20,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-21,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-22,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-23,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-24,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-25,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-26,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-27,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-28,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-02-29,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-01,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-02,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-03,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-04,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-05,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-06,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-07,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-08,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-09,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-10,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-11,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-12,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-13,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-14,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-15,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-16,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-17,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-18,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-19,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-20,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
-2020-03-21,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",8,8,0,0
-2020-03-22,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",9,1,0,0
-2020-03-23,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",9,0,0,0
-2020-03-24,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",9,0,0,0
-2020-03-25,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",9,0,0,0
-2020-03-26,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",14,5,0,0
-2020-03-27,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",14,0,0,0
-2020-03-28,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",14,0,0,0
-2020-03-29,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",23,9,0,0
-2020-03-30,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",23,0,0,0
-2020-03-31,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",28,5,0,0
-2020-04-01,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",25,-3,0,0
-2020-04-02,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",34,9,0,0
-2020-04-03,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",34,0,0,0
-2020-04-04,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",34,0,0,0
-2020-04-05,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",48,14,0,0
-2020-04-06,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",53,5,0,0
-2020-04-07,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",70,17,0,0
-2020-04-08,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",120,50,0,0
-2020-04-09,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",120,0,0,0
-2020-04-10,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",120,0,0,0
-2020-04-11,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",140,20,0,0
-2020-04-12,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",140,0,0,0
-2020-04-13,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",140,0,0,0
-2020-04-14,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",140,0,0,0
-2020-04-15,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",152,12,0,0
-2020-04-16,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",162,10,0,0
-2020-04-17,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",225,63,0,0
-2020-04-18,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",183,-42,0,0
-2020-04-19,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",184,1,0,0
-2020-04-20,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",198,14,0,0
-2020-04-21,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",209,11,0,0
-2020-04-22,US,Rhode Island,41.45961631,-71.61435303,84044009,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",268,59,0,0
-2020-01-22,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-01-23,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-01-24,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-01-25,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-01-26,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-01-27,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-01-28,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-01-29,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-01-30,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-01-31,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-01,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-02,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-03,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-04,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-05,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-06,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-07,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-08,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-09,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-10,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-11,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-12,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-13,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-14,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-15,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-16,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-17,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-18,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-19,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-20,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-21,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-22,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-23,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-24,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-25,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-26,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-27,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-28,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-02-29,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-01,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-02,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-03,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-04,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-05,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-06,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-07,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-08,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-09,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-10,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-11,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-12,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-13,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-14,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-15,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-16,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-17,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-18,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-19,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-20,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
-2020-03-21,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",8,8,0,0
-2020-03-22,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",8,0,0,0
-2020-03-23,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",9,1,0,0
-2020-03-24,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",9,0,0,0
-2020-03-25,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",9,0,0,0
-2020-03-26,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",12,3,0,0
-2020-03-27,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",12,0,0,0
-2020-03-28,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",12,0,0,0
-2020-03-29,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",19,7,0,0
-2020-03-30,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",19,0,0,0
-2020-03-31,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",23,4,0,0
-2020-04-01,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",23,0,0,0
-2020-04-02,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",33,10,0,0
-2020-04-03,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",33,0,0,0
-2020-04-04,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",33,0,0,0
-2020-04-05,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",39,6,0,0
-2020-04-06,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",42,3,0,0
-2020-04-07,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",52,10,0,0
-2020-04-08,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",56,4,0,0
-2020-04-09,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",56,0,0,0
-2020-04-10,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",56,0,0,0
-2020-04-11,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",74,18,0,0
-2020-04-12,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",74,0,0,0
-2020-04-13,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",74,0,0,0
-2020-04-14,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",74,0,0,0
-2020-04-15,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",93,19,0,0
-2020-04-16,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",94,1,0,0
-2020-04-17,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",103,9,0,0
-2020-04-18,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",103,0,0,0
-2020-04-19,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",103,0,0,0
-2020-04-20,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",107,4,0,0
-2020-04-21,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",110,3,0,0
-2020-04-22,US,Rhode Island,41.5642026,-71.26569799,84044005,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",114,4,0,0
-2020-01-22,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-01-23,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-01-24,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-01-25,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-01-26,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-01-27,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-01-28,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-01-29,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-01-30,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-01-31,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-01,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-02,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-03,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-04,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-05,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-06,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-07,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-08,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-09,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-10,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-11,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-12,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-13,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-14,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-15,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-16,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-17,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-18,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-19,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-20,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-21,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-22,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-23,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-24,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-25,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-26,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-27,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-28,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-02-29,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-01,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-02,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-03,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-04,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-05,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-06,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-07,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-08,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-09,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-10,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-11,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-12,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-13,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-14,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-15,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-16,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-17,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-18,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-19,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-20,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
-2020-03-21,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",4,4,0,0
-2020-03-22,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",7,3,0,0
-2020-03-23,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",7,0,0,0
-2020-03-24,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",7,0,0,0
-2020-03-25,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",7,0,0,0
-2020-03-26,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",9,2,0,0
-2020-03-27,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",9,0,0,0
-2020-03-28,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",9,0,0,0
-2020-03-29,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",27,18,0,0
-2020-03-30,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",27,0,0,0
-2020-03-31,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",31,4,0,0
-2020-04-01,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",39,8,0,0
-2020-04-02,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",59,20,0,0
-2020-04-03,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",59,0,0,0
-2020-04-04,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",59,0,0,0
-2020-04-05,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",82,23,0,0
-2020-04-06,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",92,10,0,0
-2020-04-07,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",105,13,0,0
-2020-04-08,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",137,32,0,0
-2020-04-09,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",137,0,0,0
-2020-04-10,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",151,14,0,0
-2020-04-11,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",169,18,0,0
-2020-04-12,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",169,0,0,0
-2020-04-13,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",169,0,0,0
-2020-04-14,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",169,0,0,0
-2020-04-15,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",244,75,0,0
-2020-04-16,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",249,5,0,0
-2020-04-17,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",299,50,0,0
-2020-04-18,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",299,0,0,0
-2020-04-19,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",316,17,0,0
-2020-04-20,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",366,50,0,0
-2020-04-21,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",386,20,0,0
-2020-04-22,US,Rhode Island,41.67106337,-71.57641596,84044003,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",412,26,0,0
-2020-01-22,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-01-23,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-01-24,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-01-25,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-01-26,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-01-27,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-01-28,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-01-29,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-01-30,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-01-31,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-01,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-02,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-03,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-04,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-05,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-06,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-07,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-08,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-09,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-10,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-11,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-12,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-13,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-14,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-15,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-16,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-17,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-18,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-19,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-20,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-21,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-22,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-23,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-24,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-25,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-26,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-27,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-28,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-02-29,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-01,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-02,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-03,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-04,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-05,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-06,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-07,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-08,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-09,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-10,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-11,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-12,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-13,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-14,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-15,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-16,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-17,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-18,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-19,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-20,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
-2020-03-21,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",4,4,0,0
-2020-03-22,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",14,10,0,0
-2020-03-23,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",24,10,0,0
-2020-03-24,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",24,0,0,0
-2020-03-25,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",24,0,0,0
-2020-03-26,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",6,-18,0,0
-2020-03-27,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",6,0,0,0
-2020-03-28,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",6,0,0,0
-2020-03-29,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",12,6,0,0
-2020-03-30,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",12,0,0,0
-2020-03-31,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",14,2,0,0
-2020-04-01,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",18,4,0,0
-2020-04-02,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",21,3,0,0
-2020-04-03,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",21,0,0,0
-2020-04-04,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",21,0,0,0
-2020-04-05,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",24,3,0,0
-2020-04-06,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",25,1,0,0
-2020-04-07,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",27,2,0,0
-2020-04-08,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",31,4,0,0
-2020-04-09,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",31,0,0,0
-2020-04-10,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",37,6,0,0
-2020-04-11,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",39,2,0,0
-2020-04-12,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",39,0,0,0
-2020-04-13,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",39,0,0,0
-2020-04-14,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",39,0,0,0
-2020-04-15,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",49,10,0,0
-2020-04-16,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",50,1,0,0
-2020-04-17,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",57,7,0,0
-2020-04-18,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",57,0,0,0
-2020-04-19,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",59,2,0,0
-2020-04-20,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",67,8,0,0
-2020-04-21,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",68,1,0,0
-2020-04-22,US,Rhode Island,41.71018079,-71.28652315,84044001,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",88,20,0,0
-2020-01-22,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-01-23,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-01-24,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-01-25,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-01-26,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-01-27,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-01-28,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-01-29,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-01-30,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-01-31,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-01,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-02,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-03,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-04,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-05,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-06,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-07,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-08,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-09,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-10,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-11,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-12,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-13,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-14,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-15,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-16,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-17,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-18,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-19,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-20,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-21,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-22,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-23,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-24,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-25,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-26,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-27,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-28,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-02-29,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
-2020-03-01,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1,1,0,0
-2020-03-02,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2,1,0,0
-2020-03-03,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2,0,0,0
-2020-03-04,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2,0,0,0
-2020-03-05,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2,0,0,0
-2020-03-06,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2,0,0,0
-2020-03-07,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,1,0,0
-2020-03-08,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,0,0,0
-2020-03-09,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,0,0,0
-2020-03-10,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,0,0,0
-2020-03-11,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",5,2,0,0
-2020-03-12,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,-2,0,0
-2020-03-13,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,0,0,0
-2020-03-14,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",20,17,0,0
-2020-03-15,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",20,0,0,0
-2020-03-16,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",21,1,0,0
-2020-03-17,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",23,2,0,0
-2020-03-18,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",33,10,0,0
-2020-03-19,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",44,11,0,0
-2020-03-20,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",44,0,0,0
-2020-03-21,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",30,-14,0,0
-2020-03-22,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",37,7,0,0
-2020-03-23,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",52,15,0,0
-2020-03-24,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",52,0,0,0
-2020-03-25,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",52,0,0,0
-2020-03-26,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",91,39,0,0
-2020-03-27,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",91,0,0,0
-2020-03-28,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",91,0,0,0
-2020-03-29,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",156,65,0,0
-2020-03-30,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",156,0,0,0
-2020-03-31,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",208,52,0,0
-2020-04-01,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",301,93,0,0
-2020-04-02,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",418,117,0,0
-2020-04-03,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",418,0,3,3
-2020-04-04,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",418,0,3,0
-2020-04-05,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",491,73,3,0
-2020-04-06,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",538,47,3,0
-2020-04-07,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",622,84,3,0
-2020-04-08,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",832,210,3,0
-2020-04-09,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",832,0,3,0
-2020-04-10,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",955,123,3,0
-2020-04-11,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1278,323,3,0
-2020-04-12,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1278,0,3,0
-2020-04-13,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1278,0,3,0
-2020-04-14,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1278,0,3,0
-2020-04-15,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1957,679,3,0
-2020-04-16,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2072,115,3,0
-2020-04-17,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2703,631,3,0
-2020-04-18,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2703,0,3,0
-2020-04-19,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3014,311,3,0
-2020-04-20,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3491,477,3,0
-2020-04-21,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3727,236,3,0
-2020-04-22,US,Rhode Island,41.87064746,-71.57753536,84044007,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",4064,337,3,0
+2020-01-22,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-01-23,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-01-24,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-01-25,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-01-26,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-01-27,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-01-28,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-01-29,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-01-30,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-01-31,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-01,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-02,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-03,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-04,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-05,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-06,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-07,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-08,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-09,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-10,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-11,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-12,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-13,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-14,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-15,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-16,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-17,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-18,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-19,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-20,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-21,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-22,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-23,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-24,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-25,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-26,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-27,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-28,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-02-29,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-01,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-02,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-03,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-04,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-05,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-06,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-07,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-08,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-09,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-10,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-11,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-12,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-13,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-14,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-15,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-16,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-17,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-18,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-19,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-20,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-21,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-22,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-23,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-24,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-25,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-26,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-27,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-28,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-29,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-30,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-03-31,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-01,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-02,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-03,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-04,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-05,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-06,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-07,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-08,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-09,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-10,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-11,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-12,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-13,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-14,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-15,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-16,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-17,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-18,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-19,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-20,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-21,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-22,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-04-23,US,Rhode Island,0.0,0.0,84080044.0,US,USA,840,80044.0,Out of RI,"Out of RI, Rhode Island, US",0,0,0,0
+2020-01-22,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-01-23,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-01-24,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-01-25,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-01-26,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-01-27,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-01-28,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-01-29,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-01-30,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-01-31,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-01,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-02,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-03,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-04,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-05,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-06,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-07,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-08,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-09,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-10,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-11,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-12,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-13,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-14,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-15,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-16,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-17,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-18,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-19,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-20,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-21,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-22,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-23,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-24,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-25,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-26,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-27,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-28,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-02-29,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-01,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-02,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-03,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-04,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-05,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-06,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-07,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-08,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-09,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-10,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-11,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-12,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-13,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",9,9,0,0
+2020-03-14,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,-9,0,0
+2020-03-15,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-16,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-17,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-18,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-19,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",0,0,0,0
+2020-03-20,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",10,10,0,0
+2020-03-21,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",12,2,0,0
+2020-03-22,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",8,-4,0,0
+2020-03-23,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",5,-3,0,0
+2020-03-24,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",23,18,0,0
+2020-03-25,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",31,8,0,0
+2020-03-26,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",33,2,0,0
+2020-03-27,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",71,38,0,0
+2020-03-28,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",107,36,2,2
+2020-03-29,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",57,-50,3,1
+2020-03-30,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",171,114,4,1
+2020-03-31,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",184,13,8,4
+2020-04-01,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",160,-24,10,2
+2020-04-02,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",80,-80,12,2
+2020-04-03,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",146,66,11,-1
+2020-04-04,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",241,95,14,3
+2020-04-05,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",238,-3,22,8
+2020-04-06,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",332,94,24,2
+2020-04-07,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",353,21,27,3
+2020-04-08,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",274,-79,32,5
+2020-04-09,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",551,277,40,8
+2020-04-10,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",408,-143,40,0
+2020-04-11,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",649,241,53,13
+2020-04-12,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",965,316,60,7
+2020-04-13,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",965,0,60,0
+2020-04-14,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",1551,586,77,17
+2020-04-15,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",756,-795,77,0
+2020-04-16,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",902,146,84,7
+2020-04-17,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",790,-112,115,31
+2020-04-18,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",1146,356,134,19
+2020-04-19,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",1030,-116,147,13
+2020-04-20,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",861,-169,152,5
+2020-04-21,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",1000,139,168,16
+2020-04-22,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",895,-105,178,10
+2020-04-23,US,Rhode Island,0.0,0.0,84090044.0,US,USA,840,90044.0,Unassigned,"Unassigned, Rhode Island, US",1006,111,189,11
+2020-01-22,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-01-23,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-01-24,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-01-25,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-01-26,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-01-27,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-01-28,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-01-29,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-01-30,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-01-31,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-01,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-02,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-03,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-04,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-05,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-06,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-07,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-08,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-09,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-10,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-11,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-12,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-13,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-14,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-15,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-16,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-17,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-18,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-19,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-20,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-21,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-22,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-23,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-24,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-25,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-26,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-27,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-28,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-02-29,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-01,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-02,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-03,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-04,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-05,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-06,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-07,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-08,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-09,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-10,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-11,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-12,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-13,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-14,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-15,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-16,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-17,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-18,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-19,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-20,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",0,0,0,0
+2020-03-21,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",8,8,0,0
+2020-03-22,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",9,1,0,0
+2020-03-23,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",9,0,0,0
+2020-03-24,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",9,0,0,0
+2020-03-25,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",9,0,0,0
+2020-03-26,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",14,5,0,0
+2020-03-27,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",14,0,0,0
+2020-03-28,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",14,0,0,0
+2020-03-29,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",23,9,0,0
+2020-03-30,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",23,0,0,0
+2020-03-31,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",28,5,0,0
+2020-04-01,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",25,-3,0,0
+2020-04-02,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",34,9,0,0
+2020-04-03,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",34,0,0,0
+2020-04-04,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",34,0,0,0
+2020-04-05,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",48,14,0,0
+2020-04-06,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",53,5,0,0
+2020-04-07,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",70,17,0,0
+2020-04-08,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",120,50,0,0
+2020-04-09,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",120,0,0,0
+2020-04-10,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",120,0,0,0
+2020-04-11,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",140,20,0,0
+2020-04-12,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",140,0,0,0
+2020-04-13,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",140,0,0,0
+2020-04-14,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",140,0,0,0
+2020-04-15,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",152,12,0,0
+2020-04-16,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",162,10,0,0
+2020-04-17,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",225,63,0,0
+2020-04-18,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",183,-42,0,0
+2020-04-19,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",184,1,0,0
+2020-04-20,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",198,14,0,0
+2020-04-21,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",209,11,0,0
+2020-04-22,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",268,59,0,0
+2020-04-23,US,Rhode Island,41.45961631,-71.61435303,84044009.0,US,USA,840,44009.0,Washington,"Washington, Rhode Island, US",256,-12,0,0
+2020-01-22,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-01-23,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-01-24,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-01-25,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-01-26,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-01-27,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-01-28,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-01-29,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-01-30,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-01-31,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-01,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-02,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-03,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-04,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-05,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-06,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-07,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-08,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-09,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-10,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-11,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-12,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-13,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-14,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-15,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-16,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-17,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-18,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-19,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-20,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-21,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-22,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-23,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-24,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-25,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-26,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-27,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-28,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-02-29,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-01,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-02,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-03,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-04,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-05,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-06,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-07,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-08,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-09,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-10,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-11,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-12,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-13,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-14,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-15,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-16,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-17,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-18,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-19,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-20,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",0,0,0,0
+2020-03-21,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",8,8,0,0
+2020-03-22,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",8,0,0,0
+2020-03-23,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",9,1,0,0
+2020-03-24,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",9,0,0,0
+2020-03-25,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",9,0,0,0
+2020-03-26,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",12,3,0,0
+2020-03-27,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",12,0,0,0
+2020-03-28,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",12,0,0,0
+2020-03-29,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",19,7,0,0
+2020-03-30,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",19,0,0,0
+2020-03-31,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",23,4,0,0
+2020-04-01,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",23,0,0,0
+2020-04-02,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",33,10,0,0
+2020-04-03,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",33,0,0,0
+2020-04-04,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",33,0,0,0
+2020-04-05,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",39,6,0,0
+2020-04-06,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",42,3,0,0
+2020-04-07,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",52,10,0,0
+2020-04-08,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",56,4,0,0
+2020-04-09,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",56,0,0,0
+2020-04-10,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",56,0,0,0
+2020-04-11,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",74,18,0,0
+2020-04-12,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",74,0,0,0
+2020-04-13,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",74,0,0,0
+2020-04-14,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",74,0,0,0
+2020-04-15,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",93,19,0,0
+2020-04-16,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",94,1,0,0
+2020-04-17,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",103,9,0,0
+2020-04-18,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",103,0,0,0
+2020-04-19,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",103,0,0,0
+2020-04-20,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",107,4,0,0
+2020-04-21,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",110,3,0,0
+2020-04-22,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",114,4,0,0
+2020-04-23,US,Rhode Island,41.5642026,-71.26569799,84044005.0,US,USA,840,44005.0,Newport,"Newport, Rhode Island, US",117,3,0,0
+2020-01-22,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-01-23,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-01-24,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-01-25,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-01-26,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-01-27,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-01-28,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-01-29,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-01-30,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-01-31,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-01,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-02,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-03,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-04,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-05,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-06,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-07,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-08,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-09,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-10,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-11,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-12,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-13,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-14,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-15,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-16,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-17,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-18,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-19,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-20,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-21,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-22,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-23,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-24,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-25,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-26,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-27,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-28,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-02-29,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-01,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-02,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-03,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-04,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-05,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-06,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-07,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-08,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-09,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-10,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-11,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-12,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-13,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-14,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-15,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-16,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-17,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-18,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-19,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-20,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",0,0,0,0
+2020-03-21,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",4,4,0,0
+2020-03-22,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",7,3,0,0
+2020-03-23,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",7,0,0,0
+2020-03-24,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",7,0,0,0
+2020-03-25,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",7,0,0,0
+2020-03-26,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",9,2,0,0
+2020-03-27,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",9,0,0,0
+2020-03-28,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",9,0,0,0
+2020-03-29,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",27,18,0,0
+2020-03-30,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",27,0,0,0
+2020-03-31,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",31,4,0,0
+2020-04-01,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",39,8,0,0
+2020-04-02,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",59,20,0,0
+2020-04-03,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",59,0,0,0
+2020-04-04,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",59,0,0,0
+2020-04-05,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",82,23,0,0
+2020-04-06,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",92,10,0,0
+2020-04-07,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",105,13,0,0
+2020-04-08,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",137,32,0,0
+2020-04-09,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",137,0,0,0
+2020-04-10,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",151,14,0,0
+2020-04-11,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",169,18,0,0
+2020-04-12,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",169,0,0,0
+2020-04-13,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",169,0,0,0
+2020-04-14,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",169,0,0,0
+2020-04-15,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",244,75,0,0
+2020-04-16,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",249,5,0,0
+2020-04-17,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",299,50,0,0
+2020-04-18,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",299,0,0,0
+2020-04-19,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",316,17,0,0
+2020-04-20,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",366,50,0,0
+2020-04-21,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",386,20,0,0
+2020-04-22,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",412,26,0,0
+2020-04-23,US,Rhode Island,41.67106337,-71.57641596,84044003.0,US,USA,840,44003.0,Kent,"Kent, Rhode Island, US",432,20,0,0
+2020-01-22,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-01-23,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-01-24,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-01-25,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-01-26,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-01-27,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-01-28,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-01-29,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-01-30,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-01-31,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-01,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-02,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-03,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-04,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-05,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-06,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-07,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-08,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-09,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-10,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-11,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-12,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-13,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-14,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-15,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-16,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-17,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-18,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-19,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-20,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-21,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-22,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-23,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-24,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-25,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-26,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-27,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-28,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-02-29,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-01,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-02,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-03,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-04,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-05,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-06,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-07,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-08,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-09,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-10,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-11,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-12,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-13,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-14,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-15,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-16,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-17,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-18,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-19,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-20,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",0,0,0,0
+2020-03-21,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",4,4,0,0
+2020-03-22,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",14,10,0,0
+2020-03-23,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",24,10,0,0
+2020-03-24,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",24,0,0,0
+2020-03-25,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",24,0,0,0
+2020-03-26,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",6,-18,0,0
+2020-03-27,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",6,0,0,0
+2020-03-28,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",6,0,0,0
+2020-03-29,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",12,6,0,0
+2020-03-30,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",12,0,0,0
+2020-03-31,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",14,2,0,0
+2020-04-01,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",18,4,0,0
+2020-04-02,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",21,3,0,0
+2020-04-03,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",21,0,0,0
+2020-04-04,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",21,0,0,0
+2020-04-05,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",24,3,0,0
+2020-04-06,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",25,1,0,0
+2020-04-07,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",27,2,0,0
+2020-04-08,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",31,4,0,0
+2020-04-09,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",31,0,0,0
+2020-04-10,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",37,6,0,0
+2020-04-11,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",39,2,0,0
+2020-04-12,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",39,0,0,0
+2020-04-13,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",39,0,0,0
+2020-04-14,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",39,0,0,0
+2020-04-15,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",49,10,0,0
+2020-04-16,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",50,1,0,0
+2020-04-17,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",57,7,0,0
+2020-04-18,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",57,0,0,0
+2020-04-19,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",59,2,0,0
+2020-04-20,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",67,8,0,0
+2020-04-21,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",68,1,0,0
+2020-04-22,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",88,20,0,0
+2020-04-23,US,Rhode Island,41.71018079,-71.28652315,84044001.0,US,USA,840,44001.0,Bristol,"Bristol, Rhode Island, US",95,7,0,0
+2020-01-22,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-01-23,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-01-24,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-01-25,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-01-26,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-01-27,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-01-28,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-01-29,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-01-30,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-01-31,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-01,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-02,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-03,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-04,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-05,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-06,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-07,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-08,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-09,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-10,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-11,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-12,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-13,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-14,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-15,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-16,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-17,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-18,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-19,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-20,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-21,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-22,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-23,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-24,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-25,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-26,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-27,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-28,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-02-29,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",0,0,0,0
+2020-03-01,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1,1,0,0
+2020-03-02,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2,1,0,0
+2020-03-03,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2,0,0,0
+2020-03-04,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2,0,0,0
+2020-03-05,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2,0,0,0
+2020-03-06,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2,0,0,0
+2020-03-07,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,1,0,0
+2020-03-08,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,0,0,0
+2020-03-09,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,0,0,0
+2020-03-10,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,0,0,0
+2020-03-11,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",5,2,0,0
+2020-03-12,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,-2,0,0
+2020-03-13,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3,0,0,0
+2020-03-14,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",20,17,0,0
+2020-03-15,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",20,0,0,0
+2020-03-16,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",21,1,0,0
+2020-03-17,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",23,2,0,0
+2020-03-18,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",33,10,0,0
+2020-03-19,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",44,11,0,0
+2020-03-20,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",44,0,0,0
+2020-03-21,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",30,-14,0,0
+2020-03-22,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",37,7,0,0
+2020-03-23,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",52,15,0,0
+2020-03-24,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",52,0,0,0
+2020-03-25,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",52,0,0,0
+2020-03-26,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",91,39,0,0
+2020-03-27,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",91,0,0,0
+2020-03-28,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",91,0,0,0
+2020-03-29,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",156,65,0,0
+2020-03-30,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",156,0,0,0
+2020-03-31,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",208,52,0,0
+2020-04-01,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",301,93,0,0
+2020-04-02,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",418,117,0,0
+2020-04-03,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",418,0,3,3
+2020-04-04,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",418,0,3,0
+2020-04-05,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",491,73,3,0
+2020-04-06,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",538,47,3,0
+2020-04-07,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",622,84,3,0
+2020-04-08,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",832,210,3,0
+2020-04-09,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",832,0,3,0
+2020-04-10,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",955,123,3,0
+2020-04-11,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1278,323,3,0
+2020-04-12,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1278,0,3,0
+2020-04-13,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1278,0,3,0
+2020-04-14,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1278,0,3,0
+2020-04-15,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",1957,679,3,0
+2020-04-16,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2072,115,3,0
+2020-04-17,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2703,631,3,0
+2020-04-18,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",2703,0,3,0
+2020-04-19,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3014,311,3,0
+2020-04-20,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3491,477,3,0
+2020-04-21,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",3727,236,3,0
+2020-04-22,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",4064,337,3,0
+2020-04-23,US,Rhode Island,41.87064746,-71.57753536,84044007.0,US,USA,840,44007.0,Providence,"Providence, Rhode Island, US",4350,286,0,-3
