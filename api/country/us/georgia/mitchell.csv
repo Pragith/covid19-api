@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,georgia,31.22483255,-84.19381821,84013205.0,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",214,4,23,0
 2020-04-22,us,georgia,31.22483255,-84.19381821,84013205.0,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",280,66,23,0
 2020-04-23,us,georgia,31.22483255,-84.19381821,84013205.0,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",290,10,24,1
+2020-04-24,us,georgia,31.22483255,-84.19381821,84013205.0,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",288,-2,24,0
+2020-04-25,us,georgia,31.22483255,-84.19381821,84013205.0,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",288,0,25,1
+2020-04-26,us,georgia,31.22483255,-84.19381821,84013205.0,US,USA,840,13205.0,mitchell,"Mitchell, Georgia, US",290,2,26,1

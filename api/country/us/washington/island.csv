@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",166,0,8,0
 2020-04-22,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",168,2,9,1
 2020-04-23,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",160,-8,9,0
+2020-04-24,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",160,0,9,0
+2020-04-25,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",161,1,9,0
+2020-04-26,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",160,-1,9,0

@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,georgia,31.76622818,-84.75732369,84013243.0,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",146,1,16,1
 2020-04-22,us,georgia,31.76622818,-84.75732369,84013243.0,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",148,2,17,1
 2020-04-23,us,georgia,31.76622818,-84.75732369,84013243.0,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",149,1,18,1
+2020-04-24,us,georgia,31.76622818,-84.75732369,84013243.0,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",152,3,18,0
+2020-04-25,us,georgia,31.76622818,-84.75732369,84013243.0,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",153,1,19,1
+2020-04-26,us,georgia,31.76622818,-84.75732369,84013243.0,US,USA,840,13243.0,randolph,"Randolph, Georgia, US",153,0,19,0

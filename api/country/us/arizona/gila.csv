@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",9,1,0,0
 2020-04-22,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",10,1,0,0
 2020-04-23,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",12,2,0,0
+2020-04-24,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",11,-1,0,0
+2020-04-25,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",11,0,0,0
+2020-04-26,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",11,0,0,0

@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,indiana,38.19467379,-86.10948271,84018061.0,US,USA,840,18061.0,harrison,"Harrison, Indiana, US",103,2,2,0
 2020-04-22,us,indiana,38.19467379,-86.10948271,84018061.0,US,USA,840,18061.0,harrison,"Harrison, Indiana, US",105,2,3,1
 2020-04-23,us,indiana,38.19467379,-86.10948271,84018061.0,US,USA,840,18061.0,harrison,"Harrison, Indiana, US",108,3,4,1
+2020-04-24,us,indiana,38.19467379,-86.10948271,84018061.0,US,USA,840,18061.0,harrison,"Harrison, Indiana, US",111,3,4,0
+2020-04-25,us,indiana,38.19467379,-86.10948271,84018061.0,US,USA,840,18061.0,harrison,"Harrison, Indiana, US",115,4,4,0
+2020-04-26,us,indiana,38.19467379,-86.10948271,84018061.0,US,USA,840,18061.0,harrison,"Harrison, Indiana, US",118,3,5,1

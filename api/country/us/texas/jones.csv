@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,texas,32.73997145,-99.87861576,84048253.0,US,USA,840,48253.0,jones,"Jones, Texas, US",4,0,0,0
 2020-04-22,us,texas,32.73997145,-99.87861576,84048253.0,US,USA,840,48253.0,jones,"Jones, Texas, US",4,0,0,0
 2020-04-23,us,texas,32.73997145,-99.87861576,84048253.0,US,USA,840,48253.0,jones,"Jones, Texas, US",4,0,0,0
+2020-04-24,us,texas,32.73997145,-99.87861576,84048253.0,US,USA,840,48253.0,jones,"Jones, Texas, US",7,3,0,0
+2020-04-25,us,texas,32.73997145,-99.87861576,84048253.0,US,USA,840,48253.0,jones,"Jones, Texas, US",13,6,0,0
+2020-04-26,us,texas,32.73997145,-99.87861576,84048253.0,US,USA,840,48253.0,jones,"Jones, Texas, US",13,0,0,0

@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,illinois,42.32451172,-88.45248227,84017111.0,US,USA,840,17111.0,mchenry,"McHenry, Illinois, US",368,17,20,3
 2020-04-22,us,illinois,42.32451172,-88.45248227,84017111.0,US,USA,840,17111.0,mchenry,"McHenry, Illinois, US",399,31,22,2
 2020-04-23,us,illinois,42.32451172,-88.45248227,84017111.0,US,USA,840,17111.0,mchenry,"McHenry, Illinois, US",419,20,26,4
+2020-04-24,us,illinois,42.32451172,-88.45248227,84017111.0,US,USA,840,17111.0,mchenry,"McHenry, Illinois, US",459,40,27,1
+2020-04-25,us,illinois,42.32451172,-88.45248227,84017111.0,US,USA,840,17111.0,mchenry,"McHenry, Illinois, US",502,43,28,1
+2020-04-26,us,illinois,42.32451172,-88.45248227,84017111.0,US,USA,840,17111.0,mchenry,"McHenry, Illinois, US",513,11,28,0

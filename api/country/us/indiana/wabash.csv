@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,indiana,40.84704239,-85.79328272,84018169.0,US,USA,840,18169.0,wabash,"Wabash, Indiana, US",10,0,0,0
 2020-04-22,us,indiana,40.84704239,-85.79328272,84018169.0,US,USA,840,18169.0,wabash,"Wabash, Indiana, US",10,0,1,1
 2020-04-23,us,indiana,40.84704239,-85.79328272,84018169.0,US,USA,840,18169.0,wabash,"Wabash, Indiana, US",12,2,1,0
+2020-04-24,us,indiana,40.84704239,-85.79328272,84018169.0,US,USA,840,18169.0,wabash,"Wabash, Indiana, US",12,0,1,0
+2020-04-25,us,indiana,40.84704239,-85.79328272,84018169.0,US,USA,840,18169.0,wabash,"Wabash, Indiana, US",12,0,1,0
+2020-04-26,us,indiana,40.84704239,-85.79328272,84018169.0,US,USA,840,18169.0,wabash,"Wabash, Indiana, US",19,7,1,0

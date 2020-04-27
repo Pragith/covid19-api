@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,arkansas,33.31403423,-93.89285258,84005091.0,US,USA,840,5091.0,miller,"Miller, Arkansas, US",30,0,0,0
 2020-04-22,us,arkansas,33.31403423,-93.89285258,84005091.0,US,USA,840,5091.0,miller,"Miller, Arkansas, US",30,0,0,0
 2020-04-23,us,arkansas,33.31403423,-93.89285258,84005091.0,US,USA,840,5091.0,miller,"Miller, Arkansas, US",31,1,1,1
+2020-04-24,us,arkansas,33.31403423,-93.89285258,84005091.0,US,USA,840,5091.0,miller,"Miller, Arkansas, US",32,1,1,0
+2020-04-25,us,arkansas,33.31403423,-93.89285258,84005091.0,US,USA,840,5091.0,miller,"Miller, Arkansas, US",32,0,1,0
+2020-04-26,us,arkansas,33.31403423,-93.89285258,84005091.0,US,USA,840,5091.0,miller,"Miller, Arkansas, US",32,0,1,0

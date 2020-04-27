@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,oklahoma,34.65973764,-98.47195055,84040031.0,US,USA,840,40031.0,comanche,"Comanche, Oklahoma, US",72,1,1,1
 2020-04-22,us,oklahoma,34.65973764,-98.47195055,84040031.0,US,USA,840,40031.0,comanche,"Comanche, Oklahoma, US",71,-1,1,0
 2020-04-23,us,oklahoma,34.65973764,-98.47195055,84040031.0,US,USA,840,40031.0,comanche,"Comanche, Oklahoma, US",75,4,1,0
+2020-04-24,us,oklahoma,34.65973764,-98.47195055,84040031.0,US,USA,840,40031.0,comanche,"Comanche, Oklahoma, US",76,1,1,0
+2020-04-25,us,oklahoma,34.65973764,-98.47195055,84040031.0,US,USA,840,40031.0,comanche,"Comanche, Oklahoma, US",76,0,1,0
+2020-04-26,us,oklahoma,34.65973764,-98.47195055,84040031.0,US,USA,840,40031.0,comanche,"Comanche, Oklahoma, US",79,3,1,0

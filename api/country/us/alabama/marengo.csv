@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",35,5,2,0
 2020-04-22,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",40,5,3,1
 2020-04-23,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",38,-2,3,0
+2020-04-24,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",39,1,3,0
+2020-04-25,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",39,0,3,0
+2020-04-26,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",41,2,3,0

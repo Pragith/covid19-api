@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,indiana,41.09194313,-85.06800636,84018003.0,US,USA,840,18003.0,allen,"Allen, Indiana, US",336,9,27,0
 2020-04-22,us,indiana,41.09194313,-85.06800636,84018003.0,US,USA,840,18003.0,allen,"Allen, Indiana, US",343,7,27,0
 2020-04-23,us,indiana,41.09194313,-85.06800636,84018003.0,US,USA,840,18003.0,allen,"Allen, Indiana, US",387,44,23,-4
+2020-04-24,us,indiana,41.09194313,-85.06800636,84018003.0,US,USA,840,18003.0,allen,"Allen, Indiana, US",400,13,24,1
+2020-04-25,us,indiana,41.09194313,-85.06800636,84018003.0,US,USA,840,18003.0,allen,"Allen, Indiana, US",427,27,26,2
+2020-04-26,us,indiana,41.09194313,-85.06800636,84018003.0,US,USA,840,18003.0,allen,"Allen, Indiana, US",439,12,27,1

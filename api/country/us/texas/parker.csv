@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,texas,32.77757172,-97.80500621,84048367.0,US,USA,840,48367.0,parker,"Parker, Texas, US",21,0,0,0
 2020-04-22,us,texas,32.77757172,-97.80500621,84048367.0,US,USA,840,48367.0,parker,"Parker, Texas, US",21,0,0,0
 2020-04-23,us,texas,32.77757172,-97.80500621,84048367.0,US,USA,840,48367.0,parker,"Parker, Texas, US",22,1,0,0
+2020-04-24,us,texas,32.77757172,-97.80500621,84048367.0,US,USA,840,48367.0,parker,"Parker, Texas, US",23,1,0,0
+2020-04-25,us,texas,32.77757172,-97.80500621,84048367.0,US,USA,840,48367.0,parker,"Parker, Texas, US",24,1,0,0
+2020-04-26,us,texas,32.77757172,-97.80500621,84048367.0,US,USA,840,48367.0,parker,"Parker, Texas, US",24,0,0,0

@@ -92,6 +92,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,hawaii,0.0,0.0,84080015.0,US,USA,840,80015.0,out-of-hi,"Out of HI, Hawaii, US",6,0,0,0
 2020-04-22,us,hawaii,0.0,0.0,84080015.0,US,USA,840,80015.0,out-of-hi,"Out of HI, Hawaii, US",6,0,0,0
 2020-04-23,us,hawaii,0.0,0.0,84080015.0,US,USA,840,80015.0,out-of-hi,"Out of HI, Hawaii, US",6,0,0,0
+2020-04-24,us,hawaii,0.0,0.0,84080015.0,US,USA,840,80015.0,out-of-hi,"Out of HI, Hawaii, US",6,0,0,0
+2020-04-25,us,hawaii,0.0,0.0,84080015.0,US,USA,840,80015.0,out-of-hi,"Out of HI, Hawaii, US",7,1,0,0
+2020-04-26,us,hawaii,0.0,0.0,84080015.0,US,USA,840,80015.0,out-of-hi,"Out of HI, Hawaii, US",7,0,0,0
 2020-01-22,us,hawaii,0.0,0.0,84090015.0,US,USA,840,90015.0,unassigned,"Unassigned, Hawaii, US",0,0,0,0
 2020-01-23,us,hawaii,0.0,0.0,84090015.0,US,USA,840,90015.0,unassigned,"Unassigned, Hawaii, US",0,0,0,0
 2020-01-24,us,hawaii,0.0,0.0,84090015.0,US,USA,840,90015.0,unassigned,"Unassigned, Hawaii, US",0,0,0,0
@@ -185,6 +188,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,hawaii,0.0,0.0,84090015.0,US,USA,840,90015.0,unassigned,"Unassigned, Hawaii, US",0,0,0,0
 2020-04-22,us,hawaii,0.0,0.0,84090015.0,US,USA,840,90015.0,unassigned,"Unassigned, Hawaii, US",0,0,0,0
 2020-04-23,us,hawaii,0.0,0.0,84090015.0,US,USA,840,90015.0,unassigned,"Unassigned, Hawaii, US",0,0,0,0
+2020-04-24,us,hawaii,0.0,0.0,84090015.0,US,USA,840,90015.0,unassigned,"Unassigned, Hawaii, US",0,0,0,0
+2020-04-25,us,hawaii,0.0,0.0,84090015.0,US,USA,840,90015.0,unassigned,"Unassigned, Hawaii, US",0,0,0,0
+2020-04-26,us,hawaii,0.0,0.0,84090015.0,US,USA,840,90015.0,unassigned,"Unassigned, Hawaii, US",0,0,0,0
 2020-01-22,us,hawaii,19.60121157,-155.5210167,84015001.0,US,USA,840,15001.0,hawaii,"Hawaii, Hawaii, US",0,0,0,0
 2020-01-23,us,hawaii,19.60121157,-155.5210167,84015001.0,US,USA,840,15001.0,hawaii,"Hawaii, Hawaii, US",0,0,0,0
 2020-01-24,us,hawaii,19.60121157,-155.5210167,84015001.0,US,USA,840,15001.0,hawaii,"Hawaii, Hawaii, US",0,0,0,0
@@ -278,6 +284,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,hawaii,19.60121157,-155.5210167,84015001.0,US,USA,840,15001.0,hawaii,"Hawaii, Hawaii, US",64,0,0,0
 2020-04-22,us,hawaii,19.60121157,-155.5210167,84015001.0,US,USA,840,15001.0,hawaii,"Hawaii, Hawaii, US",67,3,0,0
 2020-04-23,us,hawaii,19.60121157,-155.5210167,84015001.0,US,USA,840,15001.0,hawaii,"Hawaii, Hawaii, US",68,1,0,0
+2020-04-24,us,hawaii,19.60121157,-155.5210167,84015001.0,US,USA,840,15001.0,hawaii,"Hawaii, Hawaii, US",69,1,0,0
+2020-04-25,us,hawaii,19.60121157,-155.5210167,84015001.0,US,USA,840,15001.0,hawaii,"Hawaii, Hawaii, US",69,0,0,0
+2020-04-26,us,hawaii,19.60121157,-155.5210167,84015001.0,US,USA,840,15001.0,hawaii,"Hawaii, Hawaii, US",70,1,0,0
 2020-01-22,us,hawaii,20.86399628,-156.56890969999995,84015009.0,US,USA,840,15009.0,maui,"Maui, Hawaii, US",0,0,0,0
 2020-01-23,us,hawaii,20.86399628,-156.56890969999995,84015009.0,US,USA,840,15009.0,maui,"Maui, Hawaii, US",0,0,0,0
 2020-01-24,us,hawaii,20.86399628,-156.56890969999995,84015009.0,US,USA,840,15009.0,maui,"Maui, Hawaii, US",0,0,0,0
@@ -371,6 +380,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,hawaii,20.86399628,-156.56890969999995,84015009.0,US,USA,840,15009.0,maui,"Maui, Hawaii, US",110,2,4,0
 2020-04-22,us,hawaii,20.86399628,-156.56890969999995,84015009.0,US,USA,840,15009.0,maui,"Maui, Hawaii, US",110,0,5,1
 2020-04-23,us,hawaii,20.86399628,-156.56890969999995,84015009.0,US,USA,840,15009.0,maui,"Maui, Hawaii, US",112,2,5,0
+2020-04-24,us,hawaii,20.86399628,-156.56890969999995,84015009.0,US,USA,840,15009.0,maui,"Maui, Hawaii, US",113,1,5,0
+2020-04-25,us,hawaii,20.86399628,-156.56890969999995,84015009.0,US,USA,840,15009.0,maui,"Maui, Hawaii, US",113,0,5,0
+2020-04-26,us,hawaii,20.86399628,-156.56890969999995,84015009.0,US,USA,840,15009.0,maui,"Maui, Hawaii, US",112,-1,5,0
 2020-01-22,us,hawaii,21.17882515,-156.9583592,84015005.0,US,USA,840,15005.0,kalawao,"Kalawao, Hawaii, US",0,0,0,0
 2020-01-23,us,hawaii,21.17882515,-156.9583592,84015005.0,US,USA,840,15005.0,kalawao,"Kalawao, Hawaii, US",0,0,0,0
 2020-01-24,us,hawaii,21.17882515,-156.9583592,84015005.0,US,USA,840,15005.0,kalawao,"Kalawao, Hawaii, US",0,0,0,0
@@ -464,6 +476,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,hawaii,21.17882515,-156.9583592,84015005.0,US,USA,840,15005.0,kalawao,"Kalawao, Hawaii, US",0,0,0,0
 2020-04-22,us,hawaii,21.17882515,-156.9583592,84015005.0,US,USA,840,15005.0,kalawao,"Kalawao, Hawaii, US",0,0,0,0
 2020-04-23,us,hawaii,21.17882515,-156.9583592,84015005.0,US,USA,840,15005.0,kalawao,"Kalawao, Hawaii, US",0,0,0,0
+2020-04-24,us,hawaii,21.17882515,-156.9583592,84015005.0,US,USA,840,15005.0,kalawao,"Kalawao, Hawaii, US",0,0,0,0
+2020-04-25,us,hawaii,21.17882515,-156.9583592,84015005.0,US,USA,840,15005.0,kalawao,"Kalawao, Hawaii, US",0,0,0,0
+2020-04-26,us,hawaii,21.17882515,-156.9583592,84015005.0,US,USA,840,15005.0,kalawao,"Kalawao, Hawaii, US",0,0,0,0
 2020-01-22,us,hawaii,21.45803166,-157.97121819999995,84015003.0,US,USA,840,15003.0,honolulu,"Honolulu, Hawaii, US",0,0,0,0
 2020-01-23,us,hawaii,21.45803166,-157.97121819999995,84015003.0,US,USA,840,15003.0,honolulu,"Honolulu, Hawaii, US",0,0,0,0
 2020-01-24,us,hawaii,21.45803166,-157.97121819999995,84015003.0,US,USA,840,15003.0,honolulu,"Honolulu, Hawaii, US",0,0,0,0
@@ -557,6 +572,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,hawaii,21.45803166,-157.97121819999995,84015003.0,US,USA,840,15003.0,honolulu,"Honolulu, Hawaii, US",385,0,6,0
 2020-04-22,us,hawaii,21.45803166,-157.97121819999995,84015003.0,US,USA,840,15003.0,honolulu,"Honolulu, Hawaii, US",388,3,7,1
 2020-04-23,us,hawaii,21.45803166,-157.97121819999995,84015003.0,US,USA,840,15003.0,honolulu,"Honolulu, Hawaii, US",389,1,7,0
+2020-04-24,us,hawaii,21.45803166,-157.97121819999995,84015003.0,US,USA,840,15003.0,honolulu,"Honolulu, Hawaii, US",392,3,8,1
+2020-04-25,us,hawaii,21.45803166,-157.97121819999995,84015003.0,US,USA,840,15003.0,honolulu,"Honolulu, Hawaii, US",395,3,8,0
+2020-04-26,us,hawaii,21.45803166,-157.97121819999995,84015003.0,US,USA,840,15003.0,honolulu,"Honolulu, Hawaii, US",396,1,9,1
 2020-01-22,us,hawaii,22.03935037,-159.5966786,84015007.0,US,USA,840,15007.0,kauai,"Kauai, Hawaii, US",0,0,0,0
 2020-01-23,us,hawaii,22.03935037,-159.5966786,84015007.0,US,USA,840,15007.0,kauai,"Kauai, Hawaii, US",0,0,0,0
 2020-01-24,us,hawaii,22.03935037,-159.5966786,84015007.0,US,USA,840,15007.0,kauai,"Kauai, Hawaii, US",0,0,0,0
@@ -650,3 +668,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,hawaii,22.03935037,-159.5966786,84015007.0,US,USA,840,15007.0,kauai,"Kauai, Hawaii, US",21,0,0,0
 2020-04-22,us,hawaii,22.03935037,-159.5966786,84015007.0,US,USA,840,15007.0,kauai,"Kauai, Hawaii, US",21,0,0,0
 2020-04-23,us,hawaii,22.03935037,-159.5966786,84015007.0,US,USA,840,15007.0,kauai,"Kauai, Hawaii, US",21,0,0,0
+2020-04-24,us,hawaii,22.03935037,-159.5966786,84015007.0,US,USA,840,15007.0,kauai,"Kauai, Hawaii, US",21,0,0,0
+2020-04-25,us,hawaii,22.03935037,-159.5966786,84015007.0,US,USA,840,15007.0,kauai,"Kauai, Hawaii, US",21,0,0,0
+2020-04-26,us,hawaii,22.03935037,-159.5966786,84015007.0,US,USA,840,15007.0,kauai,"Kauai, Hawaii, US",21,0,0,0

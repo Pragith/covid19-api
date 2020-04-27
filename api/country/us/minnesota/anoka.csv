@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,minnesota,45.27476015,-93.24604565,84027003.0,US,USA,840,27003.0,anoka,"Anoka, Minnesota, US",97,2,2,0
 2020-04-22,us,minnesota,45.27476015,-93.24604565,84027003.0,US,USA,840,27003.0,anoka,"Anoka, Minnesota, US",105,8,2,0
 2020-04-23,us,minnesota,45.27476015,-93.24604565,84027003.0,US,USA,840,27003.0,anoka,"Anoka, Minnesota, US",131,26,2,0
+2020-04-24,us,minnesota,45.27476015,-93.24604565,84027003.0,US,USA,840,27003.0,anoka,"Anoka, Minnesota, US",142,11,3,1
+2020-04-25,us,minnesota,45.27476015,-93.24604565,84027003.0,US,USA,840,27003.0,anoka,"Anoka, Minnesota, US",150,8,3,0
+2020-04-26,us,minnesota,45.27476015,-93.24604565,84027003.0,US,USA,840,27003.0,anoka,"Anoka, Minnesota, US",165,15,5,2

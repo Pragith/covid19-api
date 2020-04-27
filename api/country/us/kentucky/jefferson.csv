@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,kentucky,38.18664655,-85.65931031,84021111.0,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",925,58,70,3
 2020-04-22,us,kentucky,38.18664655,-85.65931031,84021111.0,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",954,29,76,6
 2020-04-23,us,kentucky,38.18664655,-85.65931031,84021111.0,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",1008,54,78,2
+2020-04-24,us,kentucky,38.18664655,-85.65931031,84021111.0,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",1121,113,78,0
+2020-04-25,us,kentucky,38.18664655,-85.65931031,84021111.0,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",1121,0,81,3
+2020-04-26,us,kentucky,38.18664655,-85.65931031,84021111.0,US,USA,840,21111.0,jefferson,"Jefferson, Kentucky, US",1120,-1,81,0

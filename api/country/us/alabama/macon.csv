@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",27,1,2,0
 2020-04-22,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",28,1,2,0
 2020-04-23,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",27,-1,2,0
+2020-04-24,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",29,2,2,0
+2020-04-25,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",29,0,2,0
+2020-04-26,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",34,5,2,0

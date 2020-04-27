@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",22,0,1,0
 2020-04-22,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",23,1,1,0
 2020-04-23,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",23,0,2,1
+2020-04-24,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",25,2,2,0
+2020-04-25,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",26,1,2,0
+2020-04-26,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",26,0,2,0

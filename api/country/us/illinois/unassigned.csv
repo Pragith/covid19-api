@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,illinois,0.0,0.0,84090017.0,US,USA,840,90017.0,unassigned,"Unassigned, Illinois, US",192,62,2,-1
 2020-04-22,us,illinois,0.0,0.0,84090017.0,US,USA,840,90017.0,unassigned,"Unassigned, Illinois, US",228,36,1,-1
 2020-04-23,us,illinois,0.0,0.0,84090017.0,US,USA,840,90017.0,unassigned,"Unassigned, Illinois, US",193,-35,0,-1
+2020-04-24,us,illinois,0.0,0.0,84090017.0,US,USA,840,90017.0,unassigned,"Unassigned, Illinois, US",218,25,1,1
+2020-04-25,us,illinois,0.0,0.0,84090017.0,US,USA,840,90017.0,unassigned,"Unassigned, Illinois, US",274,56,1,0
+2020-04-26,us,illinois,0.0,0.0,84090017.0,US,USA,840,90017.0,unassigned,"Unassigned, Illinois, US",307,33,0,-1

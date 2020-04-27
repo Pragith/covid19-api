@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",416,22,4,0
 2020-04-22,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",429,13,5,1
 2020-04-23,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",451,22,5,0
+2020-04-24,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",460,9,6,1
+2020-04-25,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",469,9,7,1
+2020-04-26,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",469,0,7,0

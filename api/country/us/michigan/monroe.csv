@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",241,5,10,0
 2020-04-22,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",247,6,10,0
 2020-04-23,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",255,8,10,0
+2020-04-24,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",262,7,11,1
+2020-04-25,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",267,5,11,0
+2020-04-26,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",273,6,12,1

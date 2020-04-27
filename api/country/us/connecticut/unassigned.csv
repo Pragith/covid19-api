@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",503,-11,4,0
 2020-04-22,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",550,47,4,0
 2020-04-23,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",522,-28,6,2
+2020-04-24,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",522,0,6,0
+2020-04-25,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",522,0,6,0
+2020-04-26,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",522,0,0,-6

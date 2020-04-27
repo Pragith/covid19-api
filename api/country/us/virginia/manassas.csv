@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,us,virginia,38.7464321,-77.48509905,84051683.0,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",110,14,0,0
 2020-04-22,us,virginia,38.7464321,-77.48509905,84051683.0,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",117,7,0,0
 2020-04-23,us,virginia,38.7464321,-77.48509905,84051683.0,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",127,10,1,1
+2020-04-24,us,virginia,38.7464321,-77.48509905,84051683.0,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",137,10,1,0
+2020-04-25,us,virginia,38.7464321,-77.48509905,84051683.0,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",154,17,1,0
+2020-04-26,us,virginia,38.7464321,-77.48509905,84051683.0,US,USA,840,51683.0,manassas,"Manassas,Virginia,US",158,4,2,1
