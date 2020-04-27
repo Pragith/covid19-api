@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,US,Virginia,38.16404586,-79.12461614,84051015.0,US,USA,840,51015.0,Augusta,"Augusta, Virginia, US",28,4,0,0
 2020-04-22,US,Virginia,38.16404586,-79.12461614,84051015.0,US,USA,840,51015.0,Augusta,"Augusta, Virginia, US",30,2,0,0
 2020-04-23,US,Virginia,38.16404586,-79.12461614,84051015.0,US,USA,840,51015.0,Augusta,"Augusta, Virginia, US",33,3,1,1
+2020-04-24,US,Virginia,38.16404586,-79.12461614,84051015.0,US,USA,840,51015.0,Augusta,"Augusta, Virginia, US",34,1,1,0
+2020-04-25,US,Virginia,38.16404586,-79.12461614,84051015.0,US,USA,840,51015.0,Augusta,"Augusta, Virginia, US",36,2,1,0
+2020-04-26,US,Virginia,38.16404586,-79.12461614,84051015.0,US,USA,840,51015.0,Augusta,"Augusta, Virginia, US",36,0,1,0

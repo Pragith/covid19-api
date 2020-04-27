@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,US,Michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,Out of MI,"Out of MI, Michigan, US",69,0,2,0
 2020-04-22,US,Michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,Out of MI,"Out of MI, Michigan, US",37,-32,1,-1
 2020-04-23,US,Michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,Out of MI,"Out of MI, Michigan, US",39,2,0,-1
+2020-04-24,US,Michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,Out of MI,"Out of MI, Michigan, US",39,0,1,1
+2020-04-25,US,Michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,Out of MI,"Out of MI, Michigan, US",19,-20,1,0
+2020-04-26,US,Michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,Out of MI,"Out of MI, Michigan, US",27,8,1,0

@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,US,Louisiana,30.25734305,-91.3499598,84022047.0,US,USA,840,22047.0,Iberville,"Iberville, Louisiana, US",281,-1,21,0
 2020-04-22,US,Louisiana,30.25734305,-91.3499598,84022047.0,US,USA,840,22047.0,Iberville,"Iberville, Louisiana, US",297,16,22,1
 2020-04-23,US,Louisiana,30.25734305,-91.3499598,84022047.0,US,USA,840,22047.0,Iberville,"Iberville, Louisiana, US",299,2,23,1
+2020-04-24,US,Louisiana,30.25734305,-91.3499598,84022047.0,US,USA,840,22047.0,Iberville,"Iberville, Louisiana, US",339,40,25,2
+2020-04-25,US,Louisiana,30.25734305,-91.3499598,84022047.0,US,USA,840,22047.0,Iberville,"Iberville, Louisiana, US",433,94,26,1
+2020-04-26,US,Louisiana,30.25734305,-91.3499598,84022047.0,US,USA,840,22047.0,Iberville,"Iberville, Louisiana, US",433,0,26,0

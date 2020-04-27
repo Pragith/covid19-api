@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,US,Arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,Graham,"Graham, Arizona, US",2,0,0,0
 2020-04-22,US,Arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,Graham,"Graham, Arizona, US",2,0,0,0
 2020-04-23,US,Arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,Graham,"Graham, Arizona, US",4,2,0,0
+2020-04-24,US,Arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,Graham,"Graham, Arizona, US",7,3,0,0
+2020-04-25,US,Arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,Graham,"Graham, Arizona, US",6,-1,0,0
+2020-04-26,US,Arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,Graham,"Graham, Arizona, US",7,1,0,0

@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,US,North Carolina,35.80950511,-80.8743128,84037097.0,US,USA,840,37097.0,Iredell,"Iredell, North Carolina, US",88,6,3,0
 2020-04-22,US,North Carolina,35.80950511,-80.8743128,84037097.0,US,USA,840,37097.0,Iredell,"Iredell, North Carolina, US",94,6,3,0
 2020-04-23,US,North Carolina,35.80950511,-80.8743128,84037097.0,US,USA,840,37097.0,Iredell,"Iredell, North Carolina, US",94,0,3,0
+2020-04-24,US,North Carolina,35.80950511,-80.8743128,84037097.0,US,USA,840,37097.0,Iredell,"Iredell, North Carolina, US",98,4,4,1
+2020-04-25,US,North Carolina,35.80950511,-80.8743128,84037097.0,US,USA,840,37097.0,Iredell,"Iredell, North Carolina, US",98,0,4,0
+2020-04-26,US,North Carolina,35.80950511,-80.8743128,84037097.0,US,USA,840,37097.0,Iredell,"Iredell, North Carolina, US",99,1,5,1

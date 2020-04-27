@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,US,Illinois,39.39133527,-88.80611122,84017173.0,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",4,0,0,0
 2020-04-22,US,Illinois,39.39133527,-88.80611122,84017173.0,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",4,0,0,0
 2020-04-23,US,Illinois,39.39133527,-88.80611122,84017173.0,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",5,1,0,0
+2020-04-24,US,Illinois,39.39133527,-88.80611122,84017173.0,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",10,5,0,0
+2020-04-25,US,Illinois,39.39133527,-88.80611122,84017173.0,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",9,-1,0,0
+2020-04-26,US,Illinois,39.39133527,-88.80611122,84017173.0,US,USA,840,17173.0,Shelby,"Shelby, Illinois, US",10,1,0,0

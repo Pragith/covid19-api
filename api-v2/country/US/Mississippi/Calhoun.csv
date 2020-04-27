@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,US,Mississippi,33.93683395,-89.33686647,84028013.0,US,USA,840,28013.0,Calhoun,"Calhoun, Mississippi, US",42,0,2,0
 2020-04-22,US,Mississippi,33.93683395,-89.33686647,84028013.0,US,USA,840,28013.0,Calhoun,"Calhoun, Mississippi, US",43,1,2,0
 2020-04-23,US,Mississippi,33.93683395,-89.33686647,84028013.0,US,USA,840,28013.0,Calhoun,"Calhoun, Mississippi, US",43,0,2,0
+2020-04-24,US,Mississippi,33.93683395,-89.33686647,84028013.0,US,USA,840,28013.0,Calhoun,"Calhoun, Mississippi, US",46,3,3,1
+2020-04-25,US,Mississippi,33.93683395,-89.33686647,84028013.0,US,USA,840,28013.0,Calhoun,"Calhoun, Mississippi, US",48,2,3,0
+2020-04-26,US,Mississippi,33.93683395,-89.33686647,84028013.0,US,USA,840,28013.0,Calhoun,"Calhoun, Mississippi, US",50,2,3,0

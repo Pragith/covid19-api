@@ -92,3 +92,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-21,US,Tennessee,36.14005459,-85.50646123,84047141.0,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",95,-1,3,0
 2020-04-22,US,Tennessee,36.14005459,-85.50646123,84047141.0,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",95,0,3,0
 2020-04-23,US,Tennessee,36.14005459,-85.50646123,84047141.0,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",101,6,4,1
+2020-04-24,US,Tennessee,36.14005459,-85.50646123,84047141.0,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",101,0,4,0
+2020-04-25,US,Tennessee,36.14005459,-85.50646123,84047141.0,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",106,5,5,1
+2020-04-26,US,Tennessee,36.14005459,-85.50646123,84047141.0,US,USA,840,47141.0,Putnam,"Putnam, Tennessee, US",109,3,5,0
