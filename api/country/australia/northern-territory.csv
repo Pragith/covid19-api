@@ -88,7 +88,10 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-17,australia,northern-territory,-12.4634,130.8456,28,0,0,0,9.0,3.0
 2020-04-18,australia,northern-territory,-12.4634,130.8456,28,0,0,0,9.0,0.0
 2020-04-19,australia,northern-territory,-12.4634,130.8456,28,0,0,0,9.0,0.0
-2020-04-20,australia,northern-territory,-12.4634,130.8456,28,0,0,0,9.0,0.0
-2020-04-21,australia,northern-territory,-12.4634,130.8456,28,0,0,0,9.0,0.0
-2020-04-22,australia,northern-territory,-12.4634,130.8456,28,0,0,0,9.0,0.0
-2020-04-23,australia,northern-territory,-12.4634,130.8456,28,0,0,0,9.0,0.0
+2020-04-20,australia,northern-territory,-12.4634,130.8456,28,0,0,0,12.0,3.0
+2020-04-21,australia,northern-territory,-12.4634,130.8456,28,0,0,0,15.0,3.0
+2020-04-22,australia,northern-territory,-12.4634,130.8456,28,0,0,0,16.0,1.0
+2020-04-23,australia,northern-territory,-12.4634,130.8456,28,0,0,0,16.0,0.0
+2020-04-24,australia,northern-territory,-12.4634,130.8456,28,0,0,0,20.0,4.0
+2020-04-25,australia,northern-territory,-12.4634,130.8456,28,0,0,0,23.0,3.0
+2020-04-26,australia,northern-territory,-12.4634,130.8456,28,0,0,0,23.0,0.0

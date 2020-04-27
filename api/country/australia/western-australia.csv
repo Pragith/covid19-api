@@ -88,7 +88,10 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-17,australia,western-australia,-31.9505,115.8605,541,9,7,1,340.0,2.0
 2020-04-18,australia,western-australia,-31.9505,115.8605,544,3,7,0,340.0,0.0
 2020-04-19,australia,western-australia,-31.9505,115.8605,545,1,7,0,340.0,0.0
-2020-04-20,australia,western-australia,-31.9505,115.8605,545,0,7,0,340.0,0.0
-2020-04-21,australia,western-australia,-31.9505,115.8605,546,1,7,0,340.0,0.0
-2020-04-22,australia,western-australia,-31.9505,115.8605,546,0,7,0,340.0,0.0
-2020-04-23,australia,western-australia,-31.9505,115.8605,546,0,7,0,340.0,0.0
+2020-04-20,australia,western-australia,-31.9505,115.8605,545,0,7,0,435.0,95.0
+2020-04-21,australia,western-australia,-31.9505,115.8605,546,1,7,0,443.0,8.0
+2020-04-22,australia,western-australia,-31.9505,115.8605,546,0,7,0,451.0,8.0
+2020-04-23,australia,western-australia,-31.9505,115.8605,546,0,7,0,458.0,7.0
+2020-04-24,australia,western-australia,-31.9505,115.8605,548,2,8,1,464.0,6.0
+2020-04-25,australia,western-australia,-31.9505,115.8605,549,1,8,0,478.0,14.0
+2020-04-26,australia,western-australia,-31.9505,115.8605,549,0,8,0,486.0,8.0

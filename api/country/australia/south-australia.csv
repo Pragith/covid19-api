@@ -88,7 +88,10 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-17,australia,south-australia,-34.9285,138.6007,435,2,4,0,331.0,52.0
 2020-04-18,australia,south-australia,-34.9285,138.6007,435,0,4,0,331.0,0.0
 2020-04-19,australia,south-australia,-34.9285,138.6007,435,0,4,0,331.0,0.0
-2020-04-20,australia,south-australia,-34.9285,138.6007,435,0,4,0,331.0,0.0
-2020-04-21,australia,south-australia,-34.9285,138.6007,437,2,4,0,331.0,0.0
-2020-04-22,australia,south-australia,-34.9285,138.6007,438,1,4,0,331.0,0.0
-2020-04-23,australia,south-australia,-34.9285,138.6007,438,0,4,0,331.0,0.0
+2020-04-20,australia,south-australia,-34.9285,138.6007,435,0,4,0,369.0,38.0
+2020-04-21,australia,south-australia,-34.9285,138.6007,437,2,4,0,376.0,7.0
+2020-04-22,australia,south-australia,-34.9285,138.6007,438,1,4,0,388.0,12.0
+2020-04-23,australia,south-australia,-34.9285,138.6007,438,0,4,0,394.0,6.0
+2020-04-24,australia,south-australia,-34.9285,138.6007,438,0,4,0,401.0,7.0
+2020-04-25,australia,south-australia,-34.9285,138.6007,438,0,4,0,402.0,1.0
+2020-04-26,australia,south-australia,-34.9285,138.6007,438,0,4,0,411.0,9.0

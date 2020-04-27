@@ -92,3 +92,6 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-21,montenegro,,42.5,19.3,313,5,101.0,1,0,13.0
 2020-04-22,montenegro,,42.5,19.3,315,5,116.0,2,0,15.0
 2020-04-23,montenegro,,42.5,19.3,316,5,123.0,1,0,7.0
+2020-04-24,montenegro,,42.5,19.3,319,6,123.0,3,1,0.0
+2020-04-25,montenegro,,42.5,19.3,320,6,153.0,1,0,30.0
+2020-04-26,montenegro,,42.5,19.3,321,7,153.0,1,1,0.0

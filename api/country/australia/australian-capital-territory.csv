@@ -88,7 +88,10 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-17,australia,australian-capital-territory,-35.4735,149.0124,103,0,3,0,81.0,-1.0
 2020-04-18,australia,australian-capital-territory,-35.4735,149.0124,103,0,3,0,88.0,7.0
 2020-04-19,australia,australian-capital-territory,-35.4735,149.0124,103,0,3,0,88.0,0.0
-2020-04-20,australia,australian-capital-territory,-35.4735,149.0124,104,1,3,0,88.0,0.0
-2020-04-21,australia,australian-capital-territory,-35.4735,149.0124,104,0,3,0,88.0,0.0
-2020-04-22,australia,australian-capital-territory,-35.4735,149.0124,104,0,3,0,88.0,0.0
-2020-04-23,australia,australian-capital-territory,-35.4735,149.0124,104,0,3,0,88.0,0.0
+2020-04-20,australia,australian-capital-territory,-35.4735,149.0124,104,1,3,0,91.0,3.0
+2020-04-21,australia,australian-capital-territory,-35.4735,149.0124,104,0,3,0,92.0,1.0
+2020-04-22,australia,australian-capital-territory,-35.4735,149.0124,104,0,3,0,93.0,1.0
+2020-04-23,australia,australian-capital-territory,-35.4735,149.0124,104,0,3,0,93.0,0.0
+2020-04-24,australia,australian-capital-territory,-35.4735,149.0124,105,1,3,0,97.0,4.0
+2020-04-25,australia,australian-capital-territory,-35.4735,149.0124,106,1,3,0,98.0,1.0
+2020-04-26,australia,australian-capital-territory,-35.4735,149.0124,106,0,3,0,99.0,1.0

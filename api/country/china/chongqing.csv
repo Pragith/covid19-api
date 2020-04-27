@@ -92,3 +92,6 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-21,china,chongqing,30.0572,107.874,579,0,6,0,570.0,0.0
 2020-04-22,china,chongqing,30.0572,107.874,579,0,6,0,570.0,0.0
 2020-04-23,china,chongqing,30.0572,107.874,579,0,6,0,573.0,3.0
+2020-04-24,china,chongqing,30.0572,107.874,579,0,6,0,573.0,0.0
+2020-04-25,china,chongqing,30.0572,107.874,579,0,6,0,573.0,0.0
+2020-04-26,china,chongqing,30.0572,107.874,579,0,6,0,573.0,0.0

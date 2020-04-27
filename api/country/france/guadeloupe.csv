@@ -92,3 +92,6 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-21,france,guadeloupe,16.25,-61.5833,148,0,12,4,73.0,0.0
 2020-04-22,france,guadeloupe,16.25,-61.5833,148,0,12,0,73.0,0.0
 2020-04-23,france,guadeloupe,16.25,-61.5833,148,0,12,0,76.0,3.0
+2020-04-24,france,guadeloupe,16.25,-61.5833,149,1,12,0,82.0,6.0
+2020-04-25,france,guadeloupe,16.25,-61.5833,149,0,12,0,82.0,0.0
+2020-04-26,france,guadeloupe,16.25,-61.5833,149,0,12,0,82.0,0.0

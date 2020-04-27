@@ -92,3 +92,6 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-21,dominican-republic,,18.7357,-70.1627,5044,245,463.0,80,10,47.0
 2020-04-22,dominican-republic,,18.7357,-70.1627,5300,260,581.0,256,15,118.0
 2020-04-23,dominican-republic,,18.7357,-70.1627,5543,265,581.0,243,5,0.0
+2020-04-24,dominican-republic,,18.7357,-70.1627,5749,267,763.0,206,2,182.0
+2020-04-25,dominican-republic,,18.7357,-70.1627,5926,273,822.0,177,6,59.0
+2020-04-26,dominican-republic,,18.7357,-70.1627,6135,278,910.0,209,5,88.0

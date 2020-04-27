@@ -92,3 +92,6 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-21,china,beijing,40.1824,116.4142,593,0,8,0,516.0,2.0
 2020-04-22,china,beijing,40.1824,116.4142,593,0,8,0,518.0,2.0
 2020-04-23,china,beijing,40.1824,116.4142,593,0,8,0,524.0,6.0
+2020-04-24,china,beijing,40.1824,116.4142,593,0,8,0,525.0,1.0
+2020-04-25,china,beijing,40.1824,116.4142,593,0,8,0,525.0,0.0
+2020-04-26,china,beijing,40.1824,116.4142,593,0,9,1,525.0,0.0
