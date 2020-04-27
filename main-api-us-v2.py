@@ -16,18 +16,11 @@ def export(data, api):
 
     # Export to CSV
     try:
-        data.to_csv(f'api/{api}.csv', index=False)        
+        data.to_csv(f'api-v2/{api}.csv', index=False)        
     except Exception as e:
         print('[Error] - ', e)
 
-    # Export to JSON
-    try:
-        data = data.to_json(orient='records')
-        f = open(f'api/{api}.json', 'w', encoding='utf-8')
-        f.write(json.dumps(json.loads(data)))
-        f.close()
-    except Exception as e:
-        print('[Error] - ', e)
+
 
 ### CASES
 # Build a single dataframe from 3 types of datasets
@@ -54,9 +47,9 @@ for t in ['confirmed', 'deaths']:
 
     df['date'] = pd.to_datetime(df['date'])
     df['date'] = df['date'].dt.strftime('%Y-%m-%d')
-    df['country'] = df['country'].apply(sanitize_data)
-    df['state'] = df['state'].apply(sanitize_data)
-    df['region'] = df['region'].apply(sanitize_data)
+    #df['country'] = df['country'].apply(sanitize_data)
+    #df['state'] = df['state'].apply(sanitize_data)
+    #df['region'] = df['region'].apply(sanitize_data)
     df[t] = df[t].astype('int64')
 
     df_grouped = df.groupby(['country', 'state', 'lat', 'long', 'UID','iso2','iso3','code3','FIPS','region','Combined_Key'])
@@ -82,7 +75,7 @@ today = df['date'].iloc[-1]
 
 # Country Level
 df_country = df.groupby(['date','country']).agg(groupByCols).reset_index()
-export(data=df_country, api='cases/us')
+export(data=df_country, api='cases/country')
 
 ### COUNTRIES
 for country in unique_vals(df['country']):
@@ -94,9 +87,9 @@ for country in unique_vals(df['country']):
     export(data=df_tmp_country_main, api=f'country/{country}')
 
     # Export state data
-    if os.path.isdir(f'api/country/{country}'):
-        rmtree(f'api/country/{country}')
-    os.mkdir(f'api/country/{country}')
+    if os.path.isdir(f'api-v2/country/{country}'):
+        rmtree(f'api-v2/country/{country}')
+    os.mkdir(f'api-v2/country/{country}')
 
     for state in unique_vals(df_tmp_country['state']):
         state = state if state else country
@@ -104,9 +97,9 @@ for country in unique_vals(df['country']):
         export(data=df_tmp_state, api=f'country/{country}/{state}')
 
         # Export region data
-        if os.path.isdir(f'api/country/{country}/{state}'):
-            rmtree(f'api/country/{country}/{state}')
-        os.mkdir(f'api/country/{country}/{state}')
+        if os.path.isdir(f'api-v2/country/{country}/{state}'):
+            rmtree(f'api-v2/country/{country}/{state}')
+        os.mkdir(f'api-v2/country/{country}/{state}')
 
         for region in unique_vals(df_tmp_state['region']):
             region = region if region else state
