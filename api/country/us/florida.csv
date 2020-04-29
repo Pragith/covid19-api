@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,0.0,0.0,84080012.0,US,USA,840,80012.0,out-of-fl,"Out of FL, Florida, US",0,0,0,0
 2020-04-25,us,florida,0.0,0.0,84080012.0,US,USA,840,80012.0,out-of-fl,"Out of FL, Florida, US",0,0,0,0
 2020-04-26,us,florida,0.0,0.0,84080012.0,US,USA,840,80012.0,out-of-fl,"Out of FL, Florida, US",0,0,0,0
+2020-04-27,us,florida,0.0,0.0,84080012.0,US,USA,840,80012.0,out-of-fl,"Out of FL, Florida, US",0,0,0,0
+2020-04-28,us,florida,0.0,0.0,84080012.0,US,USA,840,80012.0,out-of-fl,"Out of FL, Florida, US",0,0,0,0
 2020-01-22,us,florida,0.0,0.0,84090012.0,US,USA,840,90012.0,unassigned,"Unassigned, Florida, US",0,0,0,0
 2020-01-23,us,florida,0.0,0.0,84090012.0,US,USA,840,90012.0,unassigned,"Unassigned, Florida, US",0,0,0,0
 2020-01-24,us,florida,0.0,0.0,84090012.0,US,USA,840,90012.0,unassigned,"Unassigned, Florida, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,0.0,0.0,84090012.0,US,USA,840,90012.0,unassigned,"Unassigned, Florida, US",0,0,0,0
 2020-04-25,us,florida,0.0,0.0,84090012.0,US,USA,840,90012.0,unassigned,"Unassigned, Florida, US",1,1,0,0
 2020-04-26,us,florida,0.0,0.0,84090012.0,US,USA,840,90012.0,unassigned,"Unassigned, Florida, US",1,0,0,0
+2020-04-27,us,florida,0.0,0.0,84090012.0,US,USA,840,90012.0,unassigned,"Unassigned, Florida, US",1,0,0,0
+2020-04-28,us,florida,0.0,0.0,84090012.0,US,USA,840,90012.0,unassigned,"Unassigned, Florida, US",4,3,0,0
 2020-01-22,us,florida,25.20904673,-81.07812416,84012087.0,US,USA,840,12087.0,monroe,"Monroe, Florida, US",0,0,0,0
 2020-01-23,us,florida,25.20904673,-81.07812416,84012087.0,US,USA,840,12087.0,monroe,"Monroe, Florida, US",0,0,0,0
 2020-01-24,us,florida,25.20904673,-81.07812416,84012087.0,US,USA,840,12087.0,monroe,"Monroe, Florida, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,25.20904673,-81.07812416,84012087.0,US,USA,840,12087.0,monroe,"Monroe, Florida, US",77,3,3,0
 2020-04-25,us,florida,25.20904673,-81.07812416,84012087.0,US,USA,840,12087.0,monroe,"Monroe, Florida, US",77,0,3,0
 2020-04-26,us,florida,25.20904673,-81.07812416,84012087.0,US,USA,840,12087.0,monroe,"Monroe, Florida, US",78,1,3,0
+2020-04-27,us,florida,25.20904673,-81.07812416,84012087.0,US,USA,840,12087.0,monroe,"Monroe, Florida, US",79,1,3,0
+2020-04-28,us,florida,25.20904673,-81.07812416,84012087.0,US,USA,840,12087.0,monroe,"Monroe, Florida, US",79,0,3,0
 2020-01-22,us,florida,25.6112362,-80.55170587,84012086.0,US,USA,840,12086.0,miami-dade,"Miami-Dade, Florida, US",0,0,0,0
 2020-01-23,us,florida,25.6112362,-80.55170587,84012086.0,US,USA,840,12086.0,miami-dade,"Miami-Dade, Florida, US",0,0,0,0
 2020-01-24,us,florida,25.6112362,-80.55170587,84012086.0,US,USA,840,12086.0,miami-dade,"Miami-Dade, Florida, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,25.6112362,-80.55170587,84012086.0,US,USA,840,12086.0,miami-dade,"Miami-Dade, Florida, US",10926,338,287,17
 2020-04-25,us,florida,25.6112362,-80.55170587,84012086.0,US,USA,840,12086.0,miami-dade,"Miami-Dade, Florida, US",11005,79,295,8
 2020-04-26,us,florida,25.6112362,-80.55170587,84012086.0,US,USA,840,12086.0,miami-dade,"Miami-Dade, Florida, US",11351,346,301,6
+2020-04-27,us,florida,25.6112362,-80.55170587,84012086.0,US,USA,840,12086.0,miami-dade,"Miami-Dade, Florida, US",11570,219,302,1
+2020-04-28,us,florida,25.6112362,-80.55170587,84012086.0,US,USA,840,12086.0,miami-dade,"Miami-Dade, Florida, US",11831,261,324,22
 2020-01-22,us,florida,26.11091986,-81.34687065,84012021.0,US,USA,840,12021.0,collier,"Collier, Florida, US",0,0,0,0
 2020-01-23,us,florida,26.11091986,-81.34687065,84012021.0,US,USA,840,12021.0,collier,"Collier, Florida, US",0,0,0,0
 2020-01-24,us,florida,26.11091986,-81.34687065,84012021.0,US,USA,840,12021.0,collier,"Collier, Florida, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,26.11091986,-81.34687065,84012021.0,US,USA,840,12021.0,collier,"Collier, Florida, US",526,19,15,1
 2020-04-25,us,florida,26.11091986,-81.34687065,84012021.0,US,USA,840,12021.0,collier,"Collier, Florida, US",535,9,15,0
 2020-04-26,us,florida,26.11091986,-81.34687065,84012021.0,US,USA,840,12021.0,collier,"Collier, Florida, US",552,17,15,0
+2020-04-27,us,florida,26.11091986,-81.34687065,84012021.0,US,USA,840,12021.0,collier,"Collier, Florida, US",562,10,15,0
+2020-04-28,us,florida,26.11091986,-81.34687065,84012021.0,US,USA,840,12021.0,collier,"Collier, Florida, US",568,6,16,1
 2020-01-22,us,florida,26.15184651,-80.48725556,84012011.0,US,USA,840,12011.0,broward,"Broward, Florida, US",0,0,0,0
 2020-01-23,us,florida,26.15184651,-80.48725556,84012011.0,US,USA,840,12011.0,broward,"Broward, Florida, US",0,0,0,0
 2020-01-24,us,florida,26.15184651,-80.48725556,84012011.0,US,USA,840,12011.0,broward,"Broward, Florida, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,26.15184651,-80.48725556,84012011.0,US,USA,840,12011.0,broward,"Broward, Florida, US",4591,160,162,5
 2020-04-25,us,florida,26.15184651,-80.48725556,84012011.0,US,USA,840,12011.0,broward,"Broward, Florida, US",4659,68,162,0
 2020-04-26,us,florida,26.15184651,-80.48725556,84012011.0,US,USA,840,12011.0,broward,"Broward, Florida, US",4729,70,170,8
+2020-04-27,us,florida,26.15184651,-80.48725556,84012011.0,US,USA,840,12011.0,broward,"Broward, Florida, US",4794,65,174,4
+2020-04-28,us,florida,26.15184651,-80.48725556,84012011.0,US,USA,840,12011.0,broward,"Broward, Florida, US",4847,53,179,5
 2020-01-22,us,florida,26.55386945,-81.16469006,84012051.0,US,USA,840,12051.0,hendry,"Hendry, Florida, US",0,0,0,0
 2020-01-23,us,florida,26.55386945,-81.16469006,84012051.0,US,USA,840,12051.0,hendry,"Hendry, Florida, US",0,0,0,0
 2020-01-24,us,florida,26.55386945,-81.16469006,84012051.0,US,USA,840,12051.0,hendry,"Hendry, Florida, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,26.55386945,-81.16469006,84012051.0,US,USA,840,12051.0,hendry,"Hendry, Florida, US",64,5,2,0
 2020-04-25,us,florida,26.55386945,-81.16469006,84012051.0,US,USA,840,12051.0,hendry,"Hendry, Florida, US",64,0,2,0
 2020-04-26,us,florida,26.55386945,-81.16469006,84012051.0,US,USA,840,12051.0,hendry,"Hendry, Florida, US",65,1,2,0
+2020-04-27,us,florida,26.55386945,-81.16469006,84012051.0,US,USA,840,12051.0,hendry,"Hendry, Florida, US",68,3,2,0
+2020-04-28,us,florida,26.55386945,-81.16469006,84012051.0,US,USA,840,12051.0,hendry,"Hendry, Florida, US",72,4,2,0
 2020-01-22,us,florida,26.58410348,-81.88399313,84012071.0,US,USA,840,12071.0,lee,"Lee, Florida, US",0,0,0,0
 2020-01-23,us,florida,26.58410348,-81.88399313,84012071.0,US,USA,840,12071.0,lee,"Lee, Florida, US",0,0,0,0
 2020-01-24,us,florida,26.58410348,-81.88399313,84012071.0,US,USA,840,12071.0,lee,"Lee, Florida, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,26.58410348,-81.88399313,84012071.0,US,USA,840,12071.0,lee,"Lee, Florida, US",940,53,36,4
 2020-04-25,us,florida,26.58410348,-81.88399313,84012071.0,US,USA,840,12071.0,lee,"Lee, Florida, US",944,4,36,0
 2020-04-26,us,florida,26.58410348,-81.88399313,84012071.0,US,USA,840,12071.0,lee,"Lee, Florida, US",961,17,37,1
+2020-04-27,us,florida,26.58410348,-81.88399313,84012071.0,US,USA,840,12071.0,lee,"Lee, Florida, US",971,10,37,0
+2020-04-28,us,florida,26.58410348,-81.88399313,84012071.0,US,USA,840,12071.0,lee,"Lee, Florida, US",990,19,40,3
 2020-01-22,us,florida,26.64676272,-80.46536002,84012099.0,US,USA,840,12099.0,palm-beach,"Palm Beach, Florida, US",0,0,0,0
 2020-01-23,us,florida,26.64676272,-80.46536002,84012099.0,US,USA,840,12099.0,palm-beach,"Palm Beach, Florida, US",0,0,0,0
 2020-01-24,us,florida,26.64676272,-80.46536002,84012099.0,US,USA,840,12099.0,palm-beach,"Palm Beach, Florida, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,26.64676272,-80.46536002,84012099.0,US,USA,840,12099.0,palm-beach,"Palm Beach, Florida, US",2600,46,155,11
 2020-04-25,us,florida,26.64676272,-80.46536002,84012099.0,US,USA,840,12099.0,palm-beach,"Palm Beach, Florida, US",2614,14,155,0
 2020-04-26,us,florida,26.64676272,-80.46536002,84012099.0,US,USA,840,12099.0,palm-beach,"Palm Beach, Florida, US",2697,83,155,0
+2020-04-27,us,florida,26.64676272,-80.46536002,84012099.0,US,USA,840,12099.0,palm-beach,"Palm Beach, Florida, US",2763,66,156,1
+2020-04-28,us,florida,26.64676272,-80.46536002,84012099.0,US,USA,840,12099.0,palm-beach,"Palm Beach, Florida, US",2877,114,173,17
 2020-01-22,us,florida,26.90131002,-81.92949121,84012015.0,US,USA,840,12015.0,charlotte,"Charlotte, Florida, US",0,0,0,0
 2020-01-23,us,florida,26.90131002,-81.92949121,84012015.0,US,USA,840,12015.0,charlotte,"Charlotte, Florida, US",0,0,0,0
 2020-01-24,us,florida,26.90131002,-81.92949121,84012015.0,US,USA,840,12015.0,charlotte,"Charlotte, Florida, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,26.90131002,-81.92949121,84012015.0,US,USA,840,12015.0,charlotte,"Charlotte, Florida, US",199,21,14,2
 2020-04-25,us,florida,26.90131002,-81.92949121,84012015.0,US,USA,840,12015.0,charlotte,"Charlotte, Florida, US",202,3,14,0
 2020-04-26,us,florida,26.90131002,-81.92949121,84012015.0,US,USA,840,12015.0,charlotte,"Charlotte, Florida, US",203,1,14,0
+2020-04-27,us,florida,26.90131002,-81.92949121,84012015.0,US,USA,840,12015.0,charlotte,"Charlotte, Florida, US",211,8,14,0
+2020-04-28,us,florida,26.90131002,-81.92949121,84012015.0,US,USA,840,12015.0,charlotte,"Charlotte, Florida, US",219,8,15,1
 2020-01-22,us,florida,26.95635849,-81.18996211,84012043.0,US,USA,840,12043.0,glades,"Glades, Florida, US",0,0,0,0
 2020-01-23,us,florida,26.95635849,-81.18996211,84012043.0,US,USA,840,12043.0,glades,"Glades, Florida, US",0,0,0,0
 2020-01-24,us,florida,26.95635849,-81.18996211,84012043.0,US,USA,840,12043.0,glades,"Glades, Florida, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,26.95635849,-81.18996211,84012043.0,US,USA,840,12043.0,glades,"Glades, Florida, US",5,0,1,0
 2020-04-25,us,florida,26.95635849,-81.18996211,84012043.0,US,USA,840,12043.0,glades,"Glades, Florida, US",5,0,1,0
 2020-04-26,us,florida,26.95635849,-81.18996211,84012043.0,US,USA,840,12043.0,glades,"Glades, Florida, US",6,1,1,0
+2020-04-27,us,florida,26.95635849,-81.18996211,84012043.0,US,USA,840,12043.0,glades,"Glades, Florida, US",6,0,1,0
+2020-04-28,us,florida,26.95635849,-81.18996211,84012043.0,US,USA,840,12043.0,glades,"Glades, Florida, US",6,0,1,0
 2020-01-22,us,florida,27.0772071,-80.43109784,84012085.0,US,USA,840,12085.0,martin,"Martin, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.0772071,-80.43109784,84012085.0,US,USA,840,12085.0,martin,"Martin, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.0772071,-80.43109784,84012085.0,US,USA,840,12085.0,martin,"Martin, Florida, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.0772071,-80.43109784,84012085.0,US,USA,840,12085.0,martin,"Martin, Florida, US",169,3,5,0
 2020-04-25,us,florida,27.0772071,-80.43109784,84012085.0,US,USA,840,12085.0,martin,"Martin, Florida, US",169,0,5,0
 2020-04-26,us,florida,27.0772071,-80.43109784,84012085.0,US,USA,840,12085.0,martin,"Martin, Florida, US",174,5,5,0
+2020-04-27,us,florida,27.0772071,-80.43109784,84012085.0,US,USA,840,12085.0,martin,"Martin, Florida, US",183,9,5,0
+2020-04-28,us,florida,27.0772071,-80.43109784,84012085.0,US,USA,840,12085.0,martin,"Martin, Florida, US",185,2,5,0
 2020-01-22,us,florida,27.18546175,-82.33174248,84012115.0,US,USA,840,12115.0,sarasota,"Sarasota, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.18546175,-82.33174248,84012115.0,US,USA,840,12115.0,sarasota,"Sarasota, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.18546175,-82.33174248,84012115.0,US,USA,840,12115.0,sarasota,"Sarasota, Florida, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.18546175,-82.33174248,84012115.0,US,USA,840,12115.0,sarasota,"Sarasota, Florida, US",314,4,32,0
 2020-04-25,us,florida,27.18546175,-82.33174248,84012115.0,US,USA,840,12115.0,sarasota,"Sarasota, Florida, US",318,4,32,0
 2020-04-26,us,florida,27.18546175,-82.33174248,84012115.0,US,USA,840,12115.0,sarasota,"Sarasota, Florida, US",321,3,32,0
+2020-04-27,us,florida,27.18546175,-82.33174248,84012115.0,US,USA,840,12115.0,sarasota,"Sarasota, Florida, US",323,2,32,0
+2020-04-28,us,florida,27.18546175,-82.33174248,84012115.0,US,USA,840,12115.0,sarasota,"Sarasota, Florida, US",334,11,39,7
 2020-01-22,us,florida,27.18677893,-81.80941373,84012027.0,US,USA,840,12027.0,desoto,"DeSoto,Florida,US",0,0,0,0
 2020-01-23,us,florida,27.18677893,-81.80941373,84012027.0,US,USA,840,12027.0,desoto,"DeSoto,Florida,US",0,0,0,0
 2020-01-24,us,florida,27.18677893,-81.80941373,84012027.0,US,USA,840,12027.0,desoto,"DeSoto,Florida,US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.18677893,-81.80941373,84012027.0,US,USA,840,12027.0,desoto,"DeSoto,Florida,US",24,0,4,0
 2020-04-25,us,florida,27.18677893,-81.80941373,84012027.0,US,USA,840,12027.0,desoto,"DeSoto,Florida,US",24,0,4,0
 2020-04-26,us,florida,27.18677893,-81.80941373,84012027.0,US,USA,840,12027.0,desoto,"DeSoto,Florida,US",24,0,4,0
+2020-04-27,us,florida,27.18677893,-81.80941373,84012027.0,US,USA,840,12027.0,desoto,"DeSoto,Florida,US",25,1,4,0
+2020-04-28,us,florida,27.18677893,-81.80941373,84012027.0,US,USA,840,12027.0,desoto,"DeSoto,Florida,US",26,1,4,0
 2020-01-22,us,florida,27.34254618,-81.34071957,84012055.0,US,USA,840,12055.0,highlands,"Highlands, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.34254618,-81.34071957,84012055.0,US,USA,840,12055.0,highlands,"Highlands, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.34254618,-81.34071957,84012055.0,US,USA,840,12055.0,highlands,"Highlands, Florida, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.34254618,-81.34071957,84012055.0,US,USA,840,12055.0,highlands,"Highlands, Florida, US",76,2,7,0
 2020-04-25,us,florida,27.34254618,-81.34071957,84012055.0,US,USA,840,12055.0,highlands,"Highlands, Florida, US",76,0,7,0
 2020-04-26,us,florida,27.34254618,-81.34071957,84012055.0,US,USA,840,12055.0,highlands,"Highlands, Florida, US",76,0,7,0
+2020-04-27,us,florida,27.34254618,-81.34071957,84012055.0,US,USA,840,12055.0,highlands,"Highlands, Florida, US",80,4,7,0
+2020-04-28,us,florida,27.34254618,-81.34071957,84012055.0,US,USA,840,12055.0,highlands,"Highlands, Florida, US",81,1,7,0
 2020-01-22,us,florida,27.37763908,-80.47106649,84012111.0,US,USA,840,12111.0,st-lucie,"St. Lucie, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.37763908,-80.47106649,84012111.0,US,USA,840,12111.0,st-lucie,"St. Lucie, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.37763908,-80.47106649,84012111.0,US,USA,840,12111.0,st-lucie,"St. Lucie, Florida, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.37763908,-80.47106649,84012111.0,US,USA,840,12111.0,st-lucie,"St. Lucie, Florida, US",223,3,19,2
 2020-04-25,us,florida,27.37763908,-80.47106649,84012111.0,US,USA,840,12111.0,st-lucie,"St. Lucie, Florida, US",225,2,19,0
 2020-04-26,us,florida,27.37763908,-80.47106649,84012111.0,US,USA,840,12111.0,st-lucie,"St. Lucie, Florida, US",228,3,19,0
+2020-04-27,us,florida,27.37763908,-80.47106649,84012111.0,US,USA,840,12111.0,st-lucie,"St. Lucie, Florida, US",236,8,20,1
+2020-04-28,us,florida,27.37763908,-80.47106649,84012111.0,US,USA,840,12111.0,st-lucie,"St. Lucie, Florida, US",239,3,22,2
 2020-01-22,us,florida,27.386336199999995,-80.88944347,84012093.0,US,USA,840,12093.0,okeechobee,"Okeechobee, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.386336199999995,-80.88944347,84012093.0,US,USA,840,12093.0,okeechobee,"Okeechobee, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.386336199999995,-80.88944347,84012093.0,US,USA,840,12093.0,okeechobee,"Okeechobee, Florida, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.386336199999995,-80.88944347,84012093.0,US,USA,840,12093.0,okeechobee,"Okeechobee, Florida, US",9,0,0,0
 2020-04-25,us,florida,27.386336199999995,-80.88944347,84012093.0,US,USA,840,12093.0,okeechobee,"Okeechobee, Florida, US",9,0,0,0
 2020-04-26,us,florida,27.386336199999995,-80.88944347,84012093.0,US,USA,840,12093.0,okeechobee,"Okeechobee, Florida, US",9,0,0,0
+2020-04-27,us,florida,27.386336199999995,-80.88944347,84012093.0,US,USA,840,12093.0,okeechobee,"Okeechobee, Florida, US",10,1,0,0
+2020-04-28,us,florida,27.386336199999995,-80.88944347,84012093.0,US,USA,840,12093.0,okeechobee,"Okeechobee, Florida, US",10,0,0,0
 2020-01-22,us,florida,27.47196942,-82.31831044,84012081.0,US,USA,840,12081.0,manatee,"Manatee, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.47196942,-82.31831044,84012081.0,US,USA,840,12081.0,manatee,"Manatee, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.47196942,-82.31831044,84012081.0,US,USA,840,12081.0,manatee,"Manatee, Florida, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.47196942,-82.31831044,84012081.0,US,USA,840,12081.0,manatee,"Manatee, Florida, US",491,18,42,3
 2020-04-25,us,florida,27.47196942,-82.31831044,84012081.0,US,USA,840,12081.0,manatee,"Manatee, Florida, US",497,6,42,0
 2020-04-26,us,florida,27.47196942,-82.31831044,84012081.0,US,USA,840,12081.0,manatee,"Manatee, Florida, US",508,11,42,0
+2020-04-27,us,florida,27.47196942,-82.31831044,84012081.0,US,USA,840,12081.0,manatee,"Manatee, Florida, US",533,25,42,0
+2020-04-28,us,florida,27.47196942,-82.31831044,84012081.0,US,USA,840,12081.0,manatee,"Manatee, Florida, US",563,30,46,4
 2020-01-22,us,florida,27.49293939,-81.80956574,84012049.0,US,USA,840,12049.0,hardee,"Hardee, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.49293939,-81.80956574,84012049.0,US,USA,840,12049.0,hardee,"Hardee, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.49293939,-81.80956574,84012049.0,US,USA,840,12049.0,hardee,"Hardee, Florida, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.49293939,-81.80956574,84012049.0,US,USA,840,12049.0,hardee,"Hardee, Florida, US",9,4,0,0
 2020-04-25,us,florida,27.49293939,-81.80956574,84012049.0,US,USA,840,12049.0,hardee,"Hardee, Florida, US",10,1,0,0
 2020-04-26,us,florida,27.49293939,-81.80956574,84012049.0,US,USA,840,12049.0,hardee,"Hardee, Florida, US",10,0,0,0
+2020-04-27,us,florida,27.49293939,-81.80956574,84012049.0,US,USA,840,12049.0,hardee,"Hardee, Florida, US",13,3,0,0
+2020-04-28,us,florida,27.49293939,-81.80956574,84012049.0,US,USA,840,12049.0,hardee,"Hardee, Florida, US",14,1,0,0
 2020-01-22,us,florida,27.69308961,-80.60556721,84012061.0,US,USA,840,12061.0,indian-river,"Indian River, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.69308961,-80.60556721,84012061.0,US,USA,840,12061.0,indian-river,"Indian River, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.69308961,-80.60556721,84012061.0,US,USA,840,12061.0,indian-river,"Indian River, Florida, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.69308961,-80.60556721,84012061.0,US,USA,840,12061.0,indian-river,"Indian River, Florida, US",89,1,5,0
 2020-04-25,us,florida,27.69308961,-80.60556721,84012061.0,US,USA,840,12061.0,indian-river,"Indian River, Florida, US",89,0,5,0
 2020-04-26,us,florida,27.69308961,-80.60556721,84012061.0,US,USA,840,12061.0,indian-river,"Indian River, Florida, US",89,0,5,0
+2020-04-27,us,florida,27.69308961,-80.60556721,84012061.0,US,USA,840,12061.0,indian-river,"Indian River, Florida, US",90,1,5,0
+2020-04-28,us,florida,27.69308961,-80.60556721,84012061.0,US,USA,840,12061.0,indian-river,"Indian River, Florida, US",90,0,6,1
 2020-01-22,us,florida,27.9276559,-82.32013172,84012057.0,US,USA,840,12057.0,hillsborough,"Hillsborough, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.9276559,-82.32013172,84012057.0,US,USA,840,12057.0,hillsborough,"Hillsborough, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.9276559,-82.32013172,84012057.0,US,USA,840,12057.0,hillsborough,"Hillsborough, Florida, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.9276559,-82.32013172,84012057.0,US,USA,840,12057.0,hillsborough,"Hillsborough, Florida, US",1022,14,21,0
 2020-04-25,us,florida,27.9276559,-82.32013172,84012057.0,US,USA,840,12057.0,hillsborough,"Hillsborough, Florida, US",1041,19,21,0
 2020-04-26,us,florida,27.9276559,-82.32013172,84012057.0,US,USA,840,12057.0,hillsborough,"Hillsborough, Florida, US",1048,7,21,0
+2020-04-27,us,florida,27.9276559,-82.32013172,84012057.0,US,USA,840,12057.0,hillsborough,"Hillsborough, Florida, US",1062,14,21,0
+2020-04-28,us,florida,27.9276559,-82.32013172,84012057.0,US,USA,840,12057.0,hillsborough,"Hillsborough, Florida, US",1080,18,22,1
 2020-01-22,us,florida,27.93130349,-82.72239666,84012103.0,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.93130349,-82.72239666,84012103.0,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.93130349,-82.72239666,84012103.0,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.93130349,-82.72239666,84012103.0,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",673,17,24,1
 2020-04-25,us,florida,27.93130349,-82.72239666,84012103.0,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",677,4,24,0
 2020-04-26,us,florida,27.93130349,-82.72239666,84012103.0,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",687,10,24,0
+2020-04-27,us,florida,27.93130349,-82.72239666,84012103.0,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",698,11,25,1
+2020-04-28,us,florida,27.93130349,-82.72239666,84012103.0,US,USA,840,12103.0,pinellas,"Pinellas, Florida, US",709,11,31,6
 2020-01-22,us,florida,27.95027105,-81.69732947,84012105.0,US,USA,840,12105.0,polk,"Polk, Florida, US",0,0,0,0
 2020-01-23,us,florida,27.95027105,-81.69732947,84012105.0,US,USA,840,12105.0,polk,"Polk, Florida, US",0,0,0,0
 2020-01-24,us,florida,27.95027105,-81.69732947,84012105.0,US,USA,840,12105.0,polk,"Polk, Florida, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,27.95027105,-81.69732947,84012105.0,US,USA,840,12105.0,polk,"Polk, Florida, US",393,14,18,1
 2020-04-25,us,florida,27.95027105,-81.69732947,84012105.0,US,USA,840,12105.0,polk,"Polk, Florida, US",400,7,18,0
 2020-04-26,us,florida,27.95027105,-81.69732947,84012105.0,US,USA,840,12105.0,polk,"Polk, Florida, US",410,10,18,0
+2020-04-27,us,florida,27.95027105,-81.69732947,84012105.0,US,USA,840,12105.0,polk,"Polk, Florida, US",441,31,18,0
+2020-04-28,us,florida,27.95027105,-81.69732947,84012105.0,US,USA,840,12105.0,polk,"Polk, Florida, US",457,16,20,2
 2020-01-22,us,florida,28.06312234,-81.14882926,84012097.0,US,USA,840,12097.0,osceola,"Osceola, Florida, US",0,0,0,0
 2020-01-23,us,florida,28.06312234,-81.14882926,84012097.0,US,USA,840,12097.0,osceola,"Osceola, Florida, US",0,0,0,0
 2020-01-24,us,florida,28.06312234,-81.14882926,84012097.0,US,USA,840,12097.0,osceola,"Osceola, Florida, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,28.06312234,-81.14882926,84012097.0,US,USA,840,12097.0,osceola,"Osceola, Florida, US",461,12,7,0
 2020-04-25,us,florida,28.06312234,-81.14882926,84012097.0,US,USA,840,12097.0,osceola,"Osceola, Florida, US",463,2,7,0
 2020-04-26,us,florida,28.06312234,-81.14882926,84012097.0,US,USA,840,12097.0,osceola,"Osceola, Florida, US",463,0,7,0
+2020-04-27,us,florida,28.06312234,-81.14882926,84012097.0,US,USA,840,12097.0,osceola,"Osceola, Florida, US",470,7,7,0
+2020-04-28,us,florida,28.06312234,-81.14882926,84012097.0,US,USA,840,12097.0,osceola,"Osceola, Florida, US",474,4,7,0
 2020-01-22,us,florida,28.29409504,-80.73091022,84012009.0,US,USA,840,12009.0,brevard,"Brevard, Florida, US",0,0,0,0
 2020-01-23,us,florida,28.29409504,-80.73091022,84012009.0,US,USA,840,12009.0,brevard,"Brevard, Florida, US",0,0,0,0
 2020-01-24,us,florida,28.29409504,-80.73091022,84012009.0,US,USA,840,12009.0,brevard,"Brevard, Florida, US",0,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,28.29409504,-80.73091022,84012009.0,US,USA,840,12009.0,brevard,"Brevard, Florida, US",247,12,8,0
 2020-04-25,us,florida,28.29409504,-80.73091022,84012009.0,US,USA,840,12009.0,brevard,"Brevard, Florida, US",250,3,8,0
 2020-04-26,us,florida,28.29409504,-80.73091022,84012009.0,US,USA,840,12009.0,brevard,"Brevard, Florida, US",252,2,8,0
+2020-04-27,us,florida,28.29409504,-80.73091022,84012009.0,US,USA,840,12009.0,brevard,"Brevard, Florida, US",266,14,8,0
+2020-04-28,us,florida,28.29409504,-80.73091022,84012009.0,US,USA,840,12009.0,brevard,"Brevard, Florida, US",268,2,8,0
 2020-01-22,us,florida,28.30810945,-82.40227529,84012101.0,US,USA,840,12101.0,pasco,"Pasco, Florida, US",0,0,0,0
 2020-01-23,us,florida,28.30810945,-82.40227529,84012101.0,US,USA,840,12101.0,pasco,"Pasco, Florida, US",0,0,0,0
 2020-01-24,us,florida,28.30810945,-82.40227529,84012101.0,US,USA,840,12101.0,pasco,"Pasco, Florida, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,28.30810945,-82.40227529,84012101.0,US,USA,840,12101.0,pasco,"Pasco, Florida, US",230,9,4,1
 2020-04-25,us,florida,28.30810945,-82.40227529,84012101.0,US,USA,840,12101.0,pasco,"Pasco, Florida, US",233,3,4,0
 2020-04-26,us,florida,28.30810945,-82.40227529,84012101.0,US,USA,840,12101.0,pasco,"Pasco, Florida, US",233,0,4,0
+2020-04-27,us,florida,28.30810945,-82.40227529,84012101.0,US,USA,840,12101.0,pasco,"Pasco, Florida, US",237,4,5,1
+2020-04-28,us,florida,28.30810945,-82.40227529,84012101.0,US,USA,840,12101.0,pasco,"Pasco, Florida, US",239,2,6,1
 2020-01-22,us,florida,28.51367621,-81.31799498,84012095.0,US,USA,840,12095.0,orange,"Orange, Florida, US",0,0,0,0
 2020-01-23,us,florida,28.51367621,-81.31799498,84012095.0,US,USA,840,12095.0,orange,"Orange, Florida, US",0,0,0,0
 2020-01-24,us,florida,28.51367621,-81.31799498,84012095.0,US,USA,840,12095.0,orange,"Orange, Florida, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,28.51367621,-81.31799498,84012095.0,US,USA,840,12095.0,orange,"Orange, Florida, US",1290,16,30,1
 2020-04-25,us,florida,28.51367621,-81.31799498,84012095.0,US,USA,840,12095.0,orange,"Orange, Florida, US",1304,14,30,0
 2020-04-26,us,florida,28.51367621,-81.31799498,84012095.0,US,USA,840,12095.0,orange,"Orange, Florida, US",1322,18,30,0
+2020-04-27,us,florida,28.51367621,-81.31799498,84012095.0,US,USA,840,12095.0,orange,"Orange, Florida, US",1339,17,30,0
+2020-04-28,us,florida,28.51367621,-81.31799498,84012095.0,US,USA,840,12095.0,orange,"Orange, Florida, US",1363,24,32,2
 2020-01-22,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",0,0,0,0
 2020-01-23,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",0,0,0,0
 2020-01-24,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",86,3,3,0
 2020-04-25,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",89,3,3,0
 2020-04-26,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",89,0,3,0
+2020-04-27,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",89,0,4,1
+2020-04-28,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",89,0,4,0
 2020-01-22,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",0,0,0,0
 2020-01-23,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",0,0,0,0
 2020-01-24,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",167,1,12,0
 2020-04-25,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",169,2,12,0
 2020-04-26,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",171,2,12,0
+2020-04-27,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",173,2,12,0
+2020-04-28,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",177,4,13,1
 2020-01-22,us,florida,28.7158582,-81.24060348,84012117.0,US,USA,840,12117.0,seminole,"Seminole, Florida, US",0,0,0,0
 2020-01-23,us,florida,28.7158582,-81.24060348,84012117.0,US,USA,840,12117.0,seminole,"Seminole, Florida, US",0,0,0,0
 2020-01-24,us,florida,28.7158582,-81.24060348,84012117.0,US,USA,840,12117.0,seminole,"Seminole, Florida, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,28.7158582,-81.24060348,84012117.0,US,USA,840,12117.0,seminole,"Seminole, Florida, US",348,8,8,1
 2020-04-25,us,florida,28.7158582,-81.24060348,84012117.0,US,USA,840,12117.0,seminole,"Seminole, Florida, US",351,3,8,0
 2020-04-26,us,florida,28.7158582,-81.24060348,84012117.0,US,USA,840,12117.0,seminole,"Seminole, Florida, US",357,6,8,0
+2020-04-27,us,florida,28.7158582,-81.24060348,84012117.0,US,USA,840,12117.0,seminole,"Seminole, Florida, US",367,10,8,0
+2020-04-28,us,florida,28.7158582,-81.24060348,84012117.0,US,USA,840,12117.0,seminole,"Seminole, Florida, US",374,7,8,0
 2020-01-22,us,florida,28.76202069,-81.7125123,84012069.0,US,USA,840,12069.0,lake,"Lake, Florida, US",0,0,0,0
 2020-01-23,us,florida,28.76202069,-81.7125123,84012069.0,US,USA,840,12069.0,lake,"Lake, Florida, US",0,0,0,0
 2020-01-24,us,florida,28.76202069,-81.7125123,84012069.0,US,USA,840,12069.0,lake,"Lake, Florida, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,28.76202069,-81.7125123,84012069.0,US,USA,840,12069.0,lake,"Lake, Florida, US",219,2,10,1
 2020-04-25,us,florida,28.76202069,-81.7125123,84012069.0,US,USA,840,12069.0,lake,"Lake, Florida, US",221,2,10,0
 2020-04-26,us,florida,28.76202069,-81.7125123,84012069.0,US,USA,840,12069.0,lake,"Lake, Florida, US",222,1,10,0
+2020-04-27,us,florida,28.76202069,-81.7125123,84012069.0,US,USA,840,12069.0,lake,"Lake, Florida, US",223,1,10,0
+2020-04-28,us,florida,28.76202069,-81.7125123,84012069.0,US,USA,840,12069.0,lake,"Lake, Florida, US",226,3,10,0
 2020-01-22,us,florida,28.84804315,-82.47614748,84012017.0,US,USA,840,12017.0,citrus,"Citrus, Florida, US",0,0,0,0
 2020-01-23,us,florida,28.84804315,-82.47614748,84012017.0,US,USA,840,12017.0,citrus,"Citrus, Florida, US",0,0,0,0
 2020-01-24,us,florida,28.84804315,-82.47614748,84012017.0,US,USA,840,12017.0,citrus,"Citrus, Florida, US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,28.84804315,-82.47614748,84012017.0,US,USA,840,12017.0,citrus,"Citrus, Florida, US",95,1,9,0
 2020-04-25,us,florida,28.84804315,-82.47614748,84012017.0,US,USA,840,12017.0,citrus,"Citrus, Florida, US",95,0,9,0
 2020-04-26,us,florida,28.84804315,-82.47614748,84012017.0,US,USA,840,12017.0,citrus,"Citrus, Florida, US",97,2,11,2
+2020-04-27,us,florida,28.84804315,-82.47614748,84012017.0,US,USA,840,12017.0,citrus,"Citrus, Florida, US",97,0,11,0
+2020-04-28,us,florida,28.84804315,-82.47614748,84012017.0,US,USA,840,12017.0,citrus,"Citrus, Florida, US",97,0,11,0
 2020-01-22,us,florida,29.05858895,-81.18263252,84012127.0,US,USA,840,12127.0,volusia,"Volusia, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.05858895,-81.18263252,84012127.0,US,USA,840,12127.0,volusia,"Volusia, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.05858895,-81.18263252,84012127.0,US,USA,840,12127.0,volusia,"Volusia, Florida, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.05858895,-81.18263252,84012127.0,US,USA,840,12127.0,volusia,"Volusia, Florida, US",428,8,15,1
 2020-04-25,us,florida,29.05858895,-81.18263252,84012127.0,US,USA,840,12127.0,volusia,"Volusia, Florida, US",432,4,15,0
 2020-04-26,us,florida,29.05858895,-81.18263252,84012127.0,US,USA,840,12127.0,volusia,"Volusia, Florida, US",434,2,17,2
+2020-04-27,us,florida,29.05858895,-81.18263252,84012127.0,US,USA,840,12127.0,volusia,"Volusia, Florida, US",440,6,18,1
+2020-04-28,us,florida,29.05858895,-81.18263252,84012127.0,US,USA,840,12127.0,volusia,"Volusia, Florida, US",445,5,18,0
 2020-01-22,us,florida,29.21227113,-82.05803627,84012083.0,US,USA,840,12083.0,marion,"Marion, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.21227113,-82.05803627,84012083.0,US,USA,840,12083.0,marion,"Marion, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.21227113,-82.05803627,84012083.0,US,USA,840,12083.0,marion,"Marion, Florida, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.21227113,-82.05803627,84012083.0,US,USA,840,12083.0,marion,"Marion, Florida, US",148,3,4,1
 2020-04-25,us,florida,29.21227113,-82.05803627,84012083.0,US,USA,840,12083.0,marion,"Marion, Florida, US",150,2,4,0
 2020-04-26,us,florida,29.21227113,-82.05803627,84012083.0,US,USA,840,12083.0,marion,"Marion, Florida, US",151,1,4,0
+2020-04-27,us,florida,29.21227113,-82.05803627,84012083.0,US,USA,840,12083.0,marion,"Marion, Florida, US",151,0,4,0
+2020-04-28,us,florida,29.21227113,-82.05803627,84012083.0,US,USA,840,12083.0,marion,"Marion, Florida, US",160,9,4,0
 2020-01-22,us,florida,29.31829741,-82.74007147,84012075.0,US,USA,840,12075.0,levy,"Levy, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.31829741,-82.74007147,84012075.0,US,USA,840,12075.0,levy,"Levy, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.31829741,-82.74007147,84012075.0,US,USA,840,12075.0,levy,"Levy, Florida, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.31829741,-82.74007147,84012075.0,US,USA,840,12075.0,levy,"Levy, Florida, US",13,0,0,0
 2020-04-25,us,florida,29.31829741,-82.74007147,84012075.0,US,USA,840,12075.0,levy,"Levy, Florida, US",13,0,0,0
 2020-04-26,us,florida,29.31829741,-82.74007147,84012075.0,US,USA,840,12075.0,levy,"Levy, Florida, US",13,0,0,0
+2020-04-27,us,florida,29.31829741,-82.74007147,84012075.0,US,USA,840,12075.0,levy,"Levy, Florida, US",13,0,0,0
+2020-04-28,us,florida,29.31829741,-82.74007147,84012075.0,US,USA,840,12075.0,levy,"Levy, Florida, US",18,5,0,0
 2020-01-22,us,florida,29.45933576,-81.31508595,84012035.0,US,USA,840,12035.0,flagler,"Flagler, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.45933576,-81.31508595,84012035.0,US,USA,840,12035.0,flagler,"Flagler, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.45933576,-81.31508595,84012035.0,US,USA,840,12035.0,flagler,"Flagler, Florida, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.45933576,-81.31508595,84012035.0,US,USA,840,12035.0,flagler,"Flagler, Florida, US",106,0,2,0
 2020-04-25,us,florida,29.45933576,-81.31508595,84012035.0,US,USA,840,12035.0,flagler,"Flagler, Florida, US",116,10,2,0
 2020-04-26,us,florida,29.45933576,-81.31508595,84012035.0,US,USA,840,12035.0,flagler,"Flagler, Florida, US",121,5,2,0
+2020-04-27,us,florida,29.45933576,-81.31508595,84012035.0,US,USA,840,12035.0,flagler,"Flagler, Florida, US",127,6,2,0
+2020-04-28,us,florida,29.45933576,-81.31508595,84012035.0,US,USA,840,12035.0,flagler,"Flagler, Florida, US",131,4,2,0
 2020-01-22,us,florida,29.60631086,-83.15724673,84012029.0,US,USA,840,12029.0,dixie,"Dixie, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.60631086,-83.15724673,84012029.0,US,USA,840,12029.0,dixie,"Dixie, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.60631086,-83.15724673,84012029.0,US,USA,840,12029.0,dixie,"Dixie, Florida, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.60631086,-83.15724673,84012029.0,US,USA,840,12029.0,dixie,"Dixie, Florida, US",5,1,0,0
 2020-04-25,us,florida,29.60631086,-83.15724673,84012029.0,US,USA,840,12029.0,dixie,"Dixie, Florida, US",6,1,0,0
 2020-04-26,us,florida,29.60631086,-83.15724673,84012029.0,US,USA,840,12029.0,dixie,"Dixie, Florida, US",6,0,0,0
+2020-04-27,us,florida,29.60631086,-83.15724673,84012029.0,US,USA,840,12029.0,dixie,"Dixie, Florida, US",5,-1,0,0
+2020-04-28,us,florida,29.60631086,-83.15724673,84012029.0,US,USA,840,12029.0,dixie,"Dixie, Florida, US",6,1,0,0
 2020-01-22,us,florida,29.60779729,-81.74230285,84012107.0,US,USA,840,12107.0,putnam,"Putnam, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.60779729,-81.74230285,84012107.0,US,USA,840,12107.0,putnam,"Putnam, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.60779729,-81.74230285,84012107.0,US,USA,840,12107.0,putnam,"Putnam, Florida, US",0,0,0,0
@@ -3647,6 +3721,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.60779729,-81.74230285,84012107.0,US,USA,840,12107.0,putnam,"Putnam, Florida, US",81,6,1,0
 2020-04-25,us,florida,29.60779729,-81.74230285,84012107.0,US,USA,840,12107.0,putnam,"Putnam, Florida, US",83,2,1,0
 2020-04-26,us,florida,29.60779729,-81.74230285,84012107.0,US,USA,840,12107.0,putnam,"Putnam, Florida, US",87,4,1,0
+2020-04-27,us,florida,29.60779729,-81.74230285,84012107.0,US,USA,840,12107.0,putnam,"Putnam, Florida, US",87,0,1,0
+2020-04-28,us,florida,29.60779729,-81.74230285,84012107.0,US,USA,840,12107.0,putnam,"Putnam, Florida, US",103,16,1,0
 2020-01-22,us,florida,29.67866525,-82.35928158,84012001.0,US,USA,840,12001.0,alachua,"Alachua, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.67866525,-82.35928158,84012001.0,US,USA,840,12001.0,alachua,"Alachua, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.67866525,-82.35928158,84012001.0,US,USA,840,12001.0,alachua,"Alachua, Florida, US",0,0,0,0
@@ -3743,6 +3819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.67866525,-82.35928158,84012001.0,US,USA,840,12001.0,alachua,"Alachua, Florida, US",244,13,1,0
 2020-04-25,us,florida,29.67866525,-82.35928158,84012001.0,US,USA,840,12001.0,alachua,"Alachua, Florida, US",245,1,1,0
 2020-04-26,us,florida,29.67866525,-82.35928158,84012001.0,US,USA,840,12001.0,alachua,"Alachua, Florida, US",251,6,2,1
+2020-04-27,us,florida,29.67866525,-82.35928158,84012001.0,US,USA,840,12001.0,alachua,"Alachua, Florida, US",254,3,2,0
+2020-04-28,us,florida,29.67866525,-82.35928158,84012001.0,US,USA,840,12001.0,alachua,"Alachua, Florida, US",255,1,2,0
 2020-01-22,us,florida,29.72856978,-82.79880657,84012041.0,US,USA,840,12041.0,gilchrist,"Gilchrist, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.72856978,-82.79880657,84012041.0,US,USA,840,12041.0,gilchrist,"Gilchrist, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.72856978,-82.79880657,84012041.0,US,USA,840,12041.0,gilchrist,"Gilchrist, Florida, US",0,0,0,0
@@ -3839,6 +3917,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.72856978,-82.79880657,84012041.0,US,USA,840,12041.0,gilchrist,"Gilchrist, Florida, US",4,0,0,0
 2020-04-25,us,florida,29.72856978,-82.79880657,84012041.0,US,USA,840,12041.0,gilchrist,"Gilchrist, Florida, US",4,0,0,0
 2020-04-26,us,florida,29.72856978,-82.79880657,84012041.0,US,USA,840,12041.0,gilchrist,"Gilchrist, Florida, US",4,0,0,0
+2020-04-27,us,florida,29.72856978,-82.79880657,84012041.0,US,USA,840,12041.0,gilchrist,"Gilchrist, Florida, US",4,0,0,0
+2020-04-28,us,florida,29.72856978,-82.79880657,84012041.0,US,USA,840,12041.0,gilchrist,"Gilchrist, Florida, US",4,0,0,0
 2020-01-22,us,florida,29.83791238,-84.82731662,84012037.0,US,USA,840,12037.0,franklin,"Franklin, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.83791238,-84.82731662,84012037.0,US,USA,840,12037.0,franklin,"Franklin, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.83791238,-84.82731662,84012037.0,US,USA,840,12037.0,franklin,"Franklin, Florida, US",0,0,0,0
@@ -3935,6 +4015,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.83791238,-84.82731662,84012037.0,US,USA,840,12037.0,franklin,"Franklin, Florida, US",2,0,0,0
 2020-04-25,us,florida,29.83791238,-84.82731662,84012037.0,US,USA,840,12037.0,franklin,"Franklin, Florida, US",2,0,0,0
 2020-04-26,us,florida,29.83791238,-84.82731662,84012037.0,US,USA,840,12037.0,franklin,"Franklin, Florida, US",2,0,0,0
+2020-04-27,us,florida,29.83791238,-84.82731662,84012037.0,US,USA,840,12037.0,franklin,"Franklin, Florida, US",2,0,0,0
+2020-04-28,us,florida,29.83791238,-84.82731662,84012037.0,US,USA,840,12037.0,franklin,"Franklin, Florida, US",2,0,0,0
 2020-01-22,us,florida,29.90096506,-81.43589967,84012109.0,US,USA,840,12109.0,st-johns,"St. Johns, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.90096506,-81.43589967,84012109.0,US,USA,840,12109.0,st-johns,"St. Johns, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.90096506,-81.43589967,84012109.0,US,USA,840,12109.0,st-johns,"St. Johns, Florida, US",0,0,0,0
@@ -4031,6 +4113,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.90096506,-81.43589967,84012109.0,US,USA,840,12109.0,st-johns,"St. Johns, Florida, US",203,3,4,0
 2020-04-25,us,florida,29.90096506,-81.43589967,84012109.0,US,USA,840,12109.0,st-johns,"St. Johns, Florida, US",203,0,4,0
 2020-04-26,us,florida,29.90096506,-81.43589967,84012109.0,US,USA,840,12109.0,st-johns,"St. Johns, Florida, US",204,1,4,0
+2020-04-27,us,florida,29.90096506,-81.43589967,84012109.0,US,USA,840,12109.0,st-johns,"St. Johns, Florida, US",204,0,4,0
+2020-04-28,us,florida,29.90096506,-81.43589967,84012109.0,US,USA,840,12109.0,st-johns,"St. Johns, Florida, US",207,3,4,0
 2020-01-22,us,florida,29.93543004,-85.24270990000002,84012045.0,US,USA,840,12045.0,gulf,"Gulf, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.93543004,-85.24270990000002,84012045.0,US,USA,840,12045.0,gulf,"Gulf, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.93543004,-85.24270990000002,84012045.0,US,USA,840,12045.0,gulf,"Gulf, Florida, US",0,0,0,0
@@ -4127,6 +4211,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.93543004,-85.24270990000002,84012045.0,US,USA,840,12045.0,gulf,"Gulf, Florida, US",1,0,0,0
 2020-04-25,us,florida,29.93543004,-85.24270990000002,84012045.0,US,USA,840,12045.0,gulf,"Gulf, Florida, US",1,0,0,0
 2020-04-26,us,florida,29.93543004,-85.24270990000002,84012045.0,US,USA,840,12045.0,gulf,"Gulf, Florida, US",1,0,0,0
+2020-04-27,us,florida,29.93543004,-85.24270990000002,84012045.0,US,USA,840,12045.0,gulf,"Gulf, Florida, US",1,0,0,0
+2020-04-28,us,florida,29.93543004,-85.24270990000002,84012045.0,US,USA,840,12045.0,gulf,"Gulf, Florida, US",1,0,0,0
 2020-01-22,us,florida,29.95079741,-82.16611613,84012007.0,US,USA,840,12007.0,bradford,"Bradford, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.95079741,-82.16611613,84012007.0,US,USA,840,12007.0,bradford,"Bradford, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.95079741,-82.16611613,84012007.0,US,USA,840,12007.0,bradford,"Bradford, Florida, US",0,0,0,0
@@ -4223,6 +4309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.95079741,-82.16611613,84012007.0,US,USA,840,12007.0,bradford,"Bradford, Florida, US",42,0,2,0
 2020-04-25,us,florida,29.95079741,-82.16611613,84012007.0,US,USA,840,12007.0,bradford,"Bradford, Florida, US",42,0,2,0
 2020-04-26,us,florida,29.95079741,-82.16611613,84012007.0,US,USA,840,12007.0,bradford,"Bradford, Florida, US",43,1,2,0
+2020-04-27,us,florida,29.95079741,-82.16611613,84012007.0,US,USA,840,12007.0,bradford,"Bradford, Florida, US",44,1,2,0
+2020-04-28,us,florida,29.95079741,-82.16611613,84012007.0,US,USA,840,12007.0,bradford,"Bradford, Florida, US",44,0,2,0
 2020-01-22,us,florida,29.98319144,-81.85609986,84012019.0,US,USA,840,12019.0,clay,"Clay, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.98319144,-81.85609986,84012019.0,US,USA,840,12019.0,clay,"Clay, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.98319144,-81.85609986,84012019.0,US,USA,840,12019.0,clay,"Clay, Florida, US",0,0,0,0
@@ -4319,6 +4407,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.98319144,-81.85609986,84012019.0,US,USA,840,12019.0,clay,"Clay, Florida, US",266,2,14,2
 2020-04-25,us,florida,29.98319144,-81.85609986,84012019.0,US,USA,840,12019.0,clay,"Clay, Florida, US",267,1,14,0
 2020-04-26,us,florida,29.98319144,-81.85609986,84012019.0,US,USA,840,12019.0,clay,"Clay, Florida, US",267,0,14,0
+2020-04-27,us,florida,29.98319144,-81.85609986,84012019.0,US,USA,840,12019.0,clay,"Clay, Florida, US",271,4,14,0
+2020-04-28,us,florida,29.98319144,-81.85609986,84012019.0,US,USA,840,12019.0,clay,"Clay, Florida, US",272,1,14,0
 2020-01-22,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",0,0,0,0
 2020-01-23,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",0,0,0,0
 2020-01-24,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",0,0,0,0
@@ -4415,6 +4505,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",1,0,0,0
 2020-04-25,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",1,0,0,0
 2020-04-26,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",1,0,0,0
+2020-04-27,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",1,0,0,0
+2020-04-28,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",1,0,0,0
 2020-01-22,us,florida,30.04412971,-82.37497443,84012125.0,US,USA,840,12125.0,union,"Union, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.04412971,-82.37497443,84012125.0,US,USA,840,12125.0,union,"Union, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.04412971,-82.37497443,84012125.0,US,USA,840,12125.0,union,"Union, Florida, US",0,0,0,0
@@ -4511,6 +4603,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.04412971,-82.37497443,84012125.0,US,USA,840,12125.0,union,"Union, Florida, US",4,1,0,0
 2020-04-25,us,florida,30.04412971,-82.37497443,84012125.0,US,USA,840,12125.0,union,"Union, Florida, US",4,0,0,0
 2020-04-26,us,florida,30.04412971,-82.37497443,84012125.0,US,USA,840,12125.0,union,"Union, Florida, US",4,0,0,0
+2020-04-27,us,florida,30.04412971,-82.37497443,84012125.0,US,USA,840,12125.0,union,"Union, Florida, US",4,0,0,0
+2020-04-28,us,florida,30.04412971,-82.37497443,84012125.0,US,USA,840,12125.0,union,"Union, Florida, US",4,0,0,0
 2020-01-22,us,florida,30.04848048,-83.60445406,84012123.0,US,USA,840,12123.0,taylor,"Taylor, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.04848048,-83.60445406,84012123.0,US,USA,840,12123.0,taylor,"Taylor, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.04848048,-83.60445406,84012123.0,US,USA,840,12123.0,taylor,"Taylor, Florida, US",0,0,0,0
@@ -4607,6 +4701,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.04848048,-83.60445406,84012123.0,US,USA,840,12123.0,taylor,"Taylor, Florida, US",3,0,0,0
 2020-04-25,us,florida,30.04848048,-83.60445406,84012123.0,US,USA,840,12123.0,taylor,"Taylor, Florida, US",3,0,0,0
 2020-04-26,us,florida,30.04848048,-83.60445406,84012123.0,US,USA,840,12123.0,taylor,"Taylor, Florida, US",3,0,0,0
+2020-04-27,us,florida,30.04848048,-83.60445406,84012123.0,US,USA,840,12123.0,taylor,"Taylor, Florida, US",3,0,0,0
+2020-04-28,us,florida,30.04848048,-83.60445406,84012123.0,US,USA,840,12123.0,taylor,"Taylor, Florida, US",3,0,0,0
 2020-01-22,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",0,0,0,0
@@ -4703,6 +4799,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",20,3,1,0
 2020-04-25,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",20,0,1,0
 2020-04-26,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",21,1,1,0
+2020-04-27,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",22,1,1,0
+2020-04-28,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",22,0,1,0
 2020-01-22,us,florida,30.19746066,-82.99099670000003,84012121.0,US,USA,840,12121.0,suwannee,"Suwannee, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.19746066,-82.99099670000003,84012121.0,US,USA,840,12121.0,suwannee,"Suwannee, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.19746066,-82.99099670000003,84012121.0,US,USA,840,12121.0,suwannee,"Suwannee, Florida, US",0,0,0,0
@@ -4799,6 +4897,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.19746066,-82.99099670000003,84012121.0,US,USA,840,12121.0,suwannee,"Suwannee, Florida, US",107,1,10,1
 2020-04-25,us,florida,30.19746066,-82.99099670000003,84012121.0,US,USA,840,12121.0,suwannee,"Suwannee, Florida, US",109,2,11,1
 2020-04-26,us,florida,30.19746066,-82.99099670000003,84012121.0,US,USA,840,12121.0,suwannee,"Suwannee, Florida, US",116,7,11,0
+2020-04-27,us,florida,30.19746066,-82.99099670000003,84012121.0,US,USA,840,12121.0,suwannee,"Suwannee, Florida, US",118,2,11,0
+2020-04-28,us,florida,30.19746066,-82.99099670000003,84012121.0,US,USA,840,12121.0,suwannee,"Suwannee, Florida, US",128,10,14,3
 2020-01-22,us,florida,30.22509788,-82.62160164,84012023.0,US,USA,840,12023.0,columbia,"Columbia, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.22509788,-82.62160164,84012023.0,US,USA,840,12023.0,columbia,"Columbia, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.22509788,-82.62160164,84012023.0,US,USA,840,12023.0,columbia,"Columbia, Florida, US",0,0,0,0
@@ -4895,6 +4995,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.22509788,-82.62160164,84012023.0,US,USA,840,12023.0,columbia,"Columbia, Florida, US",46,0,0,0
 2020-04-25,us,florida,30.22509788,-82.62160164,84012023.0,US,USA,840,12023.0,columbia,"Columbia, Florida, US",47,1,0,0
 2020-04-26,us,florida,30.22509788,-82.62160164,84012023.0,US,USA,840,12023.0,columbia,"Columbia, Florida, US",49,2,0,0
+2020-04-27,us,florida,30.22509788,-82.62160164,84012023.0,US,USA,840,12023.0,columbia,"Columbia, Florida, US",53,4,0,0
+2020-04-28,us,florida,30.22509788,-82.62160164,84012023.0,US,USA,840,12023.0,columbia,"Columbia, Florida, US",55,2,2,2
 2020-01-22,us,florida,30.23766008,-84.8829258,84012077.0,US,USA,840,12077.0,liberty,"Liberty, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.23766008,-84.8829258,84012077.0,US,USA,840,12077.0,liberty,"Liberty, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.23766008,-84.8829258,84012077.0,US,USA,840,12077.0,liberty,"Liberty, Florida, US",0,0,0,0
@@ -4991,6 +5093,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.23766008,-84.8829258,84012077.0,US,USA,840,12077.0,liberty,"Liberty, Florida, US",2,0,0,0
 2020-04-25,us,florida,30.23766008,-84.8829258,84012077.0,US,USA,840,12077.0,liberty,"Liberty, Florida, US",2,0,0,0
 2020-04-26,us,florida,30.23766008,-84.8829258,84012077.0,US,USA,840,12077.0,liberty,"Liberty, Florida, US",2,0,0,0
+2020-04-27,us,florida,30.23766008,-84.8829258,84012077.0,US,USA,840,12077.0,liberty,"Liberty, Florida, US",2,0,0,0
+2020-04-28,us,florida,30.23766008,-84.8829258,84012077.0,US,USA,840,12077.0,liberty,"Liberty, Florida, US",2,0,0,0
 2020-01-22,us,florida,30.26548745,-85.62122584,84012005.0,US,USA,840,12005.0,bay,"Bay, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.26548745,-85.62122584,84012005.0,US,USA,840,12005.0,bay,"Bay, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.26548745,-85.62122584,84012005.0,US,USA,840,12005.0,bay,"Bay, Florida, US",0,0,0,0
@@ -5087,6 +5191,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.26548745,-85.62122584,84012005.0,US,USA,840,12005.0,bay,"Bay, Florida, US",63,3,2,0
 2020-04-25,us,florida,30.26548745,-85.62122584,84012005.0,US,USA,840,12005.0,bay,"Bay, Florida, US",63,0,2,0
 2020-04-26,us,florida,30.26548745,-85.62122584,84012005.0,US,USA,840,12005.0,bay,"Bay, Florida, US",65,2,2,0
+2020-04-27,us,florida,30.26548745,-85.62122584,84012005.0,US,USA,840,12005.0,bay,"Bay, Florida, US",68,3,2,0
+2020-04-28,us,florida,30.26548745,-85.62122584,84012005.0,US,USA,840,12005.0,bay,"Bay, Florida, US",70,2,2,0
 2020-01-22,us,florida,30.33060121,-82.28467476,84012003.0,US,USA,840,12003.0,baker,"Baker, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.33060121,-82.28467476,84012003.0,US,USA,840,12003.0,baker,"Baker, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.33060121,-82.28467476,84012003.0,US,USA,840,12003.0,baker,"Baker, Florida, US",0,0,0,0
@@ -5183,6 +5289,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.33060121,-82.28467476,84012003.0,US,USA,840,12003.0,baker,"Baker, Florida, US",20,1,3,0
 2020-04-25,us,florida,30.33060121,-82.28467476,84012003.0,US,USA,840,12003.0,baker,"Baker, Florida, US",20,0,3,0
 2020-04-26,us,florida,30.33060121,-82.28467476,84012003.0,US,USA,840,12003.0,baker,"Baker, Florida, US",20,0,3,0
+2020-04-27,us,florida,30.33060121,-82.28467476,84012003.0,US,USA,840,12003.0,baker,"Baker, Florida, US",20,0,3,0
+2020-04-28,us,florida,30.33060121,-82.28467476,84012003.0,US,USA,840,12003.0,baker,"Baker, Florida, US",20,0,3,0
 2020-01-22,us,florida,30.33225875,-81.66976468,84012031.0,US,USA,840,12031.0,duval,"Duval, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.33225875,-81.66976468,84012031.0,US,USA,840,12031.0,duval,"Duval, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.33225875,-81.66976468,84012031.0,US,USA,840,12031.0,duval,"Duval, Florida, US",0,0,0,0
@@ -5279,6 +5387,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.33225875,-81.66976468,84012031.0,US,USA,840,12031.0,duval,"Duval, Florida, US",955,-1,18,1
 2020-04-25,us,florida,30.33225875,-81.66976468,84012031.0,US,USA,840,12031.0,duval,"Duval, Florida, US",965,10,18,0
 2020-04-26,us,florida,30.33225875,-81.66976468,84012031.0,US,USA,840,12031.0,duval,"Duval, Florida, US",984,19,18,0
+2020-04-27,us,florida,30.33225875,-81.66976468,84012031.0,US,USA,840,12031.0,duval,"Duval, Florida, US",990,6,19,1
+2020-04-28,us,florida,30.33225875,-81.66976468,84012031.0,US,USA,840,12031.0,duval,"Duval, Florida, US",1001,11,20,1
 2020-01-22,us,florida,30.40666734,-85.19394153,84012013.0,US,USA,840,12013.0,calhoun,"Calhoun, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.40666734,-85.19394153,84012013.0,US,USA,840,12013.0,calhoun,"Calhoun, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.40666734,-85.19394153,84012013.0,US,USA,840,12013.0,calhoun,"Calhoun, Florida, US",0,0,0,0
@@ -5375,6 +5485,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.40666734,-85.19394153,84012013.0,US,USA,840,12013.0,calhoun,"Calhoun, Florida, US",6,0,0,0
 2020-04-25,us,florida,30.40666734,-85.19394153,84012013.0,US,USA,840,12013.0,calhoun,"Calhoun, Florida, US",6,0,0,0
 2020-04-26,us,florida,30.40666734,-85.19394153,84012013.0,US,USA,840,12013.0,calhoun,"Calhoun, Florida, US",6,0,0,0
+2020-04-27,us,florida,30.40666734,-85.19394153,84012013.0,US,USA,840,12013.0,calhoun,"Calhoun, Florida, US",6,0,0,0
+2020-04-28,us,florida,30.40666734,-85.19394153,84012013.0,US,USA,840,12013.0,calhoun,"Calhoun, Florida, US",6,0,0,0
 2020-01-22,us,florida,30.43669112,-83.89442308,84012065.0,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.43669112,-83.89442308,84012065.0,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.43669112,-83.89442308,84012065.0,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",0,0,0,0
@@ -5471,6 +5583,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.43669112,-83.89442308,84012065.0,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",27,1,2,1
 2020-04-25,us,florida,30.43669112,-83.89442308,84012065.0,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",27,0,2,0
 2020-04-26,us,florida,30.43669112,-83.89442308,84012065.0,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",27,0,2,0
+2020-04-27,us,florida,30.43669112,-83.89442308,84012065.0,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",28,1,2,0
+2020-04-28,us,florida,30.43669112,-83.89442308,84012065.0,US,USA,840,12065.0,jefferson,"Jefferson, Florida, US",28,0,2,0
 2020-01-22,us,florida,30.44396917,-83.47398594,84012079.0,US,USA,840,12079.0,madison,"Madison, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.44396917,-83.47398594,84012079.0,US,USA,840,12079.0,madison,"Madison, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.44396917,-83.47398594,84012079.0,US,USA,840,12079.0,madison,"Madison, Florida, US",0,0,0,0
@@ -5567,6 +5681,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.44396917,-83.47398594,84012079.0,US,USA,840,12079.0,madison,"Madison, Florida, US",41,1,2,0
 2020-04-25,us,florida,30.44396917,-83.47398594,84012079.0,US,USA,840,12079.0,madison,"Madison, Florida, US",41,0,2,0
 2020-04-26,us,florida,30.44396917,-83.47398594,84012079.0,US,USA,840,12079.0,madison,"Madison, Florida, US",43,2,2,0
+2020-04-27,us,florida,30.44396917,-83.47398594,84012079.0,US,USA,840,12079.0,madison,"Madison, Florida, US",44,1,2,0
+2020-04-28,us,florida,30.44396917,-83.47398594,84012079.0,US,USA,840,12079.0,madison,"Madison, Florida, US",49,5,2,0
 2020-01-22,us,florida,30.45955727,-84.27491114,84012073.0,US,USA,840,12073.0,leon,"Leon, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.45955727,-84.27491114,84012073.0,US,USA,840,12073.0,leon,"Leon, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.45955727,-84.27491114,84012073.0,US,USA,840,12073.0,leon,"Leon, Florida, US",0,0,0,0
@@ -5663,6 +5779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.45955727,-84.27491114,84012073.0,US,USA,840,12073.0,leon,"Leon, Florida, US",207,16,2,0
 2020-04-25,us,florida,30.45955727,-84.27491114,84012073.0,US,USA,840,12073.0,leon,"Leon, Florida, US",208,1,2,0
 2020-04-26,us,florida,30.45955727,-84.27491114,84012073.0,US,USA,840,12073.0,leon,"Leon, Florida, US",210,2,2,0
+2020-04-27,us,florida,30.45955727,-84.27491114,84012073.0,US,USA,840,12073.0,leon,"Leon, Florida, US",212,2,3,1
+2020-04-28,us,florida,30.45955727,-84.27491114,84012073.0,US,USA,840,12073.0,leon,"Leon, Florida, US",213,1,3,0
 2020-01-22,us,florida,30.49673973,-82.94998918,84012047.0,US,USA,840,12047.0,hamilton,"Hamilton, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.49673973,-82.94998918,84012047.0,US,USA,840,12047.0,hamilton,"Hamilton, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.49673973,-82.94998918,84012047.0,US,USA,840,12047.0,hamilton,"Hamilton, Florida, US",0,0,0,0
@@ -5759,6 +5877,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.49673973,-82.94998918,84012047.0,US,USA,840,12047.0,hamilton,"Hamilton, Florida, US",6,0,0,0
 2020-04-25,us,florida,30.49673973,-82.94998918,84012047.0,US,USA,840,12047.0,hamilton,"Hamilton, Florida, US",6,0,0,0
 2020-04-26,us,florida,30.49673973,-82.94998918,84012047.0,US,USA,840,12047.0,hamilton,"Hamilton, Florida, US",6,0,0,0
+2020-04-27,us,florida,30.49673973,-82.94998918,84012047.0,US,USA,840,12047.0,hamilton,"Hamilton, Florida, US",6,0,0,0
+2020-04-28,us,florida,30.49673973,-82.94998918,84012047.0,US,USA,840,12047.0,hamilton,"Hamilton, Florida, US",6,0,0,0
 2020-01-22,us,florida,30.57796289,-84.61915825,84012039.0,US,USA,840,12039.0,gadsden,"Gadsden, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.57796289,-84.61915825,84012039.0,US,USA,840,12039.0,gadsden,"Gadsden, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.57796289,-84.61915825,84012039.0,US,USA,840,12039.0,gadsden,"Gadsden, Florida, US",0,0,0,0
@@ -5855,6 +5975,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.57796289,-84.61915825,84012039.0,US,USA,840,12039.0,gadsden,"Gadsden, Florida, US",79,10,0,0
 2020-04-25,us,florida,30.57796289,-84.61915825,84012039.0,US,USA,840,12039.0,gadsden,"Gadsden, Florida, US",80,1,0,0
 2020-04-26,us,florida,30.57796289,-84.61915825,84012039.0,US,USA,840,12039.0,gadsden,"Gadsden, Florida, US",81,1,0,0
+2020-04-27,us,florida,30.57796289,-84.61915825,84012039.0,US,USA,840,12039.0,gadsden,"Gadsden, Florida, US",87,6,0,0
+2020-04-28,us,florida,30.57796289,-84.61915825,84012039.0,US,USA,840,12039.0,gadsden,"Gadsden, Florida, US",94,7,0,0
 2020-01-22,us,florida,30.61037141,-81.80297522,84012089.0,US,USA,840,12089.0,nassau,"Nassau, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.61037141,-81.80297522,84012089.0,US,USA,840,12089.0,nassau,"Nassau, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.61037141,-81.80297522,84012089.0,US,USA,840,12089.0,nassau,"Nassau, Florida, US",0,0,0,0
@@ -5951,6 +6073,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.61037141,-81.80297522,84012089.0,US,USA,840,12089.0,nassau,"Nassau, Florida, US",49,1,0,0
 2020-04-25,us,florida,30.61037141,-81.80297522,84012089.0,US,USA,840,12089.0,nassau,"Nassau, Florida, US",50,1,0,0
 2020-04-26,us,florida,30.61037141,-81.80297522,84012089.0,US,USA,840,12089.0,nassau,"Nassau, Florida, US",53,3,0,0
+2020-04-27,us,florida,30.61037141,-81.80297522,84012089.0,US,USA,840,12089.0,nassau,"Nassau, Florida, US",53,0,0,0
+2020-04-28,us,florida,30.61037141,-81.80297522,84012089.0,US,USA,840,12089.0,nassau,"Nassau, Florida, US",53,0,0,0
 2020-01-22,us,florida,30.61359259,-85.66002461,84012133.0,US,USA,840,12133.0,washington,"Washington, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.61359259,-85.66002461,84012133.0,US,USA,840,12133.0,washington,"Washington, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.61359259,-85.66002461,84012133.0,US,USA,840,12133.0,washington,"Washington, Florida, US",0,0,0,0
@@ -6047,6 +6171,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.61359259,-85.66002461,84012133.0,US,USA,840,12133.0,washington,"Washington, Florida, US",12,2,0,0
 2020-04-25,us,florida,30.61359259,-85.66002461,84012133.0,US,USA,840,12133.0,washington,"Washington, Florida, US",12,0,0,0
 2020-04-26,us,florida,30.61359259,-85.66002461,84012133.0,US,USA,840,12133.0,washington,"Washington, Florida, US",12,0,0,0
+2020-04-27,us,florida,30.61359259,-85.66002461,84012133.0,US,USA,840,12133.0,washington,"Washington, Florida, US",12,0,0,0
+2020-04-28,us,florida,30.61359259,-85.66002461,84012133.0,US,USA,840,12133.0,washington,"Washington, Florida, US",12,0,0,0
 2020-01-22,us,florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,walton,"Walton, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,walton,"Walton, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,walton,"Walton, Florida, US",0,0,0,0
@@ -6143,6 +6269,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,walton,"Walton, Florida, US",35,1,0,0
 2020-04-25,us,florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,walton,"Walton, Florida, US",35,0,0,0
 2020-04-26,us,florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,walton,"Walton, Florida, US",35,0,0,0
+2020-04-27,us,florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,walton,"Walton, Florida, US",35,0,0,0
+2020-04-28,us,florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,walton,"Walton, Florida, US",35,0,0,0
 2020-01-22,us,florida,30.67652764,-87.37284571,84012033.0,US,USA,840,12033.0,escambia,"Escambia, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.67652764,-87.37284571,84012033.0,US,USA,840,12033.0,escambia,"Escambia, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.67652764,-87.37284571,84012033.0,US,USA,840,12033.0,escambia,"Escambia, Florida, US",0,0,0,0
@@ -6239,6 +6367,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.67652764,-87.37284571,84012033.0,US,USA,840,12033.0,escambia,"Escambia, Florida, US",434,14,11,1
 2020-04-25,us,florida,30.67652764,-87.37284571,84012033.0,US,USA,840,12033.0,escambia,"Escambia, Florida, US",442,8,11,0
 2020-04-26,us,florida,30.67652764,-87.37284571,84012033.0,US,USA,840,12033.0,escambia,"Escambia, Florida, US",457,15,11,0
+2020-04-27,us,florida,30.67652764,-87.37284571,84012033.0,US,USA,840,12033.0,escambia,"Escambia, Florida, US",470,13,11,0
+2020-04-28,us,florida,30.67652764,-87.37284571,84012033.0,US,USA,840,12033.0,escambia,"Escambia, Florida, US",485,15,11,0
 2020-01-22,us,florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,okaloosa,"Okaloosa, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,okaloosa,"Okaloosa, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,okaloosa,"Okaloosa, Florida, US",0,0,0,0
@@ -6335,6 +6465,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,okaloosa,"Okaloosa, Florida, US",145,4,3,0
 2020-04-25,us,florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,okaloosa,"Okaloosa, Florida, US",149,4,3,0
 2020-04-26,us,florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,okaloosa,"Okaloosa, Florida, US",149,0,3,0
+2020-04-27,us,florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,okaloosa,"Okaloosa, Florida, US",149,0,3,0
+2020-04-28,us,florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,okaloosa,"Okaloosa, Florida, US",152,3,3,0
 2020-01-22,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",0,0,0,0
@@ -6431,6 +6563,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",143,2,6,0
 2020-04-25,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",147,4,6,0
 2020-04-26,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",149,2,6,0
+2020-04-27,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",150,1,6,0
+2020-04-28,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",151,1,7,1
 2020-01-22,us,florida,30.7954597,-85.21500423,84012063.0,US,USA,840,12063.0,jackson,"Jackson, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.7954597,-85.21500423,84012063.0,US,USA,840,12063.0,jackson,"Jackson, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.7954597,-85.21500423,84012063.0,US,USA,840,12063.0,jackson,"Jackson, Florida, US",0,0,0,0
@@ -6527,6 +6661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.7954597,-85.21500423,84012063.0,US,USA,840,12063.0,jackson,"Jackson, Florida, US",13,0,0,0
 2020-04-25,us,florida,30.7954597,-85.21500423,84012063.0,US,USA,840,12063.0,jackson,"Jackson, Florida, US",13,0,0,0
 2020-04-26,us,florida,30.7954597,-85.21500423,84012063.0,US,USA,840,12063.0,jackson,"Jackson, Florida, US",13,0,0,0
+2020-04-27,us,florida,30.7954597,-85.21500423,84012063.0,US,USA,840,12063.0,jackson,"Jackson, Florida, US",13,0,0,0
+2020-04-28,us,florida,30.7954597,-85.21500423,84012063.0,US,USA,840,12063.0,jackson,"Jackson, Florida, US",13,0,0,0
 2020-01-22,us,florida,30.86747479,-85.81319222,84012059.0,US,USA,840,12059.0,holmes,"Holmes, Florida, US",0,0,0,0
 2020-01-23,us,florida,30.86747479,-85.81319222,84012059.0,US,USA,840,12059.0,holmes,"Holmes, Florida, US",0,0,0,0
 2020-01-24,us,florida,30.86747479,-85.81319222,84012059.0,US,USA,840,12059.0,holmes,"Holmes, Florida, US",0,0,0,0
@@ -6623,3 +6759,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,30.86747479,-85.81319222,84012059.0,US,USA,840,12059.0,holmes,"Holmes, Florida, US",9,0,0,0
 2020-04-25,us,florida,30.86747479,-85.81319222,84012059.0,US,USA,840,12059.0,holmes,"Holmes, Florida, US",9,0,0,0
 2020-04-26,us,florida,30.86747479,-85.81319222,84012059.0,US,USA,840,12059.0,holmes,"Holmes, Florida, US",9,0,0,0
+2020-04-27,us,florida,30.86747479,-85.81319222,84012059.0,US,USA,840,12059.0,holmes,"Holmes, Florida, US",9,0,0,0
+2020-04-28,us,florida,30.86747479,-85.81319222,84012059.0,US,USA,840,12059.0,holmes,"Holmes, Florida, US",9,0,0,0

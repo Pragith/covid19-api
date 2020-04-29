@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",21,1,0,0
 2020-04-25,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",23,2,0,0
 2020-04-26,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",23,0,0,0
+2020-04-27,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",22,-1,0,0
+2020-04-28,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",24,2,0,0

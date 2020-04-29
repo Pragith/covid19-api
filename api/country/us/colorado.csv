@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,0.0,0.0,84080008.0,US,USA,840,80008.0,out-of-co,"Out of CO, Colorado, US",0,0,2,0
 2020-04-25,us,colorado,0.0,0.0,84080008.0,US,USA,840,80008.0,out-of-co,"Out of CO, Colorado, US",0,0,2,0
 2020-04-26,us,colorado,0.0,0.0,84080008.0,US,USA,840,80008.0,out-of-co,"Out of CO, Colorado, US",0,0,2,0
+2020-04-27,us,colorado,0.0,0.0,84080008.0,US,USA,840,80008.0,out-of-co,"Out of CO, Colorado, US",0,0,2,0
+2020-04-28,us,colorado,0.0,0.0,84080008.0,US,USA,840,80008.0,out-of-co,"Out of CO, Colorado, US",0,0,2,0
 2020-01-22,us,colorado,0.0,0.0,84090008.0,US,USA,840,90008.0,unassigned,"Unassigned, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,0.0,0.0,84090008.0,US,USA,840,90008.0,unassigned,"Unassigned, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,0.0,0.0,84090008.0,US,USA,840,90008.0,unassigned,"Unassigned, Colorado, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,0.0,0.0,84090008.0,US,USA,840,90008.0,unassigned,"Unassigned, Colorado, US",103,-5,2,1
 2020-04-25,us,colorado,0.0,0.0,84090008.0,US,USA,840,90008.0,unassigned,"Unassigned, Colorado, US",131,28,2,0
 2020-04-26,us,colorado,0.0,0.0,84090008.0,US,USA,840,90008.0,unassigned,"Unassigned, Colorado, US",172,41,2,0
+2020-04-27,us,colorado,0.0,0.0,84090008.0,US,USA,840,90008.0,unassigned,"Unassigned, Colorado, US",176,4,2,0
+2020-04-28,us,colorado,0.0,0.0,84090008.0,US,USA,840,90008.0,unassigned,"Unassigned, Colorado, US",165,-11,1,-1
 2020-01-22,us,colorado,37.19474156,-107.0476867,84008007.0,US,USA,840,8007.0,archuleta,"Archuleta, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.19474156,-107.0476867,84008007.0,US,USA,840,8007.0,archuleta,"Archuleta, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.19474156,-107.0476867,84008007.0,US,USA,840,8007.0,archuleta,"Archuleta, Colorado, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.19474156,-107.0476867,84008007.0,US,USA,840,8007.0,archuleta,"Archuleta, Colorado, US",8,0,0,0
 2020-04-25,us,colorado,37.19474156,-107.0476867,84008007.0,US,USA,840,8007.0,archuleta,"Archuleta, Colorado, US",8,0,0,0
 2020-04-26,us,colorado,37.19474156,-107.0476867,84008007.0,US,USA,840,8007.0,archuleta,"Archuleta, Colorado, US",8,0,0,0
+2020-04-27,us,colorado,37.19474156,-107.0476867,84008007.0,US,USA,840,8007.0,archuleta,"Archuleta, Colorado, US",8,0,0,0
+2020-04-28,us,colorado,37.19474156,-107.0476867,84008007.0,US,USA,840,8007.0,archuleta,"Archuleta, Colorado, US",8,0,0,0
 2020-01-22,us,colorado,37.201606,-106.19174879999998,84008021.0,US,USA,840,8021.0,conejos,"Conejos, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.201606,-106.19174879999998,84008021.0,US,USA,840,8021.0,conejos,"Conejos, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.201606,-106.19174879999998,84008021.0,US,USA,840,8021.0,conejos,"Conejos, Colorado, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.201606,-106.19174879999998,84008021.0,US,USA,840,8021.0,conejos,"Conejos, Colorado, US",0,0,0,0
 2020-04-25,us,colorado,37.201606,-106.19174879999998,84008021.0,US,USA,840,8021.0,conejos,"Conejos, Colorado, US",0,0,0,0
 2020-04-26,us,colorado,37.201606,-106.19174879999998,84008021.0,US,USA,840,8021.0,conejos,"Conejos, Colorado, US",0,0,0,0
+2020-04-27,us,colorado,37.201606,-106.19174879999998,84008021.0,US,USA,840,8021.0,conejos,"Conejos, Colorado, US",0,0,0,0
+2020-04-28,us,colorado,37.201606,-106.19174879999998,84008021.0,US,USA,840,8021.0,conejos,"Conejos, Colorado, US",0,0,0,0
 2020-01-22,us,colorado,37.27732493,-105.4276548,84008023.0,US,USA,840,8023.0,costilla,"Costilla, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.27732493,-105.4276548,84008023.0,US,USA,840,8023.0,costilla,"Costilla, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.27732493,-105.4276548,84008023.0,US,USA,840,8023.0,costilla,"Costilla, Colorado, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.27732493,-105.4276548,84008023.0,US,USA,840,8023.0,costilla,"Costilla, Colorado, US",3,0,0,0
 2020-04-25,us,colorado,37.27732493,-105.4276548,84008023.0,US,USA,840,8023.0,costilla,"Costilla, Colorado, US",3,0,0,0
 2020-04-26,us,colorado,37.27732493,-105.4276548,84008023.0,US,USA,840,8023.0,costilla,"Costilla, Colorado, US",3,0,0,0
+2020-04-27,us,colorado,37.27732493,-105.4276548,84008023.0,US,USA,840,8023.0,costilla,"Costilla, Colorado, US",3,0,0,0
+2020-04-28,us,colorado,37.27732493,-105.4276548,84008023.0,US,USA,840,8023.0,costilla,"Costilla, Colorado, US",3,0,0,0
 2020-01-22,us,colorado,37.28632032,-107.8429014,84008067.0,US,USA,840,8067.0,la-plata,"La Plata, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.28632032,-107.8429014,84008067.0,US,USA,840,8067.0,la-plata,"La Plata, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.28632032,-107.8429014,84008067.0,US,USA,840,8067.0,la-plata,"La Plata, Colorado, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.28632032,-107.8429014,84008067.0,US,USA,840,8067.0,la-plata,"La Plata, Colorado, US",56,1,0,0
 2020-04-25,us,colorado,37.28632032,-107.8429014,84008067.0,US,USA,840,8067.0,la-plata,"La Plata, Colorado, US",59,3,0,0
 2020-04-26,us,colorado,37.28632032,-107.8429014,84008067.0,US,USA,840,8067.0,la-plata,"La Plata, Colorado, US",59,0,0,0
+2020-04-27,us,colorado,37.28632032,-107.8429014,84008067.0,US,USA,840,8067.0,la-plata,"La Plata, Colorado, US",59,0,0,0
+2020-04-28,us,colorado,37.28632032,-107.8429014,84008067.0,US,USA,840,8067.0,la-plata,"La Plata, Colorado, US",59,0,0,0
 2020-01-22,us,colorado,37.3153406,-104.0376458,84008071.0,US,USA,840,8071.0,las-animas,"Las Animas, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.3153406,-104.0376458,84008071.0,US,USA,840,8071.0,las-animas,"Las Animas, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.3153406,-104.0376458,84008071.0,US,USA,840,8071.0,las-animas,"Las Animas, Colorado, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.3153406,-104.0376458,84008071.0,US,USA,840,8071.0,las-animas,"Las Animas, Colorado, US",3,0,0,0
 2020-04-25,us,colorado,37.3153406,-104.0376458,84008071.0,US,USA,840,8071.0,las-animas,"Las Animas, Colorado, US",3,0,0,0
 2020-04-26,us,colorado,37.3153406,-104.0376458,84008071.0,US,USA,840,8071.0,las-animas,"Las Animas, Colorado, US",3,0,0,0
+2020-04-27,us,colorado,37.3153406,-104.0376458,84008071.0,US,USA,840,8071.0,las-animas,"Las Animas, Colorado, US",3,0,0,0
+2020-04-28,us,colorado,37.3153406,-104.0376458,84008071.0,US,USA,840,8071.0,las-animas,"Las Animas, Colorado, US",3,0,0,0
 2020-01-22,us,colorado,37.31940883,-102.5603223,84008009.0,US,USA,840,8009.0,baca,"Baca, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.31940883,-102.5603223,84008009.0,US,USA,840,8009.0,baca,"Baca, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.31940883,-102.5603223,84008009.0,US,USA,840,8009.0,baca,"Baca, Colorado, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.31940883,-102.5603223,84008009.0,US,USA,840,8009.0,baca,"Baca, Colorado, US",10,0,0,0
 2020-04-25,us,colorado,37.31940883,-102.5603223,84008009.0,US,USA,840,8009.0,baca,"Baca, Colorado, US",10,0,0,0
 2020-04-26,us,colorado,37.31940883,-102.5603223,84008009.0,US,USA,840,8009.0,baca,"Baca, Colorado, US",10,0,0,0
+2020-04-27,us,colorado,37.31940883,-102.5603223,84008009.0,US,USA,840,8009.0,baca,"Baca, Colorado, US",10,0,0,0
+2020-04-28,us,colorado,37.31940883,-102.5603223,84008009.0,US,USA,840,8009.0,baca,"Baca, Colorado, US",10,0,0,0
 2020-01-22,us,colorado,37.33859579,-108.5958857,84008083.0,US,USA,840,8083.0,montezuma,"Montezuma, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.33859579,-108.5958857,84008083.0,US,USA,840,8083.0,montezuma,"Montezuma, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.33859579,-108.5958857,84008083.0,US,USA,840,8083.0,montezuma,"Montezuma, Colorado, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.33859579,-108.5958857,84008083.0,US,USA,840,8083.0,montezuma,"Montezuma, Colorado, US",15,0,2,0
 2020-04-25,us,colorado,37.33859579,-108.5958857,84008083.0,US,USA,840,8083.0,montezuma,"Montezuma, Colorado, US",15,0,2,0
 2020-04-26,us,colorado,37.33859579,-108.5958857,84008083.0,US,USA,840,8083.0,montezuma,"Montezuma, Colorado, US",15,0,2,0
+2020-04-27,us,colorado,37.33859579,-108.5958857,84008083.0,US,USA,840,8083.0,montezuma,"Montezuma, Colorado, US",15,0,2,0
+2020-04-28,us,colorado,37.33859579,-108.5958857,84008083.0,US,USA,840,8083.0,montezuma,"Montezuma, Colorado, US",15,0,2,0
 2020-01-22,us,colorado,37.57250606,-105.7885451,84008003.0,US,USA,840,8003.0,alamosa,"Alamosa, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.57250606,-105.7885451,84008003.0,US,USA,840,8003.0,alamosa,"Alamosa, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.57250606,-105.7885451,84008003.0,US,USA,840,8003.0,alamosa,"Alamosa, Colorado, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.57250606,-105.7885451,84008003.0,US,USA,840,8003.0,alamosa,"Alamosa, Colorado, US",10,1,2,0
 2020-04-25,us,colorado,37.57250606,-105.7885451,84008003.0,US,USA,840,8003.0,alamosa,"Alamosa, Colorado, US",10,0,2,0
 2020-04-26,us,colorado,37.57250606,-105.7885451,84008003.0,US,USA,840,8003.0,alamosa,"Alamosa, Colorado, US",10,0,2,0
+2020-04-27,us,colorado,37.57250606,-105.7885451,84008003.0,US,USA,840,8003.0,alamosa,"Alamosa, Colorado, US",10,0,2,0
+2020-04-28,us,colorado,37.57250606,-105.7885451,84008003.0,US,USA,840,8003.0,alamosa,"Alamosa, Colorado, US",10,0,2,0
 2020-01-22,us,colorado,37.5836865,-106.3847838,84008105.0,US,USA,840,8105.0,rio-grande,"Rio Grande, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.5836865,-106.3847838,84008105.0,US,USA,840,8105.0,rio-grande,"Rio Grande, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.5836865,-106.3847838,84008105.0,US,USA,840,8105.0,rio-grande,"Rio Grande, Colorado, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.5836865,-106.3847838,84008105.0,US,USA,840,8105.0,rio-grande,"Rio Grande, Colorado, US",7,0,0,0
 2020-04-25,us,colorado,37.5836865,-106.3847838,84008105.0,US,USA,840,8105.0,rio-grande,"Rio Grande, Colorado, US",7,0,0,0
 2020-04-26,us,colorado,37.5836865,-106.3847838,84008105.0,US,USA,840,8105.0,rio-grande,"Rio Grande, Colorado, US",7,0,0,0
+2020-04-27,us,colorado,37.5836865,-106.3847838,84008105.0,US,USA,840,8105.0,rio-grande,"Rio Grande, Colorado, US",7,0,0,0
+2020-04-28,us,colorado,37.5836865,-106.3847838,84008105.0,US,USA,840,8105.0,rio-grande,"Rio Grande, Colorado, US",7,0,0,0
 2020-01-22,us,colorado,37.66954283,-106.9281698,84008079.0,US,USA,840,8079.0,mineral,"Mineral, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.66954283,-106.9281698,84008079.0,US,USA,840,8079.0,mineral,"Mineral, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.66954283,-106.9281698,84008079.0,US,USA,840,8079.0,mineral,"Mineral, Colorado, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.66954283,-106.9281698,84008079.0,US,USA,840,8079.0,mineral,"Mineral, Colorado, US",2,0,0,0
 2020-04-25,us,colorado,37.66954283,-106.9281698,84008079.0,US,USA,840,8079.0,mineral,"Mineral, Colorado, US",2,0,0,0
 2020-04-26,us,colorado,37.66954283,-106.9281698,84008079.0,US,USA,840,8079.0,mineral,"Mineral, Colorado, US",2,0,0,0
+2020-04-27,us,colorado,37.66954283,-106.9281698,84008079.0,US,USA,840,8079.0,mineral,"Mineral, Colorado, US",2,0,0,0
+2020-04-28,us,colorado,37.66954283,-106.9281698,84008079.0,US,USA,840,8079.0,mineral,"Mineral, Colorado, US",2,0,0,0
 2020-01-22,us,colorado,37.68473101,-104.9612585,84008055.0,US,USA,840,8055.0,huerfano,"Huerfano, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.68473101,-104.9612585,84008055.0,US,USA,840,8055.0,huerfano,"Huerfano, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.68473101,-104.9612585,84008055.0,US,USA,840,8055.0,huerfano,"Huerfano, Colorado, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.68473101,-104.9612585,84008055.0,US,USA,840,8055.0,huerfano,"Huerfano, Colorado, US",1,0,0,0
 2020-04-25,us,colorado,37.68473101,-104.9612585,84008055.0,US,USA,840,8055.0,huerfano,"Huerfano, Colorado, US",2,1,0,0
 2020-04-26,us,colorado,37.68473101,-104.9612585,84008055.0,US,USA,840,8055.0,huerfano,"Huerfano, Colorado, US",2,0,0,0
+2020-04-27,us,colorado,37.68473101,-104.9612585,84008055.0,US,USA,840,8055.0,huerfano,"Huerfano, Colorado, US",2,0,0,0
+2020-04-28,us,colorado,37.68473101,-104.9612585,84008055.0,US,USA,840,8055.0,huerfano,"Huerfano, Colorado, US",2,0,0,0
 2020-01-22,us,colorado,37.75208676,-108.5211585,84008033.0,US,USA,840,8033.0,dolores,"Dolores, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.75208676,-108.5211585,84008033.0,US,USA,840,8033.0,dolores,"Dolores, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.75208676,-108.5211585,84008033.0,US,USA,840,8033.0,dolores,"Dolores, Colorado, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.75208676,-108.5211585,84008033.0,US,USA,840,8033.0,dolores,"Dolores, Colorado, US",0,0,0,0
 2020-04-25,us,colorado,37.75208676,-108.5211585,84008033.0,US,USA,840,8033.0,dolores,"Dolores, Colorado, US",0,0,0,0
 2020-04-26,us,colorado,37.75208676,-108.5211585,84008033.0,US,USA,840,8033.0,dolores,"Dolores, Colorado, US",0,0,0,0
+2020-04-27,us,colorado,37.75208676,-108.5211585,84008033.0,US,USA,840,8033.0,dolores,"Dolores, Colorado, US",0,0,0,0
+2020-04-28,us,colorado,37.75208676,-108.5211585,84008033.0,US,USA,840,8033.0,dolores,"Dolores, Colorado, US",0,0,0,0
 2020-01-22,us,colorado,37.76248981,-107.67632890000002,84008111.0,US,USA,840,8111.0,san-juan,"San Juan, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.76248981,-107.67632890000002,84008111.0,US,USA,840,8111.0,san-juan,"San Juan, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.76248981,-107.67632890000002,84008111.0,US,USA,840,8111.0,san-juan,"San Juan, Colorado, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.76248981,-107.67632890000002,84008111.0,US,USA,840,8111.0,san-juan,"San Juan, Colorado, US",0,0,0,0
 2020-04-25,us,colorado,37.76248981,-107.67632890000002,84008111.0,US,USA,840,8111.0,san-juan,"San Juan, Colorado, US",0,0,0,0
 2020-04-26,us,colorado,37.76248981,-107.67632890000002,84008111.0,US,USA,840,8111.0,san-juan,"San Juan, Colorado, US",1,1,0,0
+2020-04-27,us,colorado,37.76248981,-107.67632890000002,84008111.0,US,USA,840,8111.0,san-juan,"San Juan, Colorado, US",0,-1,0,0
+2020-04-28,us,colorado,37.76248981,-107.67632890000002,84008111.0,US,USA,840,8111.0,san-juan,"San Juan, Colorado, US",0,0,0,0
 2020-01-22,us,colorado,37.82247444,-107.3004345,84008053.0,US,USA,840,8053.0,hinsdale,"Hinsdale, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.82247444,-107.3004345,84008053.0,US,USA,840,8053.0,hinsdale,"Hinsdale, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.82247444,-107.3004345,84008053.0,US,USA,840,8053.0,hinsdale,"Hinsdale, Colorado, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.82247444,-107.3004345,84008053.0,US,USA,840,8053.0,hinsdale,"Hinsdale, Colorado, US",3,0,0,0
 2020-04-25,us,colorado,37.82247444,-107.3004345,84008053.0,US,USA,840,8053.0,hinsdale,"Hinsdale, Colorado, US",3,0,0,0
 2020-04-26,us,colorado,37.82247444,-107.3004345,84008053.0,US,USA,840,8053.0,hinsdale,"Hinsdale, Colorado, US",3,0,0,0
+2020-04-27,us,colorado,37.82247444,-107.3004345,84008053.0,US,USA,840,8053.0,hinsdale,"Hinsdale, Colorado, US",3,0,0,0
+2020-04-28,us,colorado,37.82247444,-107.3004345,84008053.0,US,USA,840,8053.0,hinsdale,"Hinsdale, Colorado, US",3,0,0,0
 2020-01-22,us,colorado,37.9014485,-103.7173385,84008089.0,US,USA,840,8089.0,otero,"Otero, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.9014485,-103.7173385,84008089.0,US,USA,840,8089.0,otero,"Otero, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.9014485,-103.7173385,84008089.0,US,USA,840,8089.0,otero,"Otero, Colorado, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.9014485,-103.7173385,84008089.0,US,USA,840,8089.0,otero,"Otero, Colorado, US",8,1,1,1
 2020-04-25,us,colorado,37.9014485,-103.7173385,84008089.0,US,USA,840,8089.0,otero,"Otero, Colorado, US",8,0,1,0
 2020-04-26,us,colorado,37.9014485,-103.7173385,84008089.0,US,USA,840,8089.0,otero,"Otero, Colorado, US",8,0,1,0
+2020-04-27,us,colorado,37.9014485,-103.7173385,84008089.0,US,USA,840,8089.0,otero,"Otero, Colorado, US",8,0,1,0
+2020-04-28,us,colorado,37.9014485,-103.7173385,84008089.0,US,USA,840,8089.0,otero,"Otero, Colorado, US",8,0,1,0
 2020-01-22,us,colorado,37.95474293,-103.0720195,84008011.0,US,USA,840,8011.0,bent,"Bent, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.95474293,-103.0720195,84008011.0,US,USA,840,8011.0,bent,"Bent, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.95474293,-103.0720195,84008011.0,US,USA,840,8011.0,bent,"Bent, Colorado, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.95474293,-103.0720195,84008011.0,US,USA,840,8011.0,bent,"Bent, Colorado, US",0,0,0,0
 2020-04-25,us,colorado,37.95474293,-103.0720195,84008011.0,US,USA,840,8011.0,bent,"Bent, Colorado, US",0,0,0,0
 2020-04-26,us,colorado,37.95474293,-103.0720195,84008011.0,US,USA,840,8011.0,bent,"Bent, Colorado, US",0,0,0,0
+2020-04-27,us,colorado,37.95474293,-103.0720195,84008011.0,US,USA,840,8011.0,bent,"Bent, Colorado, US",0,0,0,0
+2020-04-28,us,colorado,37.95474293,-103.0720195,84008011.0,US,USA,840,8011.0,bent,"Bent, Colorado, US",0,0,0,0
 2020-01-22,us,colorado,37.95544985,-102.3926052,84008099.0,US,USA,840,8099.0,prowers,"Prowers, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,37.95544985,-102.3926052,84008099.0,US,USA,840,8099.0,prowers,"Prowers, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,37.95544985,-102.3926052,84008099.0,US,USA,840,8099.0,prowers,"Prowers, Colorado, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,37.95544985,-102.3926052,84008099.0,US,USA,840,8099.0,prowers,"Prowers, Colorado, US",1,0,0,0
 2020-04-25,us,colorado,37.95544985,-102.3926052,84008099.0,US,USA,840,8099.0,prowers,"Prowers, Colorado, US",1,0,0,0
 2020-04-26,us,colorado,37.95544985,-102.3926052,84008099.0,US,USA,840,8099.0,prowers,"Prowers, Colorado, US",1,0,0,0
+2020-04-27,us,colorado,37.95544985,-102.3926052,84008099.0,US,USA,840,8099.0,prowers,"Prowers, Colorado, US",1,0,0,0
+2020-04-28,us,colorado,37.95544985,-102.3926052,84008099.0,US,USA,840,8099.0,prowers,"Prowers, Colorado, US",1,0,0,0
 2020-01-22,us,colorado,38.00450883,-108.4020725,84008113.0,US,USA,840,8113.0,san-miguel,"San Miguel, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.00450883,-108.4020725,84008113.0,US,USA,840,8113.0,san-miguel,"San Miguel, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.00450883,-108.4020725,84008113.0,US,USA,840,8113.0,san-miguel,"San Miguel, Colorado, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.00450883,-108.4020725,84008113.0,US,USA,840,8113.0,san-miguel,"San Miguel, Colorado, US",17,0,0,0
 2020-04-25,us,colorado,38.00450883,-108.4020725,84008113.0,US,USA,840,8113.0,san-miguel,"San Miguel, Colorado, US",17,0,0,0
 2020-04-26,us,colorado,38.00450883,-108.4020725,84008113.0,US,USA,840,8113.0,san-miguel,"San Miguel, Colorado, US",19,2,0,0
+2020-04-27,us,colorado,38.00450883,-108.4020725,84008113.0,US,USA,840,8113.0,san-miguel,"San Miguel, Colorado, US",19,0,0,0
+2020-04-28,us,colorado,38.00450883,-108.4020725,84008113.0,US,USA,840,8113.0,san-miguel,"San Miguel, Colorado, US",19,0,0,0
 2020-01-22,us,colorado,38.08054629,-106.282466,84008109.0,US,USA,840,8109.0,saguache,"Saguache, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.08054629,-106.282466,84008109.0,US,USA,840,8109.0,saguache,"Saguache, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.08054629,-106.282466,84008109.0,US,USA,840,8109.0,saguache,"Saguache, Colorado, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.08054629,-106.282466,84008109.0,US,USA,840,8109.0,saguache,"Saguache, Colorado, US",3,0,0,0
 2020-04-25,us,colorado,38.08054629,-106.282466,84008109.0,US,USA,840,8109.0,saguache,"Saguache, Colorado, US",3,0,0,0
 2020-04-26,us,colorado,38.08054629,-106.282466,84008109.0,US,USA,840,8109.0,saguache,"Saguache, Colorado, US",3,0,0,0
+2020-04-27,us,colorado,38.08054629,-106.282466,84008109.0,US,USA,840,8109.0,saguache,"Saguache, Colorado, US",3,0,0,0
+2020-04-28,us,colorado,38.08054629,-106.282466,84008109.0,US,USA,840,8109.0,saguache,"Saguache, Colorado, US",3,0,0,0
 2020-01-22,us,colorado,38.10883162,-105.3683478,84008027.0,US,USA,840,8027.0,custer,"Custer, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.10883162,-105.3683478,84008027.0,US,USA,840,8027.0,custer,"Custer, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.10883162,-105.3683478,84008027.0,US,USA,840,8027.0,custer,"Custer, Colorado, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.10883162,-105.3683478,84008027.0,US,USA,840,8027.0,custer,"Custer, Colorado, US",2,0,0,0
 2020-04-25,us,colorado,38.10883162,-105.3683478,84008027.0,US,USA,840,8027.0,custer,"Custer, Colorado, US",2,0,0,0
 2020-04-26,us,colorado,38.10883162,-105.3683478,84008027.0,US,USA,840,8027.0,custer,"Custer, Colorado, US",2,0,0,0
+2020-04-27,us,colorado,38.10883162,-105.3683478,84008027.0,US,USA,840,8027.0,custer,"Custer, Colorado, US",2,0,0,0
+2020-04-28,us,colorado,38.10883162,-105.3683478,84008027.0,US,USA,840,8027.0,custer,"Custer, Colorado, US",2,0,0,0
 2020-01-22,us,colorado,38.14717457,-107.7675136,84008091.0,US,USA,840,8091.0,ouray,"Ouray, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.14717457,-107.7675136,84008091.0,US,USA,840,8091.0,ouray,"Ouray, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.14717457,-107.7675136,84008091.0,US,USA,840,8091.0,ouray,"Ouray, Colorado, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.14717457,-107.7675136,84008091.0,US,USA,840,8091.0,ouray,"Ouray, Colorado, US",5,0,1,0
 2020-04-25,us,colorado,38.14717457,-107.7675136,84008091.0,US,USA,840,8091.0,ouray,"Ouray, Colorado, US",5,0,1,0
 2020-04-26,us,colorado,38.14717457,-107.7675136,84008091.0,US,USA,840,8091.0,ouray,"Ouray, Colorado, US",5,0,1,0
+2020-04-27,us,colorado,38.14717457,-107.7675136,84008091.0,US,USA,840,8091.0,ouray,"Ouray, Colorado, US",5,0,1,0
+2020-04-28,us,colorado,38.14717457,-107.7675136,84008091.0,US,USA,840,8091.0,ouray,"Ouray, Colorado, US",5,0,1,0
 2020-01-22,us,colorado,38.17359144,-104.5127437,84008101.0,US,USA,840,8101.0,pueblo,"Pueblo, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.17359144,-104.5127437,84008101.0,US,USA,840,8101.0,pueblo,"Pueblo, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.17359144,-104.5127437,84008101.0,US,USA,840,8101.0,pueblo,"Pueblo, Colorado, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.17359144,-104.5127437,84008101.0,US,USA,840,8101.0,pueblo,"Pueblo, Colorado, US",117,9,9,2
 2020-04-25,us,colorado,38.17359144,-104.5127437,84008101.0,US,USA,840,8101.0,pueblo,"Pueblo, Colorado, US",121,4,9,0
 2020-04-26,us,colorado,38.17359144,-104.5127437,84008101.0,US,USA,840,8101.0,pueblo,"Pueblo, Colorado, US",131,10,9,0
+2020-04-27,us,colorado,38.17359144,-104.5127437,84008101.0,US,USA,840,8101.0,pueblo,"Pueblo, Colorado, US",134,3,9,0
+2020-04-28,us,colorado,38.17359144,-104.5127437,84008101.0,US,USA,840,8101.0,pueblo,"Pueblo, Colorado, US",136,2,9,0
 2020-01-22,us,colorado,38.32608609,-103.7844965,84008025.0,US,USA,840,8025.0,crowley,"Crowley, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.32608609,-103.7844965,84008025.0,US,USA,840,8025.0,crowley,"Crowley, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.32608609,-103.7844965,84008025.0,US,USA,840,8025.0,crowley,"Crowley, Colorado, US",0,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.32608609,-103.7844965,84008025.0,US,USA,840,8025.0,crowley,"Crowley, Colorado, US",2,0,1,0
 2020-04-25,us,colorado,38.32608609,-103.7844965,84008025.0,US,USA,840,8025.0,crowley,"Crowley, Colorado, US",2,0,1,0
 2020-04-26,us,colorado,38.32608609,-103.7844965,84008025.0,US,USA,840,8025.0,crowley,"Crowley, Colorado, US",2,0,1,0
+2020-04-27,us,colorado,38.32608609,-103.7844965,84008025.0,US,USA,840,8025.0,crowley,"Crowley, Colorado, US",2,0,1,0
+2020-04-28,us,colorado,38.32608609,-103.7844965,84008025.0,US,USA,840,8025.0,crowley,"Crowley, Colorado, US",2,0,1,0
 2020-01-22,us,colorado,38.40214114,-108.26390220000002,84008085.0,US,USA,840,8085.0,montrose,"Montrose, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.40214114,-108.26390220000002,84008085.0,US,USA,840,8085.0,montrose,"Montrose, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.40214114,-108.26390220000002,84008085.0,US,USA,840,8085.0,montrose,"Montrose, Colorado, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.40214114,-108.26390220000002,84008085.0,US,USA,840,8085.0,montrose,"Montrose, Colorado, US",83,1,9,0
 2020-04-25,us,colorado,38.40214114,-108.26390220000002,84008085.0,US,USA,840,8085.0,montrose,"Montrose, Colorado, US",87,4,9,0
 2020-04-26,us,colorado,38.40214114,-108.26390220000002,84008085.0,US,USA,840,8085.0,montrose,"Montrose, Colorado, US",90,3,9,0
+2020-04-27,us,colorado,38.40214114,-108.26390220000002,84008085.0,US,USA,840,8085.0,montrose,"Montrose, Colorado, US",92,2,10,1
+2020-04-28,us,colorado,38.40214114,-108.26390220000002,84008085.0,US,USA,840,8085.0,montrose,"Montrose, Colorado, US",94,2,11,1
 2020-01-22,us,colorado,38.43260896,-102.7392145,84008061.0,US,USA,840,8061.0,kiowa,"Kiowa, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.43260896,-102.7392145,84008061.0,US,USA,840,8061.0,kiowa,"Kiowa, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.43260896,-102.7392145,84008061.0,US,USA,840,8061.0,kiowa,"Kiowa, Colorado, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.43260896,-102.7392145,84008061.0,US,USA,840,8061.0,kiowa,"Kiowa, Colorado, US",0,0,0,0
 2020-04-25,us,colorado,38.43260896,-102.7392145,84008061.0,US,USA,840,8061.0,kiowa,"Kiowa, Colorado, US",0,0,0,0
 2020-04-26,us,colorado,38.43260896,-102.7392145,84008061.0,US,USA,840,8061.0,kiowa,"Kiowa, Colorado, US",0,0,0,0
+2020-04-27,us,colorado,38.43260896,-102.7392145,84008061.0,US,USA,840,8061.0,kiowa,"Kiowa, Colorado, US",0,0,0,0
+2020-04-28,us,colorado,38.43260896,-102.7392145,84008061.0,US,USA,840,8061.0,kiowa,"Kiowa, Colorado, US",0,0,0,0
 2020-01-22,us,colorado,38.47362326,-105.4399667,84008043.0,US,USA,840,8043.0,fremont,"Fremont, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.47362326,-105.4399667,84008043.0,US,USA,840,8043.0,fremont,"Fremont, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.47362326,-105.4399667,84008043.0,US,USA,840,8043.0,fremont,"Fremont, Colorado, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.47362326,-105.4399667,84008043.0,US,USA,840,8043.0,fremont,"Fremont, Colorado, US",19,0,0,0
 2020-04-25,us,colorado,38.47362326,-105.4399667,84008043.0,US,USA,840,8043.0,fremont,"Fremont, Colorado, US",20,1,0,0
 2020-04-26,us,colorado,38.47362326,-105.4399667,84008043.0,US,USA,840,8043.0,fremont,"Fremont, Colorado, US",22,2,0,0
+2020-04-27,us,colorado,38.47362326,-105.4399667,84008043.0,US,USA,840,8043.0,fremont,"Fremont, Colorado, US",22,0,0,0
+2020-04-28,us,colorado,38.47362326,-105.4399667,84008043.0,US,USA,840,8043.0,fremont,"Fremont, Colorado, US",22,0,0,0
 2020-01-22,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",123,2,4,0
 2020-04-25,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",151,28,4,0
 2020-04-26,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",158,7,4,0
+2020-04-27,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",158,0,4,0
+2020-04-28,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",161,3,4,0
 2020-01-22,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",66,11,13,8
 2020-04-25,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",66,0,13,0
 2020-04-26,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",66,0,13,0
+2020-04-27,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",66,0,12,-1
+2020-04-28,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",66,0,13,1
 2020-01-22,us,colorado,38.82777431,-102.6032558,84008017.0,US,USA,840,8017.0,cheyenne,"Cheyenne, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.82777431,-102.6032558,84008017.0,US,USA,840,8017.0,cheyenne,"Cheyenne, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.82777431,-102.6032558,84008017.0,US,USA,840,8017.0,cheyenne,"Cheyenne, Colorado, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.82777431,-102.6032558,84008017.0,US,USA,840,8017.0,cheyenne,"Cheyenne, Colorado, US",0,0,0,0
 2020-04-25,us,colorado,38.82777431,-102.6032558,84008017.0,US,USA,840,8017.0,cheyenne,"Cheyenne, Colorado, US",0,0,0,0
 2020-04-26,us,colorado,38.82777431,-102.6032558,84008017.0,US,USA,840,8017.0,cheyenne,"Cheyenne, Colorado, US",0,0,0,0
+2020-04-27,us,colorado,38.82777431,-102.6032558,84008017.0,US,USA,840,8017.0,cheyenne,"Cheyenne, Colorado, US",0,0,0,0
+2020-04-28,us,colorado,38.82777431,-102.6032558,84008017.0,US,USA,840,8017.0,cheyenne,"Cheyenne, Colorado, US",0,0,0,0
 2020-01-22,us,colorado,38.83240149,-104.5251411,84008041.0,US,USA,840,8041.0,el-paso,"El Paso, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.83240149,-104.5251411,84008041.0,US,USA,840,8041.0,el-paso,"El Paso, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.83240149,-104.5251411,84008041.0,US,USA,840,8041.0,el-paso,"El Paso, Colorado, US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.83240149,-104.5251411,84008041.0,US,USA,840,8041.0,el-paso,"El Paso, Colorado, US",853,55,72,17
 2020-04-25,us,colorado,38.83240149,-104.5251411,84008041.0,US,USA,840,8041.0,el-paso,"El Paso, Colorado, US",862,9,72,0
 2020-04-26,us,colorado,38.83240149,-104.5251411,84008041.0,US,USA,840,8041.0,el-paso,"El Paso, Colorado, US",867,5,72,0
+2020-04-27,us,colorado,38.83240149,-104.5251411,84008041.0,US,USA,840,8041.0,el-paso,"El Paso, Colorado, US",879,12,68,-4
+2020-04-28,us,colorado,38.83240149,-104.5251411,84008041.0,US,USA,840,8041.0,el-paso,"El Paso, Colorado, US",884,5,69,1
 2020-01-22,us,colorado,38.86246243,-107.8631342,84008029.0,US,USA,840,8029.0,delta,"Delta, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.86246243,-107.8631342,84008029.0,US,USA,840,8029.0,delta,"Delta, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.86246243,-107.8631342,84008029.0,US,USA,840,8029.0,delta,"Delta, Colorado, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.86246243,-107.8631342,84008029.0,US,USA,840,8029.0,delta,"Delta, Colorado, US",26,1,1,0
 2020-04-25,us,colorado,38.86246243,-107.8631342,84008029.0,US,USA,840,8029.0,delta,"Delta, Colorado, US",26,0,1,0
 2020-04-26,us,colorado,38.86246243,-107.8631342,84008029.0,US,USA,840,8029.0,delta,"Delta, Colorado, US",27,1,1,0
+2020-04-27,us,colorado,38.86246243,-107.8631342,84008029.0,US,USA,840,8029.0,delta,"Delta, Colorado, US",33,6,1,0
+2020-04-28,us,colorado,38.86246243,-107.8631342,84008029.0,US,USA,840,8029.0,delta,"Delta, Colorado, US",34,1,1,0
 2020-01-22,us,colorado,38.88133511,-105.1614893,84008119.0,US,USA,840,8119.0,teller,"Teller, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.88133511,-105.1614893,84008119.0,US,USA,840,8119.0,teller,"Teller, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.88133511,-105.1614893,84008119.0,US,USA,840,8119.0,teller,"Teller, Colorado, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.88133511,-105.1614893,84008119.0,US,USA,840,8119.0,teller,"Teller, Colorado, US",26,1,2,0
 2020-04-25,us,colorado,38.88133511,-105.1614893,84008119.0,US,USA,840,8119.0,teller,"Teller, Colorado, US",27,1,2,0
 2020-04-26,us,colorado,38.88133511,-105.1614893,84008119.0,US,USA,840,8119.0,teller,"Teller, Colorado, US",27,0,2,0
+2020-04-27,us,colorado,38.88133511,-105.1614893,84008119.0,US,USA,840,8119.0,teller,"Teller, Colorado, US",27,0,2,0
+2020-04-28,us,colorado,38.88133511,-105.1614893,84008119.0,US,USA,840,8119.0,teller,"Teller, Colorado, US",28,1,2,0
 2020-01-22,us,colorado,38.98749519,-103.5136649,84008073.0,US,USA,840,8073.0,lincoln,"Lincoln, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,38.98749519,-103.5136649,84008073.0,US,USA,840,8073.0,lincoln,"Lincoln, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,38.98749519,-103.5136649,84008073.0,US,USA,840,8073.0,lincoln,"Lincoln, Colorado, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.98749519,-103.5136649,84008073.0,US,USA,840,8073.0,lincoln,"Lincoln, Colorado, US",3,0,0,0
 2020-04-25,us,colorado,38.98749519,-103.5136649,84008073.0,US,USA,840,8073.0,lincoln,"Lincoln, Colorado, US",4,1,0,0
 2020-04-26,us,colorado,38.98749519,-103.5136649,84008073.0,US,USA,840,8073.0,lincoln,"Lincoln, Colorado, US",4,0,0,0
+2020-04-27,us,colorado,38.98749519,-103.5136649,84008073.0,US,USA,840,8073.0,lincoln,"Lincoln, Colorado, US",3,-1,0,0
+2020-04-28,us,colorado,38.98749519,-103.5136649,84008073.0,US,USA,840,8073.0,lincoln,"Lincoln, Colorado, US",3,0,0,0
 2020-01-22,us,colorado,39.01787888,-108.469799,84008077.0,US,USA,840,8077.0,mesa,"Mesa, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.01787888,-108.469799,84008077.0,US,USA,840,8077.0,mesa,"Mesa, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.01787888,-108.469799,84008077.0,US,USA,840,8077.0,mesa,"Mesa, Colorado, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.01787888,-108.469799,84008077.0,US,USA,840,8077.0,mesa,"Mesa, Colorado, US",37,0,0,0
 2020-04-25,us,colorado,39.01787888,-108.469799,84008077.0,US,USA,840,8077.0,mesa,"Mesa, Colorado, US",38,1,0,0
 2020-04-26,us,colorado,39.01787888,-108.469799,84008077.0,US,USA,840,8077.0,mesa,"Mesa, Colorado, US",38,0,0,0
+2020-04-27,us,colorado,39.01787888,-108.469799,84008077.0,US,USA,840,8077.0,mesa,"Mesa, Colorado, US",40,2,0,0
+2020-04-28,us,colorado,39.01787888,-108.469799,84008077.0,US,USA,840,8077.0,mesa,"Mesa, Colorado, US",42,2,0,0
 2020-01-22,us,colorado,39.120926,-105.7182065,84008093.0,US,USA,840,8093.0,park,"Park, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.120926,-105.7182065,84008093.0,US,USA,840,8093.0,park,"Park, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.120926,-105.7182065,84008093.0,US,USA,840,8093.0,park,"Park, Colorado, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.120926,-105.7182065,84008093.0,US,USA,840,8093.0,park,"Park, Colorado, US",7,1,0,0
 2020-04-25,us,colorado,39.120926,-105.7182065,84008093.0,US,USA,840,8093.0,park,"Park, Colorado, US",7,0,0,0
 2020-04-26,us,colorado,39.120926,-105.7182065,84008093.0,US,USA,840,8093.0,park,"Park, Colorado, US",7,0,0,0
+2020-04-27,us,colorado,39.120926,-105.7182065,84008093.0,US,USA,840,8093.0,park,"Park, Colorado, US",7,0,0,0
+2020-04-28,us,colorado,39.120926,-105.7182065,84008093.0,US,USA,840,8093.0,park,"Park, Colorado, US",11,4,0,0
 2020-01-22,us,colorado,39.20278823,-106.3555697,84008065.0,US,USA,840,8065.0,lake,"Lake, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.20278823,-106.3555697,84008065.0,US,USA,840,8065.0,lake,"Lake, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.20278823,-106.3555697,84008065.0,US,USA,840,8065.0,lake,"Lake, Colorado, US",0,0,0,0
@@ -3647,6 +3721,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.20278823,-106.3555697,84008065.0,US,USA,840,8065.0,lake,"Lake, Colorado, US",12,2,0,0
 2020-04-25,us,colorado,39.20278823,-106.3555697,84008065.0,US,USA,840,8065.0,lake,"Lake, Colorado, US",16,4,0,0
 2020-04-26,us,colorado,39.20278823,-106.3555697,84008065.0,US,USA,840,8065.0,lake,"Lake, Colorado, US",17,1,0,0
+2020-04-27,us,colorado,39.20278823,-106.3555697,84008065.0,US,USA,840,8065.0,lake,"Lake, Colorado, US",17,0,0,0
+2020-04-28,us,colorado,39.20278823,-106.3555697,84008065.0,US,USA,840,8065.0,lake,"Lake, Colorado, US",17,0,0,0
 2020-01-22,us,colorado,39.21720112,-106.9310027,84008097.0,US,USA,840,8097.0,pitkin,"Pitkin, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.21720112,-106.9310027,84008097.0,US,USA,840,8097.0,pitkin,"Pitkin, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.21720112,-106.9310027,84008097.0,US,USA,840,8097.0,pitkin,"Pitkin, Colorado, US",0,0,0,0
@@ -3743,6 +3819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.21720112,-106.9310027,84008097.0,US,USA,840,8097.0,pitkin,"Pitkin, Colorado, US",59,2,3,1
 2020-04-25,us,colorado,39.21720112,-106.9310027,84008097.0,US,USA,840,8097.0,pitkin,"Pitkin, Colorado, US",59,0,3,0
 2020-04-26,us,colorado,39.21720112,-106.9310027,84008097.0,US,USA,840,8097.0,pitkin,"Pitkin, Colorado, US",61,2,3,0
+2020-04-27,us,colorado,39.21720112,-106.9310027,84008097.0,US,USA,840,8097.0,pitkin,"Pitkin, Colorado, US",61,0,2,-1
+2020-04-28,us,colorado,39.21720112,-106.9310027,84008097.0,US,USA,840,8097.0,pitkin,"Pitkin, Colorado, US",61,0,2,0
 2020-01-22,us,colorado,39.28656773,-104.1358721,84008039.0,US,USA,840,8039.0,elbert,"Elbert, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.28656773,-104.1358721,84008039.0,US,USA,840,8039.0,elbert,"Elbert, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.28656773,-104.1358721,84008039.0,US,USA,840,8039.0,elbert,"Elbert, Colorado, US",0,0,0,0
@@ -3839,6 +3917,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.28656773,-104.1358721,84008039.0,US,USA,840,8039.0,elbert,"Elbert, Colorado, US",27,1,1,0
 2020-04-25,us,colorado,39.28656773,-104.1358721,84008039.0,US,USA,840,8039.0,elbert,"Elbert, Colorado, US",27,0,1,0
 2020-04-26,us,colorado,39.28656773,-104.1358721,84008039.0,US,USA,840,8039.0,elbert,"Elbert, Colorado, US",27,0,1,0
+2020-04-27,us,colorado,39.28656773,-104.1358721,84008039.0,US,USA,840,8039.0,elbert,"Elbert, Colorado, US",27,0,1,0
+2020-04-28,us,colorado,39.28656773,-104.1358721,84008039.0,US,USA,840,8039.0,elbert,"Elbert, Colorado, US",27,0,1,0
 2020-01-22,us,colorado,39.30497777,-102.6022199,84008063.0,US,USA,840,8063.0,kit-carson,"Kit Carson, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.30497777,-102.6022199,84008063.0,US,USA,840,8063.0,kit-carson,"Kit Carson, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.30497777,-102.6022199,84008063.0,US,USA,840,8063.0,kit-carson,"Kit Carson, Colorado, US",0,0,0,0
@@ -3935,6 +4015,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.30497777,-102.6022199,84008063.0,US,USA,840,8063.0,kit-carson,"Kit Carson, Colorado, US",19,1,2,1
 2020-04-25,us,colorado,39.30497777,-102.6022199,84008063.0,US,USA,840,8063.0,kit-carson,"Kit Carson, Colorado, US",19,0,2,0
 2020-04-26,us,colorado,39.30497777,-102.6022199,84008063.0,US,USA,840,8063.0,kit-carson,"Kit Carson, Colorado, US",20,1,2,0
+2020-04-27,us,colorado,39.30497777,-102.6022199,84008063.0,US,USA,840,8063.0,kit-carson,"Kit Carson, Colorado, US",20,0,2,0
+2020-04-28,us,colorado,39.30497777,-102.6022199,84008063.0,US,USA,840,8063.0,kit-carson,"Kit Carson, Colorado, US",20,0,2,0
 2020-01-22,us,colorado,39.33133796,-104.930001,84008035.0,US,USA,840,8035.0,douglas,"Douglas, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.33133796,-104.930001,84008035.0,US,USA,840,8035.0,douglas,"Douglas, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.33133796,-104.930001,84008035.0,US,USA,840,8035.0,douglas,"Douglas, Colorado, US",0,0,0,0
@@ -4031,6 +4113,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.33133796,-104.930001,84008035.0,US,USA,840,8035.0,douglas,"Douglas, Colorado, US",414,15,19,1
 2020-04-25,us,colorado,39.33133796,-104.930001,84008035.0,US,USA,840,8035.0,douglas,"Douglas, Colorado, US",425,11,19,0
 2020-04-26,us,colorado,39.33133796,-104.930001,84008035.0,US,USA,840,8035.0,douglas,"Douglas, Colorado, US",439,14,19,0
+2020-04-27,us,colorado,39.33133796,-104.930001,84008035.0,US,USA,840,8035.0,douglas,"Douglas, Colorado, US",449,10,19,0
+2020-04-28,us,colorado,39.33133796,-104.930001,84008035.0,US,USA,840,8035.0,douglas,"Douglas, Colorado, US",453,4,21,2
 2020-01-22,us,colorado,39.58635604,-105.2517692,84008059.0,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.58635604,-105.2517692,84008059.0,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.58635604,-105.2517692,84008059.0,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",0,0,0,0
@@ -4127,6 +4211,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.58635604,-105.2517692,84008059.0,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",1157,82,61,8
 2020-04-25,us,colorado,39.58635604,-105.2517692,84008059.0,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",1236,79,61,0
 2020-04-26,us,colorado,39.58635604,-105.2517692,84008059.0,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",1265,29,61,0
+2020-04-27,us,colorado,39.58635604,-105.2517692,84008059.0,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",1276,11,65,4
+2020-04-28,us,colorado,39.58635604,-105.2517692,84008059.0,US,USA,840,8059.0,jefferson,"Jefferson, Colorado, US",1298,22,68,3
 2020-01-22,us,colorado,39.59921777,-107.902708,84008045.0,US,USA,840,8045.0,garfield,"Garfield, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.59921777,-107.902708,84008045.0,US,USA,840,8045.0,garfield,"Garfield, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.59921777,-107.902708,84008045.0,US,USA,840,8045.0,garfield,"Garfield, Colorado, US",0,0,0,0
@@ -4223,6 +4309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.59921777,-107.902708,84008045.0,US,USA,840,8045.0,garfield,"Garfield, Colorado, US",81,7,2,0
 2020-04-25,us,colorado,39.59921777,-107.902708,84008045.0,US,USA,840,8045.0,garfield,"Garfield, Colorado, US",83,2,2,0
 2020-04-26,us,colorado,39.59921777,-107.902708,84008045.0,US,USA,840,8045.0,garfield,"Garfield, Colorado, US",87,4,2,0
+2020-04-27,us,colorado,39.59921777,-107.902708,84008045.0,US,USA,840,8045.0,garfield,"Garfield, Colorado, US",88,1,2,0
+2020-04-28,us,colorado,39.59921777,-107.902708,84008045.0,US,USA,840,8045.0,garfield,"Garfield, Colorado, US",89,1,2,0
 2020-01-22,us,colorado,39.62754308,-106.6933637,84008037.0,US,USA,840,8037.0,eagle,"Eagle, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.62754308,-106.6933637,84008037.0,US,USA,840,8037.0,eagle,"Eagle, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.62754308,-106.6933637,84008037.0,US,USA,840,8037.0,eagle,"Eagle, Colorado, US",0,0,0,0
@@ -4319,6 +4407,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.62754308,-106.6933637,84008037.0,US,USA,840,8037.0,eagle,"Eagle, Colorado, US",506,17,7,0
 2020-04-25,us,colorado,39.62754308,-106.6933637,84008037.0,US,USA,840,8037.0,eagle,"Eagle, Colorado, US",512,6,7,0
 2020-04-26,us,colorado,39.62754308,-106.6933637,84008037.0,US,USA,840,8037.0,eagle,"Eagle, Colorado, US",533,21,7,0
+2020-04-27,us,colorado,39.62754308,-106.6933637,84008037.0,US,USA,840,8037.0,eagle,"Eagle, Colorado, US",535,2,7,0
+2020-04-28,us,colorado,39.62754308,-106.6933637,84008037.0,US,USA,840,8037.0,eagle,"Eagle, Colorado, US",540,5,7,0
 2020-01-22,us,colorado,39.63803232,-106.1150762,84008117.0,US,USA,840,8117.0,summit,"Summit, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.63803232,-106.1150762,84008117.0,US,USA,840,8117.0,summit,"Summit, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.63803232,-106.1150762,84008117.0,US,USA,840,8117.0,summit,"Summit, Colorado, US",0,0,0,0
@@ -4415,6 +4505,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.63803232,-106.1150762,84008117.0,US,USA,840,8117.0,summit,"Summit, Colorado, US",97,-8,1,0
 2020-04-25,us,colorado,39.63803232,-106.1150762,84008117.0,US,USA,840,8117.0,summit,"Summit, Colorado, US",97,0,1,0
 2020-04-26,us,colorado,39.63803232,-106.1150762,84008117.0,US,USA,840,8117.0,summit,"Summit, Colorado, US",105,8,1,0
+2020-04-27,us,colorado,39.63803232,-106.1150762,84008117.0,US,USA,840,8117.0,summit,"Summit, Colorado, US",106,1,1,0
+2020-04-28,us,colorado,39.63803232,-106.1150762,84008117.0,US,USA,840,8117.0,summit,"Summit, Colorado, US",119,13,1,0
 2020-01-22,us,colorado,39.64977461,-104.3353617,84008005.0,US,USA,840,8005.0,arapahoe,"Arapahoe, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.64977461,-104.3353617,84008005.0,US,USA,840,8005.0,arapahoe,"Arapahoe, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.64977461,-104.3353617,84008005.0,US,USA,840,8005.0,arapahoe,"Arapahoe, Colorado, US",0,0,0,0
@@ -4511,6 +4603,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.64977461,-104.3353617,84008005.0,US,USA,840,8005.0,arapahoe,"Arapahoe, Colorado, US",2030,206,125,24
 2020-04-25,us,colorado,39.64977461,-104.3353617,84008005.0,US,USA,840,8005.0,arapahoe,"Arapahoe, Colorado, US",2083,53,127,2
 2020-04-26,us,colorado,39.64977461,-104.3353617,84008005.0,US,USA,840,8005.0,arapahoe,"Arapahoe, Colorado, US",2160,77,127,0
+2020-04-27,us,colorado,39.64977461,-104.3353617,84008005.0,US,USA,840,8005.0,arapahoe,"Arapahoe, Colorado, US",2252,92,130,3
+2020-04-28,us,colorado,39.64977461,-104.3353617,84008005.0,US,USA,840,8005.0,arapahoe,"Arapahoe, Colorado, US",2312,60,136,6
 2020-01-22,us,colorado,39.68864463,-105.6463118,84008019.0,US,USA,840,8019.0,clear-creek,"Clear Creek, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.68864463,-105.6463118,84008019.0,US,USA,840,8019.0,clear-creek,"Clear Creek, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.68864463,-105.6463118,84008019.0,US,USA,840,8019.0,clear-creek,"Clear Creek, Colorado, US",0,0,0,0
@@ -4607,6 +4701,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.68864463,-105.6463118,84008019.0,US,USA,840,8019.0,clear-creek,"Clear Creek, Colorado, US",13,1,1,0
 2020-04-25,us,colorado,39.68864463,-105.6463118,84008019.0,US,USA,840,8019.0,clear-creek,"Clear Creek, Colorado, US",13,0,1,0
 2020-04-26,us,colorado,39.68864463,-105.6463118,84008019.0,US,USA,840,8019.0,clear-creek,"Clear Creek, Colorado, US",13,0,1,0
+2020-04-27,us,colorado,39.68864463,-105.6463118,84008019.0,US,USA,840,8019.0,clear-creek,"Clear Creek, Colorado, US",13,0,1,0
+2020-04-28,us,colorado,39.68864463,-105.6463118,84008019.0,US,USA,840,8019.0,clear-creek,"Clear Creek, Colorado, US",13,0,1,0
 2020-01-22,us,colorado,39.76018276,-104.8725695,84008031.0,US,USA,840,8031.0,denver,"Denver, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.76018276,-104.8725695,84008031.0,US,USA,840,8031.0,denver,"Denver, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.76018276,-104.8725695,84008031.0,US,USA,840,8031.0,denver,"Denver, Colorado, US",0,0,0,0
@@ -4703,6 +4799,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.76018276,-104.8725695,84008031.0,US,USA,840,8031.0,denver,"Denver, Colorado, US",2385,213,128,30
 2020-04-25,us,colorado,39.76018276,-104.8725695,84008031.0,US,USA,840,8031.0,denver,"Denver, Colorado, US",2487,102,132,4
 2020-04-26,us,colorado,39.76018276,-104.8725695,84008031.0,US,USA,840,8031.0,denver,"Denver, Colorado, US",2583,96,132,0
+2020-04-27,us,colorado,39.76018276,-104.8725695,84008031.0,US,USA,840,8031.0,denver,"Denver, Colorado, US",2682,99,135,3
+2020-04-28,us,colorado,39.76018276,-104.8725695,84008031.0,US,USA,840,8031.0,denver,"Denver, Colorado, US",2791,109,145,10
 2020-01-22,us,colorado,39.85646523,-105.5252597,84008047.0,US,USA,840,8047.0,gilpin,"Gilpin, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.85646523,-105.5252597,84008047.0,US,USA,840,8047.0,gilpin,"Gilpin, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.85646523,-105.5252597,84008047.0,US,USA,840,8047.0,gilpin,"Gilpin, Colorado, US",0,0,0,0
@@ -4799,6 +4897,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.85646523,-105.5252597,84008047.0,US,USA,840,8047.0,gilpin,"Gilpin, Colorado, US",1,0,0,0
 2020-04-25,us,colorado,39.85646523,-105.5252597,84008047.0,US,USA,840,8047.0,gilpin,"Gilpin, Colorado, US",1,0,0,0
 2020-04-26,us,colorado,39.85646523,-105.5252597,84008047.0,US,USA,840,8047.0,gilpin,"Gilpin, Colorado, US",1,0,0,0
+2020-04-27,us,colorado,39.85646523,-105.5252597,84008047.0,US,USA,840,8047.0,gilpin,"Gilpin, Colorado, US",1,0,0,0
+2020-04-28,us,colorado,39.85646523,-105.5252597,84008047.0,US,USA,840,8047.0,gilpin,"Gilpin, Colorado, US",1,0,0,0
 2020-01-22,us,colorado,39.87432092,-104.3362578,84008001.0,US,USA,840,8001.0,adams,"Adams, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.87432092,-104.3362578,84008001.0,US,USA,840,8001.0,adams,"Adams, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.87432092,-104.3362578,84008001.0,US,USA,840,8001.0,adams,"Adams, Colorado, US",0,0,0,0
@@ -4895,6 +4995,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.87432092,-104.3362578,84008001.0,US,USA,840,8001.0,adams,"Adams, Colorado, US",1252,170,57,7
 2020-04-25,us,colorado,39.87432092,-104.3362578,84008001.0,US,USA,840,8001.0,adams,"Adams, Colorado, US",1302,50,57,0
 2020-04-26,us,colorado,39.87432092,-104.3362578,84008001.0,US,USA,840,8001.0,adams,"Adams, Colorado, US",1348,46,58,1
+2020-04-27,us,colorado,39.87432092,-104.3362578,84008001.0,US,USA,840,8001.0,adams,"Adams, Colorado, US",1391,43,60,2
+2020-04-28,us,colorado,39.87432092,-104.3362578,84008001.0,US,USA,840,8001.0,adams,"Adams, Colorado, US",1430,39,61,1
 2020-01-22,us,colorado,39.95998787,-105.0566324,84008014.0,US,USA,840,8014.0,broomfield,"Broomfield, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.95998787,-105.0566324,84008014.0,US,USA,840,8014.0,broomfield,"Broomfield, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.95998787,-105.0566324,84008014.0,US,USA,840,8014.0,broomfield,"Broomfield, Colorado, US",0,0,0,0
@@ -4991,6 +5093,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.95998787,-105.0566324,84008014.0,US,USA,840,8014.0,broomfield,"Broomfield, Colorado, US",126,13,5,1
 2020-04-25,us,colorado,39.95998787,-105.0566324,84008014.0,US,USA,840,8014.0,broomfield,"Broomfield, Colorado, US",135,9,5,0
 2020-04-26,us,colorado,39.95998787,-105.0566324,84008014.0,US,USA,840,8014.0,broomfield,"Broomfield, Colorado, US",139,4,5,0
+2020-04-27,us,colorado,39.95998787,-105.0566324,84008014.0,US,USA,840,8014.0,broomfield,"Broomfield, Colorado, US",141,2,5,0
+2020-04-28,us,colorado,39.95998787,-105.0566324,84008014.0,US,USA,840,8014.0,broomfield,"Broomfield, Colorado, US",145,4,9,4
 2020-01-22,us,colorado,39.97015535,-103.202587,84008121.0,US,USA,840,8121.0,washington,"Washington, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.97015535,-103.202587,84008121.0,US,USA,840,8121.0,washington,"Washington, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.97015535,-103.202587,84008121.0,US,USA,840,8121.0,washington,"Washington, Colorado, US",0,0,0,0
@@ -5087,6 +5191,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.97015535,-103.202587,84008121.0,US,USA,840,8121.0,washington,"Washington, Colorado, US",6,0,0,0
 2020-04-25,us,colorado,39.97015535,-103.202587,84008121.0,US,USA,840,8121.0,washington,"Washington, Colorado, US",6,0,0,0
 2020-04-26,us,colorado,39.97015535,-103.202587,84008121.0,US,USA,840,8121.0,washington,"Washington, Colorado, US",6,0,0,0
+2020-04-27,us,colorado,39.97015535,-103.202587,84008121.0,US,USA,840,8121.0,washington,"Washington, Colorado, US",6,0,0,0
+2020-04-28,us,colorado,39.97015535,-103.202587,84008121.0,US,USA,840,8121.0,washington,"Washington, Colorado, US",7,1,0,0
 2020-01-22,us,colorado,39.97913541,-108.2179009,84008103.0,US,USA,840,8103.0,rio-blanco,"Rio Blanco, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,39.97913541,-108.2179009,84008103.0,US,USA,840,8103.0,rio-blanco,"Rio Blanco, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,39.97913541,-108.2179009,84008103.0,US,USA,840,8103.0,rio-blanco,"Rio Blanco, Colorado, US",0,0,0,0
@@ -5183,6 +5289,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,39.97913541,-108.2179009,84008103.0,US,USA,840,8103.0,rio-blanco,"Rio Blanco, Colorado, US",1,0,0,0
 2020-04-25,us,colorado,39.97913541,-108.2179009,84008103.0,US,USA,840,8103.0,rio-blanco,"Rio Blanco, Colorado, US",1,0,0,0
 2020-04-26,us,colorado,39.97913541,-108.2179009,84008103.0,US,USA,840,8103.0,rio-blanco,"Rio Blanco, Colorado, US",1,0,0,0
+2020-04-27,us,colorado,39.97913541,-108.2179009,84008103.0,US,USA,840,8103.0,rio-blanco,"Rio Blanco, Colorado, US",1,0,0,0
+2020-04-28,us,colorado,39.97913541,-108.2179009,84008103.0,US,USA,840,8103.0,rio-blanco,"Rio Blanco, Colorado, US",1,0,0,0
 2020-01-22,us,colorado,40.00346839,-102.4258673,84008125.0,US,USA,840,8125.0,yuma,"Yuma, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.00346839,-102.4258673,84008125.0,US,USA,840,8125.0,yuma,"Yuma, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.00346839,-102.4258673,84008125.0,US,USA,840,8125.0,yuma,"Yuma, Colorado, US",0,0,0,0
@@ -5279,6 +5387,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.00346839,-102.4258673,84008125.0,US,USA,840,8125.0,yuma,"Yuma, Colorado, US",6,1,0,0
 2020-04-25,us,colorado,40.00346839,-102.4258673,84008125.0,US,USA,840,8125.0,yuma,"Yuma, Colorado, US",6,0,0,0
 2020-04-26,us,colorado,40.00346839,-102.4258673,84008125.0,US,USA,840,8125.0,yuma,"Yuma, Colorado, US",6,0,0,0
+2020-04-27,us,colorado,40.00346839,-102.4258673,84008125.0,US,USA,840,8125.0,yuma,"Yuma, Colorado, US",6,0,0,0
+2020-04-28,us,colorado,40.00346839,-102.4258673,84008125.0,US,USA,840,8125.0,yuma,"Yuma, Colorado, US",7,1,0,0
 2020-01-22,us,colorado,40.09313619,-105.3546767,84008013.0,US,USA,840,8013.0,boulder,"Boulder, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.09313619,-105.3546767,84008013.0,US,USA,840,8013.0,boulder,"Boulder, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.09313619,-105.3546767,84008013.0,US,USA,840,8013.0,boulder,"Boulder, Colorado, US",0,0,0,0
@@ -5375,6 +5485,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.09313619,-105.3546767,84008013.0,US,USA,840,8013.0,boulder,"Boulder, Colorado, US",470,44,28,3
 2020-04-25,us,colorado,40.09313619,-105.3546767,84008013.0,US,USA,840,8013.0,boulder,"Boulder, Colorado, US",497,27,29,1
 2020-04-26,us,colorado,40.09313619,-105.3546767,84008013.0,US,USA,840,8013.0,boulder,"Boulder, Colorado, US",500,3,30,1
+2020-04-27,us,colorado,40.09313619,-105.3546767,84008013.0,US,USA,840,8013.0,boulder,"Boulder, Colorado, US",515,15,33,3
+2020-04-28,us,colorado,40.09313619,-105.3546767,84008013.0,US,USA,840,8013.0,boulder,"Boulder, Colorado, US",543,28,33,0
 2020-01-22,us,colorado,40.10603347,-106.1178042,84008049.0,US,USA,840,8049.0,grand,"Grand, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.10603347,-106.1178042,84008049.0,US,USA,840,8049.0,grand,"Grand, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.10603347,-106.1178042,84008049.0,US,USA,840,8049.0,grand,"Grand, Colorado, US",0,0,0,0
@@ -5471,6 +5583,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.10603347,-106.1178042,84008049.0,US,USA,840,8049.0,grand,"Grand, Colorado, US",5,0,0,0
 2020-04-25,us,colorado,40.10603347,-106.1178042,84008049.0,US,USA,840,8049.0,grand,"Grand, Colorado, US",5,0,0,0
 2020-04-26,us,colorado,40.10603347,-106.1178042,84008049.0,US,USA,840,8049.0,grand,"Grand, Colorado, US",5,0,0,0
+2020-04-27,us,colorado,40.10603347,-106.1178042,84008049.0,US,USA,840,8049.0,grand,"Grand, Colorado, US",5,0,0,0
+2020-04-28,us,colorado,40.10603347,-106.1178042,84008049.0,US,USA,840,8049.0,grand,"Grand, Colorado, US",5,0,0,0
 2020-01-22,us,colorado,40.26279810000001,-103.8093302,84008087.0,US,USA,840,8087.0,morgan,"Morgan, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.26279810000001,-103.8093302,84008087.0,US,USA,840,8087.0,morgan,"Morgan, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.26279810000001,-103.8093302,84008087.0,US,USA,840,8087.0,morgan,"Morgan, Colorado, US",0,0,0,0
@@ -5567,6 +5681,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.26279810000001,-103.8093302,84008087.0,US,USA,840,8087.0,morgan,"Morgan, Colorado, US",232,18,8,0
 2020-04-25,us,colorado,40.26279810000001,-103.8093302,84008087.0,US,USA,840,8087.0,morgan,"Morgan, Colorado, US",249,17,11,3
 2020-04-26,us,colorado,40.26279810000001,-103.8093302,84008087.0,US,USA,840,8087.0,morgan,"Morgan, Colorado, US",259,10,13,2
+2020-04-27,us,colorado,40.26279810000001,-103.8093302,84008087.0,US,USA,840,8087.0,morgan,"Morgan, Colorado, US",298,39,15,2
+2020-04-28,us,colorado,40.26279810000001,-103.8093302,84008087.0,US,USA,840,8087.0,morgan,"Morgan, Colorado, US",344,46,16,1
 2020-01-22,us,colorado,40.48596505,-106.9905548,84008107.0,US,USA,840,8107.0,routt,"Routt, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.48596505,-106.9905548,84008107.0,US,USA,840,8107.0,routt,"Routt, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.48596505,-106.9905548,84008107.0,US,USA,840,8107.0,routt,"Routt, Colorado, US",0,0,0,0
@@ -5663,6 +5779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.48596505,-106.9905548,84008107.0,US,USA,840,8107.0,routt,"Routt, Colorado, US",52,0,4,2
 2020-04-25,us,colorado,40.48596505,-106.9905548,84008107.0,US,USA,840,8107.0,routt,"Routt, Colorado, US",52,0,4,0
 2020-04-26,us,colorado,40.48596505,-106.9905548,84008107.0,US,USA,840,8107.0,routt,"Routt, Colorado, US",54,2,4,0
+2020-04-27,us,colorado,40.48596505,-106.9905548,84008107.0,US,USA,840,8107.0,routt,"Routt, Colorado, US",54,0,4,0
+2020-04-28,us,colorado,40.48596505,-106.9905548,84008107.0,US,USA,840,8107.0,routt,"Routt, Colorado, US",55,1,4,0
 2020-01-22,us,colorado,40.55499405,-104.3929621,84008123.0,US,USA,840,8123.0,weld,"Weld, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.55499405,-104.3929621,84008123.0,US,USA,840,8123.0,weld,"Weld, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.55499405,-104.3929621,84008123.0,US,USA,840,8123.0,weld,"Weld, Colorado, US",0,0,0,0
@@ -5759,6 +5877,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.55499405,-104.3929621,84008123.0,US,USA,840,8123.0,weld,"Weld, Colorado, US",1353,90,82,12
 2020-04-25,us,colorado,40.55499405,-104.3929621,84008123.0,US,USA,840,8123.0,weld,"Weld, Colorado, US",1430,77,82,0
 2020-04-26,us,colorado,40.55499405,-104.3929621,84008123.0,US,USA,840,8123.0,weld,"Weld, Colorado, US",1469,39,82,0
+2020-04-27,us,colorado,40.55499405,-104.3929621,84008123.0,US,USA,840,8123.0,weld,"Weld, Colorado, US",1544,75,87,5
+2020-04-28,us,colorado,40.55499405,-104.3929621,84008123.0,US,USA,840,8123.0,weld,"Weld, Colorado, US",1618,74,88,1
 2020-01-22,us,colorado,40.59414277,-102.3577703,84008095.0,US,USA,840,8095.0,phillips,"Phillips, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.59414277,-102.3577703,84008095.0,US,USA,840,8095.0,phillips,"Phillips, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.59414277,-102.3577703,84008095.0,US,USA,840,8095.0,phillips,"Phillips, Colorado, US",0,0,0,0
@@ -5855,6 +5975,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.59414277,-102.3577703,84008095.0,US,USA,840,8095.0,phillips,"Phillips, Colorado, US",5,0,0,0
 2020-04-25,us,colorado,40.59414277,-102.3577703,84008095.0,US,USA,840,8095.0,phillips,"Phillips, Colorado, US",5,0,0,0
 2020-04-26,us,colorado,40.59414277,-102.3577703,84008095.0,US,USA,840,8095.0,phillips,"Phillips, Colorado, US",5,0,0,0
+2020-04-27,us,colorado,40.59414277,-102.3577703,84008095.0,US,USA,840,8095.0,phillips,"Phillips, Colorado, US",6,1,0,0
+2020-04-28,us,colorado,40.59414277,-102.3577703,84008095.0,US,USA,840,8095.0,phillips,"Phillips, Colorado, US",6,0,0,0
 2020-01-22,us,colorado,40.61810999,-108.2070876,84008081.0,US,USA,840,8081.0,moffat,"Moffat, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.61810999,-108.2070876,84008081.0,US,USA,840,8081.0,moffat,"Moffat, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.61810999,-108.2070876,84008081.0,US,USA,840,8081.0,moffat,"Moffat, Colorado, US",0,0,0,0
@@ -5951,6 +6073,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.61810999,-108.2070876,84008081.0,US,USA,840,8081.0,moffat,"Moffat, Colorado, US",6,0,0,0
 2020-04-25,us,colorado,40.61810999,-108.2070876,84008081.0,US,USA,840,8081.0,moffat,"Moffat, Colorado, US",6,0,0,0
 2020-04-26,us,colorado,40.61810999,-108.2070876,84008081.0,US,USA,840,8081.0,moffat,"Moffat, Colorado, US",6,0,0,0
+2020-04-27,us,colorado,40.61810999,-108.2070876,84008081.0,US,USA,840,8081.0,moffat,"Moffat, Colorado, US",6,0,0,0
+2020-04-28,us,colorado,40.61810999,-108.2070876,84008081.0,US,USA,840,8081.0,moffat,"Moffat, Colorado, US",6,0,0,0
 2020-01-22,us,colorado,40.66593870000001,-106.3408905,84008057.0,US,USA,840,8057.0,jackson,"Jackson, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.66593870000001,-106.3408905,84008057.0,US,USA,840,8057.0,jackson,"Jackson, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.66593870000001,-106.3408905,84008057.0,US,USA,840,8057.0,jackson,"Jackson, Colorado, US",0,0,0,0
@@ -6047,6 +6171,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.66593870000001,-106.3408905,84008057.0,US,USA,840,8057.0,jackson,"Jackson, Colorado, US",0,0,0,0
 2020-04-25,us,colorado,40.66593870000001,-106.3408905,84008057.0,US,USA,840,8057.0,jackson,"Jackson, Colorado, US",0,0,0,0
 2020-04-26,us,colorado,40.66593870000001,-106.3408905,84008057.0,US,USA,840,8057.0,jackson,"Jackson, Colorado, US",0,0,0,0
+2020-04-27,us,colorado,40.66593870000001,-106.3408905,84008057.0,US,USA,840,8057.0,jackson,"Jackson, Colorado, US",0,0,0,0
+2020-04-28,us,colorado,40.66593870000001,-106.3408905,84008057.0,US,USA,840,8057.0,jackson,"Jackson, Colorado, US",0,0,0,0
 2020-01-22,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",0,0,0,0
@@ -6143,6 +6269,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",291,17,18,3
 2020-04-25,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",303,12,18,0
 2020-04-26,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",312,9,18,0
+2020-04-27,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",321,9,19,1
+2020-04-28,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",334,13,19,0
 2020-01-22,us,colorado,40.7249637,-103.110817,84008075.0,US,USA,840,8075.0,logan,"Logan, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.7249637,-103.110817,84008075.0,US,USA,840,8075.0,logan,"Logan, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.7249637,-103.110817,84008075.0,US,USA,840,8075.0,logan,"Logan, Colorado, US",0,0,0,0
@@ -6239,6 +6367,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.7249637,-103.110817,84008075.0,US,USA,840,8075.0,logan,"Logan, Colorado, US",31,7,1,0
 2020-04-25,us,colorado,40.7249637,-103.110817,84008075.0,US,USA,840,8075.0,logan,"Logan, Colorado, US",213,182,1,0
 2020-04-26,us,colorado,40.7249637,-103.110817,84008075.0,US,USA,840,8075.0,logan,"Logan, Colorado, US",248,35,1,0
+2020-04-27,us,colorado,40.7249637,-103.110817,84008075.0,US,USA,840,8075.0,logan,"Logan, Colorado, US",259,11,1,0
+2020-04-28,us,colorado,40.7249637,-103.110817,84008075.0,US,USA,840,8075.0,logan,"Logan, Colorado, US",266,7,1,0
 2020-01-22,us,colorado,40.87595412,-102.3519227,84008115.0,US,USA,840,8115.0,sedgwick,"Sedgwick, Colorado, US",0,0,0,0
 2020-01-23,us,colorado,40.87595412,-102.3519227,84008115.0,US,USA,840,8115.0,sedgwick,"Sedgwick, Colorado, US",0,0,0,0
 2020-01-24,us,colorado,40.87595412,-102.3519227,84008115.0,US,USA,840,8115.0,sedgwick,"Sedgwick, Colorado, US",0,0,0,0
@@ -6335,3 +6465,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.87595412,-102.3519227,84008115.0,US,USA,840,8115.0,sedgwick,"Sedgwick, Colorado, US",0,0,0,0
 2020-04-25,us,colorado,40.87595412,-102.3519227,84008115.0,US,USA,840,8115.0,sedgwick,"Sedgwick, Colorado, US",0,0,0,0
 2020-04-26,us,colorado,40.87595412,-102.3519227,84008115.0,US,USA,840,8115.0,sedgwick,"Sedgwick, Colorado, US",0,0,0,0
+2020-04-27,us,colorado,40.87595412,-102.3519227,84008115.0,US,USA,840,8115.0,sedgwick,"Sedgwick, Colorado, US",0,0,0,0
+2020-04-28,us,colorado,40.87595412,-102.3519227,84008115.0,US,USA,840,8115.0,sedgwick,"Sedgwick, Colorado, US",0,0,0,0

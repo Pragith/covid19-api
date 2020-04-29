@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",291,17,18,3
 2020-04-25,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",303,12,18,0
 2020-04-26,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",312,9,18,0
+2020-04-27,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",321,9,19,1
+2020-04-28,us,colorado,40.66671597,-105.4625784,84008069.0,US,USA,840,8069.0,larimer,"Larimer, Colorado, US",334,13,19,0

@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",60,2,1,0
 2020-04-25,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",67,7,1,0
 2020-04-26,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",68,1,1,0
+2020-04-27,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",68,0,41,40
+2020-04-28,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",70,2,1,-40

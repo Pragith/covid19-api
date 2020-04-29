@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,0.0,0.0,84080039.0,US,USA,840,80039.0,out-of-oh,"Out of OH, Ohio, US",0,0,0,0
 2020-04-25,us,ohio,0.0,0.0,84080039.0,US,USA,840,80039.0,out-of-oh,"Out of OH, Ohio, US",0,0,0,0
 2020-04-26,us,ohio,0.0,0.0,84080039.0,US,USA,840,80039.0,out-of-oh,"Out of OH, Ohio, US",0,0,0,0
+2020-04-27,us,ohio,0.0,0.0,84080039.0,US,USA,840,80039.0,out-of-oh,"Out of OH, Ohio, US",0,0,0,0
+2020-04-28,us,ohio,0.0,0.0,84080039.0,US,USA,840,80039.0,out-of-oh,"Out of OH, Ohio, US",0,0,0,0
 2020-01-22,us,ohio,0.0,0.0,84090039.0,US,USA,840,90039.0,unassigned,"Unassigned, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,0.0,0.0,84090039.0,US,USA,840,90039.0,unassigned,"Unassigned, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,0.0,0.0,84090039.0,US,USA,840,90039.0,unassigned,"Unassigned, Ohio, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,0.0,0.0,84090039.0,US,USA,840,90039.0,unassigned,"Unassigned, Ohio, US",0,0,0,0
 2020-04-25,us,ohio,0.0,0.0,84090039.0,US,USA,840,90039.0,unassigned,"Unassigned, Ohio, US",0,0,0,0
 2020-04-26,us,ohio,0.0,0.0,84090039.0,US,USA,840,90039.0,unassigned,"Unassigned, Ohio, US",0,0,0,0
+2020-04-27,us,ohio,0.0,0.0,84090039.0,US,USA,840,90039.0,unassigned,"Unassigned, Ohio, US",0,0,0,0
+2020-04-28,us,ohio,0.0,0.0,84090039.0,US,USA,840,90039.0,unassigned,"Unassigned, Ohio, US",0,0,0,0
 2020-01-22,us,ohio,38.59743452,-82.53466552,84039087.0,US,USA,840,39087.0,lawrence,"Lawrence, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,38.59743452,-82.53466552,84039087.0,US,USA,840,39087.0,lawrence,"Lawrence, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,38.59743452,-82.53466552,84039087.0,US,USA,840,39087.0,lawrence,"Lawrence, Ohio, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,38.59743452,-82.53466552,84039087.0,US,USA,840,39087.0,lawrence,"Lawrence, Ohio, US",22,0,0,0
 2020-04-25,us,ohio,38.59743452,-82.53466552,84039087.0,US,USA,840,39087.0,lawrence,"Lawrence, Ohio, US",22,0,0,0
 2020-04-26,us,ohio,38.59743452,-82.53466552,84039087.0,US,USA,840,39087.0,lawrence,"Lawrence, Ohio, US",23,1,0,0
+2020-04-27,us,ohio,38.59743452,-82.53466552,84039087.0,US,USA,840,39087.0,lawrence,"Lawrence, Ohio, US",24,1,0,0
+2020-04-28,us,ohio,38.59743452,-82.53466552,84039087.0,US,USA,840,39087.0,lawrence,"Lawrence, Ohio, US",24,0,0,0
 2020-01-22,us,ohio,38.80270163,-82.98907345,84039145.0,US,USA,840,39145.0,scioto,"Scioto, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,38.80270163,-82.98907345,84039145.0,US,USA,840,39145.0,scioto,"Scioto, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,38.80270163,-82.98907345,84039145.0,US,USA,840,39145.0,scioto,"Scioto, Ohio, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,38.80270163,-82.98907345,84039145.0,US,USA,840,39145.0,scioto,"Scioto, Ohio, US",6,0,0,0
 2020-04-25,us,ohio,38.80270163,-82.98907345,84039145.0,US,USA,840,39145.0,scioto,"Scioto, Ohio, US",6,0,0,0
 2020-04-26,us,ohio,38.80270163,-82.98907345,84039145.0,US,USA,840,39145.0,scioto,"Scioto, Ohio, US",6,0,0,0
+2020-04-27,us,ohio,38.80270163,-82.98907345,84039145.0,US,USA,840,39145.0,scioto,"Scioto, Ohio, US",6,0,0,0
+2020-04-28,us,ohio,38.80270163,-82.98907345,84039145.0,US,USA,840,39145.0,scioto,"Scioto, Ohio, US",6,0,0,0
 2020-01-22,us,ohio,38.82708533,-82.31647569,84039053.0,US,USA,840,39053.0,gallia,"Gallia, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,38.82708533,-82.31647569,84039053.0,US,USA,840,39053.0,gallia,"Gallia, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,38.82708533,-82.31647569,84039053.0,US,USA,840,39053.0,gallia,"Gallia, Ohio, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,38.82708533,-82.31647569,84039053.0,US,USA,840,39053.0,gallia,"Gallia, Ohio, US",6,0,1,0
 2020-04-25,us,ohio,38.82708533,-82.31647569,84039053.0,US,USA,840,39053.0,gallia,"Gallia, Ohio, US",6,0,1,0
 2020-04-26,us,ohio,38.82708533,-82.31647569,84039053.0,US,USA,840,39053.0,gallia,"Gallia, Ohio, US",6,0,1,0
+2020-04-27,us,ohio,38.82708533,-82.31647569,84039053.0,US,USA,840,39053.0,gallia,"Gallia, Ohio, US",6,0,1,0
+2020-04-28,us,ohio,38.82708533,-82.31647569,84039053.0,US,USA,840,39053.0,gallia,"Gallia, Ohio, US",6,0,1,0
 2020-01-22,us,ohio,38.84541072,-83.4718964,84039001.0,US,USA,840,39001.0,adams,"Adams, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,38.84541072,-83.4718964,84039001.0,US,USA,840,39001.0,adams,"Adams, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,38.84541072,-83.4718964,84039001.0,US,USA,840,39001.0,adams,"Adams, Ohio, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,38.84541072,-83.4718964,84039001.0,US,USA,840,39001.0,adams,"Adams, Ohio, US",4,0,0,0
 2020-04-25,us,ohio,38.84541072,-83.4718964,84039001.0,US,USA,840,39001.0,adams,"Adams, Ohio, US",4,0,0,0
 2020-04-26,us,ohio,38.84541072,-83.4718964,84039001.0,US,USA,840,39001.0,adams,"Adams, Ohio, US",4,0,0,0
+2020-04-27,us,ohio,38.84541072,-83.4718964,84039001.0,US,USA,840,39001.0,adams,"Adams, Ohio, US",4,0,0,0
+2020-04-28,us,ohio,38.84541072,-83.4718964,84039001.0,US,USA,840,39001.0,adams,"Adams, Ohio, US",4,0,0,0
 2020-01-22,us,ohio,38.93416837,-83.86788395,84039015.0,US,USA,840,39015.0,brown,"Brown, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,38.93416837,-83.86788395,84039015.0,US,USA,840,39015.0,brown,"Brown, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,38.93416837,-83.86788395,84039015.0,US,USA,840,39015.0,brown,"Brown, Ohio, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,38.93416837,-83.86788395,84039015.0,US,USA,840,39015.0,brown,"Brown, Ohio, US",11,0,1,0
 2020-04-25,us,ohio,38.93416837,-83.86788395,84039015.0,US,USA,840,39015.0,brown,"Brown, Ohio, US",11,0,1,0
 2020-04-26,us,ohio,38.93416837,-83.86788395,84039015.0,US,USA,840,39015.0,brown,"Brown, Ohio, US",11,0,1,0
+2020-04-27,us,ohio,38.93416837,-83.86788395,84039015.0,US,USA,840,39015.0,brown,"Brown, Ohio, US",11,0,1,0
+2020-04-28,us,ohio,38.93416837,-83.86788395,84039015.0,US,USA,840,39015.0,brown,"Brown, Ohio, US",11,0,1,0
 2020-01-22,us,ohio,39.01914254,-82.61818559999998,84039079.0,US,USA,840,39079.0,jackson,"Jackson, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.01914254,-82.61818559999998,84039079.0,US,USA,840,39079.0,jackson,"Jackson, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.01914254,-82.61818559999998,84039079.0,US,USA,840,39079.0,jackson,"Jackson, Ohio, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.01914254,-82.61818559999998,84039079.0,US,USA,840,39079.0,jackson,"Jackson, Ohio, US",4,0,0,0
 2020-04-25,us,ohio,39.01914254,-82.61818559999998,84039079.0,US,USA,840,39079.0,jackson,"Jackson, Ohio, US",4,0,0,0
 2020-04-26,us,ohio,39.01914254,-82.61818559999998,84039079.0,US,USA,840,39079.0,jackson,"Jackson, Ohio, US",4,0,0,0
+2020-04-27,us,ohio,39.01914254,-82.61818559999998,84039079.0,US,USA,840,39079.0,jackson,"Jackson, Ohio, US",4,0,0,0
+2020-04-28,us,ohio,39.01914254,-82.61818559999998,84039079.0,US,USA,840,39079.0,jackson,"Jackson, Ohio, US",4,0,0,0
 2020-01-22,us,ohio,39.04847534,-84.15375786,84039025.0,US,USA,840,39025.0,clermont,"Clermont, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.04847534,-84.15375786,84039025.0,US,USA,840,39025.0,clermont,"Clermont, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.04847534,-84.15375786,84039025.0,US,USA,840,39025.0,clermont,"Clermont, Ohio, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.04847534,-84.15375786,84039025.0,US,USA,840,39025.0,clermont,"Clermont, Ohio, US",77,1,2,0
 2020-04-25,us,ohio,39.04847534,-84.15375786,84039025.0,US,USA,840,39025.0,clermont,"Clermont, Ohio, US",77,0,2,0
 2020-04-26,us,ohio,39.04847534,-84.15375786,84039025.0,US,USA,840,39025.0,clermont,"Clermont, Ohio, US",77,0,2,0
+2020-04-27,us,ohio,39.04847534,-84.15375786,84039025.0,US,USA,840,39025.0,clermont,"Clermont, Ohio, US",76,-1,2,0
+2020-04-28,us,ohio,39.04847534,-84.15375786,84039025.0,US,USA,840,39025.0,clermont,"Clermont, Ohio, US",78,2,2,0
 2020-01-22,us,ohio,39.07634001,-83.06769584,84039131.0,US,USA,840,39131.0,pike,"Pike, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.07634001,-83.06769584,84039131.0,US,USA,840,39131.0,pike,"Pike, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.07634001,-83.06769584,84039131.0,US,USA,840,39131.0,pike,"Pike, Ohio, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.07634001,-83.06769584,84039131.0,US,USA,840,39131.0,pike,"Pike, Ohio, US",2,0,0,0
 2020-04-25,us,ohio,39.07634001,-83.06769584,84039131.0,US,USA,840,39131.0,pike,"Pike, Ohio, US",3,1,0,0
 2020-04-26,us,ohio,39.07634001,-83.06769584,84039131.0,US,USA,840,39131.0,pike,"Pike, Ohio, US",3,0,0,0
+2020-04-27,us,ohio,39.07634001,-83.06769584,84039131.0,US,USA,840,39131.0,pike,"Pike, Ohio, US",3,0,0,0
+2020-04-28,us,ohio,39.07634001,-83.06769584,84039131.0,US,USA,840,39131.0,pike,"Pike, Ohio, US",3,0,0,0
 2020-01-22,us,ohio,39.09224872,-82.0305041,84039105.0,US,USA,840,39105.0,meigs,"Meigs, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.09224872,-82.0305041,84039105.0,US,USA,840,39105.0,meigs,"Meigs, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.09224872,-82.0305041,84039105.0,US,USA,840,39105.0,meigs,"Meigs, Ohio, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.09224872,-82.0305041,84039105.0,US,USA,840,39105.0,meigs,"Meigs, Ohio, US",2,0,0,0
 2020-04-25,us,ohio,39.09224872,-82.0305041,84039105.0,US,USA,840,39105.0,meigs,"Meigs, Ohio, US",2,0,0,0
 2020-04-26,us,ohio,39.09224872,-82.0305041,84039105.0,US,USA,840,39105.0,meigs,"Meigs, Ohio, US",2,0,0,0
+2020-04-27,us,ohio,39.09224872,-82.0305041,84039105.0,US,USA,840,39105.0,meigs,"Meigs, Ohio, US",2,0,0,0
+2020-04-28,us,ohio,39.09224872,-82.0305041,84039105.0,US,USA,840,39105.0,meigs,"Meigs, Ohio, US",2,0,0,0
 2020-01-22,us,ohio,39.1839264,-83.60331456,84039071.0,US,USA,840,39071.0,highland,"Highland, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.1839264,-83.60331456,84039071.0,US,USA,840,39071.0,highland,"Highland, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.1839264,-83.60331456,84039071.0,US,USA,840,39071.0,highland,"Highland, Ohio, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.1839264,-83.60331456,84039071.0,US,USA,840,39071.0,highland,"Highland, Ohio, US",8,0,0,0
 2020-04-25,us,ohio,39.1839264,-83.60331456,84039071.0,US,USA,840,39071.0,highland,"Highland, Ohio, US",8,0,0,0
 2020-04-26,us,ohio,39.1839264,-83.60331456,84039071.0,US,USA,840,39071.0,highland,"Highland, Ohio, US",9,1,0,0
+2020-04-27,us,ohio,39.1839264,-83.60331456,84039071.0,US,USA,840,39071.0,highland,"Highland, Ohio, US",10,1,0,0
+2020-04-28,us,ohio,39.1839264,-83.60331456,84039071.0,US,USA,840,39071.0,highland,"Highland, Ohio, US",10,0,0,0
 2020-01-22,us,ohio,39.19673558,-84.54502924,84039061.0,US,USA,840,39061.0,hamilton,"Hamilton, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.19673558,-84.54502924,84039061.0,US,USA,840,39061.0,hamilton,"Hamilton, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.19673558,-84.54502924,84039061.0,US,USA,840,39061.0,hamilton,"Hamilton, Ohio, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.19673558,-84.54502924,84039061.0,US,USA,840,39061.0,hamilton,"Hamilton, Ohio, US",932,64,51,4
 2020-04-25,us,ohio,39.19673558,-84.54502924,84039061.0,US,USA,840,39061.0,hamilton,"Hamilton, Ohio, US",975,43,54,3
 2020-04-26,us,ohio,39.19673558,-84.54502924,84039061.0,US,USA,840,39061.0,hamilton,"Hamilton, Ohio, US",1005,30,56,2
+2020-04-27,us,ohio,39.19673558,-84.54502924,84039061.0,US,USA,840,39061.0,hamilton,"Hamilton, Ohio, US",1048,43,56,0
+2020-04-28,us,ohio,39.19673558,-84.54502924,84039061.0,US,USA,840,39061.0,hamilton,"Hamilton, Ohio, US",1091,43,58,2
 2020-01-22,us,ohio,39.25208988,-82.4831444,84039163.0,US,USA,840,39163.0,vinton,"Vinton, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.25208988,-82.4831444,84039163.0,US,USA,840,39163.0,vinton,"Vinton, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.25208988,-82.4831444,84039163.0,US,USA,840,39163.0,vinton,"Vinton, Ohio, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.25208988,-82.4831444,84039163.0,US,USA,840,39163.0,vinton,"Vinton, Ohio, US",0,0,0,0
 2020-04-25,us,ohio,39.25208988,-82.4831444,84039163.0,US,USA,840,39163.0,vinton,"Vinton, Ohio, US",0,0,0,0
 2020-04-26,us,ohio,39.25208988,-82.4831444,84039163.0,US,USA,840,39163.0,vinton,"Vinton, Ohio, US",0,0,0,0
+2020-04-27,us,ohio,39.25208988,-82.4831444,84039163.0,US,USA,840,39163.0,vinton,"Vinton, Ohio, US",0,0,0,0
+2020-04-28,us,ohio,39.25208988,-82.4831444,84039163.0,US,USA,840,39163.0,vinton,"Vinton, Ohio, US",3,3,0,0
 2020-01-22,us,ohio,39.33425634,-82.04278644,84039009.0,US,USA,840,39009.0,athens,"Athens, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.33425634,-82.04278644,84039009.0,US,USA,840,39009.0,athens,"Athens, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.33425634,-82.04278644,84039009.0,US,USA,840,39009.0,athens,"Athens, Ohio, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.33425634,-82.04278644,84039009.0,US,USA,840,39009.0,athens,"Athens, Ohio, US",3,-1,1,0
 2020-04-25,us,ohio,39.33425634,-82.04278644,84039009.0,US,USA,840,39009.0,athens,"Athens, Ohio, US",3,0,1,0
 2020-04-26,us,ohio,39.33425634,-82.04278644,84039009.0,US,USA,840,39009.0,athens,"Athens, Ohio, US",3,0,1,0
+2020-04-27,us,ohio,39.33425634,-82.04278644,84039009.0,US,USA,840,39009.0,athens,"Athens, Ohio, US",3,0,1,0
+2020-04-28,us,ohio,39.33425634,-82.04278644,84039009.0,US,USA,840,39009.0,athens,"Athens, Ohio, US",3,0,1,0
 2020-01-22,us,ohio,39.33705391,-83.06000914,84039141.0,US,USA,840,39141.0,ross,"Ross, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.33705391,-83.06000914,84039141.0,US,USA,840,39141.0,ross,"Ross, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.33705391,-83.06000914,84039141.0,US,USA,840,39141.0,ross,"Ross, Ohio, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.33705391,-83.06000914,84039141.0,US,USA,840,39141.0,ross,"Ross, Ohio, US",35,5,1,0
 2020-04-25,us,ohio,39.33705391,-83.06000914,84039141.0,US,USA,840,39141.0,ross,"Ross, Ohio, US",35,0,1,0
 2020-04-26,us,ohio,39.33705391,-83.06000914,84039141.0,US,USA,840,39141.0,ross,"Ross, Ohio, US",35,0,1,0
+2020-04-27,us,ohio,39.33705391,-83.06000914,84039141.0,US,USA,840,39141.0,ross,"Ross, Ohio, US",36,1,1,0
+2020-04-28,us,ohio,39.33705391,-83.06000914,84039141.0,US,USA,840,39141.0,ross,"Ross, Ohio, US",36,0,1,0
 2020-01-22,us,ohio,39.41485808,-83.80852286,84039027.0,US,USA,840,39027.0,clinton,"Clinton, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.41485808,-83.80852286,84039027.0,US,USA,840,39027.0,clinton,"Clinton, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.41485808,-83.80852286,84039027.0,US,USA,840,39027.0,clinton,"Clinton, Ohio, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.41485808,-83.80852286,84039027.0,US,USA,840,39027.0,clinton,"Clinton, Ohio, US",27,0,0,0
 2020-04-25,us,ohio,39.41485808,-83.80852286,84039027.0,US,USA,840,39027.0,clinton,"Clinton, Ohio, US",27,0,0,0
 2020-04-26,us,ohio,39.41485808,-83.80852286,84039027.0,US,USA,840,39027.0,clinton,"Clinton, Ohio, US",28,1,0,0
+2020-04-27,us,ohio,39.41485808,-83.80852286,84039027.0,US,USA,840,39027.0,clinton,"Clinton, Ohio, US",28,0,0,0
+2020-04-28,us,ohio,39.41485808,-83.80852286,84039027.0,US,USA,840,39027.0,clinton,"Clinton, Ohio, US",28,0,0,0
 2020-01-22,us,ohio,39.42581994,-84.16557457,84039165.0,US,USA,840,39165.0,warren,"Warren, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.42581994,-84.16557457,84039165.0,US,USA,840,39165.0,warren,"Warren, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.42581994,-84.16557457,84039165.0,US,USA,840,39165.0,warren,"Warren, Ohio, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.42581994,-84.16557457,84039165.0,US,USA,840,39165.0,warren,"Warren, Ohio, US",128,4,10,0
 2020-04-25,us,ohio,39.42581994,-84.16557457,84039165.0,US,USA,840,39165.0,warren,"Warren, Ohio, US",131,3,10,0
 2020-04-26,us,ohio,39.42581994,-84.16557457,84039165.0,US,USA,840,39165.0,warren,"Warren, Ohio, US",133,2,11,1
+2020-04-27,us,ohio,39.42581994,-84.16557457,84039165.0,US,USA,840,39165.0,warren,"Warren, Ohio, US",124,-9,11,0
+2020-04-28,us,ohio,39.42581994,-84.16557457,84039165.0,US,USA,840,39165.0,warren,"Warren, Ohio, US",131,7,11,0
 2020-01-22,us,ohio,39.44012838,-84.57388716,84039017.0,US,USA,840,39017.0,butler,"Butler, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.44012838,-84.57388716,84039017.0,US,USA,840,39017.0,butler,"Butler, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.44012838,-84.57388716,84039017.0,US,USA,840,39017.0,butler,"Butler, Ohio, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.44012838,-84.57388716,84039017.0,US,USA,840,39017.0,butler,"Butler, Ohio, US",208,7,4,0
 2020-04-25,us,ohio,39.44012838,-84.57388716,84039017.0,US,USA,840,39017.0,butler,"Butler, Ohio, US",216,8,4,0
 2020-04-26,us,ohio,39.44012838,-84.57388716,84039017.0,US,USA,840,39017.0,butler,"Butler, Ohio, US",225,9,4,0
+2020-04-27,us,ohio,39.44012838,-84.57388716,84039017.0,US,USA,840,39017.0,butler,"Butler, Ohio, US",234,9,4,0
+2020-04-28,us,ohio,39.44012838,-84.57388716,84039017.0,US,USA,840,39017.0,butler,"Butler, Ohio, US",254,20,5,1
 2020-01-22,us,ohio,39.45690571,-81.49121382,84039167.0,US,USA,840,39167.0,washington,"Washington, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.45690571,-81.49121382,84039167.0,US,USA,840,39167.0,washington,"Washington, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.45690571,-81.49121382,84039167.0,US,USA,840,39167.0,washington,"Washington, Ohio, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.45690571,-81.49121382,84039167.0,US,USA,840,39167.0,washington,"Washington, Ohio, US",80,5,8,0
 2020-04-25,us,ohio,39.45690571,-81.49121382,84039167.0,US,USA,840,39167.0,washington,"Washington, Ohio, US",93,13,8,0
 2020-04-26,us,ohio,39.45690571,-81.49121382,84039167.0,US,USA,840,39167.0,washington,"Washington, Ohio, US",94,1,10,2
+2020-04-27,us,ohio,39.45690571,-81.49121382,84039167.0,US,USA,840,39167.0,washington,"Washington, Ohio, US",94,0,10,0
+2020-04-28,us,ohio,39.45690571,-81.49121382,84039167.0,US,USA,840,39167.0,washington,"Washington, Ohio, US",95,1,10,0
 2020-01-22,us,ohio,39.49537927,-82.47991446,84039073.0,US,USA,840,39073.0,hocking,"Hocking, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.49537927,-82.47991446,84039073.0,US,USA,840,39073.0,hocking,"Hocking, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.49537927,-82.47991446,84039073.0,US,USA,840,39073.0,hocking,"Hocking, Ohio, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.49537927,-82.47991446,84039073.0,US,USA,840,39073.0,hocking,"Hocking, Ohio, US",6,1,1,0
 2020-04-25,us,ohio,39.49537927,-82.47991446,84039073.0,US,USA,840,39073.0,hocking,"Hocking, Ohio, US",11,5,1,0
 2020-04-26,us,ohio,39.49537927,-82.47991446,84039073.0,US,USA,840,39073.0,hocking,"Hocking, Ohio, US",14,3,1,0
+2020-04-27,us,ohio,39.49537927,-82.47991446,84039073.0,US,USA,840,39073.0,hocking,"Hocking, Ohio, US",16,2,1,0
+2020-04-28,us,ohio,39.49537927,-82.47991446,84039073.0,US,USA,840,39073.0,hocking,"Hocking, Ohio, US",16,0,1,0
 2020-01-22,us,ohio,39.56021306,-83.4562016,84039047.0,US,USA,840,39047.0,fayette,"Fayette, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.56021306,-83.4562016,84039047.0,US,USA,840,39047.0,fayette,"Fayette, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.56021306,-83.4562016,84039047.0,US,USA,840,39047.0,fayette,"Fayette, Ohio, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.56021306,-83.4562016,84039047.0,US,USA,840,39047.0,fayette,"Fayette, Ohio, US",13,0,0,0
 2020-04-25,us,ohio,39.56021306,-83.4562016,84039047.0,US,USA,840,39047.0,fayette,"Fayette, Ohio, US",13,0,0,0
 2020-04-26,us,ohio,39.56021306,-83.4562016,84039047.0,US,USA,840,39047.0,fayette,"Fayette, Ohio, US",13,0,0,0
+2020-04-27,us,ohio,39.56021306,-83.4562016,84039047.0,US,USA,840,39047.0,fayette,"Fayette, Ohio, US",14,1,0,0
+2020-04-28,us,ohio,39.56021306,-83.4562016,84039047.0,US,USA,840,39047.0,fayette,"Fayette, Ohio, US",15,1,0,0
 2020-01-22,us,ohio,39.62081738,-81.85308173,84039115.0,US,USA,840,39115.0,morgan,"Morgan, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.62081738,-81.85308173,84039115.0,US,USA,840,39115.0,morgan,"Morgan, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.62081738,-81.85308173,84039115.0,US,USA,840,39115.0,morgan,"Morgan, Ohio, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.62081738,-81.85308173,84039115.0,US,USA,840,39115.0,morgan,"Morgan, Ohio, US",4,0,0,0
 2020-04-25,us,ohio,39.62081738,-81.85308173,84039115.0,US,USA,840,39115.0,morgan,"Morgan, Ohio, US",4,0,0,0
 2020-04-26,us,ohio,39.62081738,-81.85308173,84039115.0,US,USA,840,39115.0,morgan,"Morgan, Ohio, US",4,0,0,0
+2020-04-27,us,ohio,39.62081738,-81.85308173,84039115.0,US,USA,840,39115.0,morgan,"Morgan, Ohio, US",4,0,0,0
+2020-04-28,us,ohio,39.62081738,-81.85308173,84039115.0,US,USA,840,39115.0,morgan,"Morgan, Ohio, US",4,0,0,0
 2020-01-22,us,ohio,39.64170392,-83.0243386,84039129.0,US,USA,840,39129.0,pickaway,"Pickaway, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.64170392,-83.0243386,84039129.0,US,USA,840,39129.0,pickaway,"Pickaway, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.64170392,-83.0243386,84039129.0,US,USA,840,39129.0,pickaway,"Pickaway, Ohio, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.64170392,-83.0243386,84039129.0,US,USA,840,39129.0,pickaway,"Pickaway, Ohio, US",1659,-2,5,0
 2020-04-25,us,ohio,39.64170392,-83.0243386,84039129.0,US,USA,840,39129.0,pickaway,"Pickaway, Ohio, US",1662,3,5,0
 2020-04-26,us,ohio,39.64170392,-83.0243386,84039129.0,US,USA,840,39129.0,pickaway,"Pickaway, Ohio, US",1662,0,5,0
+2020-04-27,us,ohio,39.64170392,-83.0243386,84039129.0,US,USA,840,39129.0,pickaway,"Pickaway, Ohio, US",1698,36,5,0
+2020-04-28,us,ohio,39.64170392,-83.0243386,84039129.0,US,USA,840,39129.0,pickaway,"Pickaway, Ohio, US",1706,8,7,2
 2020-01-22,us,ohio,39.69116283,-83.89032084,84039057.0,US,USA,840,39057.0,greene,"Greene, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.69116283,-83.89032084,84039057.0,US,USA,840,39057.0,greene,"Greene, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.69116283,-83.89032084,84039057.0,US,USA,840,39057.0,greene,"Greene, Ohio, US",0,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.69116283,-83.89032084,84039057.0,US,USA,840,39057.0,greene,"Greene, Ohio, US",40,0,3,0
 2020-04-25,us,ohio,39.69116283,-83.89032084,84039057.0,US,USA,840,39057.0,greene,"Greene, Ohio, US",41,1,3,0
 2020-04-26,us,ohio,39.69116283,-83.89032084,84039057.0,US,USA,840,39057.0,greene,"Greene, Ohio, US",43,2,3,0
+2020-04-27,us,ohio,39.69116283,-83.89032084,84039057.0,US,USA,840,39057.0,greene,"Greene, Ohio, US",45,2,3,0
+2020-04-28,us,ohio,39.69116283,-83.89032084,84039057.0,US,USA,840,39057.0,greene,"Greene, Ohio, US",45,0,4,1
 2020-01-22,us,ohio,39.72984936,-81.08464734,84039111.0,US,USA,840,39111.0,monroe,"Monroe, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.72984936,-81.08464734,84039111.0,US,USA,840,39111.0,monroe,"Monroe, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.72984936,-81.08464734,84039111.0,US,USA,840,39111.0,monroe,"Monroe, Ohio, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.72984936,-81.08464734,84039111.0,US,USA,840,39111.0,monroe,"Monroe, Ohio, US",2,0,0,0
 2020-04-25,us,ohio,39.72984936,-81.08464734,84039111.0,US,USA,840,39111.0,monroe,"Monroe, Ohio, US",2,0,0,0
 2020-04-26,us,ohio,39.72984936,-81.08464734,84039111.0,US,USA,840,39111.0,monroe,"Monroe, Ohio, US",2,0,0,0
+2020-04-27,us,ohio,39.72984936,-81.08464734,84039111.0,US,USA,840,39111.0,monroe,"Monroe, Ohio, US",2,0,0,0
+2020-04-28,us,ohio,39.72984936,-81.08464734,84039111.0,US,USA,840,39111.0,monroe,"Monroe, Ohio, US",2,0,0,0
 2020-01-22,us,ohio,39.73508655,-82.23804971,84039127.0,US,USA,840,39127.0,perry,"Perry, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.73508655,-82.23804971,84039127.0,US,USA,840,39127.0,perry,"Perry, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.73508655,-82.23804971,84039127.0,US,USA,840,39127.0,perry,"Perry, Ohio, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.73508655,-82.23804971,84039127.0,US,USA,840,39127.0,perry,"Perry, Ohio, US",12,1,0,0
 2020-04-25,us,ohio,39.73508655,-82.23804971,84039127.0,US,USA,840,39127.0,perry,"Perry, Ohio, US",12,0,0,0
 2020-04-26,us,ohio,39.73508655,-82.23804971,84039127.0,US,USA,840,39127.0,perry,"Perry, Ohio, US",13,1,0,0
+2020-04-27,us,ohio,39.73508655,-82.23804971,84039127.0,US,USA,840,39127.0,perry,"Perry, Ohio, US",12,-1,0,0
+2020-04-28,us,ohio,39.73508655,-82.23804971,84039127.0,US,USA,840,39127.0,perry,"Perry, Ohio, US",13,1,0,0
 2020-01-22,us,ohio,39.7420247,-84.64787018,84039135.0,US,USA,840,39135.0,preble,"Preble, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.7420247,-84.64787018,84039135.0,US,USA,840,39135.0,preble,"Preble, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.7420247,-84.64787018,84039135.0,US,USA,840,39135.0,preble,"Preble, Ohio, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.7420247,-84.64787018,84039135.0,US,USA,840,39135.0,preble,"Preble, Ohio, US",25,0,1,0
 2020-04-25,us,ohio,39.7420247,-84.64787018,84039135.0,US,USA,840,39135.0,preble,"Preble, Ohio, US",25,0,1,0
 2020-04-26,us,ohio,39.7420247,-84.64787018,84039135.0,US,USA,840,39135.0,preble,"Preble, Ohio, US",25,0,1,0
+2020-04-27,us,ohio,39.7420247,-84.64787018,84039135.0,US,USA,840,39135.0,preble,"Preble, Ohio, US",25,0,1,0
+2020-04-28,us,ohio,39.7420247,-84.64787018,84039135.0,US,USA,840,39135.0,preble,"Preble, Ohio, US",25,0,1,0
 2020-01-22,us,ohio,39.75107189,-82.63088163,84039045.0,US,USA,840,39045.0,fairfield,"Fairfield, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.75107189,-82.63088163,84039045.0,US,USA,840,39045.0,fairfield,"Fairfield, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.75107189,-82.63088163,84039045.0,US,USA,840,39045.0,fairfield,"Fairfield, Ohio, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.75107189,-82.63088163,84039045.0,US,USA,840,39045.0,fairfield,"Fairfield, Ohio, US",108,-1,2,0
 2020-04-25,us,ohio,39.75107189,-82.63088163,84039045.0,US,USA,840,39045.0,fairfield,"Fairfield, Ohio, US",110,2,2,0
 2020-04-26,us,ohio,39.75107189,-82.63088163,84039045.0,US,USA,840,39045.0,fairfield,"Fairfield, Ohio, US",114,4,2,0
+2020-04-27,us,ohio,39.75107189,-82.63088163,84039045.0,US,USA,840,39045.0,fairfield,"Fairfield, Ohio, US",116,2,2,0
+2020-04-28,us,ohio,39.75107189,-82.63088163,84039045.0,US,USA,840,39045.0,fairfield,"Fairfield, Ohio, US",121,5,2,0
 2020-01-22,us,ohio,39.75394919,-84.29050975,84039113.0,US,USA,840,39113.0,montgomery,"Montgomery, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.75394919,-84.29050975,84039113.0,US,USA,840,39113.0,montgomery,"Montgomery, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.75394919,-84.29050975,84039113.0,US,USA,840,39113.0,montgomery,"Montgomery, Ohio, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.75394919,-84.29050975,84039113.0,US,USA,840,39113.0,montgomery,"Montgomery, Ohio, US",251,1,9,-3
 2020-04-25,us,ohio,39.75394919,-84.29050975,84039113.0,US,USA,840,39113.0,montgomery,"Montgomery, Ohio, US",256,5,8,-1
 2020-04-26,us,ohio,39.75394919,-84.29050975,84039113.0,US,USA,840,39113.0,montgomery,"Montgomery, Ohio, US",260,4,8,0
+2020-04-27,us,ohio,39.75394919,-84.29050975,84039113.0,US,USA,840,39113.0,montgomery,"Montgomery, Ohio, US",262,2,8,0
+2020-04-28,us,ohio,39.75394919,-84.29050975,84039113.0,US,USA,840,39113.0,montgomery,"Montgomery, Ohio, US",266,4,8,0
 2020-01-22,us,ohio,39.76818851,-81.45937183,84039121.0,US,USA,840,39121.0,noble,"Noble, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.76818851,-81.45937183,84039121.0,US,USA,840,39121.0,noble,"Noble, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.76818851,-81.45937183,84039121.0,US,USA,840,39121.0,noble,"Noble, Ohio, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.76818851,-81.45937183,84039121.0,US,USA,840,39121.0,noble,"Noble, Ohio, US",4,1,0,0
 2020-04-25,us,ohio,39.76818851,-81.45937183,84039121.0,US,USA,840,39121.0,noble,"Noble, Ohio, US",4,0,0,0
 2020-04-26,us,ohio,39.76818851,-81.45937183,84039121.0,US,USA,840,39121.0,noble,"Noble, Ohio, US",5,1,0,0
+2020-04-27,us,ohio,39.76818851,-81.45937183,84039121.0,US,USA,840,39121.0,noble,"Noble, Ohio, US",5,0,0,0
+2020-04-28,us,ohio,39.76818851,-81.45937183,84039121.0,US,USA,840,39121.0,noble,"Noble, Ohio, US",5,0,0,0
 2020-01-22,us,ohio,39.89381073,-83.40178317,84039097.0,US,USA,840,39097.0,madison,"Madison, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.89381073,-83.40178317,84039097.0,US,USA,840,39097.0,madison,"Madison, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.89381073,-83.40178317,84039097.0,US,USA,840,39097.0,madison,"Madison, Ohio, US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.89381073,-83.40178317,84039097.0,US,USA,840,39097.0,madison,"Madison, Ohio, US",47,9,3,0
 2020-04-25,us,ohio,39.89381073,-83.40178317,84039097.0,US,USA,840,39097.0,madison,"Madison, Ohio, US",51,4,3,0
 2020-04-26,us,ohio,39.89381073,-83.40178317,84039097.0,US,USA,840,39097.0,madison,"Madison, Ohio, US",51,0,3,0
+2020-04-27,us,ohio,39.89381073,-83.40178317,84039097.0,US,USA,840,39097.0,madison,"Madison, Ohio, US",52,1,3,0
+2020-04-28,us,ohio,39.89381073,-83.40178317,84039097.0,US,USA,840,39097.0,madison,"Madison, Ohio, US",56,4,3,0
 2020-01-22,us,ohio,39.91592258,-83.78498252,84039023.0,US,USA,840,39023.0,clark,"Clark, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.91592258,-83.78498252,84039023.0,US,USA,840,39023.0,clark,"Clark, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.91592258,-83.78498252,84039023.0,US,USA,840,39023.0,clark,"Clark, Ohio, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.91592258,-83.78498252,84039023.0,US,USA,840,39023.0,clark,"Clark, Ohio, US",30,1,1,0
 2020-04-25,us,ohio,39.91592258,-83.78498252,84039023.0,US,USA,840,39023.0,clark,"Clark, Ohio, US",32,2,1,0
 2020-04-26,us,ohio,39.91592258,-83.78498252,84039023.0,US,USA,840,39023.0,clark,"Clark, Ohio, US",33,1,2,1
+2020-04-27,us,ohio,39.91592258,-83.78498252,84039023.0,US,USA,840,39023.0,clark,"Clark, Ohio, US",43,10,2,0
+2020-04-28,us,ohio,39.91592258,-83.78498252,84039023.0,US,USA,840,39023.0,clark,"Clark, Ohio, US",48,5,2,0
 2020-01-22,us,ohio,39.96575964,-81.94363275,84039119.0,US,USA,840,39119.0,muskingum,"Muskingum, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.96575964,-81.94363275,84039119.0,US,USA,840,39119.0,muskingum,"Muskingum, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.96575964,-81.94363275,84039119.0,US,USA,840,39119.0,muskingum,"Muskingum, Ohio, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.96575964,-81.94363275,84039119.0,US,USA,840,39119.0,muskingum,"Muskingum, Ohio, US",12,2,0,0
 2020-04-25,us,ohio,39.96575964,-81.94363275,84039119.0,US,USA,840,39119.0,muskingum,"Muskingum, Ohio, US",11,-1,0,0
 2020-04-26,us,ohio,39.96575964,-81.94363275,84039119.0,US,USA,840,39119.0,muskingum,"Muskingum, Ohio, US",11,0,0,0
+2020-04-27,us,ohio,39.96575964,-81.94363275,84039119.0,US,USA,840,39119.0,muskingum,"Muskingum, Ohio, US",11,0,0,0
+2020-04-28,us,ohio,39.96575964,-81.94363275,84039119.0,US,USA,840,39119.0,muskingum,"Muskingum, Ohio, US",10,-1,0,0
 2020-01-22,us,ohio,39.96995815,-83.01115755,84039049.0,US,USA,840,39049.0,franklin,"Franklin, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,39.96995815,-83.01115755,84039049.0,US,USA,840,39049.0,franklin,"Franklin, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,39.96995815,-83.01115755,84039049.0,US,USA,840,39049.0,franklin,"Franklin, Ohio, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,39.96995815,-83.01115755,84039049.0,US,USA,840,39049.0,franklin,"Franklin, Ohio, US",1768,95,48,2
 2020-04-25,us,ohio,39.96995815,-83.01115755,84039049.0,US,USA,840,39049.0,franklin,"Franklin, Ohio, US",1839,71,50,2
 2020-04-26,us,ohio,39.96995815,-83.01115755,84039049.0,US,USA,840,39049.0,franklin,"Franklin, Ohio, US",1942,103,53,3
+2020-04-27,us,ohio,39.96995815,-83.01115755,84039049.0,US,USA,840,39049.0,franklin,"Franklin, Ohio, US",2005,63,57,4
+2020-04-28,us,ohio,39.96995815,-83.01115755,84039049.0,US,USA,840,39049.0,franklin,"Franklin, Ohio, US",2090,85,62,5
 2020-01-22,us,ohio,40.01625942,-80.9924051,84039013.0,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.01625942,-80.9924051,84039013.0,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.01625942,-80.9924051,84039013.0,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.01625942,-80.9924051,84039013.0,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",98,3,6,0
 2020-04-25,us,ohio,40.01625942,-80.9924051,84039013.0,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",101,3,6,0
 2020-04-26,us,ohio,40.01625942,-80.9924051,84039013.0,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",106,5,6,0
+2020-04-27,us,ohio,40.01625942,-80.9924051,84039013.0,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",114,8,7,1
+2020-04-28,us,ohio,40.01625942,-80.9924051,84039013.0,US,USA,840,39013.0,belmont,"Belmont, Ohio, US",118,4,7,0
 2020-01-22,us,ohio,40.05026529,-81.49248905,84039059.0,US,USA,840,39059.0,guernsey,"Guernsey, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.05026529,-81.49248905,84039059.0,US,USA,840,39059.0,guernsey,"Guernsey, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.05026529,-81.49248905,84039059.0,US,USA,840,39059.0,guernsey,"Guernsey, Ohio, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.05026529,-81.49248905,84039059.0,US,USA,840,39059.0,guernsey,"Guernsey, Ohio, US",15,0,0,0
 2020-04-25,us,ohio,40.05026529,-81.49248905,84039059.0,US,USA,840,39059.0,guernsey,"Guernsey, Ohio, US",15,0,0,0
 2020-04-26,us,ohio,40.05026529,-81.49248905,84039059.0,US,USA,840,39059.0,guernsey,"Guernsey, Ohio, US",15,0,0,0
+2020-04-27,us,ohio,40.05026529,-81.49248905,84039059.0,US,USA,840,39059.0,guernsey,"Guernsey, Ohio, US",15,0,0,0
+2020-04-28,us,ohio,40.05026529,-81.49248905,84039059.0,US,USA,840,39059.0,guernsey,"Guernsey, Ohio, US",15,0,0,0
 2020-01-22,us,ohio,40.0543329,-84.22871271,84039109.0,US,USA,840,39109.0,miami,"Miami, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.0543329,-84.22871271,84039109.0,US,USA,840,39109.0,miami,"Miami, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.0543329,-84.22871271,84039109.0,US,USA,840,39109.0,miami,"Miami, Ohio, US",0,0,0,0
@@ -3647,6 +3721,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.0543329,-84.22871271,84039109.0,US,USA,840,39109.0,miami,"Miami, Ohio, US",134,0,24,1
 2020-04-25,us,ohio,40.0543329,-84.22871271,84039109.0,US,USA,840,39109.0,miami,"Miami, Ohio, US",135,1,25,1
 2020-04-26,us,ohio,40.0543329,-84.22871271,84039109.0,US,USA,840,39109.0,miami,"Miami, Ohio, US",135,0,25,0
+2020-04-27,us,ohio,40.0543329,-84.22871271,84039109.0,US,USA,840,39109.0,miami,"Miami, Ohio, US",136,1,25,0
+2020-04-28,us,ohio,40.0543329,-84.22871271,84039109.0,US,USA,840,39109.0,miami,"Miami, Ohio, US",136,0,25,0
 2020-01-22,us,ohio,40.09136236,-82.48185785,84039089.0,US,USA,840,39089.0,licking,"Licking, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.09136236,-82.48185785,84039089.0,US,USA,840,39089.0,licking,"Licking, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.09136236,-82.48185785,84039089.0,US,USA,840,39089.0,licking,"Licking, Ohio, US",0,0,0,0
@@ -3743,6 +3819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.09136236,-82.48185785,84039089.0,US,USA,840,39089.0,licking,"Licking, Ohio, US",105,1,4,0
 2020-04-25,us,ohio,40.09136236,-82.48185785,84039089.0,US,USA,840,39089.0,licking,"Licking, Ohio, US",108,3,4,0
 2020-04-26,us,ohio,40.09136236,-82.48185785,84039089.0,US,USA,840,39089.0,licking,"Licking, Ohio, US",108,0,4,0
+2020-04-27,us,ohio,40.09136236,-82.48185785,84039089.0,US,USA,840,39089.0,licking,"Licking, Ohio, US",110,2,5,1
+2020-04-28,us,ohio,40.09136236,-82.48185785,84039089.0,US,USA,840,39089.0,licking,"Licking, Ohio, US",114,4,5,0
 2020-01-22,us,ohio,40.13412966,-84.6194517,84039037.0,US,USA,840,39037.0,darke,"Darke, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.13412966,-84.6194517,84039037.0,US,USA,840,39037.0,darke,"Darke, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.13412966,-84.6194517,84039037.0,US,USA,840,39037.0,darke,"Darke, Ohio, US",0,0,0,0
@@ -3839,6 +3917,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.13412966,-84.6194517,84039037.0,US,USA,840,39037.0,darke,"Darke, Ohio, US",74,12,12,0
 2020-04-25,us,ohio,40.13412966,-84.6194517,84039037.0,US,USA,840,39037.0,darke,"Darke, Ohio, US",75,1,12,0
 2020-04-26,us,ohio,40.13412966,-84.6194517,84039037.0,US,USA,840,39037.0,darke,"Darke, Ohio, US",75,0,13,1
+2020-04-27,us,ohio,40.13412966,-84.6194517,84039037.0,US,USA,840,39037.0,darke,"Darke, Ohio, US",75,0,13,0
+2020-04-28,us,ohio,40.13412966,-84.6194517,84039037.0,US,USA,840,39037.0,darke,"Darke, Ohio, US",75,0,13,0
 2020-01-22,us,ohio,40.13923427,-83.76875242,84039021.0,US,USA,840,39021.0,champaign,"Champaign, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.13923427,-83.76875242,84039021.0,US,USA,840,39021.0,champaign,"Champaign, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.13923427,-83.76875242,84039021.0,US,USA,840,39021.0,champaign,"Champaign, Ohio, US",0,0,0,0
@@ -3935,6 +4015,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.13923427,-83.76875242,84039021.0,US,USA,840,39021.0,champaign,"Champaign, Ohio, US",8,0,1,0
 2020-04-25,us,ohio,40.13923427,-83.76875242,84039021.0,US,USA,840,39021.0,champaign,"Champaign, Ohio, US",12,4,1,0
 2020-04-26,us,ohio,40.13923427,-83.76875242,84039021.0,US,USA,840,39021.0,champaign,"Champaign, Ohio, US",12,0,1,0
+2020-04-27,us,ohio,40.13923427,-83.76875242,84039021.0,US,USA,840,39021.0,champaign,"Champaign, Ohio, US",12,0,1,0
+2020-04-28,us,ohio,40.13923427,-83.76875242,84039021.0,US,USA,840,39021.0,champaign,"Champaign, Ohio, US",14,2,1,0
 2020-01-22,us,ohio,40.27942393,-83.00457058,84039041.0,US,USA,840,39041.0,delaware,"Delaware, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.27942393,-83.00457058,84039041.0,US,USA,840,39041.0,delaware,"Delaware, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.27942393,-83.00457058,84039041.0,US,USA,840,39041.0,delaware,"Delaware, Ohio, US",0,0,0,0
@@ -4031,6 +4113,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.27942393,-83.00457058,84039041.0,US,USA,840,39041.0,delaware,"Delaware, Ohio, US",137,5,3,0
 2020-04-25,us,ohio,40.27942393,-83.00457058,84039041.0,US,USA,840,39041.0,delaware,"Delaware, Ohio, US",138,1,3,0
 2020-04-26,us,ohio,40.27942393,-83.00457058,84039041.0,US,USA,840,39041.0,delaware,"Delaware, Ohio, US",143,5,3,0
+2020-04-27,us,ohio,40.27942393,-83.00457058,84039041.0,US,USA,840,39041.0,delaware,"Delaware, Ohio, US",148,5,3,0
+2020-04-28,us,ohio,40.27942393,-83.00457058,84039041.0,US,USA,840,39041.0,delaware,"Delaware, Ohio, US",151,3,3,0
 2020-01-22,us,ohio,40.29380509,-81.09068544,84039067.0,US,USA,840,39067.0,harrison,"Harrison, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.29380509,-81.09068544,84039067.0,US,USA,840,39067.0,harrison,"Harrison, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.29380509,-81.09068544,84039067.0,US,USA,840,39067.0,harrison,"Harrison, Ohio, US",0,0,0,0
@@ -4127,6 +4211,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.29380509,-81.09068544,84039067.0,US,USA,840,39067.0,harrison,"Harrison, Ohio, US",2,0,0,0
 2020-04-25,us,ohio,40.29380509,-81.09068544,84039067.0,US,USA,840,39067.0,harrison,"Harrison, Ohio, US",2,0,0,0
 2020-04-26,us,ohio,40.29380509,-81.09068544,84039067.0,US,USA,840,39067.0,harrison,"Harrison, Ohio, US",4,2,0,0
+2020-04-27,us,ohio,40.29380509,-81.09068544,84039067.0,US,USA,840,39067.0,harrison,"Harrison, Ohio, US",4,0,0,0
+2020-04-28,us,ohio,40.29380509,-81.09068544,84039067.0,US,USA,840,39067.0,harrison,"Harrison, Ohio, US",4,0,0,0
 2020-01-22,us,ohio,40.30016061,-83.37239023,84039159.0,US,USA,840,39159.0,union,"Union, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.30016061,-83.37239023,84039159.0,US,USA,840,39159.0,union,"Union, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.30016061,-83.37239023,84039159.0,US,USA,840,39159.0,union,"Union, Ohio, US",0,0,0,0
@@ -4223,6 +4309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.30016061,-83.37239023,84039159.0,US,USA,840,39159.0,union,"Union, Ohio, US",17,1,0,0
 2020-04-25,us,ohio,40.30016061,-83.37239023,84039159.0,US,USA,840,39159.0,union,"Union, Ohio, US",18,1,0,0
 2020-04-26,us,ohio,40.30016061,-83.37239023,84039159.0,US,USA,840,39159.0,union,"Union, Ohio, US",18,0,0,0
+2020-04-27,us,ohio,40.30016061,-83.37239023,84039159.0,US,USA,840,39159.0,union,"Union, Ohio, US",18,0,0,0
+2020-04-28,us,ohio,40.30016061,-83.37239023,84039159.0,US,USA,840,39159.0,union,"Union, Ohio, US",18,0,0,0
 2020-01-22,us,ohio,40.30096166,-81.91729018,84039031.0,US,USA,840,39031.0,coshocton,"Coshocton, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.30096166,-81.91729018,84039031.0,US,USA,840,39031.0,coshocton,"Coshocton, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.30096166,-81.91729018,84039031.0,US,USA,840,39031.0,coshocton,"Coshocton, Ohio, US",0,0,0,0
@@ -4319,6 +4407,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.30096166,-81.91729018,84039031.0,US,USA,840,39031.0,coshocton,"Coshocton, Ohio, US",16,0,0,0
 2020-04-25,us,ohio,40.30096166,-81.91729018,84039031.0,US,USA,840,39031.0,coshocton,"Coshocton, Ohio, US",16,0,0,0
 2020-04-26,us,ohio,40.30096166,-81.91729018,84039031.0,US,USA,840,39031.0,coshocton,"Coshocton, Ohio, US",16,0,0,0
+2020-04-27,us,ohio,40.30096166,-81.91729018,84039031.0,US,USA,840,39031.0,coshocton,"Coshocton, Ohio, US",16,0,0,0
+2020-04-28,us,ohio,40.30096166,-81.91729018,84039031.0,US,USA,840,39031.0,coshocton,"Coshocton, Ohio, US",17,1,0,0
 2020-01-22,us,ohio,40.33163494,-84.20258189,84039149.0,US,USA,840,39149.0,shelby,"Shelby, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.33163494,-84.20258189,84039149.0,US,USA,840,39149.0,shelby,"Shelby, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.33163494,-84.20258189,84039149.0,US,USA,840,39149.0,shelby,"Shelby, Ohio, US",0,0,0,0
@@ -4415,6 +4505,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.33163494,-84.20258189,84039149.0,US,USA,840,39149.0,shelby,"Shelby, Ohio, US",30,0,0,0
 2020-04-25,us,ohio,40.33163494,-84.20258189,84039149.0,US,USA,840,39149.0,shelby,"Shelby, Ohio, US",30,0,1,1
 2020-04-26,us,ohio,40.33163494,-84.20258189,84039149.0,US,USA,840,39149.0,shelby,"Shelby, Ohio, US",30,0,1,0
+2020-04-27,us,ohio,40.33163494,-84.20258189,84039149.0,US,USA,840,39149.0,shelby,"Shelby, Ohio, US",30,0,1,0
+2020-04-28,us,ohio,40.33163494,-84.20258189,84039149.0,US,USA,840,39149.0,shelby,"Shelby, Ohio, US",30,0,1,0
 2020-01-22,us,ohio,40.38614126,-80.76259514,84039081.0,US,USA,840,39081.0,jefferson,"Jefferson, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.38614126,-80.76259514,84039081.0,US,USA,840,39081.0,jefferson,"Jefferson, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.38614126,-80.76259514,84039081.0,US,USA,840,39081.0,jefferson,"Jefferson, Ohio, US",0,0,0,0
@@ -4511,6 +4603,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.38614126,-80.76259514,84039081.0,US,USA,840,39081.0,jefferson,"Jefferson, Ohio, US",33,0,1,0
 2020-04-25,us,ohio,40.38614126,-80.76259514,84039081.0,US,USA,840,39081.0,jefferson,"Jefferson, Ohio, US",35,2,1,0
 2020-04-26,us,ohio,40.38614126,-80.76259514,84039081.0,US,USA,840,39081.0,jefferson,"Jefferson, Ohio, US",37,2,1,0
+2020-04-27,us,ohio,40.38614126,-80.76259514,84039081.0,US,USA,840,39081.0,jefferson,"Jefferson, Ohio, US",39,2,1,0
+2020-04-28,us,ohio,40.38614126,-80.76259514,84039081.0,US,USA,840,39081.0,jefferson,"Jefferson, Ohio, US",42,3,1,0
 2020-01-22,us,ohio,40.38996525,-83.76784341,84039091.0,US,USA,840,39091.0,logan,"Logan, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.38996525,-83.76784341,84039091.0,US,USA,840,39091.0,logan,"Logan, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.38996525,-83.76784341,84039091.0,US,USA,840,39091.0,logan,"Logan, Ohio, US",0,0,0,0
@@ -4607,6 +4701,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.38996525,-83.76784341,84039091.0,US,USA,840,39091.0,logan,"Logan, Ohio, US",16,1,0,0
 2020-04-25,us,ohio,40.38996525,-83.76784341,84039091.0,US,USA,840,39091.0,logan,"Logan, Ohio, US",18,2,0,0
 2020-04-26,us,ohio,40.38996525,-83.76784341,84039091.0,US,USA,840,39091.0,logan,"Logan, Ohio, US",18,0,0,0
+2020-04-27,us,ohio,40.38996525,-83.76784341,84039091.0,US,USA,840,39091.0,logan,"Logan, Ohio, US",18,0,0,0
+2020-04-28,us,ohio,40.38996525,-83.76784341,84039091.0,US,USA,840,39091.0,logan,"Logan, Ohio, US",18,0,0,0
 2020-01-22,us,ohio,40.39830217,-82.42027563,84039083.0,US,USA,840,39083.0,knox,"Knox, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.39830217,-82.42027563,84039083.0,US,USA,840,39083.0,knox,"Knox, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.39830217,-82.42027563,84039083.0,US,USA,840,39083.0,knox,"Knox, Ohio, US",0,0,0,0
@@ -4703,6 +4799,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.39830217,-82.42027563,84039083.0,US,USA,840,39083.0,knox,"Knox, Ohio, US",15,1,1,0
 2020-04-25,us,ohio,40.39830217,-82.42027563,84039083.0,US,USA,840,39083.0,knox,"Knox, Ohio, US",15,0,1,0
 2020-04-26,us,ohio,40.39830217,-82.42027563,84039083.0,US,USA,840,39083.0,knox,"Knox, Ohio, US",15,0,1,0
+2020-04-27,us,ohio,40.39830217,-82.42027563,84039083.0,US,USA,840,39083.0,knox,"Knox, Ohio, US",15,0,1,0
+2020-04-28,us,ohio,40.39830217,-82.42027563,84039083.0,US,USA,840,39083.0,knox,"Knox, Ohio, US",15,0,1,0
 2020-01-22,us,ohio,40.44214695,-81.47226262,84039157.0,US,USA,840,39157.0,tuscarawas,"Tuscarawas, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.44214695,-81.47226262,84039157.0,US,USA,840,39157.0,tuscarawas,"Tuscarawas, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.44214695,-81.47226262,84039157.0,US,USA,840,39157.0,tuscarawas,"Tuscarawas, Ohio, US",0,0,0,0
@@ -4799,6 +4897,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.44214695,-81.47226262,84039157.0,US,USA,840,39157.0,tuscarawas,"Tuscarawas, Ohio, US",42,0,0,0
 2020-04-25,us,ohio,40.44214695,-81.47226262,84039157.0,US,USA,840,39157.0,tuscarawas,"Tuscarawas, Ohio, US",48,6,0,0
 2020-04-26,us,ohio,40.44214695,-81.47226262,84039157.0,US,USA,840,39157.0,tuscarawas,"Tuscarawas, Ohio, US",50,2,0,0
+2020-04-27,us,ohio,40.44214695,-81.47226262,84039157.0,US,USA,840,39157.0,tuscarawas,"Tuscarawas, Ohio, US",57,7,0,0
+2020-04-28,us,ohio,40.44214695,-81.47226262,84039157.0,US,USA,840,39157.0,tuscarawas,"Tuscarawas, Ohio, US",59,2,0,0
 2020-01-22,us,ohio,40.52363560000001,-82.7892599,84039117.0,US,USA,840,39117.0,morrow,"Morrow, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.52363560000001,-82.7892599,84039117.0,US,USA,840,39117.0,morrow,"Morrow, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.52363560000001,-82.7892599,84039117.0,US,USA,840,39117.0,morrow,"Morrow, Ohio, US",0,0,0,0
@@ -4895,6 +4995,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.52363560000001,-82.7892599,84039117.0,US,USA,840,39117.0,morrow,"Morrow, Ohio, US",26,1,0,0
 2020-04-25,us,ohio,40.52363560000001,-82.7892599,84039117.0,US,USA,840,39117.0,morrow,"Morrow, Ohio, US",26,0,0,0
 2020-04-26,us,ohio,40.52363560000001,-82.7892599,84039117.0,US,USA,840,39117.0,morrow,"Morrow, Ohio, US",34,8,0,0
+2020-04-27,us,ohio,40.52363560000001,-82.7892599,84039117.0,US,USA,840,39117.0,morrow,"Morrow, Ohio, US",34,0,1,1
+2020-04-28,us,ohio,40.52363560000001,-82.7892599,84039117.0,US,USA,840,39117.0,morrow,"Morrow, Ohio, US",36,2,1,0
 2020-01-22,us,ohio,40.54043046,-84.62912742,84039107.0,US,USA,840,39107.0,mercer,"Mercer, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.54043046,-84.62912742,84039107.0,US,USA,840,39107.0,mercer,"Mercer, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.54043046,-84.62912742,84039107.0,US,USA,840,39107.0,mercer,"Mercer, Ohio, US",0,0,0,0
@@ -4991,6 +5093,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.54043046,-84.62912742,84039107.0,US,USA,840,39107.0,mercer,"Mercer, Ohio, US",16,0,1,0
 2020-04-25,us,ohio,40.54043046,-84.62912742,84039107.0,US,USA,840,39107.0,mercer,"Mercer, Ohio, US",18,2,1,0
 2020-04-26,us,ohio,40.54043046,-84.62912742,84039107.0,US,USA,840,39107.0,mercer,"Mercer, Ohio, US",18,0,1,0
+2020-04-27,us,ohio,40.54043046,-84.62912742,84039107.0,US,USA,840,39107.0,mercer,"Mercer, Ohio, US",18,0,1,0
+2020-04-28,us,ohio,40.54043046,-84.62912742,84039107.0,US,USA,840,39107.0,mercer,"Mercer, Ohio, US",18,0,1,0
 2020-01-22,us,ohio,40.55998859,-84.22421429999999,84039011.0,US,USA,840,39011.0,auglaize,"Auglaize, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.55998859,-84.22421429999999,84039011.0,US,USA,840,39011.0,auglaize,"Auglaize, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.55998859,-84.22421429999999,84039011.0,US,USA,840,39011.0,auglaize,"Auglaize, Ohio, US",0,0,0,0
@@ -5087,6 +5191,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.55998859,-84.22421429999999,84039011.0,US,USA,840,39011.0,auglaize,"Auglaize, Ohio, US",29,0,3,0
 2020-04-25,us,ohio,40.55998859,-84.22421429999999,84039011.0,US,USA,840,39011.0,auglaize,"Auglaize, Ohio, US",30,1,3,0
 2020-04-26,us,ohio,40.55998859,-84.22421429999999,84039011.0,US,USA,840,39011.0,auglaize,"Auglaize, Ohio, US",30,0,3,0
+2020-04-27,us,ohio,40.55998859,-84.22421429999999,84039011.0,US,USA,840,39011.0,auglaize,"Auglaize, Ohio, US",31,1,3,0
+2020-04-28,us,ohio,40.55998859,-84.22421429999999,84039011.0,US,USA,840,39011.0,auglaize,"Auglaize, Ohio, US",32,1,3,0
 2020-01-22,us,ohio,40.56163713,-81.92635677,84039075.0,US,USA,840,39075.0,holmes,"Holmes, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.56163713,-81.92635677,84039075.0,US,USA,840,39075.0,holmes,"Holmes, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.56163713,-81.92635677,84039075.0,US,USA,840,39075.0,holmes,"Holmes, Ohio, US",0,0,0,0
@@ -5183,6 +5289,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.56163713,-81.92635677,84039075.0,US,USA,840,39075.0,holmes,"Holmes, Ohio, US",5,0,1,0
 2020-04-25,us,ohio,40.56163713,-81.92635677,84039075.0,US,USA,840,39075.0,holmes,"Holmes, Ohio, US",5,0,1,0
 2020-04-26,us,ohio,40.56163713,-81.92635677,84039075.0,US,USA,840,39075.0,holmes,"Holmes, Ohio, US",5,0,1,0
+2020-04-27,us,ohio,40.56163713,-81.92635677,84039075.0,US,USA,840,39075.0,holmes,"Holmes, Ohio, US",5,0,1,0
+2020-04-28,us,ohio,40.56163713,-81.92635677,84039075.0,US,USA,840,39075.0,holmes,"Holmes, Ohio, US",5,0,1,0
 2020-01-22,us,ohio,40.5789686,-81.09178213,84039019.0,US,USA,840,39019.0,carroll,"Carroll, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.5789686,-81.09178213,84039019.0,US,USA,840,39019.0,carroll,"Carroll, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.5789686,-81.09178213,84039019.0,US,USA,840,39019.0,carroll,"Carroll, Ohio, US",0,0,0,0
@@ -5279,6 +5387,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.5789686,-81.09178213,84039019.0,US,USA,840,39019.0,carroll,"Carroll, Ohio, US",19,1,1,1
 2020-04-25,us,ohio,40.5789686,-81.09178213,84039019.0,US,USA,840,39019.0,carroll,"Carroll, Ohio, US",20,1,1,0
 2020-04-26,us,ohio,40.5789686,-81.09178213,84039019.0,US,USA,840,39019.0,carroll,"Carroll, Ohio, US",20,0,1,0
+2020-04-27,us,ohio,40.5789686,-81.09178213,84039019.0,US,USA,840,39019.0,carroll,"Carroll, Ohio, US",19,-1,1,0
+2020-04-28,us,ohio,40.5789686,-81.09178213,84039019.0,US,USA,840,39019.0,carroll,"Carroll, Ohio, US",19,0,1,0
 2020-01-22,us,ohio,40.58610662,-83.15736305,84039101.0,US,USA,840,39101.0,marion,"Marion, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.58610662,-83.15736305,84039101.0,US,USA,840,39101.0,marion,"Marion, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.58610662,-83.15736305,84039101.0,US,USA,840,39101.0,marion,"Marion, Ohio, US",0,0,0,0
@@ -5375,6 +5485,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.58610662,-83.15736305,84039101.0,US,USA,840,39101.0,marion,"Marion, Ohio, US",2169,8,4,1
 2020-04-25,us,ohio,40.58610662,-83.15736305,84039101.0,US,USA,840,39101.0,marion,"Marion, Ohio, US",2172,3,4,0
 2020-04-26,us,ohio,40.58610662,-83.15736305,84039101.0,US,USA,840,39101.0,marion,"Marion, Ohio, US",2178,6,4,0
+2020-04-27,us,ohio,40.58610662,-83.15736305,84039101.0,US,USA,840,39101.0,marion,"Marion, Ohio, US",2188,10,4,0
+2020-04-28,us,ohio,40.58610662,-83.15736305,84039101.0,US,USA,840,39101.0,marion,"Marion, Ohio, US",2191,3,4,0
 2020-01-22,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",0,0,0,0
@@ -5471,6 +5583,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",21,1,0,0
 2020-04-25,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",23,2,0,0
 2020-04-26,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",23,0,0,0
+2020-04-27,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",22,-1,0,0
+2020-04-28,us,ohio,40.66015414,-83.65929931,84039065.0,US,USA,840,39065.0,hardin,"Hardin, Ohio, US",24,2,0,0
 2020-01-22,us,ohio,40.76932373,-80.78094576,84039029.0,US,USA,840,39029.0,columbiana,"Columbiana, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.76932373,-80.78094576,84039029.0,US,USA,840,39029.0,columbiana,"Columbiana, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.76932373,-80.78094576,84039029.0,US,USA,840,39029.0,columbiana,"Columbiana, Ohio, US",0,0,0,0
@@ -5567,6 +5681,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.76932373,-80.78094576,84039029.0,US,USA,840,39029.0,columbiana,"Columbiana, Ohio, US",214,6,18,2
 2020-04-25,us,ohio,40.76932373,-80.78094576,84039029.0,US,USA,840,39029.0,columbiana,"Columbiana, Ohio, US",219,5,18,0
 2020-04-26,us,ohio,40.76932373,-80.78094576,84039029.0,US,USA,840,39029.0,columbiana,"Columbiana, Ohio, US",223,4,18,0
+2020-04-27,us,ohio,40.76932373,-80.78094576,84039029.0,US,USA,840,39029.0,columbiana,"Columbiana, Ohio, US",228,5,20,2
+2020-04-28,us,ohio,40.76932373,-80.78094576,84039029.0,US,USA,840,39029.0,columbiana,"Columbiana, Ohio, US",235,7,21,1
 2020-01-22,us,ohio,40.77180308,-82.53799609999999,84039139.0,US,USA,840,39139.0,richland,"Richland, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.77180308,-82.53799609999999,84039139.0,US,USA,840,39139.0,richland,"Richland, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.77180308,-82.53799609999999,84039139.0,US,USA,840,39139.0,richland,"Richland, Ohio, US",0,0,0,0
@@ -5663,6 +5779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.77180308,-82.53799609999999,84039139.0,US,USA,840,39139.0,richland,"Richland, Ohio, US",73,3,1,0
 2020-04-25,us,ohio,40.77180308,-82.53799609999999,84039139.0,US,USA,840,39139.0,richland,"Richland, Ohio, US",77,4,1,0
 2020-04-26,us,ohio,40.77180308,-82.53799609999999,84039139.0,US,USA,840,39139.0,richland,"Richland, Ohio, US",78,1,1,0
+2020-04-27,us,ohio,40.77180308,-82.53799609999999,84039139.0,US,USA,840,39139.0,richland,"Richland, Ohio, US",76,-2,1,0
+2020-04-28,us,ohio,40.77180308,-82.53799609999999,84039139.0,US,USA,840,39139.0,richland,"Richland, Ohio, US",80,4,1,0
 2020-01-22,us,ohio,40.77285242,-84.10802343,84039003.0,US,USA,840,39003.0,allen,"Allen, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.77285242,-84.10802343,84039003.0,US,USA,840,39003.0,allen,"Allen, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.77285242,-84.10802343,84039003.0,US,USA,840,39003.0,allen,"Allen, Ohio, US",0,0,0,0
@@ -5759,6 +5877,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.77285242,-84.10802343,84039003.0,US,USA,840,39003.0,allen,"Allen, Ohio, US",108,8,15,1
 2020-04-25,us,ohio,40.77285242,-84.10802343,84039003.0,US,USA,840,39003.0,allen,"Allen, Ohio, US",108,0,17,2
 2020-04-26,us,ohio,40.77285242,-84.10802343,84039003.0,US,USA,840,39003.0,allen,"Allen, Ohio, US",108,0,18,1
+2020-04-27,us,ohio,40.77285242,-84.10802343,84039003.0,US,USA,840,39003.0,allen,"Allen, Ohio, US",103,-5,18,0
+2020-04-28,us,ohio,40.77285242,-84.10802343,84039003.0,US,USA,840,39003.0,allen,"Allen, Ohio, US",103,0,19,1
 2020-01-22,us,ohio,40.81482476,-81.36437305,84039151.0,US,USA,840,39151.0,stark,"Stark, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.81482476,-81.36437305,84039151.0,US,USA,840,39151.0,stark,"Stark, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.81482476,-81.36437305,84039151.0,US,USA,840,39151.0,stark,"Stark, Ohio, US",0,0,0,0
@@ -5855,6 +5975,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.81482476,-81.36437305,84039151.0,US,USA,840,39151.0,stark,"Stark, Ohio, US",294,4,34,4
 2020-04-25,us,ohio,40.81482476,-81.36437305,84039151.0,US,USA,840,39151.0,stark,"Stark, Ohio, US",303,9,34,0
 2020-04-26,us,ohio,40.81482476,-81.36437305,84039151.0,US,USA,840,39151.0,stark,"Stark, Ohio, US",310,7,34,0
+2020-04-27,us,ohio,40.81482476,-81.36437305,84039151.0,US,USA,840,39151.0,stark,"Stark, Ohio, US",312,2,35,1
+2020-04-28,us,ohio,40.81482476,-81.36437305,84039151.0,US,USA,840,39151.0,stark,"Stark, Ohio, US",324,12,36,1
 2020-01-22,us,ohio,40.82925852,-81.88844833,84039169.0,US,USA,840,39169.0,wayne,"Wayne, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.82925852,-81.88844833,84039169.0,US,USA,840,39169.0,wayne,"Wayne, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.82925852,-81.88844833,84039169.0,US,USA,840,39169.0,wayne,"Wayne, Ohio, US",0,0,0,0
@@ -5951,6 +6073,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.82925852,-81.88844833,84039169.0,US,USA,840,39169.0,wayne,"Wayne, Ohio, US",91,3,18,0
 2020-04-25,us,ohio,40.82925852,-81.88844833,84039169.0,US,USA,840,39169.0,wayne,"Wayne, Ohio, US",100,9,20,2
 2020-04-26,us,ohio,40.82925852,-81.88844833,84039169.0,US,USA,840,39169.0,wayne,"Wayne, Ohio, US",104,4,21,1
+2020-04-27,us,ohio,40.82925852,-81.88844833,84039169.0,US,USA,840,39169.0,wayne,"Wayne, Ohio, US",114,10,22,1
+2020-04-28,us,ohio,40.82925852,-81.88844833,84039169.0,US,USA,840,39169.0,wayne,"Wayne, Ohio, US",119,5,23,1
 2020-01-22,us,ohio,40.84339621,-83.30734173,84039175.0,US,USA,840,39175.0,wyandot,"Wyandot, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.84339621,-83.30734173,84039175.0,US,USA,840,39175.0,wyandot,"Wyandot, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.84339621,-83.30734173,84039175.0,US,USA,840,39175.0,wyandot,"Wyandot, Ohio, US",0,0,0,0
@@ -6047,6 +6171,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.84339621,-83.30734173,84039175.0,US,USA,840,39175.0,wyandot,"Wyandot, Ohio, US",24,3,2,0
 2020-04-25,us,ohio,40.84339621,-83.30734173,84039175.0,US,USA,840,39175.0,wyandot,"Wyandot, Ohio, US",24,0,2,0
 2020-04-26,us,ohio,40.84339621,-83.30734173,84039175.0,US,USA,840,39175.0,wyandot,"Wyandot, Ohio, US",24,0,2,0
+2020-04-27,us,ohio,40.84339621,-83.30734173,84039175.0,US,USA,840,39175.0,wyandot,"Wyandot, Ohio, US",24,0,2,0
+2020-04-28,us,ohio,40.84339621,-83.30734173,84039175.0,US,USA,840,39175.0,wyandot,"Wyandot, Ohio, US",24,0,2,0
 2020-01-22,us,ohio,40.84772277,-82.27280781,84039005.0,US,USA,840,39005.0,ashland,"Ashland, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.84772277,-82.27280781,84039005.0,US,USA,840,39005.0,ashland,"Ashland, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.84772277,-82.27280781,84039005.0,US,USA,840,39005.0,ashland,"Ashland, Ohio, US",0,0,0,0
@@ -6143,6 +6269,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.84772277,-82.27280781,84039005.0,US,USA,840,39005.0,ashland,"Ashland, Ohio, US",5,0,0,0
 2020-04-25,us,ohio,40.84772277,-82.27280781,84039005.0,US,USA,840,39005.0,ashland,"Ashland, Ohio, US",5,0,0,0
 2020-04-26,us,ohio,40.84772277,-82.27280781,84039005.0,US,USA,840,39005.0,ashland,"Ashland, Ohio, US",6,1,0,0
+2020-04-27,us,ohio,40.84772277,-82.27280781,84039005.0,US,USA,840,39005.0,ashland,"Ashland, Ohio, US",6,0,0,0
+2020-04-28,us,ohio,40.84772277,-82.27280781,84039005.0,US,USA,840,39005.0,ashland,"Ashland, Ohio, US",6,0,0,0
 2020-01-22,us,ohio,40.85065156,-82.91989099,84039033.0,US,USA,840,39033.0,crawford,"Crawford, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.85065156,-82.91989099,84039033.0,US,USA,840,39033.0,crawford,"Crawford, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.85065156,-82.91989099,84039033.0,US,USA,840,39033.0,crawford,"Crawford, Ohio, US",0,0,0,0
@@ -6239,6 +6367,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.85065156,-82.91989099,84039033.0,US,USA,840,39033.0,crawford,"Crawford, Ohio, US",38,1,0,0
 2020-04-25,us,ohio,40.85065156,-82.91989099,84039033.0,US,USA,840,39033.0,crawford,"Crawford, Ohio, US",39,1,0,0
 2020-04-26,us,ohio,40.85065156,-82.91989099,84039033.0,US,USA,840,39033.0,crawford,"Crawford, Ohio, US",39,0,0,0
+2020-04-27,us,ohio,40.85065156,-82.91989099,84039033.0,US,USA,840,39033.0,crawford,"Crawford, Ohio, US",41,2,0,0
+2020-04-28,us,ohio,40.85065156,-82.91989099,84039033.0,US,USA,840,39033.0,crawford,"Crawford, Ohio, US",41,0,0,0
 2020-01-22,us,ohio,40.8554138,-84.59111700000003,84039161.0,US,USA,840,39161.0,van-wert,"Van Wert, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,40.8554138,-84.59111700000003,84039161.0,US,USA,840,39161.0,van-wert,"Van Wert, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,40.8554138,-84.59111700000003,84039161.0,US,USA,840,39161.0,van-wert,"Van Wert, Ohio, US",0,0,0,0
@@ -6335,6 +6465,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,40.8554138,-84.59111700000003,84039161.0,US,USA,840,39161.0,van-wert,"Van Wert, Ohio, US",3,0,0,0
 2020-04-25,us,ohio,40.8554138,-84.59111700000003,84039161.0,US,USA,840,39161.0,van-wert,"Van Wert, Ohio, US",3,0,0,0
 2020-04-26,us,ohio,40.8554138,-84.59111700000003,84039161.0,US,USA,840,39161.0,van-wert,"Van Wert, Ohio, US",3,0,0,0
+2020-04-27,us,ohio,40.8554138,-84.59111700000003,84039161.0,US,USA,840,39161.0,van-wert,"Van Wert, Ohio, US",3,0,0,0
+2020-04-28,us,ohio,40.8554138,-84.59111700000003,84039161.0,US,USA,840,39161.0,van-wert,"Van Wert, Ohio, US",3,0,0,0
 2020-01-22,us,ohio,41.00250487,-83.66838948,84039063.0,US,USA,840,39063.0,hancock,"Hancock, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.00250487,-83.66838948,84039063.0,US,USA,840,39063.0,hancock,"Hancock, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.00250487,-83.66838948,84039063.0,US,USA,840,39063.0,hancock,"Hancock, Ohio, US",0,0,0,0
@@ -6431,6 +6563,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.00250487,-83.66838948,84039063.0,US,USA,840,39063.0,hancock,"Hancock, Ohio, US",34,2,1,0
 2020-04-25,us,ohio,41.00250487,-83.66838948,84039063.0,US,USA,840,39063.0,hancock,"Hancock, Ohio, US",34,0,1,0
 2020-04-26,us,ohio,41.00250487,-83.66838948,84039063.0,US,USA,840,39063.0,hancock,"Hancock, Ohio, US",34,0,1,0
+2020-04-27,us,ohio,41.00250487,-83.66838948,84039063.0,US,USA,840,39063.0,hancock,"Hancock, Ohio, US",35,1,1,0
+2020-04-28,us,ohio,41.00250487,-83.66838948,84039063.0,US,USA,840,39063.0,hancock,"Hancock, Ohio, US",37,2,1,0
 2020-01-22,us,ohio,41.01631101,-80.77287029,84039099.0,US,USA,840,39099.0,mahoning,"Mahoning, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.01631101,-80.77287029,84039099.0,US,USA,840,39099.0,mahoning,"Mahoning, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.01631101,-80.77287029,84039099.0,US,USA,840,39099.0,mahoning,"Mahoning, Ohio, US",0,0,0,0
@@ -6527,6 +6661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.01631101,-80.77287029,84039099.0,US,USA,840,39099.0,mahoning,"Mahoning, Ohio, US",688,22,65,3
 2020-04-25,us,ohio,41.01631101,-80.77287029,84039099.0,US,USA,840,39099.0,mahoning,"Mahoning, Ohio, US",721,33,66,1
 2020-04-26,us,ohio,41.01631101,-80.77287029,84039099.0,US,USA,840,39099.0,mahoning,"Mahoning, Ohio, US",737,16,66,0
+2020-04-27,us,ohio,41.01631101,-80.77287029,84039099.0,US,USA,840,39099.0,mahoning,"Mahoning, Ohio, US",764,27,65,-1
+2020-04-28,us,ohio,41.01631101,-80.77287029,84039099.0,US,USA,840,39099.0,mahoning,"Mahoning, Ohio, US",784,20,67,2
 2020-01-22,us,ohio,41.02094889,-84.1336111,84039137.0,US,USA,840,39137.0,putnam,"Putnam, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.02094889,-84.1336111,84039137.0,US,USA,840,39137.0,putnam,"Putnam, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.02094889,-84.1336111,84039137.0,US,USA,840,39137.0,putnam,"Putnam, Ohio, US",0,0,0,0
@@ -6623,6 +6759,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.02094889,-84.1336111,84039137.0,US,USA,840,39137.0,putnam,"Putnam, Ohio, US",49,2,4,1
 2020-04-25,us,ohio,41.02094889,-84.1336111,84039137.0,US,USA,840,39137.0,putnam,"Putnam, Ohio, US",51,2,5,1
 2020-04-26,us,ohio,41.02094889,-84.1336111,84039137.0,US,USA,840,39137.0,putnam,"Putnam, Ohio, US",54,3,5,0
+2020-04-27,us,ohio,41.02094889,-84.1336111,84039137.0,US,USA,840,39137.0,putnam,"Putnam, Ohio, US",54,0,5,0
+2020-04-28,us,ohio,41.02094889,-84.1336111,84039137.0,US,USA,840,39137.0,putnam,"Putnam, Ohio, US",63,9,6,1
 2020-01-22,us,ohio,41.11676341,-84.5801017,84039125.0,US,USA,840,39125.0,paulding,"Paulding, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.11676341,-84.5801017,84039125.0,US,USA,840,39125.0,paulding,"Paulding, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.11676341,-84.5801017,84039125.0,US,USA,840,39125.0,paulding,"Paulding, Ohio, US",0,0,0,0
@@ -6719,6 +6857,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.11676341,-84.5801017,84039125.0,US,USA,840,39125.0,paulding,"Paulding, Ohio, US",8,1,0,0
 2020-04-25,us,ohio,41.11676341,-84.5801017,84039125.0,US,USA,840,39125.0,paulding,"Paulding, Ohio, US",8,0,0,0
 2020-04-26,us,ohio,41.11676341,-84.5801017,84039125.0,US,USA,840,39125.0,paulding,"Paulding, Ohio, US",8,0,0,0
+2020-04-27,us,ohio,41.11676341,-84.5801017,84039125.0,US,USA,840,39125.0,paulding,"Paulding, Ohio, US",8,0,0,0
+2020-04-28,us,ohio,41.11676341,-84.5801017,84039125.0,US,USA,840,39125.0,paulding,"Paulding, Ohio, US",8,0,0,0
 2020-01-22,us,ohio,41.11770589,-81.89986209999998,84039103.0,US,USA,840,39103.0,medina,"Medina, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.11770589,-81.89986209999998,84039103.0,US,USA,840,39103.0,medina,"Medina, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.11770589,-81.89986209999998,84039103.0,US,USA,840,39103.0,medina,"Medina, Ohio, US",0,0,0,0
@@ -6815,6 +6955,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.11770589,-81.89986209999998,84039103.0,US,USA,840,39103.0,medina,"Medina, Ohio, US",149,1,13,0
 2020-04-25,us,ohio,41.11770589,-81.89986209999998,84039103.0,US,USA,840,39103.0,medina,"Medina, Ohio, US",153,4,13,0
 2020-04-26,us,ohio,41.11770589,-81.89986209999998,84039103.0,US,USA,840,39103.0,medina,"Medina, Ohio, US",160,7,13,0
+2020-04-27,us,ohio,41.11770589,-81.89986209999998,84039103.0,US,USA,840,39103.0,medina,"Medina, Ohio, US",159,-1,13,0
+2020-04-28,us,ohio,41.11770589,-81.89986209999998,84039103.0,US,USA,840,39103.0,medina,"Medina, Ohio, US",162,3,14,1
 2020-01-22,us,ohio,41.12351311,-83.12783209,84039147.0,US,USA,840,39147.0,seneca,"Seneca, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.12351311,-83.12783209,84039147.0,US,USA,840,39147.0,seneca,"Seneca, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.12351311,-83.12783209,84039147.0,US,USA,840,39147.0,seneca,"Seneca, Ohio, US",0,0,0,0
@@ -6911,6 +7053,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.12351311,-83.12783209,84039147.0,US,USA,840,39147.0,seneca,"Seneca, Ohio, US",12,1,1,0
 2020-04-25,us,ohio,41.12351311,-83.12783209,84039147.0,US,USA,840,39147.0,seneca,"Seneca, Ohio, US",12,0,1,0
 2020-04-26,us,ohio,41.12351311,-83.12783209,84039147.0,US,USA,840,39147.0,seneca,"Seneca, Ohio, US",13,1,1,0
+2020-04-27,us,ohio,41.12351311,-83.12783209,84039147.0,US,USA,840,39147.0,seneca,"Seneca, Ohio, US",14,1,1,0
+2020-04-28,us,ohio,41.12351311,-83.12783209,84039147.0,US,USA,840,39147.0,seneca,"Seneca, Ohio, US",14,0,1,0
 2020-01-22,us,ohio,41.12464734,-81.53123079,84039153.0,US,USA,840,39153.0,summit,"Summit, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.12464734,-81.53123079,84039153.0,US,USA,840,39153.0,summit,"Summit, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.12464734,-81.53123079,84039153.0,US,USA,840,39153.0,summit,"Summit, Ohio, US",0,0,0,0
@@ -7007,6 +7151,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.12464734,-81.53123079,84039153.0,US,USA,840,39153.0,summit,"Summit, Ohio, US",460,13,35,3
 2020-04-25,us,ohio,41.12464734,-81.53123079,84039153.0,US,USA,840,39153.0,summit,"Summit, Ohio, US",475,15,35,0
 2020-04-26,us,ohio,41.12464734,-81.53123079,84039153.0,US,USA,840,39153.0,summit,"Summit, Ohio, US",485,10,38,3
+2020-04-27,us,ohio,41.12464734,-81.53123079,84039153.0,US,USA,840,39153.0,summit,"Summit, Ohio, US",500,15,39,1
+2020-04-28,us,ohio,41.12464734,-81.53123079,84039153.0,US,USA,840,39153.0,summit,"Summit, Ohio, US",542,42,43,4
 2020-01-22,us,ohio,41.14651175,-82.59867951,84039077.0,US,USA,840,39077.0,huron,"Huron, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.14651175,-82.59867951,84039077.0,US,USA,840,39077.0,huron,"Huron, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.14651175,-82.59867951,84039077.0,US,USA,840,39077.0,huron,"Huron, Ohio, US",0,0,0,0
@@ -7103,6 +7249,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.14651175,-82.59867951,84039077.0,US,USA,840,39077.0,huron,"Huron, Ohio, US",25,1,1,0
 2020-04-25,us,ohio,41.14651175,-82.59867951,84039077.0,US,USA,840,39077.0,huron,"Huron, Ohio, US",27,2,1,0
 2020-04-26,us,ohio,41.14651175,-82.59867951,84039077.0,US,USA,840,39077.0,huron,"Huron, Ohio, US",28,1,1,0
+2020-04-27,us,ohio,41.14651175,-82.59867951,84039077.0,US,USA,840,39077.0,huron,"Huron, Ohio, US",29,1,1,0
+2020-04-28,us,ohio,41.14651175,-82.59867951,84039077.0,US,USA,840,39077.0,huron,"Huron, Ohio, US",30,1,1,0
 2020-01-22,us,ohio,41.16793482,-81.19735782,84039133.0,US,USA,840,39133.0,portage,"Portage, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.16793482,-81.19735782,84039133.0,US,USA,840,39133.0,portage,"Portage, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.16793482,-81.19735782,84039133.0,US,USA,840,39133.0,portage,"Portage, Ohio, US",0,0,0,0
@@ -7199,6 +7347,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.16793482,-81.19735782,84039133.0,US,USA,840,39133.0,portage,"Portage, Ohio, US",213,7,31,0
 2020-04-25,us,ohio,41.16793482,-81.19735782,84039133.0,US,USA,840,39133.0,portage,"Portage, Ohio, US",214,1,31,0
 2020-04-26,us,ohio,41.16793482,-81.19735782,84039133.0,US,USA,840,39133.0,portage,"Portage, Ohio, US",220,6,31,0
+2020-04-27,us,ohio,41.16793482,-81.19735782,84039133.0,US,USA,840,39133.0,portage,"Portage, Ohio, US",221,1,33,2
+2020-04-28,us,ohio,41.16793482,-81.19735782,84039133.0,US,USA,840,39133.0,portage,"Portage, Ohio, US",226,5,35,2
 2020-01-22,us,ohio,41.29553751,-82.15083537,84039093.0,US,USA,840,39093.0,lorain,"Lorain, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.29553751,-82.15083537,84039093.0,US,USA,840,39093.0,lorain,"Lorain, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.29553751,-82.15083537,84039093.0,US,USA,840,39093.0,lorain,"Lorain, Ohio, US",0,0,0,0
@@ -7295,6 +7445,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.29553751,-82.15083537,84039093.0,US,USA,840,39093.0,lorain,"Lorain, Ohio, US",366,22,19,0
 2020-04-25,us,ohio,41.29553751,-82.15083537,84039093.0,US,USA,840,39093.0,lorain,"Lorain, Ohio, US",374,8,19,0
 2020-04-26,us,ohio,41.29553751,-82.15083537,84039093.0,US,USA,840,39093.0,lorain,"Lorain, Ohio, US",377,3,19,0
+2020-04-27,us,ohio,41.29553751,-82.15083537,84039093.0,US,USA,840,39093.0,lorain,"Lorain, Ohio, US",395,18,20,1
+2020-04-28,us,ohio,41.29553751,-82.15083537,84039093.0,US,USA,840,39093.0,lorain,"Lorain, Ohio, US",406,11,20,0
 2020-01-22,us,ohio,41.31735028,-80.76109643,84039155.0,US,USA,840,39155.0,trumbull,"Trumbull, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.31735028,-80.76109643,84039155.0,US,USA,840,39155.0,trumbull,"Trumbull, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.31735028,-80.76109643,84039155.0,US,USA,840,39155.0,trumbull,"Trumbull, Ohio, US",0,0,0,0
@@ -7391,6 +7543,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.31735028,-80.76109643,84039155.0,US,USA,840,39155.0,trumbull,"Trumbull, Ohio, US",278,6,23,1
 2020-04-25,us,ohio,41.31735028,-80.76109643,84039155.0,US,USA,840,39155.0,trumbull,"Trumbull, Ohio, US",287,9,23,0
 2020-04-26,us,ohio,41.31735028,-80.76109643,84039155.0,US,USA,840,39155.0,trumbull,"Trumbull, Ohio, US",293,6,24,1
+2020-04-27,us,ohio,41.31735028,-80.76109643,84039155.0,US,USA,840,39155.0,trumbull,"Trumbull, Ohio, US",295,2,27,3
+2020-04-28,us,ohio,41.31735028,-80.76109643,84039155.0,US,USA,840,39155.0,trumbull,"Trumbull, Ohio, US",299,4,27,0
 2020-01-22,us,ohio,41.32398837,-84.49076944,84039039.0,US,USA,840,39039.0,defiance,"Defiance, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.32398837,-84.49076944,84039039.0,US,USA,840,39039.0,defiance,"Defiance, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.32398837,-84.49076944,84039039.0,US,USA,840,39039.0,defiance,"Defiance, Ohio, US",0,0,0,0
@@ -7487,6 +7641,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.32398837,-84.49076944,84039039.0,US,USA,840,39039.0,defiance,"Defiance, Ohio, US",18,1,1,0
 2020-04-25,us,ohio,41.32398837,-84.49076944,84039039.0,US,USA,840,39039.0,defiance,"Defiance, Ohio, US",19,1,1,0
 2020-04-26,us,ohio,41.32398837,-84.49076944,84039039.0,US,USA,840,39039.0,defiance,"Defiance, Ohio, US",19,0,1,0
+2020-04-27,us,ohio,41.32398837,-84.49076944,84039039.0,US,USA,840,39039.0,defiance,"Defiance, Ohio, US",19,0,1,0
+2020-04-28,us,ohio,41.32398837,-84.49076944,84039039.0,US,USA,840,39039.0,defiance,"Defiance, Ohio, US",20,1,1,0
 2020-01-22,us,ohio,41.3339642,-84.06830637,84039069.0,US,USA,840,39069.0,henry,"Henry, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.3339642,-84.06830637,84039069.0,US,USA,840,39069.0,henry,"Henry, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.3339642,-84.06830637,84039069.0,US,USA,840,39069.0,henry,"Henry, Ohio, US",0,0,0,0
@@ -7583,6 +7739,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.3339642,-84.06830637,84039069.0,US,USA,840,39069.0,henry,"Henry, Ohio, US",4,0,0,0
 2020-04-25,us,ohio,41.3339642,-84.06830637,84039069.0,US,USA,840,39069.0,henry,"Henry, Ohio, US",4,0,0,0
 2020-04-26,us,ohio,41.3339642,-84.06830637,84039069.0,US,USA,840,39069.0,henry,"Henry, Ohio, US",4,0,0,0
+2020-04-27,us,ohio,41.3339642,-84.06830637,84039069.0,US,USA,840,39069.0,henry,"Henry, Ohio, US",4,0,0,0
+2020-04-28,us,ohio,41.3339642,-84.06830637,84039069.0,US,USA,840,39069.0,henry,"Henry, Ohio, US",5,1,0,0
 2020-01-22,us,ohio,41.35624126,-83.137872,84039143.0,US,USA,840,39143.0,sandusky,"Sandusky, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.35624126,-83.137872,84039143.0,US,USA,840,39143.0,sandusky,"Sandusky, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.35624126,-83.137872,84039143.0,US,USA,840,39143.0,sandusky,"Sandusky, Ohio, US",0,0,0,0
@@ -7679,6 +7837,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.35624126,-83.137872,84039143.0,US,USA,840,39143.0,sandusky,"Sandusky, Ohio, US",20,0,2,0
 2020-04-25,us,ohio,41.35624126,-83.137872,84039143.0,US,USA,840,39143.0,sandusky,"Sandusky, Ohio, US",20,0,2,0
 2020-04-26,us,ohio,41.35624126,-83.137872,84039143.0,US,USA,840,39143.0,sandusky,"Sandusky, Ohio, US",20,0,2,0
+2020-04-27,us,ohio,41.35624126,-83.137872,84039143.0,US,USA,840,39143.0,sandusky,"Sandusky, Ohio, US",19,-1,2,0
+2020-04-28,us,ohio,41.35624126,-83.137872,84039143.0,US,USA,840,39143.0,sandusky,"Sandusky, Ohio, US",19,0,4,2
 2020-01-22,us,ohio,41.36224827,-83.62285108,84039173.0,US,USA,840,39173.0,wood,"Wood, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.36224827,-83.62285108,84039173.0,US,USA,840,39173.0,wood,"Wood, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.36224827,-83.62285108,84039173.0,US,USA,840,39173.0,wood,"Wood, Ohio, US",0,0,0,0
@@ -7775,6 +7935,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.36224827,-83.62285108,84039173.0,US,USA,840,39173.0,wood,"Wood, Ohio, US",122,17,15,0
 2020-04-25,us,ohio,41.36224827,-83.62285108,84039173.0,US,USA,840,39173.0,wood,"Wood, Ohio, US",132,10,16,1
 2020-04-26,us,ohio,41.36224827,-83.62285108,84039173.0,US,USA,840,39173.0,wood,"Wood, Ohio, US",133,1,17,1
+2020-04-27,us,ohio,41.36224827,-83.62285108,84039173.0,US,USA,840,39173.0,wood,"Wood, Ohio, US",139,6,18,1
+2020-04-28,us,ohio,41.36224827,-83.62285108,84039173.0,US,USA,840,39173.0,wood,"Wood, Ohio, US",145,6,19,1
 2020-01-22,us,ohio,41.36796058,-82.62904521,84039043.0,US,USA,840,39043.0,erie,"Erie, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.36796058,-82.62904521,84039043.0,US,USA,840,39043.0,erie,"Erie, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.36796058,-82.62904521,84039043.0,US,USA,840,39043.0,erie,"Erie, Ohio, US",0,0,0,0
@@ -7871,6 +8033,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.36796058,-82.62904521,84039043.0,US,USA,840,39043.0,erie,"Erie, Ohio, US",44,1,3,0
 2020-04-25,us,ohio,41.36796058,-82.62904521,84039043.0,US,USA,840,39043.0,erie,"Erie, Ohio, US",47,3,3,0
 2020-04-26,us,ohio,41.36796058,-82.62904521,84039043.0,US,USA,840,39043.0,erie,"Erie, Ohio, US",47,0,3,0
+2020-04-27,us,ohio,41.36796058,-82.62904521,84039043.0,US,USA,840,39043.0,erie,"Erie, Ohio, US",49,2,3,0
+2020-04-28,us,ohio,41.36796058,-82.62904521,84039043.0,US,USA,840,39043.0,erie,"Erie, Ohio, US",52,3,3,0
 2020-01-22,us,ohio,41.424119,-81.65918339,84039035.0,US,USA,840,39035.0,cuyahoga,"Cuyahoga, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.424119,-81.65918339,84039035.0,US,USA,840,39035.0,cuyahoga,"Cuyahoga, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.424119,-81.65918339,84039035.0,US,USA,840,39035.0,cuyahoga,"Cuyahoga, Ohio, US",0,0,0,0
@@ -7967,6 +8131,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.424119,-81.65918339,84039035.0,US,USA,840,39035.0,cuyahoga,"Cuyahoga, Ohio, US",1817,49,91,8
 2020-04-25,us,ohio,41.424119,-81.65918339,84039035.0,US,USA,840,39035.0,cuyahoga,"Cuyahoga, Ohio, US",1867,50,91,0
 2020-04-26,us,ohio,41.424119,-81.65918339,84039035.0,US,USA,840,39035.0,cuyahoga,"Cuyahoga, Ohio, US",1902,35,91,0
+2020-04-27,us,ohio,41.424119,-81.65918339,84039035.0,US,USA,840,39035.0,cuyahoga,"Cuyahoga, Ohio, US",1938,36,96,5
+2020-04-28,us,ohio,41.424119,-81.65918339,84039035.0,US,USA,840,39035.0,cuyahoga,"Cuyahoga, Ohio, US",1984,46,109,13
 2020-01-22,us,ohio,41.49952319,-81.17935342,84039055.0,US,USA,840,39055.0,geauga,"Geauga, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.49952319,-81.17935342,84039055.0,US,USA,840,39055.0,geauga,"Geauga, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.49952319,-81.17935342,84039055.0,US,USA,840,39055.0,geauga,"Geauga, Ohio, US",0,0,0,0
@@ -8063,6 +8229,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.49952319,-81.17935342,84039055.0,US,USA,840,39055.0,geauga,"Geauga, Ohio, US",126,7,9,0
 2020-04-25,us,ohio,41.49952319,-81.17935342,84039055.0,US,USA,840,39055.0,geauga,"Geauga, Ohio, US",128,2,14,5
 2020-04-26,us,ohio,41.49952319,-81.17935342,84039055.0,US,USA,840,39055.0,geauga,"Geauga, Ohio, US",137,9,14,0
+2020-04-27,us,ohio,41.49952319,-81.17935342,84039055.0,US,USA,840,39055.0,geauga,"Geauga, Ohio, US",146,9,13,-1
+2020-04-28,us,ohio,41.49952319,-81.17935342,84039055.0,US,USA,840,39055.0,geauga,"Geauga, Ohio, US",148,2,13,0
 2020-01-22,us,ohio,41.53781826,-83.0940185,84039123.0,US,USA,840,39123.0,ottawa,"Ottawa, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.53781826,-83.0940185,84039123.0,US,USA,840,39123.0,ottawa,"Ottawa, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.53781826,-83.0940185,84039123.0,US,USA,840,39123.0,ottawa,"Ottawa, Ohio, US",0,0,0,0
@@ -8159,6 +8327,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.53781826,-83.0940185,84039123.0,US,USA,840,39123.0,ottawa,"Ottawa, Ohio, US",35,1,0,0
 2020-04-25,us,ohio,41.53781826,-83.0940185,84039123.0,US,USA,840,39123.0,ottawa,"Ottawa, Ohio, US",37,2,0,0
 2020-04-26,us,ohio,41.53781826,-83.0940185,84039123.0,US,USA,840,39123.0,ottawa,"Ottawa, Ohio, US",37,0,0,0
+2020-04-27,us,ohio,41.53781826,-83.0940185,84039123.0,US,USA,840,39123.0,ottawa,"Ottawa, Ohio, US",37,0,0,0
+2020-04-28,us,ohio,41.53781826,-83.0940185,84039123.0,US,USA,840,39123.0,ottawa,"Ottawa, Ohio, US",38,1,0,0
 2020-01-22,us,ohio,41.56052014,-84.58429552,84039171.0,US,USA,840,39171.0,williams,"Williams, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.56052014,-84.58429552,84039171.0,US,USA,840,39171.0,williams,"Williams, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.56052014,-84.58429552,84039171.0,US,USA,840,39171.0,williams,"Williams, Ohio, US",0,0,0,0
@@ -8255,6 +8425,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.56052014,-84.58429552,84039171.0,US,USA,840,39171.0,williams,"Williams, Ohio, US",28,5,1,0
 2020-04-25,us,ohio,41.56052014,-84.58429552,84039171.0,US,USA,840,39171.0,williams,"Williams, Ohio, US",27,-1,1,0
 2020-04-26,us,ohio,41.56052014,-84.58429552,84039171.0,US,USA,840,39171.0,williams,"Williams, Ohio, US",29,2,1,0
+2020-04-27,us,ohio,41.56052014,-84.58429552,84039171.0,US,USA,840,39171.0,williams,"Williams, Ohio, US",29,0,1,0
+2020-04-28,us,ohio,41.56052014,-84.58429552,84039171.0,US,USA,840,39171.0,williams,"Williams, Ohio, US",31,2,1,0
 2020-01-22,us,ohio,41.60213491,-84.12571393,84039051.0,US,USA,840,39051.0,fulton,"Fulton, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.60213491,-84.12571393,84039051.0,US,USA,840,39051.0,fulton,"Fulton, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.60213491,-84.12571393,84039051.0,US,USA,840,39051.0,fulton,"Fulton, Ohio, US",0,0,0,0
@@ -8351,6 +8523,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.60213491,-84.12571393,84039051.0,US,USA,840,39051.0,fulton,"Fulton, Ohio, US",18,0,0,0
 2020-04-25,us,ohio,41.60213491,-84.12571393,84039051.0,US,USA,840,39051.0,fulton,"Fulton, Ohio, US",19,1,0,0
 2020-04-26,us,ohio,41.60213491,-84.12571393,84039051.0,US,USA,840,39051.0,fulton,"Fulton, Ohio, US",19,0,0,0
+2020-04-27,us,ohio,41.60213491,-84.12571393,84039051.0,US,USA,840,39051.0,fulton,"Fulton, Ohio, US",19,0,0,0
+2020-04-28,us,ohio,41.60213491,-84.12571393,84039051.0,US,USA,840,39051.0,fulton,"Fulton, Ohio, US",20,1,0,0
 2020-01-22,us,ohio,41.62101218,-83.65468618,84039095.0,US,USA,840,39095.0,lucas,"Lucas, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.62101218,-83.65468618,84039095.0,US,USA,840,39095.0,lucas,"Lucas, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.62101218,-83.65468618,84039095.0,US,USA,840,39095.0,lucas,"Lucas, Ohio, US",0,0,0,0
@@ -8447,6 +8621,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.62101218,-83.65468618,84039095.0,US,USA,840,39095.0,lucas,"Lucas, Ohio, US",985,49,58,3
 2020-04-25,us,ohio,41.62101218,-83.65468618,84039095.0,US,USA,840,39095.0,lucas,"Lucas, Ohio, US",1033,48,59,1
 2020-04-26,us,ohio,41.62101218,-83.65468618,84039095.0,US,USA,840,39095.0,lucas,"Lucas, Ohio, US",1104,71,59,0
+2020-04-27,us,ohio,41.62101218,-83.65468618,84039095.0,US,USA,840,39095.0,lucas,"Lucas, Ohio, US",1130,26,61,2
+2020-04-28,us,ohio,41.62101218,-83.65468618,84039095.0,US,USA,840,39095.0,lucas,"Lucas, Ohio, US",1166,36,66,5
 2020-01-22,us,ohio,41.69710807,-81.23676539,84039085.0,US,USA,840,39085.0,lake,"Lake, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.69710807,-81.23676539,84039085.0,US,USA,840,39085.0,lake,"Lake, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.69710807,-81.23676539,84039085.0,US,USA,840,39085.0,lake,"Lake, Ohio, US",0,0,0,0
@@ -8543,6 +8719,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.69710807,-81.23676539,84039085.0,US,USA,840,39085.0,lake,"Lake, Ohio, US",154,6,7,1
 2020-04-25,us,ohio,41.69710807,-81.23676539,84039085.0,US,USA,840,39085.0,lake,"Lake, Ohio, US",157,3,7,0
 2020-04-26,us,ohio,41.69710807,-81.23676539,84039085.0,US,USA,840,39085.0,lake,"Lake, Ohio, US",157,0,7,0
+2020-04-27,us,ohio,41.69710807,-81.23676539,84039085.0,US,USA,840,39085.0,lake,"Lake, Ohio, US",158,1,7,0
+2020-04-28,us,ohio,41.69710807,-81.23676539,84039085.0,US,USA,840,39085.0,lake,"Lake, Ohio, US",160,2,7,0
 2020-01-22,us,ohio,41.70860332,-80.74830218,84039007.0,US,USA,840,39007.0,ashtabula,"Ashtabula, Ohio, US",0,0,0,0
 2020-01-23,us,ohio,41.70860332,-80.74830218,84039007.0,US,USA,840,39007.0,ashtabula,"Ashtabula, Ohio, US",0,0,0,0
 2020-01-24,us,ohio,41.70860332,-80.74830218,84039007.0,US,USA,840,39007.0,ashtabula,"Ashtabula, Ohio, US",0,0,0,0
@@ -8639,3 +8817,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,ohio,41.70860332,-80.74830218,84039007.0,US,USA,840,39007.0,ashtabula,"Ashtabula, Ohio, US",103,5,8,1
 2020-04-25,us,ohio,41.70860332,-80.74830218,84039007.0,US,USA,840,39007.0,ashtabula,"Ashtabula, Ohio, US",107,4,10,2
 2020-04-26,us,ohio,41.70860332,-80.74830218,84039007.0,US,USA,840,39007.0,ashtabula,"Ashtabula, Ohio, US",110,3,10,0
+2020-04-27,us,ohio,41.70860332,-80.74830218,84039007.0,US,USA,840,39007.0,ashtabula,"Ashtabula, Ohio, US",110,0,11,1
+2020-04-28,us,ohio,41.70860332,-80.74830218,84039007.0,US,USA,840,39007.0,ashtabula,"Ashtabula, Ohio, US",113,3,11,0

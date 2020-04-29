@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,0.0,0.0,84080006.0,US,USA,840,80006.0,out-of-ca,"Out of CA, California, US",0,0,0,0
 2020-04-25,us,california,0.0,0.0,84080006.0,US,USA,840,80006.0,out-of-ca,"Out of CA, California, US",0,0,0,0
 2020-04-26,us,california,0.0,0.0,84080006.0,US,USA,840,80006.0,out-of-ca,"Out of CA, California, US",0,0,0,0
+2020-04-27,us,california,0.0,0.0,84080006.0,US,USA,840,80006.0,out-of-ca,"Out of CA, California, US",0,0,0,0
+2020-04-28,us,california,0.0,0.0,84080006.0,US,USA,840,80006.0,out-of-ca,"Out of CA, California, US",0,0,0,0
 2020-01-22,us,california,0.0,0.0,84090006.0,US,USA,840,90006.0,unassigned,"Unassigned, California, US",0,0,0,0
 2020-01-23,us,california,0.0,0.0,84090006.0,US,USA,840,90006.0,unassigned,"Unassigned, California, US",0,0,0,0
 2020-01-24,us,california,0.0,0.0,84090006.0,US,USA,840,90006.0,unassigned,"Unassigned, California, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,0.0,0.0,84090006.0,US,USA,840,90006.0,unassigned,"Unassigned, California, US",0,0,2,0
 2020-04-25,us,california,0.0,0.0,84090006.0,US,USA,840,90006.0,unassigned,"Unassigned, California, US",0,0,2,0
 2020-04-26,us,california,0.0,0.0,84090006.0,US,USA,840,90006.0,unassigned,"Unassigned, California, US",0,0,2,0
+2020-04-27,us,california,0.0,0.0,84090006.0,US,USA,840,90006.0,unassigned,"Unassigned, California, US",0,0,2,0
+2020-04-28,us,california,0.0,0.0,84090006.0,US,USA,840,90006.0,unassigned,"Unassigned, California, US",0,0,2,0
 2020-01-22,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",0,0,0,0
 2020-01-23,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",0,0,0,0
 2020-01-24,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",2826,183,102,2
 2020-04-25,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",2943,117,111,9
 2020-04-26,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",2943,0,111,0
+2020-04-27,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",3043,100,111,0
+2020-04-28,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",3141,98,113,2
 2020-01-22,us,california,33.0393082,-115.3669042,84006025.0,US,USA,840,6025.0,imperial,"Imperial, California, US",0,0,0,0
 2020-01-23,us,california,33.0393082,-115.3669042,84006025.0,US,USA,840,6025.0,imperial,"Imperial, California, US",0,0,0,0
 2020-01-24,us,california,33.0393082,-115.3669042,84006025.0,US,USA,840,6025.0,imperial,"Imperial, California, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,33.0393082,-115.3669042,84006025.0,US,USA,840,6025.0,imperial,"Imperial, California, US",251,19,8,0
 2020-04-25,us,california,33.0393082,-115.3669042,84006025.0,US,USA,840,6025.0,imperial,"Imperial, California, US",251,0,8,0
 2020-04-26,us,california,33.0393082,-115.3669042,84006025.0,US,USA,840,6025.0,imperial,"Imperial, California, US",251,0,8,0
+2020-04-27,us,california,33.0393082,-115.3669042,84006025.0,US,USA,840,6025.0,imperial,"Imperial, California, US",281,30,8,0
+2020-04-28,us,california,33.0393082,-115.3669042,84006025.0,US,USA,840,6025.0,imperial,"Imperial, California, US",284,3,8,0
 2020-01-22,us,california,33.70147516,-117.76459979999998,84006059.0,US,USA,840,6059.0,orange,"Orange, California, US",0,0,0,0
 2020-01-23,us,california,33.70147516,-117.76459979999998,84006059.0,US,USA,840,6059.0,orange,"Orange, California, US",0,0,0,0
 2020-01-24,us,california,33.70147516,-117.76459979999998,84006059.0,US,USA,840,6059.0,orange,"Orange, California, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,33.70147516,-117.76459979999998,84006059.0,US,USA,840,6059.0,orange,"Orange, California, US",1845,18,36,0
 2020-04-25,us,california,33.70147516,-117.76459979999998,84006059.0,US,USA,840,6059.0,orange,"Orange, California, US",1969,124,38,2
 2020-04-26,us,california,33.70147516,-117.76459979999998,84006059.0,US,USA,840,6059.0,orange,"Orange, California, US",2074,105,39,1
+2020-04-27,us,california,33.70147516,-117.76459979999998,84006059.0,US,USA,840,6059.0,orange,"Orange, California, US",2126,52,39,0
+2020-04-28,us,california,33.70147516,-117.76459979999998,84006059.0,US,USA,840,6059.0,orange,"Orange, California, US",2151,25,42,3
 2020-01-22,us,california,33.74314981,-115.9933578,84006065.0,US,USA,840,6065.0,riverside,"Riverside, California, US",0,0,0,0
 2020-01-23,us,california,33.74314981,-115.9933578,84006065.0,US,USA,840,6065.0,riverside,"Riverside, California, US",0,0,0,0
 2020-01-24,us,california,33.74314981,-115.9933578,84006065.0,US,USA,840,6065.0,riverside,"Riverside, California, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,33.74314981,-115.9933578,84006065.0,US,USA,840,6065.0,riverside,"Riverside, California, US",3315,97,112,12
 2020-04-25,us,california,33.74314981,-115.9933578,84006065.0,US,USA,840,6065.0,riverside,"Riverside, California, US",3315,0,112,0
 2020-04-26,us,california,33.74314981,-115.9933578,84006065.0,US,USA,840,6065.0,riverside,"Riverside, California, US",3563,248,118,6
+2020-04-27,us,california,33.74314981,-115.9933578,84006065.0,US,USA,840,6065.0,riverside,"Riverside, California, US",3643,80,141,23
+2020-04-28,us,california,33.74314981,-115.9933578,84006065.0,US,USA,840,6065.0,riverside,"Riverside, California, US",3735,92,141,0
 2020-01-22,us,california,34.30828379,-118.2282411,84006037.0,US,USA,840,6037.0,los-angeles,"Los Angeles, California, US",0,0,0,0
 2020-01-23,us,california,34.30828379,-118.2282411,84006037.0,US,USA,840,6037.0,los-angeles,"Los Angeles, California, US",0,0,0,0
 2020-01-24,us,california,34.30828379,-118.2282411,84006037.0,US,USA,840,6037.0,los-angeles,"Los Angeles, California, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,34.30828379,-118.2282411,84006037.0,US,USA,840,6037.0,los-angeles,"Los Angeles, California, US",18545,1008,850,53
 2020-04-25,us,california,34.30828379,-118.2282411,84006037.0,US,USA,840,6037.0,los-angeles,"Los Angeles, California, US",19133,588,895,45
 2020-04-26,us,california,34.30828379,-118.2282411,84006037.0,US,USA,840,6037.0,los-angeles,"Los Angeles, California, US",19567,434,916,21
+2020-04-27,us,california,34.30828379,-118.2282411,84006037.0,US,USA,840,6037.0,los-angeles,"Los Angeles, California, US",20423,856,944,28
+2020-04-28,us,california,34.30828379,-118.2282411,84006037.0,US,USA,840,6037.0,los-angeles,"Los Angeles, California, US",20996,573,1002,58
 2020-01-22,us,california,34.44465746,-119.0910613,84006111.0,US,USA,840,6111.0,ventura,"Ventura, California, US",0,0,0,0
 2020-01-23,us,california,34.44465746,-119.0910613,84006111.0,US,USA,840,6111.0,ventura,"Ventura, California, US",0,0,0,0
 2020-01-24,us,california,34.44465746,-119.0910613,84006111.0,US,USA,840,6111.0,ventura,"Ventura, California, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,34.44465746,-119.0910613,84006111.0,US,USA,840,6111.0,ventura,"Ventura, California, US",476,11,16,0
 2020-04-25,us,california,34.44465746,-119.0910613,84006111.0,US,USA,840,6111.0,ventura,"Ventura, California, US",476,0,16,0
 2020-04-26,us,california,34.44465746,-119.0910613,84006111.0,US,USA,840,6111.0,ventura,"Ventura, California, US",496,20,16,0
+2020-04-27,us,california,34.44465746,-119.0910613,84006111.0,US,USA,840,6111.0,ventura,"Ventura, California, US",497,1,17,1
+2020-04-28,us,california,34.44465746,-119.0910613,84006111.0,US,USA,840,6111.0,ventura,"Ventura, California, US",508,11,17,0
 2020-01-22,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",0,0,0,0
 2020-01-23,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",0,0,0,0
 2020-01-24,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",460,9,6,1
 2020-04-25,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",469,9,7,1
 2020-04-26,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",469,0,7,0
+2020-04-27,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",471,2,7,0
+2020-04-28,us,california,34.65329488,-120.0188492,84006083.0,US,USA,840,6083.0,santa-barbara,"Santa Barbara, California, US",473,2,7,0
 2020-01-22,us,california,34.84060306,-116.1774685,84006071.0,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",0,0,0,0
 2020-01-23,us,california,34.84060306,-116.1774685,84006071.0,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",0,0,0,0
 2020-01-24,us,california,34.84060306,-116.1774685,84006071.0,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,34.84060306,-116.1774685,84006071.0,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",1666,58,80,3
 2020-04-25,us,california,34.84060306,-116.1774685,84006071.0,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",1666,0,80,0
 2020-04-26,us,california,34.84060306,-116.1774685,84006071.0,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",1732,66,82,2
+2020-04-27,us,california,34.84060306,-116.1774685,84006071.0,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",1772,40,82,0
+2020-04-28,us,california,34.84060306,-116.1774685,84006071.0,US,USA,840,6071.0,san-bernardino,"San Bernardino, California, US",1827,55,85,3
 2020-01-22,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",0,0,0,0
 2020-01-23,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",0,0,0,0
 2020-01-24,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",735,36,4,0
 2020-04-25,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",755,20,4,0
 2020-04-26,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",809,54,4,0
+2020-04-27,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",828,19,5,1
+2020-04-28,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",847,19,5,0
 2020-01-22,us,california,35.38822029,-120.4039028,84006079.0,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",0,0,0,0
 2020-01-23,us,california,35.38822029,-120.4039028,84006079.0,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",0,0,0,0
 2020-01-24,us,california,35.38822029,-120.4039028,84006079.0,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,35.38822029,-120.4039028,84006079.0,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",163,14,1,0
 2020-04-25,us,california,35.38822029,-120.4039028,84006079.0,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",165,2,1,0
 2020-04-26,us,california,35.38822029,-120.4039028,84006079.0,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",166,1,1,0
+2020-04-27,us,california,35.38822029,-120.4039028,84006079.0,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",169,3,1,0
+2020-04-28,us,california,35.38822029,-120.4039028,84006079.0,US,USA,840,6079.0,san-luis-obispo,"San Luis Obispo, California, US",173,4,1,0
 2020-01-22,us,california,36.07409056,-119.8159973,84006031.0,US,USA,840,6031.0,kings,"Kings, California, US",0,0,0,0
 2020-01-23,us,california,36.07409056,-119.8159973,84006031.0,US,USA,840,6031.0,kings,"Kings, California, US",0,0,0,0
 2020-01-24,us,california,36.07409056,-119.8159973,84006031.0,US,USA,840,6031.0,kings,"Kings, California, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,36.07409056,-119.8159973,84006031.0,US,USA,840,6031.0,kings,"Kings, California, US",47,12,1,0
 2020-04-25,us,california,36.07409056,-119.8159973,84006031.0,US,USA,840,6031.0,kings,"Kings, California, US",47,0,1,0
 2020-04-26,us,california,36.07409056,-119.8159973,84006031.0,US,USA,840,6031.0,kings,"Kings, California, US",52,5,1,0
+2020-04-27,us,california,36.07409056,-119.8159973,84006031.0,US,USA,840,6031.0,kings,"Kings, California, US",67,15,1,0
+2020-04-28,us,california,36.07409056,-119.8159973,84006031.0,US,USA,840,6031.0,kings,"Kings, California, US",71,4,1,0
 2020-01-22,us,california,36.21862405,-121.2413397,84006053.0,US,USA,840,6053.0,monterey,"Monterey, California, US",0,0,0,0
 2020-01-23,us,california,36.21862405,-121.2413397,84006053.0,US,USA,840,6053.0,monterey,"Monterey, California, US",0,0,0,0
 2020-01-24,us,california,36.21862405,-121.2413397,84006053.0,US,USA,840,6053.0,monterey,"Monterey, California, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,36.21862405,-121.2413397,84006053.0,US,USA,840,6053.0,monterey,"Monterey, California, US",169,15,4,0
 2020-04-25,us,california,36.21862405,-121.2413397,84006053.0,US,USA,840,6053.0,monterey,"Monterey, California, US",169,0,4,0
 2020-04-26,us,california,36.21862405,-121.2413397,84006053.0,US,USA,840,6053.0,monterey,"Monterey, California, US",183,14,4,0
+2020-04-27,us,california,36.21862405,-121.2413397,84006053.0,US,USA,840,6053.0,monterey,"Monterey, California, US",183,0,4,0
+2020-04-28,us,california,36.21862405,-121.2413397,84006053.0,US,USA,840,6053.0,monterey,"Monterey, California, US",185,2,4,0
 2020-01-22,us,california,36.22026558,-118.8020203,84006107.0,US,USA,840,6107.0,tulare,"Tulare, California, US",0,0,0,0
 2020-01-23,us,california,36.22026558,-118.8020203,84006107.0,US,USA,840,6107.0,tulare,"Tulare, California, US",0,0,0,0
 2020-01-24,us,california,36.22026558,-118.8020203,84006107.0,US,USA,840,6107.0,tulare,"Tulare, California, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,36.22026558,-118.8020203,84006107.0,US,USA,840,6107.0,tulare,"Tulare, California, US",472,19,28,3
 2020-04-25,us,california,36.22026558,-118.8020203,84006107.0,US,USA,840,6107.0,tulare,"Tulare, California, US",491,19,32,4
 2020-04-26,us,california,36.22026558,-118.8020203,84006107.0,US,USA,840,6107.0,tulare,"Tulare, California, US",504,13,32,0
+2020-04-27,us,california,36.22026558,-118.8020203,84006107.0,US,USA,840,6107.0,tulare,"Tulare, California, US",532,28,32,0
+2020-04-28,us,california,36.22026558,-118.8020203,84006107.0,US,USA,840,6107.0,tulare,"Tulare, California, US",578,46,35,3
 2020-01-22,us,california,36.51112084,-117.41119779999998,84006027.0,US,USA,840,6027.0,inyo,"Inyo, California, US",0,0,0,0
 2020-01-23,us,california,36.51112084,-117.41119779999998,84006027.0,US,USA,840,6027.0,inyo,"Inyo, California, US",0,0,0,0
 2020-01-24,us,california,36.51112084,-117.41119779999998,84006027.0,US,USA,840,6027.0,inyo,"Inyo, California, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,36.51112084,-117.41119779999998,84006027.0,US,USA,840,6027.0,inyo,"Inyo, California, US",19,0,1,1
 2020-04-25,us,california,36.51112084,-117.41119779999998,84006027.0,US,USA,840,6027.0,inyo,"Inyo, California, US",19,0,1,0
 2020-04-26,us,california,36.51112084,-117.41119779999998,84006027.0,US,USA,840,6027.0,inyo,"Inyo, California, US",19,0,1,0
+2020-04-27,us,california,36.51112084,-117.41119779999998,84006027.0,US,USA,840,6027.0,inyo,"Inyo, California, US",19,0,1,0
+2020-04-28,us,california,36.51112084,-117.41119779999998,84006027.0,US,USA,840,6027.0,inyo,"Inyo, California, US",19,0,1,0
 2020-01-22,us,california,36.60308176,-121.069975,84006069.0,US,USA,840,6069.0,san-benito,"San Benito, California, US",0,0,0,0
 2020-01-23,us,california,36.60308176,-121.069975,84006069.0,US,USA,840,6069.0,san-benito,"San Benito, California, US",0,0,0,0
 2020-01-24,us,california,36.60308176,-121.069975,84006069.0,US,USA,840,6069.0,san-benito,"San Benito, California, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,36.60308176,-121.069975,84006069.0,US,USA,840,6069.0,san-benito,"San Benito, California, US",47,0,2,0
 2020-04-25,us,california,36.60308176,-121.069975,84006069.0,US,USA,840,6069.0,san-benito,"San Benito, California, US",47,0,2,0
 2020-04-26,us,california,36.60308176,-121.069975,84006069.0,US,USA,840,6069.0,san-benito,"San Benito, California, US",47,0,2,0
+2020-04-27,us,california,36.60308176,-121.069975,84006069.0,US,USA,840,6069.0,san-benito,"San Benito, California, US",47,0,2,0
+2020-04-28,us,california,36.60308176,-121.069975,84006069.0,US,USA,840,6069.0,san-benito,"San Benito, California, US",48,1,2,0
 2020-01-22,us,california,36.75733899,-119.6466953,84006019.0,US,USA,840,6019.0,fresno,"Fresno, California, US",0,0,0,0
 2020-01-23,us,california,36.75733899,-119.6466953,84006019.0,US,USA,840,6019.0,fresno,"Fresno, California, US",0,0,0,0
 2020-01-24,us,california,36.75733899,-119.6466953,84006019.0,US,USA,840,6019.0,fresno,"Fresno, California, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,36.75733899,-119.6466953,84006019.0,US,USA,840,6019.0,fresno,"Fresno, California, US",443,24,7,0
 2020-04-25,us,california,36.75733899,-119.6466953,84006019.0,US,USA,840,6019.0,fresno,"Fresno, California, US",443,0,7,0
 2020-04-26,us,california,36.75733899,-119.6466953,84006019.0,US,USA,840,6019.0,fresno,"Fresno, California, US",458,15,7,0
+2020-04-27,us,california,36.75733899,-119.6466953,84006019.0,US,USA,840,6019.0,fresno,"Fresno, California, US",458,0,7,0
+2020-04-28,us,california,36.75733899,-119.6466953,84006019.0,US,USA,840,6019.0,fresno,"Fresno, California, US",498,40,7,0
 2020-01-22,us,california,37.05580291,-122.0066524,84006087.0,US,USA,840,6087.0,santa-cruz,"Santa Cruz, California, US",0,0,0,0
 2020-01-23,us,california,37.05580291,-122.0066524,84006087.0,US,USA,840,6087.0,santa-cruz,"Santa Cruz, California, US",0,0,0,0
 2020-01-24,us,california,37.05580291,-122.0066524,84006087.0,US,USA,840,6087.0,santa-cruz,"Santa Cruz, California, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.05580291,-122.0066524,84006087.0,US,USA,840,6087.0,santa-cruz,"Santa Cruz, California, US",115,1,2,0
 2020-04-25,us,california,37.05580291,-122.0066524,84006087.0,US,USA,840,6087.0,santa-cruz,"Santa Cruz, California, US",115,0,2,0
 2020-04-26,us,california,37.05580291,-122.0066524,84006087.0,US,USA,840,6087.0,santa-cruz,"Santa Cruz, California, US",120,5,2,0
+2020-04-27,us,california,37.05580291,-122.0066524,84006087.0,US,USA,840,6087.0,santa-cruz,"Santa Cruz, California, US",124,4,2,0
+2020-04-28,us,california,37.05580291,-122.0066524,84006087.0,US,USA,840,6087.0,santa-cruz,"Santa Cruz, California, US",125,1,2,0
 2020-01-22,us,california,37.18922369,-120.7209035,84006047.0,US,USA,840,6047.0,merced,"Merced, California, US",0,0,0,0
 2020-01-23,us,california,37.18922369,-120.7209035,84006047.0,US,USA,840,6047.0,merced,"Merced, California, US",0,0,0,0
 2020-01-24,us,california,37.18922369,-120.7209035,84006047.0,US,USA,840,6047.0,merced,"Merced, California, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.18922369,-120.7209035,84006047.0,US,USA,840,6047.0,merced,"Merced, California, US",102,2,3,0
 2020-04-25,us,california,37.18922369,-120.7209035,84006047.0,US,USA,840,6047.0,merced,"Merced, California, US",102,0,3,0
 2020-04-26,us,california,37.18922369,-120.7209035,84006047.0,US,USA,840,6047.0,merced,"Merced, California, US",103,1,3,0
+2020-04-27,us,california,37.18922369,-120.7209035,84006047.0,US,USA,840,6047.0,merced,"Merced, California, US",108,5,3,0
+2020-04-28,us,california,37.18922369,-120.7209035,84006047.0,US,USA,840,6047.0,merced,"Merced, California, US",116,8,3,0
 2020-01-22,us,california,37.21513971,-119.76655890000002,84006039.0,US,USA,840,6039.0,madera,"Madera, California, US",0,0,0,0
 2020-01-23,us,california,37.21513971,-119.76655890000002,84006039.0,US,USA,840,6039.0,madera,"Madera, California, US",0,0,0,0
 2020-01-24,us,california,37.21513971,-119.76655890000002,84006039.0,US,USA,840,6039.0,madera,"Madera, California, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.21513971,-119.76655890000002,84006039.0,US,USA,840,6039.0,madera,"Madera, California, US",39,0,2,0
 2020-04-25,us,california,37.21513971,-119.76655890000002,84006039.0,US,USA,840,6039.0,madera,"Madera, California, US",39,0,2,0
 2020-04-26,us,california,37.21513971,-119.76655890000002,84006039.0,US,USA,840,6039.0,madera,"Madera, California, US",40,1,2,0
+2020-04-27,us,california,37.21513971,-119.76655890000002,84006039.0,US,USA,840,6039.0,madera,"Madera, California, US",41,1,2,0
+2020-04-28,us,california,37.21513971,-119.76655890000002,84006039.0,US,USA,840,6039.0,madera,"Madera, California, US",44,3,2,0
 2020-01-22,us,california,37.23104908,-121.6970462,84006085.0,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",0,0,0,0
 2020-01-23,us,california,37.23104908,-121.6970462,84006085.0,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",0,0,0,0
 2020-01-24,us,california,37.23104908,-121.6970462,84006085.0,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.23104908,-121.6970462,84006085.0,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",2018,31,98,3
 2020-04-25,us,california,37.23104908,-121.6970462,84006085.0,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",2040,22,99,1
 2020-04-26,us,california,37.23104908,-121.6970462,84006085.0,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",2084,44,100,1
+2020-04-27,us,california,37.23104908,-121.6970462,84006085.0,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",2105,21,103,3
+2020-04-28,us,california,37.23104908,-121.6970462,84006085.0,US,USA,840,6085.0,santa-clara,"Santa Clara, California, US",2122,17,106,3
 2020-01-22,us,california,37.4228808,-122.32755459999998,84006081.0,US,USA,840,6081.0,san-mateo,"San Mateo, California, US",0,0,0,0
 2020-01-23,us,california,37.4228808,-122.32755459999998,84006081.0,US,USA,840,6081.0,san-mateo,"San Mateo, California, US",0,0,0,0
 2020-01-24,us,california,37.4228808,-122.32755459999998,84006081.0,US,USA,840,6081.0,san-mateo,"San Mateo, California, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.4228808,-122.32755459999998,84006081.0,US,USA,840,6081.0,san-mateo,"San Mateo, California, US",989,23,41,2
 2020-04-25,us,california,37.4228808,-122.32755459999998,84006081.0,US,USA,840,6081.0,san-mateo,"San Mateo, California, US",1019,30,41,0
 2020-04-26,us,california,37.4228808,-122.32755459999998,84006081.0,US,USA,840,6081.0,san-mateo,"San Mateo, California, US",1019,0,41,0
+2020-04-27,us,california,37.4228808,-122.32755459999998,84006081.0,US,USA,840,6081.0,san-mateo,"San Mateo, California, US",1080,61,41,0
+2020-04-28,us,california,37.4228808,-122.32755459999998,84006081.0,US,USA,840,6081.0,san-mateo,"San Mateo, California, US",1099,19,48,7
 2020-01-22,us,california,37.55862499,-120.9970722,84006099.0,US,USA,840,6099.0,stanislaus,"Stanislaus, California, US",0,0,0,0
 2020-01-23,us,california,37.55862499,-120.9970722,84006099.0,US,USA,840,6099.0,stanislaus,"Stanislaus, California, US",0,0,0,0
 2020-01-24,us,california,37.55862499,-120.9970722,84006099.0,US,USA,840,6099.0,stanislaus,"Stanislaus, California, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.55862499,-120.9970722,84006099.0,US,USA,840,6099.0,stanislaus,"Stanislaus, California, US",264,13,5,0
 2020-04-25,us,california,37.55862499,-120.9970722,84006099.0,US,USA,840,6099.0,stanislaus,"Stanislaus, California, US",264,0,5,0
 2020-04-26,us,california,37.55862499,-120.9970722,84006099.0,US,USA,840,6099.0,stanislaus,"Stanislaus, California, US",286,22,5,0
+2020-04-27,us,california,37.55862499,-120.9970722,84006099.0,US,USA,840,6099.0,stanislaus,"Stanislaus, California, US",294,8,5,0
+2020-04-28,us,california,37.55862499,-120.9970722,84006099.0,US,USA,840,6099.0,stanislaus,"Stanislaus, California, US",312,18,7,2
 2020-01-22,us,california,37.57978556,-119.9073334,84006043.0,US,USA,840,6043.0,mariposa,"Mariposa, California, US",0,0,0,0
 2020-01-23,us,california,37.57978556,-119.9073334,84006043.0,US,USA,840,6043.0,mariposa,"Mariposa, California, US",0,0,0,0
 2020-01-24,us,california,37.57978556,-119.9073334,84006043.0,US,USA,840,6043.0,mariposa,"Mariposa, California, US",0,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.57978556,-119.9073334,84006043.0,US,USA,840,6043.0,mariposa,"Mariposa, California, US",0,0,0,0
 2020-04-25,us,california,37.57978556,-119.9073334,84006043.0,US,USA,840,6043.0,mariposa,"Mariposa, California, US",0,0,0,0
 2020-04-26,us,california,37.57978556,-119.9073334,84006043.0,US,USA,840,6043.0,mariposa,"Mariposa, California, US",0,0,0,0
+2020-04-27,us,california,37.57978556,-119.9073334,84006043.0,US,USA,840,6043.0,mariposa,"Mariposa, California, US",0,0,0,0
+2020-04-28,us,california,37.57978556,-119.9073334,84006043.0,US,USA,840,6043.0,mariposa,"Mariposa, California, US",1,1,0,0
 2020-01-22,us,california,37.64629437,-121.8929271,84006001.0,US,USA,840,6001.0,alameda,"Alameda, California, US",0,0,0,0
 2020-01-23,us,california,37.64629437,-121.8929271,84006001.0,US,USA,840,6001.0,alameda,"Alameda, California, US",0,0,0,0
 2020-01-24,us,california,37.64629437,-121.8929271,84006001.0,US,USA,840,6001.0,alameda,"Alameda, California, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.64629437,-121.8929271,84006001.0,US,USA,840,6001.0,alameda,"Alameda, California, US",1403,51,48,2
 2020-04-25,us,california,37.64629437,-121.8929271,84006001.0,US,USA,840,6001.0,alameda,"Alameda, California, US",1439,36,52,4
 2020-04-26,us,california,37.64629437,-121.8929271,84006001.0,US,USA,840,6001.0,alameda,"Alameda, California, US",1470,31,52,0
+2020-04-27,us,california,37.64629437,-121.8929271,84006001.0,US,USA,840,6001.0,alameda,"Alameda, California, US",1500,30,52,0
+2020-04-28,us,california,37.64629437,-121.8929271,84006001.0,US,USA,840,6001.0,alameda,"Alameda, California, US",1533,33,55,3
 2020-01-22,us,california,37.75215114,-122.4385672,84006075.0,US,USA,840,6075.0,san-francisco,"San Francisco, California, US",0,0,0,0
 2020-01-23,us,california,37.75215114,-122.4385672,84006075.0,US,USA,840,6075.0,san-francisco,"San Francisco, California, US",0,0,0,0
 2020-01-24,us,california,37.75215114,-122.4385672,84006075.0,US,USA,840,6075.0,san-francisco,"San Francisco, California, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.75215114,-122.4385672,84006075.0,US,USA,840,6075.0,san-francisco,"San Francisco, California, US",1340,38,22,1
 2020-04-25,us,california,37.75215114,-122.4385672,84006075.0,US,USA,840,6075.0,san-francisco,"San Francisco, California, US",1354,14,22,0
 2020-04-26,us,california,37.75215114,-122.4385672,84006075.0,US,USA,840,6075.0,san-francisco,"San Francisco, California, US",1408,54,22,0
+2020-04-27,us,california,37.75215114,-122.4385672,84006075.0,US,USA,840,6075.0,san-francisco,"San Francisco, California, US",1424,16,23,1
+2020-04-28,us,california,37.75215114,-122.4385672,84006075.0,US,USA,840,6075.0,san-francisco,"San Francisco, California, US",1468,44,23,0
 2020-01-22,us,california,37.91923498,-121.9289527,84006013.0,US,USA,840,6013.0,contra-costa,"Contra Costa, California, US",0,0,0,0
 2020-01-23,us,california,37.91923498,-121.9289527,84006013.0,US,USA,840,6013.0,contra-costa,"Contra Costa, California, US",0,0,0,0
 2020-01-24,us,california,37.91923498,-121.9289527,84006013.0,US,USA,840,6013.0,contra-costa,"Contra Costa, California, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.91923498,-121.9289527,84006013.0,US,USA,840,6013.0,contra-costa,"Contra Costa, California, US",786,16,23,0
 2020-04-25,us,california,37.91923498,-121.9289527,84006013.0,US,USA,840,6013.0,contra-costa,"Contra Costa, California, US",805,19,25,2
 2020-04-26,us,california,37.91923498,-121.9289527,84006013.0,US,USA,840,6013.0,contra-costa,"Contra Costa, California, US",817,12,29,4
+2020-04-27,us,california,37.91923498,-121.9289527,84006013.0,US,USA,840,6013.0,contra-costa,"Contra Costa, California, US",820,3,25,-4
+2020-04-28,us,california,37.91923498,-121.9289527,84006013.0,US,USA,840,6013.0,contra-costa,"Contra Costa, California, US",842,22,25,0
 2020-01-22,us,california,37.93433732,-121.2730061,84006077.0,US,USA,840,6077.0,san-joaquin,"San Joaquin, California, US",0,0,0,0
 2020-01-23,us,california,37.93433732,-121.2730061,84006077.0,US,USA,840,6077.0,san-joaquin,"San Joaquin, California, US",0,0,0,0
 2020-01-24,us,california,37.93433732,-121.2730061,84006077.0,US,USA,840,6077.0,san-joaquin,"San Joaquin, California, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.93433732,-121.2730061,84006077.0,US,USA,840,6077.0,san-joaquin,"San Joaquin, California, US",495,8,24,2
 2020-04-25,us,california,37.93433732,-121.2730061,84006077.0,US,USA,840,6077.0,san-joaquin,"San Joaquin, California, US",505,10,24,0
 2020-04-26,us,california,37.93433732,-121.2730061,84006077.0,US,USA,840,6077.0,san-joaquin,"San Joaquin, California, US",512,7,25,1
+2020-04-27,us,california,37.93433732,-121.2730061,84006077.0,US,USA,840,6077.0,san-joaquin,"San Joaquin, California, US",528,16,25,0
+2020-04-28,us,california,37.93433732,-121.2730061,84006077.0,US,USA,840,6077.0,san-joaquin,"San Joaquin, California, US",529,1,25,0
 2020-01-22,us,california,37.93899289,-118.8872409,84006051.0,US,USA,840,6051.0,mono,"Mono, California, US",0,0,0,0
 2020-01-23,us,california,37.93899289,-118.8872409,84006051.0,US,USA,840,6051.0,mono,"Mono, California, US",0,0,0,0
 2020-01-24,us,california,37.93899289,-118.8872409,84006051.0,US,USA,840,6051.0,mono,"Mono, California, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,37.93899289,-118.8872409,84006051.0,US,USA,840,6051.0,mono,"Mono, California, US",24,0,1,0
 2020-04-25,us,california,37.93899289,-118.8872409,84006051.0,US,USA,840,6051.0,mono,"Mono, California, US",24,0,1,0
 2020-04-26,us,california,37.93899289,-118.8872409,84006051.0,US,USA,840,6051.0,mono,"Mono, California, US",24,0,1,0
+2020-04-27,us,california,37.93899289,-118.8872409,84006051.0,US,USA,840,6051.0,mono,"Mono, California, US",24,0,1,0
+2020-04-28,us,california,37.93899289,-118.8872409,84006051.0,US,USA,840,6051.0,mono,"Mono, California, US",26,2,1,0
 2020-01-22,us,california,38.02644018,-119.9525093,84006109.0,US,USA,840,6109.0,tuolumne,"Tuolumne, California, US",0,0,0,0
 2020-01-23,us,california,38.02644018,-119.9525093,84006109.0,US,USA,840,6109.0,tuolumne,"Tuolumne, California, US",0,0,0,0
 2020-01-24,us,california,38.02644018,-119.9525093,84006109.0,US,USA,840,6109.0,tuolumne,"Tuolumne, California, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.02644018,-119.9525093,84006109.0,US,USA,840,6109.0,tuolumne,"Tuolumne, California, US",2,0,0,0
 2020-04-25,us,california,38.02644018,-119.9525093,84006109.0,US,USA,840,6109.0,tuolumne,"Tuolumne, California, US",3,1,0,0
 2020-04-26,us,california,38.02644018,-119.9525093,84006109.0,US,USA,840,6109.0,tuolumne,"Tuolumne, California, US",3,0,0,0
+2020-04-27,us,california,38.02644018,-119.9525093,84006109.0,US,USA,840,6109.0,tuolumne,"Tuolumne, California, US",3,0,0,0
+2020-04-28,us,california,38.02644018,-119.9525093,84006109.0,US,USA,840,6109.0,tuolumne,"Tuolumne, California, US",4,1,0,0
 2020-01-22,us,california,38.07122463,-122.7210631,84006041.0,US,USA,840,6041.0,marin,"Marin, California, US",0,0,0,0
 2020-01-23,us,california,38.07122463,-122.7210631,84006041.0,US,USA,840,6041.0,marin,"Marin, California, US",0,0,0,0
 2020-01-24,us,california,38.07122463,-122.7210631,84006041.0,US,USA,840,6041.0,marin,"Marin, California, US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.07122463,-122.7210631,84006041.0,US,USA,840,6041.0,marin,"Marin, California, US",212,3,12,1
 2020-04-25,us,california,38.07122463,-122.7210631,84006041.0,US,USA,840,6041.0,marin,"Marin, California, US",212,0,12,0
 2020-04-26,us,california,38.07122463,-122.7210631,84006041.0,US,USA,840,6041.0,marin,"Marin, California, US",223,11,12,0
+2020-04-27,us,california,38.07122463,-122.7210631,84006041.0,US,USA,840,6041.0,marin,"Marin, California, US",224,1,12,0
+2020-04-28,us,california,38.07122463,-122.7210631,84006041.0,US,USA,840,6041.0,marin,"Marin, California, US",224,0,12,0
 2020-01-22,us,california,38.20537103,-120.552913,84006009.0,US,USA,840,6009.0,calaveras,"Calaveras, California, US",0,0,0,0
 2020-01-23,us,california,38.20537103,-120.552913,84006009.0,US,USA,840,6009.0,calaveras,"Calaveras, California, US",0,0,0,0
 2020-01-24,us,california,38.20537103,-120.552913,84006009.0,US,USA,840,6009.0,calaveras,"Calaveras, California, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.20537103,-120.552913,84006009.0,US,USA,840,6009.0,calaveras,"Calaveras, California, US",13,0,0,0
 2020-04-25,us,california,38.20537103,-120.552913,84006009.0,US,USA,840,6009.0,calaveras,"Calaveras, California, US",13,0,0,0
 2020-04-26,us,california,38.20537103,-120.552913,84006009.0,US,USA,840,6009.0,calaveras,"Calaveras, California, US",13,0,0,0
+2020-04-27,us,california,38.20537103,-120.552913,84006009.0,US,USA,840,6009.0,calaveras,"Calaveras, California, US",13,0,0,0
+2020-04-28,us,california,38.20537103,-120.552913,84006009.0,US,USA,840,6009.0,calaveras,"Calaveras, California, US",13,0,0,0
 2020-01-22,us,california,38.26827353,-121.9357113,84006095.0,US,USA,840,6095.0,solano,"Solano, California, US",0,0,0,0
 2020-01-23,us,california,38.26827353,-121.9357113,84006095.0,US,USA,840,6095.0,solano,"Solano, California, US",0,0,0,0
 2020-01-24,us,california,38.26827353,-121.9357113,84006095.0,US,USA,840,6095.0,solano,"Solano, California, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.26827353,-121.9357113,84006095.0,US,USA,840,6095.0,solano,"Solano, California, US",199,8,4,0
 2020-04-25,us,california,38.26827353,-121.9357113,84006095.0,US,USA,840,6095.0,solano,"Solano, California, US",199,0,4,0
 2020-04-26,us,california,38.26827353,-121.9357113,84006095.0,US,USA,840,6095.0,solano,"Solano, California, US",199,0,4,0
+2020-04-27,us,california,38.26827353,-121.9357113,84006095.0,US,USA,840,6095.0,solano,"Solano, California, US",199,0,4,0
+2020-04-28,us,california,38.26827353,-121.9357113,84006095.0,US,USA,840,6095.0,solano,"Solano, California, US",249,50,4,0
 2020-01-22,us,california,38.44583082,-120.65696,84006005.0,US,USA,840,6005.0,amador,"Amador, California, US",0,0,0,0
 2020-01-23,us,california,38.44583082,-120.65696,84006005.0,US,USA,840,6005.0,amador,"Amador, California, US",0,0,0,0
 2020-01-24,us,california,38.44583082,-120.65696,84006005.0,US,USA,840,6005.0,amador,"Amador, California, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.44583082,-120.65696,84006005.0,US,USA,840,6005.0,amador,"Amador, California, US",8,0,0,0
 2020-04-25,us,california,38.44583082,-120.65696,84006005.0,US,USA,840,6005.0,amador,"Amador, California, US",8,0,0,0
 2020-04-26,us,california,38.44583082,-120.65696,84006005.0,US,USA,840,6005.0,amador,"Amador, California, US",8,0,0,0
+2020-04-27,us,california,38.44583082,-120.65696,84006005.0,US,USA,840,6005.0,amador,"Amador, California, US",8,0,0,0
+2020-04-28,us,california,38.44583082,-120.65696,84006005.0,US,USA,840,6005.0,amador,"Amador, California, US",8,0,0,0
 2020-01-22,us,california,38.45106826,-121.3425374,84006067.0,US,USA,840,6067.0,sacramento,"Sacramento, California, US",0,0,0,0
 2020-01-23,us,california,38.45106826,-121.3425374,84006067.0,US,USA,840,6067.0,sacramento,"Sacramento, California, US",0,0,0,0
 2020-01-24,us,california,38.45106826,-121.3425374,84006067.0,US,USA,840,6067.0,sacramento,"Sacramento, California, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.45106826,-121.3425374,84006067.0,US,USA,840,6067.0,sacramento,"Sacramento, California, US",1019,32,41,0
 2020-04-25,us,california,38.45106826,-121.3425374,84006067.0,US,USA,840,6067.0,sacramento,"Sacramento, California, US",1019,0,41,0
 2020-04-26,us,california,38.45106826,-121.3425374,84006067.0,US,USA,840,6067.0,sacramento,"Sacramento, California, US",1037,18,41,0
+2020-04-27,us,california,38.45106826,-121.3425374,84006067.0,US,USA,840,6067.0,sacramento,"Sacramento, California, US",1045,8,41,0
+2020-04-28,us,california,38.45106826,-121.3425374,84006067.0,US,USA,840,6067.0,sacramento,"Sacramento, California, US",1053,8,41,0
 2020-01-22,us,california,38.50735751,-122.332839,84006055.0,US,USA,840,6055.0,napa,"Napa, California, US",0,0,0,0
 2020-01-23,us,california,38.50735751,-122.332839,84006055.0,US,USA,840,6055.0,napa,"Napa, California, US",0,0,0,0
 2020-01-24,us,california,38.50735751,-122.332839,84006055.0,US,USA,840,6055.0,napa,"Napa, California, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.50735751,-122.332839,84006055.0,US,USA,840,6055.0,napa,"Napa, California, US",58,1,2,0
 2020-04-25,us,california,38.50735751,-122.332839,84006055.0,US,USA,840,6055.0,napa,"Napa, California, US",60,2,2,0
 2020-04-26,us,california,38.50735751,-122.332839,84006055.0,US,USA,840,6055.0,napa,"Napa, California, US",60,0,2,0
+2020-04-27,us,california,38.50735751,-122.332839,84006055.0,US,USA,840,6055.0,napa,"Napa, California, US",64,4,2,0
+2020-04-28,us,california,38.50735751,-122.332839,84006055.0,US,USA,840,6055.0,napa,"Napa, California, US",66,2,2,0
 2020-01-22,us,california,38.52746429,-122.8862506,84006097.0,US,USA,840,6097.0,sonoma,"Sonoma, California, US",0,0,0,0
 2020-01-23,us,california,38.52746429,-122.8862506,84006097.0,US,USA,840,6097.0,sonoma,"Sonoma, California, US",0,0,0,0
 2020-01-24,us,california,38.52746429,-122.8862506,84006097.0,US,USA,840,6097.0,sonoma,"Sonoma, California, US",0,0,0,0
@@ -3647,6 +3721,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.52746429,-122.8862506,84006097.0,US,USA,840,6097.0,sonoma,"Sonoma, California, US",217,23,2,0
 2020-04-25,us,california,38.52746429,-122.8862506,84006097.0,US,USA,840,6097.0,sonoma,"Sonoma, California, US",217,0,2,0
 2020-04-26,us,california,38.52746429,-122.8862506,84006097.0,US,USA,840,6097.0,sonoma,"Sonoma, California, US",218,1,2,0
+2020-04-27,us,california,38.52746429,-122.8862506,84006097.0,US,USA,840,6097.0,sonoma,"Sonoma, California, US",220,2,2,0
+2020-04-28,us,california,38.52746429,-122.8862506,84006097.0,US,USA,840,6097.0,sonoma,"Sonoma, California, US",222,2,2,0
 2020-01-22,us,california,38.59678594,-119.8223594,84006003.0,US,USA,840,6003.0,alpine,"Alpine, California, US",0,0,0,0
 2020-01-23,us,california,38.59678594,-119.8223594,84006003.0,US,USA,840,6003.0,alpine,"Alpine, California, US",0,0,0,0
 2020-01-24,us,california,38.59678594,-119.8223594,84006003.0,US,USA,840,6003.0,alpine,"Alpine, California, US",0,0,0,0
@@ -3743,6 +3819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.59678594,-119.8223594,84006003.0,US,USA,840,6003.0,alpine,"Alpine, California, US",2,0,0,0
 2020-04-25,us,california,38.59678594,-119.8223594,84006003.0,US,USA,840,6003.0,alpine,"Alpine, California, US",2,0,0,0
 2020-04-26,us,california,38.59678594,-119.8223594,84006003.0,US,USA,840,6003.0,alpine,"Alpine, California, US",2,0,0,0
+2020-04-27,us,california,38.59678594,-119.8223594,84006003.0,US,USA,840,6003.0,alpine,"Alpine, California, US",2,0,0,0
+2020-04-28,us,california,38.59678594,-119.8223594,84006003.0,US,USA,840,6003.0,alpine,"Alpine, California, US",2,0,0,0
 2020-01-22,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",0,0,0,0
 2020-01-23,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",0,0,0,0
 2020-01-24,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",0,0,0,0
@@ -3839,6 +3917,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",157,6,13,1
 2020-04-25,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",157,0,13,0
 2020-04-26,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",161,4,13,0
+2020-04-27,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",161,0,14,1
+2020-04-28,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",162,1,16,2
 2020-01-22,us,california,38.77965956,-120.5233166,84006017.0,US,USA,840,6017.0,el-dorado,"El Dorado, California, US",0,0,0,0
 2020-01-23,us,california,38.77965956,-120.5233166,84006017.0,US,USA,840,6017.0,el-dorado,"El Dorado, California, US",0,0,0,0
 2020-01-24,us,california,38.77965956,-120.5233166,84006017.0,US,USA,840,6017.0,el-dorado,"El Dorado, California, US",0,0,0,0
@@ -3935,6 +4015,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.77965956,-120.5233166,84006017.0,US,USA,840,6017.0,el-dorado,"El Dorado, California, US",42,2,0,0
 2020-04-25,us,california,38.77965956,-120.5233166,84006017.0,US,USA,840,6017.0,el-dorado,"El Dorado, California, US",42,0,0,0
 2020-04-26,us,california,38.77965956,-120.5233166,84006017.0,US,USA,840,6017.0,el-dorado,"El Dorado, California, US",42,0,0,0
+2020-04-27,us,california,38.77965956,-120.5233166,84006017.0,US,USA,840,6017.0,el-dorado,"El Dorado, California, US",42,0,0,0
+2020-04-28,us,california,38.77965956,-120.5233166,84006017.0,US,USA,840,6017.0,el-dorado,"El Dorado, California, US",44,2,0,0
 2020-01-22,us,california,39.03417539,-121.6945899,84006101.0,US,USA,840,6101.0,sutter,"Sutter, California, US",0,0,0,0
 2020-01-23,us,california,39.03417539,-121.6945899,84006101.0,US,USA,840,6101.0,sutter,"Sutter, California, US",0,0,0,0
 2020-01-24,us,california,39.03417539,-121.6945899,84006101.0,US,USA,840,6101.0,sutter,"Sutter, California, US",0,0,0,0
@@ -4031,6 +4113,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,39.03417539,-121.6945899,84006101.0,US,USA,840,6101.0,sutter,"Sutter, California, US",44,0,3,0
 2020-04-25,us,california,39.03417539,-121.6945899,84006101.0,US,USA,840,6101.0,sutter,"Sutter, California, US",44,0,3,0
 2020-04-26,us,california,39.03417539,-121.6945899,84006101.0,US,USA,840,6101.0,sutter,"Sutter, California, US",45,1,3,0
+2020-04-27,us,california,39.03417539,-121.6945899,84006101.0,US,USA,840,6101.0,sutter,"Sutter, California, US",45,0,3,0
+2020-04-28,us,california,39.03417539,-121.6945899,84006101.0,US,USA,840,6101.0,sutter,"Sutter, California, US",29,-16,2,-1
 2020-01-22,us,california,39.06167234,-120.7240569,84006061.0,US,USA,840,6061.0,placer,"Placer, California, US",0,0,0,0
 2020-01-23,us,california,39.06167234,-120.7240569,84006061.0,US,USA,840,6061.0,placer,"Placer, California, US",0,0,0,0
 2020-01-24,us,california,39.06167234,-120.7240569,84006061.0,US,USA,840,6061.0,placer,"Placer, California, US",0,0,0,0
@@ -4127,6 +4211,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,39.06167234,-120.7240569,84006061.0,US,USA,840,6061.0,placer,"Placer, California, US",139,3,8,0
 2020-04-25,us,california,39.06167234,-120.7240569,84006061.0,US,USA,840,6061.0,placer,"Placer, California, US",139,0,8,0
 2020-04-26,us,california,39.06167234,-120.7240569,84006061.0,US,USA,840,6061.0,placer,"Placer, California, US",141,2,8,0
+2020-04-27,us,california,39.06167234,-120.7240569,84006061.0,US,USA,840,6061.0,placer,"Placer, California, US",143,2,8,0
+2020-04-28,us,california,39.06167234,-120.7240569,84006061.0,US,USA,840,6061.0,placer,"Placer, California, US",145,2,8,0
 2020-01-22,us,california,39.10124298,-122.7536244,84006033.0,US,USA,840,6033.0,lake,"Lake, California, US",0,0,0,0
 2020-01-23,us,california,39.10124298,-122.7536244,84006033.0,US,USA,840,6033.0,lake,"Lake, California, US",0,0,0,0
 2020-01-24,us,california,39.10124298,-122.7536244,84006033.0,US,USA,840,6033.0,lake,"Lake, California, US",0,0,0,0
@@ -4223,6 +4309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,39.10124298,-122.7536244,84006033.0,US,USA,840,6033.0,lake,"Lake, California, US",6,0,0,0
 2020-04-25,us,california,39.10124298,-122.7536244,84006033.0,US,USA,840,6033.0,lake,"Lake, California, US",6,0,0,0
 2020-04-26,us,california,39.10124298,-122.7536244,84006033.0,US,USA,840,6033.0,lake,"Lake, California, US",6,0,0,0
+2020-04-27,us,california,39.10124298,-122.7536244,84006033.0,US,USA,840,6033.0,lake,"Lake, California, US",6,0,0,0
+2020-04-28,us,california,39.10124298,-122.7536244,84006033.0,US,USA,840,6033.0,lake,"Lake, California, US",6,0,0,0
 2020-01-22,us,california,39.17881957,-122.2331726,84006011.0,US,USA,840,6011.0,colusa,"Colusa, California, US",0,0,0,0
 2020-01-23,us,california,39.17881957,-122.2331726,84006011.0,US,USA,840,6011.0,colusa,"Colusa, California, US",0,0,0,0
 2020-01-24,us,california,39.17881957,-122.2331726,84006011.0,US,USA,840,6011.0,colusa,"Colusa, California, US",0,0,0,0
@@ -4319,6 +4407,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,39.17881957,-122.2331726,84006011.0,US,USA,840,6011.0,colusa,"Colusa, California, US",3,0,0,0
 2020-04-25,us,california,39.17881957,-122.2331726,84006011.0,US,USA,840,6011.0,colusa,"Colusa, California, US",3,0,0,0
 2020-04-26,us,california,39.17881957,-122.2331726,84006011.0,US,USA,840,6011.0,colusa,"Colusa, California, US",3,0,0,0
+2020-04-27,us,california,39.17881957,-122.2331726,84006011.0,US,USA,840,6011.0,colusa,"Colusa, California, US",3,0,0,0
+2020-04-28,us,california,39.17881957,-122.2331726,84006011.0,US,USA,840,6011.0,colusa,"Colusa, California, US",3,0,0,0
 2020-01-22,us,california,39.26255932,-121.3535644,84006115.0,US,USA,840,6115.0,yuba,"Yuba, California, US",0,0,0,0
 2020-01-23,us,california,39.26255932,-121.3535644,84006115.0,US,USA,840,6115.0,yuba,"Yuba, California, US",0,0,0,0
 2020-01-24,us,california,39.26255932,-121.3535644,84006115.0,US,USA,840,6115.0,yuba,"Yuba, California, US",0,0,0,0
@@ -4415,6 +4505,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,39.26255932,-121.3535644,84006115.0,US,USA,840,6115.0,yuba,"Yuba, California, US",16,0,1,0
 2020-04-25,us,california,39.26255932,-121.3535644,84006115.0,US,USA,840,6115.0,yuba,"Yuba, California, US",16,0,1,0
 2020-04-26,us,california,39.26255932,-121.3535644,84006115.0,US,USA,840,6115.0,yuba,"Yuba, California, US",16,0,1,0
+2020-04-27,us,california,39.26255932,-121.3535644,84006115.0,US,USA,840,6115.0,yuba,"Yuba, California, US",16,0,1,0
+2020-04-28,us,california,39.26255932,-121.3535644,84006115.0,US,USA,840,6115.0,yuba,"Yuba, California, US",16,0,1,0
 2020-01-22,us,california,39.30394768,-120.7627281,84006057.0,US,USA,840,6057.0,nevada,"Nevada, California, US",0,0,0,0
 2020-01-23,us,california,39.30394768,-120.7627281,84006057.0,US,USA,840,6057.0,nevada,"Nevada, California, US",0,0,0,0
 2020-01-24,us,california,39.30394768,-120.7627281,84006057.0,US,USA,840,6057.0,nevada,"Nevada, California, US",0,0,0,0
@@ -4511,6 +4603,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,39.30394768,-120.7627281,84006057.0,US,USA,840,6057.0,nevada,"Nevada, California, US",37,1,1,0
 2020-04-25,us,california,39.30394768,-120.7627281,84006057.0,US,USA,840,6057.0,nevada,"Nevada, California, US",37,0,1,0
 2020-04-26,us,california,39.30394768,-120.7627281,84006057.0,US,USA,840,6057.0,nevada,"Nevada, California, US",37,0,1,0
+2020-04-27,us,california,39.30394768,-120.7627281,84006057.0,US,USA,840,6057.0,nevada,"Nevada, California, US",37,0,1,0
+2020-04-28,us,california,39.30394768,-120.7627281,84006057.0,US,USA,840,6057.0,nevada,"Nevada, California, US",39,2,1,0
 2020-01-22,us,california,39.4381191,-123.3911313,84006045.0,US,USA,840,6045.0,mendocino,"Mendocino, California, US",0,0,0,0
 2020-01-23,us,california,39.4381191,-123.3911313,84006045.0,US,USA,840,6045.0,mendocino,"Mendocino, California, US",0,0,0,0
 2020-01-24,us,california,39.4381191,-123.3911313,84006045.0,US,USA,840,6045.0,mendocino,"Mendocino, California, US",0,0,0,0
@@ -4607,6 +4701,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,39.4381191,-123.3911313,84006045.0,US,USA,840,6045.0,mendocino,"Mendocino, California, US",11,6,0,0
 2020-04-25,us,california,39.4381191,-123.3911313,84006045.0,US,USA,840,6045.0,mendocino,"Mendocino, California, US",11,0,0,0
 2020-04-26,us,california,39.4381191,-123.3911313,84006045.0,US,USA,840,6045.0,mendocino,"Mendocino, California, US",11,0,0,0
+2020-04-27,us,california,39.4381191,-123.3911313,84006045.0,US,USA,840,6045.0,mendocino,"Mendocino, California, US",11,0,0,0
+2020-04-28,us,california,39.4381191,-123.3911313,84006045.0,US,USA,840,6045.0,mendocino,"Mendocino, California, US",11,0,0,0
 2020-01-22,us,california,39.57713498,-120.52007009999998,84006091.0,US,USA,840,6091.0,sierra,"Sierra, California, US",0,0,0,0
 2020-01-23,us,california,39.57713498,-120.52007009999998,84006091.0,US,USA,840,6091.0,sierra,"Sierra, California, US",0,0,0,0
 2020-01-24,us,california,39.57713498,-120.52007009999998,84006091.0,US,USA,840,6091.0,sierra,"Sierra, California, US",0,0,0,0
@@ -4703,6 +4799,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,39.57713498,-120.52007009999998,84006091.0,US,USA,840,6091.0,sierra,"Sierra, California, US",0,0,0,0
 2020-04-25,us,california,39.57713498,-120.52007009999998,84006091.0,US,USA,840,6091.0,sierra,"Sierra, California, US",0,0,0,0
 2020-04-26,us,california,39.57713498,-120.52007009999998,84006091.0,US,USA,840,6091.0,sierra,"Sierra, California, US",0,0,0,0
+2020-04-27,us,california,39.57713498,-120.52007009999998,84006091.0,US,USA,840,6091.0,sierra,"Sierra, California, US",0,0,0,0
+2020-04-28,us,california,39.57713498,-120.52007009999998,84006091.0,US,USA,840,6091.0,sierra,"Sierra, California, US",0,0,0,0
 2020-01-22,us,california,39.59875897,-122.3938452,84006021.0,US,USA,840,6021.0,glenn,"Glenn, California, US",0,0,0,0
 2020-01-23,us,california,39.59875897,-122.3938452,84006021.0,US,USA,840,6021.0,glenn,"Glenn, California, US",0,0,0,0
 2020-01-24,us,california,39.59875897,-122.3938452,84006021.0,US,USA,840,6021.0,glenn,"Glenn, California, US",0,0,0,0
@@ -4799,6 +4897,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,39.59875897,-122.3938452,84006021.0,US,USA,840,6021.0,glenn,"Glenn, California, US",5,0,0,0
 2020-04-25,us,california,39.59875897,-122.3938452,84006021.0,US,USA,840,6021.0,glenn,"Glenn, California, US",5,0,0,0
 2020-04-26,us,california,39.59875897,-122.3938452,84006021.0,US,USA,840,6021.0,glenn,"Glenn, California, US",5,0,0,0
+2020-04-27,us,california,39.59875897,-122.3938452,84006021.0,US,USA,840,6021.0,glenn,"Glenn, California, US",5,0,0,0
+2020-04-28,us,california,39.59875897,-122.3938452,84006021.0,US,USA,840,6021.0,glenn,"Glenn, California, US",5,0,0,0
 2020-01-22,us,california,39.66727762,-121.6005252,84006007.0,US,USA,840,6007.0,butte,"Butte, California, US",0,0,0,0
 2020-01-23,us,california,39.66727762,-121.6005252,84006007.0,US,USA,840,6007.0,butte,"Butte, California, US",0,0,0,0
 2020-01-24,us,california,39.66727762,-121.6005252,84006007.0,US,USA,840,6007.0,butte,"Butte, California, US",0,0,0,0
@@ -4895,6 +4995,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,39.66727762,-121.6005252,84006007.0,US,USA,840,6007.0,butte,"Butte, California, US",16,0,0,0
 2020-04-25,us,california,39.66727762,-121.6005252,84006007.0,US,USA,840,6007.0,butte,"Butte, California, US",16,0,0,0
 2020-04-26,us,california,39.66727762,-121.6005252,84006007.0,US,USA,840,6007.0,butte,"Butte, California, US",16,0,0,0
+2020-04-27,us,california,39.66727762,-121.6005252,84006007.0,US,USA,840,6007.0,butte,"Butte, California, US",16,0,0,0
+2020-04-28,us,california,39.66727762,-121.6005252,84006007.0,US,USA,840,6007.0,butte,"Butte, California, US",16,0,0,0
 2020-01-22,us,california,40.00355989,-120.8395236,84006063.0,US,USA,840,6063.0,plumas,"Plumas, California, US",0,0,0,0
 2020-01-23,us,california,40.00355989,-120.8395236,84006063.0,US,USA,840,6063.0,plumas,"Plumas, California, US",0,0,0,0
 2020-01-24,us,california,40.00355989,-120.8395236,84006063.0,US,USA,840,6063.0,plumas,"Plumas, California, US",0,0,0,0
@@ -4991,6 +5093,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,40.00355989,-120.8395236,84006063.0,US,USA,840,6063.0,plumas,"Plumas, California, US",4,0,0,0
 2020-04-25,us,california,40.00355989,-120.8395236,84006063.0,US,USA,840,6063.0,plumas,"Plumas, California, US",4,0,0,0
 2020-04-26,us,california,40.00355989,-120.8395236,84006063.0,US,USA,840,6063.0,plumas,"Plumas, California, US",4,0,0,0
+2020-04-27,us,california,40.00355989,-120.8395236,84006063.0,US,USA,840,6063.0,plumas,"Plumas, California, US",4,0,0,0
+2020-04-28,us,california,40.00355989,-120.8395236,84006063.0,US,USA,840,6063.0,plumas,"Plumas, California, US",4,0,0,0
 2020-01-22,us,california,40.12570935,-122.2370171,84006103.0,US,USA,840,6103.0,tehama,"Tehama, California, US",0,0,0,0
 2020-01-23,us,california,40.12570935,-122.2370171,84006103.0,US,USA,840,6103.0,tehama,"Tehama, California, US",0,0,0,0
 2020-01-24,us,california,40.12570935,-122.2370171,84006103.0,US,USA,840,6103.0,tehama,"Tehama, California, US",0,0,0,0
@@ -5087,6 +5191,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,40.12570935,-122.2370171,84006103.0,US,USA,840,6103.0,tehama,"Tehama, California, US",1,0,1,0
 2020-04-25,us,california,40.12570935,-122.2370171,84006103.0,US,USA,840,6103.0,tehama,"Tehama, California, US",1,0,1,0
 2020-04-26,us,california,40.12570935,-122.2370171,84006103.0,US,USA,840,6103.0,tehama,"Tehama, California, US",1,0,1,0
+2020-04-27,us,california,40.12570935,-122.2370171,84006103.0,US,USA,840,6103.0,tehama,"Tehama, California, US",1,0,1,0
+2020-04-28,us,california,40.12570935,-122.2370171,84006103.0,US,USA,840,6103.0,tehama,"Tehama, California, US",1,0,1,0
 2020-01-22,us,california,40.64917670000001,-123.114713,84006105.0,US,USA,840,6105.0,trinity,"Trinity, California, US",0,0,0,0
 2020-01-23,us,california,40.64917670000001,-123.114713,84006105.0,US,USA,840,6105.0,trinity,"Trinity, California, US",0,0,0,0
 2020-01-24,us,california,40.64917670000001,-123.114713,84006105.0,US,USA,840,6105.0,trinity,"Trinity, California, US",0,0,0,0
@@ -5183,6 +5289,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,40.64917670000001,-123.114713,84006105.0,US,USA,840,6105.0,trinity,"Trinity, California, US",0,0,0,0
 2020-04-25,us,california,40.64917670000001,-123.114713,84006105.0,US,USA,840,6105.0,trinity,"Trinity, California, US",0,0,0,0
 2020-04-26,us,california,40.64917670000001,-123.114713,84006105.0,US,USA,840,6105.0,trinity,"Trinity, California, US",0,0,0,0
+2020-04-27,us,california,40.64917670000001,-123.114713,84006105.0,US,USA,840,6105.0,trinity,"Trinity, California, US",0,0,0,0
+2020-04-28,us,california,40.64917670000001,-123.114713,84006105.0,US,USA,840,6105.0,trinity,"Trinity, California, US",0,0,0,0
 2020-01-22,us,california,40.67311306,-120.59350990000002,84006035.0,US,USA,840,6035.0,lassen,"Lassen, California, US",0,0,0,0
 2020-01-23,us,california,40.67311306,-120.59350990000002,84006035.0,US,USA,840,6035.0,lassen,"Lassen, California, US",0,0,0,0
 2020-01-24,us,california,40.67311306,-120.59350990000002,84006035.0,US,USA,840,6035.0,lassen,"Lassen, California, US",0,0,0,0
@@ -5279,6 +5387,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,40.67311306,-120.59350990000002,84006035.0,US,USA,840,6035.0,lassen,"Lassen, California, US",0,0,0,0
 2020-04-25,us,california,40.67311306,-120.59350990000002,84006035.0,US,USA,840,6035.0,lassen,"Lassen, California, US",0,0,0,0
 2020-04-26,us,california,40.67311306,-120.59350990000002,84006035.0,US,USA,840,6035.0,lassen,"Lassen, California, US",0,0,0,0
+2020-04-27,us,california,40.67311306,-120.59350990000002,84006035.0,US,USA,840,6035.0,lassen,"Lassen, California, US",0,0,0,0
+2020-04-28,us,california,40.67311306,-120.59350990000002,84006035.0,US,USA,840,6035.0,lassen,"Lassen, California, US",0,0,0,0
 2020-01-22,us,california,40.69923009,-123.876044,84006023.0,US,USA,840,6023.0,humboldt,"Humboldt, California, US",0,0,0,0
 2020-01-23,us,california,40.69923009,-123.876044,84006023.0,US,USA,840,6023.0,humboldt,"Humboldt, California, US",0,0,0,0
 2020-01-24,us,california,40.69923009,-123.876044,84006023.0,US,USA,840,6023.0,humboldt,"Humboldt, California, US",0,0,0,0
@@ -5375,6 +5485,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,40.69923009,-123.876044,84006023.0,US,USA,840,6023.0,humboldt,"Humboldt, California, US",53,1,0,0
 2020-04-25,us,california,40.69923009,-123.876044,84006023.0,US,USA,840,6023.0,humboldt,"Humboldt, California, US",53,0,0,0
 2020-04-26,us,california,40.69923009,-123.876044,84006023.0,US,USA,840,6023.0,humboldt,"Humboldt, California, US",53,0,0,0
+2020-04-27,us,california,40.69923009,-123.876044,84006023.0,US,USA,840,6023.0,humboldt,"Humboldt, California, US",53,0,0,0
+2020-04-28,us,california,40.69923009,-123.876044,84006023.0,US,USA,840,6023.0,humboldt,"Humboldt, California, US",53,0,0,0
 2020-01-22,us,california,40.76391419,-122.0396884,84006089.0,US,USA,840,6089.0,shasta,"Shasta, California, US",0,0,0,0
 2020-01-23,us,california,40.76391419,-122.0396884,84006089.0,US,USA,840,6089.0,shasta,"Shasta, California, US",0,0,0,0
 2020-01-24,us,california,40.76391419,-122.0396884,84006089.0,US,USA,840,6089.0,shasta,"Shasta, California, US",0,0,0,0
@@ -5471,6 +5583,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,40.76391419,-122.0396884,84006089.0,US,USA,840,6089.0,shasta,"Shasta, California, US",30,2,4,1
 2020-04-25,us,california,40.76391419,-122.0396884,84006089.0,US,USA,840,6089.0,shasta,"Shasta, California, US",30,0,4,0
 2020-04-26,us,california,40.76391419,-122.0396884,84006089.0,US,USA,840,6089.0,shasta,"Shasta, California, US",30,0,4,0
+2020-04-27,us,california,40.76391419,-122.0396884,84006089.0,US,USA,840,6089.0,shasta,"Shasta, California, US",30,0,4,0
+2020-04-28,us,california,40.76391419,-122.0396884,84006089.0,US,USA,840,6089.0,shasta,"Shasta, California, US",30,0,4,0
 2020-01-22,us,california,41.58965602,-120.7244817,84006049.0,US,USA,840,6049.0,modoc,"Modoc, California, US",0,0,0,0
 2020-01-23,us,california,41.58965602,-120.7244817,84006049.0,US,USA,840,6049.0,modoc,"Modoc, California, US",0,0,0,0
 2020-01-24,us,california,41.58965602,-120.7244817,84006049.0,US,USA,840,6049.0,modoc,"Modoc, California, US",0,0,0,0
@@ -5567,6 +5681,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,41.58965602,-120.7244817,84006049.0,US,USA,840,6049.0,modoc,"Modoc, California, US",0,0,0,0
 2020-04-25,us,california,41.58965602,-120.7244817,84006049.0,US,USA,840,6049.0,modoc,"Modoc, California, US",0,0,0,0
 2020-04-26,us,california,41.58965602,-120.7244817,84006049.0,US,USA,840,6049.0,modoc,"Modoc, California, US",0,0,0,0
+2020-04-27,us,california,41.58965602,-120.7244817,84006049.0,US,USA,840,6049.0,modoc,"Modoc, California, US",0,0,0,0
+2020-04-28,us,california,41.58965602,-120.7244817,84006049.0,US,USA,840,6049.0,modoc,"Modoc, California, US",0,0,0,0
 2020-01-22,us,california,41.59198861,-122.5407434,84006093.0,US,USA,840,6093.0,siskiyou,"Siskiyou, California, US",0,0,0,0
 2020-01-23,us,california,41.59198861,-122.5407434,84006093.0,US,USA,840,6093.0,siskiyou,"Siskiyou, California, US",0,0,0,0
 2020-01-24,us,california,41.59198861,-122.5407434,84006093.0,US,USA,840,6093.0,siskiyou,"Siskiyou, California, US",0,0,0,0
@@ -5663,6 +5779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,41.59198861,-122.5407434,84006093.0,US,USA,840,6093.0,siskiyou,"Siskiyou, California, US",5,0,0,0
 2020-04-25,us,california,41.59198861,-122.5407434,84006093.0,US,USA,840,6093.0,siskiyou,"Siskiyou, California, US",5,0,0,0
 2020-04-26,us,california,41.59198861,-122.5407434,84006093.0,US,USA,840,6093.0,siskiyou,"Siskiyou, California, US",5,0,0,0
+2020-04-27,us,california,41.59198861,-122.5407434,84006093.0,US,USA,840,6093.0,siskiyou,"Siskiyou, California, US",5,0,0,0
+2020-04-28,us,california,41.59198861,-122.5407434,84006093.0,US,USA,840,6093.0,siskiyou,"Siskiyou, California, US",5,0,0,0
 2020-01-22,us,california,41.74228275,-123.8974063,84006015.0,US,USA,840,6015.0,del-norte,"Del Norte, California, US",0,0,0,0
 2020-01-23,us,california,41.74228275,-123.8974063,84006015.0,US,USA,840,6015.0,del-norte,"Del Norte, California, US",0,0,0,0
 2020-01-24,us,california,41.74228275,-123.8974063,84006015.0,US,USA,840,6015.0,del-norte,"Del Norte, California, US",0,0,0,0
@@ -5759,3 +5877,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,41.74228275,-123.8974063,84006015.0,US,USA,840,6015.0,del-norte,"Del Norte, California, US",2,0,0,0
 2020-04-25,us,california,41.74228275,-123.8974063,84006015.0,US,USA,840,6015.0,del-norte,"Del Norte, California, US",2,0,0,0
 2020-04-26,us,california,41.74228275,-123.8974063,84006015.0,US,USA,840,6015.0,del-norte,"Del Norte, California, US",3,1,0,0
+2020-04-27,us,california,41.74228275,-123.8974063,84006015.0,US,USA,840,6015.0,del-norte,"Del Norte, California, US",3,0,0,0
+2020-04-28,us,california,41.74228275,-123.8974063,84006015.0,US,USA,840,6015.0,del-norte,"Del Norte, California, US",3,0,0,0

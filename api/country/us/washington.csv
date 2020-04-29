@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,0.0,0.0,84080053.0,US,USA,840,80053.0,out-of-wa,"Out of WA, Washington, US",0,0,0,0
 2020-04-25,us,washington,0.0,0.0,84080053.0,US,USA,840,80053.0,out-of-wa,"Out of WA, Washington, US",0,0,0,0
 2020-04-26,us,washington,0.0,0.0,84080053.0,US,USA,840,80053.0,out-of-wa,"Out of WA, Washington, US",0,0,0,0
+2020-04-27,us,washington,0.0,0.0,84080053.0,US,USA,840,80053.0,out-of-wa,"Out of WA, Washington, US",0,0,0,0
+2020-04-28,us,washington,0.0,0.0,84080053.0,US,USA,840,80053.0,out-of-wa,"Out of WA, Washington, US",0,0,0,0
 2020-01-22,us,washington,0.0,0.0,84090053.0,US,USA,840,90053.0,unassigned,"Unassigned, Washington, US",0,0,0,0
 2020-01-23,us,washington,0.0,0.0,84090053.0,US,USA,840,90053.0,unassigned,"Unassigned, Washington, US",0,0,0,0
 2020-01-24,us,washington,0.0,0.0,84090053.0,US,USA,840,90053.0,unassigned,"Unassigned, Washington, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,0.0,0.0,84090053.0,US,USA,840,90053.0,unassigned,"Unassigned, Washington, US",100,-34,0,0
 2020-04-25,us,washington,0.0,0.0,84090053.0,US,USA,840,90053.0,unassigned,"Unassigned, Washington, US",137,37,0,0
 2020-04-26,us,washington,0.0,0.0,84090053.0,US,USA,840,90053.0,unassigned,"Unassigned, Washington, US",123,-14,0,0
+2020-04-27,us,washington,0.0,0.0,84090053.0,US,USA,840,90053.0,unassigned,"Unassigned, Washington, US",103,-20,0,0
+2020-04-28,us,washington,0.0,0.0,84090053.0,US,USA,840,90053.0,unassigned,"Unassigned, Washington, US",79,-24,0,0
 2020-01-22,us,washington,45.77568046,-122.4829204,84053011.0,US,USA,840,53011.0,clark,"Clark, Washington, US",0,0,0,0
 2020-01-23,us,washington,45.77568046,-122.4829204,84053011.0,US,USA,840,53011.0,clark,"Clark, Washington, US",0,0,0,0
 2020-01-24,us,washington,45.77568046,-122.4829204,84053011.0,US,USA,840,53011.0,clark,"Clark, Washington, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,45.77568046,-122.4829204,84053011.0,US,USA,840,53011.0,clark,"Clark, Washington, US",293,2,16,1
 2020-04-25,us,washington,45.77568046,-122.4829204,84053011.0,US,USA,840,53011.0,clark,"Clark, Washington, US",296,3,18,2
 2020-04-26,us,washington,45.77568046,-122.4829204,84053011.0,US,USA,840,53011.0,clark,"Clark, Washington, US",297,1,18,0
+2020-04-27,us,washington,45.77568046,-122.4829204,84053011.0,US,USA,840,53011.0,clark,"Clark, Washington, US",308,11,18,0
+2020-04-28,us,washington,45.77568046,-122.4829204,84053011.0,US,USA,840,53011.0,clark,"Clark, Washington, US",313,5,18,0
 2020-01-22,us,washington,45.87325839,-120.7913598,84053039.0,US,USA,840,53039.0,klickitat,"Klickitat, Washington, US",0,0,0,0
 2020-01-23,us,washington,45.87325839,-120.7913598,84053039.0,US,USA,840,53039.0,klickitat,"Klickitat, Washington, US",0,0,0,0
 2020-01-24,us,washington,45.87325839,-120.7913598,84053039.0,US,USA,840,53039.0,klickitat,"Klickitat, Washington, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,45.87325839,-120.7913598,84053039.0,US,USA,840,53039.0,klickitat,"Klickitat, Washington, US",16,0,3,0
 2020-04-25,us,washington,45.87325839,-120.7913598,84053039.0,US,USA,840,53039.0,klickitat,"Klickitat, Washington, US",16,0,3,0
 2020-04-26,us,washington,45.87325839,-120.7913598,84053039.0,US,USA,840,53039.0,klickitat,"Klickitat, Washington, US",16,0,3,0
+2020-04-27,us,washington,45.87325839,-120.7913598,84053039.0,US,USA,840,53039.0,klickitat,"Klickitat, Washington, US",16,0,3,0
+2020-04-28,us,washington,45.87325839,-120.7913598,84053039.0,US,USA,840,53039.0,klickitat,"Klickitat, Washington, US",16,0,3,0
 2020-01-22,us,washington,46.02408726,-121.9164403,84053059.0,US,USA,840,53059.0,skamania,"Skamania, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.02408726,-121.9164403,84053059.0,US,USA,840,53059.0,skamania,"Skamania, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.02408726,-121.9164403,84053059.0,US,USA,840,53059.0,skamania,"Skamania, Washington, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.02408726,-121.9164403,84053059.0,US,USA,840,53059.0,skamania,"Skamania, Washington, US",3,0,0,0
 2020-04-25,us,washington,46.02408726,-121.9164403,84053059.0,US,USA,840,53059.0,skamania,"Skamania, Washington, US",3,0,0,0
 2020-04-26,us,washington,46.02408726,-121.9164403,84053059.0,US,USA,840,53059.0,skamania,"Skamania, Washington, US",3,0,0,0
+2020-04-27,us,washington,46.02408726,-121.9164403,84053059.0,US,USA,840,53059.0,skamania,"Skamania, Washington, US",3,0,0,0
+2020-04-28,us,washington,46.02408726,-121.9164403,84053059.0,US,USA,840,53059.0,skamania,"Skamania, Washington, US",3,0,0,0
 2020-01-22,us,washington,46.18894415,-117.2022851,84053003.0,US,USA,840,53003.0,asotin,"Asotin, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.18894415,-117.2022851,84053003.0,US,USA,840,53003.0,asotin,"Asotin, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.18894415,-117.2022851,84053003.0,US,USA,840,53003.0,asotin,"Asotin, Washington, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.18894415,-117.2022851,84053003.0,US,USA,840,53003.0,asotin,"Asotin, Washington, US",16,0,1,0
 2020-04-25,us,washington,46.18894415,-117.2022851,84053003.0,US,USA,840,53003.0,asotin,"Asotin, Washington, US",17,1,1,0
 2020-04-26,us,washington,46.18894415,-117.2022851,84053003.0,US,USA,840,53003.0,asotin,"Asotin, Washington, US",17,0,1,0
+2020-04-27,us,washington,46.18894415,-117.2022851,84053003.0,US,USA,840,53003.0,asotin,"Asotin, Washington, US",17,0,1,0
+2020-04-28,us,washington,46.18894415,-117.2022851,84053003.0,US,USA,840,53003.0,asotin,"Asotin, Washington, US",17,0,2,1
 2020-01-22,us,washington,46.19074721,-122.6782231,84053015.0,US,USA,840,53015.0,cowlitz,"Cowlitz, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.19074721,-122.6782231,84053015.0,US,USA,840,53015.0,cowlitz,"Cowlitz, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.19074721,-122.6782231,84053015.0,US,USA,840,53015.0,cowlitz,"Cowlitz, Washington, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.19074721,-122.6782231,84053015.0,US,USA,840,53015.0,cowlitz,"Cowlitz, Washington, US",36,1,0,0
 2020-04-25,us,washington,46.19074721,-122.6782231,84053015.0,US,USA,840,53015.0,cowlitz,"Cowlitz, Washington, US",39,3,0,0
 2020-04-26,us,washington,46.19074721,-122.6782231,84053015.0,US,USA,840,53015.0,cowlitz,"Cowlitz, Washington, US",39,0,0,0
+2020-04-27,us,washington,46.19074721,-122.6782231,84053015.0,US,USA,840,53015.0,cowlitz,"Cowlitz, Washington, US",39,0,0,0
+2020-04-28,us,washington,46.19074721,-122.6782231,84053015.0,US,USA,840,53015.0,cowlitz,"Cowlitz, Washington, US",39,0,0,0
 2020-01-22,us,washington,46.23040051,-118.4775539,84053071.0,US,USA,840,53071.0,walla-walla,"Walla Walla, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.23040051,-118.4775539,84053071.0,US,USA,840,53071.0,walla-walla,"Walla Walla, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.23040051,-118.4775539,84053071.0,US,USA,840,53071.0,walla-walla,"Walla Walla, Washington, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.23040051,-118.4775539,84053071.0,US,USA,840,53071.0,walla-walla,"Walla Walla, Washington, US",48,7,0,0
 2020-04-25,us,washington,46.23040051,-118.4775539,84053071.0,US,USA,840,53071.0,walla-walla,"Walla Walla, Washington, US",50,2,0,0
 2020-04-26,us,washington,46.23040051,-118.4775539,84053071.0,US,USA,840,53071.0,walla-walla,"Walla Walla, Washington, US",52,2,0,0
+2020-04-27,us,washington,46.23040051,-118.4775539,84053071.0,US,USA,840,53071.0,walla-walla,"Walla Walla, Washington, US",55,3,0,0
+2020-04-28,us,washington,46.23040051,-118.4775539,84053071.0,US,USA,840,53071.0,walla-walla,"Walla Walla, Washington, US",57,2,0,0
 2020-01-22,us,washington,46.23946995,-119.5120834,84053005.0,US,USA,840,53005.0,benton,"Benton, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.23946995,-119.5120834,84053005.0,US,USA,840,53005.0,benton,"Benton, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.23946995,-119.5120834,84053005.0,US,USA,840,53005.0,benton,"Benton, Washington, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.23946995,-119.5120834,84053005.0,US,USA,840,53005.0,benton,"Benton, Washington, US",383,18,36,0
 2020-04-25,us,washington,46.23946995,-119.5120834,84053005.0,US,USA,840,53005.0,benton,"Benton, Washington, US",399,16,37,1
 2020-04-26,us,washington,46.23946995,-119.5120834,84053005.0,US,USA,840,53005.0,benton,"Benton, Washington, US",405,6,37,0
+2020-04-27,us,washington,46.23946995,-119.5120834,84053005.0,US,USA,840,53005.0,benton,"Benton, Washington, US",409,4,38,1
+2020-04-28,us,washington,46.23946995,-119.5120834,84053005.0,US,USA,840,53005.0,benton,"Benton, Washington, US",415,6,39,1
 2020-01-22,us,washington,46.29180039999999,-123.4250831,84053069.0,US,USA,840,53069.0,wahkiakum,"Wahkiakum, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.29180039999999,-123.4250831,84053069.0,US,USA,840,53069.0,wahkiakum,"Wahkiakum, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.29180039999999,-123.4250831,84053069.0,US,USA,840,53069.0,wahkiakum,"Wahkiakum, Washington, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.29180039999999,-123.4250831,84053069.0,US,USA,840,53069.0,wahkiakum,"Wahkiakum, Washington, US",2,0,0,0
 2020-04-25,us,washington,46.29180039999999,-123.4250831,84053069.0,US,USA,840,53069.0,wahkiakum,"Wahkiakum, Washington, US",2,0,0,0
 2020-04-26,us,washington,46.29180039999999,-123.4250831,84053069.0,US,USA,840,53069.0,wahkiakum,"Wahkiakum, Washington, US",2,0,0,0
+2020-04-27,us,washington,46.29180039999999,-123.4250831,84053069.0,US,USA,840,53069.0,wahkiakum,"Wahkiakum, Washington, US",2,0,0,0
+2020-04-28,us,washington,46.29180039999999,-123.4250831,84053069.0,US,USA,840,53069.0,wahkiakum,"Wahkiakum, Washington, US",2,0,0,0
 2020-01-22,us,washington,46.29442881,-117.9051983,84053013.0,US,USA,840,53013.0,columbia,"Columbia, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.29442881,-117.9051983,84053013.0,US,USA,840,53013.0,columbia,"Columbia, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.29442881,-117.9051983,84053013.0,US,USA,840,53013.0,columbia,"Columbia, Washington, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.29442881,-117.9051983,84053013.0,US,USA,840,53013.0,columbia,"Columbia, Washington, US",1,0,0,0
 2020-04-25,us,washington,46.29442881,-117.9051983,84053013.0,US,USA,840,53013.0,columbia,"Columbia, Washington, US",1,0,0,0
 2020-04-26,us,washington,46.29442881,-117.9051983,84053013.0,US,USA,840,53013.0,columbia,"Columbia, Washington, US",1,0,0,0
+2020-04-27,us,washington,46.29442881,-117.9051983,84053013.0,US,USA,840,53013.0,columbia,"Columbia, Washington, US",1,0,0,0
+2020-04-28,us,washington,46.29442881,-117.9051983,84053013.0,US,USA,840,53013.0,columbia,"Columbia, Washington, US",1,0,0,0
 2020-01-22,us,washington,46.43197502,-117.5454032,84053023.0,US,USA,840,53023.0,garfield,"Garfield, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.43197502,-117.5454032,84053023.0,US,USA,840,53023.0,garfield,"Garfield, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.43197502,-117.5454032,84053023.0,US,USA,840,53023.0,garfield,"Garfield, Washington, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.43197502,-117.5454032,84053023.0,US,USA,840,53023.0,garfield,"Garfield, Washington, US",0,0,0,0
 2020-04-25,us,washington,46.43197502,-117.5454032,84053023.0,US,USA,840,53023.0,garfield,"Garfield, Washington, US",0,0,0,0
 2020-04-26,us,washington,46.43197502,-117.5454032,84053023.0,US,USA,840,53023.0,garfield,"Garfield, Washington, US",0,0,0,0
+2020-04-27,us,washington,46.43197502,-117.5454032,84053023.0,US,USA,840,53023.0,garfield,"Garfield, Washington, US",0,0,0,0
+2020-04-28,us,washington,46.43197502,-117.5454032,84053023.0,US,USA,840,53023.0,garfield,"Garfield, Washington, US",0,0,0,0
 2020-01-22,us,washington,46.45738486,-120.7380126,84053077.0,US,USA,840,53077.0,yakima,"Yakima, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.45738486,-120.7380126,84053077.0,US,USA,840,53077.0,yakima,"Yakima, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.45738486,-120.7380126,84053077.0,US,USA,840,53077.0,yakima,"Yakima, Washington, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.45738486,-120.7380126,84053077.0,US,USA,840,53077.0,yakima,"Yakima, Washington, US",923,44,43,2
 2020-04-25,us,washington,46.45738486,-120.7380126,84053077.0,US,USA,840,53077.0,yakima,"Yakima, Washington, US",976,53,44,1
 2020-04-26,us,washington,46.45738486,-120.7380126,84053077.0,US,USA,840,53077.0,yakima,"Yakima, Washington, US",1015,39,44,0
+2020-04-27,us,washington,46.45738486,-120.7380126,84053077.0,US,USA,840,53077.0,yakima,"Yakima, Washington, US",1034,19,45,1
+2020-04-28,us,washington,46.45738486,-120.7380126,84053077.0,US,USA,840,53077.0,yakima,"Yakima, Washington, US",1046,12,45,0
 2020-01-22,us,washington,46.53351425,-118.9018212,84053021.0,US,USA,840,53021.0,franklin,"Franklin, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.53351425,-118.9018212,84053021.0,US,USA,840,53021.0,franklin,"Franklin, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.53351425,-118.9018212,84053021.0,US,USA,840,53021.0,franklin,"Franklin, Washington, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.53351425,-118.9018212,84053021.0,US,USA,840,53021.0,franklin,"Franklin, Washington, US",239,6,5,0
 2020-04-25,us,washington,46.53351425,-118.9018212,84053021.0,US,USA,840,53021.0,franklin,"Franklin, Washington, US",250,11,5,0
 2020-04-26,us,washington,46.53351425,-118.9018212,84053021.0,US,USA,840,53021.0,franklin,"Franklin, Washington, US",251,1,5,0
+2020-04-27,us,washington,46.53351425,-118.9018212,84053021.0,US,USA,840,53021.0,franklin,"Franklin, Washington, US",256,5,5,0
+2020-04-28,us,washington,46.53351425,-118.9018212,84053021.0,US,USA,840,53021.0,franklin,"Franklin, Washington, US",265,9,7,2
 2020-01-22,us,washington,46.55418369,-123.7285716,84053049.0,US,USA,840,53049.0,pacific,"Pacific, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.55418369,-123.7285716,84053049.0,US,USA,840,53049.0,pacific,"Pacific, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.55418369,-123.7285716,84053049.0,US,USA,840,53049.0,pacific,"Pacific, Washington, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.55418369,-123.7285716,84053049.0,US,USA,840,53049.0,pacific,"Pacific, Washington, US",4,0,0,0
 2020-04-25,us,washington,46.55418369,-123.7285716,84053049.0,US,USA,840,53049.0,pacific,"Pacific, Washington, US",4,0,0,0
 2020-04-26,us,washington,46.55418369,-123.7285716,84053049.0,US,USA,840,53049.0,pacific,"Pacific, Washington, US",4,0,0,0
+2020-04-27,us,washington,46.55418369,-123.7285716,84053049.0,US,USA,840,53049.0,pacific,"Pacific, Washington, US",4,0,0,0
+2020-04-28,us,washington,46.55418369,-123.7285716,84053049.0,US,USA,840,53049.0,pacific,"Pacific, Washington, US",4,0,0,0
 2020-01-22,us,washington,46.57756476,-122.3925769,84053041.0,US,USA,840,53041.0,lewis,"Lewis, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.57756476,-122.3925769,84053041.0,US,USA,840,53041.0,lewis,"Lewis, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.57756476,-122.3925769,84053041.0,US,USA,840,53041.0,lewis,"Lewis, Washington, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.57756476,-122.3925769,84053041.0,US,USA,840,53041.0,lewis,"Lewis, Washington, US",25,3,3,0
 2020-04-25,us,washington,46.57756476,-122.3925769,84053041.0,US,USA,840,53041.0,lewis,"Lewis, Washington, US",29,4,3,0
 2020-04-26,us,washington,46.57756476,-122.3925769,84053041.0,US,USA,840,53041.0,lewis,"Lewis, Washington, US",29,0,3,0
+2020-04-27,us,washington,46.57756476,-122.3925769,84053041.0,US,USA,840,53041.0,lewis,"Lewis, Washington, US",29,0,3,0
+2020-04-28,us,washington,46.57756476,-122.3925769,84053041.0,US,USA,840,53041.0,lewis,"Lewis, Washington, US",29,0,3,0
 2020-01-22,us,washington,46.90022523,-117.5241763,84053075.0,US,USA,840,53075.0,whitman,"Whitman, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.90022523,-117.5241763,84053075.0,US,USA,840,53075.0,whitman,"Whitman, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.90022523,-117.5241763,84053075.0,US,USA,840,53075.0,whitman,"Whitman, Washington, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.90022523,-117.5241763,84053075.0,US,USA,840,53075.0,whitman,"Whitman, Washington, US",14,1,0,0
 2020-04-25,us,washington,46.90022523,-117.5241763,84053075.0,US,USA,840,53075.0,whitman,"Whitman, Washington, US",14,0,0,0
 2020-04-26,us,washington,46.90022523,-117.5241763,84053075.0,US,USA,840,53075.0,whitman,"Whitman, Washington, US",14,0,0,0
+2020-04-27,us,washington,46.90022523,-117.5241763,84053075.0,US,USA,840,53075.0,whitman,"Whitman, Washington, US",14,0,0,0
+2020-04-28,us,washington,46.90022523,-117.5241763,84053075.0,US,USA,840,53075.0,whitman,"Whitman, Washington, US",14,0,0,0
 2020-01-22,us,washington,46.9291895,-122.8290656,84053067.0,US,USA,840,53067.0,thurston,"Thurston, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.9291895,-122.8290656,84053067.0,US,USA,840,53067.0,thurston,"Thurston, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.9291895,-122.8290656,84053067.0,US,USA,840,53067.0,thurston,"Thurston, Washington, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.9291895,-122.8290656,84053067.0,US,USA,840,53067.0,thurston,"Thurston, Washington, US",98,2,1,0
 2020-04-25,us,washington,46.9291895,-122.8290656,84053067.0,US,USA,840,53067.0,thurston,"Thurston, Washington, US",101,3,1,0
 2020-04-26,us,washington,46.9291895,-122.8290656,84053067.0,US,USA,840,53067.0,thurston,"Thurston, Washington, US",100,-1,1,0
+2020-04-27,us,washington,46.9291895,-122.8290656,84053067.0,US,USA,840,53067.0,thurston,"Thurston, Washington, US",100,0,1,0
+2020-04-28,us,washington,46.9291895,-122.8290656,84053067.0,US,USA,840,53067.0,thurston,"Thurston, Washington, US",100,0,1,0
 2020-01-22,us,washington,46.98299757,-118.5601734,84053001.0,US,USA,840,53001.0,adams,"Adams, Washington, US",0,0,0,0
 2020-01-23,us,washington,46.98299757,-118.5601734,84053001.0,US,USA,840,53001.0,adams,"Adams, Washington, US",0,0,0,0
 2020-01-24,us,washington,46.98299757,-118.5601734,84053001.0,US,USA,840,53001.0,adams,"Adams, Washington, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,46.98299757,-118.5601734,84053001.0,US,USA,840,53001.0,adams,"Adams, Washington, US",45,0,0,0
 2020-04-25,us,washington,46.98299757,-118.5601734,84053001.0,US,USA,840,53001.0,adams,"Adams, Washington, US",46,1,0,0
 2020-04-26,us,washington,46.98299757,-118.5601734,84053001.0,US,USA,840,53001.0,adams,"Adams, Washington, US",46,0,0,0
+2020-04-27,us,washington,46.98299757,-118.5601734,84053001.0,US,USA,840,53001.0,adams,"Adams, Washington, US",46,0,0,0
+2020-04-28,us,washington,46.98299757,-118.5601734,84053001.0,US,USA,840,53001.0,adams,"Adams, Washington, US",46,0,0,0
 2020-01-22,us,washington,47.03892768,-122.1405958,84053053.0,US,USA,840,53053.0,pierce,"Pierce, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.03892768,-122.1405958,84053053.0,US,USA,840,53053.0,pierce,"Pierce, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.03892768,-122.1405958,84053053.0,US,USA,840,53053.0,pierce,"Pierce, Washington, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.03892768,-122.1405958,84053053.0,US,USA,840,53053.0,pierce,"Pierce, Washington, US",1212,20,43,-1
 2020-04-25,us,washington,47.03892768,-122.1405958,84053053.0,US,USA,840,53053.0,pierce,"Pierce, Washington, US",1235,23,46,3
 2020-04-26,us,washington,47.03892768,-122.1405958,84053053.0,US,USA,840,53053.0,pierce,"Pierce, Washington, US",1244,9,46,0
+2020-04-27,us,washington,47.03892768,-122.1405958,84053053.0,US,USA,840,53053.0,pierce,"Pierce, Washington, US",1263,19,47,1
+2020-04-28,us,washington,47.03892768,-122.1405958,84053053.0,US,USA,840,53053.0,pierce,"Pierce, Washington, US",1293,30,48,1
 2020-01-22,us,washington,47.12521214,-120.679439,84053037.0,US,USA,840,53037.0,kittitas,"Kittitas, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.12521214,-120.679439,84053037.0,US,USA,840,53037.0,kittitas,"Kittitas, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.12521214,-120.679439,84053037.0,US,USA,840,53037.0,kittitas,"Kittitas, Washington, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.12521214,-120.679439,84053037.0,US,USA,840,53037.0,kittitas,"Kittitas, Washington, US",14,0,0,0
 2020-04-25,us,washington,47.12521214,-120.679439,84053037.0,US,USA,840,53037.0,kittitas,"Kittitas, Washington, US",14,0,0,0
 2020-04-26,us,washington,47.12521214,-120.679439,84053037.0,US,USA,840,53037.0,kittitas,"Kittitas, Washington, US",14,0,0,0
+2020-04-27,us,washington,47.12521214,-120.679439,84053037.0,US,USA,840,53037.0,kittitas,"Kittitas, Washington, US",14,0,0,0
+2020-04-28,us,washington,47.12521214,-120.679439,84053037.0,US,USA,840,53037.0,kittitas,"Kittitas, Washington, US",15,1,0,0
 2020-01-22,us,washington,47.14003705,-123.7820567,84053027.0,US,USA,840,53027.0,grays-harbor,"Grays Harbor, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.14003705,-123.7820567,84053027.0,US,USA,840,53027.0,grays-harbor,"Grays Harbor, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.14003705,-123.7820567,84053027.0,US,USA,840,53027.0,grays-harbor,"Grays Harbor, Washington, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.14003705,-123.7820567,84053027.0,US,USA,840,53027.0,grays-harbor,"Grays Harbor, Washington, US",12,0,0,0
 2020-04-25,us,washington,47.14003705,-123.7820567,84053027.0,US,USA,840,53027.0,grays-harbor,"Grays Harbor, Washington, US",12,0,0,0
 2020-04-26,us,washington,47.14003705,-123.7820567,84053027.0,US,USA,840,53027.0,grays-harbor,"Grays Harbor, Washington, US",12,0,0,0
+2020-04-27,us,washington,47.14003705,-123.7820567,84053027.0,US,USA,840,53027.0,grays-harbor,"Grays Harbor, Washington, US",12,0,0,0
+2020-04-28,us,washington,47.14003705,-123.7820567,84053027.0,US,USA,840,53027.0,grays-harbor,"Grays Harbor, Washington, US",12,0,0,0
 2020-01-22,us,washington,47.20753737,-119.4500749,84053025.0,US,USA,840,53025.0,grant,"Grant, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.20753737,-119.4500749,84053025.0,US,USA,840,53025.0,grant,"Grant, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.20753737,-119.4500749,84053025.0,US,USA,840,53025.0,grant,"Grant, Washington, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.20753737,-119.4500749,84053025.0,US,USA,840,53025.0,grant,"Grant, Washington, US",149,3,2,0
 2020-04-25,us,washington,47.20753737,-119.4500749,84053025.0,US,USA,840,53025.0,grant,"Grant, Washington, US",150,1,2,0
 2020-04-26,us,washington,47.20753737,-119.4500749,84053025.0,US,USA,840,53025.0,grant,"Grant, Washington, US",150,0,2,0
+2020-04-27,us,washington,47.20753737,-119.4500749,84053025.0,US,USA,840,53025.0,grant,"Grant, Washington, US",152,2,2,0
+2020-04-28,us,washington,47.20753737,-119.4500749,84053025.0,US,USA,840,53025.0,grant,"Grant, Washington, US",155,3,3,1
 2020-01-22,us,washington,47.35007586,-123.1863685,84053045.0,US,USA,840,53045.0,mason,"Mason, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.35007586,-123.1863685,84053045.0,US,USA,840,53045.0,mason,"Mason, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.35007586,-123.1863685,84053045.0,US,USA,840,53045.0,mason,"Mason, Washington, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.35007586,-123.1863685,84053045.0,US,USA,840,53045.0,mason,"Mason, Washington, US",22,0,0,0
 2020-04-25,us,washington,47.35007586,-123.1863685,84053045.0,US,USA,840,53045.0,mason,"Mason, Washington, US",22,0,0,0
 2020-04-26,us,washington,47.35007586,-123.1863685,84053045.0,US,USA,840,53045.0,mason,"Mason, Washington, US",22,0,1,1
+2020-04-27,us,washington,47.35007586,-123.1863685,84053045.0,US,USA,840,53045.0,mason,"Mason, Washington, US",23,1,1,0
+2020-04-28,us,washington,47.35007586,-123.1863685,84053045.0,US,USA,840,53045.0,mason,"Mason, Washington, US",23,0,1,0
 2020-01-22,us,washington,47.49137892,-121.8346131,84053033.0,US,USA,840,53033.0,king,"King, Washington, US",1,1,0,0
 2020-01-23,us,washington,47.49137892,-121.8346131,84053033.0,US,USA,840,53033.0,king,"King, Washington, US",1,0,0,0
 2020-01-24,us,washington,47.49137892,-121.8346131,84053033.0,US,USA,840,53033.0,king,"King, Washington, US",1,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.49137892,-121.8346131,84053033.0,US,USA,840,53033.0,king,"King, Washington, US",5637,105,393,8
 2020-04-25,us,washington,47.49137892,-121.8346131,84053033.0,US,USA,840,53033.0,king,"King, Washington, US",5739,102,400,7
 2020-04-26,us,washington,47.49137892,-121.8346131,84053033.0,US,USA,840,53033.0,king,"King, Washington, US",5863,124,408,8
+2020-04-27,us,washington,47.49137892,-121.8346131,84053033.0,US,USA,840,53033.0,king,"King, Washington, US",5945,82,416,8
+2020-04-28,us,washington,47.49137892,-121.8346131,84053033.0,US,USA,840,53033.0,king,"King, Washington, US",6001,56,429,13
 2020-01-22,us,washington,47.57705241,-118.4194388,84053043.0,US,USA,840,53043.0,lincoln,"Lincoln, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.57705241,-118.4194388,84053043.0,US,USA,840,53043.0,lincoln,"Lincoln, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.57705241,-118.4194388,84053043.0,US,USA,840,53043.0,lincoln,"Lincoln, Washington, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.57705241,-118.4194388,84053043.0,US,USA,840,53043.0,lincoln,"Lincoln, Washington, US",2,0,0,0
 2020-04-25,us,washington,47.57705241,-118.4194388,84053043.0,US,USA,840,53043.0,lincoln,"Lincoln, Washington, US",2,0,0,0
 2020-04-26,us,washington,47.57705241,-118.4194388,84053043.0,US,USA,840,53043.0,lincoln,"Lincoln, Washington, US",2,0,0,0
+2020-04-27,us,washington,47.57705241,-118.4194388,84053043.0,US,USA,840,53043.0,lincoln,"Lincoln, Washington, US",2,0,0,0
+2020-04-28,us,washington,47.57705241,-118.4194388,84053043.0,US,USA,840,53043.0,lincoln,"Lincoln, Washington, US",2,0,0,0
 2020-01-22,us,washington,47.62113146,-117.4046494,84053063.0,US,USA,840,53063.0,spokane,"Spokane, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.62113146,-117.4046494,84053063.0,US,USA,840,53063.0,spokane,"Spokane, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.62113146,-117.4046494,84053063.0,US,USA,840,53063.0,spokane,"Spokane, Washington, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.62113146,-117.4046494,84053063.0,US,USA,840,53063.0,spokane,"Spokane, Washington, US",330,10,19,0
 2020-04-25,us,washington,47.62113146,-117.4046494,84053063.0,US,USA,840,53063.0,spokane,"Spokane, Washington, US",345,15,19,0
 2020-04-26,us,washington,47.62113146,-117.4046494,84053063.0,US,USA,840,53063.0,spokane,"Spokane, Washington, US",347,2,19,0
+2020-04-27,us,washington,47.62113146,-117.4046494,84053063.0,US,USA,840,53063.0,spokane,"Spokane, Washington, US",347,0,20,1
+2020-04-28,us,washington,47.62113146,-117.4046494,84053063.0,US,USA,840,53063.0,spokane,"Spokane, Washington, US",350,3,20,0
 2020-01-22,us,washington,47.63479026,-122.6436061,84053035.0,US,USA,840,53035.0,kitsap,"Kitsap, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.63479026,-122.6436061,84053035.0,US,USA,840,53035.0,kitsap,"Kitsap, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.63479026,-122.6436061,84053035.0,US,USA,840,53035.0,kitsap,"Kitsap, Washington, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.63479026,-122.6436061,84053035.0,US,USA,840,53035.0,kitsap,"Kitsap, Washington, US",143,-1,2,0
 2020-04-25,us,washington,47.63479026,-122.6436061,84053035.0,US,USA,840,53035.0,kitsap,"Kitsap, Washington, US",144,1,2,0
 2020-04-26,us,washington,47.63479026,-122.6436061,84053035.0,US,USA,840,53035.0,kitsap,"Kitsap, Washington, US",144,0,2,0
+2020-04-27,us,washington,47.63479026,-122.6436061,84053035.0,US,USA,840,53035.0,kitsap,"Kitsap, Washington, US",147,3,2,0
+2020-04-28,us,washington,47.63479026,-122.6436061,84053035.0,US,USA,840,53035.0,kitsap,"Kitsap, Washington, US",148,1,2,0
 2020-01-22,us,washington,47.7361335,-119.692937,84053017.0,US,USA,840,53017.0,douglas,"Douglas, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.7361335,-119.692937,84053017.0,US,USA,840,53017.0,douglas,"Douglas, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.7361335,-119.692937,84053017.0,US,USA,840,53017.0,douglas,"Douglas, Washington, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.7361335,-119.692937,84053017.0,US,USA,840,53017.0,douglas,"Douglas, Washington, US",69,6,1,0
 2020-04-25,us,washington,47.7361335,-119.692937,84053017.0,US,USA,840,53017.0,douglas,"Douglas, Washington, US",70,1,1,0
 2020-04-26,us,washington,47.7361335,-119.692937,84053017.0,US,USA,840,53017.0,douglas,"Douglas, Washington, US",72,2,1,0
+2020-04-27,us,washington,47.7361335,-119.692937,84053017.0,US,USA,840,53017.0,douglas,"Douglas, Washington, US",75,3,1,0
+2020-04-28,us,washington,47.7361335,-119.692937,84053017.0,US,USA,840,53017.0,douglas,"Douglas, Washington, US",75,0,1,0
 2020-01-22,us,washington,47.75003077,-123.56097040000002,84053031.0,US,USA,840,53031.0,jefferson,"Jefferson, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.75003077,-123.56097040000002,84053031.0,US,USA,840,53031.0,jefferson,"Jefferson, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.75003077,-123.56097040000002,84053031.0,US,USA,840,53031.0,jefferson,"Jefferson, Washington, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.75003077,-123.56097040000002,84053031.0,US,USA,840,53031.0,jefferson,"Jefferson, Washington, US",28,0,0,0
 2020-04-25,us,washington,47.75003077,-123.56097040000002,84053031.0,US,USA,840,53031.0,jefferson,"Jefferson, Washington, US",28,0,0,0
 2020-04-26,us,washington,47.75003077,-123.56097040000002,84053031.0,US,USA,840,53031.0,jefferson,"Jefferson, Washington, US",28,0,0,0
+2020-04-27,us,washington,47.75003077,-123.56097040000002,84053031.0,US,USA,840,53031.0,jefferson,"Jefferson, Washington, US",28,0,0,0
+2020-04-28,us,washington,47.75003077,-123.56097040000002,84053031.0,US,USA,840,53031.0,jefferson,"Jefferson, Washington, US",28,0,0,0
 2020-01-22,us,washington,47.87046092,-120.6173956,84053007.0,US,USA,840,53007.0,chelan,"Chelan, Washington, US",0,0,0,0
 2020-01-23,us,washington,47.87046092,-120.6173956,84053007.0,US,USA,840,53007.0,chelan,"Chelan, Washington, US",0,0,0,0
 2020-01-24,us,washington,47.87046092,-120.6173956,84053007.0,US,USA,840,53007.0,chelan,"Chelan, Washington, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,47.87046092,-120.6173956,84053007.0,US,USA,840,53007.0,chelan,"Chelan, Washington, US",89,1,5,0
 2020-04-25,us,washington,47.87046092,-120.6173956,84053007.0,US,USA,840,53007.0,chelan,"Chelan, Washington, US",90,1,5,0
 2020-04-26,us,washington,47.87046092,-120.6173956,84053007.0,US,USA,840,53007.0,chelan,"Chelan, Washington, US",91,1,5,0
+2020-04-27,us,washington,47.87046092,-120.6173956,84053007.0,US,USA,840,53007.0,chelan,"Chelan, Washington, US",93,2,5,0
+2020-04-28,us,washington,47.87046092,-120.6173956,84053007.0,US,USA,840,53007.0,chelan,"Chelan, Washington, US",96,3,5,0
 2020-01-22,us,washington,48.04615983,-121.7170703,84053061.0,US,USA,840,53061.0,snohomish,"Snohomish, Washington, US",0,0,0,0
 2020-01-23,us,washington,48.04615983,-121.7170703,84053061.0,US,USA,840,53061.0,snohomish,"Snohomish, Washington, US",0,0,0,0
 2020-01-24,us,washington,48.04615983,-121.7170703,84053061.0,US,USA,840,53061.0,snohomish,"Snohomish, Washington, US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.04615983,-121.7170703,84053061.0,US,USA,840,53061.0,snohomish,"Snohomish, Washington, US",2243,27,102,1
 2020-04-25,us,washington,48.04615983,-121.7170703,84053061.0,US,USA,840,53061.0,snohomish,"Snohomish, Washington, US",2297,54,102,0
 2020-04-26,us,washington,48.04615983,-121.7170703,84053061.0,US,USA,840,53061.0,snohomish,"Snohomish, Washington, US",2311,14,104,2
+2020-04-27,us,washington,48.04615983,-121.7170703,84053061.0,US,USA,840,53061.0,snohomish,"Snohomish, Washington, US",2332,21,106,2
+2020-04-28,us,washington,48.04615983,-121.7170703,84053061.0,US,USA,840,53061.0,snohomish,"Snohomish, Washington, US",2365,33,108,2
 2020-01-22,us,washington,48.04754642,-123.9226319,84053009.0,US,USA,840,53009.0,clallam,"Clallam, Washington, US",0,0,0,0
 2020-01-23,us,washington,48.04754642,-123.9226319,84053009.0,US,USA,840,53009.0,clallam,"Clallam, Washington, US",0,0,0,0
 2020-01-24,us,washington,48.04754642,-123.9226319,84053009.0,US,USA,840,53009.0,clallam,"Clallam, Washington, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.04754642,-123.9226319,84053009.0,US,USA,840,53009.0,clallam,"Clallam, Washington, US",14,0,0,0
 2020-04-25,us,washington,48.04754642,-123.9226319,84053009.0,US,USA,840,53009.0,clallam,"Clallam, Washington, US",15,1,0,0
 2020-04-26,us,washington,48.04754642,-123.9226319,84053009.0,US,USA,840,53009.0,clallam,"Clallam, Washington, US",15,0,0,0
+2020-04-27,us,washington,48.04754642,-123.9226319,84053009.0,US,USA,840,53009.0,clallam,"Clallam, Washington, US",15,0,0,0
+2020-04-28,us,washington,48.04754642,-123.9226319,84053009.0,US,USA,840,53009.0,clallam,"Clallam, Washington, US",17,2,0,0
 2020-01-22,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",0,0,0,0
 2020-01-23,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",0,0,0,0
 2020-01-24,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",160,0,9,0
 2020-04-25,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",161,1,9,0
 2020-04-26,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",160,-1,9,0
+2020-04-27,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",164,4,9,0
+2020-04-28,us,washington,48.14713305,-122.5216407,84053029.0,US,USA,840,53029.0,island,"Island, Washington, US",168,4,9,0
 2020-01-22,us,washington,48.40035475,-117.8542701,84053065.0,US,USA,840,53065.0,stevens,"Stevens, Washington, US",0,0,0,0
 2020-01-23,us,washington,48.40035475,-117.8542701,84053065.0,US,USA,840,53065.0,stevens,"Stevens, Washington, US",0,0,0,0
 2020-01-24,us,washington,48.40035475,-117.8542701,84053065.0,US,USA,840,53065.0,stevens,"Stevens, Washington, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.40035475,-117.8542701,84053065.0,US,USA,840,53065.0,stevens,"Stevens, Washington, US",9,0,1,0
 2020-04-25,us,washington,48.40035475,-117.8542701,84053065.0,US,USA,840,53065.0,stevens,"Stevens, Washington, US",10,1,1,0
 2020-04-26,us,washington,48.40035475,-117.8542701,84053065.0,US,USA,840,53065.0,stevens,"Stevens, Washington, US",9,-1,1,0
+2020-04-27,us,washington,48.40035475,-117.8542701,84053065.0,US,USA,840,53065.0,stevens,"Stevens, Washington, US",9,0,1,0
+2020-04-28,us,washington,48.40035475,-117.8542701,84053065.0,US,USA,840,53065.0,stevens,"Stevens, Washington, US",9,0,1,0
 2020-01-22,us,washington,48.471143100000006,-118.5154041,84053019.0,US,USA,840,53019.0,ferry,"Ferry, Washington, US",0,0,0,0
 2020-01-23,us,washington,48.471143100000006,-118.5154041,84053019.0,US,USA,840,53019.0,ferry,"Ferry, Washington, US",0,0,0,0
 2020-01-24,us,washington,48.471143100000006,-118.5154041,84053019.0,US,USA,840,53019.0,ferry,"Ferry, Washington, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.471143100000006,-118.5154041,84053019.0,US,USA,840,53019.0,ferry,"Ferry, Washington, US",1,0,0,0
 2020-04-25,us,washington,48.471143100000006,-118.5154041,84053019.0,US,USA,840,53019.0,ferry,"Ferry, Washington, US",1,0,0,0
 2020-04-26,us,washington,48.471143100000006,-118.5154041,84053019.0,US,USA,840,53019.0,ferry,"Ferry, Washington, US",1,0,0,0
+2020-04-27,us,washington,48.471143100000006,-118.5154041,84053019.0,US,USA,840,53019.0,ferry,"Ferry, Washington, US",1,0,0,0
+2020-04-28,us,washington,48.471143100000006,-118.5154041,84053019.0,US,USA,840,53019.0,ferry,"Ferry, Washington, US",1,0,0,0
 2020-01-22,us,washington,48.48171488,-121.766131,84053057.0,US,USA,840,53057.0,skagit,"Skagit, Washington, US",0,0,0,0
 2020-01-23,us,washington,48.48171488,-121.766131,84053057.0,US,USA,840,53057.0,skagit,"Skagit, Washington, US",0,0,0,0
 2020-01-24,us,washington,48.48171488,-121.766131,84053057.0,US,USA,840,53057.0,skagit,"Skagit, Washington, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.48171488,-121.766131,84053057.0,US,USA,840,53057.0,skagit,"Skagit, Washington, US",283,3,10,0
 2020-04-25,us,washington,48.48171488,-121.766131,84053057.0,US,USA,840,53057.0,skagit,"Skagit, Washington, US",287,4,10,0
 2020-04-26,us,washington,48.48171488,-121.766131,84053057.0,US,USA,840,53057.0,skagit,"Skagit, Washington, US",299,12,11,1
+2020-04-27,us,washington,48.48171488,-121.766131,84053057.0,US,USA,840,53057.0,skagit,"Skagit, Washington, US",305,6,11,0
+2020-04-28,us,washington,48.48171488,-121.766131,84053057.0,US,USA,840,53057.0,skagit,"Skagit, Washington, US",308,3,12,1
 2020-01-22,us,washington,48.53234021,-117.2741804,84053051.0,US,USA,840,53051.0,pend-oreille,"Pend Oreille, Washington, US",0,0,0,0
 2020-01-23,us,washington,48.53234021,-117.2741804,84053051.0,US,USA,840,53051.0,pend-oreille,"Pend Oreille, Washington, US",0,0,0,0
 2020-01-24,us,washington,48.53234021,-117.2741804,84053051.0,US,USA,840,53051.0,pend-oreille,"Pend Oreille, Washington, US",0,0,0,0
@@ -3647,6 +3721,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.53234021,-117.2741804,84053051.0,US,USA,840,53051.0,pend-oreille,"Pend Oreille, Washington, US",2,0,0,0
 2020-04-25,us,washington,48.53234021,-117.2741804,84053051.0,US,USA,840,53051.0,pend-oreille,"Pend Oreille, Washington, US",2,0,0,0
 2020-04-26,us,washington,48.53234021,-117.2741804,84053051.0,US,USA,840,53051.0,pend-oreille,"Pend Oreille, Washington, US",2,0,0,0
+2020-04-27,us,washington,48.53234021,-117.2741804,84053051.0,US,USA,840,53051.0,pend-oreille,"Pend Oreille, Washington, US",2,0,0,0
+2020-04-28,us,washington,48.53234021,-117.2741804,84053051.0,US,USA,840,53051.0,pend-oreille,"Pend Oreille, Washington, US",2,0,0,0
 2020-01-22,us,washington,48.54855019,-119.7387224,84053047.0,US,USA,840,53047.0,okanogan,"Okanogan, Washington, US",0,0,0,0
 2020-01-23,us,washington,48.54855019,-119.7387224,84053047.0,US,USA,840,53047.0,okanogan,"Okanogan, Washington, US",0,0,0,0
 2020-01-24,us,washington,48.54855019,-119.7387224,84053047.0,US,USA,840,53047.0,okanogan,"Okanogan, Washington, US",0,0,0,0
@@ -3743,6 +3819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.54855019,-119.7387224,84053047.0,US,USA,840,53047.0,okanogan,"Okanogan, Washington, US",16,0,0,0
 2020-04-25,us,washington,48.54855019,-119.7387224,84053047.0,US,USA,840,53047.0,okanogan,"Okanogan, Washington, US",17,1,1,1
 2020-04-26,us,washington,48.54855019,-119.7387224,84053047.0,US,USA,840,53047.0,okanogan,"Okanogan, Washington, US",19,2,1,0
+2020-04-27,us,washington,48.54855019,-119.7387224,84053047.0,US,USA,840,53047.0,okanogan,"Okanogan, Washington, US",20,1,1,0
+2020-04-28,us,washington,48.54855019,-119.7387224,84053047.0,US,USA,840,53047.0,okanogan,"Okanogan, Washington, US",21,1,1,0
 2020-01-22,us,washington,48.60182783,-122.96745,84053055.0,US,USA,840,53055.0,san-juan,"San Juan, Washington, US",0,0,0,0
 2020-01-23,us,washington,48.60182783,-122.96745,84053055.0,US,USA,840,53055.0,san-juan,"San Juan, Washington, US",0,0,0,0
 2020-01-24,us,washington,48.60182783,-122.96745,84053055.0,US,USA,840,53055.0,san-juan,"San Juan, Washington, US",0,0,0,0
@@ -3839,6 +3917,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.60182783,-122.96745,84053055.0,US,USA,840,53055.0,san-juan,"San Juan, Washington, US",14,0,0,0
 2020-04-25,us,washington,48.60182783,-122.96745,84053055.0,US,USA,840,53055.0,san-juan,"San Juan, Washington, US",14,0,0,0
 2020-04-26,us,washington,48.60182783,-122.96745,84053055.0,US,USA,840,53055.0,san-juan,"San Juan, Washington, US",14,0,0,0
+2020-04-27,us,washington,48.60182783,-122.96745,84053055.0,US,USA,840,53055.0,san-juan,"San Juan, Washington, US",14,0,0,0
+2020-04-28,us,washington,48.60182783,-122.96745,84053055.0,US,USA,840,53055.0,san-juan,"San Juan, Washington, US",14,0,0,0
 2020-01-22,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",0,0,0,0
 2020-01-23,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",0,0,0,0
 2020-01-24,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",0,0,0,0
@@ -3935,3 +4015,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",282,0,27,0
 2020-04-25,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",284,2,27,0
 2020-04-26,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",288,4,27,0
+2020-04-27,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",287,-1,28,1
+2020-04-28,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",293,6,28,0

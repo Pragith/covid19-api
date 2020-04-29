@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",66,11,13,8
 2020-04-25,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",66,0,13,0
 2020-04-26,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",66,0,13,0
+2020-04-27,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",66,0,12,-1
+2020-04-28,us,colorado,38.74745778,-106.19265729999998,84008015.0,US,USA,840,8015.0,chaffee,"Chaffee, Colorado, US",66,0,13,1

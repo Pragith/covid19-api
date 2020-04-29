@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,0.0,0.0,84080029.0,US,USA,840,80029.0,out-of-mo,"Out of MO, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,0.0,0.0,84080029.0,US,USA,840,80029.0,out-of-mo,"Out of MO, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,0.0,0.0,84080029.0,US,USA,840,80029.0,out-of-mo,"Out of MO, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,0.0,0.0,84080029.0,US,USA,840,80029.0,out-of-mo,"Out of MO, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,0.0,0.0,84080029.0,US,USA,840,80029.0,out-of-mo,"Out of MO, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,0.0,0.0,84090029.0,US,USA,840,90029.0,unassigned,"Unassigned, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,0.0,0.0,84090029.0,US,USA,840,90029.0,unassigned,"Unassigned, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,0.0,0.0,84090029.0,US,USA,840,90029.0,unassigned,"Unassigned, Missouri, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,0.0,0.0,84090029.0,US,USA,840,90029.0,unassigned,"Unassigned, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,0.0,0.0,84090029.0,US,USA,840,90029.0,unassigned,"Unassigned, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,0.0,0.0,84090029.0,US,USA,840,90029.0,unassigned,"Unassigned, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,0.0,0.0,84090029.0,US,USA,840,90029.0,unassigned,"Unassigned, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,0.0,0.0,84090029.0,US,USA,840,90029.0,unassigned,"Unassigned, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,36.2130572,-89.78742322,84029155.0,US,USA,840,29155.0,pemiscot,"Pemiscot, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.2130572,-89.78742322,84029155.0,US,USA,840,29155.0,pemiscot,"Pemiscot, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.2130572,-89.78742322,84029155.0,US,USA,840,29155.0,pemiscot,"Pemiscot, Missouri, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.2130572,-89.78742322,84029155.0,US,USA,840,29155.0,pemiscot,"Pemiscot, Missouri, US",18,0,1,0
 2020-04-25,us,missouri,36.2130572,-89.78742322,84029155.0,US,USA,840,29155.0,pemiscot,"Pemiscot, Missouri, US",18,0,1,0
 2020-04-26,us,missouri,36.2130572,-89.78742322,84029155.0,US,USA,840,29155.0,pemiscot,"Pemiscot, Missouri, US",18,0,1,0
+2020-04-27,us,missouri,36.2130572,-89.78742322,84029155.0,US,USA,840,29155.0,pemiscot,"Pemiscot, Missouri, US",19,1,1,0
+2020-04-28,us,missouri,36.2130572,-89.78742322,84029155.0,US,USA,840,29155.0,pemiscot,"Pemiscot, Missouri, US",21,2,1,0
 2020-01-22,us,missouri,36.27167174,-90.09122243,84029069.0,US,USA,840,29069.0,dunklin,"Dunklin, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.27167174,-90.09122243,84029069.0,US,USA,840,29069.0,dunklin,"Dunklin, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.27167174,-90.09122243,84029069.0,US,USA,840,29069.0,dunklin,"Dunklin, Missouri, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.27167174,-90.09122243,84029069.0,US,USA,840,29069.0,dunklin,"Dunklin, Missouri, US",19,0,2,0
 2020-04-25,us,missouri,36.27167174,-90.09122243,84029069.0,US,USA,840,29069.0,dunklin,"Dunklin, Missouri, US",19,0,2,0
 2020-04-26,us,missouri,36.27167174,-90.09122243,84029069.0,US,USA,840,29069.0,dunklin,"Dunklin, Missouri, US",20,1,2,0
+2020-04-27,us,missouri,36.27167174,-90.09122243,84029069.0,US,USA,840,29069.0,dunklin,"Dunklin, Missouri, US",20,0,2,0
+2020-04-28,us,missouri,36.27167174,-90.09122243,84029069.0,US,USA,840,29069.0,dunklin,"Dunklin, Missouri, US",20,0,2,0
 2020-01-22,us,missouri,36.59666326,-89.66070007,84029143.0,US,USA,840,29143.0,new-madrid,"New Madrid, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.59666326,-89.66070007,84029143.0,US,USA,840,29143.0,new-madrid,"New Madrid, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.59666326,-89.66070007,84029143.0,US,USA,840,29143.0,new-madrid,"New Madrid, Missouri, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.59666326,-89.66070007,84029143.0,US,USA,840,29143.0,new-madrid,"New Madrid, Missouri, US",9,0,0,0
 2020-04-25,us,missouri,36.59666326,-89.66070007,84029143.0,US,USA,840,29143.0,new-madrid,"New Madrid, Missouri, US",9,0,0,0
 2020-04-26,us,missouri,36.59666326,-89.66070007,84029143.0,US,USA,840,29143.0,new-madrid,"New Madrid, Missouri, US",9,0,0,0
+2020-04-27,us,missouri,36.59666326,-89.66070007,84029143.0,US,USA,840,29143.0,new-madrid,"New Madrid, Missouri, US",9,0,0,0
+2020-04-28,us,missouri,36.59666326,-89.66070007,84029143.0,US,USA,840,29143.0,new-madrid,"New Madrid, Missouri, US",9,0,0,0
 2020-01-22,us,missouri,36.62869595,-94.34867205,84029119.0,US,USA,840,29119.0,mcdonald,"McDonald, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.62869595,-94.34867205,84029119.0,US,USA,840,29119.0,mcdonald,"McDonald, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.62869595,-94.34867205,84029119.0,US,USA,840,29119.0,mcdonald,"McDonald, Missouri, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.62869595,-94.34867205,84029119.0,US,USA,840,29119.0,mcdonald,"McDonald, Missouri, US",4,-1,0,0
 2020-04-25,us,missouri,36.62869595,-94.34867205,84029119.0,US,USA,840,29119.0,mcdonald,"McDonald, Missouri, US",4,0,0,0
 2020-04-26,us,missouri,36.62869595,-94.34867205,84029119.0,US,USA,840,29119.0,mcdonald,"McDonald, Missouri, US",4,0,0,0
+2020-04-27,us,missouri,36.62869595,-94.34867205,84029119.0,US,USA,840,29119.0,mcdonald,"McDonald, Missouri, US",4,0,0,0
+2020-04-28,us,missouri,36.62869595,-94.34867205,84029119.0,US,USA,840,29119.0,mcdonald,"McDonald, Missouri, US",4,0,0,0
 2020-01-22,us,missouri,36.64916339,-92.44459066,84029153.0,US,USA,840,29153.0,ozark,"Ozark, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.64916339,-92.44459066,84029153.0,US,USA,840,29153.0,ozark,"Ozark, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.64916339,-92.44459066,84029153.0,US,USA,840,29153.0,ozark,"Ozark, Missouri, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.64916339,-92.44459066,84029153.0,US,USA,840,29153.0,ozark,"Ozark, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,36.64916339,-92.44459066,84029153.0,US,USA,840,29153.0,ozark,"Ozark, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,36.64916339,-92.44459066,84029153.0,US,USA,840,29153.0,ozark,"Ozark, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,36.64916339,-92.44459066,84029153.0,US,USA,840,29153.0,ozark,"Ozark, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,36.64916339,-92.44459066,84029153.0,US,USA,840,29153.0,ozark,"Ozark, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,36.65460667,-90.85990261,84029181.0,US,USA,840,29181.0,ripley,"Ripley, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.65460667,-90.85990261,84029181.0,US,USA,840,29181.0,ripley,"Ripley, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.65460667,-90.85990261,84029181.0,US,USA,840,29181.0,ripley,"Ripley, Missouri, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.65460667,-90.85990261,84029181.0,US,USA,840,29181.0,ripley,"Ripley, Missouri, US",4,0,0,0
 2020-04-25,us,missouri,36.65460667,-90.85990261,84029181.0,US,USA,840,29181.0,ripley,"Ripley, Missouri, US",5,1,0,0
 2020-04-26,us,missouri,36.65460667,-90.85990261,84029181.0,US,USA,840,29181.0,ripley,"Ripley, Missouri, US",5,0,0,0
+2020-04-27,us,missouri,36.65460667,-90.85990261,84029181.0,US,USA,840,29181.0,ripley,"Ripley, Missouri, US",5,0,0,0
+2020-04-28,us,missouri,36.65460667,-90.85990261,84029181.0,US,USA,840,29181.0,ripley,"Ripley, Missouri, US",5,0,0,0
 2020-01-22,us,missouri,36.65465345,-93.04075153,84029213.0,US,USA,840,29213.0,taney,"Taney, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.65465345,-93.04075153,84029213.0,US,USA,840,29213.0,taney,"Taney, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.65465345,-93.04075153,84029213.0,US,USA,840,29213.0,taney,"Taney, Missouri, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.65465345,-93.04075153,84029213.0,US,USA,840,29213.0,taney,"Taney, Missouri, US",10,0,1,0
 2020-04-25,us,missouri,36.65465345,-93.04075153,84029213.0,US,USA,840,29213.0,taney,"Taney, Missouri, US",10,0,1,0
 2020-04-26,us,missouri,36.65465345,-93.04075153,84029213.0,US,USA,840,29213.0,taney,"Taney, Missouri, US",10,0,1,0
+2020-04-27,us,missouri,36.65465345,-93.04075153,84029213.0,US,USA,840,29213.0,taney,"Taney, Missouri, US",10,0,1,0
+2020-04-28,us,missouri,36.65465345,-93.04075153,84029213.0,US,USA,840,29213.0,taney,"Taney, Missouri, US",11,1,1,0
 2020-01-22,us,missouri,36.68710164,-91.4033755,84029149.0,US,USA,840,29149.0,oregon,"Oregon, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.68710164,-91.4033755,84029149.0,US,USA,840,29149.0,oregon,"Oregon, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.68710164,-91.4033755,84029149.0,US,USA,840,29149.0,oregon,"Oregon, Missouri, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.68710164,-91.4033755,84029149.0,US,USA,840,29149.0,oregon,"Oregon, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,36.68710164,-91.4033755,84029149.0,US,USA,840,29149.0,oregon,"Oregon, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,36.68710164,-91.4033755,84029149.0,US,USA,840,29149.0,oregon,"Oregon, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,36.68710164,-91.4033755,84029149.0,US,USA,840,29149.0,oregon,"Oregon, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,36.68710164,-91.4033755,84029149.0,US,USA,840,29149.0,oregon,"Oregon, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,36.70978521,-93.82919888,84029009.0,US,USA,840,29009.0,barry,"Barry, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.70978521,-93.82919888,84029009.0,US,USA,840,29009.0,barry,"Barry, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.70978521,-93.82919888,84029009.0,US,USA,840,29009.0,barry,"Barry, Missouri, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.70978521,-93.82919888,84029009.0,US,USA,840,29009.0,barry,"Barry, Missouri, US",5,0,0,0
 2020-04-25,us,missouri,36.70978521,-93.82919888,84029009.0,US,USA,840,29009.0,barry,"Barry, Missouri, US",6,1,0,0
 2020-04-26,us,missouri,36.70978521,-93.82919888,84029009.0,US,USA,840,29009.0,barry,"Barry, Missouri, US",6,0,0,0
+2020-04-27,us,missouri,36.70978521,-93.82919888,84029009.0,US,USA,840,29009.0,barry,"Barry, Missouri, US",6,0,0,0
+2020-04-28,us,missouri,36.70978521,-93.82919888,84029009.0,US,USA,840,29009.0,barry,"Barry, Missouri, US",6,0,0,0
 2020-01-22,us,missouri,36.71462476,-90.40421163,84029023.0,US,USA,840,29023.0,butler,"Butler, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.71462476,-90.40421163,84029023.0,US,USA,840,29023.0,butler,"Butler, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.71462476,-90.40421163,84029023.0,US,USA,840,29023.0,butler,"Butler, Missouri, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.71462476,-90.40421163,84029023.0,US,USA,840,29023.0,butler,"Butler, Missouri, US",25,-1,0,0
 2020-04-25,us,missouri,36.71462476,-90.40421163,84029023.0,US,USA,840,29023.0,butler,"Butler, Missouri, US",25,0,0,0
 2020-04-26,us,missouri,36.71462476,-90.40421163,84029023.0,US,USA,840,29023.0,butler,"Butler, Missouri, US",26,1,0,0
+2020-04-27,us,missouri,36.71462476,-90.40421163,84029023.0,US,USA,840,29023.0,butler,"Butler, Missouri, US",26,0,0,0
+2020-04-28,us,missouri,36.71462476,-90.40421163,84029023.0,US,USA,840,29023.0,butler,"Butler, Missouri, US",26,0,0,0
 2020-01-22,us,missouri,36.75000327,-93.45256475,84029209.0,US,USA,840,29209.0,stone,"Stone, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.75000327,-93.45256475,84029209.0,US,USA,840,29209.0,stone,"Stone, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.75000327,-93.45256475,84029209.0,US,USA,840,29209.0,stone,"Stone, Missouri, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.75000327,-93.45256475,84029209.0,US,USA,840,29209.0,stone,"Stone, Missouri, US",3,0,0,0
 2020-04-25,us,missouri,36.75000327,-93.45256475,84029209.0,US,USA,840,29209.0,stone,"Stone, Missouri, US",3,0,0,0
 2020-04-26,us,missouri,36.75000327,-93.45256475,84029209.0,US,USA,840,29209.0,stone,"Stone, Missouri, US",3,0,0,0
+2020-04-27,us,missouri,36.75000327,-93.45256475,84029209.0,US,USA,840,29209.0,stone,"Stone, Missouri, US",3,0,0,0
+2020-04-28,us,missouri,36.75000327,-93.45256475,84029209.0,US,USA,840,29209.0,stone,"Stone, Missouri, US",3,0,0,0
 2020-01-22,us,missouri,36.77383887,-91.88683935,84029091.0,US,USA,840,29091.0,howell,"Howell, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.77383887,-91.88683935,84029091.0,US,USA,840,29091.0,howell,"Howell, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.77383887,-91.88683935,84029091.0,US,USA,840,29091.0,howell,"Howell, Missouri, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.77383887,-91.88683935,84029091.0,US,USA,840,29091.0,howell,"Howell, Missouri, US",5,0,0,0
 2020-04-25,us,missouri,36.77383887,-91.88683935,84029091.0,US,USA,840,29091.0,howell,"Howell, Missouri, US",5,0,0,0
 2020-04-26,us,missouri,36.77383887,-91.88683935,84029091.0,US,USA,840,29091.0,howell,"Howell, Missouri, US",5,0,0,0
+2020-04-27,us,missouri,36.77383887,-91.88683935,84029091.0,US,USA,840,29091.0,howell,"Howell, Missouri, US",5,0,0,0
+2020-04-28,us,missouri,36.77383887,-91.88683935,84029091.0,US,USA,840,29091.0,howell,"Howell, Missouri, US",5,0,0,0
 2020-01-22,us,missouri,36.82516239,-89.29505753,84029133.0,US,USA,840,29133.0,mississippi,"Mississippi, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.82516239,-89.29505753,84029133.0,US,USA,840,29133.0,mississippi,"Mississippi, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.82516239,-89.29505753,84029133.0,US,USA,840,29133.0,mississippi,"Mississippi, Missouri, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.82516239,-89.29505753,84029133.0,US,USA,840,29133.0,mississippi,"Mississippi, Missouri, US",3,0,0,0
 2020-04-25,us,missouri,36.82516239,-89.29505753,84029133.0,US,USA,840,29133.0,mississippi,"Mississippi, Missouri, US",23,20,0,0
 2020-04-26,us,missouri,36.82516239,-89.29505753,84029133.0,US,USA,840,29133.0,mississippi,"Mississippi, Missouri, US",23,0,0,0
+2020-04-27,us,missouri,36.82516239,-89.29505753,84029133.0,US,USA,840,29133.0,mississippi,"Mississippi, Missouri, US",23,0,0,0
+2020-04-28,us,missouri,36.82516239,-89.29505753,84029133.0,US,USA,840,29133.0,mississippi,"Mississippi, Missouri, US",23,0,0,0
 2020-01-22,us,missouri,36.85571651,-89.9444155,84029207.0,US,USA,840,29207.0,stoddard,"Stoddard, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.85571651,-89.9444155,84029207.0,US,USA,840,29207.0,stoddard,"Stoddard, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.85571651,-89.9444155,84029207.0,US,USA,840,29207.0,stoddard,"Stoddard, Missouri, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.85571651,-89.9444155,84029207.0,US,USA,840,29207.0,stoddard,"Stoddard, Missouri, US",19,0,0,0
 2020-04-25,us,missouri,36.85571651,-89.9444155,84029207.0,US,USA,840,29207.0,stoddard,"Stoddard, Missouri, US",19,0,0,0
 2020-04-26,us,missouri,36.85571651,-89.9444155,84029207.0,US,USA,840,29207.0,stoddard,"Stoddard, Missouri, US",19,0,0,0
+2020-04-27,us,missouri,36.85571651,-89.9444155,84029207.0,US,USA,840,29207.0,stoddard,"Stoddard, Missouri, US",19,0,0,0
+2020-04-28,us,missouri,36.85571651,-89.9444155,84029207.0,US,USA,840,29207.0,stoddard,"Stoddard, Missouri, US",19,0,0,0
 2020-01-22,us,missouri,36.90519407,-94.3394104,84029145.0,US,USA,840,29145.0,newton,"Newton, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.90519407,-94.3394104,84029145.0,US,USA,840,29145.0,newton,"Newton, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.90519407,-94.3394104,84029145.0,US,USA,840,29145.0,newton,"Newton, Missouri, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.90519407,-94.3394104,84029145.0,US,USA,840,29145.0,newton,"Newton, Missouri, US",10,0,1,0
 2020-04-25,us,missouri,36.90519407,-94.3394104,84029145.0,US,USA,840,29145.0,newton,"Newton, Missouri, US",10,0,1,0
 2020-04-26,us,missouri,36.90519407,-94.3394104,84029145.0,US,USA,840,29145.0,newton,"Newton, Missouri, US",10,0,1,0
+2020-04-27,us,missouri,36.90519407,-94.3394104,84029145.0,US,USA,840,29145.0,newton,"Newton, Missouri, US",10,0,1,0
+2020-04-28,us,missouri,36.90519407,-94.3394104,84029145.0,US,USA,840,29145.0,newton,"Newton, Missouri, US",10,0,1,0
 2020-01-22,us,missouri,36.9325593,-92.49905109,84029067.0,US,USA,840,29067.0,douglas,"Douglas, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.9325593,-92.49905109,84029067.0,US,USA,840,29067.0,douglas,"Douglas, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.9325593,-92.49905109,84029067.0,US,USA,840,29067.0,douglas,"Douglas, Missouri, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.9325593,-92.49905109,84029067.0,US,USA,840,29067.0,douglas,"Douglas, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,36.9325593,-92.49905109,84029067.0,US,USA,840,29067.0,douglas,"Douglas, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,36.9325593,-92.49905109,84029067.0,US,USA,840,29067.0,douglas,"Douglas, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,36.9325593,-92.49905109,84029067.0,US,USA,840,29067.0,douglas,"Douglas, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,36.9325593,-92.49905109,84029067.0,US,USA,840,29067.0,douglas,"Douglas, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,36.94160441,-90.96051322,84029035.0,US,USA,840,29035.0,carter,"Carter, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.94160441,-90.96051322,84029035.0,US,USA,840,29035.0,carter,"Carter, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.94160441,-90.96051322,84029035.0,US,USA,840,29035.0,carter,"Carter, Missouri, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.94160441,-90.96051322,84029035.0,US,USA,840,29035.0,carter,"Carter, Missouri, US",3,0,1,0
 2020-04-25,us,missouri,36.94160441,-90.96051322,84029035.0,US,USA,840,29035.0,carter,"Carter, Missouri, US",3,0,1,0
 2020-04-26,us,missouri,36.94160441,-90.96051322,84029035.0,US,USA,840,29035.0,carter,"Carter, Missouri, US",3,0,1,0
+2020-04-27,us,missouri,36.94160441,-90.96051322,84029035.0,US,USA,840,29035.0,carter,"Carter, Missouri, US",3,0,1,0
+2020-04-28,us,missouri,36.94160441,-90.96051322,84029035.0,US,USA,840,29035.0,carter,"Carter, Missouri, US",3,0,1,0
 2020-01-22,us,missouri,36.9711783,-93.18537118,84029043.0,US,USA,840,29043.0,christian,"Christian, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,36.9711783,-93.18537118,84029043.0,US,USA,840,29043.0,christian,"Christian, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,36.9711783,-93.18537118,84029043.0,US,USA,840,29043.0,christian,"Christian, Missouri, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,36.9711783,-93.18537118,84029043.0,US,USA,840,29043.0,christian,"Christian, Missouri, US",19,0,0,0
 2020-04-25,us,missouri,36.9711783,-93.18537118,84029043.0,US,USA,840,29043.0,christian,"Christian, Missouri, US",19,0,0,0
 2020-04-26,us,missouri,36.9711783,-93.18537118,84029043.0,US,USA,840,29043.0,christian,"Christian, Missouri, US",19,0,0,0
+2020-04-27,us,missouri,36.9711783,-93.18537118,84029043.0,US,USA,840,29043.0,christian,"Christian, Missouri, US",19,0,0,0
+2020-04-28,us,missouri,36.9711783,-93.18537118,84029043.0,US,USA,840,29043.0,christian,"Christian, Missouri, US",19,0,0,0
 2020-01-22,us,missouri,37.05588075,-89.56474493,84029201.0,US,USA,840,29201.0,scott,"Scott, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.05588075,-89.56474493,84029201.0,US,USA,840,29201.0,scott,"Scott, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.05588075,-89.56474493,84029201.0,US,USA,840,29201.0,scott,"Scott, Missouri, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.05588075,-89.56474493,84029201.0,US,USA,840,29201.0,scott,"Scott, Missouri, US",60,1,1,0
 2020-04-25,us,missouri,37.05588075,-89.56474493,84029201.0,US,USA,840,29201.0,scott,"Scott, Missouri, US",60,0,1,0
 2020-04-26,us,missouri,37.05588075,-89.56474493,84029201.0,US,USA,840,29201.0,scott,"Scott, Missouri, US",61,1,1,0
+2020-04-27,us,missouri,37.05588075,-89.56474493,84029201.0,US,USA,840,29201.0,scott,"Scott, Missouri, US",61,0,1,0
+2020-04-28,us,missouri,37.05588075,-89.56474493,84029201.0,US,USA,840,29201.0,scott,"Scott, Missouri, US",62,1,2,1
 2020-01-22,us,missouri,37.10626634,-93.83293097,84029109.0,US,USA,840,29109.0,lawrence,"Lawrence, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.10626634,-93.83293097,84029109.0,US,USA,840,29109.0,lawrence,"Lawrence, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.10626634,-93.83293097,84029109.0,US,USA,840,29109.0,lawrence,"Lawrence, Missouri, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.10626634,-93.83293097,84029109.0,US,USA,840,29109.0,lawrence,"Lawrence, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,37.10626634,-93.83293097,84029109.0,US,USA,840,29109.0,lawrence,"Lawrence, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,37.10626634,-93.83293097,84029109.0,US,USA,840,29109.0,lawrence,"Lawrence, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,37.10626634,-93.83293097,84029109.0,US,USA,840,29109.0,lawrence,"Lawrence, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,37.10626634,-93.83293097,84029109.0,US,USA,840,29109.0,lawrence,"Lawrence, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,37.11303869,-90.46001416,84029223.0,US,USA,840,29223.0,wayne,"Wayne, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.11303869,-90.46001416,84029223.0,US,USA,840,29223.0,wayne,"Wayne, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.11303869,-90.46001416,84029223.0,US,USA,840,29223.0,wayne,"Wayne, Missouri, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.11303869,-90.46001416,84029223.0,US,USA,840,29223.0,wayne,"Wayne, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,37.11303869,-90.46001416,84029223.0,US,USA,840,29223.0,wayne,"Wayne, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,37.11303869,-90.46001416,84029223.0,US,USA,840,29223.0,wayne,"Wayne, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,37.11303869,-90.46001416,84029223.0,US,USA,840,29223.0,wayne,"Wayne, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,37.11303869,-90.46001416,84029223.0,US,USA,840,29223.0,wayne,"Wayne, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,37.15772072,-91.40190382,84029203.0,US,USA,840,29203.0,shannon,"Shannon, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.15772072,-91.40190382,84029203.0,US,USA,840,29203.0,shannon,"Shannon, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.15772072,-91.40190382,84029203.0,US,USA,840,29203.0,shannon,"Shannon, Missouri, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.15772072,-91.40190382,84029203.0,US,USA,840,29203.0,shannon,"Shannon, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,37.15772072,-91.40190382,84029203.0,US,USA,840,29203.0,shannon,"Shannon, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,37.15772072,-91.40190382,84029203.0,US,USA,840,29203.0,shannon,"Shannon, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,37.15772072,-91.40190382,84029203.0,US,USA,840,29203.0,shannon,"Shannon, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,37.15772072,-91.40190382,84029203.0,US,USA,840,29203.0,shannon,"Shannon, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,37.20351921,-94.34050458,84029097.0,US,USA,840,29097.0,jasper,"Jasper,Missouri,US",0,0,0,0
 2020-01-23,us,missouri,37.20351921,-94.34050458,84029097.0,US,USA,840,29097.0,jasper,"Jasper,Missouri,US",0,0,0,0
 2020-01-24,us,missouri,37.20351921,-94.34050458,84029097.0,US,USA,840,29097.0,jasper,"Jasper,Missouri,US",0,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.20351921,-94.34050458,84029097.0,US,USA,840,29097.0,jasper,"Jasper,Missouri,US",24,-6,0,0
 2020-04-25,us,missouri,37.20351921,-94.34050458,84029097.0,US,USA,840,29097.0,jasper,"Jasper,Missouri,US",24,0,0,0
 2020-04-26,us,missouri,37.20351921,-94.34050458,84029097.0,US,USA,840,29097.0,jasper,"Jasper,Missouri,US",24,0,0,0
+2020-04-27,us,missouri,37.20351921,-94.34050458,84029097.0,US,USA,840,29097.0,jasper,"Jasper,Missouri,US",24,0,0,0
+2020-04-28,us,missouri,37.20351921,-94.34050458,84029097.0,US,USA,840,29097.0,jasper,"Jasper,Missouri,US",24,0,0,0
 2020-01-22,us,missouri,37.2575872,-93.34230916,84029077.0,US,USA,840,29077.0,greene,"Greene, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.2575872,-93.34230916,84029077.0,US,USA,840,29077.0,greene,"Greene, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.2575872,-93.34230916,84029077.0,US,USA,840,29077.0,greene,"Greene, Missouri, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.2575872,-93.34230916,84029077.0,US,USA,840,29077.0,greene,"Greene, Missouri, US",93,1,8,0
 2020-04-25,us,missouri,37.2575872,-93.34230916,84029077.0,US,USA,840,29077.0,greene,"Greene, Missouri, US",93,0,8,0
 2020-04-26,us,missouri,37.2575872,-93.34230916,84029077.0,US,USA,840,29077.0,greene,"Greene, Missouri, US",93,0,8,0
+2020-04-27,us,missouri,37.2575872,-93.34230916,84029077.0,US,USA,840,29077.0,greene,"Greene, Missouri, US",93,0,8,0
+2020-04-28,us,missouri,37.2575872,-93.34230916,84029077.0,US,USA,840,29077.0,greene,"Greene, Missouri, US",93,0,8,0
 2020-01-22,us,missouri,37.27029221,-92.46914488,84029229.0,US,USA,840,29229.0,wright,"Wright, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.27029221,-92.46914488,84029229.0,US,USA,840,29229.0,wright,"Wright, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.27029221,-92.46914488,84029229.0,US,USA,840,29229.0,wright,"Wright, Missouri, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.27029221,-92.46914488,84029229.0,US,USA,840,29229.0,wright,"Wright, Missouri, US",9,0,0,0
 2020-04-25,us,missouri,37.27029221,-92.46914488,84029229.0,US,USA,840,29229.0,wright,"Wright, Missouri, US",9,0,0,0
 2020-04-26,us,missouri,37.27029221,-92.46914488,84029229.0,US,USA,840,29229.0,wright,"Wright, Missouri, US",9,0,0,0
+2020-04-27,us,missouri,37.27029221,-92.46914488,84029229.0,US,USA,840,29229.0,wright,"Wright, Missouri, US",9,0,0,0
+2020-04-28,us,missouri,37.27029221,-92.46914488,84029229.0,US,USA,840,29229.0,wright,"Wright, Missouri, US",9,0,0,0
 2020-01-22,us,missouri,37.2813734,-92.876329,84029225.0,US,USA,840,29225.0,webster,"Webster, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.2813734,-92.876329,84029225.0,US,USA,840,29225.0,webster,"Webster, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.2813734,-92.876329,84029225.0,US,USA,840,29225.0,webster,"Webster, Missouri, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.2813734,-92.876329,84029225.0,US,USA,840,29225.0,webster,"Webster, Missouri, US",13,0,0,0
 2020-04-25,us,missouri,37.2813734,-92.876329,84029225.0,US,USA,840,29225.0,webster,"Webster, Missouri, US",13,0,0,0
 2020-04-26,us,missouri,37.2813734,-92.876329,84029225.0,US,USA,840,29225.0,webster,"Webster, Missouri, US",13,0,0,0
+2020-04-27,us,missouri,37.2813734,-92.876329,84029225.0,US,USA,840,29225.0,webster,"Webster, Missouri, US",13,0,0,0
+2020-04-28,us,missouri,37.2813734,-92.876329,84029225.0,US,USA,840,29225.0,webster,"Webster, Missouri, US",13,0,0,0
 2020-01-22,us,missouri,37.31728859,-91.96564727,84029215.0,US,USA,840,29215.0,texas,"Texas, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.31728859,-91.96564727,84029215.0,US,USA,840,29215.0,texas,"Texas, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.31728859,-91.96564727,84029215.0,US,USA,840,29215.0,texas,"Texas, Missouri, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.31728859,-91.96564727,84029215.0,US,USA,840,29215.0,texas,"Texas, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,37.31728859,-91.96564727,84029215.0,US,USA,840,29215.0,texas,"Texas, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,37.31728859,-91.96564727,84029215.0,US,USA,840,29215.0,texas,"Texas, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,37.31728859,-91.96564727,84029215.0,US,USA,840,29215.0,texas,"Texas, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,37.31728859,-91.96564727,84029215.0,US,USA,840,29215.0,texas,"Texas, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,37.32449052,-90.02725304,84029017.0,US,USA,840,29017.0,bollinger,"Bollinger, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.32449052,-90.02725304,84029017.0,US,USA,840,29017.0,bollinger,"Bollinger, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.32449052,-90.02725304,84029017.0,US,USA,840,29017.0,bollinger,"Bollinger, Missouri, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.32449052,-90.02725304,84029017.0,US,USA,840,29017.0,bollinger,"Bollinger, Missouri, US",4,1,0,0
 2020-04-25,us,missouri,37.32449052,-90.02725304,84029017.0,US,USA,840,29017.0,bollinger,"Bollinger, Missouri, US",4,0,0,0
 2020-04-26,us,missouri,37.32449052,-90.02725304,84029017.0,US,USA,840,29017.0,bollinger,"Bollinger, Missouri, US",4,0,0,0
+2020-04-27,us,missouri,37.32449052,-90.02725304,84029017.0,US,USA,840,29017.0,bollinger,"Bollinger, Missouri, US",4,0,0,0
+2020-04-28,us,missouri,37.32449052,-90.02725304,84029017.0,US,USA,840,29017.0,bollinger,"Bollinger, Missouri, US",4,0,0,0
 2020-01-22,us,missouri,37.36085952,-90.97009925,84029179.0,US,USA,840,29179.0,reynolds,"Reynolds, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.36085952,-90.97009925,84029179.0,US,USA,840,29179.0,reynolds,"Reynolds, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.36085952,-90.97009925,84029179.0,US,USA,840,29179.0,reynolds,"Reynolds, Missouri, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.36085952,-90.97009925,84029179.0,US,USA,840,29179.0,reynolds,"Reynolds, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,37.36085952,-90.97009925,84029179.0,US,USA,840,29179.0,reynolds,"Reynolds, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,37.36085952,-90.97009925,84029179.0,US,USA,840,29179.0,reynolds,"Reynolds, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,37.36085952,-90.97009925,84029179.0,US,USA,840,29179.0,reynolds,"Reynolds, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,37.36085952,-90.97009925,84029179.0,US,USA,840,29179.0,reynolds,"Reynolds, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,37.38489388,-89.6843587,84029031.0,US,USA,840,29031.0,cape-girardeau,"Cape Girardeau, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.38489388,-89.6843587,84029031.0,US,USA,840,29031.0,cape-girardeau,"Cape Girardeau, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.38489388,-89.6843587,84029031.0,US,USA,840,29031.0,cape-girardeau,"Cape Girardeau, Missouri, US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.38489388,-89.6843587,84029031.0,US,USA,840,29031.0,cape-girardeau,"Cape Girardeau, Missouri, US",43,1,1,0
 2020-04-25,us,missouri,37.38489388,-89.6843587,84029031.0,US,USA,840,29031.0,cape-girardeau,"Cape Girardeau, Missouri, US",43,0,1,0
 2020-04-26,us,missouri,37.38489388,-89.6843587,84029031.0,US,USA,840,29031.0,cape-girardeau,"Cape Girardeau, Missouri, US",47,4,1,0
+2020-04-27,us,missouri,37.38489388,-89.6843587,84029031.0,US,USA,840,29031.0,cape-girardeau,"Cape Girardeau, Missouri, US",48,1,1,0
+2020-04-28,us,missouri,37.38489388,-89.6843587,84029031.0,US,USA,840,29031.0,cape-girardeau,"Cape Girardeau, Missouri, US",48,0,1,0
 2020-01-22,us,missouri,37.431814,-93.8503345,84029057.0,US,USA,840,29057.0,dade,"Dade, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.431814,-93.8503345,84029057.0,US,USA,840,29057.0,dade,"Dade, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.431814,-93.8503345,84029057.0,US,USA,840,29057.0,dade,"Dade, Missouri, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.431814,-93.8503345,84029057.0,US,USA,840,29057.0,dade,"Dade, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,37.431814,-93.8503345,84029057.0,US,USA,840,29057.0,dade,"Dade, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,37.431814,-93.8503345,84029057.0,US,USA,840,29057.0,dade,"Dade, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,37.431814,-93.8503345,84029057.0,US,USA,840,29057.0,dade,"Dade, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,37.431814,-93.8503345,84029057.0,US,USA,840,29057.0,dade,"Dade, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,37.47865134,-90.3467143,84029123.0,US,USA,840,29123.0,madison,"Madison, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.47865134,-90.3467143,84029123.0,US,USA,840,29123.0,madison,"Madison, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.47865134,-90.3467143,84029123.0,US,USA,840,29123.0,madison,"Madison, Missouri, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.47865134,-90.3467143,84029123.0,US,USA,840,29123.0,madison,"Madison, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,37.47865134,-90.3467143,84029123.0,US,USA,840,29123.0,madison,"Madison, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,37.47865134,-90.3467143,84029123.0,US,USA,840,29123.0,madison,"Madison, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,37.47865134,-90.3467143,84029123.0,US,USA,840,29123.0,madison,"Madison, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,37.47865134,-90.3467143,84029123.0,US,USA,840,29123.0,madison,"Madison, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,37.50207671,-94.34757022,84029011.0,US,USA,840,29011.0,barton,"Barton, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.50207671,-94.34757022,84029011.0,US,USA,840,29011.0,barton,"Barton, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.50207671,-94.34757022,84029011.0,US,USA,840,29011.0,barton,"Barton, Missouri, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.50207671,-94.34757022,84029011.0,US,USA,840,29011.0,barton,"Barton, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,37.50207671,-94.34757022,84029011.0,US,USA,840,29011.0,barton,"Barton, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,37.50207671,-94.34757022,84029011.0,US,USA,840,29011.0,barton,"Barton, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,37.50207671,-94.34757022,84029011.0,US,USA,840,29011.0,barton,"Barton, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,37.50207671,-94.34757022,84029011.0,US,USA,840,29011.0,barton,"Barton, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,37.55487945,-90.7735296,84029093.0,US,USA,840,29093.0,iron,"Iron, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.55487945,-90.7735296,84029093.0,US,USA,840,29093.0,iron,"Iron, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.55487945,-90.7735296,84029093.0,US,USA,840,29093.0,iron,"Iron, Missouri, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.55487945,-90.7735296,84029093.0,US,USA,840,29093.0,iron,"Iron, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,37.55487945,-90.7735296,84029093.0,US,USA,840,29093.0,iron,"Iron, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,37.55487945,-90.7735296,84029093.0,US,USA,840,29093.0,iron,"Iron, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,37.55487945,-90.7735296,84029093.0,US,USA,840,29093.0,iron,"Iron, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,37.55487945,-90.7735296,84029093.0,US,USA,840,29093.0,iron,"Iron, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,37.60663134,-91.50790473,84029065.0,US,USA,840,29065.0,dent,"Dent, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.60663134,-91.50790473,84029065.0,US,USA,840,29065.0,dent,"Dent, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.60663134,-91.50790473,84029065.0,US,USA,840,29065.0,dent,"Dent, Missouri, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.60663134,-91.50790473,84029065.0,US,USA,840,29065.0,dent,"Dent, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,37.60663134,-91.50790473,84029065.0,US,USA,840,29065.0,dent,"Dent, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,37.60663134,-91.50790473,84029065.0,US,USA,840,29065.0,dent,"Dent, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,37.60663134,-91.50790473,84029065.0,US,USA,840,29065.0,dent,"Dent, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,37.60663134,-91.50790473,84029065.0,US,USA,840,29065.0,dent,"Dent, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,37.6162296,-93.39828174,84029167.0,US,USA,840,29167.0,polk,"Polk, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.6162296,-93.39828174,84029167.0,US,USA,840,29167.0,polk,"Polk, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.6162296,-93.39828174,84029167.0,US,USA,840,29167.0,polk,"Polk, Missouri, US",0,0,0,0
@@ -3647,6 +3721,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.6162296,-93.39828174,84029167.0,US,USA,840,29167.0,polk,"Polk, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,37.6162296,-93.39828174,84029167.0,US,USA,840,29167.0,polk,"Polk, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,37.6162296,-93.39828174,84029167.0,US,USA,840,29167.0,polk,"Polk, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,37.6162296,-93.39828174,84029167.0,US,USA,840,29167.0,polk,"Polk, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,37.6162296,-93.39828174,84029167.0,US,USA,840,29167.0,polk,"Polk, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,37.65896829,-92.5888493,84029105.0,US,USA,840,29105.0,laclede,"Laclede, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.65896829,-92.5888493,84029105.0,US,USA,840,29105.0,laclede,"Laclede, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.65896829,-92.5888493,84029105.0,US,USA,840,29105.0,laclede,"Laclede, Missouri, US",0,0,0,0
@@ -3743,6 +3819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.65896829,-92.5888493,84029105.0,US,USA,840,29105.0,laclede,"Laclede, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,37.65896829,-92.5888493,84029105.0,US,USA,840,29105.0,laclede,"Laclede, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,37.65896829,-92.5888493,84029105.0,US,USA,840,29105.0,laclede,"Laclede, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,37.65896829,-92.5888493,84029105.0,US,USA,840,29105.0,laclede,"Laclede, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,37.65896829,-92.5888493,84029105.0,US,USA,840,29105.0,laclede,"Laclede, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,37.6811355,-93.02127031,84029059.0,US,USA,840,29059.0,dallas,"Dallas, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.6811355,-93.02127031,84029059.0,US,USA,840,29059.0,dallas,"Dallas, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.6811355,-93.02127031,84029059.0,US,USA,840,29059.0,dallas,"Dallas, Missouri, US",0,0,0,0
@@ -3839,6 +3917,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.6811355,-93.02127031,84029059.0,US,USA,840,29059.0,dallas,"Dallas, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,37.6811355,-93.02127031,84029059.0,US,USA,840,29059.0,dallas,"Dallas, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,37.6811355,-93.02127031,84029059.0,US,USA,840,29059.0,dallas,"Dallas, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,37.6811355,-93.02127031,84029059.0,US,USA,840,29059.0,dallas,"Dallas, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,37.6811355,-93.02127031,84029059.0,US,USA,840,29059.0,dallas,"Dallas, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,37.70660776,-89.82741088,84029157.0,US,USA,840,29157.0,perry,"Perry, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.70660776,-89.82741088,84029157.0,US,USA,840,29157.0,perry,"Perry, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.70660776,-89.82741088,84029157.0,US,USA,840,29157.0,perry,"Perry, Missouri, US",0,0,0,0
@@ -3935,6 +4015,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.70660776,-89.82741088,84029157.0,US,USA,840,29157.0,perry,"Perry, Missouri, US",39,1,0,0
 2020-04-25,us,missouri,37.70660776,-89.82741088,84029157.0,US,USA,840,29157.0,perry,"Perry, Missouri, US",39,0,0,0
 2020-04-26,us,missouri,37.70660776,-89.82741088,84029157.0,US,USA,840,29157.0,perry,"Perry, Missouri, US",41,2,0,0
+2020-04-27,us,missouri,37.70660776,-89.82741088,84029157.0,US,USA,840,29157.0,perry,"Perry, Missouri, US",41,0,0,0
+2020-04-28,us,missouri,37.70660776,-89.82741088,84029157.0,US,USA,840,29157.0,perry,"Perry, Missouri, US",41,0,0,0
 2020-01-22,us,missouri,37.72391475,-93.85445441,84029039.0,US,USA,840,29039.0,cedar,"Cedar, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.72391475,-93.85445441,84029039.0,US,USA,840,29039.0,cedar,"Cedar, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.72391475,-93.85445441,84029039.0,US,USA,840,29039.0,cedar,"Cedar, Missouri, US",0,0,0,0
@@ -4031,6 +4113,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.72391475,-93.85445441,84029039.0,US,USA,840,29039.0,cedar,"Cedar, Missouri, US",5,0,0,0
 2020-04-25,us,missouri,37.72391475,-93.85445441,84029039.0,US,USA,840,29039.0,cedar,"Cedar, Missouri, US",5,0,0,0
 2020-04-26,us,missouri,37.72391475,-93.85445441,84029039.0,US,USA,840,29039.0,cedar,"Cedar, Missouri, US",5,0,0,0
+2020-04-27,us,missouri,37.72391475,-93.85445441,84029039.0,US,USA,840,29039.0,cedar,"Cedar, Missouri, US",5,0,0,0
+2020-04-28,us,missouri,37.72391475,-93.85445441,84029039.0,US,USA,840,29039.0,cedar,"Cedar, Missouri, US",5,0,0,0
 2020-01-22,us,missouri,37.81214171,-90.47598685,84029187.0,US,USA,840,29187.0,st-francois,"St. Francois, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.81214171,-90.47598685,84029187.0,US,USA,840,29187.0,st-francois,"St. Francois, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.81214171,-90.47598685,84029187.0,US,USA,840,29187.0,st-francois,"St. Francois, Missouri, US",0,0,0,0
@@ -4127,6 +4211,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.81214171,-90.47598685,84029187.0,US,USA,840,29187.0,st-francois,"St. Francois, Missouri, US",26,0,1,0
 2020-04-25,us,missouri,37.81214171,-90.47598685,84029187.0,US,USA,840,29187.0,st-francois,"St. Francois, Missouri, US",26,0,1,0
 2020-04-26,us,missouri,37.81214171,-90.47598685,84029187.0,US,USA,840,29187.0,st-francois,"St. Francois, Missouri, US",28,2,1,0
+2020-04-27,us,missouri,37.81214171,-90.47598685,84029187.0,US,USA,840,29187.0,st-francois,"St. Francois, Missouri, US",28,0,1,0
+2020-04-28,us,missouri,37.81214171,-90.47598685,84029187.0,US,USA,840,29187.0,st-francois,"St. Francois, Missouri, US",28,0,1,0
 2020-01-22,us,missouri,37.82462075,-92.20783203,84029169.0,US,USA,840,29169.0,pulaski,"Pulaski, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.82462075,-92.20783203,84029169.0,US,USA,840,29169.0,pulaski,"Pulaski, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.82462075,-92.20783203,84029169.0,US,USA,840,29169.0,pulaski,"Pulaski, Missouri, US",0,0,0,0
@@ -4223,6 +4309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.82462075,-92.20783203,84029169.0,US,USA,840,29169.0,pulaski,"Pulaski, Missouri, US",33,3,1,0
 2020-04-25,us,missouri,37.82462075,-92.20783203,84029169.0,US,USA,840,29169.0,pulaski,"Pulaski, Missouri, US",33,0,1,0
 2020-04-26,us,missouri,37.82462075,-92.20783203,84029169.0,US,USA,840,29169.0,pulaski,"Pulaski, Missouri, US",33,0,1,0
+2020-04-27,us,missouri,37.82462075,-92.20783203,84029169.0,US,USA,840,29169.0,pulaski,"Pulaski, Missouri, US",33,0,1,0
+2020-04-28,us,missouri,37.82462075,-92.20783203,84029169.0,US,USA,840,29169.0,pulaski,"Pulaski, Missouri, US",33,0,1,0
 2020-01-22,us,missouri,37.8457799,-94.34127305,84029217.0,US,USA,840,29217.0,vernon,"Vernon, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.8457799,-94.34127305,84029217.0,US,USA,840,29217.0,vernon,"Vernon, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.8457799,-94.34127305,84029217.0,US,USA,840,29217.0,vernon,"Vernon, Missouri, US",0,0,0,0
@@ -4319,6 +4407,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.8457799,-94.34127305,84029217.0,US,USA,840,29217.0,vernon,"Vernon, Missouri, US",4,0,0,0
 2020-04-25,us,missouri,37.8457799,-94.34127305,84029217.0,US,USA,840,29217.0,vernon,"Vernon, Missouri, US",4,0,0,0
 2020-04-26,us,missouri,37.8457799,-94.34127305,84029217.0,US,USA,840,29217.0,vernon,"Vernon, Missouri, US",4,0,0,0
+2020-04-27,us,missouri,37.8457799,-94.34127305,84029217.0,US,USA,840,29217.0,vernon,"Vernon, Missouri, US",4,0,0,0
+2020-04-28,us,missouri,37.8457799,-94.34127305,84029217.0,US,USA,840,29217.0,vernon,"Vernon, Missouri, US",4,0,0,0
 2020-01-22,us,missouri,37.87736118,-91.79351727,84029161.0,US,USA,840,29161.0,phelps,"Phelps, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.87736118,-91.79351727,84029161.0,US,USA,840,29161.0,phelps,"Phelps, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.87736118,-91.79351727,84029161.0,US,USA,840,29161.0,phelps,"Phelps, Missouri, US",0,0,0,0
@@ -4415,6 +4505,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.87736118,-91.79351727,84029161.0,US,USA,840,29161.0,phelps,"Phelps, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,37.87736118,-91.79351727,84029161.0,US,USA,840,29161.0,phelps,"Phelps, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,37.87736118,-91.79351727,84029161.0,US,USA,840,29161.0,phelps,"Phelps, Missouri, US",2,1,0,0
+2020-04-27,us,missouri,37.87736118,-91.79351727,84029161.0,US,USA,840,29161.0,phelps,"Phelps, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,37.87736118,-91.79351727,84029161.0,US,USA,840,29161.0,phelps,"Phelps, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,37.89090059,-90.1949941,84029186.0,US,USA,840,29186.0,ste-genevieve,"Ste. Genevieve, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.89090059,-90.1949941,84029186.0,US,USA,840,29186.0,ste-genevieve,"Ste. Genevieve, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.89090059,-90.1949941,84029186.0,US,USA,840,29186.0,ste-genevieve,"Ste. Genevieve, Missouri, US",0,0,0,0
@@ -4511,6 +4603,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.89090059,-90.1949941,84029186.0,US,USA,840,29186.0,ste-genevieve,"Ste. Genevieve, Missouri, US",7,0,1,0
 2020-04-25,us,missouri,37.89090059,-90.1949941,84029186.0,US,USA,840,29186.0,ste-genevieve,"Ste. Genevieve, Missouri, US",7,0,1,0
 2020-04-26,us,missouri,37.89090059,-90.1949941,84029186.0,US,USA,840,29186.0,ste-genevieve,"Ste. Genevieve, Missouri, US",7,0,1,0
+2020-04-27,us,missouri,37.89090059,-90.1949941,84029186.0,US,USA,840,29186.0,ste-genevieve,"Ste. Genevieve, Missouri, US",7,0,1,0
+2020-04-28,us,missouri,37.89090059,-90.1949941,84029186.0,US,USA,840,29186.0,ste-genevieve,"Ste. Genevieve, Missouri, US",7,0,1,0
 2020-01-22,us,missouri,37.94163617,-93.3203037,84029085.0,US,USA,840,29085.0,hickory,"Hickory, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.94163617,-93.3203037,84029085.0,US,USA,840,29085.0,hickory,"Hickory, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.94163617,-93.3203037,84029085.0,US,USA,840,29085.0,hickory,"Hickory, Missouri, US",0,0,0,0
@@ -4607,6 +4701,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.94163617,-93.3203037,84029085.0,US,USA,840,29085.0,hickory,"Hickory, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,37.94163617,-93.3203037,84029085.0,US,USA,840,29085.0,hickory,"Hickory, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,37.94163617,-93.3203037,84029085.0,US,USA,840,29085.0,hickory,"Hickory, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,37.94163617,-93.3203037,84029085.0,US,USA,840,29085.0,hickory,"Hickory, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,37.94163617,-93.3203037,84029085.0,US,USA,840,29085.0,hickory,"Hickory, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,37.96130078,-90.87948158,84029221.0,US,USA,840,29221.0,washington,"Washington, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.96130078,-90.87948158,84029221.0,US,USA,840,29221.0,washington,"Washington, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.96130078,-90.87948158,84029221.0,US,USA,840,29221.0,washington,"Washington, Missouri, US",0,0,0,0
@@ -4703,6 +4799,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.96130078,-90.87948158,84029221.0,US,USA,840,29221.0,washington,"Washington, Missouri, US",8,1,0,0
 2020-04-25,us,missouri,37.96130078,-90.87948158,84029221.0,US,USA,840,29221.0,washington,"Washington, Missouri, US",8,0,0,0
 2020-04-26,us,missouri,37.96130078,-90.87948158,84029221.0,US,USA,840,29221.0,washington,"Washington, Missouri, US",8,0,1,1
+2020-04-27,us,missouri,37.96130078,-90.87948158,84029221.0,US,USA,840,29221.0,washington,"Washington, Missouri, US",8,0,1,0
+2020-04-28,us,missouri,37.96130078,-90.87948158,84029221.0,US,USA,840,29221.0,washington,"Washington, Missouri, US",8,0,1,0
 2020-01-22,us,missouri,37.97663738,-91.30528104,84029055.0,US,USA,840,29055.0,crawford,"Crawford, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,37.97663738,-91.30528104,84029055.0,US,USA,840,29055.0,crawford,"Crawford, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,37.97663738,-91.30528104,84029055.0,US,USA,840,29055.0,crawford,"Crawford, Missouri, US",0,0,0,0
@@ -4799,6 +4897,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,37.97663738,-91.30528104,84029055.0,US,USA,840,29055.0,crawford,"Crawford, Missouri, US",7,1,0,0
 2020-04-25,us,missouri,37.97663738,-91.30528104,84029055.0,US,USA,840,29055.0,crawford,"Crawford, Missouri, US",7,0,0,0
 2020-04-26,us,missouri,37.97663738,-91.30528104,84029055.0,US,USA,840,29055.0,crawford,"Crawford, Missouri, US",7,0,0,0
+2020-04-27,us,missouri,37.97663738,-91.30528104,84029055.0,US,USA,840,29055.0,crawford,"Crawford, Missouri, US",7,0,0,0
+2020-04-28,us,missouri,37.97663738,-91.30528104,84029055.0,US,USA,840,29055.0,crawford,"Crawford, Missouri, US",7,0,0,0
 2020-01-22,us,missouri,38.02199522,-92.76083747,84029029.0,US,USA,840,29029.0,camden,"Camden, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.02199522,-92.76083747,84029029.0,US,USA,840,29029.0,camden,"Camden, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.02199522,-92.76083747,84029029.0,US,USA,840,29029.0,camden,"Camden, Missouri, US",0,0,0,0
@@ -4895,6 +4995,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.02199522,-92.76083747,84029029.0,US,USA,840,29029.0,camden,"Camden, Missouri, US",35,0,1,0
 2020-04-25,us,missouri,38.02199522,-92.76083747,84029029.0,US,USA,840,29029.0,camden,"Camden, Missouri, US",35,0,1,0
 2020-04-26,us,missouri,38.02199522,-92.76083747,84029029.0,US,USA,840,29029.0,camden,"Camden, Missouri, US",35,0,1,0
+2020-04-27,us,missouri,38.02199522,-92.76083747,84029029.0,US,USA,840,29029.0,camden,"Camden, Missouri, US",35,0,1,0
+2020-04-28,us,missouri,38.02199522,-92.76083747,84029029.0,US,USA,840,29029.0,camden,"Camden, Missouri, US",35,0,1,0
 2020-01-22,us,missouri,38.03699437,-93.77631447,84029185.0,US,USA,840,29185.0,st-clair,"St. Clair, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.03699437,-93.77631447,84029185.0,US,USA,840,29185.0,st-clair,"St. Clair, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.03699437,-93.77631447,84029185.0,US,USA,840,29185.0,st-clair,"St. Clair, Missouri, US",0,0,0,0
@@ -4991,6 +5093,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.03699437,-93.77631447,84029185.0,US,USA,840,29185.0,st-clair,"St. Clair, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,38.03699437,-93.77631447,84029185.0,US,USA,840,29185.0,st-clair,"St. Clair, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,38.03699437,-93.77631447,84029185.0,US,USA,840,29185.0,st-clair,"St. Clair, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,38.03699437,-93.77631447,84029185.0,US,USA,840,29185.0,st-clair,"St. Clair, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,38.03699437,-93.77631447,84029185.0,US,USA,840,29185.0,st-clair,"St. Clair, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,38.16193985,-91.92249662,84029125.0,US,USA,840,29125.0,maries,"Maries, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.16193985,-91.92249662,84029125.0,US,USA,840,29125.0,maries,"Maries, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.16193985,-91.92249662,84029125.0,US,USA,840,29125.0,maries,"Maries, Missouri, US",0,0,0,0
@@ -5087,6 +5191,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.16193985,-91.92249662,84029125.0,US,USA,840,29125.0,maries,"Maries, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,38.16193985,-91.92249662,84029125.0,US,USA,840,29125.0,maries,"Maries, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,38.16193985,-91.92249662,84029125.0,US,USA,840,29125.0,maries,"Maries, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,38.16193985,-91.92249662,84029125.0,US,USA,840,29125.0,maries,"Maries, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,38.16193985,-91.92249662,84029125.0,US,USA,840,29125.0,maries,"Maries, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,38.21450288,-92.42610898,84029131.0,US,USA,840,29131.0,miller,"Miller, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.21450288,-92.42610898,84029131.0,US,USA,840,29131.0,miller,"Miller, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.21450288,-92.42610898,84029131.0,US,USA,840,29131.0,miller,"Miller, Missouri, US",0,0,0,0
@@ -5183,6 +5289,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.21450288,-92.42610898,84029131.0,US,USA,840,29131.0,miller,"Miller, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,38.21450288,-92.42610898,84029131.0,US,USA,840,29131.0,miller,"Miller, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,38.21450288,-92.42610898,84029131.0,US,USA,840,29131.0,miller,"Miller, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,38.21450288,-92.42610898,84029131.0,US,USA,840,29131.0,miller,"Miller, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,38.21450288,-92.42610898,84029131.0,US,USA,840,29131.0,miller,"Miller, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,38.25271289,-94.34113157,84029013.0,US,USA,840,29013.0,bates,"Bates, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.25271289,-94.34113157,84029013.0,US,USA,840,29013.0,bates,"Bates, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.25271289,-94.34113157,84029013.0,US,USA,840,29013.0,bates,"Bates, Missouri, US",0,0,0,0
@@ -5279,6 +5387,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.25271289,-94.34113157,84029013.0,US,USA,840,29013.0,bates,"Bates, Missouri, US",6,0,1,0
 2020-04-25,us,missouri,38.25271289,-94.34113157,84029013.0,US,USA,840,29013.0,bates,"Bates, Missouri, US",6,0,1,0
 2020-04-26,us,missouri,38.25271289,-94.34113157,84029013.0,US,USA,840,29013.0,bates,"Bates, Missouri, US",6,0,1,0
+2020-04-27,us,missouri,38.25271289,-94.34113157,84029013.0,US,USA,840,29013.0,bates,"Bates, Missouri, US",6,0,1,0
+2020-04-28,us,missouri,38.25271289,-94.34113157,84029013.0,US,USA,840,29013.0,bates,"Bates, Missouri, US",6,0,1,0
 2020-01-22,us,missouri,38.25926778,-90.53870896,84029099.0,US,USA,840,29099.0,jefferson,"Jefferson, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.25926778,-90.53870896,84029099.0,US,USA,840,29099.0,jefferson,"Jefferson, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.25926778,-90.53870896,84029099.0,US,USA,840,29099.0,jefferson,"Jefferson, Missouri, US",0,0,0,0
@@ -5375,6 +5485,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.25926778,-90.53870896,84029099.0,US,USA,840,29099.0,jefferson,"Jefferson, Missouri, US",251,7,3,0
 2020-04-25,us,missouri,38.25926778,-90.53870896,84029099.0,US,USA,840,29099.0,jefferson,"Jefferson, Missouri, US",253,2,3,0
 2020-04-26,us,missouri,38.25926778,-90.53870896,84029099.0,US,USA,840,29099.0,jefferson,"Jefferson, Missouri, US",258,5,3,0
+2020-04-27,us,missouri,38.25926778,-90.53870896,84029099.0,US,USA,840,29099.0,jefferson,"Jefferson, Missouri, US",266,8,3,0
+2020-04-28,us,missouri,38.25926778,-90.53870896,84029099.0,US,USA,840,29099.0,jefferson,"Jefferson, Missouri, US",267,1,4,1
 2020-01-22,us,missouri,38.29503305,-93.28756116,84029015.0,US,USA,840,29015.0,benton,"Benton, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.29503305,-93.28756116,84029015.0,US,USA,840,29015.0,benton,"Benton, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.29503305,-93.28756116,84029015.0,US,USA,840,29015.0,benton,"Benton, Missouri, US",0,0,0,0
@@ -5471,6 +5583,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.29503305,-93.28756116,84029015.0,US,USA,840,29015.0,benton,"Benton, Missouri, US",4,0,0,0
 2020-04-25,us,missouri,38.29503305,-93.28756116,84029015.0,US,USA,840,29015.0,benton,"Benton, Missouri, US",4,0,0,0
 2020-04-26,us,missouri,38.29503305,-93.28756116,84029015.0,US,USA,840,29015.0,benton,"Benton, Missouri, US",4,0,0,0
+2020-04-27,us,missouri,38.29503305,-93.28756116,84029015.0,US,USA,840,29015.0,benton,"Benton, Missouri, US",4,0,0,0
+2020-04-28,us,missouri,38.29503305,-93.28756116,84029015.0,US,USA,840,29015.0,benton,"Benton, Missouri, US",4,0,0,0
 2020-01-22,us,missouri,38.38482826,-93.79293734,84029083.0,US,USA,840,29083.0,henry,"Henry, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.38482826,-93.79293734,84029083.0,US,USA,840,29083.0,henry,"Henry, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.38482826,-93.79293734,84029083.0,US,USA,840,29083.0,henry,"Henry, Missouri, US",0,0,0,0
@@ -5567,6 +5681,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.38482826,-93.79293734,84029083.0,US,USA,840,29083.0,henry,"Henry, Missouri, US",6,0,1,0
 2020-04-25,us,missouri,38.38482826,-93.79293734,84029083.0,US,USA,840,29083.0,henry,"Henry, Missouri, US",6,0,1,0
 2020-04-26,us,missouri,38.38482826,-93.79293734,84029083.0,US,USA,840,29083.0,henry,"Henry, Missouri, US",8,2,1,0
+2020-04-27,us,missouri,38.38482826,-93.79293734,84029083.0,US,USA,840,29083.0,henry,"Henry, Missouri, US",8,0,1,0
+2020-04-28,us,missouri,38.38482826,-93.79293734,84029083.0,US,USA,840,29083.0,henry,"Henry, Missouri, US",8,0,1,0
 2020-01-22,us,missouri,38.41127108,-91.07522826,84029071.0,US,USA,840,29071.0,franklin,"Franklin, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.41127108,-91.07522826,84029071.0,US,USA,840,29071.0,franklin,"Franklin, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.41127108,-91.07522826,84029071.0,US,USA,840,29071.0,franklin,"Franklin, Missouri, US",0,0,0,0
@@ -5663,6 +5779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.41127108,-91.07522826,84029071.0,US,USA,840,29071.0,franklin,"Franklin, Missouri, US",106,1,10,0
 2020-04-25,us,missouri,38.41127108,-91.07522826,84029071.0,US,USA,840,29071.0,franklin,"Franklin, Missouri, US",106,0,8,-2
 2020-04-26,us,missouri,38.41127108,-91.07522826,84029071.0,US,USA,840,29071.0,franklin,"Franklin, Missouri, US",106,0,8,0
+2020-04-27,us,missouri,38.41127108,-91.07522826,84029071.0,US,USA,840,29071.0,franklin,"Franklin, Missouri, US",106,0,8,0
+2020-04-28,us,missouri,38.41127108,-91.07522826,84029071.0,US,USA,840,29071.0,franklin,"Franklin, Missouri, US",110,4,8,0
 2020-01-22,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",0,0,0,0
@@ -5759,6 +5877,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",3,0,0,0
 2020-04-25,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",3,0,0,0
 2020-04-26,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",3,0,0,0
+2020-04-27,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",3,0,0,0
+2020-04-28,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",3,0,0,0
 2020-01-22,us,missouri,38.43947277,-91.50847147,84029073.0,US,USA,840,29073.0,gasconade,"Gasconade, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.43947277,-91.50847147,84029073.0,US,USA,840,29073.0,gasconade,"Gasconade, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.43947277,-91.50847147,84029073.0,US,USA,840,29073.0,gasconade,"Gasconade, Missouri, US",0,0,0,0
@@ -5855,6 +5975,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.43947277,-91.50847147,84029073.0,US,USA,840,29073.0,gasconade,"Gasconade, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,38.43947277,-91.50847147,84029073.0,US,USA,840,29073.0,gasconade,"Gasconade, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,38.43947277,-91.50847147,84029073.0,US,USA,840,29073.0,gasconade,"Gasconade, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,38.43947277,-91.50847147,84029073.0,US,USA,840,29073.0,gasconade,"Gasconade, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,38.43947277,-91.50847147,84029073.0,US,USA,840,29073.0,gasconade,"Gasconade, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,38.46036182,-91.8613635,84029151.0,US,USA,840,29151.0,osage,"Osage, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.46036182,-91.8613635,84029151.0,US,USA,840,29151.0,osage,"Osage, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.46036182,-91.8613635,84029151.0,US,USA,840,29151.0,osage,"Osage, Missouri, US",0,0,0,0
@@ -5951,6 +6073,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.46036182,-91.8613635,84029151.0,US,USA,840,29151.0,osage,"Osage, Missouri, US",5,0,0,0
 2020-04-25,us,missouri,38.46036182,-91.8613635,84029151.0,US,USA,840,29151.0,osage,"Osage, Missouri, US",5,0,0,0
 2020-04-26,us,missouri,38.46036182,-91.8613635,84029151.0,US,USA,840,29151.0,osage,"Osage, Missouri, US",5,0,0,0
+2020-04-27,us,missouri,38.46036182,-91.8613635,84029151.0,US,USA,840,29151.0,osage,"Osage, Missouri, US",5,0,0,0
+2020-04-28,us,missouri,38.46036182,-91.8613635,84029151.0,US,USA,840,29151.0,osage,"Osage, Missouri, US",5,0,0,0
 2020-01-22,us,missouri,38.50455671,-92.27860244,84029051.0,US,USA,840,29051.0,cole,"Cole, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.50455671,-92.27860244,84029051.0,US,USA,840,29051.0,cole,"Cole, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.50455671,-92.27860244,84029051.0,US,USA,840,29051.0,cole,"Cole, Missouri, US",0,0,0,0
@@ -6047,6 +6171,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.50455671,-92.27860244,84029051.0,US,USA,840,29051.0,cole,"Cole, Missouri, US",49,2,1,0
 2020-04-25,us,missouri,38.50455671,-92.27860244,84029051.0,US,USA,840,29051.0,cole,"Cole, Missouri, US",50,1,1,0
 2020-04-26,us,missouri,38.50455671,-92.27860244,84029051.0,US,USA,840,29051.0,cole,"Cole, Missouri, US",50,0,1,0
+2020-04-27,us,missouri,38.50455671,-92.27860244,84029051.0,US,USA,840,29051.0,cole,"Cole, Missouri, US",50,0,1,0
+2020-04-28,us,missouri,38.50455671,-92.27860244,84029051.0,US,USA,840,29051.0,cole,"Cole, Missouri, US",50,0,1,0
 2020-01-22,us,missouri,38.63555736,-90.24349225,84029510.0,US,USA,840,29510.0,st-louis-city,"St. Louis City, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.63555736,-90.24349225,84029510.0,US,USA,840,29510.0,st-louis-city,"St. Louis City, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.63555736,-90.24349225,84029510.0,US,USA,840,29510.0,st-louis-city,"St. Louis City, Missouri, US",0,0,0,0
@@ -6143,6 +6269,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.63555736,-90.24349225,84029510.0,US,USA,840,29510.0,st-louis-city,"St. Louis City, Missouri, US",1000,34,48,3
 2020-04-25,us,missouri,38.63555736,-90.24349225,84029510.0,US,USA,840,29510.0,st-louis-city,"St. Louis City, Missouri, US",1019,19,50,2
 2020-04-26,us,missouri,38.63555736,-90.24349225,84029510.0,US,USA,840,29510.0,st-louis-city,"St. Louis City, Missouri, US",1037,18,50,0
+2020-04-27,us,missouri,38.63555736,-90.24349225,84029510.0,US,USA,840,29510.0,st-louis-city,"St. Louis City, Missouri, US",1067,30,57,7
+2020-04-28,us,missouri,38.63555736,-90.24349225,84029510.0,US,USA,840,29510.0,st-louis-city,"St. Louis City, Missouri, US",1104,37,59,2
 2020-01-22,us,missouri,38.63571781,-92.57976951,84029135.0,US,USA,840,29135.0,moniteau,"Moniteau, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.63571781,-92.57976951,84029135.0,US,USA,840,29135.0,moniteau,"Moniteau, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.63571781,-92.57976951,84029135.0,US,USA,840,29135.0,moniteau,"Moniteau, Missouri, US",0,0,0,0
@@ -6239,6 +6367,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.63571781,-92.57976951,84029135.0,US,USA,840,29135.0,moniteau,"Moniteau, Missouri, US",59,0,0,0
 2020-04-25,us,missouri,38.63571781,-92.57976951,84029135.0,US,USA,840,29135.0,moniteau,"Moniteau, Missouri, US",59,0,0,0
 2020-04-26,us,missouri,38.63571781,-92.57976951,84029135.0,US,USA,840,29135.0,moniteau,"Moniteau, Missouri, US",59,0,0,0
+2020-04-27,us,missouri,38.63571781,-92.57976951,84029135.0,US,USA,840,29135.0,moniteau,"Moniteau, Missouri, US",52,-7,0,0
+2020-04-28,us,missouri,38.63571781,-92.57976951,84029135.0,US,USA,840,29135.0,moniteau,"Moniteau, Missouri, US",52,0,0,0
 2020-01-22,us,missouri,38.63770039999999,-90.4458375,84029189.0,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.63770039999999,-90.4458375,84029189.0,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.63770039999999,-90.4458375,84029189.0,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",0,0,0,0
@@ -6335,6 +6465,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.63770039999999,-90.4458375,84029189.0,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",2653,135,121,16
 2020-04-25,us,missouri,38.63770039999999,-90.4458375,84029189.0,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",2720,67,127,6
 2020-04-26,us,missouri,38.63770039999999,-90.4458375,84029189.0,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",2817,97,127,0
+2020-04-27,us,missouri,38.63770039999999,-90.4458375,84029189.0,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",2898,81,137,10
+2020-04-28,us,missouri,38.63770039999999,-90.4458375,84029189.0,US,USA,840,29189.0,st-louis,"St. Louis, Missouri, US",2965,67,159,22
 2020-01-22,us,missouri,38.64789422,-94.353399,84029037.0,US,USA,840,29037.0,cass,"Cass, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.64789422,-94.353399,84029037.0,US,USA,840,29037.0,cass,"Cass, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.64789422,-94.353399,84029037.0,US,USA,840,29037.0,cass,"Cass, Missouri, US",0,0,0,0
@@ -6431,6 +6563,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.64789422,-94.353399,84029037.0,US,USA,840,29037.0,cass,"Cass, Missouri, US",55,0,6,0
 2020-04-25,us,missouri,38.64789422,-94.353399,84029037.0,US,USA,840,29037.0,cass,"Cass, Missouri, US",58,3,6,0
 2020-04-26,us,missouri,38.64789422,-94.353399,84029037.0,US,USA,840,29037.0,cass,"Cass, Missouri, US",58,0,6,0
+2020-04-27,us,missouri,38.64789422,-94.353399,84029037.0,US,USA,840,29037.0,cass,"Cass, Missouri, US",58,0,6,0
+2020-04-28,us,missouri,38.64789422,-94.353399,84029037.0,US,USA,840,29037.0,cass,"Cass, Missouri, US",61,3,6,0
 2020-01-22,us,missouri,38.72798918,-93.28471706,84029159.0,US,USA,840,29159.0,pettis,"Pettis, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.72798918,-93.28471706,84029159.0,US,USA,840,29159.0,pettis,"Pettis, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.72798918,-93.28471706,84029159.0,US,USA,840,29159.0,pettis,"Pettis, Missouri, US",0,0,0,0
@@ -6527,6 +6661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.72798918,-93.28471706,84029159.0,US,USA,840,29159.0,pettis,"Pettis, Missouri, US",25,9,0,0
 2020-04-25,us,missouri,38.72798918,-93.28471706,84029159.0,US,USA,840,29159.0,pettis,"Pettis, Missouri, US",25,0,0,0
 2020-04-26,us,missouri,38.72798918,-93.28471706,84029159.0,US,USA,840,29159.0,pettis,"Pettis, Missouri, US",27,2,0,0
+2020-04-27,us,missouri,38.72798918,-93.28471706,84029159.0,US,USA,840,29159.0,pettis,"Pettis, Missouri, US",27,0,0,0
+2020-04-28,us,missouri,38.72798918,-93.28471706,84029159.0,US,USA,840,29159.0,pettis,"Pettis, Missouri, US",31,4,0,0
 2020-01-22,us,missouri,38.74719601,-93.80691168,84029101.0,US,USA,840,29101.0,johnson,"Johnson, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.74719601,-93.80691168,84029101.0,US,USA,840,29101.0,johnson,"Johnson, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.74719601,-93.80691168,84029101.0,US,USA,840,29101.0,johnson,"Johnson, Missouri, US",0,0,0,0
@@ -6623,6 +6759,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.74719601,-93.80691168,84029101.0,US,USA,840,29101.0,johnson,"Johnson, Missouri, US",53,1,0,0
 2020-04-25,us,missouri,38.74719601,-93.80691168,84029101.0,US,USA,840,29101.0,johnson,"Johnson, Missouri, US",53,0,0,0
 2020-04-26,us,missouri,38.74719601,-93.80691168,84029101.0,US,USA,840,29101.0,johnson,"Johnson, Missouri, US",53,0,0,0
+2020-04-27,us,missouri,38.74719601,-93.80691168,84029101.0,US,USA,840,29101.0,johnson,"Johnson, Missouri, US",54,1,0,0
+2020-04-28,us,missouri,38.74719601,-93.80691168,84029101.0,US,USA,840,29101.0,johnson,"Johnson, Missouri, US",54,0,0,0
 2020-01-22,us,missouri,38.76529479,-91.16124662,84029219.0,US,USA,840,29219.0,warren,"Warren, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.76529479,-91.16124662,84029219.0,US,USA,840,29219.0,warren,"Warren, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.76529479,-91.16124662,84029219.0,US,USA,840,29219.0,warren,"Warren, Missouri, US",0,0,0,0
@@ -6719,6 +6857,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.76529479,-91.16124662,84029219.0,US,USA,840,29219.0,warren,"Warren, Missouri, US",22,0,0,0
 2020-04-25,us,missouri,38.76529479,-91.16124662,84029219.0,US,USA,840,29219.0,warren,"Warren, Missouri, US",22,0,0,0
 2020-04-26,us,missouri,38.76529479,-91.16124662,84029219.0,US,USA,840,29219.0,warren,"Warren, Missouri, US",22,0,0,0
+2020-04-27,us,missouri,38.76529479,-91.16124662,84029219.0,US,USA,840,29219.0,warren,"Warren, Missouri, US",22,0,0,0
+2020-04-28,us,missouri,38.76529479,-91.16124662,84029219.0,US,USA,840,29219.0,warren,"Warren, Missouri, US",22,0,0,0
 2020-01-22,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",0,0,0,0
@@ -6815,6 +6955,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",516,29,26,0
 2020-04-25,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",524,8,29,3
 2020-04-26,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",526,2,29,0
+2020-04-27,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",572,46,32,3
+2020-04-28,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",572,0,32,0
 2020-01-22,us,missouri,38.83674754,-91.92186505,84029027.0,US,USA,840,29027.0,callaway,"Callaway, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.83674754,-91.92186505,84029027.0,US,USA,840,29027.0,callaway,"Callaway, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.83674754,-91.92186505,84029027.0,US,USA,840,29027.0,callaway,"Callaway, Missouri, US",0,0,0,0
@@ -6911,6 +7053,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.83674754,-91.92186505,84029027.0,US,USA,840,29027.0,callaway,"Callaway, Missouri, US",21,0,1,0
 2020-04-25,us,missouri,38.83674754,-91.92186505,84029027.0,US,USA,840,29027.0,callaway,"Callaway, Missouri, US",21,0,1,0
 2020-04-26,us,missouri,38.83674754,-91.92186505,84029027.0,US,USA,840,29027.0,callaway,"Callaway, Missouri, US",21,0,1,0
+2020-04-27,us,missouri,38.83674754,-91.92186505,84029027.0,US,USA,840,29027.0,callaway,"Callaway, Missouri, US",20,-1,1,0
+2020-04-28,us,missouri,38.83674754,-91.92186505,84029027.0,US,USA,840,29027.0,callaway,"Callaway, Missouri, US",22,2,1,0
 2020-01-22,us,missouri,38.844478,-92.80896081,84029053.0,US,USA,840,29053.0,cooper,"Cooper, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.844478,-92.80896081,84029053.0,US,USA,840,29053.0,cooper,"Cooper, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.844478,-92.80896081,84029053.0,US,USA,840,29053.0,cooper,"Cooper, Missouri, US",0,0,0,0
@@ -7007,6 +7151,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.844478,-92.80896081,84029053.0,US,USA,840,29053.0,cooper,"Cooper, Missouri, US",7,2,0,0
 2020-04-25,us,missouri,38.844478,-92.80896081,84029053.0,US,USA,840,29053.0,cooper,"Cooper, Missouri, US",7,0,0,0
 2020-04-26,us,missouri,38.844478,-92.80896081,84029053.0,US,USA,840,29053.0,cooper,"Cooper, Missouri, US",7,0,0,0
+2020-04-27,us,missouri,38.844478,-92.80896081,84029053.0,US,USA,840,29053.0,cooper,"Cooper, Missouri, US",7,0,0,0
+2020-04-28,us,missouri,38.844478,-92.80896081,84029053.0,US,USA,840,29053.0,cooper,"Cooper, Missouri, US",7,0,0,0
 2020-01-22,us,missouri,38.94022054,-91.47000721,84029139.0,US,USA,840,29139.0,montgomery,"Montgomery, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.94022054,-91.47000721,84029139.0,US,USA,840,29139.0,montgomery,"Montgomery, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.94022054,-91.47000721,84029139.0,US,USA,840,29139.0,montgomery,"Montgomery, Missouri, US",0,0,0,0
@@ -7103,6 +7249,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.94022054,-91.47000721,84029139.0,US,USA,840,29139.0,montgomery,"Montgomery, Missouri, US",7,0,0,0
 2020-04-25,us,missouri,38.94022054,-91.47000721,84029139.0,US,USA,840,29139.0,montgomery,"Montgomery, Missouri, US",7,0,0,0
 2020-04-26,us,missouri,38.94022054,-91.47000721,84029139.0,US,USA,840,29139.0,montgomery,"Montgomery, Missouri, US",7,0,0,0
+2020-04-27,us,missouri,38.94022054,-91.47000721,84029139.0,US,USA,840,29139.0,montgomery,"Montgomery, Missouri, US",7,0,0,0
+2020-04-28,us,missouri,38.94022054,-91.47000721,84029139.0,US,USA,840,29139.0,montgomery,"Montgomery, Missouri, US",7,0,0,0
 2020-01-22,us,missouri,38.99186229,-92.30723575,84029019.0,US,USA,840,29019.0,boone,"Boone, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,38.99186229,-92.30723575,84029019.0,US,USA,840,29019.0,boone,"Boone, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,38.99186229,-92.30723575,84029019.0,US,USA,840,29019.0,boone,"Boone, Missouri, US",0,0,0,0
@@ -7199,6 +7347,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,38.99186229,-92.30723575,84029019.0,US,USA,840,29019.0,boone,"Boone, Missouri, US",99,1,1,0
 2020-04-25,us,missouri,38.99186229,-92.30723575,84029019.0,US,USA,840,29019.0,boone,"Boone, Missouri, US",98,-1,1,0
 2020-04-26,us,missouri,38.99186229,-92.30723575,84029019.0,US,USA,840,29019.0,boone,"Boone, Missouri, US",98,0,1,0
+2020-04-27,us,missouri,38.99186229,-92.30723575,84029019.0,US,USA,840,29019.0,boone,"Boone, Missouri, US",98,0,1,0
+2020-04-28,us,missouri,38.99186229,-92.30723575,84029019.0,US,USA,840,29019.0,boone,"Boone, Missouri, US",99,1,1,0
 2020-01-22,us,missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,jackson,"Jackson, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,jackson,"Jackson, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,jackson,"Jackson, Missouri, US",0,0,0,0
@@ -7295,6 +7445,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,jackson,"Jackson, Missouri, US",300,13,12,0
 2020-04-25,us,missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,jackson,"Jackson, Missouri, US",303,3,12,0
 2020-04-26,us,missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,jackson,"Jackson, Missouri, US",307,4,12,0
+2020-04-27,us,missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,jackson,"Jackson, Missouri, US",309,2,12,0
+2020-04-28,us,missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,jackson,"Jackson, Missouri, US",309,0,12,0
 2020-01-22,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",0,0,0,0
@@ -7391,6 +7543,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",60,2,1,0
 2020-04-25,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",67,7,1,0
 2020-04-26,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",68,1,1,0
+2020-04-27,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",68,0,41,40
+2020-04-28,us,missouri,39.05345619,-90.95588181,84029113.0,US,USA,840,29113.0,lincoln,"Lincoln, Missouri, US",70,2,1,-40
 2020-01-22,us,missouri,39.06986886,-93.78076396,84029107.0,US,USA,840,29107.0,lafayette,"Lafayette, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.06986886,-93.78076396,84029107.0,US,USA,840,29107.0,lafayette,"Lafayette, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.06986886,-93.78076396,84029107.0,US,USA,840,29107.0,lafayette,"Lafayette, Missouri, US",0,0,0,0
@@ -7487,6 +7641,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.06986886,-93.78076396,84029107.0,US,USA,840,29107.0,lafayette,"Lafayette, Missouri, US",33,0,1,0
 2020-04-25,us,missouri,39.06986886,-93.78076396,84029107.0,US,USA,840,29107.0,lafayette,"Lafayette, Missouri, US",33,0,1,0
 2020-04-26,us,missouri,39.06986886,-93.78076396,84029107.0,US,USA,840,29107.0,lafayette,"Lafayette, Missouri, US",35,2,1,0
+2020-04-27,us,missouri,39.06986886,-93.78076396,84029107.0,US,USA,840,29107.0,lafayette,"Lafayette, Missouri, US",35,0,1,0
+2020-04-28,us,missouri,39.06986886,-93.78076396,84029107.0,US,USA,840,29107.0,lafayette,"Lafayette, Missouri, US",35,0,1,0
 2020-01-22,us,missouri,39.0997,-94.5786,84070003.0,US,USA,840,,kansas-city,"Kansas City,Missouri,US",0,0,0,0
 2020-01-23,us,missouri,39.0997,-94.5786,84070003.0,US,USA,840,,kansas-city,"Kansas City,Missouri,US",0,0,0,0
 2020-01-24,us,missouri,39.0997,-94.5786,84070003.0,US,USA,840,,kansas-city,"Kansas City,Missouri,US",0,0,0,0
@@ -7583,6 +7739,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.0997,-94.5786,84070003.0,US,USA,840,,kansas-city,"Kansas City,Missouri,US",475,14,15,1
 2020-04-25,us,missouri,39.0997,-94.5786,84070003.0,US,USA,840,,kansas-city,"Kansas City,Missouri,US",486,11,15,0
 2020-04-26,us,missouri,39.0997,-94.5786,84070003.0,US,USA,840,,kansas-city,"Kansas City,Missouri,US",493,7,15,0
+2020-04-27,us,missouri,39.0997,-94.5786,84070003.0,US,USA,840,,kansas-city,"Kansas City,Missouri,US",500,7,15,0
+2020-04-28,us,missouri,39.0997,-94.5786,84070003.0,US,USA,840,,kansas-city,"Kansas City,Missouri,US",511,11,16,1
 2020-01-22,us,missouri,39.13734288,-93.20259964,84029195.0,US,USA,840,29195.0,saline,"Saline, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.13734288,-93.20259964,84029195.0,US,USA,840,29195.0,saline,"Saline, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.13734288,-93.20259964,84029195.0,US,USA,840,29195.0,saline,"Saline, Missouri, US",0,0,0,0
@@ -7679,6 +7837,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.13734288,-93.20259964,84029195.0,US,USA,840,29195.0,saline,"Saline, Missouri, US",142,19,0,0
 2020-04-25,us,missouri,39.13734288,-93.20259964,84029195.0,US,USA,840,29195.0,saline,"Saline, Missouri, US",143,1,0,0
 2020-04-26,us,missouri,39.13734288,-93.20259964,84029195.0,US,USA,840,29195.0,saline,"Saline, Missouri, US",162,19,0,0
+2020-04-27,us,missouri,39.13734288,-93.20259964,84029195.0,US,USA,840,29195.0,saline,"Saline, Missouri, US",168,6,0,0
+2020-04-28,us,missouri,39.13734288,-93.20259964,84029195.0,US,USA,840,29195.0,saline,"Saline, Missouri, US",170,2,0,0
 2020-01-22,us,missouri,39.1435761,-92.69756691,84029089.0,US,USA,840,29089.0,howard,"Howard, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.1435761,-92.69756691,84029089.0,US,USA,840,29089.0,howard,"Howard, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.1435761,-92.69756691,84029089.0,US,USA,840,29089.0,howard,"Howard, Missouri, US",0,0,0,0
@@ -7775,6 +7935,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.1435761,-92.69756691,84029089.0,US,USA,840,29089.0,howard,"Howard, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,39.1435761,-92.69756691,84029089.0,US,USA,840,29089.0,howard,"Howard, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,39.1435761,-92.69756691,84029089.0,US,USA,840,29089.0,howard,"Howard, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,39.1435761,-92.69756691,84029089.0,US,USA,840,29089.0,howard,"Howard, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,39.1435761,-92.69756691,84029089.0,US,USA,840,29089.0,howard,"Howard, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,39.215877,-91.84242683,84029007.0,US,USA,840,29007.0,audrain,"Audrain, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.215877,-91.84242683,84029007.0,US,USA,840,29007.0,audrain,"Audrain, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.215877,-91.84242683,84029007.0,US,USA,840,29007.0,audrain,"Audrain, Missouri, US",0,0,0,0
@@ -7871,6 +8033,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.215877,-91.84242683,84029007.0,US,USA,840,29007.0,audrain,"Audrain, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,39.215877,-91.84242683,84029007.0,US,USA,840,29007.0,audrain,"Audrain, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,39.215877,-91.84242683,84029007.0,US,USA,840,29007.0,audrain,"Audrain, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,39.215877,-91.84242683,84029007.0,US,USA,840,29007.0,audrain,"Audrain, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,39.215877,-91.84242683,84029007.0,US,USA,840,29007.0,audrain,"Audrain, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,39.31132056,-94.41850862,84029047.0,US,USA,840,29047.0,clay,"Clay, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.31132056,-94.41850862,84029047.0,US,USA,840,29047.0,clay,"Clay, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.31132056,-94.41850862,84029047.0,US,USA,840,29047.0,clay,"Clay, Missouri, US",0,0,0,0
@@ -7967,6 +8131,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.31132056,-94.41850862,84029047.0,US,USA,840,29047.0,clay,"Clay, Missouri, US",63,1,1,0
 2020-04-25,us,missouri,39.31132056,-94.41850862,84029047.0,US,USA,840,29047.0,clay,"Clay, Missouri, US",65,2,1,0
 2020-04-26,us,missouri,39.31132056,-94.41850862,84029047.0,US,USA,840,29047.0,clay,"Clay, Missouri, US",67,2,2,1
+2020-04-27,us,missouri,39.31132056,-94.41850862,84029047.0,US,USA,840,29047.0,clay,"Clay, Missouri, US",68,1,2,0
+2020-04-28,us,missouri,39.31132056,-94.41850862,84029047.0,US,USA,840,29047.0,clay,"Clay, Missouri, US",69,1,2,0
 2020-01-22,us,missouri,39.34310674,-91.16980779,84029163.0,US,USA,840,29163.0,pike,"Pike, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.34310674,-91.16980779,84029163.0,US,USA,840,29163.0,pike,"Pike, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.34310674,-91.16980779,84029163.0,US,USA,840,29163.0,pike,"Pike, Missouri, US",0,0,0,0
@@ -8063,6 +8229,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.34310674,-91.16980779,84029163.0,US,USA,840,29163.0,pike,"Pike, Missouri, US",6,0,0,0
 2020-04-25,us,missouri,39.34310674,-91.16980779,84029163.0,US,USA,840,29163.0,pike,"Pike, Missouri, US",7,1,0,0
 2020-04-26,us,missouri,39.34310674,-91.16980779,84029163.0,US,USA,840,29163.0,pike,"Pike, Missouri, US",8,1,0,0
+2020-04-27,us,missouri,39.34310674,-91.16980779,84029163.0,US,USA,840,29163.0,pike,"Pike, Missouri, US",9,1,0,0
+2020-04-28,us,missouri,39.34310674,-91.16980779,84029163.0,US,USA,840,29163.0,pike,"Pike, Missouri, US",9,0,0,0
 2020-01-22,us,missouri,39.3537468,-93.98905745,84029177.0,US,USA,840,29177.0,ray,"Ray, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.3537468,-93.98905745,84029177.0,US,USA,840,29177.0,ray,"Ray, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.3537468,-93.98905745,84029177.0,US,USA,840,29177.0,ray,"Ray, Missouri, US",0,0,0,0
@@ -8159,6 +8327,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.3537468,-93.98905745,84029177.0,US,USA,840,29177.0,ray,"Ray, Missouri, US",10,0,0,0
 2020-04-25,us,missouri,39.3537468,-93.98905745,84029177.0,US,USA,840,29177.0,ray,"Ray, Missouri, US",10,0,0,0
 2020-04-26,us,missouri,39.3537468,-93.98905745,84029177.0,US,USA,840,29177.0,ray,"Ray, Missouri, US",11,1,0,0
+2020-04-27,us,missouri,39.3537468,-93.98905745,84029177.0,US,USA,840,29177.0,ray,"Ray, Missouri, US",11,0,0,0
+2020-04-28,us,missouri,39.3537468,-93.98905745,84029177.0,US,USA,840,29177.0,ray,"Ray, Missouri, US",12,1,0,0
 2020-01-22,us,missouri,39.38154439,-94.77068479,84029165.0,US,USA,840,29165.0,platte,"Platte, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.38154439,-94.77068479,84029165.0,US,USA,840,29165.0,platte,"Platte, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.38154439,-94.77068479,84029165.0,US,USA,840,29165.0,platte,"Platte, Missouri, US",0,0,0,0
@@ -8255,6 +8425,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.38154439,-94.77068479,84029165.0,US,USA,840,29165.0,platte,"Platte, Missouri, US",30,2,0,0
 2020-04-25,us,missouri,39.38154439,-94.77068479,84029165.0,US,USA,840,29165.0,platte,"Platte, Missouri, US",31,1,0,0
 2020-04-26,us,missouri,39.38154439,-94.77068479,84029165.0,US,USA,840,29165.0,platte,"Platte, Missouri, US",31,0,0,0
+2020-04-27,us,missouri,39.38154439,-94.77068479,84029165.0,US,USA,840,29165.0,platte,"Platte, Missouri, US",31,0,0,0
+2020-04-28,us,missouri,39.38154439,-94.77068479,84029165.0,US,USA,840,29165.0,platte,"Platte, Missouri, US",31,0,0,0
 2020-01-22,us,missouri,39.42762566,-93.50626255,84029033.0,US,USA,840,29033.0,carroll,"Carroll, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.42762566,-93.50626255,84029033.0,US,USA,840,29033.0,carroll,"Carroll, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.42762566,-93.50626255,84029033.0,US,USA,840,29033.0,carroll,"Carroll, Missouri, US",0,0,0,0
@@ -8351,6 +8523,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.42762566,-93.50626255,84029033.0,US,USA,840,29033.0,carroll,"Carroll, Missouri, US",3,2,0,0
 2020-04-25,us,missouri,39.42762566,-93.50626255,84029033.0,US,USA,840,29033.0,carroll,"Carroll, Missouri, US",3,0,0,0
 2020-04-26,us,missouri,39.42762566,-93.50626255,84029033.0,US,USA,840,29033.0,carroll,"Carroll, Missouri, US",3,0,0,0
+2020-04-27,us,missouri,39.42762566,-93.50626255,84029033.0,US,USA,840,29033.0,carroll,"Carroll, Missouri, US",3,0,0,0
+2020-04-28,us,missouri,39.42762566,-93.50626255,84029033.0,US,USA,840,29033.0,carroll,"Carroll, Missouri, US",3,0,0,0
 2020-01-22,us,missouri,39.44007257,-92.4971374,84029175.0,US,USA,840,29175.0,randolph,"Randolph, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.44007257,-92.4971374,84029175.0,US,USA,840,29175.0,randolph,"Randolph, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.44007257,-92.4971374,84029175.0,US,USA,840,29175.0,randolph,"Randolph, Missouri, US",0,0,0,0
@@ -8447,6 +8621,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.44007257,-92.4971374,84029175.0,US,USA,840,29175.0,randolph,"Randolph, Missouri, US",8,0,0,0
 2020-04-25,us,missouri,39.44007257,-92.4971374,84029175.0,US,USA,840,29175.0,randolph,"Randolph, Missouri, US",8,0,0,0
 2020-04-26,us,missouri,39.44007257,-92.4971374,84029175.0,US,USA,840,29175.0,randolph,"Randolph, Missouri, US",8,0,0,0
+2020-04-27,us,missouri,39.44007257,-92.4971374,84029175.0,US,USA,840,29175.0,randolph,"Randolph, Missouri, US",8,0,0,0
+2020-04-28,us,missouri,39.44007257,-92.4971374,84029175.0,US,USA,840,29175.0,randolph,"Randolph, Missouri, US",8,0,0,0
 2020-01-22,us,missouri,39.49593978,-92.00043978,84029137.0,US,USA,840,29137.0,monroe,"Monroe, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.49593978,-92.00043978,84029137.0,US,USA,840,29137.0,monroe,"Monroe, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.49593978,-92.00043978,84029137.0,US,USA,840,29137.0,monroe,"Monroe, Missouri, US",0,0,0,0
@@ -8543,6 +8719,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.49593978,-92.00043978,84029137.0,US,USA,840,29137.0,monroe,"Monroe, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,39.49593978,-92.00043978,84029137.0,US,USA,840,29137.0,monroe,"Monroe, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,39.49593978,-92.00043978,84029137.0,US,USA,840,29137.0,monroe,"Monroe, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,39.49593978,-92.00043978,84029137.0,US,USA,840,29137.0,monroe,"Monroe, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,39.49593978,-92.00043978,84029137.0,US,USA,840,29137.0,monroe,"Monroe, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,39.51499357,-92.9629191,84029041.0,US,USA,840,29041.0,chariton,"Chariton, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.51499357,-92.9629191,84029041.0,US,USA,840,29041.0,chariton,"Chariton, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.51499357,-92.9629191,84029041.0,US,USA,840,29041.0,chariton,"Chariton, Missouri, US",0,0,0,0
@@ -8639,6 +8817,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.51499357,-92.9629191,84029041.0,US,USA,840,29041.0,chariton,"Chariton, Missouri, US",5,1,0,0
 2020-04-25,us,missouri,39.51499357,-92.9629191,84029041.0,US,USA,840,29041.0,chariton,"Chariton, Missouri, US",5,0,0,0
 2020-04-26,us,missouri,39.51499357,-92.9629191,84029041.0,US,USA,840,29041.0,chariton,"Chariton, Missouri, US",5,0,0,0
+2020-04-27,us,missouri,39.51499357,-92.9629191,84029041.0,US,USA,840,29041.0,chariton,"Chariton, Missouri, US",5,0,0,0
+2020-04-28,us,missouri,39.51499357,-92.9629191,84029041.0,US,USA,840,29041.0,chariton,"Chariton, Missouri, US",5,0,0,0
 2020-01-22,us,missouri,39.52817427,-91.51838643,84029173.0,US,USA,840,29173.0,ralls,"Ralls, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.52817427,-91.51838643,84029173.0,US,USA,840,29173.0,ralls,"Ralls, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.52817427,-91.51838643,84029173.0,US,USA,840,29173.0,ralls,"Ralls, Missouri, US",0,0,0,0
@@ -8735,6 +8915,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.52817427,-91.51838643,84029173.0,US,USA,840,29173.0,ralls,"Ralls, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,39.52817427,-91.51838643,84029173.0,US,USA,840,29173.0,ralls,"Ralls, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,39.52817427,-91.51838643,84029173.0,US,USA,840,29173.0,ralls,"Ralls, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,39.52817427,-91.51838643,84029173.0,US,USA,840,29173.0,ralls,"Ralls, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,39.52817427,-91.51838643,84029173.0,US,USA,840,29173.0,ralls,"Ralls, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,39.6013098,-94.40465394,84029049.0,US,USA,840,29049.0,clinton,"Clinton, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.6013098,-94.40465394,84029049.0,US,USA,840,29049.0,clinton,"Clinton, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.6013098,-94.40465394,84029049.0,US,USA,840,29049.0,clinton,"Clinton, Missouri, US",0,0,0,0
@@ -8831,6 +9013,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.6013098,-94.40465394,84029049.0,US,USA,840,29049.0,clinton,"Clinton, Missouri, US",11,0,0,0
 2020-04-25,us,missouri,39.6013098,-94.40465394,84029049.0,US,USA,840,29049.0,clinton,"Clinton, Missouri, US",11,0,0,0
 2020-04-26,us,missouri,39.6013098,-94.40465394,84029049.0,US,USA,840,29049.0,clinton,"Clinton, Missouri, US",11,0,0,0
+2020-04-27,us,missouri,39.6013098,-94.40465394,84029049.0,US,USA,840,29049.0,clinton,"Clinton, Missouri, US",11,0,0,0
+2020-04-28,us,missouri,39.6013098,-94.40465394,84029049.0,US,USA,840,29049.0,clinton,"Clinton, Missouri, US",11,0,0,0
 2020-01-22,us,missouri,39.65620858,-93.98308093,84029025.0,US,USA,840,29025.0,caldwell,"Caldwell, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.65620858,-93.98308093,84029025.0,US,USA,840,29025.0,caldwell,"Caldwell, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.65620858,-93.98308093,84029025.0,US,USA,840,29025.0,caldwell,"Caldwell, Missouri, US",0,0,0,0
@@ -8927,6 +9111,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.65620858,-93.98308093,84029025.0,US,USA,840,29025.0,caldwell,"Caldwell, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,39.65620858,-93.98308093,84029025.0,US,USA,840,29025.0,caldwell,"Caldwell, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,39.65620858,-93.98308093,84029025.0,US,USA,840,29025.0,caldwell,"Caldwell, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,39.65620858,-93.98308093,84029025.0,US,USA,840,29025.0,caldwell,"Caldwell, Missouri, US",3,1,0,0
+2020-04-28,us,missouri,39.65620858,-93.98308093,84029025.0,US,USA,840,29025.0,caldwell,"Caldwell, Missouri, US",3,0,0,0
 2020-01-22,us,missouri,39.65816401,-94.80138942,84029021.0,US,USA,840,29021.0,buchanan,"Buchanan, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.65816401,-94.80138942,84029021.0,US,USA,840,29021.0,buchanan,"Buchanan, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.65816401,-94.80138942,84029021.0,US,USA,840,29021.0,buchanan,"Buchanan, Missouri, US",0,0,0,0
@@ -9023,6 +9209,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.65816401,-94.80138942,84029021.0,US,USA,840,29021.0,buchanan,"Buchanan, Missouri, US",48,5,1,0
 2020-04-25,us,missouri,39.65816401,-94.80138942,84029021.0,US,USA,840,29021.0,buchanan,"Buchanan, Missouri, US",48,0,1,0
 2020-04-26,us,missouri,39.65816401,-94.80138942,84029021.0,US,USA,840,29021.0,buchanan,"Buchanan, Missouri, US",57,9,1,0
+2020-04-27,us,missouri,39.65816401,-94.80138942,84029021.0,US,USA,840,29021.0,buchanan,"Buchanan, Missouri, US",63,6,1,0
+2020-04-28,us,missouri,39.65816401,-94.80138942,84029021.0,US,USA,840,29021.0,buchanan,"Buchanan, Missouri, US",68,5,1,0
 2020-01-22,us,missouri,39.78110272,-93.54645978,84029117.0,US,USA,840,29117.0,livingston,"Livingston, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.78110272,-93.54645978,84029117.0,US,USA,840,29117.0,livingston,"Livingston, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.78110272,-93.54645978,84029117.0,US,USA,840,29117.0,livingston,"Livingston, Missouri, US",0,0,0,0
@@ -9119,6 +9307,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.78110272,-93.54645978,84029117.0,US,USA,840,29117.0,livingston,"Livingston, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,39.78110272,-93.54645978,84029117.0,US,USA,840,29117.0,livingston,"Livingston, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,39.78110272,-93.54645978,84029117.0,US,USA,840,29117.0,livingston,"Livingston, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,39.78110272,-93.54645978,84029117.0,US,USA,840,29117.0,livingston,"Livingston, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,39.78110272,-93.54645978,84029117.0,US,USA,840,29117.0,livingston,"Livingston, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,39.79742518,-92.07634971,84029205.0,US,USA,840,29205.0,shelby,"Shelby, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.79742518,-92.07634971,84029205.0,US,USA,840,29205.0,shelby,"Shelby, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.79742518,-92.07634971,84029205.0,US,USA,840,29205.0,shelby,"Shelby, Missouri, US",0,0,0,0
@@ -9215,6 +9405,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.79742518,-92.07634971,84029205.0,US,USA,840,29205.0,shelby,"Shelby, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,39.79742518,-92.07634971,84029205.0,US,USA,840,29205.0,shelby,"Shelby, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,39.79742518,-92.07634971,84029205.0,US,USA,840,29205.0,shelby,"Shelby, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,39.79742518,-92.07634971,84029205.0,US,USA,840,29205.0,shelby,"Shelby, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,39.79742518,-92.07634971,84029205.0,US,USA,840,29205.0,shelby,"Shelby, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,39.80601912,-91.62203062,84029127.0,US,USA,840,29127.0,marion,"Marion, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.80601912,-91.62203062,84029127.0,US,USA,840,29127.0,marion,"Marion, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.80601912,-91.62203062,84029127.0,US,USA,840,29127.0,marion,"Marion, Missouri, US",0,0,0,0
@@ -9311,6 +9503,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.80601912,-91.62203062,84029127.0,US,USA,840,29127.0,marion,"Marion, Missouri, US",4,0,0,0
 2020-04-25,us,missouri,39.80601912,-91.62203062,84029127.0,US,USA,840,29127.0,marion,"Marion, Missouri, US",4,0,0,0
 2020-04-26,us,missouri,39.80601912,-91.62203062,84029127.0,US,USA,840,29127.0,marion,"Marion, Missouri, US",5,1,0,0
+2020-04-27,us,missouri,39.80601912,-91.62203062,84029127.0,US,USA,840,29127.0,marion,"Marion, Missouri, US",5,0,0,0
+2020-04-28,us,missouri,39.80601912,-91.62203062,84029127.0,US,USA,840,29127.0,marion,"Marion, Missouri, US",5,0,0,0
 2020-01-22,us,missouri,39.83049768,-92.56453089,84029121.0,US,USA,840,29121.0,macon,"Macon, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.83049768,-92.56453089,84029121.0,US,USA,840,29121.0,macon,"Macon, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.83049768,-92.56453089,84029121.0,US,USA,840,29121.0,macon,"Macon, Missouri, US",0,0,0,0
@@ -9407,6 +9601,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.83049768,-92.56453089,84029121.0,US,USA,840,29121.0,macon,"Macon, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,39.83049768,-92.56453089,84029121.0,US,USA,840,29121.0,macon,"Macon, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,39.83049768,-92.56453089,84029121.0,US,USA,840,29121.0,macon,"Macon, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,39.83049768,-92.56453089,84029121.0,US,USA,840,29121.0,macon,"Macon, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,39.83049768,-92.56453089,84029121.0,US,USA,840,29121.0,macon,"Macon, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,39.87001769,-93.10704106,84029115.0,US,USA,840,29115.0,linn,"Linn, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.87001769,-93.10704106,84029115.0,US,USA,840,29115.0,linn,"Linn, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.87001769,-93.10704106,84029115.0,US,USA,840,29115.0,linn,"Linn, Missouri, US",0,0,0,0
@@ -9503,6 +9699,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.87001769,-93.10704106,84029115.0,US,USA,840,29115.0,linn,"Linn, Missouri, US",5,0,1,0
 2020-04-25,us,missouri,39.87001769,-93.10704106,84029115.0,US,USA,840,29115.0,linn,"Linn, Missouri, US",5,0,1,0
 2020-04-26,us,missouri,39.87001769,-93.10704106,84029115.0,US,USA,840,29115.0,linn,"Linn, Missouri, US",5,0,1,0
+2020-04-27,us,missouri,39.87001769,-93.10704106,84029115.0,US,USA,840,29115.0,linn,"Linn, Missouri, US",5,0,1,0
+2020-04-28,us,missouri,39.87001769,-93.10704106,84029115.0,US,USA,840,29115.0,linn,"Linn, Missouri, US",5,0,1,0
 2020-01-22,us,missouri,39.89201062,-94.40476508,84029063.0,US,USA,840,29063.0,dekalb,"DeKalb, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.89201062,-94.40476508,84029063.0,US,USA,840,29063.0,dekalb,"DeKalb, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.89201062,-94.40476508,84029063.0,US,USA,840,29063.0,dekalb,"DeKalb, Missouri, US",0,0,0,0
@@ -9599,6 +9797,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.89201062,-94.40476508,84029063.0,US,USA,840,29063.0,dekalb,"DeKalb, Missouri, US",3,0,0,0
 2020-04-25,us,missouri,39.89201062,-94.40476508,84029063.0,US,USA,840,29063.0,dekalb,"DeKalb, Missouri, US",3,0,0,0
 2020-04-26,us,missouri,39.89201062,-94.40476508,84029063.0,US,USA,840,29063.0,dekalb,"DeKalb, Missouri, US",3,0,0,0
+2020-04-27,us,missouri,39.89201062,-94.40476508,84029063.0,US,USA,840,29063.0,dekalb,"DeKalb, Missouri, US",3,0,0,0
+2020-04-28,us,missouri,39.89201062,-94.40476508,84029063.0,US,USA,840,29063.0,dekalb,"DeKalb, Missouri, US",3,0,0,0
 2020-01-22,us,missouri,39.96145298,-93.98519678,84029061.0,US,USA,840,29061.0,daviess,"Daviess, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.96145298,-93.98519678,84029061.0,US,USA,840,29061.0,daviess,"Daviess, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.96145298,-93.98519678,84029061.0,US,USA,840,29061.0,daviess,"Daviess, Missouri, US",0,0,0,0
@@ -9695,6 +9895,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.96145298,-93.98519678,84029061.0,US,USA,840,29061.0,daviess,"Daviess, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,39.96145298,-93.98519678,84029061.0,US,USA,840,29061.0,daviess,"Daviess, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,39.96145298,-93.98519678,84029061.0,US,USA,840,29061.0,daviess,"Daviess, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,39.96145298,-93.98519678,84029061.0,US,USA,840,29061.0,daviess,"Daviess, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,39.96145298,-93.98519678,84029061.0,US,USA,840,29061.0,daviess,"Daviess, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,39.98492163,-94.80163024,84029003.0,US,USA,840,29003.0,andrew,"Andrew, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,39.98492163,-94.80163024,84029003.0,US,USA,840,29003.0,andrew,"Andrew, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,39.98492163,-94.80163024,84029003.0,US,USA,840,29003.0,andrew,"Andrew, Missouri, US",0,0,0,0
@@ -9791,6 +9993,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,39.98492163,-94.80163024,84029003.0,US,USA,840,29003.0,andrew,"Andrew, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,39.98492163,-94.80163024,84029003.0,US,USA,840,29003.0,andrew,"Andrew, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,39.98492163,-94.80163024,84029003.0,US,USA,840,29003.0,andrew,"Andrew, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,39.98492163,-94.80163024,84029003.0,US,USA,840,29003.0,andrew,"Andrew, Missouri, US",2,1,0,0
+2020-04-28,us,missouri,39.98492163,-94.80163024,84029003.0,US,USA,840,29003.0,andrew,"Andrew, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,40.09673161,-91.72070156,84029111.0,US,USA,840,29111.0,lewis,"Lewis, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.09673161,-91.72070156,84029111.0,US,USA,840,29111.0,lewis,"Lewis, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.09673161,-91.72070156,84029111.0,US,USA,840,29111.0,lewis,"Lewis, Missouri, US",0,0,0,0
@@ -9887,6 +10091,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.09673161,-91.72070156,84029111.0,US,USA,840,29111.0,lewis,"Lewis, Missouri, US",6,0,1,0
 2020-04-25,us,missouri,40.09673161,-91.72070156,84029111.0,US,USA,840,29111.0,lewis,"Lewis, Missouri, US",6,0,1,0
 2020-04-26,us,missouri,40.09673161,-91.72070156,84029111.0,US,USA,840,29111.0,lewis,"Lewis, Missouri, US",6,0,1,0
+2020-04-27,us,missouri,40.09673161,-91.72070156,84029111.0,US,USA,840,29111.0,lewis,"Lewis, Missouri, US",6,0,1,0
+2020-04-28,us,missouri,40.09673161,-91.72070156,84029111.0,US,USA,840,29111.0,lewis,"Lewis, Missouri, US",6,0,1,0
 2020-01-22,us,missouri,40.09799248,-95.2163888,84029087.0,US,USA,840,29087.0,holt,"Holt, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.09799248,-95.2163888,84029087.0,US,USA,840,29087.0,holt,"Holt, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.09799248,-95.2163888,84029087.0,US,USA,840,29087.0,holt,"Holt, Missouri, US",0,0,0,0
@@ -9983,6 +10189,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.09799248,-95.2163888,84029087.0,US,USA,840,29087.0,holt,"Holt, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,40.09799248,-95.2163888,84029087.0,US,USA,840,29087.0,holt,"Holt, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,40.09799248,-95.2163888,84029087.0,US,USA,840,29087.0,holt,"Holt, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,40.09799248,-95.2163888,84029087.0,US,USA,840,29087.0,holt,"Holt, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,40.09799248,-95.2163888,84029087.0,US,USA,840,29087.0,holt,"Holt, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,40.11406587,-93.56509276,84029079.0,US,USA,840,29079.0,grundy,"Grundy, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.11406587,-93.56509276,84029079.0,US,USA,840,29079.0,grundy,"Grundy, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.11406587,-93.56509276,84029079.0,US,USA,840,29079.0,grundy,"Grundy, Missouri, US",0,0,0,0
@@ -10079,6 +10287,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.11406587,-93.56509276,84029079.0,US,USA,840,29079.0,grundy,"Grundy, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,40.11406587,-93.56509276,84029079.0,US,USA,840,29079.0,grundy,"Grundy, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,40.11406587,-93.56509276,84029079.0,US,USA,840,29079.0,grundy,"Grundy, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,40.11406587,-93.56509276,84029079.0,US,USA,840,29079.0,grundy,"Grundy, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,40.11406587,-93.56509276,84029079.0,US,USA,840,29079.0,grundy,"Grundy, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,40.12699751,-92.14780832,84029103.0,US,USA,840,29103.0,knox,"Knox, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.12699751,-92.14780832,84029103.0,US,USA,840,29103.0,knox,"Knox, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.12699751,-92.14780832,84029103.0,US,USA,840,29103.0,knox,"Knox, Missouri, US",0,0,0,0
@@ -10175,6 +10385,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.12699751,-92.14780832,84029103.0,US,USA,840,29103.0,knox,"Knox, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,40.12699751,-92.14780832,84029103.0,US,USA,840,29103.0,knox,"Knox, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,40.12699751,-92.14780832,84029103.0,US,USA,840,29103.0,knox,"Knox, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,40.12699751,-92.14780832,84029103.0,US,USA,840,29103.0,knox,"Knox, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,40.12699751,-92.14780832,84029103.0,US,USA,840,29103.0,knox,"Knox, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,40.19058551,-92.60078167,84029001.0,US,USA,840,29001.0,adair,"Adair, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.19058551,-92.60078167,84029001.0,US,USA,840,29001.0,adair,"Adair, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.19058551,-92.60078167,84029001.0,US,USA,840,29001.0,adair,"Adair, Missouri, US",0,0,0,0
@@ -10271,6 +10483,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.19058551,-92.60078167,84029001.0,US,USA,840,29001.0,adair,"Adair, Missouri, US",12,0,0,0
 2020-04-25,us,missouri,40.19058551,-92.60078167,84029001.0,US,USA,840,29001.0,adair,"Adair, Missouri, US",12,0,0,0
 2020-04-26,us,missouri,40.19058551,-92.60078167,84029001.0,US,USA,840,29001.0,adair,"Adair, Missouri, US",12,0,0,0
+2020-04-27,us,missouri,40.19058551,-92.60078167,84029001.0,US,USA,840,29001.0,adair,"Adair, Missouri, US",12,0,0,0
+2020-04-28,us,missouri,40.19058551,-92.60078167,84029001.0,US,USA,840,29001.0,adair,"Adair, Missouri, US",12,0,0,0
 2020-01-22,us,missouri,40.2099105,-93.11150106,84029211.0,US,USA,840,29211.0,sullivan,"Sullivan, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.2099105,-93.11150106,84029211.0,US,USA,840,29211.0,sullivan,"Sullivan, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.2099105,-93.11150106,84029211.0,US,USA,840,29211.0,sullivan,"Sullivan, Missouri, US",0,0,0,0
@@ -10367,6 +10581,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.2099105,-93.11150106,84029211.0,US,USA,840,29211.0,sullivan,"Sullivan, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,40.2099105,-93.11150106,84029211.0,US,USA,840,29211.0,sullivan,"Sullivan, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,40.2099105,-93.11150106,84029211.0,US,USA,840,29211.0,sullivan,"Sullivan, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,40.2099105,-93.11150106,84029211.0,US,USA,840,29211.0,sullivan,"Sullivan, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,40.2099105,-93.11150106,84029211.0,US,USA,840,29211.0,sullivan,"Sullivan, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,40.21097916,-94.40944419,84029075.0,US,USA,840,29075.0,gentry,"Gentry, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.21097916,-94.40944419,84029075.0,US,USA,840,29075.0,gentry,"Gentry, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.21097916,-94.40944419,84029075.0,US,USA,840,29075.0,gentry,"Gentry, Missouri, US",0,0,0,0
@@ -10463,6 +10679,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.21097916,-94.40944419,84029075.0,US,USA,840,29075.0,gentry,"Gentry, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,40.21097916,-94.40944419,84029075.0,US,USA,840,29075.0,gentry,"Gentry, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,40.21097916,-94.40944419,84029075.0,US,USA,840,29075.0,gentry,"Gentry, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,40.21097916,-94.40944419,84029075.0,US,USA,840,29075.0,gentry,"Gentry, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,40.21097916,-94.40944419,84029075.0,US,USA,840,29075.0,gentry,"Gentry, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,40.35570088,-93.99222144,84029081.0,US,USA,840,29081.0,harrison,"Harrison, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.35570088,-93.99222144,84029081.0,US,USA,840,29081.0,harrison,"Harrison, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.35570088,-93.99222144,84029081.0,US,USA,840,29081.0,harrison,"Harrison, Missouri, US",0,0,0,0
@@ -10559,6 +10777,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.35570088,-93.99222144,84029081.0,US,USA,840,29081.0,harrison,"Harrison, Missouri, US",6,0,0,0
 2020-04-25,us,missouri,40.35570088,-93.99222144,84029081.0,US,USA,840,29081.0,harrison,"Harrison, Missouri, US",6,0,0,0
 2020-04-26,us,missouri,40.35570088,-93.99222144,84029081.0,US,USA,840,29081.0,harrison,"Harrison, Missouri, US",6,0,0,0
+2020-04-27,us,missouri,40.35570088,-93.99222144,84029081.0,US,USA,840,29081.0,harrison,"Harrison, Missouri, US",6,0,0,0
+2020-04-28,us,missouri,40.35570088,-93.99222144,84029081.0,US,USA,840,29081.0,harrison,"Harrison, Missouri, US",6,0,0,0
 2020-01-22,us,missouri,40.36079813,-94.88133008,84029147.0,US,USA,840,29147.0,nodaway,"Nodaway, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.36079813,-94.88133008,84029147.0,US,USA,840,29147.0,nodaway,"Nodaway, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.36079813,-94.88133008,84029147.0,US,USA,840,29147.0,nodaway,"Nodaway, Missouri, US",0,0,0,0
@@ -10655,6 +10875,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.36079813,-94.88133008,84029147.0,US,USA,840,29147.0,nodaway,"Nodaway, Missouri, US",3,0,0,0
 2020-04-25,us,missouri,40.36079813,-94.88133008,84029147.0,US,USA,840,29147.0,nodaway,"Nodaway, Missouri, US",3,0,0,0
 2020-04-26,us,missouri,40.36079813,-94.88133008,84029147.0,US,USA,840,29147.0,nodaway,"Nodaway, Missouri, US",3,0,0,0
+2020-04-27,us,missouri,40.36079813,-94.88133008,84029147.0,US,USA,840,29147.0,nodaway,"Nodaway, Missouri, US",3,0,0,0
+2020-04-28,us,missouri,40.36079813,-94.88133008,84029147.0,US,USA,840,29147.0,nodaway,"Nodaway, Missouri, US",3,0,0,0
 2020-01-22,us,missouri,40.41040752,-91.73661677,84029045.0,US,USA,840,29045.0,clark,"Clark, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.41040752,-91.73661677,84029045.0,US,USA,840,29045.0,clark,"Clark, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.41040752,-91.73661677,84029045.0,US,USA,840,29045.0,clark,"Clark, Missouri, US",0,0,0,0
@@ -10751,6 +10973,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.41040752,-91.73661677,84029045.0,US,USA,840,29045.0,clark,"Clark, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,40.41040752,-91.73661677,84029045.0,US,USA,840,29045.0,clark,"Clark, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,40.41040752,-91.73661677,84029045.0,US,USA,840,29045.0,clark,"Clark, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,40.41040752,-91.73661677,84029045.0,US,USA,840,29045.0,clark,"Clark, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,40.41040752,-91.73661677,84029045.0,US,USA,840,29045.0,clark,"Clark, Missouri, US",1,0,0,0
 2020-01-22,us,missouri,40.42212303,-93.5682959,84029129.0,US,USA,840,29129.0,mercer,"Mercer, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.42212303,-93.5682959,84029129.0,US,USA,840,29129.0,mercer,"Mercer, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.42212303,-93.5682959,84029129.0,US,USA,840,29129.0,mercer,"Mercer, Missouri, US",0,0,0,0
@@ -10847,6 +11071,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.42212303,-93.5682959,84029129.0,US,USA,840,29129.0,mercer,"Mercer, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,40.42212303,-93.5682959,84029129.0,US,USA,840,29129.0,mercer,"Mercer, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,40.42212303,-93.5682959,84029129.0,US,USA,840,29129.0,mercer,"Mercer, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,40.42212303,-93.5682959,84029129.0,US,USA,840,29129.0,mercer,"Mercer, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,40.42212303,-93.5682959,84029129.0,US,USA,840,29129.0,mercer,"Mercer, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,40.43238737,-95.42970639,84029005.0,US,USA,840,29005.0,atchison,"Atchison, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.43238737,-95.42970639,84029005.0,US,USA,840,29005.0,atchison,"Atchison, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.43238737,-95.42970639,84029005.0,US,USA,840,29005.0,atchison,"Atchison, Missouri, US",0,0,0,0
@@ -10943,6 +11169,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.43238737,-95.42970639,84029005.0,US,USA,840,29005.0,atchison,"Atchison, Missouri, US",2,0,0,0
 2020-04-25,us,missouri,40.43238737,-95.42970639,84029005.0,US,USA,840,29005.0,atchison,"Atchison, Missouri, US",2,0,0,0
 2020-04-26,us,missouri,40.43238737,-95.42970639,84029005.0,US,USA,840,29005.0,atchison,"Atchison, Missouri, US",2,0,0,0
+2020-04-27,us,missouri,40.43238737,-95.42970639,84029005.0,US,USA,840,29005.0,atchison,"Atchison, Missouri, US",2,0,0,0
+2020-04-28,us,missouri,40.43238737,-95.42970639,84029005.0,US,USA,840,29005.0,atchison,"Atchison, Missouri, US",2,0,0,0
 2020-01-22,us,missouri,40.45214695,-92.14709064,84029199.0,US,USA,840,29199.0,scotland,"Scotland, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.45214695,-92.14709064,84029199.0,US,USA,840,29199.0,scotland,"Scotland, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.45214695,-92.14709064,84029199.0,US,USA,840,29199.0,scotland,"Scotland, Missouri, US",0,0,0,0
@@ -11039,6 +11267,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.45214695,-92.14709064,84029199.0,US,USA,840,29199.0,scotland,"Scotland, Missouri, US",4,0,0,0
 2020-04-25,us,missouri,40.45214695,-92.14709064,84029199.0,US,USA,840,29199.0,scotland,"Scotland, Missouri, US",4,0,0,0
 2020-04-26,us,missouri,40.45214695,-92.14709064,84029199.0,US,USA,840,29199.0,scotland,"Scotland, Missouri, US",4,0,0,0
+2020-04-27,us,missouri,40.45214695,-92.14709064,84029199.0,US,USA,840,29199.0,scotland,"Scotland, Missouri, US",4,0,0,0
+2020-04-28,us,missouri,40.45214695,-92.14709064,84029199.0,US,USA,840,29199.0,scotland,"Scotland, Missouri, US",4,0,0,0
 2020-01-22,us,missouri,40.46921489,-92.52311943,84029197.0,US,USA,840,29197.0,schuyler,"Schuyler, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.46921489,-92.52311943,84029197.0,US,USA,840,29197.0,schuyler,"Schuyler, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.46921489,-92.52311943,84029197.0,US,USA,840,29197.0,schuyler,"Schuyler, Missouri, US",0,0,0,0
@@ -11135,6 +11365,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.46921489,-92.52311943,84029197.0,US,USA,840,29197.0,schuyler,"Schuyler, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,40.46921489,-92.52311943,84029197.0,US,USA,840,29197.0,schuyler,"Schuyler, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,40.46921489,-92.52311943,84029197.0,US,USA,840,29197.0,schuyler,"Schuyler, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,40.46921489,-92.52311943,84029197.0,US,USA,840,29197.0,schuyler,"Schuyler, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,40.46921489,-92.52311943,84029197.0,US,USA,840,29197.0,schuyler,"Schuyler, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,40.47942497,-93.02042674,84029171.0,US,USA,840,29171.0,putnam,"Putnam, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.47942497,-93.02042674,84029171.0,US,USA,840,29171.0,putnam,"Putnam, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.47942497,-93.02042674,84029171.0,US,USA,840,29171.0,putnam,"Putnam, Missouri, US",0,0,0,0
@@ -11231,6 +11463,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.47942497,-93.02042674,84029171.0,US,USA,840,29171.0,putnam,"Putnam, Missouri, US",0,0,0,0
 2020-04-25,us,missouri,40.47942497,-93.02042674,84029171.0,US,USA,840,29171.0,putnam,"Putnam, Missouri, US",0,0,0,0
 2020-04-26,us,missouri,40.47942497,-93.02042674,84029171.0,US,USA,840,29171.0,putnam,"Putnam, Missouri, US",0,0,0,0
+2020-04-27,us,missouri,40.47942497,-93.02042674,84029171.0,US,USA,840,29171.0,putnam,"Putnam, Missouri, US",0,0,0,0
+2020-04-28,us,missouri,40.47942497,-93.02042674,84029171.0,US,USA,840,29171.0,putnam,"Putnam, Missouri, US",0,0,0,0
 2020-01-22,us,missouri,40.47945588,-94.42328751,84029227.0,US,USA,840,29227.0,worth,"Worth, Missouri, US",0,0,0,0
 2020-01-23,us,missouri,40.47945588,-94.42328751,84029227.0,US,USA,840,29227.0,worth,"Worth, Missouri, US",0,0,0,0
 2020-01-24,us,missouri,40.47945588,-94.42328751,84029227.0,US,USA,840,29227.0,worth,"Worth, Missouri, US",0,0,0,0
@@ -11327,3 +11561,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,missouri,40.47945588,-94.42328751,84029227.0,US,USA,840,29227.0,worth,"Worth, Missouri, US",1,0,0,0
 2020-04-25,us,missouri,40.47945588,-94.42328751,84029227.0,US,USA,840,29227.0,worth,"Worth, Missouri, US",1,0,0,0
 2020-04-26,us,missouri,40.47945588,-94.42328751,84029227.0,US,USA,840,29227.0,worth,"Worth, Missouri, US",1,0,0,0
+2020-04-27,us,missouri,40.47945588,-94.42328751,84029227.0,US,USA,840,29227.0,worth,"Worth, Missouri, US",1,0,0,0
+2020-04-28,us,missouri,40.47945588,-94.42328751,84029227.0,US,USA,840,29227.0,worth,"Worth, Missouri, US",1,0,0,0

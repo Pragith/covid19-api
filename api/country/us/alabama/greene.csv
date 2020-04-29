@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",44,3,0,0
 2020-04-25,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",44,0,0,0
 2020-04-26,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",46,2,0,0
+2020-04-27,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",46,0,0,0
+2020-04-28,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",47,1,1,1

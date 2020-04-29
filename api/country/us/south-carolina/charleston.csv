@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",416,4,6,1
 2020-04-25,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",424,8,6,0
 2020-04-26,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",436,12,6,0
+2020-04-27,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",435,-1,6,0
+2020-04-28,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",438,3,7,1

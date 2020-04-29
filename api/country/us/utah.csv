@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,0.0,0.0,84080049.0,US,USA,840,80049.0,out-of-ut,"Out of UT, Utah, US",0,0,0,0
 2020-04-25,us,utah,0.0,0.0,84080049.0,US,USA,840,80049.0,out-of-ut,"Out of UT, Utah, US",0,0,0,0
 2020-04-26,us,utah,0.0,0.0,84080049.0,US,USA,840,80049.0,out-of-ut,"Out of UT, Utah, US",0,0,0,0
+2020-04-27,us,utah,0.0,0.0,84080049.0,US,USA,840,80049.0,out-of-ut,"Out of UT, Utah, US",0,0,0,0
+2020-04-28,us,utah,0.0,0.0,84080049.0,US,USA,840,80049.0,out-of-ut,"Out of UT, Utah, US",0,0,0,0
 2020-01-22,us,utah,0.0,0.0,84090049.0,US,USA,840,90049.0,unassigned,"Unassigned, Utah, US",0,0,0,0
 2020-01-23,us,utah,0.0,0.0,84090049.0,US,USA,840,90049.0,unassigned,"Unassigned, Utah, US",0,0,0,0
 2020-01-24,us,utah,0.0,0.0,84090049.0,US,USA,840,90049.0,unassigned,"Unassigned, Utah, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,0.0,0.0,84090049.0,US,USA,840,90049.0,unassigned,"Unassigned, Utah, US",0,0,0,0
 2020-04-25,us,utah,0.0,0.0,84090049.0,US,USA,840,90049.0,unassigned,"Unassigned, Utah, US",0,0,0,0
 2020-04-26,us,utah,0.0,0.0,84090049.0,US,USA,840,90049.0,unassigned,"Unassigned, Utah, US",0,0,0,0
+2020-04-27,us,utah,0.0,0.0,84090049.0,US,USA,840,90049.0,unassigned,"Unassigned, Utah, US",0,0,0,0
+2020-04-28,us,utah,0.0,0.0,84090049.0,US,USA,840,90049.0,unassigned,"Unassigned, Utah, US",0,0,0,0
 2020-01-22,us,utah,37.28003525,-113.504698,84049053.0,US,USA,840,49053.0,washington,"Washington,Utah,US",0,0,0,0
 2020-01-23,us,utah,37.28003525,-113.504698,84049053.0,US,USA,840,49053.0,washington,"Washington,Utah,US",0,0,0,0
 2020-01-24,us,utah,37.28003525,-113.504698,84049053.0,US,USA,840,49053.0,washington,"Washington,Utah,US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,37.28003525,-113.504698,84049053.0,US,USA,840,49053.0,washington,"Washington,Utah,US",0,0,0,0
 2020-04-25,us,utah,37.28003525,-113.504698,84049053.0,US,USA,840,49053.0,washington,"Washington,Utah,US",0,0,0,0
 2020-04-26,us,utah,37.28003525,-113.504698,84049053.0,US,USA,840,49053.0,washington,"Washington,Utah,US",0,0,0,0
+2020-04-27,us,utah,37.28003525,-113.504698,84049053.0,US,USA,840,49053.0,washington,"Washington,Utah,US",0,0,0,0
+2020-04-28,us,utah,37.28003525,-113.504698,84049053.0,US,USA,840,49053.0,washington,"Washington,Utah,US",0,0,0,0
 2020-01-22,us,utah,37.28507306,-111.8861752,84049025.0,US,USA,840,49025.0,kane,"Kane, Utah, US",0,0,0,0
 2020-01-23,us,utah,37.28507306,-111.8861752,84049025.0,US,USA,840,49025.0,kane,"Kane, Utah, US",0,0,0,0
 2020-01-24,us,utah,37.28507306,-111.8861752,84049025.0,US,USA,840,49025.0,kane,"Kane, Utah, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,37.28507306,-111.8861752,84049025.0,US,USA,840,49025.0,kane,"Kane, Utah, US",0,0,0,0
 2020-04-25,us,utah,37.28507306,-111.8861752,84049025.0,US,USA,840,49025.0,kane,"Kane, Utah, US",0,0,0,0
 2020-04-26,us,utah,37.28507306,-111.8861752,84049025.0,US,USA,840,49025.0,kane,"Kane, Utah, US",0,0,0,0
+2020-04-27,us,utah,37.28507306,-111.8861752,84049025.0,US,USA,840,49025.0,kane,"Kane, Utah, US",0,0,0,0
+2020-04-28,us,utah,37.28507306,-111.8861752,84049025.0,US,USA,840,49025.0,kane,"Kane, Utah, US",0,0,0,0
 2020-01-22,us,utah,37.62762978,-109.80337140000002,84049037.0,US,USA,840,49037.0,san-juan,"San Juan, Utah, US",0,0,0,0
 2020-01-23,us,utah,37.62762978,-109.80337140000002,84049037.0,US,USA,840,49037.0,san-juan,"San Juan, Utah, US",0,0,0,0
 2020-01-24,us,utah,37.62762978,-109.80337140000002,84049037.0,US,USA,840,49037.0,san-juan,"San Juan, Utah, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,37.62762978,-109.80337140000002,84049037.0,US,USA,840,49037.0,san-juan,"San Juan, Utah, US",37,0,2,0
 2020-04-25,us,utah,37.62762978,-109.80337140000002,84049037.0,US,USA,840,49037.0,san-juan,"San Juan, Utah, US",40,3,2,0
 2020-04-26,us,utah,37.62762978,-109.80337140000002,84049037.0,US,USA,840,49037.0,san-juan,"San Juan, Utah, US",43,3,2,0
+2020-04-27,us,utah,37.62762978,-109.80337140000002,84049037.0,US,USA,840,49037.0,san-juan,"San Juan, Utah, US",45,2,2,0
+2020-04-28,us,utah,37.62762978,-109.80337140000002,84049037.0,US,USA,840,49037.0,san-juan,"San Juan, Utah, US",45,0,2,0
 2020-01-22,us,utah,37.85447192,-111.4418764,84049017.0,US,USA,840,49017.0,garfield,"Garfield, Utah, US",0,0,0,0
 2020-01-23,us,utah,37.85447192,-111.4418764,84049017.0,US,USA,840,49017.0,garfield,"Garfield, Utah, US",0,0,0,0
 2020-01-24,us,utah,37.85447192,-111.4418764,84049017.0,US,USA,840,49017.0,garfield,"Garfield, Utah, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,37.85447192,-111.4418764,84049017.0,US,USA,840,49017.0,garfield,"Garfield, Utah, US",0,0,0,0
 2020-04-25,us,utah,37.85447192,-111.4418764,84049017.0,US,USA,840,49017.0,garfield,"Garfield, Utah, US",0,0,0,0
 2020-04-26,us,utah,37.85447192,-111.4418764,84049017.0,US,USA,840,49017.0,garfield,"Garfield, Utah, US",0,0,0,0
+2020-04-27,us,utah,37.85447192,-111.4418764,84049017.0,US,USA,840,49017.0,garfield,"Garfield, Utah, US",0,0,0,0
+2020-04-28,us,utah,37.85447192,-111.4418764,84049017.0,US,USA,840,49017.0,garfield,"Garfield, Utah, US",0,0,0,0
 2020-01-22,us,utah,37.85447192,-111.4418764,84070018.0,US,USA,840,,southwest-utah,"Southwest Utah, Utah, US",0,0,0,0
 2020-01-23,us,utah,37.85447192,-111.4418764,84070018.0,US,USA,840,,southwest-utah,"Southwest Utah, Utah, US",0,0,0,0
 2020-01-24,us,utah,37.85447192,-111.4418764,84070018.0,US,USA,840,,southwest-utah,"Southwest Utah, Utah, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,37.85447192,-111.4418764,84070018.0,US,USA,840,,southwest-utah,"Southwest Utah, Utah, US",81,5,1,0
 2020-04-25,us,utah,37.85447192,-111.4418764,84070018.0,US,USA,840,,southwest-utah,"Southwest Utah, Utah, US",83,2,2,1
 2020-04-26,us,utah,37.85447192,-111.4418764,84070018.0,US,USA,840,,southwest-utah,"Southwest Utah, Utah, US",87,4,2,0
+2020-04-27,us,utah,37.85447192,-111.4418764,84070018.0,US,USA,840,,southwest-utah,"Southwest Utah, Utah, US",89,2,2,0
+2020-04-28,us,utah,37.85447192,-111.4418764,84070018.0,US,USA,840,,southwest-utah,"Southwest Utah, Utah, US",91,2,2,0
 2020-01-22,us,utah,37.85903620000001,-113.2897381,84049021.0,US,USA,840,49021.0,iron,"Iron, Utah, US",0,0,0,0
 2020-01-23,us,utah,37.85903620000001,-113.2897381,84049021.0,US,USA,840,49021.0,iron,"Iron, Utah, US",0,0,0,0
 2020-01-24,us,utah,37.85903620000001,-113.2897381,84049021.0,US,USA,840,49021.0,iron,"Iron, Utah, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,37.85903620000001,-113.2897381,84049021.0,US,USA,840,49021.0,iron,"Iron, Utah, US",0,0,0,0
 2020-04-25,us,utah,37.85903620000001,-113.2897381,84049021.0,US,USA,840,49021.0,iron,"Iron, Utah, US",0,0,0,0
 2020-04-26,us,utah,37.85903620000001,-113.2897381,84049021.0,US,USA,840,49021.0,iron,"Iron, Utah, US",0,0,0,0
+2020-04-27,us,utah,37.85903620000001,-113.2897381,84049021.0,US,USA,840,49021.0,iron,"Iron, Utah, US",0,0,0,0
+2020-04-28,us,utah,37.85903620000001,-113.2897381,84049021.0,US,USA,840,49021.0,iron,"Iron, Utah, US",0,0,0,0
 2020-01-22,us,utah,38.32335822,-110.9096801,84049055.0,US,USA,840,49055.0,wayne,"Wayne, Utah, US",0,0,0,0
 2020-01-23,us,utah,38.32335822,-110.9096801,84049055.0,US,USA,840,49055.0,wayne,"Wayne, Utah, US",0,0,0,0
 2020-01-24,us,utah,38.32335822,-110.9096801,84049055.0,US,USA,840,49055.0,wayne,"Wayne, Utah, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,38.32335822,-110.9096801,84049055.0,US,USA,840,49055.0,wayne,"Wayne, Utah, US",0,0,0,0
 2020-04-25,us,utah,38.32335822,-110.9096801,84049055.0,US,USA,840,49055.0,wayne,"Wayne, Utah, US",0,0,0,0
 2020-04-26,us,utah,38.32335822,-110.9096801,84049055.0,US,USA,840,49055.0,wayne,"Wayne, Utah, US",0,0,0,0
+2020-04-27,us,utah,38.32335822,-110.9096801,84049055.0,US,USA,840,49055.0,wayne,"Wayne, Utah, US",0,0,0,0
+2020-04-28,us,utah,38.32335822,-110.9096801,84049055.0,US,USA,840,49055.0,wayne,"Wayne, Utah, US",0,0,0,0
 2020-01-22,us,utah,38.33815254,-112.1249591,84049031.0,US,USA,840,49031.0,piute,"Piute, Utah, US",0,0,0,0
 2020-01-23,us,utah,38.33815254,-112.1249591,84049031.0,US,USA,840,49031.0,piute,"Piute, Utah, US",0,0,0,0
 2020-01-24,us,utah,38.33815254,-112.1249591,84049031.0,US,USA,840,49031.0,piute,"Piute, Utah, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,38.33815254,-112.1249591,84049031.0,US,USA,840,49031.0,piute,"Piute, Utah, US",0,0,0,0
 2020-04-25,us,utah,38.33815254,-112.1249591,84049031.0,US,USA,840,49031.0,piute,"Piute, Utah, US",0,0,0,0
 2020-04-26,us,utah,38.33815254,-112.1249591,84049031.0,US,USA,840,49031.0,piute,"Piute, Utah, US",0,0,0,0
+2020-04-27,us,utah,38.33815254,-112.1249591,84049031.0,US,USA,840,49031.0,piute,"Piute, Utah, US",0,0,0,0
+2020-04-28,us,utah,38.33815254,-112.1249591,84049031.0,US,USA,840,49031.0,piute,"Piute, Utah, US",0,0,0,0
 2020-01-22,us,utah,38.35657051,-113.2342232,84049001.0,US,USA,840,49001.0,beaver,"Beaver, Utah, US",0,0,0,0
 2020-01-23,us,utah,38.35657051,-113.2342232,84049001.0,US,USA,840,49001.0,beaver,"Beaver, Utah, US",0,0,0,0
 2020-01-24,us,utah,38.35657051,-113.2342232,84049001.0,US,USA,840,49001.0,beaver,"Beaver, Utah, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,38.35657051,-113.2342232,84049001.0,US,USA,840,49001.0,beaver,"Beaver, Utah, US",0,0,0,0
 2020-04-25,us,utah,38.35657051,-113.2342232,84049001.0,US,USA,840,49001.0,beaver,"Beaver, Utah, US",0,0,0,0
 2020-04-26,us,utah,38.35657051,-113.2342232,84049001.0,US,USA,840,49001.0,beaver,"Beaver, Utah, US",0,0,0,0
+2020-04-27,us,utah,38.35657051,-113.2342232,84049001.0,US,USA,840,49001.0,beaver,"Beaver, Utah, US",0,0,0,0
+2020-04-28,us,utah,38.35657051,-113.2342232,84049001.0,US,USA,840,49001.0,beaver,"Beaver, Utah, US",0,0,0,0
 2020-01-22,us,utah,38.74837146,-111.8050275,84049041.0,US,USA,840,49041.0,sevier,"Sevier, Utah, US",0,0,0,0
 2020-01-23,us,utah,38.74837146,-111.8050275,84049041.0,US,USA,840,49041.0,sevier,"Sevier, Utah, US",0,0,0,0
 2020-01-24,us,utah,38.74837146,-111.8050275,84049041.0,US,USA,840,49041.0,sevier,"Sevier, Utah, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,38.74837146,-111.8050275,84049041.0,US,USA,840,49041.0,sevier,"Sevier, Utah, US",0,0,0,0
 2020-04-25,us,utah,38.74837146,-111.8050275,84049041.0,US,USA,840,49041.0,sevier,"Sevier, Utah, US",0,0,0,0
 2020-04-26,us,utah,38.74837146,-111.8050275,84049041.0,US,USA,840,49041.0,sevier,"Sevier, Utah, US",0,0,0,0
+2020-04-27,us,utah,38.74837146,-111.8050275,84049041.0,US,USA,840,49041.0,sevier,"Sevier, Utah, US",0,0,0,0
+2020-04-28,us,utah,38.74837146,-111.8050275,84049041.0,US,USA,840,49041.0,sevier,"Sevier, Utah, US",0,0,0,0
 2020-01-22,us,utah,38.98103848,-109.5704487,84049019.0,US,USA,840,49019.0,grand,"Grand, Utah, US",0,0,0,0
 2020-01-23,us,utah,38.98103848,-109.5704487,84049019.0,US,USA,840,49019.0,grand,"Grand, Utah, US",0,0,0,0
 2020-01-24,us,utah,38.98103848,-109.5704487,84049019.0,US,USA,840,49019.0,grand,"Grand, Utah, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,38.98103848,-109.5704487,84049019.0,US,USA,840,49019.0,grand,"Grand, Utah, US",0,0,0,0
 2020-04-25,us,utah,38.98103848,-109.5704487,84049019.0,US,USA,840,49019.0,grand,"Grand, Utah, US",0,0,0,0
 2020-04-26,us,utah,38.98103848,-109.5704487,84049019.0,US,USA,840,49019.0,grand,"Grand, Utah, US",0,0,0,0
+2020-04-27,us,utah,38.98103848,-109.5704487,84049019.0,US,USA,840,49019.0,grand,"Grand, Utah, US",0,0,0,0
+2020-04-28,us,utah,38.98103848,-109.5704487,84049019.0,US,USA,840,49019.0,grand,"Grand, Utah, US",0,0,0,0
 2020-01-22,us,utah,38.99617072,-110.7013958,84049015.0,US,USA,840,49015.0,emery,"Emery, Utah, US",0,0,0,0
 2020-01-23,us,utah,38.99617072,-110.7013958,84049015.0,US,USA,840,49015.0,emery,"Emery, Utah, US",0,0,0,0
 2020-01-24,us,utah,38.99617072,-110.7013958,84049015.0,US,USA,840,49015.0,emery,"Emery, Utah, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,38.99617072,-110.7013958,84049015.0,US,USA,840,49015.0,emery,"Emery, Utah, US",0,0,0,0
 2020-04-25,us,utah,38.99617072,-110.7013958,84049015.0,US,USA,840,49015.0,emery,"Emery, Utah, US",0,0,0,0
 2020-04-26,us,utah,38.99617072,-110.7013958,84049015.0,US,USA,840,49015.0,emery,"Emery, Utah, US",0,0,0,0
+2020-04-27,us,utah,38.99617072,-110.7013958,84049015.0,US,USA,840,49015.0,emery,"Emery, Utah, US",0,0,0,0
+2020-04-28,us,utah,38.99617072,-110.7013958,84049015.0,US,USA,840,49015.0,emery,"Emery, Utah, US",0,0,0,0
 2020-01-22,us,utah,38.99617072,-110.7013958,84070017.0,US,USA,840,,southeast-utah,"Southeast Utah, Utah, US",0,0,0,0
 2020-01-23,us,utah,38.99617072,-110.7013958,84070017.0,US,USA,840,,southeast-utah,"Southeast Utah, Utah, US",0,0,0,0
 2020-01-24,us,utah,38.99617072,-110.7013958,84070017.0,US,USA,840,,southeast-utah,"Southeast Utah, Utah, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,38.99617072,-110.7013958,84070017.0,US,USA,840,,southeast-utah,"Southeast Utah, Utah, US",8,1,0,0
 2020-04-25,us,utah,38.99617072,-110.7013958,84070017.0,US,USA,840,,southeast-utah,"Southeast Utah, Utah, US",11,3,0,0
 2020-04-26,us,utah,38.99617072,-110.7013958,84070017.0,US,USA,840,,southeast-utah,"Southeast Utah, Utah, US",12,1,0,0
+2020-04-27,us,utah,38.99617072,-110.7013958,84070017.0,US,USA,840,,southeast-utah,"Southeast Utah, Utah, US",13,1,0,0
+2020-04-28,us,utah,38.99617072,-110.7013958,84070017.0,US,USA,840,,southeast-utah,"Southeast Utah, Utah, US",13,0,0,0
 2020-01-22,us,utah,39.0729209,-113.1020328,84049027.0,US,USA,840,49027.0,millard,"Millard, Utah, US",0,0,0,0
 2020-01-23,us,utah,39.0729209,-113.1020328,84049027.0,US,USA,840,49027.0,millard,"Millard, Utah, US",0,0,0,0
 2020-01-24,us,utah,39.0729209,-113.1020328,84049027.0,US,USA,840,49027.0,millard,"Millard, Utah, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,39.0729209,-113.1020328,84049027.0,US,USA,840,49027.0,millard,"Millard, Utah, US",0,0,0,0
 2020-04-25,us,utah,39.0729209,-113.1020328,84049027.0,US,USA,840,49027.0,millard,"Millard, Utah, US",0,0,0,0
 2020-04-26,us,utah,39.0729209,-113.1020328,84049027.0,US,USA,840,49027.0,millard,"Millard, Utah, US",0,0,0,0
+2020-04-27,us,utah,39.0729209,-113.1020328,84049027.0,US,USA,840,49027.0,millard,"Millard, Utah, US",0,0,0,0
+2020-04-28,us,utah,39.0729209,-113.1020328,84049027.0,US,USA,840,49027.0,millard,"Millard, Utah, US",0,0,0,0
 2020-01-22,us,utah,39.37231946,-111.5758676,84049039.0,US,USA,840,49039.0,sanpete,"Sanpete, Utah, US",0,0,0,0
 2020-01-23,us,utah,39.37231946,-111.5758676,84049039.0,US,USA,840,49039.0,sanpete,"Sanpete, Utah, US",0,0,0,0
 2020-01-24,us,utah,39.37231946,-111.5758676,84049039.0,US,USA,840,49039.0,sanpete,"Sanpete, Utah, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,39.37231946,-111.5758676,84049039.0,US,USA,840,49039.0,sanpete,"Sanpete, Utah, US",0,0,0,0
 2020-04-25,us,utah,39.37231946,-111.5758676,84049039.0,US,USA,840,49039.0,sanpete,"Sanpete, Utah, US",0,0,0,0
 2020-04-26,us,utah,39.37231946,-111.5758676,84049039.0,US,USA,840,49039.0,sanpete,"Sanpete, Utah, US",0,0,0,0
+2020-04-27,us,utah,39.37231946,-111.5758676,84049039.0,US,USA,840,49039.0,sanpete,"Sanpete, Utah, US",0,0,0,0
+2020-04-28,us,utah,39.37231946,-111.5758676,84049039.0,US,USA,840,49039.0,sanpete,"Sanpete, Utah, US",0,0,0,0
 2020-01-22,us,utah,39.37231946,-111.5758676,84070016.0,US,USA,840,,central-utah,"Central Utah, Utah, US",0,0,0,0
 2020-01-23,us,utah,39.37231946,-111.5758676,84070016.0,US,USA,840,,central-utah,"Central Utah, Utah, US",0,0,0,0
 2020-01-24,us,utah,39.37231946,-111.5758676,84070016.0,US,USA,840,,central-utah,"Central Utah, Utah, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,39.37231946,-111.5758676,84070016.0,US,USA,840,,central-utah,"Central Utah, Utah, US",21,0,0,0
 2020-04-25,us,utah,39.37231946,-111.5758676,84070016.0,US,USA,840,,central-utah,"Central Utah, Utah, US",21,0,0,0
 2020-04-26,us,utah,39.37231946,-111.5758676,84070016.0,US,USA,840,,central-utah,"Central Utah, Utah, US",21,0,0,0
+2020-04-27,us,utah,39.37231946,-111.5758676,84070016.0,US,USA,840,,central-utah,"Central Utah, Utah, US",22,1,0,0
+2020-04-28,us,utah,39.37231946,-111.5758676,84070016.0,US,USA,840,,central-utah,"Central Utah, Utah, US",22,0,0,0
 2020-01-22,us,utah,39.64834818,-110.5872512,84049007.0,US,USA,840,49007.0,carbon,"Carbon, Utah, US",0,0,0,0
 2020-01-23,us,utah,39.64834818,-110.5872512,84049007.0,US,USA,840,49007.0,carbon,"Carbon, Utah, US",0,0,0,0
 2020-01-24,us,utah,39.64834818,-110.5872512,84049007.0,US,USA,840,49007.0,carbon,"Carbon, Utah, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,39.64834818,-110.5872512,84049007.0,US,USA,840,49007.0,carbon,"Carbon, Utah, US",0,0,0,0
 2020-04-25,us,utah,39.64834818,-110.5872512,84049007.0,US,USA,840,49007.0,carbon,"Carbon, Utah, US",0,0,0,0
 2020-04-26,us,utah,39.64834818,-110.5872512,84049007.0,US,USA,840,49007.0,carbon,"Carbon, Utah, US",0,0,0,0
+2020-04-27,us,utah,39.64834818,-110.5872512,84049007.0,US,USA,840,49007.0,carbon,"Carbon, Utah, US",0,0,0,0
+2020-04-28,us,utah,39.64834818,-110.5872512,84049007.0,US,USA,840,49007.0,carbon,"Carbon, Utah, US",0,0,0,0
 2020-01-22,us,utah,39.70208397,-112.7809245,84049023.0,US,USA,840,49023.0,juab,"Juab, Utah, US",0,0,0,0
 2020-01-23,us,utah,39.70208397,-112.7809245,84049023.0,US,USA,840,49023.0,juab,"Juab, Utah, US",0,0,0,0
 2020-01-24,us,utah,39.70208397,-112.7809245,84049023.0,US,USA,840,49023.0,juab,"Juab, Utah, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,39.70208397,-112.7809245,84049023.0,US,USA,840,49023.0,juab,"Juab, Utah, US",0,0,0,0
 2020-04-25,us,utah,39.70208397,-112.7809245,84049023.0,US,USA,840,49023.0,juab,"Juab, Utah, US",0,0,0,0
 2020-04-26,us,utah,39.70208397,-112.7809245,84049023.0,US,USA,840,49023.0,juab,"Juab, Utah, US",0,0,0,0
+2020-04-27,us,utah,39.70208397,-112.7809245,84049023.0,US,USA,840,49023.0,juab,"Juab, Utah, US",0,0,0,0
+2020-04-28,us,utah,39.70208397,-112.7809245,84049023.0,US,USA,840,49023.0,juab,"Juab, Utah, US",0,0,0,0
 2020-01-22,us,utah,40.1166722,-111.6657662,84049049.0,US,USA,840,49049.0,utah,"Utah, Utah, US",0,0,0,0
 2020-01-23,us,utah,40.1166722,-111.6657662,84049049.0,US,USA,840,49049.0,utah,"Utah, Utah, US",0,0,0,0
 2020-01-24,us,utah,40.1166722,-111.6657662,84049049.0,US,USA,840,49049.0,utah,"Utah, Utah, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,40.1166722,-111.6657662,84049049.0,US,USA,840,49049.0,utah,"Utah, Utah, US",669,58,7,1
 2020-04-25,us,utah,40.1166722,-111.6657662,84049049.0,US,USA,840,49049.0,utah,"Utah, Utah, US",725,56,7,0
 2020-04-26,us,utah,40.1166722,-111.6657662,84049049.0,US,USA,840,49049.0,utah,"Utah, Utah, US",777,52,7,0
+2020-04-27,us,utah,40.1166722,-111.6657662,84049049.0,US,USA,840,49049.0,utah,"Utah, Utah, US",828,51,7,0
+2020-04-28,us,utah,40.1166722,-111.6657662,84049049.0,US,USA,840,49049.0,utah,"Utah, Utah, US",862,34,7,0
 2020-01-22,us,utah,40.12491499,-109.5174415,84049047.0,US,USA,840,49047.0,uintah,"Uintah, Utah, US",0,0,0,0
 2020-01-23,us,utah,40.12491499,-109.5174415,84049047.0,US,USA,840,49047.0,uintah,"Uintah, Utah, US",0,0,0,0
 2020-01-24,us,utah,40.12491499,-109.5174415,84049047.0,US,USA,840,49047.0,uintah,"Uintah, Utah, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,40.12491499,-109.5174415,84049047.0,US,USA,840,49047.0,uintah,"Uintah, Utah, US",0,0,0,0
 2020-04-25,us,utah,40.12491499,-109.5174415,84049047.0,US,USA,840,49047.0,uintah,"Uintah, Utah, US",0,0,0,0
 2020-04-26,us,utah,40.12491499,-109.5174415,84049047.0,US,USA,840,49047.0,uintah,"Uintah, Utah, US",0,0,0,0
+2020-04-27,us,utah,40.12491499,-109.5174415,84049047.0,US,USA,840,49047.0,uintah,"Uintah, Utah, US",0,0,0,0
+2020-04-28,us,utah,40.12491499,-109.5174415,84049047.0,US,USA,840,49047.0,uintah,"Uintah, Utah, US",0,0,0,0
 2020-01-22,us,utah,40.12491499,-109.5174415,84070019.0,US,USA,840,,tricounty,"TriCounty, Utah, US",0,0,0,0
 2020-01-23,us,utah,40.12491499,-109.5174415,84070019.0,US,USA,840,,tricounty,"TriCounty, Utah, US",0,0,0,0
 2020-01-24,us,utah,40.12491499,-109.5174415,84070019.0,US,USA,840,,tricounty,"TriCounty, Utah, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,40.12491499,-109.5174415,84070019.0,US,USA,840,,tricounty,"TriCounty, Utah, US",9,0,0,0
 2020-04-25,us,utah,40.12491499,-109.5174415,84070019.0,US,USA,840,,tricounty,"TriCounty, Utah, US",9,0,0,0
 2020-04-26,us,utah,40.12491499,-109.5174415,84070019.0,US,USA,840,,tricounty,"TriCounty, Utah, US",10,1,0,0
+2020-04-27,us,utah,40.12491499,-109.5174415,84070019.0,US,USA,840,,tricounty,"TriCounty, Utah, US",11,1,0,0
+2020-04-28,us,utah,40.12491499,-109.5174415,84070019.0,US,USA,840,,tricounty,"TriCounty, Utah, US",11,0,0,0
 2020-01-22,us,utah,40.29772254,-110.425237,84049013.0,US,USA,840,49013.0,duchesne,"Duchesne, Utah, US",0,0,0,0
 2020-01-23,us,utah,40.29772254,-110.425237,84049013.0,US,USA,840,49013.0,duchesne,"Duchesne, Utah, US",0,0,0,0
 2020-01-24,us,utah,40.29772254,-110.425237,84049013.0,US,USA,840,49013.0,duchesne,"Duchesne, Utah, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,40.29772254,-110.425237,84049013.0,US,USA,840,49013.0,duchesne,"Duchesne, Utah, US",0,0,0,0
 2020-04-25,us,utah,40.29772254,-110.425237,84049013.0,US,USA,840,49013.0,duchesne,"Duchesne, Utah, US",0,0,0,0
 2020-04-26,us,utah,40.29772254,-110.425237,84049013.0,US,USA,840,49013.0,duchesne,"Duchesne, Utah, US",0,0,0,0
+2020-04-27,us,utah,40.29772254,-110.425237,84049013.0,US,USA,840,49013.0,duchesne,"Duchesne, Utah, US",0,0,0,0
+2020-04-28,us,utah,40.29772254,-110.425237,84049013.0,US,USA,840,49013.0,duchesne,"Duchesne, Utah, US",0,0,0,0
 2020-01-22,us,utah,40.33110236,-111.1691419,84049051.0,US,USA,840,49051.0,wasatch,"Wasatch, Utah, US",0,0,0,0
 2020-01-23,us,utah,40.33110236,-111.1691419,84049051.0,US,USA,840,49051.0,wasatch,"Wasatch, Utah, US",0,0,0,0
 2020-01-24,us,utah,40.33110236,-111.1691419,84049051.0,US,USA,840,49051.0,wasatch,"Wasatch, Utah, US",0,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,40.33110236,-111.1691419,84049051.0,US,USA,840,49051.0,wasatch,"Wasatch, Utah, US",129,2,1,0
 2020-04-25,us,utah,40.33110236,-111.1691419,84049051.0,US,USA,840,49051.0,wasatch,"Wasatch, Utah, US",132,3,1,0
 2020-04-26,us,utah,40.33110236,-111.1691419,84049051.0,US,USA,840,49051.0,wasatch,"Wasatch, Utah, US",138,6,1,0
+2020-04-27,us,utah,40.33110236,-111.1691419,84049051.0,US,USA,840,49051.0,wasatch,"Wasatch, Utah, US",140,2,1,0
+2020-04-28,us,utah,40.33110236,-111.1691419,84049051.0,US,USA,840,49051.0,wasatch,"Wasatch, Utah, US",142,2,1,0
 2020-01-22,us,utah,40.44862644,-113.1295715,84049045.0,US,USA,840,49045.0,tooele,"Tooele, Utah, US",0,0,0,0
 2020-01-23,us,utah,40.44862644,-113.1295715,84049045.0,US,USA,840,49045.0,tooele,"Tooele, Utah, US",0,0,0,0
 2020-01-24,us,utah,40.44862644,-113.1295715,84049045.0,US,USA,840,49045.0,tooele,"Tooele, Utah, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,40.44862644,-113.1295715,84049045.0,US,USA,840,49045.0,tooele,"Tooele, Utah, US",47,1,0,0
 2020-04-25,us,utah,40.44862644,-113.1295715,84049045.0,US,USA,840,49045.0,tooele,"Tooele, Utah, US",52,5,0,0
 2020-04-26,us,utah,40.44862644,-113.1295715,84049045.0,US,USA,840,49045.0,tooele,"Tooele, Utah, US",54,2,0,0
+2020-04-27,us,utah,40.44862644,-113.1295715,84049045.0,US,USA,840,49045.0,tooele,"Tooele, Utah, US",56,2,0,0
+2020-04-28,us,utah,40.44862644,-113.1295715,84049045.0,US,USA,840,49045.0,tooele,"Tooele, Utah, US",58,2,0,0
 2020-01-22,us,utah,40.66616532,-111.9216011,84049035.0,US,USA,840,49035.0,salt-lake,"Salt Lake, Utah, US",0,0,0,0
 2020-01-23,us,utah,40.66616532,-111.9216011,84049035.0,US,USA,840,49035.0,salt-lake,"Salt Lake, Utah, US",0,0,0,0
 2020-01-24,us,utah,40.66616532,-111.9216011,84049035.0,US,USA,840,49035.0,salt-lake,"Salt Lake, Utah, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,40.66616532,-111.9216011,84049035.0,US,USA,840,49035.0,salt-lake,"Salt Lake, Utah, US",1975,86,23,3
 2020-04-25,us,utah,40.66616532,-111.9216011,84049035.0,US,USA,840,49035.0,salt-lake,"Salt Lake, Utah, US",2051,76,24,1
 2020-04-26,us,utah,40.66616532,-111.9216011,84049035.0,US,USA,840,49035.0,salt-lake,"Salt Lake, Utah, US",2144,93,24,0
+2020-04-27,us,utah,40.66616532,-111.9216011,84049035.0,US,USA,840,49035.0,salt-lake,"Salt Lake, Utah, US",2190,46,24,0
+2020-04-28,us,utah,40.66616532,-111.9216011,84049035.0,US,USA,840,49035.0,salt-lake,"Salt Lake, Utah, US",2256,66,24,0
 2020-01-22,us,utah,40.86688146,-110.9535882,84049043.0,US,USA,840,49043.0,summit,"Summit, Utah, US",0,0,0,0
 2020-01-23,us,utah,40.86688146,-110.9535882,84049043.0,US,USA,840,49043.0,summit,"Summit, Utah, US",0,0,0,0
 2020-01-24,us,utah,40.86688146,-110.9535882,84049043.0,US,USA,840,49043.0,summit,"Summit, Utah, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,40.86688146,-110.9535882,84049043.0,US,USA,840,49043.0,summit,"Summit, Utah, US",351,8,0,0
 2020-04-25,us,utah,40.86688146,-110.9535882,84049043.0,US,USA,840,49043.0,summit,"Summit, Utah, US",355,4,0,0
 2020-04-26,us,utah,40.86688146,-110.9535882,84049043.0,US,USA,840,49043.0,summit,"Summit, Utah, US",357,2,0,0
+2020-04-27,us,utah,40.86688146,-110.9535882,84049043.0,US,USA,840,49043.0,summit,"Summit, Utah, US",358,1,0,0
+2020-04-28,us,utah,40.86688146,-110.9535882,84049043.0,US,USA,840,49043.0,summit,"Summit, Utah, US",359,1,0,0
 2020-01-22,us,utah,40.88798265,-109.5121093,84049009.0,US,USA,840,49009.0,daggett,"Daggett, Utah, US",0,0,0,0
 2020-01-23,us,utah,40.88798265,-109.5121093,84049009.0,US,USA,840,49009.0,daggett,"Daggett, Utah, US",0,0,0,0
 2020-01-24,us,utah,40.88798265,-109.5121093,84049009.0,US,USA,840,49009.0,daggett,"Daggett, Utah, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,40.88798265,-109.5121093,84049009.0,US,USA,840,49009.0,daggett,"Daggett, Utah, US",0,0,0,0
 2020-04-25,us,utah,40.88798265,-109.5121093,84049009.0,US,USA,840,49009.0,daggett,"Daggett, Utah, US",0,0,0,0
 2020-04-26,us,utah,40.88798265,-109.5121093,84049009.0,US,USA,840,49009.0,daggett,"Daggett, Utah, US",0,0,0,0
+2020-04-27,us,utah,40.88798265,-109.5121093,84049009.0,US,USA,840,49009.0,daggett,"Daggett, Utah, US",0,0,0,0
+2020-04-28,us,utah,40.88798265,-109.5121093,84049009.0,US,USA,840,49009.0,daggett,"Daggett, Utah, US",0,0,0,0
 2020-01-22,us,utah,40.99001837,-112.1139997,84049011.0,US,USA,840,49011.0,davis,"Davis, Utah, US",0,0,0,0
 2020-01-23,us,utah,40.99001837,-112.1139997,84049011.0,US,USA,840,49011.0,davis,"Davis, Utah, US",0,0,0,0
 2020-01-24,us,utah,40.99001837,-112.1139997,84049011.0,US,USA,840,49011.0,davis,"Davis, Utah, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,40.99001837,-112.1139997,84049011.0,US,USA,840,49011.0,davis,"Davis, Utah, US",256,2,2,0
 2020-04-25,us,utah,40.99001837,-112.1139997,84049011.0,US,USA,840,49011.0,davis,"Davis, Utah, US",268,12,2,0
 2020-04-26,us,utah,40.99001837,-112.1139997,84049011.0,US,USA,840,49011.0,davis,"Davis, Utah, US",275,7,2,0
+2020-04-27,us,utah,40.99001837,-112.1139997,84049011.0,US,USA,840,49011.0,davis,"Davis, Utah, US",276,1,2,0
+2020-04-28,us,utah,40.99001837,-112.1139997,84049011.0,US,USA,840,49011.0,davis,"Davis, Utah, US",278,2,2,0
 2020-01-22,us,utah,41.08830262,-111.5727723,84049029.0,US,USA,840,49029.0,morgan,"Morgan, Utah, US",0,0,0,0
 2020-01-23,us,utah,41.08830262,-111.5727723,84049029.0,US,USA,840,49029.0,morgan,"Morgan, Utah, US",0,0,0,0
 2020-01-24,us,utah,41.08830262,-111.5727723,84049029.0,US,USA,840,49029.0,morgan,"Morgan, Utah, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,41.08830262,-111.5727723,84049029.0,US,USA,840,49029.0,morgan,"Morgan, Utah, US",0,0,0,0
 2020-04-25,us,utah,41.08830262,-111.5727723,84049029.0,US,USA,840,49029.0,morgan,"Morgan, Utah, US",0,0,0,0
 2020-04-26,us,utah,41.08830262,-111.5727723,84049029.0,US,USA,840,49029.0,morgan,"Morgan, Utah, US",0,0,0,0
+2020-04-27,us,utah,41.08830262,-111.5727723,84049029.0,US,USA,840,49029.0,morgan,"Morgan, Utah, US",0,0,0,0
+2020-04-28,us,utah,41.08830262,-111.5727723,84049029.0,US,USA,840,49029.0,morgan,"Morgan, Utah, US",0,0,0,0
 2020-01-22,us,utah,41.27116049,-111.9145117,84049057.0,US,USA,840,49057.0,weber,"Weber,Utah,US",0,0,0,0
 2020-01-23,us,utah,41.27116049,-111.9145117,84049057.0,US,USA,840,49057.0,weber,"Weber,Utah,US",0,0,0,0
 2020-01-24,us,utah,41.27116049,-111.9145117,84049057.0,US,USA,840,49057.0,weber,"Weber,Utah,US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,41.27116049,-111.9145117,84049057.0,US,USA,840,49057.0,weber,"Weber,Utah,US",0,0,0,0
 2020-04-25,us,utah,41.27116049,-111.9145117,84049057.0,US,USA,840,49057.0,weber,"Weber,Utah,US",0,0,0,0
 2020-04-26,us,utah,41.27116049,-111.9145117,84049057.0,US,USA,840,49057.0,weber,"Weber,Utah,US",0,0,0,0
+2020-04-27,us,utah,41.27116049,-111.9145117,84049057.0,US,USA,840,49057.0,weber,"Weber,Utah,US",0,0,0,0
+2020-04-28,us,utah,41.27116049,-111.9145117,84049057.0,US,USA,840,49057.0,weber,"Weber,Utah,US",0,0,0,0
 2020-01-22,us,utah,41.27116049,-111.9145117,84070020.0,US,USA,840,,weber-morgan,"Weber-Morgan, Utah, US",0,0,0,0
 2020-01-23,us,utah,41.27116049,-111.9145117,84070020.0,US,USA,840,,weber-morgan,"Weber-Morgan, Utah, US",0,0,0,0
 2020-01-24,us,utah,41.27116049,-111.9145117,84070020.0,US,USA,840,,weber-morgan,"Weber-Morgan, Utah, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,41.27116049,-111.9145117,84070020.0,US,USA,840,,weber-morgan,"Weber-Morgan, Utah, US",140,4,2,0
 2020-04-25,us,utah,41.27116049,-111.9145117,84070020.0,US,USA,840,,weber-morgan,"Weber-Morgan, Utah, US",143,3,2,0
 2020-04-26,us,utah,41.27116049,-111.9145117,84070020.0,US,USA,840,,weber-morgan,"Weber-Morgan, Utah, US",145,2,2,0
+2020-04-27,us,utah,41.27116049,-111.9145117,84070020.0,US,USA,840,,weber-morgan,"Weber-Morgan, Utah, US",148,3,2,0
+2020-04-28,us,utah,41.27116049,-111.9145117,84070020.0,US,USA,840,,weber-morgan,"Weber-Morgan, Utah, US",148,0,2,0
 2020-01-22,us,utah,41.52106798,-113.0832816,84049003.0,US,USA,840,49003.0,box-elder,"Box Elder, Utah, US",0,0,0,0
 2020-01-23,us,utah,41.52106798,-113.0832816,84049003.0,US,USA,840,49003.0,box-elder,"Box Elder, Utah, US",0,0,0,0
 2020-01-24,us,utah,41.52106798,-113.0832816,84049003.0,US,USA,840,49003.0,box-elder,"Box Elder, Utah, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,41.52106798,-113.0832816,84049003.0,US,USA,840,49003.0,box-elder,"Box Elder, Utah, US",0,0,0,0
 2020-04-25,us,utah,41.52106798,-113.0832816,84049003.0,US,USA,840,49003.0,box-elder,"Box Elder, Utah, US",0,0,0,0
 2020-04-26,us,utah,41.52106798,-113.0832816,84049003.0,US,USA,840,49003.0,box-elder,"Box Elder, Utah, US",0,0,0,0
+2020-04-27,us,utah,41.52106798,-113.0832816,84049003.0,US,USA,840,49003.0,box-elder,"Box Elder, Utah, US",0,0,0,0
+2020-04-28,us,utah,41.52106798,-113.0832816,84049003.0,US,USA,840,49003.0,box-elder,"Box Elder, Utah, US",0,0,0,0
 2020-01-22,us,utah,41.52106798,-113.0832816,84070015.0,US,USA,840,,bear-river,"Bear River, Utah, US",0,0,0,0
 2020-01-23,us,utah,41.52106798,-113.0832816,84070015.0,US,USA,840,,bear-river,"Bear River, Utah, US",0,0,0,0
 2020-01-24,us,utah,41.52106798,-113.0832816,84070015.0,US,USA,840,,bear-river,"Bear River, Utah, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,41.52106798,-113.0832816,84070015.0,US,USA,840,,bear-river,"Bear River, Utah, US",59,3,1,0
 2020-04-25,us,utah,41.52106798,-113.0832816,84070015.0,US,USA,840,,bear-river,"Bear River, Utah, US",58,-1,1,0
 2020-04-26,us,utah,41.52106798,-113.0832816,84070015.0,US,USA,840,,bear-river,"Bear River, Utah, US",60,2,1,0
+2020-04-27,us,utah,41.52106798,-113.0832816,84070015.0,US,USA,840,,bear-river,"Bear River, Utah, US",60,0,1,0
+2020-04-28,us,utah,41.52106798,-113.0832816,84070015.0,US,USA,840,,bear-river,"Bear River, Utah, US",60,0,1,0
 2020-01-22,us,utah,41.63137678,-111.2445105,84049033.0,US,USA,840,49033.0,rich,"Rich, Utah, US",0,0,0,0
 2020-01-23,us,utah,41.63137678,-111.2445105,84049033.0,US,USA,840,49033.0,rich,"Rich, Utah, US",0,0,0,0
 2020-01-24,us,utah,41.63137678,-111.2445105,84049033.0,US,USA,840,49033.0,rich,"Rich, Utah, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,41.63137678,-111.2445105,84049033.0,US,USA,840,49033.0,rich,"Rich, Utah, US",0,0,0,0
 2020-04-25,us,utah,41.63137678,-111.2445105,84049033.0,US,USA,840,49033.0,rich,"Rich, Utah, US",0,0,0,0
 2020-04-26,us,utah,41.63137678,-111.2445105,84049033.0,US,USA,840,49033.0,rich,"Rich, Utah, US",0,0,0,0
+2020-04-27,us,utah,41.63137678,-111.2445105,84049033.0,US,USA,840,49033.0,rich,"Rich, Utah, US",0,0,0,0
+2020-04-28,us,utah,41.63137678,-111.2445105,84049033.0,US,USA,840,49033.0,rich,"Rich, Utah, US",0,0,0,0
 2020-01-22,us,utah,41.72330587,-111.7443667,84049005.0,US,USA,840,49005.0,cache,"Cache, Utah, US",0,0,0,0
 2020-01-23,us,utah,41.72330587,-111.7443667,84049005.0,US,USA,840,49005.0,cache,"Cache, Utah, US",0,0,0,0
 2020-01-24,us,utah,41.72330587,-111.7443667,84049005.0,US,USA,840,49005.0,cache,"Cache, Utah, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,41.72330587,-111.7443667,84049005.0,US,USA,840,49005.0,cache,"Cache, Utah, US",0,0,0,0
 2020-04-25,us,utah,41.72330587,-111.7443667,84049005.0,US,USA,840,49005.0,cache,"Cache, Utah, US",0,0,0,0
 2020-04-26,us,utah,41.72330587,-111.7443667,84049005.0,US,USA,840,49005.0,cache,"Cache, Utah, US",0,0,0,0
+2020-04-27,us,utah,41.72330587,-111.7443667,84049005.0,US,USA,840,49005.0,cache,"Cache, Utah, US",0,0,0,0
+2020-04-28,us,utah,41.72330587,-111.7443667,84049005.0,US,USA,840,49005.0,cache,"Cache, Utah, US",0,0,0,0
 2020-01-22,us,utah,,,,US,USA,840,90049.0,southwest,"Southwest, Utah, US",0,0,0,0
 2020-01-23,us,utah,,,,US,USA,840,90049.0,southwest,"Southwest, Utah, US",0,0,0,0
 2020-01-24,us,utah,,,,US,USA,840,90049.0,southwest,"Southwest, Utah, US",0,0,0,0
@@ -3647,3 +3721,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,utah,,,,US,USA,840,90049.0,southwest,"Southwest, Utah, US",0,0,0,0
 2020-04-25,us,utah,,,,US,USA,840,90049.0,southwest,"Southwest, Utah, US",0,0,0,0
 2020-04-26,us,utah,,,,US,USA,840,90049.0,southwest,"Southwest, Utah, US",0,0,0,0
+2020-04-27,us,utah,,,,US,USA,840,90049.0,southwest,"Southwest, Utah, US",0,0,0,0
+2020-04-28,us,utah,,,,US,USA,840,90049.0,southwest,"Southwest, Utah, US",0,0,0,0

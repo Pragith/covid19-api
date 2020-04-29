@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,0.0,0.0,84080042.0,US,USA,840,80042.0,out-of-pa,"Out of PA, Pennsylvania, US",0,0,0,0
 2020-04-25,us,pennsylvania,0.0,0.0,84080042.0,US,USA,840,80042.0,out-of-pa,"Out of PA, Pennsylvania, US",0,0,0,0
 2020-04-26,us,pennsylvania,0.0,0.0,84080042.0,US,USA,840,80042.0,out-of-pa,"Out of PA, Pennsylvania, US",0,0,0,0
+2020-04-27,us,pennsylvania,0.0,0.0,84080042.0,US,USA,840,80042.0,out-of-pa,"Out of PA, Pennsylvania, US",0,0,0,0
+2020-04-28,us,pennsylvania,0.0,0.0,84080042.0,US,USA,840,80042.0,out-of-pa,"Out of PA, Pennsylvania, US",0,0,0,0
 2020-01-22,us,pennsylvania,0.0,0.0,84090042.0,US,USA,840,90042.0,unassigned,"Unassigned, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,0.0,0.0,84090042.0,US,USA,840,90042.0,unassigned,"Unassigned, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,0.0,0.0,84090042.0,US,USA,840,90042.0,unassigned,"Unassigned, Pennsylvania, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,0.0,0.0,84090042.0,US,USA,840,90042.0,unassigned,"Unassigned, Pennsylvania, US",0,0,0,0
 2020-04-25,us,pennsylvania,0.0,0.0,84090042.0,US,USA,840,90042.0,unassigned,"Unassigned, Pennsylvania, US",0,0,0,0
 2020-04-26,us,pennsylvania,0.0,0.0,84090042.0,US,USA,840,90042.0,unassigned,"Unassigned, Pennsylvania, US",0,0,0,0
+2020-04-27,us,pennsylvania,0.0,0.0,84090042.0,US,USA,840,90042.0,unassigned,"Unassigned, Pennsylvania, US",0,0,0,0
+2020-04-28,us,pennsylvania,0.0,0.0,84090042.0,US,USA,840,90042.0,unassigned,"Unassigned, Pennsylvania, US",0,0,0,0
 2020-01-22,us,pennsylvania,39.85746531,-80.22357106,84042059.0,US,USA,840,42059.0,greene,"Greene, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,39.85746531,-80.22357106,84042059.0,US,USA,840,42059.0,greene,"Greene, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,39.85746531,-80.22357106,84042059.0,US,USA,840,42059.0,greene,"Greene, Pennsylvania, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,39.85746531,-80.22357106,84042059.0,US,USA,840,42059.0,greene,"Greene, Pennsylvania, US",25,0,0,0
 2020-04-25,us,pennsylvania,39.85746531,-80.22357106,84042059.0,US,USA,840,42059.0,greene,"Greene, Pennsylvania, US",25,0,0,0
 2020-04-26,us,pennsylvania,39.85746531,-80.22357106,84042059.0,US,USA,840,42059.0,greene,"Greene, Pennsylvania, US",25,0,0,0
+2020-04-27,us,pennsylvania,39.85746531,-80.22357106,84042059.0,US,USA,840,42059.0,greene,"Greene, Pennsylvania, US",25,0,0,0
+2020-04-28,us,pennsylvania,39.85746531,-80.22357106,84042059.0,US,USA,840,42059.0,greene,"Greene, Pennsylvania, US",26,1,0,0
 2020-01-22,us,pennsylvania,39.87140411,-77.21610347,84042001.0,US,USA,840,42001.0,adams,"Adams, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,39.87140411,-77.21610347,84042001.0,US,USA,840,42001.0,adams,"Adams, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,39.87140411,-77.21610347,84042001.0,US,USA,840,42001.0,adams,"Adams, Pennsylvania, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,39.87140411,-77.21610347,84042001.0,US,USA,840,42001.0,adams,"Adams, Pennsylvania, US",110,15,2,0
 2020-04-25,us,pennsylvania,39.87140411,-77.21610347,84042001.0,US,USA,840,42001.0,adams,"Adams, Pennsylvania, US",113,3,1,-1
 2020-04-26,us,pennsylvania,39.87140411,-77.21610347,84042001.0,US,USA,840,42001.0,adams,"Adams, Pennsylvania, US",117,4,1,0
+2020-04-27,us,pennsylvania,39.87140411,-77.21610347,84042001.0,US,USA,840,42001.0,adams,"Adams, Pennsylvania, US",122,5,1,0
+2020-04-28,us,pennsylvania,39.87140411,-77.21610347,84042001.0,US,USA,840,42001.0,adams,"Adams, Pennsylvania, US",124,2,1,0
 2020-01-22,us,pennsylvania,39.91680171,-75.40243663,84042045.0,US,USA,840,42045.0,delaware,"Delaware, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,39.91680171,-75.40243663,84042045.0,US,USA,840,42045.0,delaware,"Delaware, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,39.91680171,-75.40243663,84042045.0,US,USA,840,42045.0,delaware,"Delaware, Pennsylvania, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,39.91680171,-75.40243663,84042045.0,US,USA,840,42045.0,delaware,"Delaware, Pennsylvania, US",3055,153,129,6
 2020-04-25,us,pennsylvania,39.91680171,-75.40243663,84042045.0,US,USA,840,42045.0,delaware,"Delaware, Pennsylvania, US",3161,106,140,11
 2020-04-26,us,pennsylvania,39.91680171,-75.40243663,84042045.0,US,USA,840,42045.0,delaware,"Delaware, Pennsylvania, US",3281,120,141,1
+2020-04-27,us,pennsylvania,39.91680171,-75.40243663,84042045.0,US,USA,840,42045.0,delaware,"Delaware, Pennsylvania, US",3361,80,142,1
+2020-04-28,us,pennsylvania,39.91680171,-75.40243663,84042045.0,US,USA,840,42045.0,delaware,"Delaware, Pennsylvania, US",3463,102,161,19
 2020-01-22,us,pennsylvania,39.92041012,-79.64291195,84042051.0,US,USA,840,42051.0,fayette,"Fayette, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,39.92041012,-79.64291195,84042051.0,US,USA,840,42051.0,fayette,"Fayette, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,39.92041012,-79.64291195,84042051.0,US,USA,840,42051.0,fayette,"Fayette, Pennsylvania, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,39.92041012,-79.64291195,84042051.0,US,USA,840,42051.0,fayette,"Fayette, Pennsylvania, US",75,4,4,1
 2020-04-25,us,pennsylvania,39.92041012,-79.64291195,84042051.0,US,USA,840,42051.0,fayette,"Fayette, Pennsylvania, US",79,4,4,0
 2020-04-26,us,pennsylvania,39.92041012,-79.64291195,84042051.0,US,USA,840,42051.0,fayette,"Fayette, Pennsylvania, US",79,0,4,0
+2020-04-27,us,pennsylvania,39.92041012,-79.64291195,84042051.0,US,USA,840,42051.0,fayette,"Fayette, Pennsylvania, US",79,0,4,0
+2020-04-28,us,pennsylvania,39.92041012,-79.64291195,84042051.0,US,USA,840,42051.0,fayette,"Fayette, Pennsylvania, US",79,0,4,0
 2020-01-22,us,pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,york,"York, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,york,"York, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,york,"York, Pennsylvania, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,york,"York, Pennsylvania, US",563,17,14,0
 2020-04-25,us,pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,york,"York, Pennsylvania, US",578,15,8,-6
 2020-04-26,us,pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,york,"York, Pennsylvania, US",593,15,8,0
+2020-04-27,us,pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,york,"York, Pennsylvania, US",606,13,9,1
+2020-04-28,us,pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,york,"York, Pennsylvania, US",614,8,9,0
 2020-01-22,us,pennsylvania,39.92913544,-78.11163677,84042057.0,US,USA,840,42057.0,fulton,"Fulton, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,39.92913544,-78.11163677,84042057.0,US,USA,840,42057.0,fulton,"Fulton, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,39.92913544,-78.11163677,84042057.0,US,USA,840,42057.0,fulton,"Fulton, Pennsylvania, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,39.92913544,-78.11163677,84042057.0,US,USA,840,42057.0,fulton,"Fulton, Pennsylvania, US",2,0,0,0
 2020-04-25,us,pennsylvania,39.92913544,-78.11163677,84042057.0,US,USA,840,42057.0,fulton,"Fulton, Pennsylvania, US",3,1,0,0
 2020-04-26,us,pennsylvania,39.92913544,-78.11163677,84042057.0,US,USA,840,42057.0,fulton,"Fulton, Pennsylvania, US",3,0,0,0
+2020-04-27,us,pennsylvania,39.92913544,-78.11163677,84042057.0,US,USA,840,42057.0,fulton,"Fulton, Pennsylvania, US",3,0,0,0
+2020-04-28,us,pennsylvania,39.92913544,-78.11163677,84042057.0,US,USA,840,42057.0,fulton,"Fulton, Pennsylvania, US",3,0,0,0
 2020-01-22,us,pennsylvania,39.92956518,-77.72157791,84042055.0,US,USA,840,42055.0,franklin,"Franklin, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,39.92956518,-77.72157791,84042055.0,US,USA,840,42055.0,franklin,"Franklin, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,39.92956518,-77.72157791,84042055.0,US,USA,840,42055.0,franklin,"Franklin, Pennsylvania, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,39.92956518,-77.72157791,84042055.0,US,USA,840,42055.0,franklin,"Franklin, Pennsylvania, US",164,13,10,0
 2020-04-25,us,pennsylvania,39.92956518,-77.72157791,84042055.0,US,USA,840,42055.0,franklin,"Franklin, Pennsylvania, US",181,17,10,0
 2020-04-26,us,pennsylvania,39.92956518,-77.72157791,84042055.0,US,USA,840,42055.0,franklin,"Franklin, Pennsylvania, US",205,24,2,-8
+2020-04-27,us,pennsylvania,39.92956518,-77.72157791,84042055.0,US,USA,840,42055.0,franklin,"Franklin, Pennsylvania, US",227,22,2,0
+2020-04-28,us,pennsylvania,39.92956518,-77.72157791,84042055.0,US,USA,840,42055.0,franklin,"Franklin, Pennsylvania, US",237,10,4,2
 2020-01-22,us,pennsylvania,39.97172723,-79.02699593,84042111.0,US,USA,840,42111.0,somerset,"Somerset, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,39.97172723,-79.02699593,84042111.0,US,USA,840,42111.0,somerset,"Somerset, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,39.97172723,-79.02699593,84042111.0,US,USA,840,42111.0,somerset,"Somerset, Pennsylvania, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,39.97172723,-79.02699593,84042111.0,US,USA,840,42111.0,somerset,"Somerset, Pennsylvania, US",22,2,0,0
 2020-04-25,us,pennsylvania,39.97172723,-79.02699593,84042111.0,US,USA,840,42111.0,somerset,"Somerset, Pennsylvania, US",25,3,0,0
 2020-04-26,us,pennsylvania,39.97172723,-79.02699593,84042111.0,US,USA,840,42111.0,somerset,"Somerset, Pennsylvania, US",25,0,0,0
+2020-04-27,us,pennsylvania,39.97172723,-79.02699593,84042111.0,US,USA,840,42111.0,somerset,"Somerset, Pennsylvania, US",25,0,0,0
+2020-04-28,us,pennsylvania,39.97172723,-79.02699593,84042111.0,US,USA,840,42111.0,somerset,"Somerset, Pennsylvania, US",26,1,0,0
 2020-01-22,us,pennsylvania,39.97291773,-75.74768357,84042029.0,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,39.97291773,-75.74768357,84042029.0,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,39.97291773,-75.74768357,84042029.0,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,39.97291773,-75.74768357,84042029.0,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",1064,75,77,10
 2020-04-25,us,pennsylvania,39.97291773,-75.74768357,84042029.0,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",1134,70,82,5
 2020-04-26,us,pennsylvania,39.97291773,-75.74768357,84042029.0,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",1177,43,82,0
+2020-04-27,us,pennsylvania,39.97291773,-75.74768357,84042029.0,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",1214,37,81,-1
+2020-04-28,us,pennsylvania,39.97291773,-75.74768357,84042029.0,US,USA,840,42029.0,chester,"Chester, Pennsylvania, US",1256,42,85,4
 2020-01-22,us,pennsylvania,40.00338507,-75.1379271,84042101.0,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.00338507,-75.1379271,84042101.0,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.00338507,-75.1379271,84042101.0,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.00338507,-75.1379271,84042101.0,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",11877,651,449,6
 2020-04-25,us,pennsylvania,40.00338507,-75.1379271,84042101.0,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",11877,0,449,0
 2020-04-26,us,pennsylvania,40.00338507,-75.1379271,84042101.0,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",12566,689,472,23
+2020-04-27,us,pennsylvania,40.00338507,-75.1379271,84042101.0,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",12868,302,484,12
+2020-04-28,us,pennsylvania,40.00338507,-75.1379271,84042101.0,US,USA,840,42101.0,philadelphia,"Philadelphia, Pennsylvania, US",13445,577,516,32
 2020-01-22,us,pennsylvania,40.00522157,-78.48998442,84042009.0,US,USA,840,42009.0,bedford,"Bedford, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.00522157,-78.48998442,84042009.0,US,USA,840,42009.0,bedford,"Bedford, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.00522157,-78.48998442,84042009.0,US,USA,840,42009.0,bedford,"Bedford, Pennsylvania, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.00522157,-78.48998442,84042009.0,US,USA,840,42009.0,bedford,"Bedford, Pennsylvania, US",21,1,1,0
 2020-04-25,us,pennsylvania,40.00522157,-78.48998442,84042009.0,US,USA,840,42009.0,bedford,"Bedford, Pennsylvania, US",21,0,1,0
 2020-04-26,us,pennsylvania,40.00522157,-78.48998442,84042009.0,US,USA,840,42009.0,bedford,"Bedford, Pennsylvania, US",21,0,1,0
+2020-04-27,us,pennsylvania,40.00522157,-78.48998442,84042009.0,US,USA,840,42009.0,bedford,"Bedford, Pennsylvania, US",21,0,1,0
+2020-04-28,us,pennsylvania,40.00522157,-78.48998442,84042009.0,US,USA,840,42009.0,bedford,"Bedford, Pennsylvania, US",22,1,1,0
 2020-01-22,us,pennsylvania,40.03904563,-76.24770128,84042071.0,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.03904563,-76.24770128,84042071.0,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.03904563,-76.24770128,84042071.0,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.03904563,-76.24770128,84042071.0,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",1451,92,107,0
 2020-04-25,us,pennsylvania,40.03904563,-76.24770128,84042071.0,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",1501,50,139,32
 2020-04-26,us,pennsylvania,40.03904563,-76.24770128,84042071.0,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",1577,76,140,1
+2020-04-27,us,pennsylvania,40.03904563,-76.24770128,84042071.0,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",1633,56,152,12
+2020-04-28,us,pennsylvania,40.03904563,-76.24770128,84042071.0,US,USA,840,42071.0,lancaster,"Lancaster, Pennsylvania, US",1678,45,164,12
 2020-01-22,us,pennsylvania,40.1625372,-77.26130755,84042041.0,US,USA,840,42041.0,cumberland,"Cumberland, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.1625372,-77.26130755,84042041.0,US,USA,840,42041.0,cumberland,"Cumberland, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.1625372,-77.26130755,84042041.0,US,USA,840,42041.0,cumberland,"Cumberland, Pennsylvania, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.1625372,-77.26130755,84042041.0,US,USA,840,42041.0,cumberland,"Cumberland, Pennsylvania, US",240,11,8,1
 2020-04-25,us,pennsylvania,40.1625372,-77.26130755,84042041.0,US,USA,840,42041.0,cumberland,"Cumberland, Pennsylvania, US",250,10,8,0
 2020-04-26,us,pennsylvania,40.1625372,-77.26130755,84042041.0,US,USA,840,42041.0,cumberland,"Cumberland, Pennsylvania, US",267,17,8,0
+2020-04-27,us,pennsylvania,40.1625372,-77.26130755,84042041.0,US,USA,840,42041.0,cumberland,"Cumberland, Pennsylvania, US",282,15,9,1
+2020-04-28,us,pennsylvania,40.1625372,-77.26130755,84042041.0,US,USA,840,42041.0,cumberland,"Cumberland, Pennsylvania, US",296,14,10,1
 2020-01-22,us,pennsylvania,40.19208869,-80.24582867,84042125.0,US,USA,840,42125.0,washington,"Washington, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.19208869,-80.24582867,84042125.0,US,USA,840,42125.0,washington,"Washington, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.19208869,-80.24582867,84042125.0,US,USA,840,42125.0,washington,"Washington, Pennsylvania, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.19208869,-80.24582867,84042125.0,US,USA,840,42125.0,washington,"Washington, Pennsylvania, US",96,4,2,0
 2020-04-25,us,pennsylvania,40.19208869,-80.24582867,84042125.0,US,USA,840,42125.0,washington,"Washington, Pennsylvania, US",99,3,2,0
 2020-04-26,us,pennsylvania,40.19208869,-80.24582867,84042125.0,US,USA,840,42125.0,washington,"Washington, Pennsylvania, US",101,2,2,0
+2020-04-27,us,pennsylvania,40.19208869,-80.24582867,84042125.0,US,USA,840,42125.0,washington,"Washington, Pennsylvania, US",107,6,2,0
+2020-04-28,us,pennsylvania,40.19208869,-80.24582867,84042125.0,US,USA,840,42125.0,washington,"Washington, Pennsylvania, US",109,2,2,0
 2020-01-22,us,pennsylvania,40.21053671,-75.36652296,84042091.0,US,USA,840,42091.0,montgomery,"Montgomery, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.21053671,-75.36652296,84042091.0,US,USA,840,42091.0,montgomery,"Montgomery, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.21053671,-75.36652296,84042091.0,US,USA,840,42091.0,montgomery,"Montgomery, Pennsylvania, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.21053671,-75.36652296,84042091.0,US,USA,840,42091.0,montgomery,"Montgomery, Pennsylvania, US",3525,130,208,-22
 2020-04-25,us,pennsylvania,40.21053671,-75.36652296,84042091.0,US,USA,840,42091.0,montgomery,"Montgomery, Pennsylvania, US",3627,102,214,6
 2020-04-26,us,pennsylvania,40.21053671,-75.36652296,84042091.0,US,USA,840,42091.0,montgomery,"Montgomery, Pennsylvania, US",3733,106,217,3
+2020-04-27,us,pennsylvania,40.21053671,-75.36652296,84042091.0,US,USA,840,42091.0,montgomery,"Montgomery, Pennsylvania, US",3817,84,232,15
+2020-04-28,us,pennsylvania,40.21053671,-75.36652296,84042091.0,US,USA,840,42091.0,montgomery,"Montgomery, Pennsylvania, US",4043,226,249,17
 2020-01-22,us,pennsylvania,40.31377979999999,-79.46615476,84042129.0,US,USA,840,42129.0,westmoreland,"Westmoreland, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.31377979999999,-79.46615476,84042129.0,US,USA,840,42129.0,westmoreland,"Westmoreland, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.31377979999999,-79.46615476,84042129.0,US,USA,840,42129.0,westmoreland,"Westmoreland, Pennsylvania, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.31377979999999,-79.46615476,84042129.0,US,USA,840,42129.0,westmoreland,"Westmoreland, Pennsylvania, US",317,10,20,0
 2020-04-25,us,pennsylvania,40.31377979999999,-79.46615476,84042129.0,US,USA,840,42129.0,westmoreland,"Westmoreland, Pennsylvania, US",360,43,19,-1
 2020-04-26,us,pennsylvania,40.31377979999999,-79.46615476,84042129.0,US,USA,840,42129.0,westmoreland,"Westmoreland, Pennsylvania, US",374,14,19,0
+2020-04-27,us,pennsylvania,40.31377979999999,-79.46615476,84042129.0,US,USA,840,42129.0,westmoreland,"Westmoreland, Pennsylvania, US",377,3,19,0
+2020-04-28,us,pennsylvania,40.31377979999999,-79.46615476,84042129.0,US,USA,840,42129.0,westmoreland,"Westmoreland, Pennsylvania, US",383,6,20,1
 2020-01-22,us,pennsylvania,40.33682119,-75.10836643,84042017.0,US,USA,840,42017.0,bucks,"Bucks, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.33682119,-75.10836643,84042017.0,US,USA,840,42017.0,bucks,"Bucks, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.33682119,-75.10836643,84042017.0,US,USA,840,42017.0,bucks,"Bucks, Pennsylvania, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.33682119,-75.10836643,84042017.0,US,USA,840,42017.0,bucks,"Bucks, Pennsylvania, US",2469,148,135,9
 2020-04-25,us,pennsylvania,40.33682119,-75.10836643,84042017.0,US,USA,840,42017.0,bucks,"Bucks, Pennsylvania, US",2541,72,141,6
 2020-04-26,us,pennsylvania,40.33682119,-75.10836643,84042017.0,US,USA,840,42017.0,bucks,"Bucks, Pennsylvania, US",2541,0,141,0
+2020-04-27,us,pennsylvania,40.33682119,-75.10836643,84042017.0,US,USA,840,42017.0,bucks,"Bucks, Pennsylvania, US",2585,44,148,7
+2020-04-28,us,pennsylvania,40.33682119,-75.10836643,84042017.0,US,USA,840,42017.0,bucks,"Bucks, Pennsylvania, US",2675,90,168,20
 2020-01-22,us,pennsylvania,40.36680311,-76.45651841,84042075.0,US,USA,840,42075.0,lebanon,"Lebanon, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.36680311,-76.45651841,84042075.0,US,USA,840,42075.0,lebanon,"Lebanon, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.36680311,-76.45651841,84042075.0,US,USA,840,42075.0,lebanon,"Lebanon, Pennsylvania, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.36680311,-76.45651841,84042075.0,US,USA,840,42075.0,lebanon,"Lebanon, Pennsylvania, US",575,31,8,0
 2020-04-25,us,pennsylvania,40.36680311,-76.45651841,84042075.0,US,USA,840,42075.0,lebanon,"Lebanon, Pennsylvania, US",592,17,7,-1
 2020-04-26,us,pennsylvania,40.36680311,-76.45651841,84042075.0,US,USA,840,42075.0,lebanon,"Lebanon, Pennsylvania, US",612,20,7,0
+2020-04-27,us,pennsylvania,40.36680311,-76.45651841,84042075.0,US,USA,840,42075.0,lebanon,"Lebanon, Pennsylvania, US",621,9,7,0
+2020-04-28,us,pennsylvania,40.36680311,-76.45651841,84042075.0,US,USA,840,42075.0,lebanon,"Lebanon, Pennsylvania, US",635,14,8,1
 2020-01-22,us,pennsylvania,40.40206612,-77.26297447,84042099.0,US,USA,840,42099.0,perry,"Perry, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.40206612,-77.26297447,84042099.0,US,USA,840,42099.0,perry,"Perry, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.40206612,-77.26297447,84042099.0,US,USA,840,42099.0,perry,"Perry, Pennsylvania, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.40206612,-77.26297447,84042099.0,US,USA,840,42099.0,perry,"Perry, Pennsylvania, US",25,2,1,0
 2020-04-25,us,pennsylvania,40.40206612,-77.26297447,84042099.0,US,USA,840,42099.0,perry,"Perry, Pennsylvania, US",26,1,1,0
 2020-04-26,us,pennsylvania,40.40206612,-77.26297447,84042099.0,US,USA,840,42099.0,perry,"Perry, Pennsylvania, US",26,0,1,0
+2020-04-27,us,pennsylvania,40.40206612,-77.26297447,84042099.0,US,USA,840,42099.0,perry,"Perry, Pennsylvania, US",26,0,1,0
+2020-04-28,us,pennsylvania,40.40206612,-77.26297447,84042099.0,US,USA,840,42099.0,perry,"Perry, Pennsylvania, US",27,1,1,0
 2020-01-22,us,pennsylvania,40.41377078,-76.77993242,84042043.0,US,USA,840,42043.0,dauphin,"Dauphin, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.41377078,-76.77993242,84042043.0,US,USA,840,42043.0,dauphin,"Dauphin, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.41377078,-76.77993242,84042043.0,US,USA,840,42043.0,dauphin,"Dauphin, Pennsylvania, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.41377078,-76.77993242,84042043.0,US,USA,840,42043.0,dauphin,"Dauphin, Pennsylvania, US",468,23,19,3
 2020-04-25,us,pennsylvania,40.41377078,-76.77993242,84042043.0,US,USA,840,42043.0,dauphin,"Dauphin, Pennsylvania, US",492,24,18,-1
 2020-04-26,us,pennsylvania,40.41377078,-76.77993242,84042043.0,US,USA,840,42043.0,dauphin,"Dauphin, Pennsylvania, US",519,27,18,0
+2020-04-27,us,pennsylvania,40.41377078,-76.77993242,84042043.0,US,USA,840,42043.0,dauphin,"Dauphin, Pennsylvania, US",529,10,21,3
+2020-04-28,us,pennsylvania,40.41377078,-76.77993242,84042043.0,US,USA,840,42043.0,dauphin,"Dauphin, Pennsylvania, US",553,24,20,-1
 2020-01-22,us,pennsylvania,40.41570541,-75.92457766,84042011.0,US,USA,840,42011.0,berks,"Berks, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.41570541,-75.92457766,84042011.0,US,USA,840,42011.0,berks,"Berks, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.41570541,-75.92457766,84042011.0,US,USA,840,42011.0,berks,"Berks, Pennsylvania, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.41570541,-75.92457766,84042011.0,US,USA,840,42011.0,berks,"Berks, Pennsylvania, US",2339,127,87,1
 2020-04-25,us,pennsylvania,40.41570541,-75.92457766,84042011.0,US,USA,840,42011.0,berks,"Berks, Pennsylvania, US",2406,67,88,1
 2020-04-26,us,pennsylvania,40.41570541,-75.92457766,84042011.0,US,USA,840,42011.0,berks,"Berks, Pennsylvania, US",2491,85,88,0
+2020-04-27,us,pennsylvania,40.41570541,-75.92457766,84042011.0,US,USA,840,42011.0,berks,"Berks, Pennsylvania, US",2526,35,89,1
+2020-04-28,us,pennsylvania,40.41570541,-75.92457766,84042011.0,US,USA,840,42011.0,berks,"Berks, Pennsylvania, US",2605,79,91,2
 2020-01-22,us,pennsylvania,40.42162652,-77.97673273,84042061.0,US,USA,840,42061.0,huntingdon,"Huntingdon, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.42162652,-77.97673273,84042061.0,US,USA,840,42061.0,huntingdon,"Huntingdon, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.42162652,-77.97673273,84042061.0,US,USA,840,42061.0,huntingdon,"Huntingdon, Pennsylvania, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.42162652,-77.97673273,84042061.0,US,USA,840,42061.0,huntingdon,"Huntingdon, Pennsylvania, US",20,0,0,0
 2020-04-25,us,pennsylvania,40.42162652,-77.97673273,84042061.0,US,USA,840,42061.0,huntingdon,"Huntingdon, Pennsylvania, US",22,2,0,0
 2020-04-26,us,pennsylvania,40.42162652,-77.97673273,84042061.0,US,USA,840,42061.0,huntingdon,"Huntingdon, Pennsylvania, US",22,0,0,0
+2020-04-27,us,pennsylvania,40.42162652,-77.97673273,84042061.0,US,USA,840,42061.0,huntingdon,"Huntingdon, Pennsylvania, US",24,2,0,0
+2020-04-28,us,pennsylvania,40.42162652,-77.97673273,84042061.0,US,USA,840,42061.0,huntingdon,"Huntingdon, Pennsylvania, US",26,2,0,0
 2020-01-22,us,pennsylvania,40.46809875,-79.98167747,84042003.0,US,USA,840,42003.0,allegheny,"Allegheny, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.46809875,-79.98167747,84042003.0,US,USA,840,42003.0,allegheny,"Allegheny, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.46809875,-79.98167747,84042003.0,US,USA,840,42003.0,allegheny,"Allegheny, Pennsylvania, US",0,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.46809875,-79.98167747,84042003.0,US,USA,840,42003.0,allegheny,"Allegheny, Pennsylvania, US",1177,28,74,0
 2020-04-25,us,pennsylvania,40.46809875,-79.98167747,84042003.0,US,USA,840,42003.0,allegheny,"Allegheny, Pennsylvania, US",1198,21,73,-1
 2020-04-26,us,pennsylvania,40.46809875,-79.98167747,84042003.0,US,USA,840,42003.0,allegheny,"Allegheny, Pennsylvania, US",1211,13,73,0
+2020-04-27,us,pennsylvania,40.46809875,-79.98167747,84042003.0,US,USA,840,42003.0,allegheny,"Allegheny, Pennsylvania, US",1224,13,79,6
+2020-04-28,us,pennsylvania,40.46809875,-79.98167747,84042003.0,US,USA,840,42003.0,allegheny,"Allegheny, Pennsylvania, US",1235,11,87,8
 2020-01-22,us,pennsylvania,40.47961444,-78.34917412,84042013.0,US,USA,840,42013.0,blair,"Blair, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.47961444,-78.34917412,84042013.0,US,USA,840,42013.0,blair,"Blair, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.47961444,-78.34917412,84042013.0,US,USA,840,42013.0,blair,"Blair, Pennsylvania, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.47961444,-78.34917412,84042013.0,US,USA,840,42013.0,blair,"Blair, Pennsylvania, US",19,4,0,0
 2020-04-25,us,pennsylvania,40.47961444,-78.34917412,84042013.0,US,USA,840,42013.0,blair,"Blair, Pennsylvania, US",21,2,0,0
 2020-04-26,us,pennsylvania,40.47961444,-78.34917412,84042013.0,US,USA,840,42013.0,blair,"Blair, Pennsylvania, US",21,0,0,0
+2020-04-27,us,pennsylvania,40.47961444,-78.34917412,84042013.0,US,USA,840,42013.0,blair,"Blair, Pennsylvania, US",21,0,0,0
+2020-04-28,us,pennsylvania,40.47961444,-78.34917412,84042013.0,US,USA,840,42013.0,blair,"Blair, Pennsylvania, US",21,0,0,0
 2020-01-22,us,pennsylvania,40.49527404,-78.71377428,84042021.0,US,USA,840,42021.0,cambria,"Cambria, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.49527404,-78.71377428,84042021.0,US,USA,840,42021.0,cambria,"Cambria, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.49527404,-78.71377428,84042021.0,US,USA,840,42021.0,cambria,"Cambria, Pennsylvania, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.49527404,-78.71377428,84042021.0,US,USA,840,42021.0,cambria,"Cambria, Pennsylvania, US",20,0,2,0
 2020-04-25,us,pennsylvania,40.49527404,-78.71377428,84042021.0,US,USA,840,42021.0,cambria,"Cambria, Pennsylvania, US",21,1,1,-1
 2020-04-26,us,pennsylvania,40.49527404,-78.71377428,84042021.0,US,USA,840,42021.0,cambria,"Cambria, Pennsylvania, US",21,0,1,0
+2020-04-27,us,pennsylvania,40.49527404,-78.71377428,84042021.0,US,USA,840,42021.0,cambria,"Cambria, Pennsylvania, US",21,0,1,0
+2020-04-28,us,pennsylvania,40.49527404,-78.71377428,84042021.0,US,USA,840,42021.0,cambria,"Cambria, Pennsylvania, US",22,1,1,0
 2020-01-22,us,pennsylvania,40.53358749,-77.39975129999998,84042067.0,US,USA,840,42067.0,juniata,"Juniata, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.53358749,-77.39975129999998,84042067.0,US,USA,840,42067.0,juniata,"Juniata, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.53358749,-77.39975129999998,84042067.0,US,USA,840,42067.0,juniata,"Juniata, Pennsylvania, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.53358749,-77.39975129999998,84042067.0,US,USA,840,42067.0,juniata,"Juniata, Pennsylvania, US",77,0,0,0
 2020-04-25,us,pennsylvania,40.53358749,-77.39975129999998,84042067.0,US,USA,840,42067.0,juniata,"Juniata, Pennsylvania, US",77,0,0,0
 2020-04-26,us,pennsylvania,40.53358749,-77.39975129999998,84042067.0,US,USA,840,42067.0,juniata,"Juniata, Pennsylvania, US",78,1,0,0
+2020-04-27,us,pennsylvania,40.53358749,-77.39975129999998,84042067.0,US,USA,840,42067.0,juniata,"Juniata, Pennsylvania, US",79,1,0,0
+2020-04-28,us,pennsylvania,40.53358749,-77.39975129999998,84042067.0,US,USA,840,42067.0,juniata,"Juniata, Pennsylvania, US",81,2,0,0
 2020-01-22,us,pennsylvania,40.61116939,-77.61070738,84042087.0,US,USA,840,42087.0,mifflin,"Mifflin, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.61116939,-77.61070738,84042087.0,US,USA,840,42087.0,mifflin,"Mifflin, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.61116939,-77.61070738,84042087.0,US,USA,840,42087.0,mifflin,"Mifflin, Pennsylvania, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.61116939,-77.61070738,84042087.0,US,USA,840,42087.0,mifflin,"Mifflin, Pennsylvania, US",26,2,0,0
 2020-04-25,us,pennsylvania,40.61116939,-77.61070738,84042087.0,US,USA,840,42087.0,mifflin,"Mifflin, Pennsylvania, US",26,0,0,0
 2020-04-26,us,pennsylvania,40.61116939,-77.61070738,84042087.0,US,USA,840,42087.0,mifflin,"Mifflin, Pennsylvania, US",27,1,0,0
+2020-04-27,us,pennsylvania,40.61116939,-77.61070738,84042087.0,US,USA,840,42087.0,mifflin,"Mifflin, Pennsylvania, US",30,3,0,0
+2020-04-28,us,pennsylvania,40.61116939,-77.61070738,84042087.0,US,USA,840,42087.0,mifflin,"Mifflin, Pennsylvania, US",34,4,0,0
 2020-01-22,us,pennsylvania,40.6154815,-75.59435245,84042077.0,US,USA,840,42077.0,lehigh,"Lehigh, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.6154815,-75.59435245,84042077.0,US,USA,840,42077.0,lehigh,"Lehigh, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.6154815,-75.59435245,84042077.0,US,USA,840,42077.0,lehigh,"Lehigh, Pennsylvania, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.6154815,-75.59435245,84042077.0,US,USA,840,42077.0,lehigh,"Lehigh, Pennsylvania, US",2478,60,49,0
 2020-04-25,us,pennsylvania,40.6154815,-75.59435245,84042077.0,US,USA,840,42077.0,lehigh,"Lehigh, Pennsylvania, US",2551,73,50,1
 2020-04-26,us,pennsylvania,40.6154815,-75.59435245,84042077.0,US,USA,840,42077.0,lehigh,"Lehigh, Pennsylvania, US",2601,50,51,1
+2020-04-27,us,pennsylvania,40.6154815,-75.59435245,84042077.0,US,USA,840,42077.0,lehigh,"Lehigh, Pennsylvania, US",2636,35,56,5
+2020-04-28,us,pennsylvania,40.6154815,-75.59435245,84042077.0,US,USA,840,42077.0,lehigh,"Lehigh, Pennsylvania, US",2685,49,64,8
 2020-01-22,us,pennsylvania,40.65241041,-79.08963285,84042063.0,US,USA,840,42063.0,indiana,"Indiana, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.65241041,-79.08963285,84042063.0,US,USA,840,42063.0,indiana,"Indiana, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.65241041,-79.08963285,84042063.0,US,USA,840,42063.0,indiana,"Indiana, Pennsylvania, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.65241041,-79.08963285,84042063.0,US,USA,840,42063.0,indiana,"Indiana, Pennsylvania, US",62,3,4,0
 2020-04-25,us,pennsylvania,40.65241041,-79.08963285,84042063.0,US,USA,840,42063.0,indiana,"Indiana, Pennsylvania, US",63,1,4,0
 2020-04-26,us,pennsylvania,40.65241041,-79.08963285,84042063.0,US,USA,840,42063.0,indiana,"Indiana, Pennsylvania, US",63,0,4,0
+2020-04-27,us,pennsylvania,40.65241041,-79.08963285,84042063.0,US,USA,840,42063.0,indiana,"Indiana, Pennsylvania, US",63,0,4,0
+2020-04-28,us,pennsylvania,40.65241041,-79.08963285,84042063.0,US,USA,840,42063.0,indiana,"Indiana, Pennsylvania, US",62,-1,4,0
 2020-01-22,us,pennsylvania,40.6825484,-80.34921611,84042007.0,US,USA,840,42007.0,beaver,"Beaver, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.6825484,-80.34921611,84042007.0,US,USA,840,42007.0,beaver,"Beaver, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.6825484,-80.34921611,84042007.0,US,USA,840,42007.0,beaver,"Beaver, Pennsylvania, US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.6825484,-80.34921611,84042007.0,US,USA,840,42007.0,beaver,"Beaver, Pennsylvania, US",337,18,47,0
 2020-04-25,us,pennsylvania,40.6825484,-80.34921611,84042007.0,US,USA,840,42007.0,beaver,"Beaver, Pennsylvania, US",359,22,46,-1
 2020-04-26,us,pennsylvania,40.6825484,-80.34921611,84042007.0,US,USA,840,42007.0,beaver,"Beaver, Pennsylvania, US",366,7,46,0
+2020-04-27,us,pennsylvania,40.6825484,-80.34921611,84042007.0,US,USA,840,42007.0,beaver,"Beaver, Pennsylvania, US",387,21,46,0
+2020-04-28,us,pennsylvania,40.6825484,-80.34921611,84042007.0,US,USA,840,42007.0,beaver,"Beaver, Pennsylvania, US",388,1,59,13
 2020-01-22,us,pennsylvania,40.70497338,-76.2150785,84042107.0,US,USA,840,42107.0,schuylkill,"Schuylkill, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.70497338,-76.2150785,84042107.0,US,USA,840,42107.0,schuylkill,"Schuylkill, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.70497338,-76.2150785,84042107.0,US,USA,840,42107.0,schuylkill,"Schuylkill, Pennsylvania, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.70497338,-76.2150785,84042107.0,US,USA,840,42107.0,schuylkill,"Schuylkill, Pennsylvania, US",300,10,5,0
 2020-04-25,us,pennsylvania,40.70497338,-76.2150785,84042107.0,US,USA,840,42107.0,schuylkill,"Schuylkill, Pennsylvania, US",311,11,5,0
 2020-04-26,us,pennsylvania,40.70497338,-76.2150785,84042107.0,US,USA,840,42107.0,schuylkill,"Schuylkill, Pennsylvania, US",321,10,5,0
+2020-04-27,us,pennsylvania,40.70497338,-76.2150785,84042107.0,US,USA,840,42107.0,schuylkill,"Schuylkill, Pennsylvania, US",324,3,5,0
+2020-04-28,us,pennsylvania,40.70497338,-76.2150785,84042107.0,US,USA,840,42107.0,schuylkill,"Schuylkill, Pennsylvania, US",330,6,5,0
 2020-01-22,us,pennsylvania,40.75182733,-75.30471829,84042095.0,US,USA,840,42095.0,northampton,"Northampton, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.75182733,-75.30471829,84042095.0,US,USA,840,42095.0,northampton,"Northampton, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.75182733,-75.30471829,84042095.0,US,USA,840,42095.0,northampton,"Northampton, Pennsylvania, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.75182733,-75.30471829,84042095.0,US,USA,840,42095.0,northampton,"Northampton, Pennsylvania, US",1716,60,46,1
 2020-04-25,us,pennsylvania,40.75182733,-75.30471829,84042095.0,US,USA,840,42095.0,northampton,"Northampton, Pennsylvania, US",1780,64,49,3
 2020-04-26,us,pennsylvania,40.75182733,-75.30471829,84042095.0,US,USA,840,42095.0,northampton,"Northampton, Pennsylvania, US",1813,33,49,0
+2020-04-27,us,pennsylvania,40.75182733,-75.30471829,84042095.0,US,USA,840,42095.0,northampton,"Northampton, Pennsylvania, US",1834,21,49,0
+2020-04-28,us,pennsylvania,40.75182733,-75.30471829,84042095.0,US,USA,840,42095.0,northampton,"Northampton, Pennsylvania, US",1970,136,55,6
 2020-01-22,us,pennsylvania,40.77129231,-77.06840691,84042109.0,US,USA,840,42109.0,snyder,"Snyder, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.77129231,-77.06840691,84042109.0,US,USA,840,42109.0,snyder,"Snyder, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.77129231,-77.06840691,84042109.0,US,USA,840,42109.0,snyder,"Snyder, Pennsylvania, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.77129231,-77.06840691,84042109.0,US,USA,840,42109.0,snyder,"Snyder, Pennsylvania, US",31,0,1,0
 2020-04-25,us,pennsylvania,40.77129231,-77.06840691,84042109.0,US,USA,840,42109.0,snyder,"Snyder, Pennsylvania, US",32,1,1,0
 2020-04-26,us,pennsylvania,40.77129231,-77.06840691,84042109.0,US,USA,840,42109.0,snyder,"Snyder, Pennsylvania, US",33,1,1,0
+2020-04-27,us,pennsylvania,40.77129231,-77.06840691,84042109.0,US,USA,840,42109.0,snyder,"Snyder, Pennsylvania, US",33,0,1,0
+2020-04-28,us,pennsylvania,40.77129231,-77.06840691,84042109.0,US,USA,840,42109.0,snyder,"Snyder, Pennsylvania, US",33,0,1,0
 2020-01-22,us,pennsylvania,40.81665618,-79.46290811,84042005.0,US,USA,840,42005.0,armstrong,"Armstrong, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.81665618,-79.46290811,84042005.0,US,USA,840,42005.0,armstrong,"Armstrong, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.81665618,-79.46290811,84042005.0,US,USA,840,42005.0,armstrong,"Armstrong, Pennsylvania, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.81665618,-79.46290811,84042005.0,US,USA,840,42005.0,armstrong,"Armstrong, Pennsylvania, US",43,0,2,0
 2020-04-25,us,pennsylvania,40.81665618,-79.46290811,84042005.0,US,USA,840,42005.0,armstrong,"Armstrong, Pennsylvania, US",46,3,2,0
 2020-04-26,us,pennsylvania,40.81665618,-79.46290811,84042005.0,US,USA,840,42005.0,armstrong,"Armstrong, Pennsylvania, US",46,0,2,0
+2020-04-27,us,pennsylvania,40.81665618,-79.46290811,84042005.0,US,USA,840,42005.0,armstrong,"Armstrong, Pennsylvania, US",47,1,2,0
+2020-04-28,us,pennsylvania,40.81665618,-79.46290811,84042005.0,US,USA,840,42005.0,armstrong,"Armstrong, Pennsylvania, US",50,3,2,0
 2020-01-22,us,pennsylvania,40.84785433,-76.70798222,84042097.0,US,USA,840,42097.0,northumberland,"Northumberland, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.84785433,-76.70798222,84042097.0,US,USA,840,42097.0,northumberland,"Northumberland, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.84785433,-76.70798222,84042097.0,US,USA,840,42097.0,northumberland,"Northumberland, Pennsylvania, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.84785433,-76.70798222,84042097.0,US,USA,840,42097.0,northumberland,"Northumberland, Pennsylvania, US",84,2,0,0
 2020-04-25,us,pennsylvania,40.84785433,-76.70798222,84042097.0,US,USA,840,42097.0,northumberland,"Northumberland, Pennsylvania, US",87,3,0,0
 2020-04-26,us,pennsylvania,40.84785433,-76.70798222,84042097.0,US,USA,840,42097.0,northumberland,"Northumberland, Pennsylvania, US",90,3,0,0
+2020-04-27,us,pennsylvania,40.84785433,-76.70798222,84042097.0,US,USA,840,42097.0,northumberland,"Northumberland, Pennsylvania, US",90,0,0,0
+2020-04-28,us,pennsylvania,40.84785433,-76.70798222,84042097.0,US,USA,840,42097.0,northumberland,"Northumberland, Pennsylvania, US",92,2,0,0
 2020-01-22,us,pennsylvania,40.91152759,-79.91351055,84042019.0,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.91152759,-79.91351055,84042019.0,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.91152759,-79.91351055,84042019.0,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",0,0,0,0
@@ -3647,6 +3721,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.91152759,-79.91351055,84042019.0,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",168,4,6,0
 2020-04-25,us,pennsylvania,40.91152759,-79.91351055,84042019.0,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",168,0,6,0
 2020-04-26,us,pennsylvania,40.91152759,-79.91351055,84042019.0,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",170,2,6,0
+2020-04-27,us,pennsylvania,40.91152759,-79.91351055,84042019.0,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",170,0,6,0
+2020-04-28,us,pennsylvania,40.91152759,-79.91351055,84042019.0,US,USA,840,42019.0,butler,"Butler, Pennsylvania, US",174,4,6,0
 2020-01-22,us,pennsylvania,40.91545395,-75.7068525,84042025.0,US,USA,840,42025.0,carbon,"Carbon, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.91545395,-75.7068525,84042025.0,US,USA,840,42025.0,carbon,"Carbon, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.91545395,-75.7068525,84042025.0,US,USA,840,42025.0,carbon,"Carbon, Pennsylvania, US",0,0,0,0
@@ -3743,6 +3819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.91545395,-75.7068525,84042025.0,US,USA,840,42025.0,carbon,"Carbon, Pennsylvania, US",160,5,12,1
 2020-04-25,us,pennsylvania,40.91545395,-75.7068525,84042025.0,US,USA,840,42025.0,carbon,"Carbon, Pennsylvania, US",162,2,12,0
 2020-04-26,us,pennsylvania,40.91545395,-75.7068525,84042025.0,US,USA,840,42025.0,carbon,"Carbon, Pennsylvania, US",163,1,12,0
+2020-04-27,us,pennsylvania,40.91545395,-75.7068525,84042025.0,US,USA,840,42025.0,carbon,"Carbon, Pennsylvania, US",164,1,12,0
+2020-04-28,us,pennsylvania,40.91545395,-75.7068525,84042025.0,US,USA,840,42025.0,carbon,"Carbon, Pennsylvania, US",169,5,13,1
 2020-01-22,us,pennsylvania,40.92058903,-77.82200624,84042027.0,US,USA,840,42027.0,centre,"Centre, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.92058903,-77.82200624,84042027.0,US,USA,840,42027.0,centre,"Centre, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.92058903,-77.82200624,84042027.0,US,USA,840,42027.0,centre,"Centre, Pennsylvania, US",0,0,0,0
@@ -3839,6 +3917,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.92058903,-77.82200624,84042027.0,US,USA,840,42027.0,centre,"Centre, Pennsylvania, US",77,1,2,0
 2020-04-25,us,pennsylvania,40.92058903,-77.82200624,84042027.0,US,USA,840,42027.0,centre,"Centre, Pennsylvania, US",81,4,1,-1
 2020-04-26,us,pennsylvania,40.92058903,-77.82200624,84042027.0,US,USA,840,42027.0,centre,"Centre, Pennsylvania, US",81,0,1,0
+2020-04-27,us,pennsylvania,40.92058903,-77.82200624,84042027.0,US,USA,840,42027.0,centre,"Centre, Pennsylvania, US",87,6,1,0
+2020-04-28,us,pennsylvania,40.92058903,-77.82200624,84042027.0,US,USA,840,42027.0,centre,"Centre, Pennsylvania, US",93,6,1,0
 2020-01-22,us,pennsylvania,40.96188846,-77.05996014,84042119.0,US,USA,840,42119.0,union,"Union, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.96188846,-77.05996014,84042119.0,US,USA,840,42119.0,union,"Union, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.96188846,-77.05996014,84042119.0,US,USA,840,42119.0,union,"Union, Pennsylvania, US",0,0,0,0
@@ -3935,6 +4015,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.96188846,-77.05996014,84042119.0,US,USA,840,42119.0,union,"Union, Pennsylvania, US",31,1,0,0
 2020-04-25,us,pennsylvania,40.96188846,-77.05996014,84042119.0,US,USA,840,42119.0,union,"Union, Pennsylvania, US",31,0,0,0
 2020-04-26,us,pennsylvania,40.96188846,-77.05996014,84042119.0,US,USA,840,42119.0,union,"Union, Pennsylvania, US",31,0,0,0
+2020-04-27,us,pennsylvania,40.96188846,-77.05996014,84042119.0,US,USA,840,42119.0,union,"Union, Pennsylvania, US",31,0,0,0
+2020-04-28,us,pennsylvania,40.96188846,-77.05996014,84042119.0,US,USA,840,42119.0,union,"Union, Pennsylvania, US",33,2,0,0
 2020-01-22,us,pennsylvania,40.99206278,-80.33393706,84042073.0,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,40.99206278,-80.33393706,84042073.0,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,40.99206278,-80.33393706,84042073.0,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",0,0,0,0
@@ -4031,6 +4113,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,40.99206278,-80.33393706,84042073.0,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",61,0,5,0
 2020-04-25,us,pennsylvania,40.99206278,-80.33393706,84042073.0,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",61,0,5,0
 2020-04-26,us,pennsylvania,40.99206278,-80.33393706,84042073.0,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",61,0,5,0
+2020-04-27,us,pennsylvania,40.99206278,-80.33393706,84042073.0,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",63,2,5,0
+2020-04-28,us,pennsylvania,40.99206278,-80.33393706,84042073.0,US,USA,840,42073.0,lawrence,"Lawrence, Pennsylvania, US",63,0,5,0
 2020-01-22,us,pennsylvania,41.00110782,-78.47592663,84042033.0,US,USA,840,42033.0,clearfield,"Clearfield, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.00110782,-78.47592663,84042033.0,US,USA,840,42033.0,clearfield,"Clearfield, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.00110782,-78.47592663,84042033.0,US,USA,840,42033.0,clearfield,"Clearfield, Pennsylvania, US",0,0,0,0
@@ -4127,6 +4211,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.00110782,-78.47592663,84042033.0,US,USA,840,42033.0,clearfield,"Clearfield, Pennsylvania, US",11,0,0,0
 2020-04-25,us,pennsylvania,41.00110782,-78.47592663,84042033.0,US,USA,840,42033.0,clearfield,"Clearfield, Pennsylvania, US",11,0,0,0
 2020-04-26,us,pennsylvania,41.00110782,-78.47592663,84042033.0,US,USA,840,42033.0,clearfield,"Clearfield, Pennsylvania, US",11,0,0,0
+2020-04-27,us,pennsylvania,41.00110782,-78.47592663,84042033.0,US,USA,840,42033.0,clearfield,"Clearfield, Pennsylvania, US",11,0,0,0
+2020-04-28,us,pennsylvania,41.00110782,-78.47592663,84042033.0,US,USA,840,42033.0,clearfield,"Clearfield, Pennsylvania, US",11,0,0,0
 2020-01-22,us,pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,montour,"Montour, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,montour,"Montour, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,montour,"Montour, Pennsylvania, US",0,0,0,0
@@ -4223,6 +4309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,montour,"Montour, Pennsylvania, US",47,0,0,0
 2020-04-25,us,pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,montour,"Montour, Pennsylvania, US",47,0,0,0
 2020-04-26,us,pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,montour,"Montour, Pennsylvania, US",47,0,0,0
+2020-04-27,us,pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,montour,"Montour, Pennsylvania, US",48,1,0,0
+2020-04-28,us,pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,montour,"Montour, Pennsylvania, US",47,-1,0,0
 2020-01-22,us,pennsylvania,41.04821986,-76.40565017,84042037.0,US,USA,840,42037.0,columbia,"Columbia, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.04821986,-76.40565017,84042037.0,US,USA,840,42037.0,columbia,"Columbia, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.04821986,-76.40565017,84042037.0,US,USA,840,42037.0,columbia,"Columbia, Pennsylvania, US",0,0,0,0
@@ -4319,6 +4407,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.04821986,-76.40565017,84042037.0,US,USA,840,42037.0,columbia,"Columbia, Pennsylvania, US",252,7,7,0
 2020-04-25,us,pennsylvania,41.04821986,-76.40565017,84042037.0,US,USA,840,42037.0,columbia,"Columbia, Pennsylvania, US",257,5,7,0
 2020-04-26,us,pennsylvania,41.04821986,-76.40565017,84042037.0,US,USA,840,42037.0,columbia,"Columbia, Pennsylvania, US",269,12,7,0
+2020-04-27,us,pennsylvania,41.04821986,-76.40565017,84042037.0,US,USA,840,42037.0,columbia,"Columbia, Pennsylvania, US",277,8,7,0
+2020-04-28,us,pennsylvania,41.04821986,-76.40565017,84042037.0,US,USA,840,42037.0,columbia,"Columbia, Pennsylvania, US",279,2,8,1
 2020-01-22,us,pennsylvania,41.05934058,-75.34031025,84042089.0,US,USA,840,42089.0,monroe,"Monroe, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.05934058,-75.34031025,84042089.0,US,USA,840,42089.0,monroe,"Monroe, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.05934058,-75.34031025,84042089.0,US,USA,840,42089.0,monroe,"Monroe, Pennsylvania, US",0,0,0,0
@@ -4415,6 +4505,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.05934058,-75.34031025,84042089.0,US,USA,840,42089.0,monroe,"Monroe, Pennsylvania, US",1037,13,48,0
 2020-04-25,us,pennsylvania,41.05934058,-75.34031025,84042089.0,US,USA,840,42089.0,monroe,"Monroe, Pennsylvania, US",1054,17,44,-4
 2020-04-26,us,pennsylvania,41.05934058,-75.34031025,84042089.0,US,USA,840,42089.0,monroe,"Monroe, Pennsylvania, US",1065,11,45,1
+2020-04-27,us,pennsylvania,41.05934058,-75.34031025,84042089.0,US,USA,840,42089.0,monroe,"Monroe, Pennsylvania, US",1083,18,46,1
+2020-04-28,us,pennsylvania,41.05934058,-75.34031025,84042089.0,US,USA,840,42089.0,monroe,"Monroe, Pennsylvania, US",1097,14,48,2
 2020-01-22,us,pennsylvania,41.12913106,-78.9986361,84042065.0,US,USA,840,42065.0,jefferson,"Jefferson, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.12913106,-78.9986361,84042065.0,US,USA,840,42065.0,jefferson,"Jefferson, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.12913106,-78.9986361,84042065.0,US,USA,840,42065.0,jefferson,"Jefferson, Pennsylvania, US",0,0,0,0
@@ -4511,6 +4603,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.12913106,-78.9986361,84042065.0,US,USA,840,42065.0,jefferson,"Jefferson, Pennsylvania, US",4,0,0,0
 2020-04-25,us,pennsylvania,41.12913106,-78.9986361,84042065.0,US,USA,840,42065.0,jefferson,"Jefferson, Pennsylvania, US",4,0,0,0
 2020-04-26,us,pennsylvania,41.12913106,-78.9986361,84042065.0,US,USA,840,42065.0,jefferson,"Jefferson, Pennsylvania, US",4,0,0,0
+2020-04-27,us,pennsylvania,41.12913106,-78.9986361,84042065.0,US,USA,840,42065.0,jefferson,"Jefferson, Pennsylvania, US",4,0,0,0
+2020-04-28,us,pennsylvania,41.12913106,-78.9986361,84042065.0,US,USA,840,42065.0,jefferson,"Jefferson, Pennsylvania, US",4,0,0,0
 2020-01-22,us,pennsylvania,41.17823008,-75.98447579,84042079.0,US,USA,840,42079.0,luzerne,"Luzerne, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.17823008,-75.98447579,84042079.0,US,USA,840,42079.0,luzerne,"Luzerne, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.17823008,-75.98447579,84042079.0,US,USA,840,42079.0,luzerne,"Luzerne, Pennsylvania, US",0,0,0,0
@@ -4607,6 +4701,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.17823008,-75.98447579,84042079.0,US,USA,840,42079.0,luzerne,"Luzerne, Pennsylvania, US",1921,41,62,2
 2020-04-25,us,pennsylvania,41.17823008,-75.98447579,84042079.0,US,USA,840,42079.0,luzerne,"Luzerne, Pennsylvania, US",1962,41,66,4
 2020-04-26,us,pennsylvania,41.17823008,-75.98447579,84042079.0,US,USA,840,42079.0,luzerne,"Luzerne, Pennsylvania, US",2008,46,67,1
+2020-04-27,us,pennsylvania,41.17823008,-75.98447579,84042079.0,US,USA,840,42079.0,luzerne,"Luzerne, Pennsylvania, US",2035,27,71,4
+2020-04-28,us,pennsylvania,41.17823008,-75.98447579,84042079.0,US,USA,840,42079.0,luzerne,"Luzerne, Pennsylvania, US",2078,43,74,3
 2020-01-22,us,pennsylvania,41.19265812,-79.42413524,84042031.0,US,USA,840,42031.0,clarion,"Clarion, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.19265812,-79.42413524,84042031.0,US,USA,840,42031.0,clarion,"Clarion, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.19265812,-79.42413524,84042031.0,US,USA,840,42031.0,clarion,"Clarion, Pennsylvania, US",0,0,0,0
@@ -4703,6 +4799,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.19265812,-79.42413524,84042031.0,US,USA,840,42031.0,clarion,"Clarion, Pennsylvania, US",22,2,1,0
 2020-04-25,us,pennsylvania,41.19265812,-79.42413524,84042031.0,US,USA,840,42031.0,clarion,"Clarion, Pennsylvania, US",22,0,1,0
 2020-04-26,us,pennsylvania,41.19265812,-79.42413524,84042031.0,US,USA,840,42031.0,clarion,"Clarion, Pennsylvania, US",22,0,1,0
+2020-04-27,us,pennsylvania,41.19265812,-79.42413524,84042031.0,US,USA,840,42031.0,clarion,"Clarion, Pennsylvania, US",22,0,1,0
+2020-04-28,us,pennsylvania,41.19265812,-79.42413524,84042031.0,US,USA,840,42031.0,clarion,"Clarion, Pennsylvania, US",23,1,1,0
 2020-01-22,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",0,0,0,0
@@ -4799,6 +4897,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",17,3,0,0
 2020-04-25,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",18,1,0,0
 2020-04-26,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",21,3,0,0
+2020-04-27,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",25,4,0,0
+2020-04-28,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",29,4,0,0
 2020-01-22,us,pennsylvania,41.30248872,-80.25816981,84042085.0,US,USA,840,42085.0,mercer,"Mercer, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.30248872,-80.25816981,84042085.0,US,USA,840,42085.0,mercer,"Mercer, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.30248872,-80.25816981,84042085.0,US,USA,840,42085.0,mercer,"Mercer, Pennsylvania, US",0,0,0,0
@@ -4895,6 +4995,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.30248872,-80.25816981,84042085.0,US,USA,840,42085.0,mercer,"Mercer, Pennsylvania, US",64,4,1,0
 2020-04-25,us,pennsylvania,41.30248872,-80.25816981,84042085.0,US,USA,840,42085.0,mercer,"Mercer, Pennsylvania, US",64,0,1,0
 2020-04-26,us,pennsylvania,41.30248872,-80.25816981,84042085.0,US,USA,840,42085.0,mercer,"Mercer, Pennsylvania, US",65,1,1,0
+2020-04-27,us,pennsylvania,41.30248872,-80.25816981,84042085.0,US,USA,840,42085.0,mercer,"Mercer, Pennsylvania, US",65,0,1,0
+2020-04-28,us,pennsylvania,41.30248872,-80.25816981,84042085.0,US,USA,840,42085.0,mercer,"Mercer, Pennsylvania, US",66,1,1,0
 2020-01-22,us,pennsylvania,41.33155042,-75.03208106,84042103.0,US,USA,840,42103.0,pike,"Pike, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.33155042,-75.03208106,84042103.0,US,USA,840,42103.0,pike,"Pike, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.33155042,-75.03208106,84042103.0,US,USA,840,42103.0,pike,"Pike, Pennsylvania, US",0,0,0,0
@@ -4991,6 +5093,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.33155042,-75.03208106,84042103.0,US,USA,840,42103.0,pike,"Pike, Pennsylvania, US",338,11,12,0
 2020-04-25,us,pennsylvania,41.33155042,-75.03208106,84042103.0,US,USA,840,42103.0,pike,"Pike, Pennsylvania, US",347,9,12,0
 2020-04-26,us,pennsylvania,41.33155042,-75.03208106,84042103.0,US,USA,840,42103.0,pike,"Pike, Pennsylvania, US",349,2,12,0
+2020-04-27,us,pennsylvania,41.33155042,-75.03208106,84042103.0,US,USA,840,42103.0,pike,"Pike, Pennsylvania, US",352,3,12,0
+2020-04-28,us,pennsylvania,41.33155042,-75.03208106,84042103.0,US,USA,840,42103.0,pike,"Pike, Pennsylvania, US",362,10,12,0
 2020-01-22,us,pennsylvania,41.34310539,-77.06629984,84042081.0,US,USA,840,42081.0,lycoming,"Lycoming, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.34310539,-77.06629984,84042081.0,US,USA,840,42081.0,lycoming,"Lycoming, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.34310539,-77.06629984,84042081.0,US,USA,840,42081.0,lycoming,"Lycoming, Pennsylvania, US",0,0,0,0
@@ -5087,6 +5191,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.34310539,-77.06629984,84042081.0,US,USA,840,42081.0,lycoming,"Lycoming, Pennsylvania, US",48,4,2,0
 2020-04-25,us,pennsylvania,41.34310539,-77.06629984,84042081.0,US,USA,840,42081.0,lycoming,"Lycoming, Pennsylvania, US",53,5,0,-2
 2020-04-26,us,pennsylvania,41.34310539,-77.06629984,84042081.0,US,USA,840,42081.0,lycoming,"Lycoming, Pennsylvania, US",55,2,0,0
+2020-04-27,us,pennsylvania,41.34310539,-77.06629984,84042081.0,US,USA,840,42081.0,lycoming,"Lycoming, Pennsylvania, US",57,2,0,0
+2020-04-28,us,pennsylvania,41.34310539,-77.06629984,84042081.0,US,USA,840,42081.0,lycoming,"Lycoming, Pennsylvania, US",58,1,0,0
 2020-01-22,us,pennsylvania,41.40323442,-79.75845449,84042121.0,US,USA,840,42121.0,venango,"Venango, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.40323442,-79.75845449,84042121.0,US,USA,840,42121.0,venango,"Venango, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.40323442,-79.75845449,84042121.0,US,USA,840,42121.0,venango,"Venango, Pennsylvania, US",0,0,0,0
@@ -5183,6 +5289,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.40323442,-79.75845449,84042121.0,US,USA,840,42121.0,venango,"Venango, Pennsylvania, US",7,0,0,0
 2020-04-25,us,pennsylvania,41.40323442,-79.75845449,84042121.0,US,USA,840,42121.0,venango,"Venango, Pennsylvania, US",7,0,0,0
 2020-04-26,us,pennsylvania,41.40323442,-79.75845449,84042121.0,US,USA,840,42121.0,venango,"Venango, Pennsylvania, US",7,0,0,0
+2020-04-27,us,pennsylvania,41.40323442,-79.75845449,84042121.0,US,USA,840,42121.0,venango,"Venango, Pennsylvania, US",7,0,0,0
+2020-04-28,us,pennsylvania,41.40323442,-79.75845449,84042121.0,US,USA,840,42121.0,venango,"Venango, Pennsylvania, US",7,0,0,0
 2020-01-22,us,pennsylvania,41.42822061,-78.64524744,84042047.0,US,USA,840,42047.0,elk,"Elk, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.42822061,-78.64524744,84042047.0,US,USA,840,42047.0,elk,"Elk, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.42822061,-78.64524744,84042047.0,US,USA,840,42047.0,elk,"Elk, Pennsylvania, US",0,0,0,0
@@ -5279,6 +5387,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.42822061,-78.64524744,84042047.0,US,USA,840,42047.0,elk,"Elk, Pennsylvania, US",2,0,0,0
 2020-04-25,us,pennsylvania,41.42822061,-78.64524744,84042047.0,US,USA,840,42047.0,elk,"Elk, Pennsylvania, US",2,0,0,0
 2020-04-26,us,pennsylvania,41.42822061,-78.64524744,84042047.0,US,USA,840,42047.0,elk,"Elk, Pennsylvania, US",3,1,0,0
+2020-04-27,us,pennsylvania,41.42822061,-78.64524744,84042047.0,US,USA,840,42047.0,elk,"Elk, Pennsylvania, US",3,0,0,0
+2020-04-28,us,pennsylvania,41.42822061,-78.64524744,84042047.0,US,USA,840,42047.0,elk,"Elk, Pennsylvania, US",3,0,0,0
 2020-01-22,us,pennsylvania,41.43564672,-75.60379201,84042069.0,US,USA,840,42069.0,lackawanna,"Lackawanna, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.43564672,-75.60379201,84042069.0,US,USA,840,42069.0,lackawanna,"Lackawanna, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.43564672,-75.60379201,84042069.0,US,USA,840,42069.0,lackawanna,"Lackawanna, Pennsylvania, US",0,0,0,0
@@ -5375,6 +5485,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.43564672,-75.60379201,84042069.0,US,USA,840,42069.0,lackawanna,"Lackawanna, Pennsylvania, US",735,28,61,3
 2020-04-25,us,pennsylvania,41.43564672,-75.60379201,84042069.0,US,USA,840,42069.0,lackawanna,"Lackawanna, Pennsylvania, US",772,37,63,2
 2020-04-26,us,pennsylvania,41.43564672,-75.60379201,84042069.0,US,USA,840,42069.0,lackawanna,"Lackawanna, Pennsylvania, US",793,21,63,0
+2020-04-27,us,pennsylvania,41.43564672,-75.60379201,84042069.0,US,USA,840,42069.0,lackawanna,"Lackawanna, Pennsylvania, US",833,40,63,0
+2020-04-28,us,pennsylvania,41.43564672,-75.60379201,84042069.0,US,USA,840,42069.0,lackawanna,"Lackawanna, Pennsylvania, US",854,21,71,8
 2020-01-22,us,pennsylvania,41.43625568,-78.20376845,84042023.0,US,USA,840,42023.0,cameron,"Cameron, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.43625568,-78.20376845,84042023.0,US,USA,840,42023.0,cameron,"Cameron, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.43625568,-78.20376845,84042023.0,US,USA,840,42023.0,cameron,"Cameron, Pennsylvania, US",0,0,0,0
@@ -5471,6 +5583,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.43625568,-78.20376845,84042023.0,US,USA,840,42023.0,cameron,"Cameron, Pennsylvania, US",1,0,0,0
 2020-04-25,us,pennsylvania,41.43625568,-78.20376845,84042023.0,US,USA,840,42023.0,cameron,"Cameron, Pennsylvania, US",1,0,0,0
 2020-04-26,us,pennsylvania,41.43625568,-78.20376845,84042023.0,US,USA,840,42023.0,cameron,"Cameron, Pennsylvania, US",1,0,0,0
+2020-04-27,us,pennsylvania,41.43625568,-78.20376845,84042023.0,US,USA,840,42023.0,cameron,"Cameron, Pennsylvania, US",1,0,0,0
+2020-04-28,us,pennsylvania,41.43625568,-78.20376845,84042023.0,US,USA,840,42023.0,cameron,"Cameron, Pennsylvania, US",1,0,0,0
 2020-01-22,us,pennsylvania,41.44634738,-76.51246591,84042113.0,US,USA,840,42113.0,sullivan,"Sullivan, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.44634738,-76.51246591,84042113.0,US,USA,840,42113.0,sullivan,"Sullivan, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.44634738,-76.51246591,84042113.0,US,USA,840,42113.0,sullivan,"Sullivan, Pennsylvania, US",0,0,0,0
@@ -5567,6 +5681,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.44634738,-76.51246591,84042113.0,US,USA,840,42113.0,sullivan,"Sullivan, Pennsylvania, US",1,0,0,0
 2020-04-25,us,pennsylvania,41.44634738,-76.51246591,84042113.0,US,USA,840,42113.0,sullivan,"Sullivan, Pennsylvania, US",1,0,0,0
 2020-04-26,us,pennsylvania,41.44634738,-76.51246591,84042113.0,US,USA,840,42113.0,sullivan,"Sullivan, Pennsylvania, US",1,0,0,0
+2020-04-27,us,pennsylvania,41.44634738,-76.51246591,84042113.0,US,USA,840,42113.0,sullivan,"Sullivan, Pennsylvania, US",1,0,0,0
+2020-04-28,us,pennsylvania,41.44634738,-76.51246591,84042113.0,US,USA,840,42113.0,sullivan,"Sullivan, Pennsylvania, US",1,0,0,0
 2020-01-22,us,pennsylvania,41.51095103,-79.23229292,84042053.0,US,USA,840,42053.0,forest,"Forest, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.51095103,-79.23229292,84042053.0,US,USA,840,42053.0,forest,"Forest, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.51095103,-79.23229292,84042053.0,US,USA,840,42053.0,forest,"Forest, Pennsylvania, US",0,0,0,0
@@ -5663,6 +5779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.51095103,-79.23229292,84042053.0,US,USA,840,42053.0,forest,"Forest, Pennsylvania, US",7,0,0,0
 2020-04-25,us,pennsylvania,41.51095103,-79.23229292,84042053.0,US,USA,840,42053.0,forest,"Forest, Pennsylvania, US",7,0,0,0
 2020-04-26,us,pennsylvania,41.51095103,-79.23229292,84042053.0,US,USA,840,42053.0,forest,"Forest, Pennsylvania, US",7,0,0,0
+2020-04-27,us,pennsylvania,41.51095103,-79.23229292,84042053.0,US,USA,840,42053.0,forest,"Forest, Pennsylvania, US",7,0,0,0
+2020-04-28,us,pennsylvania,41.51095103,-79.23229292,84042053.0,US,USA,840,42053.0,forest,"Forest, Pennsylvania, US",7,0,0,0
 2020-01-22,us,pennsylvania,41.51955538,-76.01074915,84042131.0,US,USA,840,42131.0,wyoming,"Wyoming, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.51955538,-76.01074915,84042131.0,US,USA,840,42131.0,wyoming,"Wyoming, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.51955538,-76.01074915,84042131.0,US,USA,840,42131.0,wyoming,"Wyoming, Pennsylvania, US",0,0,0,0
@@ -5759,6 +5877,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.51955538,-76.01074915,84042131.0,US,USA,840,42131.0,wyoming,"Wyoming, Pennsylvania, US",17,0,2,1
 2020-04-25,us,pennsylvania,41.51955538,-76.01074915,84042131.0,US,USA,840,42131.0,wyoming,"Wyoming, Pennsylvania, US",17,0,2,0
 2020-04-26,us,pennsylvania,41.51955538,-76.01074915,84042131.0,US,USA,840,42131.0,wyoming,"Wyoming, Pennsylvania, US",17,0,2,0
+2020-04-27,us,pennsylvania,41.51955538,-76.01074915,84042131.0,US,USA,840,42131.0,wyoming,"Wyoming, Pennsylvania, US",18,1,2,0
+2020-04-28,us,pennsylvania,41.51955538,-76.01074915,84042131.0,US,USA,840,42131.0,wyoming,"Wyoming, Pennsylvania, US",18,0,2,0
 2020-01-22,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",0,0,0,0
@@ -5855,6 +5975,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",88,1,3,0
 2020-04-25,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",92,4,3,0
 2020-04-26,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",92,0,3,0
+2020-04-27,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",93,1,3,0
+2020-04-28,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",93,0,3,0
 2020-01-22,us,pennsylvania,41.68447709,-80.10760592,84042039.0,US,USA,840,42039.0,crawford,"Crawford, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.68447709,-80.10760592,84042039.0,US,USA,840,42039.0,crawford,"Crawford, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.68447709,-80.10760592,84042039.0,US,USA,840,42039.0,crawford,"Crawford, Pennsylvania, US",0,0,0,0
@@ -5951,6 +6073,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.68447709,-80.10760592,84042039.0,US,USA,840,42039.0,crawford,"Crawford, Pennsylvania, US",19,0,0,0
 2020-04-25,us,pennsylvania,41.68447709,-80.10760592,84042039.0,US,USA,840,42039.0,crawford,"Crawford, Pennsylvania, US",19,0,0,0
 2020-04-26,us,pennsylvania,41.68447709,-80.10760592,84042039.0,US,USA,840,42039.0,crawford,"Crawford, Pennsylvania, US",19,0,0,0
+2020-04-27,us,pennsylvania,41.68447709,-80.10760592,84042039.0,US,USA,840,42039.0,crawford,"Crawford, Pennsylvania, US",19,0,0,0
+2020-04-28,us,pennsylvania,41.68447709,-80.10760592,84042039.0,US,USA,840,42039.0,crawford,"Crawford, Pennsylvania, US",19,0,0,0
 2020-01-22,us,pennsylvania,41.74471626,-77.89559864,84042105.0,US,USA,840,42105.0,potter,"Potter, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.74471626,-77.89559864,84042105.0,US,USA,840,42105.0,potter,"Potter, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.74471626,-77.89559864,84042105.0,US,USA,840,42105.0,potter,"Potter, Pennsylvania, US",0,0,0,0
@@ -6047,6 +6171,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.74471626,-77.89559864,84042105.0,US,USA,840,42105.0,potter,"Potter, Pennsylvania, US",4,0,0,0
 2020-04-25,us,pennsylvania,41.74471626,-77.89559864,84042105.0,US,USA,840,42105.0,potter,"Potter, Pennsylvania, US",4,0,0,0
 2020-04-26,us,pennsylvania,41.74471626,-77.89559864,84042105.0,US,USA,840,42105.0,potter,"Potter, Pennsylvania, US",4,0,0,0
+2020-04-27,us,pennsylvania,41.74471626,-77.89559864,84042105.0,US,USA,840,42105.0,potter,"Potter, Pennsylvania, US",4,0,0,0
+2020-04-28,us,pennsylvania,41.74471626,-77.89559864,84042105.0,US,USA,840,42105.0,potter,"Potter, Pennsylvania, US",4,0,0,0
 2020-01-22,us,pennsylvania,41.77255149,-77.25433032,84042117.0,US,USA,840,42117.0,tioga,"Tioga, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.77255149,-77.25433032,84042117.0,US,USA,840,42117.0,tioga,"Tioga, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.77255149,-77.25433032,84042117.0,US,USA,840,42117.0,tioga,"Tioga, Pennsylvania, US",0,0,0,0
@@ -6143,6 +6269,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.77255149,-77.25433032,84042117.0,US,USA,840,42117.0,tioga,"Tioga, Pennsylvania, US",14,0,2,0
 2020-04-25,us,pennsylvania,41.77255149,-77.25433032,84042117.0,US,USA,840,42117.0,tioga,"Tioga, Pennsylvania, US",14,0,1,-1
 2020-04-26,us,pennsylvania,41.77255149,-77.25433032,84042117.0,US,USA,840,42117.0,tioga,"Tioga, Pennsylvania, US",14,0,1,0
+2020-04-27,us,pennsylvania,41.77255149,-77.25433032,84042117.0,US,USA,840,42117.0,tioga,"Tioga, Pennsylvania, US",14,0,1,0
+2020-04-28,us,pennsylvania,41.77255149,-77.25433032,84042117.0,US,USA,840,42117.0,tioga,"Tioga, Pennsylvania, US",14,0,1,0
 2020-01-22,us,pennsylvania,41.78869215,-76.51570822,84042015.0,US,USA,840,42015.0,bradford,"Bradford, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.78869215,-76.51570822,84042015.0,US,USA,840,42015.0,bradford,"Bradford, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.78869215,-76.51570822,84042015.0,US,USA,840,42015.0,bradford,"Bradford, Pennsylvania, US",0,0,0,0
@@ -6239,6 +6367,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.78869215,-76.51570822,84042015.0,US,USA,840,42015.0,bradford,"Bradford, Pennsylvania, US",28,0,5,0
 2020-04-25,us,pennsylvania,41.78869215,-76.51570822,84042015.0,US,USA,840,42015.0,bradford,"Bradford, Pennsylvania, US",28,0,2,-3
 2020-04-26,us,pennsylvania,41.78869215,-76.51570822,84042015.0,US,USA,840,42015.0,bradford,"Bradford, Pennsylvania, US",28,0,2,0
+2020-04-27,us,pennsylvania,41.78869215,-76.51570822,84042015.0,US,USA,840,42015.0,bradford,"Bradford, Pennsylvania, US",28,0,2,0
+2020-04-28,us,pennsylvania,41.78869215,-76.51570822,84042015.0,US,USA,840,42015.0,bradford,"Bradford, Pennsylvania, US",28,0,2,0
 2020-01-22,us,pennsylvania,41.80938602,-78.56478358,84042083.0,US,USA,840,42083.0,mckean,"McKean,Pennsylvania,US",0,0,0,0
 2020-01-23,us,pennsylvania,41.80938602,-78.56478358,84042083.0,US,USA,840,42083.0,mckean,"McKean,Pennsylvania,US",0,0,0,0
 2020-01-24,us,pennsylvania,41.80938602,-78.56478358,84042083.0,US,USA,840,42083.0,mckean,"McKean,Pennsylvania,US",0,0,0,0
@@ -6335,6 +6465,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.80938602,-78.56478358,84042083.0,US,USA,840,42083.0,mckean,"McKean,Pennsylvania,US",5,0,0,0
 2020-04-25,us,pennsylvania,41.80938602,-78.56478358,84042083.0,US,USA,840,42083.0,mckean,"McKean,Pennsylvania,US",5,0,0,0
 2020-04-26,us,pennsylvania,41.80938602,-78.56478358,84042083.0,US,USA,840,42083.0,mckean,"McKean,Pennsylvania,US",5,0,0,0
+2020-04-27,us,pennsylvania,41.80938602,-78.56478358,84042083.0,US,USA,840,42083.0,mckean,"McKean,Pennsylvania,US",5,0,0,0
+2020-04-28,us,pennsylvania,41.80938602,-78.56478358,84042083.0,US,USA,840,42083.0,mckean,"McKean,Pennsylvania,US",5,0,0,0
 2020-01-22,us,pennsylvania,41.81304978,-79.26969577,84042123.0,US,USA,840,42123.0,warren,"Warren, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.81304978,-79.26969577,84042123.0,US,USA,840,42123.0,warren,"Warren, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.81304978,-79.26969577,84042123.0,US,USA,840,42123.0,warren,"Warren, Pennsylvania, US",0,0,0,0
@@ -6431,6 +6563,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.81304978,-79.26969577,84042123.0,US,USA,840,42123.0,warren,"Warren, Pennsylvania, US",1,0,1,0
 2020-04-25,us,pennsylvania,41.81304978,-79.26969577,84042123.0,US,USA,840,42123.0,warren,"Warren, Pennsylvania, US",1,0,0,-1
 2020-04-26,us,pennsylvania,41.81304978,-79.26969577,84042123.0,US,USA,840,42123.0,warren,"Warren, Pennsylvania, US",1,0,0,0
+2020-04-27,us,pennsylvania,41.81304978,-79.26969577,84042123.0,US,USA,840,42123.0,warren,"Warren, Pennsylvania, US",1,0,0,0
+2020-04-28,us,pennsylvania,41.81304978,-79.26969577,84042123.0,US,USA,840,42123.0,warren,"Warren, Pennsylvania, US",1,0,0,0
 2020-01-22,us,pennsylvania,41.82147784,-75.80071959,84042115.0,US,USA,840,42115.0,susquehanna,"Susquehanna, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.82147784,-75.80071959,84042115.0,US,USA,840,42115.0,susquehanna,"Susquehanna, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.82147784,-75.80071959,84042115.0,US,USA,840,42115.0,susquehanna,"Susquehanna, Pennsylvania, US",0,0,0,0
@@ -6527,6 +6661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.82147784,-75.80071959,84042115.0,US,USA,840,42115.0,susquehanna,"Susquehanna, Pennsylvania, US",76,4,4,0
 2020-04-25,us,pennsylvania,41.82147784,-75.80071959,84042115.0,US,USA,840,42115.0,susquehanna,"Susquehanna, Pennsylvania, US",77,1,4,0
 2020-04-26,us,pennsylvania,41.82147784,-75.80071959,84042115.0,US,USA,840,42115.0,susquehanna,"Susquehanna, Pennsylvania, US",79,2,4,0
+2020-04-27,us,pennsylvania,41.82147784,-75.80071959,84042115.0,US,USA,840,42115.0,susquehanna,"Susquehanna, Pennsylvania, US",81,2,4,0
+2020-04-28,us,pennsylvania,41.82147784,-75.80071959,84042115.0,US,USA,840,42115.0,susquehanna,"Susquehanna, Pennsylvania, US",82,1,4,0
 2020-01-22,us,pennsylvania,41.99253829,-80.03301954,84042049.0,US,USA,840,42049.0,erie,"Erie, Pennsylvania, US",0,0,0,0
 2020-01-23,us,pennsylvania,41.99253829,-80.03301954,84042049.0,US,USA,840,42049.0,erie,"Erie, Pennsylvania, US",0,0,0,0
 2020-01-24,us,pennsylvania,41.99253829,-80.03301954,84042049.0,US,USA,840,42049.0,erie,"Erie, Pennsylvania, US",0,0,0,0
@@ -6623,3 +6759,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,pennsylvania,41.99253829,-80.03301954,84042049.0,US,USA,840,42049.0,erie,"Erie, Pennsylvania, US",72,4,0,0
 2020-04-25,us,pennsylvania,41.99253829,-80.03301954,84042049.0,US,USA,840,42049.0,erie,"Erie, Pennsylvania, US",79,7,0,0
 2020-04-26,us,pennsylvania,41.99253829,-80.03301954,84042049.0,US,USA,840,42049.0,erie,"Erie, Pennsylvania, US",77,-2,0,0
+2020-04-27,us,pennsylvania,41.99253829,-80.03301954,84042049.0,US,USA,840,42049.0,erie,"Erie, Pennsylvania, US",82,5,2,2
+2020-04-28,us,pennsylvania,41.99253829,-80.03301954,84042049.0,US,USA,840,42049.0,erie,"Erie, Pennsylvania, US",86,4,2,0

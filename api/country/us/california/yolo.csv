@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",157,6,13,1
 2020-04-25,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",157,0,13,0
 2020-04-26,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",161,4,13,0
+2020-04-27,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",161,0,14,1
+2020-04-28,us,california,38.68278902,-121.9018288,84006113.0,US,USA,840,6113.0,yolo,"Yolo, California, US",162,1,16,2

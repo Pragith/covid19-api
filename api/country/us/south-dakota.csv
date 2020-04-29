@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,0.0,0.0,84080046.0,US,USA,840,80046.0,out-of-sd,"Out of SD, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,0.0,0.0,84080046.0,US,USA,840,80046.0,out-of-sd,"Out of SD, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,0.0,0.0,84080046.0,US,USA,840,80046.0,out-of-sd,"Out of SD, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,0.0,0.0,84080046.0,US,USA,840,80046.0,out-of-sd,"Out of SD, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,0.0,0.0,84080046.0,US,USA,840,80046.0,out-of-sd,"Out of SD, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,0.0,0.0,84090046.0,US,USA,840,90046.0,unassigned,"Unassigned, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,0.0,0.0,84090046.0,US,USA,840,90046.0,unassigned,"Unassigned, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,0.0,0.0,84090046.0,US,USA,840,90046.0,unassigned,"Unassigned, South Dakota, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,0.0,0.0,84090046.0,US,USA,840,90046.0,unassigned,"Unassigned, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,0.0,0.0,84090046.0,US,USA,840,90046.0,unassigned,"Unassigned, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,0.0,0.0,84090046.0,US,USA,840,90046.0,unassigned,"Unassigned, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,0.0,0.0,84090046.0,US,USA,840,90046.0,unassigned,"Unassigned, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,0.0,0.0,84090046.0,US,USA,840,90046.0,unassigned,"Unassigned, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,42.83112163,-96.6557828,84046127.0,US,USA,840,46127.0,union,"Union, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,42.83112163,-96.6557828,84046127.0,US,USA,840,46127.0,union,"Union, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,42.83112163,-96.6557828,84046127.0,US,USA,840,46127.0,union,"Union, South Dakota, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,42.83112163,-96.6557828,84046127.0,US,USA,840,46127.0,union,"Union, South Dakota, US",11,3,0,0
 2020-04-25,us,south-dakota,42.83112163,-96.6557828,84046127.0,US,USA,840,46127.0,union,"Union, South Dakota, US",12,1,0,0
 2020-04-26,us,south-dakota,42.83112163,-96.6557828,84046127.0,US,USA,840,46127.0,union,"Union, South Dakota, US",12,0,0,0
+2020-04-27,us,south-dakota,42.83112163,-96.6557828,84046127.0,US,USA,840,46127.0,union,"Union, South Dakota, US",12,0,0,0
+2020-04-28,us,south-dakota,42.83112163,-96.6557828,84046127.0,US,USA,840,46127.0,union,"Union, South Dakota, US",14,2,0,0
 2020-01-22,us,south-dakota,42.91296147,-96.97656917,84046027.0,US,USA,840,46027.0,clay,"Clay, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,42.91296147,-96.97656917,84046027.0,US,USA,840,46027.0,clay,"Clay, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,42.91296147,-96.97656917,84046027.0,US,USA,840,46027.0,clay,"Clay, South Dakota, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,42.91296147,-96.97656917,84046027.0,US,USA,840,46027.0,clay,"Clay, South Dakota, US",5,0,0,0
 2020-04-25,us,south-dakota,42.91296147,-96.97656917,84046027.0,US,USA,840,46027.0,clay,"Clay, South Dakota, US",5,0,0,0
 2020-04-26,us,south-dakota,42.91296147,-96.97656917,84046027.0,US,USA,840,46027.0,clay,"Clay, South Dakota, US",5,0,0,0
+2020-04-27,us,south-dakota,42.91296147,-96.97656917,84046027.0,US,USA,840,46027.0,clay,"Clay, South Dakota, US",5,0,0,0
+2020-04-28,us,south-dakota,42.91296147,-96.97656917,84046027.0,US,USA,840,46027.0,clay,"Clay, South Dakota, US",5,0,0,0
 2020-01-22,us,south-dakota,42.98914167,-97.88592746,84046009.0,US,USA,840,46009.0,bon-homme,"Bon Homme, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,42.98914167,-97.88592746,84046009.0,US,USA,840,46009.0,bon-homme,"Bon Homme, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,42.98914167,-97.88592746,84046009.0,US,USA,840,46009.0,bon-homme,"Bon Homme, South Dakota, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,42.98914167,-97.88592746,84046009.0,US,USA,840,46009.0,bon-homme,"Bon Homme, South Dakota, US",4,0,0,0
 2020-04-25,us,south-dakota,42.98914167,-97.88592746,84046009.0,US,USA,840,46009.0,bon-homme,"Bon Homme, South Dakota, US",4,0,0,0
 2020-04-26,us,south-dakota,42.98914167,-97.88592746,84046009.0,US,USA,840,46009.0,bon-homme,"Bon Homme, South Dakota, US",4,0,0,0
+2020-04-27,us,south-dakota,42.98914167,-97.88592746,84046009.0,US,USA,840,46009.0,bon-homme,"Bon Homme, South Dakota, US",4,0,0,0
+2020-04-28,us,south-dakota,42.98914167,-97.88592746,84046009.0,US,USA,840,46009.0,bon-homme,"Bon Homme, South Dakota, US",4,0,0,0
 2020-01-22,us,south-dakota,43.00924485,-97.39467635,84046135.0,US,USA,840,46135.0,yankton,"Yankton, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.00924485,-97.39467635,84046135.0,US,USA,840,46135.0,yankton,"Yankton, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.00924485,-97.39467635,84046135.0,US,USA,840,46135.0,yankton,"Yankton, South Dakota, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.00924485,-97.39467635,84046135.0,US,USA,840,46135.0,yankton,"Yankton, South Dakota, US",25,0,0,0
 2020-04-25,us,south-dakota,43.00924485,-97.39467635,84046135.0,US,USA,840,46135.0,yankton,"Yankton, South Dakota, US",26,1,0,0
 2020-04-26,us,south-dakota,43.00924485,-97.39467635,84046135.0,US,USA,840,46135.0,yankton,"Yankton, South Dakota, US",26,0,0,0
+2020-04-27,us,south-dakota,43.00924485,-97.39467635,84046135.0,US,USA,840,46135.0,yankton,"Yankton, South Dakota, US",27,1,0,0
+2020-04-28,us,south-dakota,43.00924485,-97.39467635,84046135.0,US,USA,840,46135.0,yankton,"Yankton, South Dakota, US",27,0,0,0
 2020-01-22,us,south-dakota,43.19338568,-100.7195503,84046121.0,US,USA,840,46121.0,todd,"Todd, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.19338568,-100.7195503,84046121.0,US,USA,840,46121.0,todd,"Todd, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.19338568,-100.7195503,84046121.0,US,USA,840,46121.0,todd,"Todd, South Dakota, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.19338568,-100.7195503,84046121.0,US,USA,840,46121.0,todd,"Todd, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,43.19338568,-100.7195503,84046121.0,US,USA,840,46121.0,todd,"Todd, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,43.19338568,-100.7195503,84046121.0,US,USA,840,46121.0,todd,"Todd, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,43.19338568,-100.7195503,84046121.0,US,USA,840,46121.0,todd,"Todd, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,43.19338568,-100.7195503,84046121.0,US,USA,840,46121.0,todd,"Todd, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,43.19419064,-99.18883902,84046053.0,US,USA,840,46053.0,gregory,"Gregory, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.19419064,-99.18883902,84046053.0,US,USA,840,46053.0,gregory,"Gregory, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.19419064,-99.18883902,84046053.0,US,USA,840,46053.0,gregory,"Gregory, South Dakota, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.19419064,-99.18883902,84046053.0,US,USA,840,46053.0,gregory,"Gregory, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,43.19419064,-99.18883902,84046053.0,US,USA,840,46053.0,gregory,"Gregory, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,43.19419064,-99.18883902,84046053.0,US,USA,840,46053.0,gregory,"Gregory, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,43.19419064,-99.18883902,84046053.0,US,USA,840,46053.0,gregory,"Gregory, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,43.19419064,-99.18883902,84046053.0,US,USA,840,46053.0,gregory,"Gregory, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,43.19486375,-101.6665572,84046007.0,US,USA,840,46007.0,bennett,"Bennett, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.19486375,-101.6665572,84046007.0,US,USA,840,46007.0,bennett,"Bennett, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.19486375,-101.6665572,84046007.0,US,USA,840,46007.0,bennett,"Bennett, South Dakota, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.19486375,-101.6665572,84046007.0,US,USA,840,46007.0,bennett,"Bennett, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,43.19486375,-101.6665572,84046007.0,US,USA,840,46007.0,bennett,"Bennett, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,43.19486375,-101.6665572,84046007.0,US,USA,840,46007.0,bennett,"Bennett, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,43.19486375,-101.6665572,84046007.0,US,USA,840,46007.0,bennett,"Bennett, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,43.19486375,-101.6665572,84046007.0,US,USA,840,46007.0,bennett,"Bennett, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,43.20660134,-98.58856175,84046023.0,US,USA,840,46023.0,charles-mix,"Charles Mix, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.20660134,-98.58856175,84046023.0,US,USA,840,46023.0,charles-mix,"Charles Mix, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.20660134,-98.58856175,84046023.0,US,USA,840,46023.0,charles-mix,"Charles Mix, South Dakota, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.20660134,-98.58856175,84046023.0,US,USA,840,46023.0,charles-mix,"Charles Mix, South Dakota, US",4,0,0,0
 2020-04-25,us,south-dakota,43.20660134,-98.58856175,84046023.0,US,USA,840,46023.0,charles-mix,"Charles Mix, South Dakota, US",4,0,0,0
 2020-04-26,us,south-dakota,43.20660134,-98.58856175,84046023.0,US,USA,840,46023.0,charles-mix,"Charles Mix, South Dakota, US",4,0,0,0
+2020-04-27,us,south-dakota,43.20660134,-98.58856175,84046023.0,US,USA,840,46023.0,charles-mix,"Charles Mix, South Dakota, US",4,0,0,0
+2020-04-28,us,south-dakota,43.20660134,-98.58856175,84046023.0,US,USA,840,46023.0,charles-mix,"Charles Mix, South Dakota, US",4,0,0,0
 2020-01-22,us,south-dakota,43.23929297,-103.5275691,84046047.0,US,USA,840,46047.0,fall-river,"Fall River, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.23929297,-103.5275691,84046047.0,US,USA,840,46047.0,fall-river,"Fall River, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.23929297,-103.5275691,84046047.0,US,USA,840,46047.0,fall-river,"Fall River, South Dakota, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.23929297,-103.5275691,84046047.0,US,USA,840,46047.0,fall-river,"Fall River, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,43.23929297,-103.5275691,84046047.0,US,USA,840,46047.0,fall-river,"Fall River, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,43.23929297,-103.5275691,84046047.0,US,USA,840,46047.0,fall-river,"Fall River, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,43.23929297,-103.5275691,84046047.0,US,USA,840,46047.0,fall-river,"Fall River, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,43.23929297,-103.5275691,84046047.0,US,USA,840,46047.0,fall-river,"Fall River, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,43.27841182,-96.7203905,84046083.0,US,USA,840,46083.0,lincoln,"Lincoln, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.27841182,-96.7203905,84046083.0,US,USA,840,46083.0,lincoln,"Lincoln, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.27841182,-96.7203905,84046083.0,US,USA,840,46083.0,lincoln,"Lincoln, South Dakota, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.27841182,-96.7203905,84046083.0,US,USA,840,46083.0,lincoln,"Lincoln, South Dakota, US",116,6,0,0
 2020-04-25,us,south-dakota,43.27841182,-96.7203905,84046083.0,US,USA,840,46083.0,lincoln,"Lincoln, South Dakota, US",125,9,0,0
 2020-04-26,us,south-dakota,43.27841182,-96.7203905,84046083.0,US,USA,840,46083.0,lincoln,"Lincoln, South Dakota, US",128,3,0,0
+2020-04-27,us,south-dakota,43.27841182,-96.7203905,84046083.0,US,USA,840,46083.0,lincoln,"Lincoln, South Dakota, US",131,3,0,0
+2020-04-28,us,south-dakota,43.27841182,-96.7203905,84046083.0,US,USA,840,46083.0,lincoln,"Lincoln, South Dakota, US",133,2,0,0
 2020-01-22,us,south-dakota,43.3109081,-97.14865776,84046125.0,US,USA,840,46125.0,turner,"Turner, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.3109081,-97.14865776,84046125.0,US,USA,840,46125.0,turner,"Turner, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.3109081,-97.14865776,84046125.0,US,USA,840,46125.0,turner,"Turner, South Dakota, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.3109081,-97.14865776,84046125.0,US,USA,840,46125.0,turner,"Turner, South Dakota, US",13,0,0,0
 2020-04-25,us,south-dakota,43.3109081,-97.14865776,84046125.0,US,USA,840,46125.0,turner,"Turner, South Dakota, US",15,2,0,0
 2020-04-26,us,south-dakota,43.3109081,-97.14865776,84046125.0,US,USA,840,46125.0,turner,"Turner, South Dakota, US",15,0,0,0
+2020-04-27,us,south-dakota,43.3109081,-97.14865776,84046125.0,US,USA,840,46125.0,turner,"Turner, South Dakota, US",15,0,0,0
+2020-04-28,us,south-dakota,43.3109081,-97.14865776,84046125.0,US,USA,840,46125.0,turner,"Turner, South Dakota, US",15,0,0,0
 2020-01-22,us,south-dakota,43.33449012,-97.75536441,84046067.0,US,USA,840,46067.0,hutchinson,"Hutchinson, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.33449012,-97.75536441,84046067.0,US,USA,840,46067.0,hutchinson,"Hutchinson, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.33449012,-97.75536441,84046067.0,US,USA,840,46067.0,hutchinson,"Hutchinson, South Dakota, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.33449012,-97.75536441,84046067.0,US,USA,840,46067.0,hutchinson,"Hutchinson, South Dakota, US",2,0,0,0
 2020-04-25,us,south-dakota,43.33449012,-97.75536441,84046067.0,US,USA,840,46067.0,hutchinson,"Hutchinson, South Dakota, US",2,0,0,0
 2020-04-26,us,south-dakota,43.33449012,-97.75536441,84046067.0,US,USA,840,46067.0,hutchinson,"Hutchinson, South Dakota, US",3,1,0,0
+2020-04-27,us,south-dakota,43.33449012,-97.75536441,84046067.0,US,USA,840,46067.0,hutchinson,"Hutchinson, South Dakota, US",3,0,0,0
+2020-04-28,us,south-dakota,43.33449012,-97.75536441,84046067.0,US,USA,840,46067.0,hutchinson,"Hutchinson, South Dakota, US",3,0,0,0
 2020-01-22,us,south-dakota,43.33749164,-102.5555498,84046102.0,US,USA,840,46102.0,oglala-lakota,"Oglala Lakota, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.33749164,-102.5555498,84046102.0,US,USA,840,46102.0,oglala-lakota,"Oglala Lakota, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.33749164,-102.5555498,84046102.0,US,USA,840,46102.0,oglala-lakota,"Oglala Lakota, South Dakota, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.33749164,-102.5555498,84046102.0,US,USA,840,46102.0,oglala-lakota,"Oglala Lakota, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,43.33749164,-102.5555498,84046102.0,US,USA,840,46102.0,oglala-lakota,"Oglala Lakota, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,43.33749164,-102.5555498,84046102.0,US,USA,840,46102.0,oglala-lakota,"Oglala Lakota, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,43.33749164,-102.5555498,84046102.0,US,USA,840,46102.0,oglala-lakota,"Oglala Lakota, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,43.33749164,-102.5555498,84046102.0,US,USA,840,46102.0,oglala-lakota,"Oglala Lakota, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,43.34459388,-99.8854891,84046123.0,US,USA,840,46123.0,tripp,"Tripp, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.34459388,-99.8854891,84046123.0,US,USA,840,46123.0,tripp,"Tripp, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.34459388,-99.8854891,84046123.0,US,USA,840,46123.0,tripp,"Tripp, South Dakota, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.34459388,-99.8854891,84046123.0,US,USA,840,46123.0,tripp,"Tripp, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,43.34459388,-99.8854891,84046123.0,US,USA,840,46123.0,tripp,"Tripp, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,43.34459388,-99.8854891,84046123.0,US,USA,840,46123.0,tripp,"Tripp, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,43.34459388,-99.8854891,84046123.0,US,USA,840,46123.0,tripp,"Tripp, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,43.34459388,-99.8854891,84046123.0,US,USA,840,46123.0,tripp,"Tripp, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,43.38520741,-98.36978007,84046043.0,US,USA,840,46043.0,douglas,"Douglas, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.38520741,-98.36978007,84046043.0,US,USA,840,46043.0,douglas,"Douglas, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.38520741,-98.36978007,84046043.0,US,USA,840,46043.0,douglas,"Douglas, South Dakota, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.38520741,-98.36978007,84046043.0,US,USA,840,46043.0,douglas,"Douglas, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,43.38520741,-98.36978007,84046043.0,US,USA,840,46043.0,douglas,"Douglas, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,43.38520741,-98.36978007,84046043.0,US,USA,840,46043.0,douglas,"Douglas, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,43.38520741,-98.36978007,84046043.0,US,USA,840,46043.0,douglas,"Douglas, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,43.38520741,-98.36978007,84046043.0,US,USA,840,46043.0,douglas,"Douglas, South Dakota, US",1,1,0,0
 2020-01-22,us,south-dakota,43.58078848,-100.7563186,84046095.0,US,USA,840,46095.0,mellette,"Mellette, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.58078848,-100.7563186,84046095.0,US,USA,840,46095.0,mellette,"Mellette, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.58078848,-100.7563186,84046095.0,US,USA,840,46095.0,mellette,"Mellette, South Dakota, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.58078848,-100.7563186,84046095.0,US,USA,840,46095.0,mellette,"Mellette, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,43.58078848,-100.7563186,84046095.0,US,USA,840,46095.0,mellette,"Mellette, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,43.58078848,-100.7563186,84046095.0,US,USA,840,46095.0,mellette,"Mellette, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,43.58078848,-100.7563186,84046095.0,US,USA,840,46095.0,mellette,"Mellette, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,43.58078848,-100.7563186,84046095.0,US,USA,840,46095.0,mellette,"Mellette, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,43.6742571,-97.36863144,84046087.0,US,USA,840,46087.0,mccook,"McCook, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.6742571,-97.36863144,84046087.0,US,USA,840,46087.0,mccook,"McCook, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.6742571,-97.36863144,84046087.0,US,USA,840,46087.0,mccook,"McCook, South Dakota, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.6742571,-97.36863144,84046087.0,US,USA,840,46087.0,mccook,"McCook, South Dakota, US",4,0,1,0
 2020-04-25,us,south-dakota,43.6742571,-97.36863144,84046087.0,US,USA,840,46087.0,mccook,"McCook, South Dakota, US",4,0,1,0
 2020-04-26,us,south-dakota,43.6742571,-97.36863144,84046087.0,US,USA,840,46087.0,mccook,"McCook, South Dakota, US",4,0,1,0
+2020-04-27,us,south-dakota,43.6742571,-97.36863144,84046087.0,US,USA,840,46087.0,mccook,"McCook, South Dakota, US",4,0,1,0
+2020-04-28,us,south-dakota,43.6742571,-97.36863144,84046087.0,US,USA,840,46087.0,mccook,"McCook, South Dakota, US",4,0,1,0
 2020-01-22,us,south-dakota,43.67441641,-96.7910885,84046099.0,US,USA,840,46099.0,minnehaha,"Minnehaha, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.67441641,-96.7910885,84046099.0,US,USA,840,46099.0,minnehaha,"Minnehaha, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.67441641,-96.7910885,84046099.0,US,USA,840,46099.0,minnehaha,"Minnehaha, South Dakota, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.67441641,-96.7910885,84046099.0,US,USA,840,46099.0,minnehaha,"Minnehaha, South Dakota, US",1707,71,5,0
 2020-04-25,us,south-dakota,43.67441641,-96.7910885,84046099.0,US,USA,840,46099.0,minnehaha,"Minnehaha, South Dakota, US",1796,89,5,0
 2020-04-26,us,south-dakota,43.67441641,-96.7910885,84046099.0,US,USA,840,46099.0,minnehaha,"Minnehaha, South Dakota, US",1854,58,6,1
+2020-04-27,us,south-dakota,43.67441641,-96.7910885,84046099.0,US,USA,840,46099.0,minnehaha,"Minnehaha, South Dakota, US",1880,26,6,0
+2020-04-28,us,south-dakota,43.67441641,-96.7910885,84046099.0,US,USA,840,46099.0,minnehaha,"Minnehaha, South Dakota, US",1939,59,6,0
 2020-01-22,us,south-dakota,43.6746384,-97.78715148,84046061.0,US,USA,840,46061.0,hanson,"Hanson, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.6746384,-97.78715148,84046061.0,US,USA,840,46061.0,hanson,"Hanson, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.6746384,-97.78715148,84046061.0,US,USA,840,46061.0,hanson,"Hanson, South Dakota, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.6746384,-97.78715148,84046061.0,US,USA,840,46061.0,hanson,"Hanson, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,43.6746384,-97.78715148,84046061.0,US,USA,840,46061.0,hanson,"Hanson, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,43.6746384,-97.78715148,84046061.0,US,USA,840,46061.0,hanson,"Hanson, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,43.6746384,-97.78715148,84046061.0,US,USA,840,46061.0,hanson,"Hanson, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,43.6746384,-97.78715148,84046061.0,US,USA,840,46061.0,hanson,"Hanson, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,43.67490933,-98.14458906,84046035.0,US,USA,840,46035.0,davison,"Davison, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.67490933,-98.14458906,84046035.0,US,USA,840,46035.0,davison,"Davison, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.67490933,-98.14458906,84046035.0,US,USA,840,46035.0,davison,"Davison, South Dakota, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.67490933,-98.14458906,84046035.0,US,USA,840,46035.0,davison,"Davison, South Dakota, US",5,0,0,0
 2020-04-25,us,south-dakota,43.67490933,-98.14458906,84046035.0,US,USA,840,46035.0,davison,"Davison, South Dakota, US",5,0,0,0
 2020-04-26,us,south-dakota,43.67490933,-98.14458906,84046035.0,US,USA,840,46035.0,davison,"Davison, South Dakota, US",5,0,0,0
+2020-04-27,us,south-dakota,43.67490933,-98.14458906,84046035.0,US,USA,840,46035.0,davison,"Davison, South Dakota, US",5,0,0,0
+2020-04-28,us,south-dakota,43.67490933,-98.14458906,84046035.0,US,USA,840,46035.0,davison,"Davison, South Dakota, US",5,0,0,0
 2020-01-22,us,south-dakota,43.67741105,-103.4534521,84046033.0,US,USA,840,46033.0,custer,"Custer, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.67741105,-103.4534521,84046033.0,US,USA,840,46033.0,custer,"Custer, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.67741105,-103.4534521,84046033.0,US,USA,840,46033.0,custer,"Custer, South Dakota, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.67741105,-103.4534521,84046033.0,US,USA,840,46033.0,custer,"Custer, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,43.67741105,-103.4534521,84046033.0,US,USA,840,46033.0,custer,"Custer, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,43.67741105,-103.4534521,84046033.0,US,USA,840,46033.0,custer,"Custer, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,43.67741105,-103.4534521,84046033.0,US,USA,840,46033.0,custer,"Custer, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,43.67741105,-103.4534521,84046033.0,US,USA,840,46033.0,custer,"Custer, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,43.69318385,-101.6255063,84046071.0,US,USA,840,46071.0,jackson,"Jackson, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.69318385,-101.6255063,84046071.0,US,USA,840,46071.0,jackson,"Jackson, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.69318385,-101.6255063,84046071.0,US,USA,840,46071.0,jackson,"Jackson, South Dakota, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.69318385,-101.6255063,84046071.0,US,USA,840,46071.0,jackson,"Jackson, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,43.69318385,-101.6255063,84046071.0,US,USA,840,46071.0,jackson,"Jackson, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,43.69318385,-101.6255063,84046071.0,US,USA,840,46071.0,jackson,"Jackson, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,43.69318385,-101.6255063,84046071.0,US,USA,840,46071.0,jackson,"Jackson, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,43.69318385,-101.6255063,84046071.0,US,USA,840,46071.0,jackson,"Jackson, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,43.71756379,-99.08118954,84046015.0,US,USA,840,46015.0,brule,"Brule, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.71756379,-99.08118954,84046015.0,US,USA,840,46015.0,brule,"Brule, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.71756379,-99.08118954,84046015.0,US,USA,840,46015.0,brule,"Brule, South Dakota, US",0,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.71756379,-99.08118954,84046015.0,US,USA,840,46015.0,brule,"Brule, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,43.71756379,-99.08118954,84046015.0,US,USA,840,46015.0,brule,"Brule, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,43.71756379,-99.08118954,84046015.0,US,USA,840,46015.0,brule,"Brule, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,43.71756379,-99.08118954,84046015.0,US,USA,840,46015.0,brule,"Brule, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,43.71756379,-99.08118954,84046015.0,US,USA,840,46015.0,brule,"Brule, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,43.71757685,-98.56050467,84046003.0,US,USA,840,46003.0,aurora,"Aurora, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.71757685,-98.56050467,84046003.0,US,USA,840,46003.0,aurora,"Aurora, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.71757685,-98.56050467,84046003.0,US,USA,840,46003.0,aurora,"Aurora, South Dakota, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.71757685,-98.56050467,84046003.0,US,USA,840,46003.0,aurora,"Aurora, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,43.71757685,-98.56050467,84046003.0,US,USA,840,46003.0,aurora,"Aurora, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,43.71757685,-98.56050467,84046003.0,US,USA,840,46003.0,aurora,"Aurora, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,43.71757685,-98.56050467,84046003.0,US,USA,840,46003.0,aurora,"Aurora, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,43.71757685,-98.56050467,84046003.0,US,USA,840,46003.0,aurora,"Aurora, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,43.89522709,-99.85201878,84046085.0,US,USA,840,46085.0,lyman,"Lyman, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.89522709,-99.85201878,84046085.0,US,USA,840,46085.0,lyman,"Lyman, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.89522709,-99.85201878,84046085.0,US,USA,840,46085.0,lyman,"Lyman, South Dakota, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.89522709,-99.85201878,84046085.0,US,USA,840,46085.0,lyman,"Lyman, South Dakota, US",2,0,0,0
 2020-04-25,us,south-dakota,43.89522709,-99.85201878,84046085.0,US,USA,840,46085.0,lyman,"Lyman, South Dakota, US",2,0,0,0
 2020-04-26,us,south-dakota,43.89522709,-99.85201878,84046085.0,US,USA,840,46085.0,lyman,"Lyman, South Dakota, US",2,0,0,0
+2020-04-27,us,south-dakota,43.89522709,-99.85201878,84046085.0,US,USA,840,46085.0,lyman,"Lyman, South Dakota, US",2,0,0,0
+2020-04-28,us,south-dakota,43.89522709,-99.85201878,84046085.0,US,USA,840,46085.0,lyman,"Lyman, South Dakota, US",2,0,0,0
 2020-01-22,us,south-dakota,43.96278565,-100.6940008,84046075.0,US,USA,840,46075.0,jones,"Jones, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,43.96278565,-100.6940008,84046075.0,US,USA,840,46075.0,jones,"Jones, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,43.96278565,-100.6940008,84046075.0,US,USA,840,46075.0,jones,"Jones, South Dakota, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,43.96278565,-100.6940008,84046075.0,US,USA,840,46075.0,jones,"Jones, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,43.96278565,-100.6940008,84046075.0,US,USA,840,46075.0,jones,"Jones, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,43.96278565,-100.6940008,84046075.0,US,USA,840,46075.0,jones,"Jones, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,43.96278565,-100.6940008,84046075.0,US,USA,840,46075.0,jones,"Jones, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,43.96278565,-100.6940008,84046075.0,US,USA,840,46075.0,jones,"Jones, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,44.0025835,-102.8240777,84046103.0,US,USA,840,46103.0,pennington,"Pennington, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.0025835,-102.8240777,84046103.0,US,USA,840,46103.0,pennington,"Pennington, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.0025835,-102.8240777,84046103.0,US,USA,840,46103.0,pennington,"Pennington, South Dakota, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.0025835,-102.8240777,84046103.0,US,USA,840,46103.0,pennington,"Pennington, South Dakota, US",11,0,1,0
 2020-04-25,us,south-dakota,44.0025835,-102.8240777,84046103.0,US,USA,840,46103.0,pennington,"Pennington, South Dakota, US",11,0,1,0
 2020-04-26,us,south-dakota,44.0025835,-102.8240777,84046103.0,US,USA,840,46103.0,pennington,"Pennington, South Dakota, US",12,1,1,0
+2020-04-27,us,south-dakota,44.0025835,-102.8240777,84046103.0,US,USA,840,46103.0,pennington,"Pennington, South Dakota, US",12,0,1,0
+2020-04-28,us,south-dakota,44.0025835,-102.8240777,84046103.0,US,USA,840,46103.0,pennington,"Pennington, South Dakota, US",12,0,1,0
 2020-01-22,us,south-dakota,44.02193107,-97.12926365,84046079.0,US,USA,840,46079.0,lake,"Lake, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.02193107,-97.12926365,84046079.0,US,USA,840,46079.0,lake,"Lake, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.02193107,-97.12926365,84046079.0,US,USA,840,46079.0,lake,"Lake, South Dakota, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.02193107,-97.12926365,84046079.0,US,USA,840,46079.0,lake,"Lake, South Dakota, US",4,1,0,0
 2020-04-25,us,south-dakota,44.02193107,-97.12926365,84046079.0,US,USA,840,46079.0,lake,"Lake, South Dakota, US",4,0,0,0
 2020-04-26,us,south-dakota,44.02193107,-97.12926365,84046079.0,US,USA,840,46079.0,lake,"Lake, South Dakota, US",4,0,0,0
+2020-04-27,us,south-dakota,44.02193107,-97.12926365,84046079.0,US,USA,840,46079.0,lake,"Lake, South Dakota, US",4,0,0,0
+2020-04-28,us,south-dakota,44.02193107,-97.12926365,84046079.0,US,USA,840,46079.0,lake,"Lake, South Dakota, US",4,0,0,0
 2020-01-22,us,south-dakota,44.02197882,-97.60992207,84046097.0,US,USA,840,46097.0,miner,"Miner, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.02197882,-97.60992207,84046097.0,US,USA,840,46097.0,miner,"Miner, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.02197882,-97.60992207,84046097.0,US,USA,840,46097.0,miner,"Miner, South Dakota, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.02197882,-97.60992207,84046097.0,US,USA,840,46097.0,miner,"Miner, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,44.02197882,-97.60992207,84046097.0,US,USA,840,46097.0,miner,"Miner, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,44.02197882,-97.60992207,84046097.0,US,USA,840,46097.0,miner,"Miner, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,44.02197882,-97.60992207,84046097.0,US,USA,840,46097.0,miner,"Miner, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,44.02197882,-97.60992207,84046097.0,US,USA,840,46097.0,miner,"Miner, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,44.02266214,-96.67081159,84046101.0,US,USA,840,46101.0,moody,"Moody, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.02266214,-96.67081159,84046101.0,US,USA,840,46101.0,moody,"Moody, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.02266214,-96.67081159,84046101.0,US,USA,840,46101.0,moody,"Moody, South Dakota, US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.02266214,-96.67081159,84046101.0,US,USA,840,46101.0,moody,"Moody, South Dakota, US",2,0,0,0
 2020-04-25,us,south-dakota,44.02266214,-96.67081159,84046101.0,US,USA,840,46101.0,moody,"Moody, South Dakota, US",2,0,0,0
 2020-04-26,us,south-dakota,44.02266214,-96.67081159,84046101.0,US,USA,840,46101.0,moody,"Moody, South Dakota, US",3,1,0,0
+2020-04-27,us,south-dakota,44.02266214,-96.67081159,84046101.0,US,USA,840,46101.0,moody,"Moody, South Dakota, US",3,0,0,0
+2020-04-28,us,south-dakota,44.02266214,-96.67081159,84046101.0,US,USA,840,46101.0,moody,"Moody, South Dakota, US",3,0,0,0
 2020-01-22,us,south-dakota,44.02351092,-98.0909816,84046111.0,US,USA,840,46111.0,sanborn,"Sanborn, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.02351092,-98.0909816,84046111.0,US,USA,840,46111.0,sanborn,"Sanborn, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.02351092,-98.0909816,84046111.0,US,USA,840,46111.0,sanborn,"Sanborn, South Dakota, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.02351092,-98.0909816,84046111.0,US,USA,840,46111.0,sanborn,"Sanborn, South Dakota, US",3,0,0,0
 2020-04-25,us,south-dakota,44.02351092,-98.0909816,84046111.0,US,USA,840,46111.0,sanborn,"Sanborn, South Dakota, US",3,0,0,0
 2020-04-26,us,south-dakota,44.02351092,-98.0909816,84046111.0,US,USA,840,46111.0,sanborn,"Sanborn, South Dakota, US",3,0,0,0
+2020-04-27,us,south-dakota,44.02351092,-98.0909816,84046111.0,US,USA,840,46111.0,sanborn,"Sanborn, South Dakota, US",3,0,0,0
+2020-04-28,us,south-dakota,44.02351092,-98.0909816,84046111.0,US,USA,840,46111.0,sanborn,"Sanborn, South Dakota, US",3,0,0,0
 2020-01-22,us,south-dakota,44.06637798,-98.62965972,84046073.0,US,USA,840,46073.0,jerauld,"Jerauld, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.06637798,-98.62965972,84046073.0,US,USA,840,46073.0,jerauld,"Jerauld, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.06637798,-98.62965972,84046073.0,US,USA,840,46073.0,jerauld,"Jerauld, South Dakota, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.06637798,-98.62965972,84046073.0,US,USA,840,46073.0,jerauld,"Jerauld, South Dakota, US",6,1,1,1
 2020-04-25,us,south-dakota,44.06637798,-98.62965972,84046073.0,US,USA,840,46073.0,jerauld,"Jerauld, South Dakota, US",6,0,1,0
 2020-04-26,us,south-dakota,44.06637798,-98.62965972,84046073.0,US,USA,840,46073.0,jerauld,"Jerauld, South Dakota, US",6,0,1,0
+2020-04-27,us,south-dakota,44.06637798,-98.62965972,84046073.0,US,USA,840,46073.0,jerauld,"Jerauld, South Dakota, US",6,0,1,0
+2020-04-28,us,south-dakota,44.06637798,-98.62965972,84046073.0,US,USA,840,46073.0,jerauld,"Jerauld, South Dakota, US",6,0,1,0
 2020-01-22,us,south-dakota,44.07657829,-99.20814467,84046017.0,US,USA,840,46017.0,buffalo,"Buffalo, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.07657829,-99.20814467,84046017.0,US,USA,840,46017.0,buffalo,"Buffalo, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.07657829,-99.20814467,84046017.0,US,USA,840,46017.0,buffalo,"Buffalo, South Dakota, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.07657829,-99.20814467,84046017.0,US,USA,840,46017.0,buffalo,"Buffalo, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,44.07657829,-99.20814467,84046017.0,US,USA,840,46017.0,buffalo,"Buffalo, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,44.07657829,-99.20814467,84046017.0,US,USA,840,46017.0,buffalo,"Buffalo, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,44.07657829,-99.20814467,84046017.0,US,USA,840,46017.0,buffalo,"Buffalo, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,44.07657829,-99.20814467,84046017.0,US,USA,840,46017.0,buffalo,"Buffalo, South Dakota, US",1,1,0,0
 2020-01-22,us,south-dakota,44.29299053,-101.539099,84046055.0,US,USA,840,46055.0,haakon,"Haakon, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.29299053,-101.539099,84046055.0,US,USA,840,46055.0,haakon,"Haakon, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.29299053,-101.539099,84046055.0,US,USA,840,46055.0,haakon,"Haakon, South Dakota, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.29299053,-101.539099,84046055.0,US,USA,840,46055.0,haakon,"Haakon, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,44.29299053,-101.539099,84046055.0,US,USA,840,46055.0,haakon,"Haakon, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,44.29299053,-101.539099,84046055.0,US,USA,840,46055.0,haakon,"Haakon, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,44.29299053,-101.539099,84046055.0,US,USA,840,46055.0,haakon,"Haakon, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,44.29299053,-101.539099,84046055.0,US,USA,840,46055.0,haakon,"Haakon, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,44.35919441,-103.7929428,84046081.0,US,USA,840,46081.0,lawrence,"Lawrence, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.35919441,-103.7929428,84046081.0,US,USA,840,46081.0,lawrence,"Lawrence, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.35919441,-103.7929428,84046081.0,US,USA,840,46081.0,lawrence,"Lawrence, South Dakota, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.35919441,-103.7929428,84046081.0,US,USA,840,46081.0,lawrence,"Lawrence, South Dakota, US",9,0,0,0
 2020-04-25,us,south-dakota,44.35919441,-103.7929428,84046081.0,US,USA,840,46081.0,lawrence,"Lawrence, South Dakota, US",9,0,0,0
 2020-04-26,us,south-dakota,44.35919441,-103.7929428,84046081.0,US,USA,840,46081.0,lawrence,"Lawrence, South Dakota, US",9,0,0,0
+2020-04-27,us,south-dakota,44.35919441,-103.7929428,84046081.0,US,USA,840,46081.0,lawrence,"Lawrence, South Dakota, US",9,0,0,0
+2020-04-28,us,south-dakota,44.35919441,-103.7929428,84046081.0,US,USA,840,46081.0,lawrence,"Lawrence, South Dakota, US",9,0,0,0
 2020-01-22,us,south-dakota,44.36956169,-97.4913945,84046077.0,US,USA,840,46077.0,kingsbury,"Kingsbury, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.36956169,-97.4913945,84046077.0,US,USA,840,46077.0,kingsbury,"Kingsbury, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.36956169,-97.4913945,84046077.0,US,USA,840,46077.0,kingsbury,"Kingsbury, South Dakota, US",0,0,0,0
@@ -3647,6 +3721,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.36956169,-97.4913945,84046077.0,US,USA,840,46077.0,kingsbury,"Kingsbury, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,44.36956169,-97.4913945,84046077.0,US,USA,840,46077.0,kingsbury,"Kingsbury, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,44.36956169,-97.4913945,84046077.0,US,USA,840,46077.0,kingsbury,"Kingsbury, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,44.36956169,-97.4913945,84046077.0,US,USA,840,46077.0,kingsbury,"Kingsbury, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,44.36956169,-97.4913945,84046077.0,US,USA,840,46077.0,kingsbury,"Kingsbury, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,44.36974375,-96.79079945,84046011.0,US,USA,840,46011.0,brookings,"Brookings, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.36974375,-96.79079945,84046011.0,US,USA,840,46011.0,brookings,"Brookings, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.36974375,-96.79079945,84046011.0,US,USA,840,46011.0,brookings,"Brookings, South Dakota, US",0,0,0,0
@@ -3743,6 +3819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.36974375,-96.79079945,84046011.0,US,USA,840,46011.0,brookings,"Brookings, South Dakota, US",9,0,0,0
 2020-04-25,us,south-dakota,44.36974375,-96.79079945,84046011.0,US,USA,840,46011.0,brookings,"Brookings, South Dakota, US",11,2,0,0
 2020-04-26,us,south-dakota,44.36974375,-96.79079945,84046011.0,US,USA,840,46011.0,brookings,"Brookings, South Dakota, US",11,0,0,0
+2020-04-27,us,south-dakota,44.36974375,-96.79079945,84046011.0,US,USA,840,46011.0,brookings,"Brookings, South Dakota, US",12,1,0,0
+2020-04-28,us,south-dakota,44.36974375,-96.79079945,84046011.0,US,USA,840,46011.0,brookings,"Brookings, South Dakota, US",12,0,0,0
 2020-01-22,us,south-dakota,44.39091534,-99.99661148,84046065.0,US,USA,840,46065.0,hughes,"Hughes, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.39091534,-99.99661148,84046065.0,US,USA,840,46065.0,hughes,"Hughes, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.39091534,-99.99661148,84046065.0,US,USA,840,46065.0,hughes,"Hughes, South Dakota, US",0,0,0,0
@@ -3839,6 +3917,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.39091534,-99.99661148,84046065.0,US,USA,840,46065.0,hughes,"Hughes, South Dakota, US",7,0,0,0
 2020-04-25,us,south-dakota,44.39091534,-99.99661148,84046065.0,US,USA,840,46065.0,hughes,"Hughes, South Dakota, US",7,0,0,0
 2020-04-26,us,south-dakota,44.39091534,-99.99661148,84046065.0,US,USA,840,46065.0,hughes,"Hughes, South Dakota, US",7,0,0,0
+2020-04-27,us,south-dakota,44.39091534,-99.99661148,84046065.0,US,USA,840,46065.0,hughes,"Hughes, South Dakota, US",7,0,0,0
+2020-04-28,us,south-dakota,44.39091534,-99.99661148,84046065.0,US,USA,840,46065.0,hughes,"Hughes, South Dakota, US",7,0,0,0
 2020-01-22,us,south-dakota,44.41381872,-100.7349153,84046117.0,US,USA,840,46117.0,stanley,"Stanley, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.41381872,-100.7349153,84046117.0,US,USA,840,46117.0,stanley,"Stanley, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.41381872,-100.7349153,84046117.0,US,USA,840,46117.0,stanley,"Stanley, South Dakota, US",0,0,0,0
@@ -3935,6 +4015,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.41381872,-100.7349153,84046117.0,US,USA,840,46117.0,stanley,"Stanley, South Dakota, US",1,1,0,0
 2020-04-25,us,south-dakota,44.41381872,-100.7349153,84046117.0,US,USA,840,46117.0,stanley,"Stanley, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,44.41381872,-100.7349153,84046117.0,US,USA,840,46117.0,stanley,"Stanley, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,44.41381872,-100.7349153,84046117.0,US,USA,840,46117.0,stanley,"Stanley, South Dakota, US",2,1,0,0
+2020-04-28,us,south-dakota,44.41381872,-100.7349153,84046117.0,US,USA,840,46117.0,stanley,"Stanley, South Dakota, US",6,4,0,0
 2020-01-22,us,south-dakota,44.41464384,-98.27858469,84046005.0,US,USA,840,46005.0,beadle,"Beadle, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.41464384,-98.27858469,84046005.0,US,USA,840,46005.0,beadle,"Beadle, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.41464384,-98.27858469,84046005.0,US,USA,840,46005.0,beadle,"Beadle, South Dakota, US",0,0,0,0
@@ -4031,6 +4113,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.41464384,-98.27858469,84046005.0,US,USA,840,46005.0,beadle,"Beadle, South Dakota, US",21,0,2,0
 2020-04-25,us,south-dakota,44.41464384,-98.27858469,84046005.0,US,USA,840,46005.0,beadle,"Beadle, South Dakota, US",21,0,2,0
 2020-04-26,us,south-dakota,44.41464384,-98.27858469,84046005.0,US,USA,840,46005.0,beadle,"Beadle, South Dakota, US",21,0,2,0
+2020-04-27,us,south-dakota,44.41464384,-98.27858469,84046005.0,US,USA,840,46005.0,beadle,"Beadle, South Dakota, US",21,0,2,0
+2020-04-28,us,south-dakota,44.41464384,-98.27858469,84046005.0,US,USA,840,46005.0,beadle,"Beadle, South Dakota, US",21,0,2,0
 2020-01-22,us,south-dakota,44.54708407,-99.00386459,84046059.0,US,USA,840,46059.0,hand,"Hand, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.54708407,-99.00386459,84046059.0,US,USA,840,46059.0,hand,"Hand, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.54708407,-99.00386459,84046059.0,US,USA,840,46059.0,hand,"Hand, South Dakota, US",0,0,0,0
@@ -4127,6 +4211,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.54708407,-99.00386459,84046059.0,US,USA,840,46059.0,hand,"Hand, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,44.54708407,-99.00386459,84046059.0,US,USA,840,46059.0,hand,"Hand, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,44.54708407,-99.00386459,84046059.0,US,USA,840,46059.0,hand,"Hand, South Dakota, US",1,1,0,0
+2020-04-27,us,south-dakota,44.54708407,-99.00386459,84046059.0,US,USA,840,46059.0,hand,"Hand, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,44.54708407,-99.00386459,84046059.0,US,USA,840,46059.0,hand,"Hand, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,44.54747703,-99.48572582,84046069.0,US,USA,840,46069.0,hyde,"Hyde, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.54747703,-99.48572582,84046069.0,US,USA,840,46069.0,hyde,"Hyde, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.54747703,-99.48572582,84046069.0,US,USA,840,46069.0,hyde,"Hyde, South Dakota, US",0,0,0,0
@@ -4223,6 +4309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.54747703,-99.48572582,84046069.0,US,USA,840,46069.0,hyde,"Hyde, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,44.54747703,-99.48572582,84046069.0,US,USA,840,46069.0,hyde,"Hyde, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,44.54747703,-99.48572582,84046069.0,US,USA,840,46069.0,hyde,"Hyde, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,44.54747703,-99.48572582,84046069.0,US,USA,840,46069.0,hyde,"Hyde, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,44.54747703,-99.48572582,84046069.0,US,USA,840,46069.0,hyde,"Hyde, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,44.56676791,-102.7162741,84046093.0,US,USA,840,46093.0,meade,"Meade, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.56676791,-102.7162741,84046093.0,US,USA,840,46093.0,meade,"Meade, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.56676791,-102.7162741,84046093.0,US,USA,840,46093.0,meade,"Meade, South Dakota, US",0,0,0,0
@@ -4319,6 +4407,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.56676791,-102.7162741,84046093.0,US,USA,840,46093.0,meade,"Meade, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,44.56676791,-102.7162741,84046093.0,US,USA,840,46093.0,meade,"Meade, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,44.56676791,-102.7162741,84046093.0,US,USA,840,46093.0,meade,"Meade, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,44.56676791,-102.7162741,84046093.0,US,USA,840,46093.0,meade,"Meade, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,44.56676791,-102.7162741,84046093.0,US,USA,840,46093.0,meade,"Meade, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,44.67385954,-97.18829593,84046057.0,US,USA,840,46057.0,hamlin,"Hamlin, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.67385954,-97.18829593,84046057.0,US,USA,840,46057.0,hamlin,"Hamlin, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.67385954,-97.18829593,84046057.0,US,USA,840,46057.0,hamlin,"Hamlin, South Dakota, US",0,0,0,0
@@ -4415,6 +4505,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.67385954,-97.18829593,84046057.0,US,USA,840,46057.0,hamlin,"Hamlin, South Dakota, US",2,0,0,0
 2020-04-25,us,south-dakota,44.67385954,-97.18829593,84046057.0,US,USA,840,46057.0,hamlin,"Hamlin, South Dakota, US",2,0,0,0
 2020-04-26,us,south-dakota,44.67385954,-97.18829593,84046057.0,US,USA,840,46057.0,hamlin,"Hamlin, South Dakota, US",2,0,0,0
+2020-04-27,us,south-dakota,44.67385954,-97.18829593,84046057.0,US,USA,840,46057.0,hamlin,"Hamlin, South Dakota, US",2,0,0,0
+2020-04-28,us,south-dakota,44.67385954,-97.18829593,84046057.0,US,USA,840,46057.0,hamlin,"Hamlin, South Dakota, US",2,0,0,0
 2020-01-22,us,south-dakota,44.71571812,-100.1278092,84046119.0,US,USA,840,46119.0,sully,"Sully, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.71571812,-100.1278092,84046119.0,US,USA,840,46119.0,sully,"Sully, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.71571812,-100.1278092,84046119.0,US,USA,840,46119.0,sully,"Sully, South Dakota, US",0,0,0,0
@@ -4511,6 +4603,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.71571812,-100.1278092,84046119.0,US,USA,840,46119.0,sully,"Sully, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,44.71571812,-100.1278092,84046119.0,US,USA,840,46119.0,sully,"Sully, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,44.71571812,-100.1278092,84046119.0,US,USA,840,46119.0,sully,"Sully, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,44.71571812,-100.1278092,84046119.0,US,USA,840,46119.0,sully,"Sully, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,44.71571812,-100.1278092,84046119.0,US,USA,840,46119.0,sully,"Sully, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,44.75994309,-96.66943645,84046039.0,US,USA,840,46039.0,deuel,"Deuel, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.75994309,-96.66943645,84046039.0,US,USA,840,46039.0,deuel,"Deuel, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.75994309,-96.66943645,84046039.0,US,USA,840,46039.0,deuel,"Deuel, South Dakota, US",0,0,0,0
@@ -4607,6 +4701,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.75994309,-96.66943645,84046039.0,US,USA,840,46039.0,deuel,"Deuel, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,44.75994309,-96.66943645,84046039.0,US,USA,840,46039.0,deuel,"Deuel, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,44.75994309,-96.66943645,84046039.0,US,USA,840,46039.0,deuel,"Deuel, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,44.75994309,-96.66943645,84046039.0,US,USA,840,46039.0,deuel,"Deuel, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,44.75994309,-96.66943645,84046039.0,US,USA,840,46039.0,deuel,"Deuel, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,44.85834507,-97.72925109,84046025.0,US,USA,840,46025.0,clark,"Clark, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.85834507,-97.72925109,84046025.0,US,USA,840,46025.0,clark,"Clark, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.85834507,-97.72925109,84046025.0,US,USA,840,46025.0,clark,"Clark, South Dakota, US",0,0,0,0
@@ -4703,6 +4799,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.85834507,-97.72925109,84046025.0,US,USA,840,46025.0,clark,"Clark, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,44.85834507,-97.72925109,84046025.0,US,USA,840,46025.0,clark,"Clark, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,44.85834507,-97.72925109,84046025.0,US,USA,840,46025.0,clark,"Clark, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,44.85834507,-97.72925109,84046025.0,US,USA,840,46025.0,clark,"Clark, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,44.85834507,-97.72925109,84046025.0,US,USA,840,46025.0,clark,"Clark, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,44.90608745,-103.5079318,84046019.0,US,USA,840,46019.0,butte,"Butte, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.90608745,-103.5079318,84046019.0,US,USA,840,46019.0,butte,"Butte, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.90608745,-103.5079318,84046019.0,US,USA,840,46019.0,butte,"Butte, South Dakota, US",0,0,0,0
@@ -4799,6 +4897,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.90608745,-103.5079318,84046019.0,US,USA,840,46019.0,butte,"Butte, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,44.90608745,-103.5079318,84046019.0,US,USA,840,46019.0,butte,"Butte, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,44.90608745,-103.5079318,84046019.0,US,USA,840,46019.0,butte,"Butte, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,44.90608745,-103.5079318,84046019.0,US,USA,840,46019.0,butte,"Butte, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,44.90608745,-103.5079318,84046019.0,US,USA,840,46019.0,butte,"Butte, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,44.93837606,-98.34626602,84046115.0,US,USA,840,46115.0,spink,"Spink, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.93837606,-98.34626602,84046115.0,US,USA,840,46115.0,spink,"Spink, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.93837606,-98.34626602,84046115.0,US,USA,840,46115.0,spink,"Spink, South Dakota, US",0,0,0,0
@@ -4895,6 +4995,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.93837606,-98.34626602,84046115.0,US,USA,840,46115.0,spink,"Spink, South Dakota, US",3,0,0,0
 2020-04-25,us,south-dakota,44.93837606,-98.34626602,84046115.0,US,USA,840,46115.0,spink,"Spink, South Dakota, US",3,0,0,0
 2020-04-26,us,south-dakota,44.93837606,-98.34626602,84046115.0,US,USA,840,46115.0,spink,"Spink, South Dakota, US",3,0,0,0
+2020-04-27,us,south-dakota,44.93837606,-98.34626602,84046115.0,US,USA,840,46115.0,spink,"Spink, South Dakota, US",3,0,0,0
+2020-04-28,us,south-dakota,44.93837606,-98.34626602,84046115.0,US,USA,840,46115.0,spink,"Spink, South Dakota, US",3,0,0,0
 2020-01-22,us,south-dakota,44.97788119,-97.18827677,84046029.0,US,USA,840,46029.0,codington,"Codington, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.97788119,-97.18827677,84046029.0,US,USA,840,46029.0,codington,"Codington, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.97788119,-97.18827677,84046029.0,US,USA,840,46029.0,codington,"Codington, South Dakota, US",0,0,0,0
@@ -4991,6 +5093,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.97788119,-97.18827677,84046029.0,US,USA,840,46029.0,codington,"Codington, South Dakota, US",14,1,0,0
 2020-04-25,us,south-dakota,44.97788119,-97.18827677,84046029.0,US,USA,840,46029.0,codington,"Codington, South Dakota, US",14,0,0,0
 2020-04-26,us,south-dakota,44.97788119,-97.18827677,84046029.0,US,USA,840,46029.0,codington,"Codington, South Dakota, US",14,0,0,0
+2020-04-27,us,south-dakota,44.97788119,-97.18827677,84046029.0,US,USA,840,46029.0,codington,"Codington, South Dakota, US",14,0,0,0
+2020-04-28,us,south-dakota,44.97788119,-97.18827677,84046029.0,US,USA,840,46029.0,codington,"Codington, South Dakota, US",14,0,0,0
 2020-01-22,us,south-dakota,44.97881876,-101.6654622,84046137.0,US,USA,840,46137.0,ziebach,"Ziebach, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,44.97881876,-101.6654622,84046137.0,US,USA,840,46137.0,ziebach,"Ziebach, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,44.97881876,-101.6654622,84046137.0,US,USA,840,46137.0,ziebach,"Ziebach, South Dakota, US",0,0,0,0
@@ -5087,6 +5191,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,44.97881876,-101.6654622,84046137.0,US,USA,840,46137.0,ziebach,"Ziebach, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,44.97881876,-101.6654622,84046137.0,US,USA,840,46137.0,ziebach,"Ziebach, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,44.97881876,-101.6654622,84046137.0,US,USA,840,46137.0,ziebach,"Ziebach, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,44.97881876,-101.6654622,84046137.0,US,USA,840,46137.0,ziebach,"Ziebach, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,44.97881876,-101.6654622,84046137.0,US,USA,840,46137.0,ziebach,"Ziebach, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,45.06583079,-99.95498503,84046107.0,US,USA,840,46107.0,potter,"Potter, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.06583079,-99.95498503,84046107.0,US,USA,840,46107.0,potter,"Potter, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.06583079,-99.95498503,84046107.0,US,USA,840,46107.0,potter,"Potter, South Dakota, US",0,0,0,0
@@ -5183,6 +5289,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.06583079,-99.95498503,84046107.0,US,USA,840,46107.0,potter,"Potter, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,45.06583079,-99.95498503,84046107.0,US,USA,840,46107.0,potter,"Potter, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,45.06583079,-99.95498503,84046107.0,US,USA,840,46107.0,potter,"Potter, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,45.06583079,-99.95498503,84046107.0,US,USA,840,46107.0,potter,"Potter, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,45.06583079,-99.95498503,84046107.0,US,USA,840,46107.0,potter,"Potter, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,45.07082625,-99.14535601,84046049.0,US,USA,840,46049.0,faulk,"Faulk, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.07082625,-99.14535601,84046049.0,US,USA,840,46049.0,faulk,"Faulk, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.07082625,-99.14535601,84046049.0,US,USA,840,46049.0,faulk,"Faulk, South Dakota, US",0,0,0,0
@@ -5279,6 +5387,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.07082625,-99.14535601,84046049.0,US,USA,840,46049.0,faulk,"Faulk, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,45.07082625,-99.14535601,84046049.0,US,USA,840,46049.0,faulk,"Faulk, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,45.07082625,-99.14535601,84046049.0,US,USA,840,46049.0,faulk,"Faulk, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,45.07082625,-99.14535601,84046049.0,US,USA,840,46049.0,faulk,"Faulk, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,45.07082625,-99.14535601,84046049.0,US,USA,840,46049.0,faulk,"Faulk, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,45.15639647,-100.8709139,84046041.0,US,USA,840,46041.0,dewey,"Dewey, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.15639647,-100.8709139,84046041.0,US,USA,840,46041.0,dewey,"Dewey, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.15639647,-100.8709139,84046041.0,US,USA,840,46041.0,dewey,"Dewey, South Dakota, US",0,0,0,0
@@ -5375,6 +5485,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.15639647,-100.8709139,84046041.0,US,USA,840,46041.0,dewey,"Dewey, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,45.15639647,-100.8709139,84046041.0,US,USA,840,46041.0,dewey,"Dewey, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,45.15639647,-100.8709139,84046041.0,US,USA,840,46041.0,dewey,"Dewey, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,45.15639647,-100.8709139,84046041.0,US,USA,840,46041.0,dewey,"Dewey, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,45.15639647,-100.8709139,84046041.0,US,USA,840,46041.0,dewey,"Dewey, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,45.1723937,-96.77002276,84046051.0,US,USA,840,46051.0,grant,"Grant, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.1723937,-96.77002276,84046051.0,US,USA,840,46051.0,grant,"Grant, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.1723937,-96.77002276,84046051.0,US,USA,840,46051.0,grant,"Grant, South Dakota, US",0,0,0,0
@@ -5471,6 +5583,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.1723937,-96.77002276,84046051.0,US,USA,840,46051.0,grant,"Grant, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,45.1723937,-96.77002276,84046051.0,US,USA,840,46051.0,grant,"Grant, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,45.1723937,-96.77002276,84046051.0,US,USA,840,46051.0,grant,"Grant, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,45.1723937,-96.77002276,84046051.0,US,USA,840,46051.0,grant,"Grant, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,45.1723937,-96.77002276,84046051.0,US,USA,840,46051.0,grant,"Grant, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,45.367281,-97.60737498,84046037.0,US,USA,840,46037.0,day,"Day, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.367281,-97.60737498,84046037.0,US,USA,840,46037.0,day,"Day, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.367281,-97.60737498,84046037.0,US,USA,840,46037.0,day,"Day, South Dakota, US",0,0,0,0
@@ -5567,6 +5681,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.367281,-97.60737498,84046037.0,US,USA,840,46037.0,day,"Day, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,45.367281,-97.60737498,84046037.0,US,USA,840,46037.0,day,"Day, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,45.367281,-97.60737498,84046037.0,US,USA,840,46037.0,day,"Day, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,45.367281,-97.60737498,84046037.0,US,USA,840,46037.0,day,"Day, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,45.367281,-97.60737498,84046037.0,US,USA,840,46037.0,day,"Day, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,45.41846445,-99.21545423,84046045.0,US,USA,840,46045.0,edmunds,"Edmunds, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.41846445,-99.21545423,84046045.0,US,USA,840,46045.0,edmunds,"Edmunds, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.41846445,-99.21545423,84046045.0,US,USA,840,46045.0,edmunds,"Edmunds, South Dakota, US",0,0,0,0
@@ -5663,6 +5779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.41846445,-99.21545423,84046045.0,US,USA,840,46045.0,edmunds,"Edmunds, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,45.41846445,-99.21545423,84046045.0,US,USA,840,46045.0,edmunds,"Edmunds, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,45.41846445,-99.21545423,84046045.0,US,USA,840,46045.0,edmunds,"Edmunds, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,45.41846445,-99.21545423,84046045.0,US,USA,840,46045.0,edmunds,"Edmunds, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,45.41846445,-99.21545423,84046045.0,US,USA,840,46045.0,edmunds,"Edmunds, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,45.43019636,-100.0307514,84046129.0,US,USA,840,46129.0,walworth,"Walworth, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.43019636,-100.0307514,84046129.0,US,USA,840,46129.0,walworth,"Walworth, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.43019636,-100.0307514,84046129.0,US,USA,840,46129.0,walworth,"Walworth, South Dakota, US",0,0,0,0
@@ -5759,6 +5877,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.43019636,-100.0307514,84046129.0,US,USA,840,46129.0,walworth,"Walworth, South Dakota, US",5,0,0,0
 2020-04-25,us,south-dakota,45.43019636,-100.0307514,84046129.0,US,USA,840,46129.0,walworth,"Walworth, South Dakota, US",5,0,0,0
 2020-04-26,us,south-dakota,45.43019636,-100.0307514,84046129.0,US,USA,840,46129.0,walworth,"Walworth, South Dakota, US",5,0,0,0
+2020-04-27,us,south-dakota,45.43019636,-100.0307514,84046129.0,US,USA,840,46129.0,walworth,"Walworth, South Dakota, US",5,0,0,0
+2020-04-28,us,south-dakota,45.43019636,-100.0307514,84046129.0,US,USA,840,46129.0,walworth,"Walworth, South Dakota, US",5,0,0,0
 2020-01-22,us,south-dakota,45.49049506,-102.4755586,84046105.0,US,USA,840,46105.0,perkins,"Perkins, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.49049506,-102.4755586,84046105.0,US,USA,840,46105.0,perkins,"Perkins, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.49049506,-102.4755586,84046105.0,US,USA,840,46105.0,perkins,"Perkins, South Dakota, US",0,0,0,0
@@ -5855,6 +5975,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.49049506,-102.4755586,84046105.0,US,USA,840,46105.0,perkins,"Perkins, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,45.49049506,-102.4755586,84046105.0,US,USA,840,46105.0,perkins,"Perkins, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,45.49049506,-102.4755586,84046105.0,US,USA,840,46105.0,perkins,"Perkins, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,45.49049506,-102.4755586,84046105.0,US,USA,840,46105.0,perkins,"Perkins, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,45.49049506,-102.4755586,84046105.0,US,USA,840,46105.0,perkins,"Perkins, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,45.58015551,-103.4958629,84046063.0,US,USA,840,46063.0,harding,"Harding, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.58015551,-103.4958629,84046063.0,US,USA,840,46063.0,harding,"Harding, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.58015551,-103.4958629,84046063.0,US,USA,840,46063.0,harding,"Harding, South Dakota, US",0,0,0,0
@@ -5951,6 +6073,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.58015551,-103.4958629,84046063.0,US,USA,840,46063.0,harding,"Harding, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,45.58015551,-103.4958629,84046063.0,US,USA,840,46063.0,harding,"Harding, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,45.58015551,-103.4958629,84046063.0,US,USA,840,46063.0,harding,"Harding, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,45.58015551,-103.4958629,84046063.0,US,USA,840,46063.0,harding,"Harding, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,45.58015551,-103.4958629,84046063.0,US,USA,840,46063.0,harding,"Harding, South Dakota, US",0,0,0,0
 2020-01-22,us,south-dakota,45.58994323,-98.35165355,84046013.0,US,USA,840,46013.0,brown,"Brown, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.58994323,-98.35165355,84046013.0,US,USA,840,46013.0,brown,"Brown, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.58994323,-98.35165355,84046013.0,US,USA,840,46013.0,brown,"Brown, South Dakota, US",0,0,0,0
@@ -6047,6 +6171,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.58994323,-98.35165355,84046013.0,US,USA,840,46013.0,brown,"Brown, South Dakota, US",28,0,0,0
 2020-04-25,us,south-dakota,45.58994323,-98.35165355,84046013.0,US,USA,840,46013.0,brown,"Brown, South Dakota, US",30,2,0,0
 2020-04-26,us,south-dakota,45.58994323,-98.35165355,84046013.0,US,USA,840,46013.0,brown,"Brown, South Dakota, US",30,0,0,0
+2020-04-27,us,south-dakota,45.58994323,-98.35165355,84046013.0,US,USA,840,46013.0,brown,"Brown, South Dakota, US",30,0,0,0
+2020-04-28,us,south-dakota,45.58994323,-98.35165355,84046013.0,US,USA,840,46013.0,brown,"Brown, South Dakota, US",30,0,0,0
 2020-01-22,us,south-dakota,45.62975048,-96.94672673,84046109.0,US,USA,840,46109.0,roberts,"Roberts, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.62975048,-96.94672673,84046109.0,US,USA,840,46109.0,roberts,"Roberts, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.62975048,-96.94672673,84046109.0,US,USA,840,46109.0,roberts,"Roberts, South Dakota, US",0,0,0,0
@@ -6143,6 +6269,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.62975048,-96.94672673,84046109.0,US,USA,840,46109.0,roberts,"Roberts, South Dakota, US",4,0,0,0
 2020-04-25,us,south-dakota,45.62975048,-96.94672673,84046109.0,US,USA,840,46109.0,roberts,"Roberts, South Dakota, US",4,0,0,0
 2020-04-26,us,south-dakota,45.62975048,-96.94672673,84046109.0,US,USA,840,46109.0,roberts,"Roberts, South Dakota, US",4,0,0,0
+2020-04-27,us,south-dakota,45.62975048,-96.94672673,84046109.0,US,USA,840,46109.0,roberts,"Roberts, South Dakota, US",4,0,0,0
+2020-04-28,us,south-dakota,45.62975048,-96.94672673,84046109.0,US,USA,840,46109.0,roberts,"Roberts, South Dakota, US",4,0,0,0
 2020-01-22,us,south-dakota,45.70889983,-101.1970473,84046031.0,US,USA,840,46031.0,corson,"Corson, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.70889983,-101.1970473,84046031.0,US,USA,840,46031.0,corson,"Corson, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.70889983,-101.1970473,84046031.0,US,USA,840,46031.0,corson,"Corson, South Dakota, US",0,0,0,0
@@ -6239,6 +6367,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.70889983,-101.1970473,84046031.0,US,USA,840,46031.0,corson,"Corson, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,45.70889983,-101.1970473,84046031.0,US,USA,840,46031.0,corson,"Corson, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,45.70889983,-101.1970473,84046031.0,US,USA,840,46031.0,corson,"Corson, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,45.70889983,-101.1970473,84046031.0,US,USA,840,46031.0,corson,"Corson, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,45.70889983,-101.1970473,84046031.0,US,USA,840,46031.0,corson,"Corson, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,45.75870838,-97.59855639,84046091.0,US,USA,840,46091.0,marshall,"Marshall, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.75870838,-97.59855639,84046091.0,US,USA,840,46091.0,marshall,"Marshall, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.75870838,-97.59855639,84046091.0,US,USA,840,46091.0,marshall,"Marshall, South Dakota, US",0,0,0,0
@@ -6335,6 +6465,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.75870838,-97.59855639,84046091.0,US,USA,840,46091.0,marshall,"Marshall, South Dakota, US",1,0,0,0
 2020-04-25,us,south-dakota,45.75870838,-97.59855639,84046091.0,US,USA,840,46091.0,marshall,"Marshall, South Dakota, US",1,0,0,0
 2020-04-26,us,south-dakota,45.75870838,-97.59855639,84046091.0,US,USA,840,46091.0,marshall,"Marshall, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,45.75870838,-97.59855639,84046091.0,US,USA,840,46091.0,marshall,"Marshall, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,45.75870838,-97.59855639,84046091.0,US,USA,840,46091.0,marshall,"Marshall, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,45.76626028,-99.22118798,84046089.0,US,USA,840,46089.0,mcpherson,"McPherson, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.76626028,-99.22118798,84046089.0,US,USA,840,46089.0,mcpherson,"McPherson, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.76626028,-99.22118798,84046089.0,US,USA,840,46089.0,mcpherson,"McPherson, South Dakota, US",0,0,0,0
@@ -6431,6 +6563,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.76626028,-99.22118798,84046089.0,US,USA,840,46089.0,mcpherson,"McPherson, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,45.76626028,-99.22118798,84046089.0,US,USA,840,46089.0,mcpherson,"McPherson, South Dakota, US",1,1,0,0
 2020-04-26,us,south-dakota,45.76626028,-99.22118798,84046089.0,US,USA,840,46089.0,mcpherson,"McPherson, South Dakota, US",1,0,0,0
+2020-04-27,us,south-dakota,45.76626028,-99.22118798,84046089.0,US,USA,840,46089.0,mcpherson,"McPherson, South Dakota, US",1,0,0,0
+2020-04-28,us,south-dakota,45.76626028,-99.22118798,84046089.0,US,USA,840,46089.0,mcpherson,"McPherson, South Dakota, US",1,0,0,0
 2020-01-22,us,south-dakota,45.77074915,-100.0510181,84046021.0,US,USA,840,46021.0,campbell,"Campbell, South Dakota, US",0,0,0,0
 2020-01-23,us,south-dakota,45.77074915,-100.0510181,84046021.0,US,USA,840,46021.0,campbell,"Campbell, South Dakota, US",0,0,0,0
 2020-01-24,us,south-dakota,45.77074915,-100.0510181,84046021.0,US,USA,840,46021.0,campbell,"Campbell, South Dakota, US",0,0,0,0
@@ -6527,3 +6661,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,south-dakota,45.77074915,-100.0510181,84046021.0,US,USA,840,46021.0,campbell,"Campbell, South Dakota, US",0,0,0,0
 2020-04-25,us,south-dakota,45.77074915,-100.0510181,84046021.0,US,USA,840,46021.0,campbell,"Campbell, South Dakota, US",0,0,0,0
 2020-04-26,us,south-dakota,45.77074915,-100.0510181,84046021.0,US,USA,840,46021.0,campbell,"Campbell, South Dakota, US",0,0,0,0
+2020-04-27,us,south-dakota,45.77074915,-100.0510181,84046021.0,US,USA,840,46021.0,campbell,"Campbell, South Dakota, US",0,0,0,0
+2020-04-28,us,south-dakota,45.77074915,-100.0510181,84046021.0,US,USA,840,46021.0,campbell,"Campbell, South Dakota, US",0,0,0,0

@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,0.0,0.0,84080001.0,US,USA,840,80001.0,out-of-al,"Out of AL, Alabama, US",0,0,0,0
 2020-04-25,us,alabama,0.0,0.0,84080001.0,US,USA,840,80001.0,out-of-al,"Out of AL, Alabama, US",0,0,0,0
 2020-04-26,us,alabama,0.0,0.0,84080001.0,US,USA,840,80001.0,out-of-al,"Out of AL, Alabama, US",0,0,0,0
+2020-04-27,us,alabama,0.0,0.0,84080001.0,US,USA,840,80001.0,out-of-al,"Out of AL, Alabama, US",0,0,0,0
+2020-04-28,us,alabama,0.0,0.0,84080001.0,US,USA,840,80001.0,out-of-al,"Out of AL, Alabama, US",0,0,0,0
 2020-01-22,us,alabama,0.0,0.0,84090001.0,US,USA,840,90001.0,unassigned,"Unassigned, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,0.0,0.0,84090001.0,US,USA,840,90001.0,unassigned,"Unassigned, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,0.0,0.0,84090001.0,US,USA,840,90001.0,unassigned,"Unassigned, Alabama, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,0.0,0.0,84090001.0,US,USA,840,90001.0,unassigned,"Unassigned, Alabama, US",0,0,0,0
 2020-04-25,us,alabama,0.0,0.0,84090001.0,US,USA,840,90001.0,unassigned,"Unassigned, Alabama, US",0,0,0,0
 2020-04-26,us,alabama,0.0,0.0,84090001.0,US,USA,840,90001.0,unassigned,"Unassigned, Alabama, US",0,0,0,0
+2020-04-27,us,alabama,0.0,0.0,84090001.0,US,USA,840,90001.0,unassigned,"Unassigned, Alabama, US",0,0,0,0
+2020-04-28,us,alabama,0.0,0.0,84090001.0,US,USA,840,90001.0,unassigned,"Unassigned, Alabama, US",0,0,0,0
 2020-01-22,us,alabama,30.72774991,-87.72207058,84001003.0,US,USA,840,1003.0,baldwin,"Baldwin, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,30.72774991,-87.72207058,84001003.0,US,USA,840,1003.0,baldwin,"Baldwin, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,30.72774991,-87.72207058,84001003.0,US,USA,840,1003.0,baldwin,"Baldwin, Alabama, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,30.72774991,-87.72207058,84001003.0,US,USA,840,1003.0,baldwin,"Baldwin, Alabama, US",147,4,3,0
 2020-04-25,us,alabama,30.72774991,-87.72207058,84001003.0,US,USA,840,1003.0,baldwin,"Baldwin, Alabama, US",147,0,3,0
 2020-04-26,us,alabama,30.72774991,-87.72207058,84001003.0,US,USA,840,1003.0,baldwin,"Baldwin, Alabama, US",161,14,3,0
+2020-04-27,us,alabama,30.72774991,-87.72207058,84001003.0,US,USA,840,1003.0,baldwin,"Baldwin, Alabama, US",168,7,3,0
+2020-04-28,us,alabama,30.72774991,-87.72207058,84001003.0,US,USA,840,1003.0,baldwin,"Baldwin, Alabama, US",171,3,3,0
 2020-01-22,us,alabama,30.78472347,-88.20842409,84001097.0,US,USA,840,1097.0,mobile,"Mobile, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,30.78472347,-88.20842409,84001097.0,US,USA,840,1097.0,mobile,"Mobile, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,30.78472347,-88.20842409,84001097.0,US,USA,840,1097.0,mobile,"Mobile, Alabama, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,30.78472347,-88.20842409,84001097.0,US,USA,840,1097.0,mobile,"Mobile, Alabama, US",845,35,40,1
 2020-04-25,us,alabama,30.78472347,-88.20842409,84001097.0,US,USA,840,1097.0,mobile,"Mobile, Alabama, US",845,0,40,0
 2020-04-26,us,alabama,30.78472347,-88.20842409,84001097.0,US,USA,840,1097.0,mobile,"Mobile, Alabama, US",917,72,41,1
+2020-04-27,us,alabama,30.78472347,-88.20842409,84001097.0,US,USA,840,1097.0,mobile,"Mobile, Alabama, US",942,25,43,2
+2020-04-28,us,alabama,30.78472347,-88.20842409,84001097.0,US,USA,840,1097.0,mobile,"Mobile, Alabama, US",994,52,46,3
 2020-01-22,us,alabama,31.09389027,-85.83572839,84001061.0,US,USA,840,1061.0,geneva,"Geneva, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.09389027,-85.83572839,84001061.0,US,USA,840,1061.0,geneva,"Geneva, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.09389027,-85.83572839,84001061.0,US,USA,840,1061.0,geneva,"Geneva, Alabama, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.09389027,-85.83572839,84001061.0,US,USA,840,1061.0,geneva,"Geneva, Alabama, US",6,0,0,0
 2020-04-25,us,alabama,31.09389027,-85.83572839,84001061.0,US,USA,840,1061.0,geneva,"Geneva, Alabama, US",6,0,0,0
 2020-04-26,us,alabama,31.09389027,-85.83572839,84001061.0,US,USA,840,1061.0,geneva,"Geneva, Alabama, US",8,2,0,0
+2020-04-27,us,alabama,31.09389027,-85.83572839,84001061.0,US,USA,840,1061.0,geneva,"Geneva, Alabama, US",8,0,0,0
+2020-04-28,us,alabama,31.09389027,-85.83572839,84001061.0,US,USA,840,1061.0,geneva,"Geneva, Alabama, US",8,0,0,0
 2020-01-22,us,alabama,31.1256789,-87.15918694,84001053.0,US,USA,840,1053.0,escambia,"Escambia, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.1256789,-87.15918694,84001053.0,US,USA,840,1053.0,escambia,"Escambia, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.1256789,-87.15918694,84001053.0,US,USA,840,1053.0,escambia,"Escambia, Alabama, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.1256789,-87.15918694,84001053.0,US,USA,840,1053.0,escambia,"Escambia, Alabama, US",22,1,1,0
 2020-04-25,us,alabama,31.1256789,-87.15918694,84001053.0,US,USA,840,1053.0,escambia,"Escambia, Alabama, US",22,0,1,0
 2020-04-26,us,alabama,31.1256789,-87.15918694,84001053.0,US,USA,840,1053.0,escambia,"Escambia, Alabama, US",25,3,1,0
+2020-04-27,us,alabama,31.1256789,-87.15918694,84001053.0,US,USA,840,1053.0,escambia,"Escambia, Alabama, US",26,1,1,0
+2020-04-28,us,alabama,31.1256789,-87.15918694,84001053.0,US,USA,840,1053.0,escambia,"Escambia, Alabama, US",27,1,1,0
 2020-01-22,us,alabama,31.15197924,-85.29939599,84001069.0,US,USA,840,1069.0,houston,"Houston, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.15197924,-85.29939599,84001069.0,US,USA,840,1069.0,houston,"Houston, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.15197924,-85.29939599,84001069.0,US,USA,840,1069.0,houston,"Houston, Alabama, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.15197924,-85.29939599,84001069.0,US,USA,840,1069.0,houston,"Houston, Alabama, US",76,-2,3,0
 2020-04-25,us,alabama,31.15197924,-85.29939599,84001069.0,US,USA,840,1069.0,houston,"Houston, Alabama, US",76,0,3,0
 2020-04-26,us,alabama,31.15197924,-85.29939599,84001069.0,US,USA,840,1069.0,houston,"Houston, Alabama, US",77,1,3,0
+2020-04-27,us,alabama,31.15197924,-85.29939599,84001069.0,US,USA,840,1069.0,houston,"Houston, Alabama, US",79,2,3,0
+2020-04-28,us,alabama,31.15197924,-85.29939599,84001069.0,US,USA,840,1069.0,houston,"Houston, Alabama, US",84,5,3,0
 2020-01-22,us,alabama,31.2477854,-86.45050893,84001039.0,US,USA,840,1039.0,covington,"Covington, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.2477854,-86.45050893,84001039.0,US,USA,840,1039.0,covington,"Covington, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.2477854,-86.45050893,84001039.0,US,USA,840,1039.0,covington,"Covington, Alabama, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.2477854,-86.45050893,84001039.0,US,USA,840,1039.0,covington,"Covington, Alabama, US",31,2,0,0
 2020-04-25,us,alabama,31.2477854,-86.45050893,84001039.0,US,USA,840,1039.0,covington,"Covington, Alabama, US",31,0,0,0
 2020-04-26,us,alabama,31.2477854,-86.45050893,84001039.0,US,USA,840,1039.0,covington,"Covington, Alabama, US",33,2,1,1
+2020-04-27,us,alabama,31.2477854,-86.45050893,84001039.0,US,USA,840,1039.0,covington,"Covington, Alabama, US",34,1,1,0
+2020-04-28,us,alabama,31.2477854,-86.45050893,84001039.0,US,USA,840,1039.0,covington,"Covington, Alabama, US",35,1,1,0
 2020-01-22,us,alabama,31.39932826,-85.98901039,84001031.0,US,USA,840,1031.0,coffee,"Coffee, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.39932826,-85.98901039,84001031.0,US,USA,840,1031.0,coffee,"Coffee, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.39932826,-85.98901039,84001031.0,US,USA,840,1031.0,coffee,"Coffee, Alabama, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.39932826,-85.98901039,84001031.0,US,USA,840,1031.0,coffee,"Coffee, Alabama, US",87,7,1,0
 2020-04-25,us,alabama,31.39932826,-85.98901039,84001031.0,US,USA,840,1031.0,coffee,"Coffee, Alabama, US",87,0,1,0
 2020-04-26,us,alabama,31.39932826,-85.98901039,84001031.0,US,USA,840,1031.0,coffee,"Coffee, Alabama, US",95,8,0,-1
+2020-04-27,us,alabama,31.39932826,-85.98901039,84001031.0,US,USA,840,1031.0,coffee,"Coffee, Alabama, US",98,3,0,0
+2020-04-28,us,alabama,31.39932826,-85.98901039,84001031.0,US,USA,840,1031.0,coffee,"Coffee, Alabama, US",105,7,0,0
 2020-01-22,us,alabama,31.4092794,-88.20689944,84001129.0,US,USA,840,1129.0,washington,"Washington, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.4092794,-88.20689944,84001129.0,US,USA,840,1129.0,washington,"Washington, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.4092794,-88.20689944,84001129.0,US,USA,840,1129.0,washington,"Washington, Alabama, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.4092794,-88.20689944,84001129.0,US,USA,840,1129.0,washington,"Washington, Alabama, US",19,1,1,0
 2020-04-25,us,alabama,31.4092794,-88.20689944,84001129.0,US,USA,840,1129.0,washington,"Washington, Alabama, US",19,0,1,0
 2020-04-26,us,alabama,31.4092794,-88.20689944,84001129.0,US,USA,840,1129.0,washington,"Washington, Alabama, US",26,7,1,0
+2020-04-27,us,alabama,31.4092794,-88.20689944,84001129.0,US,USA,840,1129.0,washington,"Washington, Alabama, US",27,1,1,0
+2020-04-28,us,alabama,31.4092794,-88.20689944,84001129.0,US,USA,840,1129.0,washington,"Washington, Alabama, US",33,6,1,0
 2020-01-22,us,alabama,31.43037123,-85.61095742,84001045.0,US,USA,840,1045.0,dale,"Dale, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.43037123,-85.61095742,84001045.0,US,USA,840,1045.0,dale,"Dale, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.43037123,-85.61095742,84001045.0,US,USA,840,1045.0,dale,"Dale, Alabama, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.43037123,-85.61095742,84001045.0,US,USA,840,1045.0,dale,"Dale, Alabama, US",23,1,0,0
 2020-04-25,us,alabama,31.43037123,-85.61095742,84001045.0,US,USA,840,1045.0,dale,"Dale, Alabama, US",23,0,0,0
 2020-04-26,us,alabama,31.43037123,-85.61095742,84001045.0,US,USA,840,1045.0,dale,"Dale, Alabama, US",25,2,0,0
+2020-04-27,us,alabama,31.43037123,-85.61095742,84001045.0,US,USA,840,1045.0,dale,"Dale, Alabama, US",25,0,0,0
+2020-04-28,us,alabama,31.43037123,-85.61095742,84001045.0,US,USA,840,1045.0,dale,"Dale, Alabama, US",25,0,0,0
 2020-01-22,us,alabama,31.43401703,-86.99320044,84001035.0,US,USA,840,1035.0,conecuh,"Conecuh, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.43401703,-86.99320044,84001035.0,US,USA,840,1035.0,conecuh,"Conecuh, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.43401703,-86.99320044,84001035.0,US,USA,840,1035.0,conecuh,"Conecuh, Alabama, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.43401703,-86.99320044,84001035.0,US,USA,840,1035.0,conecuh,"Conecuh, Alabama, US",9,0,0,0
 2020-04-25,us,alabama,31.43401703,-86.99320044,84001035.0,US,USA,840,1035.0,conecuh,"Conecuh, Alabama, US",9,0,0,0
 2020-04-26,us,alabama,31.43401703,-86.99320044,84001035.0,US,USA,840,1035.0,conecuh,"Conecuh, Alabama, US",9,0,0,0
+2020-04-27,us,alabama,31.43401703,-86.99320044,84001035.0,US,USA,840,1035.0,conecuh,"Conecuh, Alabama, US",9,0,0,0
+2020-04-28,us,alabama,31.43401703,-86.99320044,84001035.0,US,USA,840,1035.0,conecuh,"Conecuh, Alabama, US",9,0,0,0
 2020-01-22,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",22,0,1,1
 2020-04-25,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",22,0,1,0
 2020-04-26,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",22,0,1,0
+2020-04-27,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",22,0,1,0
+2020-04-28,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",22,0,1,0
 2020-01-22,us,alabama,31.56729412,-87.36995001,84001099.0,US,USA,840,1099.0,monroe,"Monroe, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.56729412,-87.36995001,84001099.0,US,USA,840,1099.0,monroe,"Monroe, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.56729412,-87.36995001,84001099.0,US,USA,840,1099.0,monroe,"Monroe, Alabama, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.56729412,-87.36995001,84001099.0,US,USA,840,1099.0,monroe,"Monroe, Alabama, US",11,2,1,0
 2020-04-25,us,alabama,31.56729412,-87.36995001,84001099.0,US,USA,840,1099.0,monroe,"Monroe, Alabama, US",11,0,1,0
 2020-04-26,us,alabama,31.56729412,-87.36995001,84001099.0,US,USA,840,1099.0,monroe,"Monroe, Alabama, US",12,1,1,0
+2020-04-27,us,alabama,31.56729412,-87.36995001,84001099.0,US,USA,840,1099.0,monroe,"Monroe, Alabama, US",11,-1,1,0
+2020-04-28,us,alabama,31.56729412,-87.36995001,84001099.0,US,USA,840,1099.0,monroe,"Monroe, Alabama, US",12,1,1,0
 2020-01-22,us,alabama,31.68099859,-87.83548597,84001025.0,US,USA,840,1025.0,clarke,"Clarke, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.68099859,-87.83548597,84001025.0,US,USA,840,1025.0,clarke,"Clarke, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.68099859,-87.83548597,84001025.0,US,USA,840,1025.0,clarke,"Clarke, Alabama, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.68099859,-87.83548597,84001025.0,US,USA,840,1025.0,clarke,"Clarke, Alabama, US",24,-1,1,0
 2020-04-25,us,alabama,31.68099859,-87.83548597,84001025.0,US,USA,840,1025.0,clarke,"Clarke, Alabama, US",24,0,1,0
 2020-04-26,us,alabama,31.68099859,-87.83548597,84001025.0,US,USA,840,1025.0,clarke,"Clarke, Alabama, US",25,1,1,0
+2020-04-27,us,alabama,31.68099859,-87.83548597,84001025.0,US,USA,840,1025.0,clarke,"Clarke, Alabama, US",27,2,1,0
+2020-04-28,us,alabama,31.68099859,-87.83548597,84001025.0,US,USA,840,1025.0,clarke,"Clarke, Alabama, US",28,1,1,0
 2020-01-22,us,alabama,31.72941803,-86.31593104,84001041.0,US,USA,840,1041.0,crenshaw,"Crenshaw, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.72941803,-86.31593104,84001041.0,US,USA,840,1041.0,crenshaw,"Crenshaw, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.72941803,-86.31593104,84001041.0,US,USA,840,1041.0,crenshaw,"Crenshaw, Alabama, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.72941803,-86.31593104,84001041.0,US,USA,840,1041.0,crenshaw,"Crenshaw, Alabama, US",10,2,0,0
 2020-04-25,us,alabama,31.72941803,-86.31593104,84001041.0,US,USA,840,1041.0,crenshaw,"Crenshaw, Alabama, US",10,0,0,0
 2020-04-26,us,alabama,31.72941803,-86.31593104,84001041.0,US,USA,840,1041.0,crenshaw,"Crenshaw, Alabama, US",11,1,0,0
+2020-04-27,us,alabama,31.72941803,-86.31593104,84001041.0,US,USA,840,1041.0,crenshaw,"Crenshaw, Alabama, US",12,1,0,0
+2020-04-28,us,alabama,31.72941803,-86.31593104,84001041.0,US,USA,840,1041.0,crenshaw,"Crenshaw, Alabama, US",16,4,0,0
 2020-01-22,us,alabama,31.75300095,-86.68057478,84001013.0,US,USA,840,1013.0,butler,"Butler, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.75300095,-86.68057478,84001013.0,US,USA,840,1013.0,butler,"Butler, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.75300095,-86.68057478,84001013.0,US,USA,840,1013.0,butler,"Butler, Alabama, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.75300095,-86.68057478,84001013.0,US,USA,840,1013.0,butler,"Butler, Alabama, US",21,2,0,0
 2020-04-25,us,alabama,31.75300095,-86.68057478,84001013.0,US,USA,840,1013.0,butler,"Butler, Alabama, US",21,0,0,0
 2020-04-26,us,alabama,31.75300095,-86.68057478,84001013.0,US,USA,840,1013.0,butler,"Butler, Alabama, US",32,11,1,1
+2020-04-27,us,alabama,31.75300095,-86.68057478,84001013.0,US,USA,840,1013.0,butler,"Butler, Alabama, US",34,2,1,0
+2020-04-28,us,alabama,31.75300095,-86.68057478,84001013.0,US,USA,840,1013.0,butler,"Butler, Alabama, US",45,11,1,0
 2020-01-22,us,alabama,31.80396383,-85.9408295,84001109.0,US,USA,840,1109.0,pike,"Pike, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.80396383,-85.9408295,84001109.0,US,USA,840,1109.0,pike,"Pike, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.80396383,-85.9408295,84001109.0,US,USA,840,1109.0,pike,"Pike, Alabama, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.80396383,-85.9408295,84001109.0,US,USA,840,1109.0,pike,"Pike, Alabama, US",58,1,0,0
 2020-04-25,us,alabama,31.80396383,-85.9408295,84001109.0,US,USA,840,1109.0,pike,"Pike, Alabama, US",58,0,0,0
 2020-04-26,us,alabama,31.80396383,-85.9408295,84001109.0,US,USA,840,1109.0,pike,"Pike, Alabama, US",62,4,0,0
+2020-04-27,us,alabama,31.80396383,-85.9408295,84001109.0,US,USA,840,1109.0,pike,"Pike, Alabama, US",65,3,0,0
+2020-04-28,us,alabama,31.80396383,-85.9408295,84001109.0,US,USA,840,1109.0,pike,"Pike, Alabama, US",65,0,0,0
 2020-01-22,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",32,2,0,0
 2020-04-25,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",32,0,0,0
 2020-04-26,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",33,1,0,0
+2020-04-27,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",35,2,0,0
+2020-04-28,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",37,2,0,0
 2020-01-22,us,alabama,31.98773215,-87.30891118,84001131.0,US,USA,840,1131.0,wilcox,"Wilcox, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,31.98773215,-87.30891118,84001131.0,US,USA,840,1131.0,wilcox,"Wilcox, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,31.98773215,-87.30891118,84001131.0,US,USA,840,1131.0,wilcox,"Wilcox, Alabama, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,31.98773215,-87.30891118,84001131.0,US,USA,840,1131.0,wilcox,"Wilcox, Alabama, US",53,1,1,0
 2020-04-25,us,alabama,31.98773215,-87.30891118,84001131.0,US,USA,840,1131.0,wilcox,"Wilcox, Alabama, US",53,0,1,0
 2020-04-26,us,alabama,31.98773215,-87.30891118,84001131.0,US,USA,840,1131.0,wilcox,"Wilcox, Alabama, US",56,3,1,0
+2020-04-27,us,alabama,31.98773215,-87.30891118,84001131.0,US,USA,840,1131.0,wilcox,"Wilcox, Alabama, US",58,2,1,0
+2020-04-28,us,alabama,31.98773215,-87.30891118,84001131.0,US,USA,840,1131.0,wilcox,"Wilcox, Alabama, US",60,2,1,0
 2020-01-22,us,alabama,32.02227341,-88.26564429999998,84001023.0,US,USA,840,1023.0,choctaw,"Choctaw, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.02227341,-88.26564429999998,84001023.0,US,USA,840,1023.0,choctaw,"Choctaw, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.02227341,-88.26564429999998,84001023.0,US,USA,840,1023.0,choctaw,"Choctaw, Alabama, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.02227341,-88.26564429999998,84001023.0,US,USA,840,1023.0,choctaw,"Choctaw, Alabama, US",25,3,0,0
 2020-04-25,us,alabama,32.02227341,-88.26564429999998,84001023.0,US,USA,840,1023.0,choctaw,"Choctaw, Alabama, US",25,0,0,0
 2020-04-26,us,alabama,32.02227341,-88.26564429999998,84001023.0,US,USA,840,1023.0,choctaw,"Choctaw, Alabama, US",32,7,0,0
+2020-04-27,us,alabama,32.02227341,-88.26564429999998,84001023.0,US,USA,840,1023.0,choctaw,"Choctaw, Alabama, US",39,7,0,0
+2020-04-28,us,alabama,32.02227341,-88.26564429999998,84001023.0,US,USA,840,1023.0,choctaw,"Choctaw, Alabama, US",39,0,0,0
 2020-01-22,us,alabama,32.10030533,-85.71265535,84001011.0,US,USA,840,1011.0,bullock,"Bullock, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.10030533,-85.71265535,84001011.0,US,USA,840,1011.0,bullock,"Bullock, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.10030533,-85.71265535,84001011.0,US,USA,840,1011.0,bullock,"Bullock, Alabama, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.10030533,-85.71265535,84001011.0,US,USA,840,1011.0,bullock,"Bullock, Alabama, US",12,0,0,0
 2020-04-25,us,alabama,32.10030533,-85.71265535,84001011.0,US,USA,840,1011.0,bullock,"Bullock, Alabama, US",12,0,0,0
 2020-04-26,us,alabama,32.10030533,-85.71265535,84001011.0,US,USA,840,1011.0,bullock,"Bullock, Alabama, US",12,0,0,0
+2020-04-27,us,alabama,32.10030533,-85.71265535,84001011.0,US,USA,840,1011.0,bullock,"Bullock, Alabama, US",12,0,0,0
+2020-04-28,us,alabama,32.10030533,-85.71265535,84001011.0,US,USA,840,1011.0,bullock,"Bullock, Alabama, US",12,0,0,0
 2020-01-22,us,alabama,32.1597283,-86.65158371,84001085.0,US,USA,840,1085.0,lowndes,"Lowndes, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.1597283,-86.65158371,84001085.0,US,USA,840,1085.0,lowndes,"Lowndes, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.1597283,-86.65158371,84001085.0,US,USA,840,1085.0,lowndes,"Lowndes, Alabama, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.1597283,-86.65158371,84001085.0,US,USA,840,1085.0,lowndes,"Lowndes, Alabama, US",36,2,1,0
 2020-04-25,us,alabama,32.1597283,-86.65158371,84001085.0,US,USA,840,1085.0,lowndes,"Lowndes, Alabama, US",36,0,1,0
 2020-04-26,us,alabama,32.1597283,-86.65158371,84001085.0,US,USA,840,1085.0,lowndes,"Lowndes, Alabama, US",38,2,1,0
+2020-04-27,us,alabama,32.1597283,-86.65158371,84001085.0,US,USA,840,1085.0,lowndes,"Lowndes, Alabama, US",39,1,1,0
+2020-04-28,us,alabama,32.1597283,-86.65158371,84001085.0,US,USA,840,1085.0,lowndes,"Lowndes, Alabama, US",53,14,1,0
 2020-01-22,us,alabama,32.2206831,-86.20969272,84001101.0,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.2206831,-86.20969272,84001101.0,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.2206831,-86.20969272,84001101.0,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.2206831,-86.20969272,84001101.0,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",274,11,4,1
 2020-04-25,us,alabama,32.2206831,-86.20969272,84001101.0,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",274,0,4,0
 2020-04-26,us,alabama,32.2206831,-86.20969272,84001101.0,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",289,15,4,0
+2020-04-27,us,alabama,32.2206831,-86.20969272,84001101.0,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",292,3,5,1
+2020-04-28,us,alabama,32.2206831,-86.20969272,84001101.0,US,USA,840,1101.0,montgomery,"Montgomery, Alabama, US",302,10,5,0
 2020-01-22,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",0,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",39,1,3,0
 2020-04-25,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",39,0,3,0
 2020-04-26,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",41,2,3,0
+2020-04-27,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",43,2,3,0
+2020-04-28,us,alabama,32.24767634,-87.78796182,84001091.0,US,USA,840,1091.0,marengo,"Marengo, Alabama, US",44,1,3,0
 2020-01-22,us,alabama,32.28725256,-85.18415324,84001113.0,US,USA,840,1113.0,russell,"Russell, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.28725256,-85.18415324,84001113.0,US,USA,840,1113.0,russell,"Russell, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.28725256,-85.18415324,84001113.0,US,USA,840,1113.0,russell,"Russell, Alabama, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.28725256,-85.18415324,84001113.0,US,USA,840,1113.0,russell,"Russell, Alabama, US",53,-1,0,0
 2020-04-25,us,alabama,32.28725256,-85.18415324,84001113.0,US,USA,840,1113.0,russell,"Russell, Alabama, US",53,0,0,0
 2020-04-26,us,alabama,32.28725256,-85.18415324,84001113.0,US,USA,840,1113.0,russell,"Russell, Alabama, US",53,0,0,0
+2020-04-27,us,alabama,32.28725256,-85.18415324,84001113.0,US,USA,840,1113.0,russell,"Russell, Alabama, US",53,0,0,0
+2020-04-28,us,alabama,32.28725256,-85.18415324,84001113.0,US,USA,840,1113.0,russell,"Russell, Alabama, US",55,2,0,0
 2020-01-22,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",32,3,2,0
 2020-04-25,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",32,0,2,0
 2020-04-26,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",33,1,2,0
+2020-04-27,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",37,4,3,1
+2020-04-28,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",37,0,3,0
 2020-01-22,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",29,2,2,0
 2020-04-25,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",29,0,2,0
 2020-04-26,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",34,5,2,0
+2020-04-27,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",34,0,2,0
+2020-04-28,us,alabama,32.38759944,-85.69267724,84001087.0,US,USA,840,1087.0,macon,"Macon, Alabama, US",35,1,2,0
 2020-01-22,us,alabama,32.53952745,-86.64408227,84001001.0,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.53952745,-86.64408227,84001001.0,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.53952745,-86.64408227,84001001.0,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.53952745,-86.64408227,84001001.0,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",36,3,2,0
 2020-04-25,us,alabama,32.53952745,-86.64408227,84001001.0,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",36,0,2,0
 2020-04-26,us,alabama,32.53952745,-86.64408227,84001001.0,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",37,1,2,0
+2020-04-27,us,alabama,32.53952745,-86.64408227,84001001.0,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",39,2,3,1
+2020-04-28,us,alabama,32.53952745,-86.64408227,84001001.0,US,USA,840,1001.0,autauga,"Autauga, Alabama, US",40,1,4,1
 2020-01-22,us,alabama,32.59117397,-88.19916205,84001119.0,US,USA,840,1119.0,sumter,"Sumter, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.59117397,-88.19916205,84001119.0,US,USA,840,1119.0,sumter,"Sumter, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.59117397,-88.19916205,84001119.0,US,USA,840,1119.0,sumter,"Sumter, Alabama, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.59117397,-88.19916205,84001119.0,US,USA,840,1119.0,sumter,"Sumter, Alabama, US",51,4,1,0
 2020-04-25,us,alabama,32.59117397,-88.19916205,84001119.0,US,USA,840,1119.0,sumter,"Sumter, Alabama, US",51,0,1,0
 2020-04-26,us,alabama,32.59117397,-88.19916205,84001119.0,US,USA,840,1119.0,sumter,"Sumter, Alabama, US",53,2,2,1
+2020-04-27,us,alabama,32.59117397,-88.19916205,84001119.0,US,USA,840,1119.0,sumter,"Sumter, Alabama, US",55,2,2,0
+2020-04-28,us,alabama,32.59117397,-88.19916205,84001119.0,US,USA,840,1119.0,sumter,"Sumter, Alabama, US",55,0,2,0
 2020-01-22,us,alabama,32.59785413,-86.14415284,84001051.0,US,USA,840,1051.0,elmore,"Elmore, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.59785413,-86.14415284,84001051.0,US,USA,840,1051.0,elmore,"Elmore, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.59785413,-86.14415284,84001051.0,US,USA,840,1051.0,elmore,"Elmore, Alabama, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.59785413,-86.14415284,84001051.0,US,USA,840,1051.0,elmore,"Elmore, Alabama, US",74,0,1,0
 2020-04-25,us,alabama,32.59785413,-86.14415284,84001051.0,US,USA,840,1051.0,elmore,"Elmore, Alabama, US",74,0,1,0
 2020-04-26,us,alabama,32.59785413,-86.14415284,84001051.0,US,USA,840,1051.0,elmore,"Elmore, Alabama, US",79,5,1,0
+2020-04-27,us,alabama,32.59785413,-86.14415284,84001051.0,US,USA,840,1051.0,elmore,"Elmore, Alabama, US",79,0,1,0
+2020-04-28,us,alabama,32.59785413,-86.14415284,84001051.0,US,USA,840,1051.0,elmore,"Elmore, Alabama, US",82,3,1,0
 2020-01-22,us,alabama,32.60154883,-85.35132246,84001081.0,US,USA,840,1081.0,lee,"Lee, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.60154883,-85.35132246,84001081.0,US,USA,840,1081.0,lee,"Lee, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.60154883,-85.35132246,84001081.0,US,USA,840,1081.0,lee,"Lee, Alabama, US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.60154883,-85.35132246,84001081.0,US,USA,840,1081.0,lee,"Lee, Alabama, US",351,11,22,1
 2020-04-25,us,alabama,32.60154883,-85.35132246,84001081.0,US,USA,840,1081.0,lee,"Lee, Alabama, US",351,0,22,0
 2020-04-26,us,alabama,32.60154883,-85.35132246,84001081.0,US,USA,840,1081.0,lee,"Lee, Alabama, US",365,14,24,2
+2020-04-27,us,alabama,32.60154883,-85.35132246,84001081.0,US,USA,840,1081.0,lee,"Lee, Alabama, US",368,3,24,0
+2020-04-28,us,alabama,32.60154883,-85.35132246,84001081.0,US,USA,840,1081.0,lee,"Lee, Alabama, US",377,9,25,1
 2020-01-22,us,alabama,32.64048341,-87.29770589,84001105.0,US,USA,840,1105.0,perry,"Perry, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.64048341,-87.29770589,84001105.0,US,USA,840,1105.0,perry,"Perry, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.64048341,-87.29770589,84001105.0,US,USA,840,1105.0,perry,"Perry, Alabama, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.64048341,-87.29770589,84001105.0,US,USA,840,1105.0,perry,"Perry, Alabama, US",9,0,0,0
 2020-04-25,us,alabama,32.64048341,-87.29770589,84001105.0,US,USA,840,1105.0,perry,"Perry, Alabama, US",9,0,0,0
 2020-04-26,us,alabama,32.64048341,-87.29770589,84001105.0,US,USA,840,1105.0,perry,"Perry, Alabama, US",9,0,0,0
+2020-04-27,us,alabama,32.64048341,-87.29770589,84001105.0,US,USA,840,1105.0,perry,"Perry, Alabama, US",9,0,0,0
+2020-04-28,us,alabama,32.64048341,-87.29770589,84001105.0,US,USA,840,1105.0,perry,"Perry, Alabama, US",9,0,0,0
 2020-01-22,us,alabama,32.76039258,-87.63284988,84001065.0,US,USA,840,1065.0,hale,"Hale, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.76039258,-87.63284988,84001065.0,US,USA,840,1065.0,hale,"Hale, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.76039258,-87.63284988,84001065.0,US,USA,840,1065.0,hale,"Hale, Alabama, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.76039258,-87.63284988,84001065.0,US,USA,840,1065.0,hale,"Hale, Alabama, US",39,2,2,1
 2020-04-25,us,alabama,32.76039258,-87.63284988,84001065.0,US,USA,840,1065.0,hale,"Hale, Alabama, US",39,0,2,0
 2020-04-26,us,alabama,32.76039258,-87.63284988,84001065.0,US,USA,840,1065.0,hale,"Hale, Alabama, US",41,2,2,0
+2020-04-27,us,alabama,32.76039258,-87.63284988,84001065.0,US,USA,840,1065.0,hale,"Hale, Alabama, US",41,0,2,0
+2020-04-28,us,alabama,32.76039258,-87.63284988,84001065.0,US,USA,840,1065.0,hale,"Hale, Alabama, US",41,0,2,0
 2020-01-22,us,alabama,32.85044126,-86.7173256,84001021.0,US,USA,840,1021.0,chilton,"Chilton, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.85044126,-86.7173256,84001021.0,US,USA,840,1021.0,chilton,"Chilton, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.85044126,-86.7173256,84001021.0,US,USA,840,1021.0,chilton,"Chilton, Alabama, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.85044126,-86.7173256,84001021.0,US,USA,840,1021.0,chilton,"Chilton, Alabama, US",49,2,1,0
 2020-04-25,us,alabama,32.85044126,-86.7173256,84001021.0,US,USA,840,1021.0,chilton,"Chilton, Alabama, US",49,0,1,0
 2020-04-26,us,alabama,32.85044126,-86.7173256,84001021.0,US,USA,840,1021.0,chilton,"Chilton, Alabama, US",51,2,1,0
+2020-04-27,us,alabama,32.85044126,-86.7173256,84001021.0,US,USA,840,1021.0,chilton,"Chilton, Alabama, US",51,0,1,0
+2020-04-28,us,alabama,32.85044126,-86.7173256,84001021.0,US,USA,840,1021.0,chilton,"Chilton, Alabama, US",52,1,1,0
 2020-01-22,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",44,3,0,0
 2020-04-25,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",44,0,0,0
 2020-04-26,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",46,2,0,0
+2020-04-27,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",46,0,0,0
+2020-04-28,us,alabama,32.85504247,-87.95684022,84001063.0,US,USA,840,1063.0,greene,"Greene, Alabama, US",47,1,1,1
 2020-01-22,us,alabama,32.86698258,-85.79833053,84001123.0,US,USA,840,1123.0,tallapoosa,"Tallapoosa, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.86698258,-85.79833053,84001123.0,US,USA,840,1123.0,tallapoosa,"Tallapoosa, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.86698258,-85.79833053,84001123.0,US,USA,840,1123.0,tallapoosa,"Tallapoosa, Alabama, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.86698258,-85.79833053,84001123.0,US,USA,840,1123.0,tallapoosa,"Tallapoosa, Alabama, US",261,7,17,1
 2020-04-25,us,alabama,32.86698258,-85.79833053,84001123.0,US,USA,840,1123.0,tallapoosa,"Tallapoosa, Alabama, US",261,0,17,0
 2020-04-26,us,alabama,32.86698258,-85.79833053,84001123.0,US,USA,840,1123.0,tallapoosa,"Tallapoosa, Alabama, US",274,13,17,0
+2020-04-27,us,alabama,32.86698258,-85.79833053,84001123.0,US,USA,840,1123.0,tallapoosa,"Tallapoosa, Alabama, US",275,1,17,0
+2020-04-28,us,alabama,32.86698258,-85.79833053,84001123.0,US,USA,840,1123.0,tallapoosa,"Tallapoosa, Alabama, US",279,4,17,0
 2020-01-22,us,alabama,32.91360079,-85.39072749,84001017.0,US,USA,840,1017.0,chambers,"Chambers, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.91360079,-85.39072749,84001017.0,US,USA,840,1017.0,chambers,"Chambers, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.91360079,-85.39072749,84001017.0,US,USA,840,1017.0,chambers,"Chambers, Alabama, US",0,0,0,0
@@ -3647,6 +3721,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.91360079,-85.39072749,84001017.0,US,USA,840,1017.0,chambers,"Chambers, Alabama, US",282,7,17,1
 2020-04-25,us,alabama,32.91360079,-85.39072749,84001017.0,US,USA,840,1017.0,chambers,"Chambers, Alabama, US",282,0,17,0
 2020-04-26,us,alabama,32.91360079,-85.39072749,84001017.0,US,USA,840,1017.0,chambers,"Chambers, Alabama, US",285,3,18,1
+2020-04-27,us,alabama,32.91360079,-85.39072749,84001017.0,US,USA,840,1017.0,chambers,"Chambers, Alabama, US",289,4,18,0
+2020-04-28,us,alabama,32.91360079,-85.39072749,84001017.0,US,USA,840,1017.0,chambers,"Chambers, Alabama, US",291,2,19,1
 2020-01-22,us,alabama,32.93690146,-86.24847739,84001037.0,US,USA,840,1037.0,coosa,"Coosa, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.93690146,-86.24847739,84001037.0,US,USA,840,1037.0,coosa,"Coosa, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.93690146,-86.24847739,84001037.0,US,USA,840,1037.0,coosa,"Coosa, Alabama, US",0,0,0,0
@@ -3743,6 +3819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.93690146,-86.24847739,84001037.0,US,USA,840,1037.0,coosa,"Coosa, Alabama, US",29,1,1,0
 2020-04-25,us,alabama,32.93690146,-86.24847739,84001037.0,US,USA,840,1037.0,coosa,"Coosa, Alabama, US",29,0,1,0
 2020-04-26,us,alabama,32.93690146,-86.24847739,84001037.0,US,USA,840,1037.0,coosa,"Coosa, Alabama, US",29,0,1,0
+2020-04-27,us,alabama,32.93690146,-86.24847739,84001037.0,US,USA,840,1037.0,coosa,"Coosa, Alabama, US",30,1,1,0
+2020-04-28,us,alabama,32.93690146,-86.24847739,84001037.0,US,USA,840,1037.0,coosa,"Coosa, Alabama, US",31,1,1,0
 2020-01-22,us,alabama,32.99642064,-87.12511459999996,84001007.0,US,USA,840,1007.0,bibb,"Bibb, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,32.99642064,-87.12511459999996,84001007.0,US,USA,840,1007.0,bibb,"Bibb, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,32.99642064,-87.12511459999996,84001007.0,US,USA,840,1007.0,bibb,"Bibb, Alabama, US",0,0,0,0
@@ -3839,6 +3917,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,32.99642064,-87.12511459999996,84001007.0,US,USA,840,1007.0,bibb,"Bibb, Alabama, US",34,1,0,0
 2020-04-25,us,alabama,32.99642064,-87.12511459999996,84001007.0,US,USA,840,1007.0,bibb,"Bibb, Alabama, US",34,0,0,0
 2020-04-26,us,alabama,32.99642064,-87.12511459999996,84001007.0,US,USA,840,1007.0,bibb,"Bibb, Alabama, US",38,4,0,0
+2020-04-27,us,alabama,32.99642064,-87.12511459999996,84001007.0,US,USA,840,1007.0,bibb,"Bibb, Alabama, US",42,4,0,0
+2020-04-28,us,alabama,32.99642064,-87.12511459999996,84001007.0,US,USA,840,1007.0,bibb,"Bibb, Alabama, US",42,0,0,0
 2020-01-22,us,alabama,33.26879845,-86.66232561,84001117.0,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.26879845,-86.66232561,84001117.0,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.26879845,-86.66232561,84001117.0,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",0,0,0,0
@@ -3935,6 +4015,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.26879845,-86.66232561,84001117.0,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",294,11,7,0
 2020-04-25,us,alabama,33.26879845,-86.66232561,84001117.0,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",294,0,7,0
 2020-04-26,us,alabama,33.26879845,-86.66232561,84001117.0,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",311,17,9,2
+2020-04-27,us,alabama,33.26879845,-86.66232561,84001117.0,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",318,7,9,0
+2020-04-28,us,alabama,33.26879845,-86.66232561,84001117.0,US,USA,840,1117.0,shelby,"Shelby, Alabama, US",319,1,10,1
 2020-01-22,us,alabama,33.26984193,-85.85836077,84001027.0,US,USA,840,1027.0,clay,"Clay, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.26984193,-85.85836077,84001027.0,US,USA,840,1027.0,clay,"Clay, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.26984193,-85.85836077,84001027.0,US,USA,840,1027.0,clay,"Clay, Alabama, US",0,0,0,0
@@ -4031,6 +4113,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.26984193,-85.85836077,84001027.0,US,USA,840,1027.0,clay,"Clay, Alabama, US",19,0,0,0
 2020-04-25,us,alabama,33.26984193,-85.85836077,84001027.0,US,USA,840,1027.0,clay,"Clay, Alabama, US",19,0,0,0
 2020-04-26,us,alabama,33.26984193,-85.85836077,84001027.0,US,USA,840,1027.0,clay,"Clay, Alabama, US",19,0,1,1
+2020-04-27,us,alabama,33.26984193,-85.85836077,84001027.0,US,USA,840,1027.0,clay,"Clay, Alabama, US",19,0,1,0
+2020-04-28,us,alabama,33.26984193,-85.85836077,84001027.0,US,USA,840,1027.0,clay,"Clay, Alabama, US",19,0,1,0
 2020-01-22,us,alabama,33.28094866,-88.08818103,84001107.0,US,USA,840,1107.0,pickens,"Pickens, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.28094866,-88.08818103,84001107.0,US,USA,840,1107.0,pickens,"Pickens, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.28094866,-88.08818103,84001107.0,US,USA,840,1107.0,pickens,"Pickens, Alabama, US",0,0,0,0
@@ -4127,6 +4211,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.28094866,-88.08818103,84001107.0,US,USA,840,1107.0,pickens,"Pickens, Alabama, US",45,1,1,0
 2020-04-25,us,alabama,33.28094866,-88.08818103,84001107.0,US,USA,840,1107.0,pickens,"Pickens, Alabama, US",45,0,1,0
 2020-04-26,us,alabama,33.28094866,-88.08818103,84001107.0,US,USA,840,1107.0,pickens,"Pickens, Alabama, US",48,3,1,0
+2020-04-27,us,alabama,33.28094866,-88.08818103,84001107.0,US,USA,840,1107.0,pickens,"Pickens, Alabama, US",47,-1,1,0
+2020-04-28,us,alabama,33.28094866,-88.08818103,84001107.0,US,USA,840,1107.0,pickens,"Pickens, Alabama, US",47,0,1,0
 2020-01-22,us,alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,tuscaloosa,"Tuscaloosa, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,tuscaloosa,"Tuscaloosa, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,tuscaloosa,"Tuscaloosa, Alabama, US",0,0,0,0
@@ -4223,6 +4309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,tuscaloosa,"Tuscaloosa, Alabama, US",182,9,0,-1
 2020-04-25,us,alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,tuscaloosa,"Tuscaloosa, Alabama, US",182,0,0,0
 2020-04-26,us,alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,tuscaloosa,"Tuscaloosa, Alabama, US",192,10,0,0
+2020-04-27,us,alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,tuscaloosa,"Tuscaloosa, Alabama, US",195,3,0,0
+2020-04-28,us,alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,tuscaloosa,"Tuscaloosa, Alabama, US",199,4,0,0
 2020-01-22,us,alabama,33.29526734,-85.45708831,84001111.0,US,USA,840,1111.0,randolph,"Randolph, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.29526734,-85.45708831,84001111.0,US,USA,840,1111.0,randolph,"Randolph, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.29526734,-85.45708831,84001111.0,US,USA,840,1111.0,randolph,"Randolph, Alabama, US",0,0,0,0
@@ -4319,6 +4407,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.29526734,-85.45708831,84001111.0,US,USA,840,1111.0,randolph,"Randolph, Alabama, US",60,2,4,0
 2020-04-25,us,alabama,33.29526734,-85.45708831,84001111.0,US,USA,840,1111.0,randolph,"Randolph, Alabama, US",60,0,4,0
 2020-04-26,us,alabama,33.29526734,-85.45708831,84001111.0,US,USA,840,1111.0,randolph,"Randolph, Alabama, US",60,0,4,0
+2020-04-27,us,alabama,33.29526734,-85.45708831,84001111.0,US,USA,840,1111.0,randolph,"Randolph, Alabama, US",61,1,4,0
+2020-04-28,us,alabama,33.29526734,-85.45708831,84001111.0,US,USA,840,1111.0,randolph,"Randolph, Alabama, US",62,1,4,0
 2020-01-22,us,alabama,33.37823223,-86.16886178,84001121.0,US,USA,840,1121.0,talladega,"Talladega, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.37823223,-86.16886178,84001121.0,US,USA,840,1121.0,talladega,"Talladega, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.37823223,-86.16886178,84001121.0,US,USA,840,1121.0,talladega,"Talladega, Alabama, US",0,0,0,0
@@ -4415,6 +4505,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.37823223,-86.16886178,84001121.0,US,USA,840,1121.0,talladega,"Talladega, Alabama, US",54,1,2,0
 2020-04-25,us,alabama,33.37823223,-86.16886178,84001121.0,US,USA,840,1121.0,talladega,"Talladega, Alabama, US",54,0,2,0
 2020-04-26,us,alabama,33.37823223,-86.16886178,84001121.0,US,USA,840,1121.0,talladega,"Talladega, Alabama, US",57,3,2,0
+2020-04-27,us,alabama,33.37823223,-86.16886178,84001121.0,US,USA,840,1121.0,talladega,"Talladega, Alabama, US",58,1,2,0
+2020-04-28,us,alabama,33.37823223,-86.16886178,84001121.0,US,USA,840,1121.0,talladega,"Talladega, Alabama, US",59,1,2,0
 2020-01-22,us,alabama,33.55554728,-86.89506300000002,84001073.0,US,USA,840,1073.0,jefferson,"Jefferson, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.55554728,-86.89506300000002,84001073.0,US,USA,840,1073.0,jefferson,"Jefferson, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.55554728,-86.89506300000002,84001073.0,US,USA,840,1073.0,jefferson,"Jefferson, Alabama, US",0,0,0,0
@@ -4511,6 +4603,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.55554728,-86.89506300000002,84001073.0,US,USA,840,1073.0,jefferson,"Jefferson, Alabama, US",797,19,33,1
 2020-04-25,us,alabama,33.55554728,-86.89506300000002,84001073.0,US,USA,840,1073.0,jefferson,"Jefferson, Alabama, US",797,0,33,0
 2020-04-26,us,alabama,33.55554728,-86.89506300000002,84001073.0,US,USA,840,1073.0,jefferson,"Jefferson, Alabama, US",839,42,33,0
+2020-04-27,us,alabama,33.55554728,-86.89506300000002,84001073.0,US,USA,840,1073.0,jefferson,"Jefferson, Alabama, US",839,0,36,3
+2020-04-28,us,alabama,33.55554728,-86.89506300000002,84001073.0,US,USA,840,1073.0,jefferson,"Jefferson, Alabama, US",861,22,41,5
 2020-01-22,us,alabama,33.67679204,-85.52005899,84001029.0,US,USA,840,1029.0,cleburne,"Cleburne, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.67679204,-85.52005899,84001029.0,US,USA,840,1029.0,cleburne,"Cleburne, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.67679204,-85.52005899,84001029.0,US,USA,840,1029.0,cleburne,"Cleburne, Alabama, US",0,0,0,0
@@ -4607,6 +4701,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.67679204,-85.52005899,84001029.0,US,USA,840,1029.0,cleburne,"Cleburne, Alabama, US",12,0,1,0
 2020-04-25,us,alabama,33.67679204,-85.52005899,84001029.0,US,USA,840,1029.0,cleburne,"Cleburne, Alabama, US",12,0,1,0
 2020-04-26,us,alabama,33.67679204,-85.52005899,84001029.0,US,USA,840,1029.0,cleburne,"Cleburne, Alabama, US",12,0,1,0
+2020-04-27,us,alabama,33.67679204,-85.52005899,84001029.0,US,USA,840,1029.0,cleburne,"Cleburne, Alabama, US",12,0,1,0
+2020-04-28,us,alabama,33.67679204,-85.52005899,84001029.0,US,USA,840,1029.0,cleburne,"Cleburne, Alabama, US",12,0,1,0
 2020-01-22,us,alabama,33.71902176,-86.31029372,84001115.0,US,USA,840,1115.0,st-clair,"St. Clair, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.71902176,-86.31029372,84001115.0,US,USA,840,1115.0,st-clair,"St. Clair, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.71902176,-86.31029372,84001115.0,US,USA,840,1115.0,st-clair,"St. Clair, Alabama, US",0,0,0,0
@@ -4703,6 +4799,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.71902176,-86.31029372,84001115.0,US,USA,840,1115.0,st-clair,"St. Clair, Alabama, US",63,1,0,0
 2020-04-25,us,alabama,33.71902176,-86.31029372,84001115.0,US,USA,840,1115.0,st-clair,"St. Clair, Alabama, US",63,0,0,0
 2020-04-26,us,alabama,33.71902176,-86.31029372,84001115.0,US,USA,840,1115.0,st-clair,"St. Clair, Alabama, US",64,1,0,0
+2020-04-27,us,alabama,33.71902176,-86.31029372,84001115.0,US,USA,840,1115.0,st-clair,"St. Clair, Alabama, US",68,4,0,0
+2020-04-28,us,alabama,33.71902176,-86.31029372,84001115.0,US,USA,840,1115.0,st-clair,"St. Clair, Alabama, US",70,2,0,0
 2020-01-22,us,alabama,33.72076938,-87.73886638,84001057.0,US,USA,840,1057.0,fayette,"Fayette, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.72076938,-87.73886638,84001057.0,US,USA,840,1057.0,fayette,"Fayette, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.72076938,-87.73886638,84001057.0,US,USA,840,1057.0,fayette,"Fayette, Alabama, US",0,0,0,0
@@ -4799,6 +4897,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.72076938,-87.73886638,84001057.0,US,USA,840,1057.0,fayette,"Fayette, Alabama, US",4,0,0,0
 2020-04-25,us,alabama,33.72076938,-87.73886638,84001057.0,US,USA,840,1057.0,fayette,"Fayette, Alabama, US",4,0,0,0
 2020-04-26,us,alabama,33.72076938,-87.73886638,84001057.0,US,USA,840,1057.0,fayette,"Fayette, Alabama, US",5,1,0,0
+2020-04-27,us,alabama,33.72076938,-87.73886638,84001057.0,US,USA,840,1057.0,fayette,"Fayette, Alabama, US",5,0,0,0
+2020-04-28,us,alabama,33.72076938,-87.73886638,84001057.0,US,USA,840,1057.0,fayette,"Fayette, Alabama, US",5,0,0,0
 2020-01-22,us,alabama,33.77483727,-85.82630386,84001015.0,US,USA,840,1015.0,calhoun,"Calhoun, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.77483727,-85.82630386,84001015.0,US,USA,840,1015.0,calhoun,"Calhoun, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.77483727,-85.82630386,84001015.0,US,USA,840,1015.0,calhoun,"Calhoun, Alabama, US",0,0,0,0
@@ -4895,6 +4995,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.77483727,-85.82630386,84001015.0,US,USA,840,1015.0,calhoun,"Calhoun, Alabama, US",89,1,3,0
 2020-04-25,us,alabama,33.77483727,-85.82630386,84001015.0,US,USA,840,1015.0,calhoun,"Calhoun, Alabama, US",89,0,3,0
 2020-04-26,us,alabama,33.77483727,-85.82630386,84001015.0,US,USA,840,1015.0,calhoun,"Calhoun, Alabama, US",91,2,3,0
+2020-04-27,us,alabama,33.77483727,-85.82630386,84001015.0,US,USA,840,1015.0,calhoun,"Calhoun, Alabama, US",90,-1,3,0
+2020-04-28,us,alabama,33.77483727,-85.82630386,84001015.0,US,USA,840,1015.0,calhoun,"Calhoun, Alabama, US",92,2,3,0
 2020-01-22,us,alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,lamar,"Lamar, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,lamar,"Lamar, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,lamar,"Lamar, Alabama, US",0,0,0,0
@@ -4991,6 +5093,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,lamar,"Lamar, Alabama, US",10,1,0,0
 2020-04-25,us,alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,lamar,"Lamar, Alabama, US",10,0,0,0
 2020-04-26,us,alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,lamar,"Lamar, Alabama, US",10,0,0,0
+2020-04-27,us,alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,lamar,"Lamar, Alabama, US",10,0,0,0
+2020-04-28,us,alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,lamar,"Lamar, Alabama, US",10,0,0,0
 2020-01-22,us,alabama,33.80270512,-87.30027177,84001127.0,US,USA,840,1127.0,walker,"Walker, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.80270512,-87.30027177,84001127.0,US,USA,840,1127.0,walker,"Walker, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.80270512,-87.30027177,84001127.0,US,USA,840,1127.0,walker,"Walker, Alabama, US",0,0,0,0
@@ -5087,6 +5191,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.80270512,-87.30027177,84001127.0,US,USA,840,1127.0,walker,"Walker, Alabama, US",89,0,0,0
 2020-04-25,us,alabama,33.80270512,-87.30027177,84001127.0,US,USA,840,1127.0,walker,"Walker, Alabama, US",89,0,0,0
 2020-04-26,us,alabama,33.80270512,-87.30027177,84001127.0,US,USA,840,1127.0,walker,"Walker, Alabama, US",92,3,0,0
+2020-04-27,us,alabama,33.80270512,-87.30027177,84001127.0,US,USA,840,1127.0,walker,"Walker, Alabama, US",93,1,0,0
+2020-04-28,us,alabama,33.80270512,-87.30027177,84001127.0,US,USA,840,1127.0,walker,"Walker, Alabama, US",94,1,0,0
 2020-01-22,us,alabama,33.98210918,-86.56790593,84001009.0,US,USA,840,1009.0,blount,"Blount, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,33.98210918,-86.56790593,84001009.0,US,USA,840,1009.0,blount,"Blount, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,33.98210918,-86.56790593,84001009.0,US,USA,840,1009.0,blount,"Blount, Alabama, US",0,0,0,0
@@ -5183,6 +5289,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,33.98210918,-86.56790593,84001009.0,US,USA,840,1009.0,blount,"Blount, Alabama, US",31,0,0,0
 2020-04-25,us,alabama,33.98210918,-86.56790593,84001009.0,US,USA,840,1009.0,blount,"Blount, Alabama, US",31,0,0,0
 2020-04-26,us,alabama,33.98210918,-86.56790593,84001009.0,US,USA,840,1009.0,blount,"Blount, Alabama, US",34,3,0,0
+2020-04-27,us,alabama,33.98210918,-86.56790593,84001009.0,US,USA,840,1009.0,blount,"Blount, Alabama, US",34,0,0,0
+2020-04-28,us,alabama,33.98210918,-86.56790593,84001009.0,US,USA,840,1009.0,blount,"Blount, Alabama, US",34,0,0,0
 2020-01-22,us,alabama,34.04567266,-86.04051873,84001055.0,US,USA,840,1055.0,etowah,"Etowah, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.04567266,-86.04051873,84001055.0,US,USA,840,1055.0,etowah,"Etowah, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.04567266,-86.04051873,84001055.0,US,USA,840,1055.0,etowah,"Etowah, Alabama, US",0,0,0,0
@@ -5279,6 +5387,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.04567266,-86.04051873,84001055.0,US,USA,840,1055.0,etowah,"Etowah, Alabama, US",121,1,8,0
 2020-04-25,us,alabama,34.04567266,-86.04051873,84001055.0,US,USA,840,1055.0,etowah,"Etowah, Alabama, US",121,0,8,0
 2020-04-26,us,alabama,34.04567266,-86.04051873,84001055.0,US,USA,840,1055.0,etowah,"Etowah, Alabama, US",125,4,8,0
+2020-04-27,us,alabama,34.04567266,-86.04051873,84001055.0,US,USA,840,1055.0,etowah,"Etowah, Alabama, US",126,1,8,0
+2020-04-28,us,alabama,34.04567266,-86.04051873,84001055.0,US,USA,840,1055.0,etowah,"Etowah, Alabama, US",130,4,8,0
 2020-01-22,us,alabama,34.13020303,-86.86888037,84001043.0,US,USA,840,1043.0,cullman,"Cullman, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.13020303,-86.86888037,84001043.0,US,USA,840,1043.0,cullman,"Cullman, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.13020303,-86.86888037,84001043.0,US,USA,840,1043.0,cullman,"Cullman, Alabama, US",0,0,0,0
@@ -5375,6 +5485,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.13020303,-86.86888037,84001043.0,US,USA,840,1043.0,cullman,"Cullman, Alabama, US",47,3,0,0
 2020-04-25,us,alabama,34.13020303,-86.86888037,84001043.0,US,USA,840,1043.0,cullman,"Cullman, Alabama, US",47,0,0,0
 2020-04-26,us,alabama,34.13020303,-86.86888037,84001043.0,US,USA,840,1043.0,cullman,"Cullman, Alabama, US",50,3,0,0
+2020-04-27,us,alabama,34.13020303,-86.86888037,84001043.0,US,USA,840,1043.0,cullman,"Cullman, Alabama, US",52,2,0,0
+2020-04-28,us,alabama,34.13020303,-86.86888037,84001043.0,US,USA,840,1043.0,cullman,"Cullman, Alabama, US",52,0,0,0
 2020-01-22,us,alabama,34.13697363,-87.88704173,84001093.0,US,USA,840,1093.0,marion,"Marion, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.13697363,-87.88704173,84001093.0,US,USA,840,1093.0,marion,"Marion, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.13697363,-87.88704173,84001093.0,US,USA,840,1093.0,marion,"Marion, Alabama, US",0,0,0,0
@@ -5471,6 +5583,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.13697363,-87.88704173,84001093.0,US,USA,840,1093.0,marion,"Marion, Alabama, US",69,2,5,0
 2020-04-25,us,alabama,34.13697363,-87.88704173,84001093.0,US,USA,840,1093.0,marion,"Marion, Alabama, US",69,0,5,0
 2020-04-26,us,alabama,34.13697363,-87.88704173,84001093.0,US,USA,840,1093.0,marion,"Marion, Alabama, US",74,5,5,0
+2020-04-27,us,alabama,34.13697363,-87.88704173,84001093.0,US,USA,840,1093.0,marion,"Marion, Alabama, US",75,1,6,1
+2020-04-28,us,alabama,34.13697363,-87.88704173,84001093.0,US,USA,840,1093.0,marion,"Marion, Alabama, US",76,1,6,0
 2020-01-22,us,alabama,34.15030532,-87.37325922,84001133.0,US,USA,840,1133.0,winston,"Winston, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.15030532,-87.37325922,84001133.0,US,USA,840,1133.0,winston,"Winston, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.15030532,-87.37325922,84001133.0,US,USA,840,1133.0,winston,"Winston, Alabama, US",0,0,0,0
@@ -5567,6 +5681,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.15030532,-87.37325922,84001133.0,US,USA,840,1133.0,winston,"Winston, Alabama, US",10,0,0,0
 2020-04-25,us,alabama,34.15030532,-87.37325922,84001133.0,US,USA,840,1133.0,winston,"Winston, Alabama, US",10,0,0,0
 2020-04-26,us,alabama,34.15030532,-87.37325922,84001133.0,US,USA,840,1133.0,winston,"Winston, Alabama, US",11,1,0,0
+2020-04-27,us,alabama,34.15030532,-87.37325922,84001133.0,US,USA,840,1133.0,winston,"Winston, Alabama, US",11,0,0,0
+2020-04-28,us,alabama,34.15030532,-87.37325922,84001133.0,US,USA,840,1133.0,winston,"Winston, Alabama, US",13,2,0,0
 2020-01-22,us,alabama,34.17805983,-85.60638968,84001019.0,US,USA,840,1019.0,cherokee,"Cherokee, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.17805983,-85.60638968,84001019.0,US,USA,840,1019.0,cherokee,"Cherokee, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.17805983,-85.60638968,84001019.0,US,USA,840,1019.0,cherokee,"Cherokee, Alabama, US",0,0,0,0
@@ -5663,6 +5779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.17805983,-85.60638968,84001019.0,US,USA,840,1019.0,cherokee,"Cherokee, Alabama, US",12,0,0,0
 2020-04-25,us,alabama,34.17805983,-85.60638968,84001019.0,US,USA,840,1019.0,cherokee,"Cherokee, Alabama, US",12,0,0,0
 2020-04-26,us,alabama,34.17805983,-85.60638968,84001019.0,US,USA,840,1019.0,cherokee,"Cherokee, Alabama, US",14,2,0,0
+2020-04-27,us,alabama,34.17805983,-85.60638968,84001019.0,US,USA,840,1019.0,cherokee,"Cherokee, Alabama, US",14,0,0,0
+2020-04-28,us,alabama,34.17805983,-85.60638968,84001019.0,US,USA,840,1019.0,cherokee,"Cherokee, Alabama, US",15,1,0,0
 2020-01-22,us,alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,marshall,"Marshall, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,marshall,"Marshall, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,marshall,"Marshall, Alabama, US",0,0,0,0
@@ -5759,6 +5877,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,marshall,"Marshall, Alabama, US",267,9,4,0
 2020-04-25,us,alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,marshall,"Marshall, Alabama, US",267,0,4,0
 2020-04-26,us,alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,marshall,"Marshall, Alabama, US",307,40,5,1
+2020-04-27,us,alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,marshall,"Marshall, Alabama, US",310,3,5,0
+2020-04-28,us,alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,marshall,"Marshall, Alabama, US",313,3,6,1
 2020-01-22,us,alabama,34.44235334,-87.84289505,84001059.0,US,USA,840,1059.0,franklin,"Franklin, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.44235334,-87.84289505,84001059.0,US,USA,840,1059.0,franklin,"Franklin, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.44235334,-87.84289505,84001059.0,US,USA,840,1059.0,franklin,"Franklin, Alabama, US",0,0,0,0
@@ -5855,6 +5975,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.44235334,-87.84289505,84001059.0,US,USA,840,1059.0,franklin,"Franklin, Alabama, US",32,7,0,0
 2020-04-25,us,alabama,34.44235334,-87.84289505,84001059.0,US,USA,840,1059.0,franklin,"Franklin, Alabama, US",32,0,0,0
 2020-04-26,us,alabama,34.44235334,-87.84289505,84001059.0,US,USA,840,1059.0,franklin,"Franklin, Alabama, US",41,9,0,0
+2020-04-27,us,alabama,34.44235334,-87.84289505,84001059.0,US,USA,840,1059.0,franklin,"Franklin, Alabama, US",43,2,0,0
+2020-04-28,us,alabama,34.44235334,-87.84289505,84001059.0,US,USA,840,1059.0,franklin,"Franklin, Alabama, US",44,1,0,0
 2020-01-22,us,alabama,34.45500589,-86.85475946,84001103.0,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.45500589,-86.85475946,84001103.0,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.45500589,-86.85475946,84001103.0,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",0,0,0,0
@@ -5951,6 +6073,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.45500589,-86.85475946,84001103.0,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",55,5,0,0
 2020-04-25,us,alabama,34.45500589,-86.85475946,84001103.0,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",55,0,0,0
 2020-04-26,us,alabama,34.45500589,-86.85475946,84001103.0,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",64,9,0,0
+2020-04-27,us,alabama,34.45500589,-86.85475946,84001103.0,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",65,1,0,0
+2020-04-28,us,alabama,34.45500589,-86.85475946,84001103.0,US,USA,840,1103.0,morgan,"Morgan, Alabama, US",68,3,0,0
 2020-01-22,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",0,0,0,0
@@ -6047,6 +6171,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",61,0,2,0
 2020-04-25,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",61,0,2,0
 2020-04-26,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",70,9,2,0
+2020-04-27,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",74,4,2,0
+2020-04-28,us,alabama,34.45946862,-85.80782906,84001049.0,US,USA,840,1049.0,dekalb,"DeKalb, Alabama, US",76,2,2,0
 2020-01-22,us,alabama,34.52041498,-87.31069453,84001079.0,US,USA,840,1079.0,lawrence,"Lawrence, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.52041498,-87.31069453,84001079.0,US,USA,840,1079.0,lawrence,"Lawrence, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.52041498,-87.31069453,84001079.0,US,USA,840,1079.0,lawrence,"Lawrence, Alabama, US",0,0,0,0
@@ -6143,6 +6269,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.52041498,-87.31069453,84001079.0,US,USA,840,1079.0,lawrence,"Lawrence, Alabama, US",12,0,0,0
 2020-04-25,us,alabama,34.52041498,-87.31069453,84001079.0,US,USA,840,1079.0,lawrence,"Lawrence, Alabama, US",12,0,0,0
 2020-04-26,us,alabama,34.52041498,-87.31069453,84001079.0,US,USA,840,1079.0,lawrence,"Lawrence, Alabama, US",12,0,0,0
+2020-04-27,us,alabama,34.52041498,-87.31069453,84001079.0,US,USA,840,1079.0,lawrence,"Lawrence, Alabama, US",12,0,0,0
+2020-04-28,us,alabama,34.52041498,-87.31069453,84001079.0,US,USA,840,1079.0,lawrence,"Lawrence, Alabama, US",12,0,0,0
 2020-01-22,us,alabama,34.69847452,-87.80168544,84001033.0,US,USA,840,1033.0,colbert,"Colbert, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.69847452,-87.80168544,84001033.0,US,USA,840,1033.0,colbert,"Colbert, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.69847452,-87.80168544,84001033.0,US,USA,840,1033.0,colbert,"Colbert, Alabama, US",0,0,0,0
@@ -6239,6 +6367,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.69847452,-87.80168544,84001033.0,US,USA,840,1033.0,colbert,"Colbert, Alabama, US",23,1,2,1
 2020-04-25,us,alabama,34.69847452,-87.80168544,84001033.0,US,USA,840,1033.0,colbert,"Colbert, Alabama, US",23,0,2,0
 2020-04-26,us,alabama,34.69847452,-87.80168544,84001033.0,US,USA,840,1033.0,colbert,"Colbert, Alabama, US",23,0,2,0
+2020-04-27,us,alabama,34.69847452,-87.80168544,84001033.0,US,USA,840,1033.0,colbert,"Colbert, Alabama, US",23,0,2,0
+2020-04-28,us,alabama,34.69847452,-87.80168544,84001033.0,US,USA,840,1033.0,colbert,"Colbert, Alabama, US",27,4,2,0
 2020-01-22,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",0,0,0,0
@@ -6335,6 +6465,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",202,-3,4,0
 2020-04-25,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",202,0,4,0
 2020-04-26,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",211,9,4,0
+2020-04-27,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",214,3,4,0
+2020-04-28,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",222,8,4,0
 2020-01-22,us,alabama,34.78144169,-85.99750489,84001071.0,US,USA,840,1071.0,jackson,"Jackson, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.78144169,-85.99750489,84001071.0,US,USA,840,1071.0,jackson,"Jackson, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.78144169,-85.99750489,84001071.0,US,USA,840,1071.0,jackson,"Jackson, Alabama, US",0,0,0,0
@@ -6431,6 +6563,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.78144169,-85.99750489,84001071.0,US,USA,840,1071.0,jackson,"Jackson, Alabama, US",45,2,2,0
 2020-04-25,us,alabama,34.78144169,-85.99750489,84001071.0,US,USA,840,1071.0,jackson,"Jackson, Alabama, US",45,0,2,0
 2020-04-26,us,alabama,34.78144169,-85.99750489,84001071.0,US,USA,840,1071.0,jackson,"Jackson, Alabama, US",45,0,2,0
+2020-04-27,us,alabama,34.78144169,-85.99750489,84001071.0,US,USA,840,1071.0,jackson,"Jackson, Alabama, US",45,0,2,0
+2020-04-28,us,alabama,34.78144169,-85.99750489,84001071.0,US,USA,840,1071.0,jackson,"Jackson, Alabama, US",46,1,2,0
 2020-01-22,us,alabama,34.81185586,-86.98310072,84001083.0,US,USA,840,1083.0,limestone,"Limestone, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.81185586,-86.98310072,84001083.0,US,USA,840,1083.0,limestone,"Limestone, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.81185586,-86.98310072,84001083.0,US,USA,840,1083.0,limestone,"Limestone, Alabama, US",0,0,0,0
@@ -6527,6 +6661,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.81185586,-86.98310072,84001083.0,US,USA,840,1083.0,limestone,"Limestone, Alabama, US",41,1,0,0
 2020-04-25,us,alabama,34.81185586,-86.98310072,84001083.0,US,USA,840,1083.0,limestone,"Limestone, Alabama, US",41,0,0,0
 2020-04-26,us,alabama,34.81185586,-86.98310072,84001083.0,US,USA,840,1083.0,limestone,"Limestone, Alabama, US",41,0,0,0
+2020-04-27,us,alabama,34.81185586,-86.98310072,84001083.0,US,USA,840,1083.0,limestone,"Limestone, Alabama, US",42,1,0,0
+2020-04-28,us,alabama,34.81185586,-86.98310072,84001083.0,US,USA,840,1083.0,limestone,"Limestone, Alabama, US",44,2,0,0
 2020-01-22,us,alabama,34.90171875,-87.65624729,84001077.0,US,USA,840,1077.0,lauderdale,"Lauderdale, Alabama, US",0,0,0,0
 2020-01-23,us,alabama,34.90171875,-87.65624729,84001077.0,US,USA,840,1077.0,lauderdale,"Lauderdale, Alabama, US",0,0,0,0
 2020-01-24,us,alabama,34.90171875,-87.65624729,84001077.0,US,USA,840,1077.0,lauderdale,"Lauderdale, Alabama, US",0,0,0,0
@@ -6623,3 +6759,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,alabama,34.90171875,-87.65624729,84001077.0,US,USA,840,1077.0,lauderdale,"Lauderdale, Alabama, US",25,0,2,-1
 2020-04-25,us,alabama,34.90171875,-87.65624729,84001077.0,US,USA,840,1077.0,lauderdale,"Lauderdale, Alabama, US",25,0,2,0
 2020-04-26,us,alabama,34.90171875,-87.65624729,84001077.0,US,USA,840,1077.0,lauderdale,"Lauderdale, Alabama, US",31,6,2,0
+2020-04-27,us,alabama,34.90171875,-87.65624729,84001077.0,US,USA,840,1077.0,lauderdale,"Lauderdale, Alabama, US",31,0,2,0
+2020-04-28,us,alabama,34.90171875,-87.65624729,84001077.0,US,USA,840,1077.0,lauderdale,"Lauderdale, Alabama, US",30,-1,2,0

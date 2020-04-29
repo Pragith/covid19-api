@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,0.0,0.0,84080036.0,US,USA,840,80036.0,out-of-ny,"Out of NY, New York, US",0,0,0,0
 2020-04-25,us,new-york,0.0,0.0,84080036.0,US,USA,840,80036.0,out-of-ny,"Out of NY, New York, US",0,0,0,0
 2020-04-26,us,new-york,0.0,0.0,84080036.0,US,USA,840,80036.0,out-of-ny,"Out of NY, New York, US",0,0,0,0
+2020-04-27,us,new-york,0.0,0.0,84080036.0,US,USA,840,80036.0,out-of-ny,"Out of NY, New York, US",0,0,0,0
+2020-04-28,us,new-york,0.0,0.0,84080036.0,US,USA,840,80036.0,out-of-ny,"Out of NY, New York, US",0,0,0,0
 2020-01-22,us,new-york,0.0,0.0,84090036.0,US,USA,840,90036.0,unassigned,"Unassigned, New York, US",0,0,0,0
 2020-01-23,us,new-york,0.0,0.0,84090036.0,US,USA,840,90036.0,unassigned,"Unassigned, New York, US",0,0,0,0
 2020-01-24,us,new-york,0.0,0.0,84090036.0,US,USA,840,90036.0,unassigned,"Unassigned, New York, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,0.0,0.0,84090036.0,US,USA,840,90036.0,unassigned,"Unassigned, New York, US",0,0,0,0
 2020-04-25,us,new-york,0.0,0.0,84090036.0,US,USA,840,90036.0,unassigned,"Unassigned, New York, US",0,0,0,0
 2020-04-26,us,new-york,0.0,0.0,84090036.0,US,USA,840,90036.0,unassigned,"Unassigned, New York, US",0,0,0,0
+2020-04-27,us,new-york,0.0,0.0,84090036.0,US,USA,840,90036.0,unassigned,"Unassigned, New York, US",0,0,0,0
+2020-04-28,us,new-york,0.0,0.0,84090036.0,US,USA,840,90036.0,unassigned,"Unassigned, New York, US",0,0,0,0
 2020-01-22,us,new-york,40.58582155,-74.14808598,84036085.0,US,USA,840,36085.0,richmond,"Richmond, New York, US",0,0,0,0
 2020-01-23,us,new-york,40.58582155,-74.14808598,84036085.0,US,USA,840,36085.0,richmond,"Richmond, New York, US",0,0,0,0
 2020-01-24,us,new-york,40.58582155,-74.14808598,84036085.0,US,USA,840,36085.0,richmond,"Richmond, New York, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,40.58582155,-74.14808598,84036085.0,US,USA,840,36085.0,richmond,"Richmond, New York, US",0,0,0,0
 2020-04-25,us,new-york,40.58582155,-74.14808598,84036085.0,US,USA,840,36085.0,richmond,"Richmond, New York, US",0,0,0,0
 2020-04-26,us,new-york,40.58582155,-74.14808598,84036085.0,US,USA,840,36085.0,richmond,"Richmond, New York, US",0,0,0,0
+2020-04-27,us,new-york,40.58582155,-74.14808598,84036085.0,US,USA,840,36085.0,richmond,"Richmond, New York, US",0,0,0,0
+2020-04-28,us,new-york,40.58582155,-74.14808598,84036085.0,US,USA,840,36085.0,richmond,"Richmond, New York, US",0,0,0,0
 2020-01-22,us,new-york,40.6361825,-73.94935552,84036047.0,US,USA,840,36047.0,kings,"Kings, New York, US",0,0,0,0
 2020-01-23,us,new-york,40.6361825,-73.94935552,84036047.0,US,USA,840,36047.0,kings,"Kings, New York, US",0,0,0,0
 2020-01-24,us,new-york,40.6361825,-73.94935552,84036047.0,US,USA,840,36047.0,kings,"Kings, New York, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,40.6361825,-73.94935552,84036047.0,US,USA,840,36047.0,kings,"Kings, New York, US",0,0,0,0
 2020-04-25,us,new-york,40.6361825,-73.94935552,84036047.0,US,USA,840,36047.0,kings,"Kings, New York, US",0,0,0,0
 2020-04-26,us,new-york,40.6361825,-73.94935552,84036047.0,US,USA,840,36047.0,kings,"Kings, New York, US",0,0,0,0
+2020-04-27,us,new-york,40.6361825,-73.94935552,84036047.0,US,USA,840,36047.0,kings,"Kings, New York, US",0,0,0,0
+2020-04-28,us,new-york,40.6361825,-73.94935552,84036047.0,US,USA,840,36047.0,kings,"Kings, New York, US",0,0,0,0
 2020-01-22,us,new-york,40.71088124,-73.81684712,84036081.0,US,USA,840,36081.0,queens,"Queens, New York, US",0,0,0,0
 2020-01-23,us,new-york,40.71088124,-73.81684712,84036081.0,US,USA,840,36081.0,queens,"Queens, New York, US",0,0,0,0
 2020-01-24,us,new-york,40.71088124,-73.81684712,84036081.0,US,USA,840,36081.0,queens,"Queens, New York, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,40.71088124,-73.81684712,84036081.0,US,USA,840,36081.0,queens,"Queens, New York, US",0,0,0,0
 2020-04-25,us,new-york,40.71088124,-73.81684712,84036081.0,US,USA,840,36081.0,queens,"Queens, New York, US",0,0,0,0
 2020-04-26,us,new-york,40.71088124,-73.81684712,84036081.0,US,USA,840,36081.0,queens,"Queens, New York, US",0,0,0,0
+2020-04-27,us,new-york,40.71088124,-73.81684712,84036081.0,US,USA,840,36081.0,queens,"Queens, New York, US",0,0,0,0
+2020-04-28,us,new-york,40.71088124,-73.81684712,84036081.0,US,USA,840,36081.0,queens,"Queens, New York, US",0,0,0,0
 2020-01-22,us,new-york,40.74066522,-73.58941873,84036059.0,US,USA,840,36059.0,nassau,"Nassau, New York, US",0,0,0,0
 2020-01-23,us,new-york,40.74066522,-73.58941873,84036059.0,US,USA,840,36059.0,nassau,"Nassau, New York, US",0,0,0,0
 2020-01-24,us,new-york,40.74066522,-73.58941873,84036059.0,US,USA,840,36059.0,nassau,"Nassau, New York, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,40.74066522,-73.58941873,84036059.0,US,USA,840,36059.0,nassau,"Nassau, New York, US",32765,641,1518,47
 2020-04-25,us,new-york,40.74066522,-73.58941873,84036059.0,US,USA,840,36059.0,nassau,"Nassau, New York, US",33798,1033,1558,40
 2020-04-26,us,new-york,40.74066522,-73.58941873,84036059.0,US,USA,840,36059.0,nassau,"Nassau, New York, US",34522,724,1587,29
+2020-04-27,us,new-york,40.74066522,-73.58941873,84036059.0,US,USA,840,36059.0,nassau,"Nassau, New York, US",34865,343,1620,33
+2020-04-28,us,new-york,40.74066522,-73.58941873,84036059.0,US,USA,840,36059.0,nassau,"Nassau, New York, US",35085,220,1647,27
 2020-01-22,us,new-york,40.76727260000001,-73.97152637,84036061.0,US,USA,840,36061.0,new-york,"New York City, New York, US",0,0,0,0
 2020-01-23,us,new-york,40.76727260000001,-73.97152637,84036061.0,US,USA,840,36061.0,new-york,"New York City, New York, US",0,0,0,0
 2020-01-24,us,new-york,40.76727260000001,-73.97152637,84036061.0,US,USA,840,36061.0,new-york,"New York City, New York, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,40.76727260000001,-73.97152637,84036061.0,US,USA,840,36061.0,new-york,"New York City, New York, US",150473,4618,16190,32
 2020-04-25,us,new-york,40.76727260000001,-73.97152637,84036061.0,US,USA,840,36061.0,new-york,"New York City, New York, US",155113,4640,17126,936
 2020-04-26,us,new-york,40.76727260000001,-73.97152637,84036061.0,US,USA,840,36061.0,new-york,"New York City, New York, US",158258,3145,17280,154
+2020-04-27,us,new-york,40.76727260000001,-73.97152637,84036061.0,US,USA,840,36061.0,new-york,"New York City, New York, US",160489,2231,17515,235
+2020-04-28,us,new-york,40.76727260000001,-73.97152637,84036061.0,US,USA,840,36061.0,new-york,"New York City, New York, US",162338,1849,17682,167
 2020-01-22,us,new-york,40.85209301,-73.86282755,84036005.0,US,USA,840,36005.0,bronx,"Bronx, New York, US",0,0,0,0
 2020-01-23,us,new-york,40.85209301,-73.86282755,84036005.0,US,USA,840,36005.0,bronx,"Bronx, New York, US",0,0,0,0
 2020-01-24,us,new-york,40.85209301,-73.86282755,84036005.0,US,USA,840,36005.0,bronx,"Bronx, New York, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,40.85209301,-73.86282755,84036005.0,US,USA,840,36005.0,bronx,"Bronx, New York, US",0,0,0,0
 2020-04-25,us,new-york,40.85209301,-73.86282755,84036005.0,US,USA,840,36005.0,bronx,"Bronx, New York, US",0,0,0,0
 2020-04-26,us,new-york,40.85209301,-73.86282755,84036005.0,US,USA,840,36005.0,bronx,"Bronx, New York, US",0,0,0,0
+2020-04-27,us,new-york,40.85209301,-73.86282755,84036005.0,US,USA,840,36005.0,bronx,"Bronx, New York, US",0,0,0,0
+2020-04-28,us,new-york,40.85209301,-73.86282755,84036005.0,US,USA,840,36005.0,bronx,"Bronx, New York, US",0,0,0,0
 2020-01-22,us,new-york,40.88320119,-72.8012172,84036103.0,US,USA,840,36103.0,suffolk,"Suffolk, New York, US",0,0,0,0
 2020-01-23,us,new-york,40.88320119,-72.8012172,84036103.0,US,USA,840,36103.0,suffolk,"Suffolk, New York, US",0,0,0,0
 2020-01-24,us,new-york,40.88320119,-72.8012172,84036103.0,US,USA,840,36103.0,suffolk,"Suffolk, New York, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,40.88320119,-72.8012172,84036103.0,US,USA,840,36103.0,suffolk,"Suffolk, New York, US",30606,1039,993,34
 2020-04-25,us,new-york,40.88320119,-72.8012172,84036103.0,US,USA,840,36103.0,suffolk,"Suffolk, New York, US",31368,762,1042,49
 2020-04-26,us,new-york,40.88320119,-72.8012172,84036103.0,US,USA,840,36103.0,suffolk,"Suffolk, New York, US",32059,691,1070,28
+2020-04-27,us,new-york,40.88320119,-72.8012172,84036103.0,US,USA,840,36103.0,suffolk,"Suffolk, New York, US",32470,411,1102,32
+2020-04-28,us,new-york,40.88320119,-72.8012172,84036103.0,US,USA,840,36103.0,suffolk,"Suffolk, New York, US",32724,254,1131,29
 2020-01-22,us,new-york,41.15027894,-74.02560498,84036087.0,US,USA,840,36087.0,rockland,"Rockland, New York, US",0,0,0,0
 2020-01-23,us,new-york,41.15027894,-74.02560498,84036087.0,US,USA,840,36087.0,rockland,"Rockland, New York, US",0,0,0,0
 2020-01-24,us,new-york,41.15027894,-74.02560498,84036087.0,US,USA,840,36087.0,rockland,"Rockland, New York, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,41.15027894,-74.02560498,84036087.0,US,USA,840,36087.0,rockland,"Rockland, New York, US",10091,263,453,17
 2020-04-25,us,new-york,41.15027894,-74.02560498,84036087.0,US,USA,840,36087.0,rockland,"Rockland, New York, US",11091,1000,453,0
 2020-04-26,us,new-york,41.15027894,-74.02560498,84036087.0,US,USA,840,36087.0,rockland,"Rockland, New York, US",11256,165,453,0
+2020-04-27,us,new-york,41.15027894,-74.02560498,84036087.0,US,USA,840,36087.0,rockland,"Rockland, New York, US",11366,110,481,28
+2020-04-28,us,new-york,41.15027894,-74.02560498,84036087.0,US,USA,840,36087.0,rockland,"Rockland, New York, US",11453,87,481,0
 2020-01-22,us,new-york,41.16278376,-73.75741653,84036119.0,US,USA,840,36119.0,westchester,"Westchester, New York, US",0,0,0,0
 2020-01-23,us,new-york,41.16278376,-73.75741653,84036119.0,US,USA,840,36119.0,westchester,"Westchester, New York, US",0,0,0,0
 2020-01-24,us,new-york,41.16278376,-73.75741653,84036119.0,US,USA,840,36119.0,westchester,"Westchester, New York, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,41.16278376,-73.75741653,84036119.0,US,USA,840,36119.0,westchester,"Westchester, New York, US",26633,674,891,28
 2020-04-25,us,new-york,41.16278376,-73.75741653,84036119.0,US,USA,840,36119.0,westchester,"Westchester, New York, US",27231,598,920,29
 2020-04-26,us,new-york,41.16278376,-73.75741653,84036119.0,US,USA,840,36119.0,westchester,"Westchester, New York, US",27664,433,946,26
+2020-04-27,us,new-york,41.16278376,-73.75741653,84036119.0,US,USA,840,36119.0,westchester,"Westchester, New York, US",28007,343,962,16
+2020-04-28,us,new-york,41.16278376,-73.75741653,84036119.0,US,USA,840,36119.0,westchester,"Westchester, New York, US",28245,238,983,21
 2020-01-22,us,new-york,41.40337468,-74.30240757,84036071.0,US,USA,840,36071.0,orange,"Orange, New York, US",0,0,0,0
 2020-01-23,us,new-york,41.40337468,-74.30240757,84036071.0,US,USA,840,36071.0,orange,"Orange, New York, US",0,0,0,0
 2020-01-24,us,new-york,41.40337468,-74.30240757,84036071.0,US,USA,840,36071.0,orange,"Orange, New York, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,41.40337468,-74.30240757,84036071.0,US,USA,840,36071.0,orange,"Orange, New York, US",7155,339,274,6
 2020-04-25,us,new-york,41.40337468,-74.30240757,84036071.0,US,USA,840,36071.0,orange,"Orange, New York, US",7973,818,274,0
 2020-04-26,us,new-york,41.40337468,-74.30240757,84036071.0,US,USA,840,36071.0,orange,"Orange, New York, US",8106,133,274,0
+2020-04-27,us,new-york,41.40337468,-74.30240757,84036071.0,US,USA,840,36071.0,orange,"Orange, New York, US",8238,132,299,25
+2020-04-28,us,new-york,41.40337468,-74.30240757,84036071.0,US,USA,840,36071.0,orange,"Orange, New York, US",8374,136,299,0
 2020-01-22,us,new-york,41.42630093,-73.74965532,84036079.0,US,USA,840,36079.0,putnam,"Putnam, New York, US",0,0,0,0
 2020-01-23,us,new-york,41.42630093,-73.74965532,84036079.0,US,USA,840,36079.0,putnam,"Putnam, New York, US",0,0,0,0
 2020-01-24,us,new-york,41.42630093,-73.74965532,84036079.0,US,USA,840,36079.0,putnam,"Putnam, New York, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,41.42630093,-73.74965532,84036079.0,US,USA,840,36079.0,putnam,"Putnam, New York, US",619,4,7,0
 2020-04-25,us,new-york,41.42630093,-73.74965532,84036079.0,US,USA,840,36079.0,putnam,"Putnam, New York, US",885,266,7,0
 2020-04-26,us,new-york,41.42630093,-73.74965532,84036079.0,US,USA,840,36079.0,putnam,"Putnam, New York, US",904,19,7,0
+2020-04-27,us,new-york,41.42630093,-73.74965532,84036079.0,US,USA,840,36079.0,putnam,"Putnam, New York, US",925,21,7,0
+2020-04-28,us,new-york,41.42630093,-73.74965532,84036079.0,US,USA,840,36079.0,putnam,"Putnam, New York, US",932,7,7,0
 2020-01-22,us,new-york,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,sullivan,"Sullivan, New York, US",0,0,0,0
 2020-01-23,us,new-york,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,sullivan,"Sullivan, New York, US",0,0,0,0
 2020-01-24,us,new-york,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,sullivan,"Sullivan, New York, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,sullivan,"Sullivan, New York, US",628,48,17,0
 2020-04-25,us,new-york,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,sullivan,"Sullivan, New York, US",689,61,17,0
 2020-04-26,us,new-york,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,sullivan,"Sullivan, New York, US",724,35,17,0
+2020-04-27,us,new-york,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,sullivan,"Sullivan, New York, US",748,24,21,4
+2020-04-28,us,new-york,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,sullivan,"Sullivan, New York, US",769,21,21,0
 2020-01-22,us,new-york,41.76486060000001,-73.74356679,84036027.0,US,USA,840,36027.0,dutchess,"Dutchess, New York, US",0,0,0,0
 2020-01-23,us,new-york,41.76486060000001,-73.74356679,84036027.0,US,USA,840,36027.0,dutchess,"Dutchess, New York, US",0,0,0,0
 2020-01-24,us,new-york,41.76486060000001,-73.74356679,84036027.0,US,USA,840,36027.0,dutchess,"Dutchess, New York, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,41.76486060000001,-73.74356679,84036027.0,US,USA,840,36027.0,dutchess,"Dutchess, New York, US",2517,57,35,0
 2020-04-25,us,new-york,41.76486060000001,-73.74356679,84036027.0,US,USA,840,36027.0,dutchess,"Dutchess, New York, US",2660,143,35,0
 2020-04-26,us,new-york,41.76486060000001,-73.74356679,84036027.0,US,USA,840,36027.0,dutchess,"Dutchess, New York, US",2729,69,35,0
+2020-04-27,us,new-york,41.76486060000001,-73.74356679,84036027.0,US,USA,840,36027.0,dutchess,"Dutchess, New York, US",2793,64,36,1
+2020-04-28,us,new-york,41.76486060000001,-73.74356679,84036027.0,US,USA,840,36027.0,dutchess,"Dutchess, New York, US",2817,24,36,0
 2020-01-22,us,new-york,41.89027881,-74.26252104,84036111.0,US,USA,840,36111.0,ulster,"Ulster, New York, US",0,0,0,0
 2020-01-23,us,new-york,41.89027881,-74.26252104,84036111.0,US,USA,840,36111.0,ulster,"Ulster, New York, US",0,0,0,0
 2020-01-24,us,new-york,41.89027881,-74.26252104,84036111.0,US,USA,840,36111.0,ulster,"Ulster, New York, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,41.89027881,-74.26252104,84036111.0,US,USA,840,36111.0,ulster,"Ulster, New York, US",976,34,23,2
 2020-04-25,us,new-york,41.89027881,-74.26252104,84036111.0,US,USA,840,36111.0,ulster,"Ulster, New York, US",1166,190,23,0
 2020-04-26,us,new-york,41.89027881,-74.26252104,84036111.0,US,USA,840,36111.0,ulster,"Ulster, New York, US",1190,24,23,0
+2020-04-27,us,new-york,41.89027881,-74.26252104,84036111.0,US,USA,840,36111.0,ulster,"Ulster, New York, US",1219,29,24,1
+2020-04-28,us,new-york,41.89027881,-74.26252104,84036111.0,US,USA,840,36111.0,ulster,"Ulster, New York, US",1230,11,24,0
 2020-01-22,us,new-york,42.13891056,-76.7638805,84036015.0,US,USA,840,36015.0,chemung,"Chemung, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.13891056,-76.7638805,84036015.0,US,USA,840,36015.0,chemung,"Chemung, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.13891056,-76.7638805,84036015.0,US,USA,840,36015.0,chemung,"Chemung, New York, US",0,0,0,0
@@ -1631,6 +1663,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.13891056,-76.7638805,84036015.0,US,USA,840,36015.0,chemung,"Chemung, New York, US",79,3,1,0
 2020-04-25,us,new-york,42.13891056,-76.7638805,84036015.0,US,USA,840,36015.0,chemung,"Chemung, New York, US",103,24,1,0
 2020-04-26,us,new-york,42.13891056,-76.7638805,84036015.0,US,USA,840,36015.0,chemung,"Chemung, New York, US",106,3,1,0
+2020-04-27,us,new-york,42.13891056,-76.7638805,84036015.0,US,USA,840,36015.0,chemung,"Chemung, New York, US",108,2,1,0
+2020-04-28,us,new-york,42.13891056,-76.7638805,84036015.0,US,USA,840,36015.0,chemung,"Chemung, New York, US",113,5,1,0
 2020-01-22,us,new-york,42.15903158,-75.81326086,84036007.0,US,USA,840,36007.0,broome,"Broome, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.15903158,-75.81326086,84036007.0,US,USA,840,36007.0,broome,"Broome, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.15903158,-75.81326086,84036007.0,US,USA,840,36007.0,broome,"Broome, New York, US",0,0,0,0
@@ -1727,6 +1761,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.15903158,-75.81326086,84036007.0,US,USA,840,36007.0,broome,"Broome, New York, US",232,8,17,2
 2020-04-25,us,new-york,42.15903158,-75.81326086,84036007.0,US,USA,840,36007.0,broome,"Broome, New York, US",251,19,17,0
 2020-04-26,us,new-york,42.15903158,-75.81326086,84036007.0,US,USA,840,36007.0,broome,"Broome, New York, US",257,6,17,0
+2020-04-27,us,new-york,42.15903158,-75.81326086,84036007.0,US,USA,840,36007.0,broome,"Broome, New York, US",261,4,19,2
+2020-04-28,us,new-york,42.15903158,-75.81326086,84036007.0,US,USA,840,36007.0,broome,"Broome, New York, US",266,5,19,0
 2020-01-22,us,new-york,42.16852837,-76.30835812,84036107.0,US,USA,840,36107.0,tioga,"Tioga, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.16852837,-76.30835812,84036107.0,US,USA,840,36107.0,tioga,"Tioga, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.16852837,-76.30835812,84036107.0,US,USA,840,36107.0,tioga,"Tioga, New York, US",0,0,0,0
@@ -1823,6 +1859,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.16852837,-76.30835812,84036107.0,US,USA,840,36107.0,tioga,"Tioga, New York, US",40,0,5,1
 2020-04-25,us,new-york,42.16852837,-76.30835812,84036107.0,US,USA,840,36107.0,tioga,"Tioga, New York, US",71,31,5,0
 2020-04-26,us,new-york,42.16852837,-76.30835812,84036107.0,US,USA,840,36107.0,tioga,"Tioga, New York, US",71,0,5,0
+2020-04-27,us,new-york,42.16852837,-76.30835812,84036107.0,US,USA,840,36107.0,tioga,"Tioga, New York, US",71,0,6,1
+2020-04-28,us,new-york,42.16852837,-76.30835812,84036107.0,US,USA,840,36107.0,tioga,"Tioga, New York, US",82,11,6,0
 2020-01-22,us,new-york,42.19837623,-74.96709306,84036025.0,US,USA,840,36025.0,delaware,"Delaware, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.19837623,-74.96709306,84036025.0,US,USA,840,36025.0,delaware,"Delaware, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.19837623,-74.96709306,84036025.0,US,USA,840,36025.0,delaware,"Delaware, New York, US",0,0,0,0
@@ -1919,6 +1957,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.19837623,-74.96709306,84036025.0,US,USA,840,36025.0,delaware,"Delaware, New York, US",51,1,4,0
 2020-04-25,us,new-york,42.19837623,-74.96709306,84036025.0,US,USA,840,36025.0,delaware,"Delaware, New York, US",58,7,4,0
 2020-04-26,us,new-york,42.19837623,-74.96709306,84036025.0,US,USA,840,36025.0,delaware,"Delaware, New York, US",58,0,4,0
+2020-04-27,us,new-york,42.19837623,-74.96709306,84036025.0,US,USA,840,36025.0,delaware,"Delaware, New York, US",58,0,4,0
+2020-04-28,us,new-york,42.19837623,-74.96709306,84036025.0,US,USA,840,36025.0,delaware,"Delaware, New York, US",59,1,4,0
 2020-01-22,us,new-york,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,chautauqua,"Chautauqua, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,chautauqua,"Chautauqua, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,chautauqua,"Chautauqua, New York, US",0,0,0,0
@@ -2015,6 +2055,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,chautauqua,"Chautauqua, New York, US",27,1,3,0
 2020-04-25,us,new-york,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,chautauqua,"Chautauqua, New York, US",27,0,3,0
 2020-04-26,us,new-york,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,chautauqua,"Chautauqua, New York, US",29,2,3,0
+2020-04-27,us,new-york,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,chautauqua,"Chautauqua, New York, US",30,1,3,0
+2020-04-28,us,new-york,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,chautauqua,"Chautauqua, New York, US",30,0,3,0
 2020-01-22,us,new-york,42.24778241,-78.67923096,84036009.0,US,USA,840,36009.0,cattaraugus,"Cattaraugus, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.24778241,-78.67923096,84036009.0,US,USA,840,36009.0,cattaraugus,"Cattaraugus, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.24778241,-78.67923096,84036009.0,US,USA,840,36009.0,cattaraugus,"Cattaraugus, New York, US",0,0,0,0
@@ -2111,6 +2153,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.24778241,-78.67923096,84036009.0,US,USA,840,36009.0,cattaraugus,"Cattaraugus, New York, US",39,2,0,0
 2020-04-25,us,new-york,42.24778241,-78.67923096,84036009.0,US,USA,840,36009.0,cattaraugus,"Cattaraugus, New York, US",45,6,0,0
 2020-04-26,us,new-york,42.24778241,-78.67923096,84036009.0,US,USA,840,36009.0,cattaraugus,"Cattaraugus, New York, US",45,0,0,0
+2020-04-27,us,new-york,42.24778241,-78.67923096,84036009.0,US,USA,840,36009.0,cattaraugus,"Cattaraugus, New York, US",45,0,0,0
+2020-04-28,us,new-york,42.24778241,-78.67923096,84036009.0,US,USA,840,36009.0,cattaraugus,"Cattaraugus, New York, US",45,0,0,0
 2020-01-22,us,new-york,42.24819348,-73.63089095,84036021.0,US,USA,840,36021.0,columbia,"Columbia, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.24819348,-73.63089095,84036021.0,US,USA,840,36021.0,columbia,"Columbia, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.24819348,-73.63089095,84036021.0,US,USA,840,36021.0,columbia,"Columbia, New York, US",0,0,0,0
@@ -2207,6 +2251,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.24819348,-73.63089095,84036021.0,US,USA,840,36021.0,columbia,"Columbia, New York, US",129,6,13,0
 2020-04-25,us,new-york,42.24819348,-73.63089095,84036021.0,US,USA,840,36021.0,columbia,"Columbia, New York, US",140,11,13,0
 2020-04-26,us,new-york,42.24819348,-73.63089095,84036021.0,US,USA,840,36021.0,columbia,"Columbia, New York, US",143,3,13,0
+2020-04-27,us,new-york,42.24819348,-73.63089095,84036021.0,US,USA,840,36021.0,columbia,"Columbia, New York, US",146,3,13,0
+2020-04-28,us,new-york,42.24819348,-73.63089095,84036021.0,US,USA,840,36021.0,columbia,"Columbia, New York, US",154,8,13,0
 2020-01-22,us,new-york,42.25748406,-78.02750466,84036003.0,US,USA,840,36003.0,allegany,"Allegany, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.25748406,-78.02750466,84036003.0,US,USA,840,36003.0,allegany,"Allegany, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.25748406,-78.02750466,84036003.0,US,USA,840,36003.0,allegany,"Allegany, New York, US",0,0,0,0
@@ -2303,6 +2349,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.25748406,-78.02750466,84036003.0,US,USA,840,36003.0,allegany,"Allegany, New York, US",31,1,2,0
 2020-04-25,us,new-york,42.25748406,-78.02750466,84036003.0,US,USA,840,36003.0,allegany,"Allegany, New York, US",35,4,2,0
 2020-04-26,us,new-york,42.25748406,-78.02750466,84036003.0,US,USA,840,36003.0,allegany,"Allegany, New York, US",35,0,2,0
+2020-04-27,us,new-york,42.25748406,-78.02750466,84036003.0,US,USA,840,36003.0,allegany,"Allegany, New York, US",35,0,2,0
+2020-04-28,us,new-york,42.25748406,-78.02750466,84036003.0,US,USA,840,36003.0,allegany,"Allegany, New York, US",35,0,2,0
 2020-01-22,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",0,0,0,0
@@ -2399,6 +2447,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",171,0,33,0
 2020-04-25,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",204,33,33,0
 2020-04-26,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",207,3,33,0
+2020-04-27,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",209,2,35,2
+2020-04-28,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",210,1,35,0
 2020-01-22,us,new-york,42.275797,-74.12384884,84036039.0,US,USA,840,36039.0,greene,"Greene, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.275797,-74.12384884,84036039.0,US,USA,840,36039.0,greene,"Greene, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.275797,-74.12384884,84036039.0,US,USA,840,36039.0,greene,"Greene, New York, US",0,0,0,0
@@ -2495,6 +2545,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.275797,-74.12384884,84036039.0,US,USA,840,36039.0,greene,"Greene, New York, US",90,1,5,5
 2020-04-25,us,new-york,42.275797,-74.12384884,84036039.0,US,USA,840,36039.0,greene,"Greene, New York, US",107,17,5,0
 2020-04-26,us,new-york,42.275797,-74.12384884,84036039.0,US,USA,840,36039.0,greene,"Greene, New York, US",110,3,5,0
+2020-04-27,us,new-york,42.275797,-74.12384884,84036039.0,US,USA,840,36039.0,greene,"Greene, New York, US",111,1,5,0
+2020-04-28,us,new-york,42.275797,-74.12384884,84036039.0,US,USA,840,36039.0,greene,"Greene, New York, US",112,1,5,0
 2020-01-22,us,new-york,42.39184015,-76.8773299,84036097.0,US,USA,840,36097.0,schuyler,"Schuyler, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.39184015,-76.8773299,84036097.0,US,USA,840,36097.0,schuyler,"Schuyler, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.39184015,-76.8773299,84036097.0,US,USA,840,36097.0,schuyler,"Schuyler, New York, US",0,0,0,0
@@ -2591,6 +2643,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.39184015,-76.8773299,84036097.0,US,USA,840,36097.0,schuyler,"Schuyler, New York, US",7,0,0,0
 2020-04-25,us,new-york,42.39184015,-76.8773299,84036097.0,US,USA,840,36097.0,schuyler,"Schuyler, New York, US",7,0,0,0
 2020-04-26,us,new-york,42.39184015,-76.8773299,84036097.0,US,USA,840,36097.0,schuyler,"Schuyler, New York, US",7,0,0,0
+2020-04-27,us,new-york,42.39184015,-76.8773299,84036097.0,US,USA,840,36097.0,schuyler,"Schuyler, New York, US",7,0,0,0
+2020-04-28,us,new-york,42.39184015,-76.8773299,84036097.0,US,USA,840,36097.0,schuyler,"Schuyler, New York, US",7,0,0,0
 2020-01-22,us,new-york,42.44945765,-76.47229843,84036109.0,US,USA,840,36109.0,tompkins,"Tompkins, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.44945765,-76.47229843,84036109.0,US,USA,840,36109.0,tompkins,"Tompkins, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.44945765,-76.47229843,84036109.0,US,USA,840,36109.0,tompkins,"Tompkins, New York, US",0,0,0,0
@@ -2687,6 +2741,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.44945765,-76.47229843,84036109.0,US,USA,840,36109.0,tompkins,"Tompkins, New York, US",121,2,0,0
 2020-04-25,us,new-york,42.44945765,-76.47229843,84036109.0,US,USA,840,36109.0,tompkins,"Tompkins, New York, US",126,5,0,0
 2020-04-26,us,new-york,42.44945765,-76.47229843,84036109.0,US,USA,840,36109.0,tompkins,"Tompkins, New York, US",126,0,0,0
+2020-04-27,us,new-york,42.44945765,-76.47229843,84036109.0,US,USA,840,36109.0,tompkins,"Tompkins, New York, US",126,0,0,0
+2020-04-28,us,new-york,42.44945765,-76.47229843,84036109.0,US,USA,840,36109.0,tompkins,"Tompkins, New York, US",126,0,0,0
 2020-01-22,us,new-york,42.49430041,-75.60887553,84036017.0,US,USA,840,36017.0,chenango,"Chenango, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.49430041,-75.60887553,84036017.0,US,USA,840,36017.0,chenango,"Chenango, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.49430041,-75.60887553,84036017.0,US,USA,840,36017.0,chenango,"Chenango, New York, US",0,0,0,0
@@ -2783,6 +2839,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.49430041,-75.60887553,84036017.0,US,USA,840,36017.0,chenango,"Chenango, New York, US",84,2,0,0
 2020-04-25,us,new-york,42.49430041,-75.60887553,84036017.0,US,USA,840,36017.0,chenango,"Chenango, New York, US",91,7,0,0
 2020-04-26,us,new-york,42.49430041,-75.60887553,84036017.0,US,USA,840,36017.0,chenango,"Chenango, New York, US",93,2,0,0
+2020-04-27,us,new-york,42.49430041,-75.60887553,84036017.0,US,USA,840,36017.0,chenango,"Chenango, New York, US",95,2,0,0
+2020-04-28,us,new-york,42.49430041,-75.60887553,84036017.0,US,USA,840,36017.0,chenango,"Chenango, New York, US",95,0,0,0
 2020-01-22,us,new-york,42.58831742,-74.44339029999998,84036095.0,US,USA,840,36095.0,schoharie,"Schoharie, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.58831742,-74.44339029999998,84036095.0,US,USA,840,36095.0,schoharie,"Schoharie, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.58831742,-74.44339029999998,84036095.0,US,USA,840,36095.0,schoharie,"Schoharie, New York, US",0,0,0,0
@@ -2879,6 +2937,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.58831742,-74.44339029999998,84036095.0,US,USA,840,36095.0,schoharie,"Schoharie, New York, US",21,0,0,0
 2020-04-25,us,new-york,42.58831742,-74.44339029999998,84036095.0,US,USA,840,36095.0,schoharie,"Schoharie, New York, US",33,12,0,0
 2020-04-26,us,new-york,42.58831742,-74.44339029999998,84036095.0,US,USA,840,36095.0,schoharie,"Schoharie, New York, US",35,2,0,0
+2020-04-27,us,new-york,42.58831742,-74.44339029999998,84036095.0,US,USA,840,36095.0,schoharie,"Schoharie, New York, US",35,0,0,0
+2020-04-28,us,new-york,42.58831742,-74.44339029999998,84036095.0,US,USA,840,36095.0,schoharie,"Schoharie, New York, US",38,3,0,0
 2020-01-22,us,new-york,42.59509207,-76.07048931,84036023.0,US,USA,840,36023.0,cortland,"Cortland, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.59509207,-76.07048931,84036023.0,US,USA,840,36023.0,cortland,"Cortland, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.59509207,-76.07048931,84036023.0,US,USA,840,36023.0,cortland,"Cortland, New York, US",0,0,0,0
@@ -2975,6 +3035,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.59509207,-76.07048931,84036023.0,US,USA,840,36023.0,cortland,"Cortland, New York, US",25,0,0,0
 2020-04-25,us,new-york,42.59509207,-76.07048931,84036023.0,US,USA,840,36023.0,cortland,"Cortland, New York, US",28,3,0,0
 2020-04-26,us,new-york,42.59509207,-76.07048931,84036023.0,US,USA,840,36023.0,cortland,"Cortland, New York, US",28,0,0,0
+2020-04-27,us,new-york,42.59509207,-76.07048931,84036023.0,US,USA,840,36023.0,cortland,"Cortland, New York, US",28,0,0,0
+2020-04-28,us,new-york,42.59509207,-76.07048931,84036023.0,US,USA,840,36023.0,cortland,"Cortland, New York, US",28,0,0,0
 2020-01-22,us,new-york,42.60060306,-73.97723916,84036001.0,US,USA,840,36001.0,albany,"Albany, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.60060306,-73.97723916,84036001.0,US,USA,840,36001.0,albany,"Albany, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.60060306,-73.97723916,84036001.0,US,USA,840,36001.0,albany,"Albany, New York, US",0,0,0,0
@@ -3071,6 +3133,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.60060306,-73.97723916,84036001.0,US,USA,840,36001.0,albany,"Albany, New York, US",805,47,31,1
 2020-04-25,us,new-york,42.60060306,-73.97723916,84036001.0,US,USA,840,36001.0,albany,"Albany, New York, US",899,94,31,0
 2020-04-26,us,new-york,42.60060306,-73.97723916,84036001.0,US,USA,840,36001.0,albany,"Albany, New York, US",948,49,32,1
+2020-04-27,us,new-york,42.60060306,-73.97723916,84036001.0,US,USA,840,36001.0,albany,"Albany, New York, US",979,31,36,4
+2020-04-28,us,new-york,42.60060306,-73.97723916,84036001.0,US,USA,840,36001.0,albany,"Albany, New York, US",1009,30,36,0
 2020-01-22,us,new-york,42.63492579,-75.03151402,84036077.0,US,USA,840,36077.0,otsego,"Otsego, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.63492579,-75.03151402,84036077.0,US,USA,840,36077.0,otsego,"Otsego, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.63492579,-75.03151402,84036077.0,US,USA,840,36077.0,otsego,"Otsego, New York, US",0,0,0,0
@@ -3167,6 +3231,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.63492579,-75.03151402,84036077.0,US,USA,840,36077.0,otsego,"Otsego, New York, US",50,0,4,0
 2020-04-25,us,new-york,42.63492579,-75.03151402,84036077.0,US,USA,840,36077.0,otsego,"Otsego, New York, US",60,10,4,0
 2020-04-26,us,new-york,42.63492579,-75.03151402,84036077.0,US,USA,840,36077.0,otsego,"Otsego, New York, US",60,0,4,0
+2020-04-27,us,new-york,42.63492579,-75.03151402,84036077.0,US,USA,840,36077.0,otsego,"Otsego, New York, US",62,2,4,0
+2020-04-28,us,new-york,42.63492579,-75.03151402,84036077.0,US,USA,840,36077.0,otsego,"Otsego, New York, US",65,3,4,0
 2020-01-22,us,new-york,42.63505484,-77.10369919,84036123.0,US,USA,840,36123.0,yates,"Yates, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.63505484,-77.10369919,84036123.0,US,USA,840,36123.0,yates,"Yates, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.63505484,-77.10369919,84036123.0,US,USA,840,36123.0,yates,"Yates, New York, US",0,0,0,0
@@ -3263,6 +3329,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.63505484,-77.10369919,84036123.0,US,USA,840,36123.0,yates,"Yates, New York, US",11,0,1,0
 2020-04-25,us,new-york,42.63505484,-77.10369919,84036123.0,US,USA,840,36123.0,yates,"Yates, New York, US",16,5,1,0
 2020-04-26,us,new-york,42.63505484,-77.10369919,84036123.0,US,USA,840,36123.0,yates,"Yates, New York, US",17,1,1,0
+2020-04-27,us,new-york,42.63505484,-77.10369919,84036123.0,US,USA,840,36123.0,yates,"Yates, New York, US",17,0,1,0
+2020-04-28,us,new-york,42.63505484,-77.10369919,84036123.0,US,USA,840,36123.0,yates,"Yates, New York, US",17,0,1,0
 2020-01-22,us,new-york,42.70145109,-78.22199579,84036121.0,US,USA,840,36121.0,wyoming,"Wyoming, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.70145109,-78.22199579,84036121.0,US,USA,840,36121.0,wyoming,"Wyoming, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.70145109,-78.22199579,84036121.0,US,USA,840,36121.0,wyoming,"Wyoming, New York, US",0,0,0,0
@@ -3359,6 +3427,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.70145109,-78.22199579,84036121.0,US,USA,840,36121.0,wyoming,"Wyoming, New York, US",43,2,5,1
 2020-04-25,us,new-york,42.70145109,-78.22199579,84036121.0,US,USA,840,36121.0,wyoming,"Wyoming, New York, US",57,14,5,0
 2020-04-26,us,new-york,42.70145109,-78.22199579,84036121.0,US,USA,840,36121.0,wyoming,"Wyoming, New York, US",59,2,5,0
+2020-04-27,us,new-york,42.70145109,-78.22199579,84036121.0,US,USA,840,36121.0,wyoming,"Wyoming, New York, US",63,4,5,0
+2020-04-28,us,new-york,42.70145109,-78.22199579,84036121.0,US,USA,840,36121.0,wyoming,"Wyoming, New York, US",63,0,5,0
 2020-01-22,us,new-york,42.71348136,-73.51089874,84036083.0,US,USA,840,36083.0,rensselaer,"Rensselaer, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.71348136,-73.51089874,84036083.0,US,USA,840,36083.0,rensselaer,"Rensselaer, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.71348136,-73.51089874,84036083.0,US,USA,840,36083.0,rensselaer,"Rensselaer, New York, US",0,0,0,0
@@ -3455,6 +3525,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.71348136,-73.51089874,84036083.0,US,USA,840,36083.0,rensselaer,"Rensselaer, New York, US",198,7,11,1
 2020-04-25,us,new-york,42.71348136,-73.51089874,84036083.0,US,USA,840,36083.0,rensselaer,"Rensselaer, New York, US",221,23,11,0
 2020-04-26,us,new-york,42.71348136,-73.51089874,84036083.0,US,USA,840,36083.0,rensselaer,"Rensselaer, New York, US",242,21,11,0
+2020-04-27,us,new-york,42.71348136,-73.51089874,84036083.0,US,USA,840,36083.0,rensselaer,"Rensselaer, New York, US",246,4,11,0
+2020-04-28,us,new-york,42.71348136,-73.51089874,84036083.0,US,USA,840,36083.0,rensselaer,"Rensselaer, New York, US",250,4,11,0
 2020-01-22,us,new-york,42.72596275,-77.77966158,84036051.0,US,USA,840,36051.0,livingston,"Livingston, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.72596275,-77.77966158,84036051.0,US,USA,840,36051.0,livingston,"Livingston, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.72596275,-77.77966158,84036051.0,US,USA,840,36051.0,livingston,"Livingston, New York, US",0,0,0,0
@@ -3551,6 +3623,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.72596275,-77.77966158,84036051.0,US,USA,840,36051.0,livingston,"Livingston, New York, US",44,3,5,0
 2020-04-25,us,new-york,42.72596275,-77.77966158,84036051.0,US,USA,840,36051.0,livingston,"Livingston, New York, US",58,14,5,0
 2020-04-26,us,new-york,42.72596275,-77.77966158,84036051.0,US,USA,840,36051.0,livingston,"Livingston, New York, US",60,2,5,0
+2020-04-27,us,new-york,42.72596275,-77.77966158,84036051.0,US,USA,840,36051.0,livingston,"Livingston, New York, US",62,2,5,0
+2020-04-28,us,new-york,42.72596275,-77.77966158,84036051.0,US,USA,840,36051.0,livingston,"Livingston, New York, US",65,3,5,0
 2020-01-22,us,new-york,42.76249024,-78.73063652,84036029.0,US,USA,840,36029.0,erie,"Erie, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.76249024,-78.73063652,84036029.0,US,USA,840,36029.0,erie,"Erie, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.76249024,-78.73063652,84036029.0,US,USA,840,36029.0,erie,"Erie, New York, US",0,0,0,0
@@ -3647,6 +3721,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.76249024,-78.73063652,84036029.0,US,USA,840,36029.0,erie,"Erie, New York, US",2603,153,198,10
 2020-04-25,us,new-york,42.76249024,-78.73063652,84036029.0,US,USA,840,36029.0,erie,"Erie, New York, US",2773,170,198,0
 2020-04-26,us,new-york,42.76249024,-78.73063652,84036029.0,US,USA,840,36029.0,erie,"Erie, New York, US",2954,181,207,9
+2020-04-27,us,new-york,42.76249024,-78.73063652,84036029.0,US,USA,840,36029.0,erie,"Erie, New York, US",3021,67,207,0
+2020-04-28,us,new-york,42.76249024,-78.73063652,84036029.0,US,USA,840,36029.0,erie,"Erie, New York, US",3089,68,207,0
 2020-01-22,us,new-york,42.78081007,-76.82497064,84036099.0,US,USA,840,36099.0,seneca,"Seneca, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.78081007,-76.82497064,84036099.0,US,USA,840,36099.0,seneca,"Seneca, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.78081007,-76.82497064,84036099.0,US,USA,840,36099.0,seneca,"Seneca, New York, US",0,0,0,0
@@ -3743,6 +3819,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.78081007,-76.82497064,84036099.0,US,USA,840,36099.0,seneca,"Seneca, New York, US",18,0,0,0
 2020-04-25,us,new-york,42.78081007,-76.82497064,84036099.0,US,USA,840,36099.0,seneca,"Seneca, New York, US",36,18,0,0
 2020-04-26,us,new-york,42.78081007,-76.82497064,84036099.0,US,USA,840,36099.0,seneca,"Seneca, New York, US",38,2,0,0
+2020-04-27,us,new-york,42.78081007,-76.82497064,84036099.0,US,USA,840,36099.0,seneca,"Seneca, New York, US",38,0,0,0
+2020-04-28,us,new-york,42.78081007,-76.82497064,84036099.0,US,USA,840,36099.0,seneca,"Seneca, New York, US",38,0,0,0
 2020-01-22,us,new-york,42.81668777,-74.05278291,84036093.0,US,USA,840,36093.0,schenectady,"Schenectady, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.81668777,-74.05278291,84036093.0,US,USA,840,36093.0,schenectady,"Schenectady, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.81668777,-74.05278291,84036093.0,US,USA,840,36093.0,schenectady,"Schenectady, New York, US",0,0,0,0
@@ -3839,6 +3917,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.81668777,-74.05278291,84036093.0,US,USA,840,36093.0,schenectady,"Schenectady, New York, US",297,9,15,0
 2020-04-25,us,new-york,42.81668777,-74.05278291,84036093.0,US,USA,840,36093.0,schenectady,"Schenectady, New York, US",431,134,15,0
 2020-04-26,us,new-york,42.81668777,-74.05278291,84036093.0,US,USA,840,36093.0,schenectady,"Schenectady, New York, US",449,18,15,0
+2020-04-27,us,new-york,42.81668777,-74.05278291,84036093.0,US,USA,840,36093.0,schenectady,"Schenectady, New York, US",457,8,22,7
+2020-04-28,us,new-york,42.81668777,-74.05278291,84036093.0,US,USA,840,36093.0,schenectady,"Schenectady, New York, US",469,12,22,0
 2020-01-22,us,new-york,42.85145728,-77.30874425,84036069.0,US,USA,840,36069.0,ontario,"Ontario, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.85145728,-77.30874425,84036069.0,US,USA,840,36069.0,ontario,"Ontario, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.85145728,-77.30874425,84036069.0,US,USA,840,36069.0,ontario,"Ontario, New York, US",0,0,0,0
@@ -3935,6 +4015,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.85145728,-77.30874425,84036069.0,US,USA,840,36069.0,ontario,"Ontario, New York, US",73,0,9,9
 2020-04-25,us,new-york,42.85145728,-77.30874425,84036069.0,US,USA,840,36069.0,ontario,"Ontario, New York, US",82,9,9,0
 2020-04-26,us,new-york,42.85145728,-77.30874425,84036069.0,US,USA,840,36069.0,ontario,"Ontario, New York, US",84,2,9,0
+2020-04-27,us,new-york,42.85145728,-77.30874425,84036069.0,US,USA,840,36069.0,ontario,"Ontario, New York, US",86,2,9,0
+2020-04-28,us,new-york,42.85145728,-77.30874425,84036069.0,US,USA,840,36069.0,ontario,"Ontario, New York, US",90,4,9,0
 2020-01-22,us,new-york,42.90123494,-74.44011632,84036057.0,US,USA,840,36057.0,montgomery,"Montgomery, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.90123494,-74.44011632,84036057.0,US,USA,840,36057.0,montgomery,"Montgomery, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.90123494,-74.44011632,84036057.0,US,USA,840,36057.0,montgomery,"Montgomery, New York, US",0,0,0,0
@@ -4031,6 +4113,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.90123494,-74.44011632,84036057.0,US,USA,840,36057.0,montgomery,"Montgomery, New York, US",39,0,1,0
 2020-04-25,us,new-york,42.90123494,-74.44011632,84036057.0,US,USA,840,36057.0,montgomery,"Montgomery, New York, US",46,7,1,0
 2020-04-26,us,new-york,42.90123494,-74.44011632,84036057.0,US,USA,840,36057.0,montgomery,"Montgomery, New York, US",47,1,1,0
+2020-04-27,us,new-york,42.90123494,-74.44011632,84036057.0,US,USA,840,36057.0,montgomery,"Montgomery, New York, US",47,0,1,0
+2020-04-28,us,new-york,42.90123494,-74.44011632,84036057.0,US,USA,840,36057.0,montgomery,"Montgomery, New York, US",49,2,1,0
 2020-01-22,us,new-york,42.91261714,-76.55731592,84036011.0,US,USA,840,36011.0,cayuga,"Cayuga, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.91261714,-76.55731592,84036011.0,US,USA,840,36011.0,cayuga,"Cayuga, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.91261714,-76.55731592,84036011.0,US,USA,840,36011.0,cayuga,"Cayuga, New York, US",0,0,0,0
@@ -4127,6 +4211,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.91261714,-76.55731592,84036011.0,US,USA,840,36011.0,cayuga,"Cayuga, New York, US",39,2,1,0
 2020-04-25,us,new-york,42.91261714,-76.55731592,84036011.0,US,USA,840,36011.0,cayuga,"Cayuga, New York, US",47,8,1,0
 2020-04-26,us,new-york,42.91261714,-76.55731592,84036011.0,US,USA,840,36011.0,cayuga,"Cayuga, New York, US",47,0,1,0
+2020-04-27,us,new-york,42.91261714,-76.55731592,84036011.0,US,USA,840,36011.0,cayuga,"Cayuga, New York, US",48,1,1,0
+2020-04-28,us,new-york,42.91261714,-76.55731592,84036011.0,US,USA,840,36011.0,cayuga,"Cayuga, New York, US",48,0,1,0
 2020-01-22,us,new-york,42.91653905,-75.67266639,84036053.0,US,USA,840,36053.0,madison,"Madison, New York, US",0,0,0,0
 2020-01-23,us,new-york,42.91653905,-75.67266639,84036053.0,US,USA,840,36053.0,madison,"Madison, New York, US",0,0,0,0
 2020-01-24,us,new-york,42.91653905,-75.67266639,84036053.0,US,USA,840,36053.0,madison,"Madison, New York, US",0,0,0,0
@@ -4223,6 +4309,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,42.91653905,-75.67266639,84036053.0,US,USA,840,36053.0,madison,"Madison, New York, US",106,0,5,0
 2020-04-25,us,new-york,42.91653905,-75.67266639,84036053.0,US,USA,840,36053.0,madison,"Madison, New York, US",121,15,5,0
 2020-04-26,us,new-york,42.91653905,-75.67266639,84036053.0,US,USA,840,36053.0,madison,"Madison, New York, US",123,2,5,0
+2020-04-27,us,new-york,42.91653905,-75.67266639,84036053.0,US,USA,840,36053.0,madison,"Madison, New York, US",124,1,5,0
+2020-04-28,us,new-york,42.91653905,-75.67266639,84036053.0,US,USA,840,36053.0,madison,"Madison, New York, US",126,2,5,0
 2020-01-22,us,new-york,43.0022601,-78.19135193,84036037.0,US,USA,840,36037.0,genesee,"Genesee, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.0022601,-78.19135193,84036037.0,US,USA,840,36037.0,genesee,"Genesee, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.0022601,-78.19135193,84036037.0,US,USA,840,36037.0,genesee,"Genesee, New York, US",0,0,0,0
@@ -4319,6 +4407,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.0022601,-78.19135193,84036037.0,US,USA,840,36037.0,genesee,"Genesee, New York, US",127,1,3,0
 2020-04-25,us,new-york,43.0022601,-78.19135193,84036037.0,US,USA,840,36037.0,genesee,"Genesee, New York, US",141,14,3,0
 2020-04-26,us,new-york,43.0022601,-78.19135193,84036037.0,US,USA,840,36037.0,genesee,"Genesee, New York, US",144,3,3,0
+2020-04-27,us,new-york,43.0022601,-78.19135193,84036037.0,US,USA,840,36037.0,genesee,"Genesee, New York, US",148,4,3,0
+2020-04-28,us,new-york,43.0022601,-78.19135193,84036037.0,US,USA,840,36037.0,genesee,"Genesee, New York, US",149,1,3,0
 2020-01-22,us,new-york,43.00491923,-76.19971155,84036067.0,US,USA,840,36067.0,onondaga,"Onondaga, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.00491923,-76.19971155,84036067.0,US,USA,840,36067.0,onondaga,"Onondaga, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.00491923,-76.19971155,84036067.0,US,USA,840,36067.0,onondaga,"Onondaga, New York, US",0,0,0,0
@@ -4415,6 +4505,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.00491923,-76.19971155,84036067.0,US,USA,840,36067.0,onondaga,"Onondaga, New York, US",639,39,25,2
 2020-04-25,us,new-york,43.00491923,-76.19971155,84036067.0,US,USA,840,36067.0,onondaga,"Onondaga, New York, US",664,25,25,0
 2020-04-26,us,new-york,43.00491923,-76.19971155,84036067.0,US,USA,840,36067.0,onondaga,"Onondaga, New York, US",692,28,25,0
+2020-04-27,us,new-york,43.00491923,-76.19971155,84036067.0,US,USA,840,36067.0,onondaga,"Onondaga, New York, US",726,34,26,1
+2020-04-28,us,new-york,43.00491923,-76.19971155,84036067.0,US,USA,840,36067.0,onondaga,"Onondaga, New York, US",742,16,26,0
 2020-01-22,us,new-york,43.10904162,-73.86653895,84036091.0,US,USA,840,36091.0,saratoga,"Saratoga, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.10904162,-73.86653895,84036091.0,US,USA,840,36091.0,saratoga,"Saratoga, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.10904162,-73.86653895,84036091.0,US,USA,840,36091.0,saratoga,"Saratoga, New York, US",0,0,0,0
@@ -4511,6 +4603,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.10904162,-73.86653895,84036091.0,US,USA,840,36091.0,saratoga,"Saratoga, New York, US",278,13,11,4
 2020-04-25,us,new-york,43.10904162,-73.86653895,84036091.0,US,USA,840,36091.0,saratoga,"Saratoga, New York, US",320,42,11,0
 2020-04-26,us,new-york,43.10904162,-73.86653895,84036091.0,US,USA,840,36091.0,saratoga,"Saratoga, New York, US",330,10,11,0
+2020-04-27,us,new-york,43.10904162,-73.86653895,84036091.0,US,USA,840,36091.0,saratoga,"Saratoga, New York, US",336,6,11,0
+2020-04-28,us,new-york,43.10904162,-73.86653895,84036091.0,US,USA,840,36091.0,saratoga,"Saratoga, New York, US",343,7,11,0
 2020-01-22,us,new-york,43.11363907,-74.41798804,84036035.0,US,USA,840,36035.0,fulton,"Fulton, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.11363907,-74.41798804,84036035.0,US,USA,840,36035.0,fulton,"Fulton, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.11363907,-74.41798804,84036035.0,US,USA,840,36035.0,fulton,"Fulton, New York, US",0,0,0,0
@@ -4607,6 +4701,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.11363907,-74.41798804,84036035.0,US,USA,840,36035.0,fulton,"Fulton, New York, US",29,1,0,0
 2020-04-25,us,new-york,43.11363907,-74.41798804,84036035.0,US,USA,840,36035.0,fulton,"Fulton, New York, US",61,32,0,0
 2020-04-26,us,new-york,43.11363907,-74.41798804,84036035.0,US,USA,840,36035.0,fulton,"Fulton, New York, US",62,1,0,0
+2020-04-27,us,new-york,43.11363907,-74.41798804,84036035.0,US,USA,840,36035.0,fulton,"Fulton, New York, US",62,0,0,0
+2020-04-28,us,new-york,43.11363907,-74.41798804,84036035.0,US,USA,840,36035.0,fulton,"Fulton, New York, US",66,4,0,0
 2020-01-22,us,new-york,43.14638895,-77.69322942,84036055.0,US,USA,840,36055.0,monroe,"Monroe, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.14638895,-77.69322942,84036055.0,US,USA,840,36055.0,monroe,"Monroe, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.14638895,-77.69322942,84036055.0,US,USA,840,36055.0,monroe,"Monroe, New York, US",0,0,0,0
@@ -4703,6 +4799,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.14638895,-77.69322942,84036055.0,US,USA,840,36055.0,monroe,"Monroe, New York, US",1199,47,96,5
 2020-04-25,us,new-york,43.14638895,-77.69322942,84036055.0,US,USA,840,36055.0,monroe,"Monroe, New York, US",1285,86,96,0
 2020-04-26,us,new-york,43.14638895,-77.69322942,84036055.0,US,USA,840,36055.0,monroe,"Monroe, New York, US",1316,31,106,10
+2020-04-27,us,new-york,43.14638895,-77.69322942,84036055.0,US,USA,840,36055.0,monroe,"Monroe, New York, US",1331,15,108,2
+2020-04-28,us,new-york,43.14638895,-77.69322942,84036055.0,US,USA,840,36055.0,monroe,"Monroe, New York, US",1371,40,108,0
 2020-01-22,us,new-york,43.15494365,-77.02976528,84036117.0,US,USA,840,36117.0,wayne,"Wayne, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.15494365,-77.02976528,84036117.0,US,USA,840,36117.0,wayne,"Wayne, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.15494365,-77.02976528,84036117.0,US,USA,840,36117.0,wayne,"Wayne, New York, US",0,0,0,0
@@ -4799,6 +4897,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.15494365,-77.02976528,84036117.0,US,USA,840,36117.0,wayne,"Wayne, New York, US",53,0,0,0
 2020-04-25,us,new-york,43.15494365,-77.02976528,84036117.0,US,USA,840,36117.0,wayne,"Wayne, New York, US",65,12,0,0
 2020-04-26,us,new-york,43.15494365,-77.02976528,84036117.0,US,USA,840,36117.0,wayne,"Wayne, New York, US",65,0,0,0
+2020-04-27,us,new-york,43.15494365,-77.02976528,84036117.0,US,USA,840,36117.0,wayne,"Wayne, New York, US",69,4,1,1
+2020-04-28,us,new-york,43.15494365,-77.02976528,84036117.0,US,USA,840,36117.0,wayne,"Wayne, New York, US",70,1,1,0
 2020-01-22,us,new-york,43.19898042,-78.74777412,84036063.0,US,USA,840,36063.0,niagara,"Niagara, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.19898042,-78.74777412,84036063.0,US,USA,840,36063.0,niagara,"Niagara, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.19898042,-78.74777412,84036063.0,US,USA,840,36063.0,niagara,"Niagara, New York, US",0,0,0,0
@@ -4895,6 +4995,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.19898042,-78.74777412,84036063.0,US,USA,840,36063.0,niagara,"Niagara, New York, US",332,37,21,3
 2020-04-25,us,new-york,43.19898042,-78.74777412,84036063.0,US,USA,840,36063.0,niagara,"Niagara, New York, US",344,12,21,0
 2020-04-26,us,new-york,43.19898042,-78.74777412,84036063.0,US,USA,840,36063.0,niagara,"Niagara, New York, US",368,24,21,0
+2020-04-27,us,new-york,43.19898042,-78.74777412,84036063.0,US,USA,840,36063.0,niagara,"Niagara, New York, US",378,10,21,0
+2020-04-28,us,new-york,43.19898042,-78.74777412,84036063.0,US,USA,840,36063.0,niagara,"Niagara, New York, US",386,8,21,0
 2020-01-22,us,new-york,43.24375382,-75.43710392,84036065.0,US,USA,840,36065.0,oneida,"Oneida, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.24375382,-75.43710392,84036065.0,US,USA,840,36065.0,oneida,"Oneida, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.24375382,-75.43710392,84036065.0,US,USA,840,36065.0,oneida,"Oneida, New York, US",0,0,0,0
@@ -4991,6 +5093,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.24375382,-75.43710392,84036065.0,US,USA,840,36065.0,oneida,"Oneida, New York, US",323,6,11,0
 2020-04-25,us,new-york,43.24375382,-75.43710392,84036065.0,US,USA,840,36065.0,oneida,"Oneida, New York, US",364,41,11,0
 2020-04-26,us,new-york,43.24375382,-75.43710392,84036065.0,US,USA,840,36065.0,oneida,"Oneida, New York, US",384,20,14,3
+2020-04-27,us,new-york,43.24375382,-75.43710392,84036065.0,US,USA,840,36065.0,oneida,"Oneida, New York, US",397,13,15,1
+2020-04-28,us,new-york,43.24375382,-75.43710392,84036065.0,US,USA,840,36065.0,oneida,"Oneida, New York, US",411,14,15,0
 2020-01-22,us,new-york,43.2516977,-78.2320066,84036073.0,US,USA,840,36073.0,orleans,"Orleans, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.2516977,-78.2320066,84036073.0,US,USA,840,36073.0,orleans,"Orleans, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.2516977,-78.2320066,84036073.0,US,USA,840,36073.0,orleans,"Orleans, New York, US",0,0,0,0
@@ -5087,6 +5191,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.2516977,-78.2320066,84036073.0,US,USA,840,36073.0,orleans,"Orleans, New York, US",60,1,7,2
 2020-04-25,us,new-york,43.2516977,-78.2320066,84036073.0,US,USA,840,36073.0,orleans,"Orleans, New York, US",75,15,7,0
 2020-04-26,us,new-york,43.2516977,-78.2320066,84036073.0,US,USA,840,36073.0,orleans,"Orleans, New York, US",80,5,7,0
+2020-04-27,us,new-york,43.2516977,-78.2320066,84036073.0,US,USA,840,36073.0,orleans,"Orleans, New York, US",80,0,9,2
+2020-04-28,us,new-york,43.2516977,-78.2320066,84036073.0,US,USA,840,36073.0,orleans,"Orleans, New York, US",80,0,9,0
 2020-01-22,us,new-york,43.31153794,-73.43043448,84036115.0,US,USA,840,36115.0,washington,"Washington, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.31153794,-73.43043448,84036115.0,US,USA,840,36115.0,washington,"Washington, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.31153794,-73.43043448,84036115.0,US,USA,840,36115.0,washington,"Washington, New York, US",0,0,0,0
@@ -5183,6 +5289,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.31153794,-73.43043448,84036115.0,US,USA,840,36115.0,washington,"Washington, New York, US",83,3,2,0
 2020-04-25,us,new-york,43.31153794,-73.43043448,84036115.0,US,USA,840,36115.0,washington,"Washington, New York, US",113,30,2,0
 2020-04-26,us,new-york,43.31153794,-73.43043448,84036115.0,US,USA,840,36115.0,washington,"Washington, New York, US",127,14,2,0
+2020-04-27,us,new-york,43.31153794,-73.43043448,84036115.0,US,USA,840,36115.0,washington,"Washington, New York, US",130,3,2,0
+2020-04-28,us,new-york,43.31153794,-73.43043448,84036115.0,US,USA,840,36115.0,washington,"Washington, New York, US",131,1,2,0
 2020-01-22,us,new-york,43.42034246,-74.96145307,84036043.0,US,USA,840,36043.0,herkimer,"Herkimer, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.42034246,-74.96145307,84036043.0,US,USA,840,36043.0,herkimer,"Herkimer, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.42034246,-74.96145307,84036043.0,US,USA,840,36043.0,herkimer,"Herkimer, New York, US",0,0,0,0
@@ -5279,6 +5387,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.42034246,-74.96145307,84036043.0,US,USA,840,36043.0,herkimer,"Herkimer, New York, US",56,2,3,0
 2020-04-25,us,new-york,43.42034246,-74.96145307,84036043.0,US,USA,840,36043.0,herkimer,"Herkimer, New York, US",56,0,3,0
 2020-04-26,us,new-york,43.42034246,-74.96145307,84036043.0,US,USA,840,36043.0,herkimer,"Herkimer, New York, US",57,1,3,0
+2020-04-27,us,new-york,43.42034246,-74.96145307,84036043.0,US,USA,840,36043.0,herkimer,"Herkimer, New York, US",58,1,3,0
+2020-04-28,us,new-york,43.42034246,-74.96145307,84036043.0,US,USA,840,36043.0,herkimer,"Herkimer, New York, US",58,0,3,0
 2020-01-22,us,new-york,43.42778894,-76.14635194,84036075.0,US,USA,840,36075.0,oswego,"Oswego, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.42778894,-76.14635194,84036075.0,US,USA,840,36075.0,oswego,"Oswego, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.42778894,-76.14635194,84036075.0,US,USA,840,36075.0,oswego,"Oswego, New York, US",0,0,0,0
@@ -5375,6 +5485,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.42778894,-76.14635194,84036075.0,US,USA,840,36075.0,oswego,"Oswego, New York, US",51,2,2,0
 2020-04-25,us,new-york,43.42778894,-76.14635194,84036075.0,US,USA,840,36075.0,oswego,"Oswego, New York, US",57,6,2,0
 2020-04-26,us,new-york,43.42778894,-76.14635194,84036075.0,US,USA,840,36075.0,oswego,"Oswego, New York, US",61,4,2,0
+2020-04-27,us,new-york,43.42778894,-76.14635194,84036075.0,US,USA,840,36075.0,oswego,"Oswego, New York, US",61,0,3,1
+2020-04-28,us,new-york,43.42778894,-76.14635194,84036075.0,US,USA,840,36075.0,oswego,"Oswego, New York, US",63,2,3,0
 2020-01-22,us,new-york,43.56173026,-73.8433699,84036113.0,US,USA,840,36113.0,warren,"Warren, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.56173026,-73.8433699,84036113.0,US,USA,840,36113.0,warren,"Warren, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.56173026,-73.8433699,84036113.0,US,USA,840,36113.0,warren,"Warren, New York, US",0,0,0,0
@@ -5471,6 +5583,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.56173026,-73.8433699,84036113.0,US,USA,840,36113.0,warren,"Warren, New York, US",122,3,0,0
 2020-04-25,us,new-york,43.56173026,-73.8433699,84036113.0,US,USA,840,36113.0,warren,"Warren, New York, US",132,10,0,0
 2020-04-26,us,new-york,43.56173026,-73.8433699,84036113.0,US,USA,840,36113.0,warren,"Warren, New York, US",135,3,0,0
+2020-04-27,us,new-york,43.56173026,-73.8433699,84036113.0,US,USA,840,36113.0,warren,"Warren, New York, US",147,12,0,0
+2020-04-28,us,new-york,43.56173026,-73.8433699,84036113.0,US,USA,840,36113.0,warren,"Warren, New York, US",150,3,0,0
 2020-01-22,us,new-york,43.66146647,-74.49721957,84036041.0,US,USA,840,36041.0,hamilton,"Hamilton, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.66146647,-74.49721957,84036041.0,US,USA,840,36041.0,hamilton,"Hamilton, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.66146647,-74.49721957,84036041.0,US,USA,840,36041.0,hamilton,"Hamilton, New York, US",0,0,0,0
@@ -5567,6 +5681,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.66146647,-74.49721957,84036041.0,US,USA,840,36041.0,hamilton,"Hamilton, New York, US",3,0,0,0
 2020-04-25,us,new-york,43.66146647,-74.49721957,84036041.0,US,USA,840,36041.0,hamilton,"Hamilton, New York, US",3,0,0,0
 2020-04-26,us,new-york,43.66146647,-74.49721957,84036041.0,US,USA,840,36041.0,hamilton,"Hamilton, New York, US",3,0,0,0
+2020-04-27,us,new-york,43.66146647,-74.49721957,84036041.0,US,USA,840,36041.0,hamilton,"Hamilton, New York, US",3,0,0,0
+2020-04-28,us,new-york,43.66146647,-74.49721957,84036041.0,US,USA,840,36041.0,hamilton,"Hamilton, New York, US",3,0,0,0
 2020-01-22,us,new-york,43.7844157,-75.44903992,84036049.0,US,USA,840,36049.0,lewis,"Lewis, New York, US",0,0,0,0
 2020-01-23,us,new-york,43.7844157,-75.44903992,84036049.0,US,USA,840,36049.0,lewis,"Lewis, New York, US",0,0,0,0
 2020-01-24,us,new-york,43.7844157,-75.44903992,84036049.0,US,USA,840,36049.0,lewis,"Lewis, New York, US",0,0,0,0
@@ -5663,6 +5779,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,43.7844157,-75.44903992,84036049.0,US,USA,840,36049.0,lewis,"Lewis, New York, US",9,0,0,0
 2020-04-25,us,new-york,43.7844157,-75.44903992,84036049.0,US,USA,840,36049.0,lewis,"Lewis, New York, US",9,0,0,0
 2020-04-26,us,new-york,43.7844157,-75.44903992,84036049.0,US,USA,840,36049.0,lewis,"Lewis, New York, US",9,0,0,0
+2020-04-27,us,new-york,43.7844157,-75.44903992,84036049.0,US,USA,840,36049.0,lewis,"Lewis, New York, US",9,0,0,0
+2020-04-28,us,new-york,43.7844157,-75.44903992,84036049.0,US,USA,840,36049.0,lewis,"Lewis, New York, US",9,0,0,0
 2020-01-22,us,new-york,44.04200959,-75.94653457,84036045.0,US,USA,840,36045.0,jefferson,"Jefferson, New York, US",0,0,0,0
 2020-01-23,us,new-york,44.04200959,-75.94653457,84036045.0,US,USA,840,36045.0,jefferson,"Jefferson, New York, US",0,0,0,0
 2020-01-24,us,new-york,44.04200959,-75.94653457,84036045.0,US,USA,840,36045.0,jefferson,"Jefferson, New York, US",0,0,0,0
@@ -5759,6 +5877,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,44.04200959,-75.94653457,84036045.0,US,USA,840,36045.0,jefferson,"Jefferson, New York, US",58,2,0,0
 2020-04-25,us,new-york,44.04200959,-75.94653457,84036045.0,US,USA,840,36045.0,jefferson,"Jefferson, New York, US",59,1,0,0
 2020-04-26,us,new-york,44.04200959,-75.94653457,84036045.0,US,USA,840,36045.0,jefferson,"Jefferson, New York, US",60,1,0,0
+2020-04-27,us,new-york,44.04200959,-75.94653457,84036045.0,US,USA,840,36045.0,jefferson,"Jefferson, New York, US",60,0,0,0
+2020-04-28,us,new-york,44.04200959,-75.94653457,84036045.0,US,USA,840,36045.0,jefferson,"Jefferson, New York, US",60,0,0,0
 2020-01-22,us,new-york,44.11630765,-73.77297842,84036031.0,US,USA,840,36031.0,essex,"Essex, New York, US",0,0,0,0
 2020-01-23,us,new-york,44.11630765,-73.77297842,84036031.0,US,USA,840,36031.0,essex,"Essex, New York, US",0,0,0,0
 2020-01-24,us,new-york,44.11630765,-73.77297842,84036031.0,US,USA,840,36031.0,essex,"Essex, New York, US",0,0,0,0
@@ -5855,6 +5975,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,44.11630765,-73.77297842,84036031.0,US,USA,840,36031.0,essex,"Essex, New York, US",22,0,0,0
 2020-04-25,us,new-york,44.11630765,-73.77297842,84036031.0,US,USA,840,36031.0,essex,"Essex, New York, US",24,2,0,0
 2020-04-26,us,new-york,44.11630765,-73.77297842,84036031.0,US,USA,840,36031.0,essex,"Essex, New York, US",24,0,0,0
+2020-04-27,us,new-york,44.11630765,-73.77297842,84036031.0,US,USA,840,36031.0,essex,"Essex, New York, US",24,0,0,0
+2020-04-28,us,new-york,44.11630765,-73.77297842,84036031.0,US,USA,840,36031.0,essex,"Essex, New York, US",26,2,0,0
 2020-01-22,us,new-york,44.4976179,-75.06550039,84036089.0,US,USA,840,36089.0,st-lawrence,"St. Lawrence, New York, US",0,0,0,0
 2020-01-23,us,new-york,44.4976179,-75.06550039,84036089.0,US,USA,840,36089.0,st-lawrence,"St. Lawrence, New York, US",0,0,0,0
 2020-01-24,us,new-york,44.4976179,-75.06550039,84036089.0,US,USA,840,36089.0,st-lawrence,"St. Lawrence, New York, US",0,0,0,0
@@ -5951,6 +6073,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,44.4976179,-75.06550039,84036089.0,US,USA,840,36089.0,st-lawrence,"St. Lawrence, New York, US",144,5,0,0
 2020-04-25,us,new-york,44.4976179,-75.06550039,84036089.0,US,USA,840,36089.0,st-lawrence,"St. Lawrence, New York, US",156,12,0,0
 2020-04-26,us,new-york,44.4976179,-75.06550039,84036089.0,US,USA,840,36089.0,st-lawrence,"St. Lawrence, New York, US",167,11,0,0
+2020-04-27,us,new-york,44.4976179,-75.06550039,84036089.0,US,USA,840,36089.0,st-lawrence,"St. Lawrence, New York, US",169,2,0,0
+2020-04-28,us,new-york,44.4976179,-75.06550039,84036089.0,US,USA,840,36089.0,st-lawrence,"St. Lawrence, New York, US",170,1,0,0
 2020-01-22,us,new-york,44.59040891,-74.29926032,84036033.0,US,USA,840,36033.0,franklin,"Franklin, New York, US",0,0,0,0
 2020-01-23,us,new-york,44.59040891,-74.29926032,84036033.0,US,USA,840,36033.0,franklin,"Franklin, New York, US",0,0,0,0
 2020-01-24,us,new-york,44.59040891,-74.29926032,84036033.0,US,USA,840,36033.0,franklin,"Franklin, New York, US",0,0,0,0
@@ -6047,6 +6171,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,44.59040891,-74.29926032,84036033.0,US,USA,840,36033.0,franklin,"Franklin, New York, US",13,0,0,0
 2020-04-25,us,new-york,44.59040891,-74.29926032,84036033.0,US,USA,840,36033.0,franklin,"Franklin, New York, US",14,1,0,0
 2020-04-26,us,new-york,44.59040891,-74.29926032,84036033.0,US,USA,840,36033.0,franklin,"Franklin, New York, US",14,0,0,0
+2020-04-27,us,new-york,44.59040891,-74.29926032,84036033.0,US,USA,840,36033.0,franklin,"Franklin, New York, US",14,0,0,0
+2020-04-28,us,new-york,44.59040891,-74.29926032,84036033.0,US,USA,840,36033.0,franklin,"Franklin, New York, US",14,0,0,0
 2020-01-22,us,new-york,44.74530905,-73.67875352,84036019.0,US,USA,840,36019.0,clinton,"Clinton, New York, US",0,0,0,0
 2020-01-23,us,new-york,44.74530905,-73.67875352,84036019.0,US,USA,840,36019.0,clinton,"Clinton, New York, US",0,0,0,0
 2020-01-24,us,new-york,44.74530905,-73.67875352,84036019.0,US,USA,840,36019.0,clinton,"Clinton, New York, US",0,0,0,0
@@ -6143,3 +6269,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,new-york,44.74530905,-73.67875352,84036019.0,US,USA,840,36019.0,clinton,"Clinton, New York, US",53,1,4,0
 2020-04-25,us,new-york,44.74530905,-73.67875352,84036019.0,US,USA,840,36019.0,clinton,"Clinton, New York, US",54,1,4,0
 2020-04-26,us,new-york,44.74530905,-73.67875352,84036019.0,US,USA,840,36019.0,clinton,"Clinton, New York, US",57,3,4,0
+2020-04-27,us,new-york,44.74530905,-73.67875352,84036019.0,US,USA,840,36019.0,clinton,"Clinton, New York, US",59,2,4,0
+2020-04-28,us,new-york,44.74530905,-73.67875352,84036019.0,US,USA,840,36019.0,clinton,"Clinton, New York, US",59,0,4,0

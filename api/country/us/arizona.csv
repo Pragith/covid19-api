@@ -95,6 +95,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,0.0,0.0,84080004.0,US,USA,840,80004.0,out-of-az,"Out of AZ, Arizona, US",0,0,0,0
 2020-04-25,us,arizona,0.0,0.0,84080004.0,US,USA,840,80004.0,out-of-az,"Out of AZ, Arizona, US",0,0,0,0
 2020-04-26,us,arizona,0.0,0.0,84080004.0,US,USA,840,80004.0,out-of-az,"Out of AZ, Arizona, US",0,0,0,0
+2020-04-27,us,arizona,0.0,0.0,84080004.0,US,USA,840,80004.0,out-of-az,"Out of AZ, Arizona, US",0,0,0,0
+2020-04-28,us,arizona,0.0,0.0,84080004.0,US,USA,840,80004.0,out-of-az,"Out of AZ, Arizona, US",0,0,0,0
 2020-01-22,us,arizona,0.0,0.0,84090004.0,US,USA,840,90004.0,unassigned,"Unassigned, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,0.0,0.0,84090004.0,US,USA,840,90004.0,unassigned,"Unassigned, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,0.0,0.0,84090004.0,US,USA,840,90004.0,unassigned,"Unassigned, Arizona, US",0,0,0,0
@@ -191,6 +193,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,0.0,0.0,84090004.0,US,USA,840,90004.0,unassigned,"Unassigned, Arizona, US",0,0,0,0
 2020-04-25,us,arizona,0.0,0.0,84090004.0,US,USA,840,90004.0,unassigned,"Unassigned, Arizona, US",0,0,0,0
 2020-04-26,us,arizona,0.0,0.0,84090004.0,US,USA,840,90004.0,unassigned,"Unassigned, Arizona, US",0,0,0,0
+2020-04-27,us,arizona,0.0,0.0,84090004.0,US,USA,840,90004.0,unassigned,"Unassigned, Arizona, US",0,0,0,0
+2020-04-28,us,arizona,0.0,0.0,84090004.0,US,USA,840,90004.0,unassigned,"Unassigned, Arizona, US",0,0,0,0
 2020-01-22,us,arizona,31.52508998,-110.8479088,84004023.0,US,USA,840,4023.0,santa-cruz,"Santa Cruz, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,31.52508998,-110.8479088,84004023.0,US,USA,840,4023.0,santa-cruz,"Santa Cruz, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,31.52508998,-110.8479088,84004023.0,US,USA,840,4023.0,santa-cruz,"Santa Cruz, Arizona, US",0,0,0,0
@@ -287,6 +291,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,31.52508998,-110.8479088,84004023.0,US,USA,840,4023.0,santa-cruz,"Santa Cruz, Arizona, US",30,2,0,0
 2020-04-25,us,arizona,31.52508998,-110.8479088,84004023.0,US,USA,840,4023.0,santa-cruz,"Santa Cruz, Arizona, US",30,0,0,0
 2020-04-26,us,arizona,31.52508998,-110.8479088,84004023.0,US,USA,840,4023.0,santa-cruz,"Santa Cruz, Arizona, US",30,0,0,0
+2020-04-27,us,arizona,31.52508998,-110.8479088,84004023.0,US,USA,840,4023.0,santa-cruz,"Santa Cruz, Arizona, US",30,0,0,0
+2020-04-28,us,arizona,31.52508998,-110.8479088,84004023.0,US,USA,840,4023.0,santa-cruz,"Santa Cruz, Arizona, US",31,1,0,0
 2020-01-22,us,arizona,31.87934684,-109.7516088,84004003.0,US,USA,840,4003.0,cochise,"Cochise, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,31.87934684,-109.7516088,84004003.0,US,USA,840,4003.0,cochise,"Cochise, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,31.87934684,-109.7516088,84004003.0,US,USA,840,4003.0,cochise,"Cochise, Arizona, US",0,0,0,0
@@ -383,6 +389,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,31.87934684,-109.7516088,84004003.0,US,USA,840,4003.0,cochise,"Cochise, Arizona, US",34,3,0,0
 2020-04-25,us,arizona,31.87934684,-109.7516088,84004003.0,US,USA,840,4003.0,cochise,"Cochise, Arizona, US",36,2,0,0
 2020-04-26,us,arizona,31.87934684,-109.7516088,84004003.0,US,USA,840,4003.0,cochise,"Cochise, Arizona, US",36,0,0,0
+2020-04-27,us,arizona,31.87934684,-109.7516088,84004003.0,US,USA,840,4003.0,cochise,"Cochise, Arizona, US",36,0,0,0
+2020-04-28,us,arizona,31.87934684,-109.7516088,84004003.0,US,USA,840,4003.0,cochise,"Cochise, Arizona, US",37,1,0,0
 2020-01-22,us,arizona,32.0971334,-111.7890033,84004019.0,US,USA,840,4019.0,pima,"Pima, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,32.0971334,-111.7890033,84004019.0,US,USA,840,4019.0,pima,"Pima, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,32.0971334,-111.7890033,84004019.0,US,USA,840,4019.0,pima,"Pima, Arizona, US",0,0,0,0
@@ -479,6 +487,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,32.0971334,-111.7890033,84004019.0,US,USA,840,4019.0,pima,"Pima, Arizona, US",1060,34,74,4
 2020-04-25,us,arizona,32.0971334,-111.7890033,84004019.0,US,USA,840,4019.0,pima,"Pima, Arizona, US",1090,30,76,2
 2020-04-26,us,arizona,32.0971334,-111.7890033,84004019.0,US,USA,840,4019.0,pima,"Pima, Arizona, US",1136,46,76,0
+2020-04-27,us,arizona,32.0971334,-111.7890033,84004019.0,US,USA,840,4019.0,pima,"Pima, Arizona, US",1164,28,76,0
+2020-04-28,us,arizona,32.0971334,-111.7890033,84004019.0,US,USA,840,4019.0,pima,"Pima, Arizona, US",1188,24,76,0
 2020-01-22,us,arizona,32.76895712,-113.90666740000002,84004027.0,US,USA,840,4027.0,yuma,"Yuma, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,32.76895712,-113.90666740000002,84004027.0,US,USA,840,4027.0,yuma,"Yuma, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,32.76895712,-113.90666740000002,84004027.0,US,USA,840,4027.0,yuma,"Yuma, Arizona, US",0,0,0,0
@@ -575,6 +585,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,32.76895712,-113.90666740000002,84004027.0,US,USA,840,4027.0,yuma,"Yuma, Arizona, US",42,0,1,0
 2020-04-25,us,arizona,32.76895712,-113.90666740000002,84004027.0,US,USA,840,4027.0,yuma,"Yuma, Arizona, US",53,11,1,0
 2020-04-26,us,arizona,32.76895712,-113.90666740000002,84004027.0,US,USA,840,4027.0,yuma,"Yuma, Arizona, US",59,6,1,0
+2020-04-27,us,arizona,32.76895712,-113.90666740000002,84004027.0,US,USA,840,4027.0,yuma,"Yuma, Arizona, US",62,3,1,0
+2020-04-28,us,arizona,32.76895712,-113.90666740000002,84004027.0,US,USA,840,4027.0,yuma,"Yuma, Arizona, US",67,5,1,0
 2020-01-22,us,arizona,32.90525627,-111.3449483,84004021.0,US,USA,840,4021.0,pinal,"Pinal, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,32.90525627,-111.3449483,84004021.0,US,USA,840,4021.0,pinal,"Pinal, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,32.90525627,-111.3449483,84004021.0,US,USA,840,4021.0,pinal,"Pinal, Arizona, US",0,0,0,0
@@ -671,6 +683,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,32.90525627,-111.3449483,84004021.0,US,USA,840,4021.0,pinal,"Pinal, Arizona, US",317,14,9,1
 2020-04-25,us,arizona,32.90525627,-111.3449483,84004021.0,US,USA,840,4021.0,pinal,"Pinal, Arizona, US",332,15,9,0
 2020-04-26,us,arizona,32.90525627,-111.3449483,84004021.0,US,USA,840,4021.0,pinal,"Pinal, Arizona, US",342,10,9,0
+2020-04-27,us,arizona,32.90525627,-111.3449483,84004021.0,US,USA,840,4021.0,pinal,"Pinal, Arizona, US",359,17,9,0
+2020-04-28,us,arizona,32.90525627,-111.3449483,84004021.0,US,USA,840,4021.0,pinal,"Pinal, Arizona, US",365,6,9,0
 2020-01-22,us,arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,graham,"Graham, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,graham,"Graham, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,graham,"Graham, Arizona, US",0,0,0,0
@@ -767,6 +781,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,graham,"Graham, Arizona, US",7,3,0,0
 2020-04-25,us,arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,graham,"Graham, Arizona, US",6,-1,0,0
 2020-04-26,us,arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,graham,"Graham, Arizona, US",7,1,0,0
+2020-04-27,us,arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,graham,"Graham, Arizona, US",9,2,0,0
+2020-04-28,us,arizona,32.93166885,-109.8882178,84004009.0,US,USA,840,4009.0,graham,"Graham, Arizona, US",9,0,0,0
 2020-01-22,us,arizona,33.21498827,-109.2405279,84004011.0,US,USA,840,4011.0,greenlee,"Greenlee, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,33.21498827,-109.2405279,84004011.0,US,USA,840,4011.0,greenlee,"Greenlee, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,33.21498827,-109.2405279,84004011.0,US,USA,840,4011.0,greenlee,"Greenlee, Arizona, US",0,0,0,0
@@ -863,6 +879,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,33.21498827,-109.2405279,84004011.0,US,USA,840,4011.0,greenlee,"Greenlee, Arizona, US",2,0,0,0
 2020-04-25,us,arizona,33.21498827,-109.2405279,84004011.0,US,USA,840,4011.0,greenlee,"Greenlee, Arizona, US",2,0,0,0
 2020-04-26,us,arizona,33.21498827,-109.2405279,84004011.0,US,USA,840,4011.0,greenlee,"Greenlee, Arizona, US",2,0,0,0
+2020-04-27,us,arizona,33.21498827,-109.2405279,84004011.0,US,USA,840,4011.0,greenlee,"Greenlee, Arizona, US",2,0,0,0
+2020-04-28,us,arizona,33.21498827,-109.2405279,84004011.0,US,USA,840,4011.0,greenlee,"Greenlee, Arizona, US",2,0,0,0
 2020-01-22,us,arizona,33.34835867,-112.4918154,84004013.0,US,USA,840,4013.0,maricopa,"Maricopa, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,33.34835867,-112.4918154,84004013.0,US,USA,840,4013.0,maricopa,"Maricopa, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,33.34835867,-112.4918154,84004013.0,US,USA,840,4013.0,maricopa,"Maricopa, Arizona, US",0,0,0,0
@@ -959,6 +977,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,33.34835867,-112.4918154,84004013.0,US,USA,840,4013.0,maricopa,"Maricopa, Arizona, US",3116,146,120,5
 2020-04-25,us,arizona,33.34835867,-112.4918154,84004013.0,US,USA,840,4013.0,maricopa,"Maricopa, Arizona, US",3234,118,121,1
 2020-04-26,us,arizona,33.34835867,-112.4918154,84004013.0,US,USA,840,4013.0,maricopa,"Maricopa, Arizona, US",3359,125,122,1
+2020-04-27,us,arizona,33.34835867,-112.4918154,84004013.0,US,USA,840,4013.0,maricopa,"Maricopa, Arizona, US",3457,98,122,0
+2020-04-28,us,arizona,33.34835867,-112.4918154,84004013.0,US,USA,840,4013.0,maricopa,"Maricopa, Arizona, US",3578,121,122,0
 2020-01-22,us,arizona,33.72854224,-113.9810029,84004012.0,US,USA,840,4012.0,la-paz,"La Paz, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,33.72854224,-113.9810029,84004012.0,US,USA,840,4012.0,la-paz,"La Paz, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,33.72854224,-113.9810029,84004012.0,US,USA,840,4012.0,la-paz,"La Paz, Arizona, US",0,0,0,0
@@ -1055,6 +1075,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,33.72854224,-113.9810029,84004012.0,US,USA,840,4012.0,la-paz,"La Paz, Arizona, US",8,2,1,0
 2020-04-25,us,arizona,33.72854224,-113.9810029,84004012.0,US,USA,840,4012.0,la-paz,"La Paz, Arizona, US",7,-1,1,0
 2020-04-26,us,arizona,33.72854224,-113.9810029,84004012.0,US,USA,840,4012.0,la-paz,"La Paz, Arizona, US",7,0,1,0
+2020-04-27,us,arizona,33.72854224,-113.9810029,84004012.0,US,USA,840,4012.0,la-paz,"La Paz, Arizona, US",7,0,1,0
+2020-04-28,us,arizona,33.72854224,-113.9810029,84004012.0,US,USA,840,4012.0,la-paz,"La Paz, Arizona, US",7,0,1,0
 2020-01-22,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",0,0,0,0
@@ -1151,6 +1173,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",11,-1,0,0
 2020-04-25,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",11,0,0,0
 2020-04-26,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",11,0,0,0
+2020-04-27,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",11,0,0,0
+2020-04-28,us,arizona,33.80190085,-110.8132779,84004007.0,US,USA,840,4007.0,gila,"Gila, Arizona, US",11,0,0,0
 2020-01-22,us,arizona,34.59933926,-112.5538588,84004025.0,US,USA,840,4025.0,yavapai,"Yavapai, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,34.59933926,-112.5538588,84004025.0,US,USA,840,4025.0,yavapai,"Yavapai, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,34.59933926,-112.5538588,84004025.0,US,USA,840,4025.0,yavapai,"Yavapai, Arizona, US",0,0,0,0
@@ -1247,6 +1271,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,34.59933926,-112.5538588,84004025.0,US,USA,840,4025.0,yavapai,"Yavapai, Arizona, US",75,0,1,0
 2020-04-25,us,arizona,34.59933926,-112.5538588,84004025.0,US,USA,840,4025.0,yavapai,"Yavapai, Arizona, US",76,1,1,0
 2020-04-26,us,arizona,34.59933926,-112.5538588,84004025.0,US,USA,840,4025.0,yavapai,"Yavapai, Arizona, US",76,0,1,0
+2020-04-27,us,arizona,34.59933926,-112.5538588,84004025.0,US,USA,840,4025.0,yavapai,"Yavapai, Arizona, US",77,1,1,0
+2020-04-28,us,arizona,34.59933926,-112.5538588,84004025.0,US,USA,840,4025.0,yavapai,"Yavapai, Arizona, US",77,0,1,0
 2020-01-22,us,arizona,35.39465006,-109.4892383,84004001.0,US,USA,840,4001.0,apache,"Apache, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,35.39465006,-109.4892383,84004001.0,US,USA,840,4001.0,apache,"Apache, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,35.39465006,-109.4892383,84004001.0,US,USA,840,4001.0,apache,"Apache, Arizona, US",0,0,0,0
@@ -1343,6 +1369,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,35.39465006,-109.4892383,84004001.0,US,USA,840,4001.0,apache,"Apache, Arizona, US",296,28,5,0
 2020-04-25,us,arizona,35.39465006,-109.4892383,84004001.0,US,USA,840,4001.0,apache,"Apache, Arizona, US",314,18,5,0
 2020-04-26,us,arizona,35.39465006,-109.4892383,84004001.0,US,USA,840,4001.0,apache,"Apache, Arizona, US",336,22,5,0
+2020-04-27,us,arizona,35.39465006,-109.4892383,84004001.0,US,USA,840,4001.0,apache,"Apache, Arizona, US",362,26,5,0
+2020-04-28,us,arizona,35.39465006,-109.4892383,84004001.0,US,USA,840,4001.0,apache,"Apache, Arizona, US",380,18,5,0
 2020-01-22,us,arizona,35.3997715,-110.3218983,84004017.0,US,USA,840,4017.0,navajo,"Navajo, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,35.3997715,-110.3218983,84004017.0,US,USA,840,4017.0,navajo,"Navajo, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,35.3997715,-110.3218983,84004017.0,US,USA,840,4017.0,navajo,"Navajo, Arizona, US",0,0,0,0
@@ -1439,6 +1467,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,35.3997715,-110.3218983,84004017.0,US,USA,840,4017.0,navajo,"Navajo, Arizona, US",583,19,18,5
 2020-04-25,us,arizona,35.3997715,-110.3218983,84004017.0,US,USA,840,4017.0,navajo,"Navajo, Arizona, US",612,29,18,0
 2020-04-26,us,arizona,35.3997715,-110.3218983,84004017.0,US,USA,840,4017.0,navajo,"Navajo, Arizona, US",625,13,18,0
+2020-04-27,us,arizona,35.3997715,-110.3218983,84004017.0,US,USA,840,4017.0,navajo,"Navajo, Arizona, US",628,3,18,0
+2020-04-28,us,arizona,35.3997715,-110.3218983,84004017.0,US,USA,840,4017.0,navajo,"Navajo, Arizona, US",665,37,18,0
 2020-01-22,us,arizona,35.70471703,-113.7577902,84004015.0,US,USA,840,4015.0,mohave,"Mohave, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,35.70471703,-113.7577902,84004015.0,US,USA,840,4015.0,mohave,"Mohave, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,35.70471703,-113.7577902,84004015.0,US,USA,840,4015.0,mohave,"Mohave, Arizona, US",0,0,0,0
@@ -1535,6 +1565,8 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,35.70471703,-113.7577902,84004015.0,US,USA,840,4015.0,mohave,"Mohave, Arizona, US",73,4,3,0
 2020-04-25,us,arizona,35.70471703,-113.7577902,84004015.0,US,USA,840,4015.0,mohave,"Mohave, Arizona, US",81,8,3,0
 2020-04-26,us,arizona,35.70471703,-113.7577902,84004015.0,US,USA,840,4015.0,mohave,"Mohave, Arizona, US",88,7,4,1
+2020-04-27,us,arizona,35.70471703,-113.7577902,84004015.0,US,USA,840,4015.0,mohave,"Mohave, Arizona, US",96,8,4,0
+2020-04-28,us,arizona,35.70471703,-113.7577902,84004015.0,US,USA,840,4015.0,mohave,"Mohave, Arizona, US",99,3,4,0
 2020-01-22,us,arizona,35.83883429,-111.7707178,84004005.0,US,USA,840,4005.0,coconino,"Coconino, Arizona, US",0,0,0,0
 2020-01-23,us,arizona,35.83883429,-111.7707178,84004005.0,US,USA,840,4005.0,coconino,"Coconino, Arizona, US",0,0,0,0
 2020-01-24,us,arizona,35.83883429,-111.7707178,84004005.0,US,USA,840,4005.0,coconino,"Coconino, Arizona, US",0,0,0,0
@@ -1631,3 +1663,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,arizona,35.83883429,-111.7707178,84004005.0,US,USA,840,4005.0,coconino,"Coconino, Arizona, US",391,19,34,2
 2020-04-25,us,arizona,35.83883429,-111.7707178,84004005.0,US,USA,840,4005.0,coconino,"Coconino, Arizona, US",402,11,38,4
 2020-04-26,us,arizona,35.83883429,-111.7707178,84004005.0,US,USA,840,4005.0,coconino,"Coconino, Arizona, US",420,18,38,0
+2020-04-27,us,arizona,35.83883429,-111.7707178,84004005.0,US,USA,840,4005.0,coconino,"Coconino, Arizona, US",425,5,38,0
+2020-04-28,us,arizona,35.83883429,-111.7707178,84004005.0,US,USA,840,4005.0,coconino,"Coconino, Arizona, US",439,14,38,0

@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",735,36,4,0
 2020-04-25,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",755,20,4,0
 2020-04-26,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",809,54,4,0
+2020-04-27,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",828,19,5,1
+2020-04-28,us,california,35.34329425,-118.7277796,84006029.0,US,USA,840,6029.0,kern,"Kern, California, US",847,19,5,0

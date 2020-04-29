@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,illinois,39.86064913,-88.96342505,84017115.0,US,USA,840,17115.0,macon,"Macon, Illinois, US",99,3,10,0
 2020-04-25,us,illinois,39.86064913,-88.96342505,84017115.0,US,USA,840,17115.0,macon,"Macon, Illinois, US",100,1,11,1
 2020-04-26,us,illinois,39.86064913,-88.96342505,84017115.0,US,USA,840,17115.0,macon,"Macon, Illinois, US",102,2,11,0
+2020-04-27,us,illinois,39.86064913,-88.96342505,84017115.0,US,USA,840,17115.0,macon,"Macon, Illinois, US",103,1,11,0
+2020-04-28,us,illinois,39.86064913,-88.96342505,84017115.0,US,USA,840,17115.0,macon,"Macon, Illinois, US",103,0,11,0

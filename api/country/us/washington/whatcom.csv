@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",282,0,27,0
 2020-04-25,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",284,2,27,0
 2020-04-26,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",288,4,27,0
+2020-04-27,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",287,-1,28,1
+2020-04-28,us,washington,48.82227976,-121.7490018,84053073.0,US,USA,840,53073.0,whatcom,"Whatcom, Washington, US",293,6,28,0

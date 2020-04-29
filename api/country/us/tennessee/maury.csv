@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,tennessee,35.6187413,-87.07462444,84047119.0,US,USA,840,47119.0,maury,"Maury, Tennessee, US",36,1,0,0
 2020-04-25,us,tennessee,35.6187413,-87.07462444,84047119.0,US,USA,840,47119.0,maury,"Maury, Tennessee, US",38,2,0,0
 2020-04-26,us,tennessee,35.6187413,-87.07462444,84047119.0,US,USA,840,47119.0,maury,"Maury, Tennessee, US",40,2,0,0
+2020-04-27,us,tennessee,35.6187413,-87.07462444,84047119.0,US,USA,840,47119.0,maury,"Maury, Tennessee, US",41,1,0,0
+2020-04-28,us,tennessee,35.6187413,-87.07462444,84047119.0,US,USA,840,47119.0,maury,"Maury, Tennessee, US",40,-1,0,0

@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",2826,183,102,2
 2020-04-25,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",2943,117,111,9
 2020-04-26,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",2943,0,111,0
+2020-04-27,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",3043,100,111,0
+2020-04-28,us,california,33.03484597,-116.7365326,84006073.0,US,USA,840,6073.0,san-diego,"San Diego, California, US",3141,98,113,2

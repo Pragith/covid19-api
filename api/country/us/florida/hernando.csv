@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",86,3,3,0
 2020-04-25,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",89,3,3,0
 2020-04-26,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",89,0,3,0
+2020-04-27,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",89,0,4,1
+2020-04-28,us,florida,28.55364461,-82.42700204,84012053.0,US,USA,840,12053.0,hernando,"Hernando, Florida, US",89,0,4,0

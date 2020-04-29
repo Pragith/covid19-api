@@ -95,3 +95,5 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-24,us,illinois,41.93842729,-88.42861412,84017089.0,US,USA,840,17089.0,kane,"Kane, Illinois, US",962,99,39,0
 2020-04-25,us,illinois,41.93842729,-88.42861412,84017089.0,US,USA,840,17089.0,kane,"Kane, Illinois, US",1049,87,38,-1
 2020-04-26,us,illinois,41.93842729,-88.42861412,84017089.0,US,USA,840,17089.0,kane,"Kane, Illinois, US",1109,60,39,1
+2020-04-27,us,illinois,41.93842729,-88.42861412,84017089.0,US,USA,840,17089.0,kane,"Kane, Illinois, US",1185,76,39,0
+2020-04-28,us,illinois,41.93842729,-88.42861412,84017089.0,US,USA,840,17089.0,kane,"Kane, Illinois, US",1308,123,41,2
