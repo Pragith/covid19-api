@@ -95,3 +95,5 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-24,sri-lanka,,7.0,81.0,420,7,109.0,52,0,2.0
 2020-04-25,sri-lanka,,7.0,81.0,460,7,118.0,40,0,9.0
 2020-04-26,sri-lanka,,7.0,81.0,523,7,120.0,63,0,2.0
+2020-04-27,sri-lanka,,7.0,81.0,588,7,126.0,65,0,6.0
+2020-04-28,sri-lanka,,7.0,81.0,619,7,134.0,31,0,8.0

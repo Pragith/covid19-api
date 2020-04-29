@@ -95,3 +95,5 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-24,united-arab-emirates,,24.0,54.0,9281,64,1760.0,525,8,123.0
 2020-04-25,united-arab-emirates,,24.0,54.0,9813,71,1887.0,532,7,127.0
 2020-04-26,united-arab-emirates,,24.0,54.0,10349,76,1978.0,536,5,91.0
+2020-04-27,united-arab-emirates,,24.0,54.0,10839,82,2090.0,490,6,112.0
+2020-04-28,united-arab-emirates,,24.0,54.0,11380,89,2181.0,541,7,91.0

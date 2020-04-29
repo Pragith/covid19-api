@@ -95,3 +95,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-24,canada,alberta,53.9333,-116.5765,4017,297,72,4,0.0,0.0
 2020-04-25,canada,alberta,53.9333,-116.5765,4233,216,73,1,0.0,0.0
 2020-04-26,canada,alberta,53.9333,-116.5765,4480,247,73,0,0.0,0.0
+2020-04-27,canada,alberta,53.9333,-116.5765,4696,216,75,2,0.0,0.0
+2020-04-28,canada,alberta,53.9333,-116.5765,4850,154,80,5,0.0,0.0

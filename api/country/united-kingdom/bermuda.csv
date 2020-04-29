@@ -95,3 +95,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-24,united-kingdom,bermuda,32.3078,-64.7505,99,0,5,0,39.0,0.0
 2020-04-25,united-kingdom,bermuda,32.3078,-64.7505,109,10,5,0,39.0,0.0
 2020-04-26,united-kingdom,bermuda,32.3078,-64.7505,109,0,5,0,39.0,0.0
+2020-04-27,united-kingdom,bermuda,32.3078,-64.7505,110,1,6,1,44.0,5.0
+2020-04-28,united-kingdom,bermuda,32.3078,-64.7505,110,0,6,0,44.0,0.0

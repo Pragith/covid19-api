@@ -95,3 +95,5 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-24,china,heilongjiang,47.862,127.7615,930,2,13,0,0.0,0.0
 2020-04-25,china,heilongjiang,47.862,127.7615,935,5,13,0,0.0,0.0
 2020-04-26,china,heilongjiang,47.862,127.7615,936,1,13,0,0.0,0.0
+2020-04-27,china,heilongjiang,47.862,127.7615,939,3,13,0,0.0,0.0
+2020-04-28,china,heilongjiang,47.862,127.7615,939,0,13,0,0.0,0.0

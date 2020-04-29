@@ -95,3 +95,5 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-24,north-macedonia,,41.6086,21.7453,1326,57,337.0,26,1,36.0
 2020-04-25,north-macedonia,,41.6086,21.7453,1367,59,374.0,41,2,37.0
 2020-04-26,north-macedonia,,41.6086,21.7453,1386,61,500.0,19,2,126.0
+2020-04-27,north-macedonia,,41.6086,21.7453,1399,65,553.0,13,4,53.0
+2020-04-28,north-macedonia,,41.6086,21.7453,1421,71,589.0,22,6,36.0
