@@ -96,3 +96,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-25,US,Michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,Midland,"Midland, Michigan, US",51,1,3,0
 2020-04-26,US,Michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,Midland,"Midland, Michigan, US",52,1,3,0
 2020-04-27,US,Michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,Midland,"Midland, Michigan, US",56,4,3,0
+2020-04-28,US,Michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,Midland,"Midland, Michigan, US",56,0,4,1

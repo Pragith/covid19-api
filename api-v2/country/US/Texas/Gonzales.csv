@@ -96,3 +96,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-25,US,Texas,29.45634206,-97.49424032,84048177.0,US,USA,840,48177.0,Gonzales,"Gonzales, Texas, US",8,4,0,0
 2020-04-26,US,Texas,29.45634206,-97.49424032,84048177.0,US,USA,840,48177.0,Gonzales,"Gonzales, Texas, US",12,4,0,0
 2020-04-27,US,Texas,29.45634206,-97.49424032,84048177.0,US,USA,840,48177.0,Gonzales,"Gonzales, Texas, US",12,0,1,1
+2020-04-28,US,Texas,29.45634206,-97.49424032,84048177.0,US,USA,840,48177.0,Gonzales,"Gonzales, Texas, US",14,2,2,1
