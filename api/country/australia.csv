@@ -783,3 +783,11 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-28,australia,tasmania,-41.4545,145.9707,218,11,137.0,4,0,5.0
 2020-04-28,australia,victoria,-37.8136,144.9631,1354,18,1287.0,5,1,7.0
 2020-04-28,australia,western-australia,-31.9505,115.8605,550,8,495.0,1,0,9.0
+2020-04-29,australia,australian-capital-territory,-35.4735,149.0124,106,3,101.0,0,0,0.0
+2020-04-29,australia,new-south-wales,-33.8688,151.2093,3016,40,2284.0,0,1,18.0
+2020-04-29,australia,northern-territory,-12.4634,130.8456,28,0,25.0,0,0,0.0
+2020-04-29,australia,queensland,-28.0167,153.4,1033,6,943.0,-1,0,9.0
+2020-04-29,australia,south-australia,-34.9285,138.6007,438,4,420.0,0,0,0.0
+2020-04-29,australia,tasmania,-41.4545,145.9707,219,12,144.0,1,1,7.0
+2020-04-29,australia,victoria,-37.8136,144.9631,1361,18,1291.0,7,0,4.0
+2020-04-29,australia,western-australia,-31.9505,115.8605,551,8,507.0,1,0,12.0

@@ -97,3 +97,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-04-26,china,guangdong,23.3417,113.4244,1587,1,8,0,1542.0,0.0
 2020-04-27,china,guangdong,23.3417,113.4244,1587,0,8,0,1547.0,5.0
 2020-04-28,china,guangdong,23.3417,113.4244,1588,1,8,0,1554.0,7.0
+2020-04-29,china,guangdong,23.3417,113.4244,1588,0,8,0,1557.0,3.0

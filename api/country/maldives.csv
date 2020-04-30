@@ -97,3 +97,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-26,maldives,,3.2028,73.2207,214,0,17.0,37,0,0.0
 2020-04-27,maldives,,3.2028,73.2207,226,0,17.0,12,0,0.0
 2020-04-28,maldives,,3.2028,73.2207,250,0,17.0,24,0,0.0
+2020-04-29,maldives,,3.2028,73.2207,278,1,17.0,28,1,0.0
