@@ -97,6 +97,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,0.0,0.0,84080045.0,US,USA,840,80045.0,out-of-sc,"Out of SC, South Carolina, US",0,0,0,0
 2020-04-27,us,south-carolina,0.0,0.0,84080045.0,US,USA,840,80045.0,out-of-sc,"Out of SC, South Carolina, US",0,0,0,0
 2020-04-28,us,south-carolina,0.0,0.0,84080045.0,US,USA,840,80045.0,out-of-sc,"Out of SC, South Carolina, US",0,0,0,0
+2020-04-29,us,south-carolina,0.0,0.0,84080045.0,US,USA,840,80045.0,out-of-sc,"Out of SC, South Carolina, US",0,0,0,0
 2020-01-22,us,south-carolina,0.0,0.0,84090045.0,US,USA,840,90045.0,unassigned,"Unassigned, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,0.0,0.0,84090045.0,US,USA,840,90045.0,unassigned,"Unassigned, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,0.0,0.0,84090045.0,US,USA,840,90045.0,unassigned,"Unassigned, South Carolina, US",0,0,0,0
@@ -195,6 +196,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,0.0,0.0,84090045.0,US,USA,840,90045.0,unassigned,"Unassigned, South Carolina, US",0,0,0,0
 2020-04-27,us,south-carolina,0.0,0.0,84090045.0,US,USA,840,90045.0,unassigned,"Unassigned, South Carolina, US",0,0,0,0
 2020-04-28,us,south-carolina,0.0,0.0,84090045.0,US,USA,840,90045.0,unassigned,"Unassigned, South Carolina, US",0,0,0,0
+2020-04-29,us,south-carolina,0.0,0.0,84090045.0,US,USA,840,90045.0,unassigned,"Unassigned, South Carolina, US",0,0,0,0
 2020-01-22,us,south-carolina,32.39226291,-80.72619758,84045013.0,US,USA,840,45013.0,beaufort,"Beaufort, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,32.39226291,-80.72619758,84045013.0,US,USA,840,45013.0,beaufort,"Beaufort, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,32.39226291,-80.72619758,84045013.0,US,USA,840,45013.0,beaufort,"Beaufort, South Carolina, US",0,0,0,0
@@ -293,6 +295,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,32.39226291,-80.72619758,84045013.0,US,USA,840,45013.0,beaufort,"Beaufort, South Carolina, US",255,2,10,0
 2020-04-27,us,south-carolina,32.39226291,-80.72619758,84045013.0,US,USA,840,45013.0,beaufort,"Beaufort, South Carolina, US",254,-1,10,0
 2020-04-28,us,south-carolina,32.39226291,-80.72619758,84045013.0,US,USA,840,45013.0,beaufort,"Beaufort, South Carolina, US",259,5,10,0
+2020-04-29,us,south-carolina,32.39226291,-80.72619758,84045013.0,US,USA,840,45013.0,beaufort,"Beaufort, South Carolina, US",262,3,11,1
 2020-01-22,us,south-carolina,32.43171982,-81.02487495,84045053.0,US,USA,840,45053.0,jasper,"Jasper, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,32.43171982,-81.02487495,84045053.0,US,USA,840,45053.0,jasper,"Jasper, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,32.43171982,-81.02487495,84045053.0,US,USA,840,45053.0,jasper,"Jasper, South Carolina, US",0,0,0,0
@@ -391,6 +394,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,32.43171982,-81.02487495,84045053.0,US,USA,840,45053.0,jasper,"Jasper, South Carolina, US",19,2,1,0
 2020-04-27,us,south-carolina,32.43171982,-81.02487495,84045053.0,US,USA,840,45053.0,jasper,"Jasper, South Carolina, US",19,0,1,0
 2020-04-28,us,south-carolina,32.43171982,-81.02487495,84045053.0,US,USA,840,45053.0,jasper,"Jasper, South Carolina, US",19,0,1,0
+2020-04-29,us,south-carolina,32.43171982,-81.02487495,84045053.0,US,USA,840,45053.0,jasper,"Jasper, South Carolina, US",19,0,1,0
 2020-01-22,us,south-carolina,32.77419582,-81.13845571,84045049.0,US,USA,840,45049.0,hampton,"Hampton, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,32.77419582,-81.13845571,84045049.0,US,USA,840,45049.0,hampton,"Hampton, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,32.77419582,-81.13845571,84045049.0,US,USA,840,45049.0,hampton,"Hampton, South Carolina, US",0,0,0,0
@@ -489,6 +493,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,32.77419582,-81.13845571,84045049.0,US,USA,840,45049.0,hampton,"Hampton, South Carolina, US",21,0,0,0
 2020-04-27,us,south-carolina,32.77419582,-81.13845571,84045049.0,US,USA,840,45049.0,hampton,"Hampton, South Carolina, US",22,1,0,0
 2020-04-28,us,south-carolina,32.77419582,-81.13845571,84045049.0,US,USA,840,45049.0,hampton,"Hampton, South Carolina, US",22,0,0,0
+2020-04-29,us,south-carolina,32.77419582,-81.13845571,84045049.0,US,USA,840,45049.0,hampton,"Hampton, South Carolina, US",23,1,0,0
 2020-01-22,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",0,0,0,0
@@ -587,6 +592,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",436,12,6,0
 2020-04-27,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",435,-1,6,0
 2020-04-28,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",438,3,7,1
+2020-04-29,us,south-carolina,32.82487866,-79.96512315,84045019.0,US,USA,840,45019.0,charleston,"Charleston, South Carolina, US",441,3,7,0
 2020-01-22,us,south-carolina,32.87582989,-80.67641292,84045029.0,US,USA,840,45029.0,colleton,"Colleton, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,32.87582989,-80.67641292,84045029.0,US,USA,840,45029.0,colleton,"Colleton, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,32.87582989,-80.67641292,84045029.0,US,USA,840,45029.0,colleton,"Colleton, South Carolina, US",0,0,0,0
@@ -685,6 +691,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,32.87582989,-80.67641292,84045029.0,US,USA,840,45029.0,colleton,"Colleton, South Carolina, US",26,0,4,1
 2020-04-27,us,south-carolina,32.87582989,-80.67641292,84045029.0,US,USA,840,45029.0,colleton,"Colleton, South Carolina, US",26,0,4,0
 2020-04-28,us,south-carolina,32.87582989,-80.67641292,84045029.0,US,USA,840,45029.0,colleton,"Colleton, South Carolina, US",26,0,4,0
+2020-04-29,us,south-carolina,32.87582989,-80.67641292,84045029.0,US,USA,840,45029.0,colleton,"Colleton, South Carolina, US",26,0,4,0
 2020-01-22,us,south-carolina,32.98837386,-81.35321066,84045005.0,US,USA,840,45005.0,allendale,"Allendale, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,32.98837386,-81.35321066,84045005.0,US,USA,840,45005.0,allendale,"Allendale, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,32.98837386,-81.35321066,84045005.0,US,USA,840,45005.0,allendale,"Allendale, South Carolina, US",0,0,0,0
@@ -783,6 +790,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,32.98837386,-81.35321066,84045005.0,US,USA,840,45005.0,allendale,"Allendale, South Carolina, US",8,0,1,0
 2020-04-27,us,south-carolina,32.98837386,-81.35321066,84045005.0,US,USA,840,45005.0,allendale,"Allendale, South Carolina, US",8,0,1,0
 2020-04-28,us,south-carolina,32.98837386,-81.35321066,84045005.0,US,USA,840,45005.0,allendale,"Allendale, South Carolina, US",10,2,1,0
+2020-04-29,us,south-carolina,32.98837386,-81.35321066,84045005.0,US,USA,840,45005.0,allendale,"Allendale, South Carolina, US",10,0,1,0
 2020-01-22,us,south-carolina,33.0794369,-80.40502652,84045035.0,US,USA,840,45035.0,dorchester,"Dorchester, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.0794369,-80.40502652,84045035.0,US,USA,840,45035.0,dorchester,"Dorchester, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.0794369,-80.40502652,84045035.0,US,USA,840,45035.0,dorchester,"Dorchester, South Carolina, US",0,0,0,0
@@ -881,6 +889,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.0794369,-80.40502652,84045035.0,US,USA,840,45035.0,dorchester,"Dorchester, South Carolina, US",90,4,2,0
 2020-04-27,us,south-carolina,33.0794369,-80.40502652,84045035.0,US,USA,840,45035.0,dorchester,"Dorchester, South Carolina, US",92,2,2,0
 2020-04-28,us,south-carolina,33.0794369,-80.40502652,84045035.0,US,USA,840,45035.0,dorchester,"Dorchester, South Carolina, US",91,-1,2,0
+2020-04-29,us,south-carolina,33.0794369,-80.40502652,84045035.0,US,USA,840,45035.0,dorchester,"Dorchester, South Carolina, US",94,3,3,1
 2020-01-22,us,south-carolina,33.20222596,-79.94654523,84045015.0,US,USA,840,45015.0,berkeley,"Berkeley, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.20222596,-79.94654523,84045015.0,US,USA,840,45015.0,berkeley,"Berkeley, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.20222596,-79.94654523,84045015.0,US,USA,840,45015.0,berkeley,"Berkeley, South Carolina, US",0,0,0,0
@@ -979,6 +988,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.20222596,-79.94654523,84045015.0,US,USA,840,45015.0,berkeley,"Berkeley, South Carolina, US",181,0,8,0
 2020-04-27,us,south-carolina,33.20222596,-79.94654523,84045015.0,US,USA,840,45015.0,berkeley,"Berkeley, South Carolina, US",171,-10,8,0
 2020-04-28,us,south-carolina,33.20222596,-79.94654523,84045015.0,US,USA,840,45015.0,berkeley,"Berkeley, South Carolina, US",174,3,9,1
+2020-04-29,us,south-carolina,33.20222596,-79.94654523,84045015.0,US,USA,840,45015.0,berkeley,"Berkeley, South Carolina, US",174,0,10,1
 2020-01-22,us,south-carolina,33.21927586,-81.05659969,84045009.0,US,USA,840,45009.0,bamberg,"Bamberg, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.21927586,-81.05659969,84045009.0,US,USA,840,45009.0,bamberg,"Bamberg, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.21927586,-81.05659969,84045009.0,US,USA,840,45009.0,bamberg,"Bamberg, South Carolina, US",0,0,0,0
@@ -1077,6 +1087,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.21927586,-81.05659969,84045009.0,US,USA,840,45009.0,bamberg,"Bamberg, South Carolina, US",8,1,0,0
 2020-04-27,us,south-carolina,33.21927586,-81.05659969,84045009.0,US,USA,840,45009.0,bamberg,"Bamberg, South Carolina, US",8,0,0,0
 2020-04-28,us,south-carolina,33.21927586,-81.05659969,84045009.0,US,USA,840,45009.0,bamberg,"Bamberg, South Carolina, US",9,1,0,0
+2020-04-29,us,south-carolina,33.21927586,-81.05659969,84045009.0,US,USA,840,45009.0,bamberg,"Bamberg, South Carolina, US",9,0,0,0
 2020-01-22,us,south-carolina,33.26679302,-81.43584352,84045011.0,US,USA,840,45011.0,barnwell,"Barnwell, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.26679302,-81.43584352,84045011.0,US,USA,840,45011.0,barnwell,"Barnwell, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.26679302,-81.43584352,84045011.0,US,USA,840,45011.0,barnwell,"Barnwell, South Carolina, US",0,0,0,0
@@ -1175,6 +1186,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.26679302,-81.43584352,84045011.0,US,USA,840,45011.0,barnwell,"Barnwell, South Carolina, US",15,1,0,0
 2020-04-27,us,south-carolina,33.26679302,-81.43584352,84045011.0,US,USA,840,45011.0,barnwell,"Barnwell, South Carolina, US",15,0,0,0
 2020-04-28,us,south-carolina,33.26679302,-81.43584352,84045011.0,US,USA,840,45011.0,barnwell,"Barnwell, South Carolina, US",17,2,0,0
+2020-04-29,us,south-carolina,33.26679302,-81.43584352,84045011.0,US,USA,840,45011.0,barnwell,"Barnwell, South Carolina, US",17,0,0,0
 2020-01-22,us,south-carolina,33.43443342,-79.33202141,84045043.0,US,USA,840,45043.0,georgetown,"Georgetown, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.43443342,-79.33202141,84045043.0,US,USA,840,45043.0,georgetown,"Georgetown, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.43443342,-79.33202141,84045043.0,US,USA,840,45043.0,georgetown,"Georgetown, South Carolina, US",0,0,0,0
@@ -1273,6 +1285,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.43443342,-79.33202141,84045043.0,US,USA,840,45043.0,georgetown,"Georgetown, South Carolina, US",39,0,2,0
 2020-04-27,us,south-carolina,33.43443342,-79.33202141,84045043.0,US,USA,840,45043.0,georgetown,"Georgetown, South Carolina, US",39,0,2,0
 2020-04-28,us,south-carolina,33.43443342,-79.33202141,84045043.0,US,USA,840,45043.0,georgetown,"Georgetown, South Carolina, US",40,1,2,0
+2020-04-29,us,south-carolina,33.43443342,-79.33202141,84045043.0,US,USA,840,45043.0,georgetown,"Georgetown, South Carolina, US",40,0,3,1
 2020-01-22,us,south-carolina,33.4391073,-80.79886287,84045075.0,US,USA,840,45075.0,orangeburg,"Orangeburg, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.4391073,-80.79886287,84045075.0,US,USA,840,45075.0,orangeburg,"Orangeburg, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.4391073,-80.79886287,84045075.0,US,USA,840,45075.0,orangeburg,"Orangeburg, South Carolina, US",0,0,0,0
@@ -1371,6 +1384,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.4391073,-80.79886287,84045075.0,US,USA,840,45075.0,orangeburg,"Orangeburg, South Carolina, US",61,5,1,0
 2020-04-27,us,south-carolina,33.4391073,-80.79886287,84045075.0,US,USA,840,45075.0,orangeburg,"Orangeburg, South Carolina, US",60,-1,1,0
 2020-04-28,us,south-carolina,33.4391073,-80.79886287,84045075.0,US,USA,840,45075.0,orangeburg,"Orangeburg, South Carolina, US",63,3,1,0
+2020-04-29,us,south-carolina,33.4391073,-80.79886287,84045075.0,US,USA,840,45075.0,orangeburg,"Orangeburg, South Carolina, US",68,5,1,0
 2020-01-22,us,south-carolina,33.54338026,-81.63645384,84045003.0,US,USA,840,45003.0,aiken,"Aiken, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.54338026,-81.63645384,84045003.0,US,USA,840,45003.0,aiken,"Aiken, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.54338026,-81.63645384,84045003.0,US,USA,840,45003.0,aiken,"Aiken, South Carolina, US",0,0,0,0
@@ -1469,6 +1483,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.54338026,-81.63645384,84045003.0,US,USA,840,45003.0,aiken,"Aiken, South Carolina, US",89,0,6,0
 2020-04-27,us,south-carolina,33.54338026,-81.63645384,84045003.0,US,USA,840,45003.0,aiken,"Aiken, South Carolina, US",92,3,6,0
 2020-04-28,us,south-carolina,33.54338026,-81.63645384,84045003.0,US,USA,840,45003.0,aiken,"Aiken, South Carolina, US",94,2,6,0
+2020-04-29,us,south-carolina,33.54338026,-81.63645384,84045003.0,US,USA,840,45003.0,aiken,"Aiken, South Carolina, US",97,3,6,0
 2020-01-22,us,south-carolina,33.62190129,-79.72767442,84045089.0,US,USA,840,45089.0,williamsburg,"Williamsburg, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.62190129,-79.72767442,84045089.0,US,USA,840,45089.0,williamsburg,"Williamsburg, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.62190129,-79.72767442,84045089.0,US,USA,840,45089.0,williamsburg,"Williamsburg, South Carolina, US",0,0,0,0
@@ -1567,6 +1582,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.62190129,-79.72767442,84045089.0,US,USA,840,45089.0,williamsburg,"Williamsburg, South Carolina, US",56,11,0,0
 2020-04-27,us,south-carolina,33.62190129,-79.72767442,84045089.0,US,USA,840,45089.0,williamsburg,"Williamsburg, South Carolina, US",59,3,0,0
 2020-04-28,us,south-carolina,33.62190129,-79.72767442,84045089.0,US,USA,840,45089.0,williamsburg,"Williamsburg, South Carolina, US",60,1,0,0
+2020-04-29,us,south-carolina,33.62190129,-79.72767442,84045089.0,US,USA,840,45089.0,williamsburg,"Williamsburg, South Carolina, US",65,5,0,0
 2020-01-22,us,south-carolina,33.66610974,-80.21647898,84045027.0,US,USA,840,45027.0,clarendon,"Clarendon, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.66610974,-80.21647898,84045027.0,US,USA,840,45027.0,clarendon,"Clarendon, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.66610974,-80.21647898,84045027.0,US,USA,840,45027.0,clarendon,"Clarendon, South Carolina, US",0,0,0,0
@@ -1665,6 +1681,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.66610974,-80.21647898,84045027.0,US,USA,840,45027.0,clarendon,"Clarendon, South Carolina, US",181,9,11,2
 2020-04-27,us,south-carolina,33.66610974,-80.21647898,84045027.0,US,USA,840,45027.0,clarendon,"Clarendon, South Carolina, US",185,4,12,1
 2020-04-28,us,south-carolina,33.66610974,-80.21647898,84045027.0,US,USA,840,45027.0,clarendon,"Clarendon, South Carolina, US",194,9,14,2
+2020-04-29,us,south-carolina,33.66610974,-80.21647898,84045027.0,US,USA,840,45027.0,clarendon,"Clarendon, South Carolina, US",201,7,17,3
 2020-01-22,us,south-carolina,33.66926881,-80.77722168,84045017.0,US,USA,840,45017.0,calhoun,"Calhoun, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.66926881,-80.77722168,84045017.0,US,USA,840,45017.0,calhoun,"Calhoun, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.66926881,-80.77722168,84045017.0,US,USA,840,45017.0,calhoun,"Calhoun, South Carolina, US",0,0,0,0
@@ -1763,6 +1780,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.66926881,-80.77722168,84045017.0,US,USA,840,45017.0,calhoun,"Calhoun, South Carolina, US",6,0,1,0
 2020-04-27,us,south-carolina,33.66926881,-80.77722168,84045017.0,US,USA,840,45017.0,calhoun,"Calhoun, South Carolina, US",6,0,1,0
 2020-04-28,us,south-carolina,33.66926881,-80.77722168,84045017.0,US,USA,840,45017.0,calhoun,"Calhoun, South Carolina, US",6,0,1,0
+2020-04-29,us,south-carolina,33.66926881,-80.77722168,84045017.0,US,USA,840,45017.0,calhoun,"Calhoun, South Carolina, US",6,0,1,0
 2020-01-22,us,south-carolina,33.77221995,-81.96231108,84045037.0,US,USA,840,45037.0,edgefield,"Edgefield, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.77221995,-81.96231108,84045037.0,US,USA,840,45037.0,edgefield,"Edgefield, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.77221995,-81.96231108,84045037.0,US,USA,840,45037.0,edgefield,"Edgefield, South Carolina, US",0,0,0,0
@@ -1861,6 +1879,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.77221995,-81.96231108,84045037.0,US,USA,840,45037.0,edgefield,"Edgefield, South Carolina, US",24,1,1,0
 2020-04-27,us,south-carolina,33.77221995,-81.96231108,84045037.0,US,USA,840,45037.0,edgefield,"Edgefield, South Carolina, US",25,1,1,0
 2020-04-28,us,south-carolina,33.77221995,-81.96231108,84045037.0,US,USA,840,45037.0,edgefield,"Edgefield, South Carolina, US",26,1,1,0
+2020-04-29,us,south-carolina,33.77221995,-81.96231108,84045037.0,US,USA,840,45037.0,edgefield,"Edgefield, South Carolina, US",29,3,1,0
 2020-01-22,us,south-carolina,33.89665987,-81.27146426,84045063.0,US,USA,840,45063.0,lexington,"Lexington, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.89665987,-81.27146426,84045063.0,US,USA,840,45063.0,lexington,"Lexington, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.89665987,-81.27146426,84045063.0,US,USA,840,45063.0,lexington,"Lexington, South Carolina, US",0,0,0,0
@@ -1959,6 +1978,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.89665987,-81.27146426,84045063.0,US,USA,840,45063.0,lexington,"Lexington, South Carolina, US",329,12,12,0
 2020-04-27,us,south-carolina,33.89665987,-81.27146426,84045063.0,US,USA,840,45063.0,lexington,"Lexington, South Carolina, US",334,5,12,0
 2020-04-28,us,south-carolina,33.89665987,-81.27146426,84045063.0,US,USA,840,45063.0,lexington,"Lexington, South Carolina, US",347,13,12,0
+2020-04-29,us,south-carolina,33.89665987,-81.27146426,84045063.0,US,USA,840,45063.0,lexington,"Lexington, South Carolina, US",358,11,14,2
 2020-01-22,us,south-carolina,33.90161443,-82.30794338,84045065.0,US,USA,840,45065.0,mccormick,"McCormick, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.90161443,-82.30794338,84045065.0,US,USA,840,45065.0,mccormick,"McCormick, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.90161443,-82.30794338,84045065.0,US,USA,840,45065.0,mccormick,"McCormick, South Carolina, US",0,0,0,0
@@ -2057,6 +2077,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.90161443,-82.30794338,84045065.0,US,USA,840,45065.0,mccormick,"McCormick, South Carolina, US",6,0,1,0
 2020-04-27,us,south-carolina,33.90161443,-82.30794338,84045065.0,US,USA,840,45065.0,mccormick,"McCormick, South Carolina, US",6,0,1,0
 2020-04-28,us,south-carolina,33.90161443,-82.30794338,84045065.0,US,USA,840,45065.0,mccormick,"McCormick, South Carolina, US",6,0,1,0
+2020-04-29,us,south-carolina,33.90161443,-82.30794338,84045065.0,US,USA,840,45065.0,mccormick,"McCormick, South Carolina, US",6,0,1,0
 2020-01-22,us,south-carolina,33.91826534,-80.37942316,84045085.0,US,USA,840,45085.0,sumter,"Sumter, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.91826534,-80.37942316,84045085.0,US,USA,840,45085.0,sumter,"Sumter, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.91826534,-80.37942316,84045085.0,US,USA,840,45085.0,sumter,"Sumter, South Carolina, US",0,0,0,0
@@ -2155,6 +2176,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.91826534,-80.37942316,84045085.0,US,USA,840,45085.0,sumter,"Sumter, South Carolina, US",214,1,6,0
 2020-04-27,us,south-carolina,33.91826534,-80.37942316,84045085.0,US,USA,840,45085.0,sumter,"Sumter, South Carolina, US",215,1,6,0
 2020-04-28,us,south-carolina,33.91826534,-80.37942316,84045085.0,US,USA,840,45085.0,sumter,"Sumter, South Carolina, US",220,5,7,1
+2020-04-29,us,south-carolina,33.91826534,-80.37942316,84045085.0,US,USA,840,45085.0,sumter,"Sumter, South Carolina, US",223,3,11,4
 2020-01-22,us,south-carolina,33.9212828,-78.99555293,84045051.0,US,USA,840,45051.0,horry,"Horry, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,33.9212828,-78.99555293,84045051.0,US,USA,840,45051.0,horry,"Horry, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,33.9212828,-78.99555293,84045051.0,US,USA,840,45051.0,horry,"Horry, South Carolina, US",0,0,0,0
@@ -2253,6 +2275,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,33.9212828,-78.99555293,84045051.0,US,USA,840,45051.0,horry,"Horry, South Carolina, US",203,2,12,0
 2020-04-27,us,south-carolina,33.9212828,-78.99555293,84045051.0,US,USA,840,45051.0,horry,"Horry, South Carolina, US",209,6,12,0
 2020-04-28,us,south-carolina,33.9212828,-78.99555293,84045051.0,US,USA,840,45051.0,horry,"Horry, South Carolina, US",211,2,15,3
+2020-04-29,us,south-carolina,33.9212828,-78.99555293,84045051.0,US,USA,840,45051.0,horry,"Horry, South Carolina, US",211,0,15,0
 2020-01-22,us,south-carolina,34.00795823,-81.72713237,84045081.0,US,USA,840,45081.0,saluda,"Saluda, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.00795823,-81.72713237,84045081.0,US,USA,840,45081.0,saluda,"Saluda, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.00795823,-81.72713237,84045081.0,US,USA,840,45081.0,saluda,"Saluda, South Carolina, US",0,0,0,0
@@ -2351,6 +2374,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.00795823,-81.72713237,84045081.0,US,USA,840,45081.0,saluda,"Saluda, South Carolina, US",35,7,0,0
 2020-04-27,us,south-carolina,34.00795823,-81.72713237,84045081.0,US,USA,840,45081.0,saluda,"Saluda, South Carolina, US",40,5,0,0
 2020-04-28,us,south-carolina,34.00795823,-81.72713237,84045081.0,US,USA,840,45081.0,saluda,"Saluda, South Carolina, US",41,1,0,0
+2020-04-29,us,south-carolina,34.00795823,-81.72713237,84045081.0,US,USA,840,45081.0,saluda,"Saluda, South Carolina, US",41,0,0,0
 2020-01-22,us,south-carolina,34.01791263,-80.90267209,84045079.0,US,USA,840,45079.0,richland,"Richland, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.01791263,-80.90267209,84045079.0,US,USA,840,45079.0,richland,"Richland, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.01791263,-80.90267209,84045079.0,US,USA,840,45079.0,richland,"Richland, South Carolina, US",0,0,0,0
@@ -2449,6 +2473,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.01791263,-80.90267209,84045079.0,US,USA,840,45079.0,richland,"Richland, South Carolina, US",837,50,19,1
 2020-04-27,us,south-carolina,34.01791263,-80.90267209,84045079.0,US,USA,840,45079.0,richland,"Richland, South Carolina, US",840,3,19,0
 2020-04-28,us,south-carolina,34.01791263,-80.90267209,84045079.0,US,USA,840,45079.0,richland,"Richland, South Carolina, US",864,24,21,2
+2020-04-29,us,south-carolina,34.01791263,-80.90267209,84045079.0,US,USA,840,45079.0,richland,"Richland, South Carolina, US",884,20,30,9
 2020-01-22,us,south-carolina,34.02361754,-79.70189312,84045041.0,US,USA,840,45041.0,florence,"Florence, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.02361754,-79.70189312,84045041.0,US,USA,840,45041.0,florence,"Florence, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.02361754,-79.70189312,84045041.0,US,USA,840,45041.0,florence,"Florence, South Carolina, US",0,0,0,0
@@ -2547,6 +2572,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.02361754,-79.70189312,84045041.0,US,USA,840,45041.0,florence,"Florence, South Carolina, US",265,23,9,0
 2020-04-27,us,south-carolina,34.02361754,-79.70189312,84045041.0,US,USA,840,45041.0,florence,"Florence, South Carolina, US",268,3,10,1
 2020-04-28,us,south-carolina,34.02361754,-79.70189312,84045041.0,US,USA,840,45041.0,florence,"Florence, South Carolina, US",273,5,10,0
+2020-04-29,us,south-carolina,34.02361754,-79.70189312,84045041.0,US,USA,840,45041.0,florence,"Florence, South Carolina, US",288,15,13,3
 2020-01-22,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",0,0,0,0
@@ -2645,6 +2671,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",32,3,1,0
 2020-04-27,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",33,1,1,0
 2020-04-28,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",32,-1,1,0
+2020-04-29,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",32,0,2,1
 2020-01-22,us,south-carolina,34.15272415,-82.12715789,84045047.0,US,USA,840,45047.0,greenwood,"Greenwood, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.15272415,-82.12715789,84045047.0,US,USA,840,45047.0,greenwood,"Greenwood, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.15272415,-82.12715789,84045047.0,US,USA,840,45047.0,greenwood,"Greenwood, South Carolina, US",0,0,0,0
@@ -2743,6 +2770,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.15272415,-82.12715789,84045047.0,US,USA,840,45047.0,greenwood,"Greenwood, South Carolina, US",44,1,0,0
 2020-04-27,us,south-carolina,34.15272415,-82.12715789,84045047.0,US,USA,840,45047.0,greenwood,"Greenwood, South Carolina, US",45,1,0,0
 2020-04-28,us,south-carolina,34.15272415,-82.12715789,84045047.0,US,USA,840,45047.0,greenwood,"Greenwood, South Carolina, US",46,1,0,0
+2020-04-29,us,south-carolina,34.15272415,-82.12715789,84045047.0,US,USA,840,45047.0,greenwood,"Greenwood, South Carolina, US",46,0,0,0
 2020-01-22,us,south-carolina,34.16393091,-80.25690731,84045061.0,US,USA,840,45061.0,lee,"Lee, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.16393091,-80.25690731,84045061.0,US,USA,840,45061.0,lee,"Lee, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.16393091,-80.25690731,84045061.0,US,USA,840,45061.0,lee,"Lee, South Carolina, US",0,0,0,0
@@ -2841,6 +2869,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.16393091,-80.25690731,84045061.0,US,USA,840,45061.0,lee,"Lee, South Carolina, US",51,0,6,0
 2020-04-27,us,south-carolina,34.16393091,-80.25690731,84045061.0,US,USA,840,45061.0,lee,"Lee, South Carolina, US",55,4,6,0
 2020-04-28,us,south-carolina,34.16393091,-80.25690731,84045061.0,US,USA,840,45061.0,lee,"Lee, South Carolina, US",58,3,7,1
+2020-04-29,us,south-carolina,34.16393091,-80.25690731,84045061.0,US,USA,840,45061.0,lee,"Lee, South Carolina, US",58,0,7,0
 2020-01-22,us,south-carolina,34.22333378,-82.46170658,84045001.0,US,USA,840,45001.0,abbeville,"Abbeville, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.22333378,-82.46170658,84045001.0,US,USA,840,45001.0,abbeville,"Abbeville, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.22333378,-82.46170658,84045001.0,US,USA,840,45001.0,abbeville,"Abbeville, South Carolina, US",0,0,0,0
@@ -2939,6 +2968,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.22333378,-82.46170658,84045001.0,US,USA,840,45001.0,abbeville,"Abbeville, South Carolina, US",27,3,0,0
 2020-04-27,us,south-carolina,34.22333378,-82.46170658,84045001.0,US,USA,840,45001.0,abbeville,"Abbeville, South Carolina, US",29,2,0,0
 2020-04-28,us,south-carolina,34.22333378,-82.46170658,84045001.0,US,USA,840,45001.0,abbeville,"Abbeville, South Carolina, US",29,0,0,0
+2020-04-29,us,south-carolina,34.22333378,-82.46170658,84045001.0,US,USA,840,45001.0,abbeville,"Abbeville, South Carolina, US",29,0,0,0
 2020-01-22,us,south-carolina,34.28629098,-81.59935761,84045071.0,US,USA,840,45071.0,newberry,"Newberry, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.28629098,-81.59935761,84045071.0,US,USA,840,45071.0,newberry,"Newberry, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.28629098,-81.59935761,84045071.0,US,USA,840,45071.0,newberry,"Newberry, South Carolina, US",0,0,0,0
@@ -3037,6 +3067,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.28629098,-81.59935761,84045071.0,US,USA,840,45071.0,newberry,"Newberry, South Carolina, US",23,1,1,0
 2020-04-27,us,south-carolina,34.28629098,-81.59935761,84045071.0,US,USA,840,45071.0,newberry,"Newberry, South Carolina, US",23,0,1,0
 2020-04-28,us,south-carolina,34.28629098,-81.59935761,84045071.0,US,USA,840,45071.0,newberry,"Newberry, South Carolina, US",23,0,1,0
+2020-04-29,us,south-carolina,34.28629098,-81.59935761,84045071.0,US,USA,840,45071.0,newberry,"Newberry, South Carolina, US",24,1,1,0
 2020-01-22,us,south-carolina,34.33358335,-79.96027485,84045031.0,US,USA,840,45031.0,darlington,"Darlington, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.33358335,-79.96027485,84045031.0,US,USA,840,45031.0,darlington,"Darlington, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.33358335,-79.96027485,84045031.0,US,USA,840,45031.0,darlington,"Darlington, South Carolina, US",0,0,0,0
@@ -3135,6 +3166,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.33358335,-79.96027485,84045031.0,US,USA,840,45031.0,darlington,"Darlington, South Carolina, US",104,1,1,1
 2020-04-27,us,south-carolina,34.33358335,-79.96027485,84045031.0,US,USA,840,45031.0,darlington,"Darlington, South Carolina, US",107,3,1,0
 2020-04-28,us,south-carolina,34.33358335,-79.96027485,84045031.0,US,USA,840,45031.0,darlington,"Darlington, South Carolina, US",110,3,2,1
+2020-04-29,us,south-carolina,34.33358335,-79.96027485,84045031.0,US,USA,840,45031.0,darlington,"Darlington, South Carolina, US",114,4,2,0
 2020-01-22,us,south-carolina,34.33988254,-80.58763164,84045055.0,US,USA,840,45055.0,kershaw,"Kershaw, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.33988254,-80.58763164,84045055.0,US,USA,840,45055.0,kershaw,"Kershaw, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.33988254,-80.58763164,84045055.0,US,USA,840,45055.0,kershaw,"Kershaw, South Carolina, US",0,0,0,0
@@ -3233,6 +3265,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.33988254,-80.58763164,84045055.0,US,USA,840,45055.0,kershaw,"Kershaw, South Carolina, US",218,3,10,0
 2020-04-27,us,south-carolina,34.33988254,-80.58763164,84045055.0,US,USA,840,45055.0,kershaw,"Kershaw, South Carolina, US",223,5,10,0
 2020-04-28,us,south-carolina,34.33988254,-80.58763164,84045055.0,US,USA,840,45055.0,kershaw,"Kershaw, South Carolina, US",229,6,10,0
+2020-04-29,us,south-carolina,34.33988254,-80.58763164,84045055.0,US,USA,840,45055.0,kershaw,"Kershaw, South Carolina, US",234,5,10,0
 2020-01-22,us,south-carolina,34.39007791,-79.37741872,84045033.0,US,USA,840,45033.0,dillon,"Dillon, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.39007791,-79.37741872,84045033.0,US,USA,840,45033.0,dillon,"Dillon, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.39007791,-79.37741872,84045033.0,US,USA,840,45033.0,dillon,"Dillon, South Carolina, US",0,0,0,0
@@ -3331,6 +3364,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.39007791,-79.37741872,84045033.0,US,USA,840,45033.0,dillon,"Dillon, South Carolina, US",41,6,0,0
 2020-04-27,us,south-carolina,34.39007791,-79.37741872,84045033.0,US,USA,840,45033.0,dillon,"Dillon, South Carolina, US",44,3,0,0
 2020-04-28,us,south-carolina,34.39007791,-79.37741872,84045033.0,US,USA,840,45033.0,dillon,"Dillon, South Carolina, US",44,0,0,0
+2020-04-29,us,south-carolina,34.39007791,-79.37741872,84045033.0,US,USA,840,45033.0,dillon,"Dillon, South Carolina, US",47,3,0,0
 2020-01-22,us,south-carolina,34.39287073,-81.1195624,84045039.0,US,USA,840,45039.0,fairfield,"Fairfield, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.39287073,-81.1195624,84045039.0,US,USA,840,45039.0,fairfield,"Fairfield, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.39287073,-81.1195624,84045039.0,US,USA,840,45039.0,fairfield,"Fairfield, South Carolina, US",0,0,0,0
@@ -3429,6 +3463,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.39287073,-81.1195624,84045039.0,US,USA,840,45039.0,fairfield,"Fairfield, South Carolina, US",33,4,2,0
 2020-04-27,us,south-carolina,34.39287073,-81.1195624,84045039.0,US,USA,840,45039.0,fairfield,"Fairfield, South Carolina, US",33,0,2,0
 2020-04-28,us,south-carolina,34.39287073,-81.1195624,84045039.0,US,USA,840,45039.0,fairfield,"Fairfield, South Carolina, US",33,0,2,0
+2020-04-29,us,south-carolina,34.39287073,-81.1195624,84045039.0,US,USA,840,45039.0,fairfield,"Fairfield, South Carolina, US",34,1,2,0
 2020-01-22,us,south-carolina,34.48244419,-82.00490796,84045059.0,US,USA,840,45059.0,laurens,"Laurens, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.48244419,-82.00490796,84045059.0,US,USA,840,45059.0,laurens,"Laurens, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.48244419,-82.00490796,84045059.0,US,USA,840,45059.0,laurens,"Laurens, South Carolina, US",0,0,0,0
@@ -3527,6 +3562,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.48244419,-82.00490796,84045059.0,US,USA,840,45059.0,laurens,"Laurens, South Carolina, US",29,7,1,0
 2020-04-27,us,south-carolina,34.48244419,-82.00490796,84045059.0,US,USA,840,45059.0,laurens,"Laurens, South Carolina, US",35,6,1,0
 2020-04-28,us,south-carolina,34.48244419,-82.00490796,84045059.0,US,USA,840,45059.0,laurens,"Laurens, South Carolina, US",38,3,1,0
+2020-04-29,us,south-carolina,34.48244419,-82.00490796,84045059.0,US,USA,840,45059.0,laurens,"Laurens, South Carolina, US",38,0,1,0
 2020-01-22,us,south-carolina,34.51828081,-82.63959517,84045007.0,US,USA,840,45007.0,anderson,"Anderson, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.51828081,-82.63959517,84045007.0,US,USA,840,45007.0,anderson,"Anderson, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.51828081,-82.63959517,84045007.0,US,USA,840,45007.0,anderson,"Anderson, South Carolina, US",0,0,0,0
@@ -3625,6 +3661,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.51828081,-82.63959517,84045007.0,US,USA,840,45007.0,anderson,"Anderson, South Carolina, US",145,7,6,0
 2020-04-27,us,south-carolina,34.51828081,-82.63959517,84045007.0,US,USA,840,45007.0,anderson,"Anderson, South Carolina, US",149,4,6,0
 2020-04-28,us,south-carolina,34.51828081,-82.63959517,84045007.0,US,USA,840,45007.0,anderson,"Anderson, South Carolina, US",152,3,6,0
+2020-04-29,us,south-carolina,34.51828081,-82.63959517,84045007.0,US,USA,840,45007.0,anderson,"Anderson, South Carolina, US",157,5,6,0
 2020-01-22,us,south-carolina,34.59905577,-79.67561152,84045069.0,US,USA,840,45069.0,marlboro,"Marlboro, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.59905577,-79.67561152,84045069.0,US,USA,840,45069.0,marlboro,"Marlboro, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.59905577,-79.67561152,84045069.0,US,USA,840,45069.0,marlboro,"Marlboro, South Carolina, US",0,0,0,0
@@ -3723,6 +3760,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.59905577,-79.67561152,84045069.0,US,USA,840,45069.0,marlboro,"Marlboro, South Carolina, US",40,2,0,0
 2020-04-27,us,south-carolina,34.59905577,-79.67561152,84045069.0,US,USA,840,45069.0,marlboro,"Marlboro, South Carolina, US",41,1,0,0
 2020-04-28,us,south-carolina,34.59905577,-79.67561152,84045069.0,US,USA,840,45069.0,marlboro,"Marlboro, South Carolina, US",42,1,0,0
+2020-04-29,us,south-carolina,34.59905577,-79.67561152,84045069.0,US,USA,840,45069.0,marlboro,"Marlboro, South Carolina, US",43,1,0,0
 2020-01-22,us,south-carolina,34.64137396,-80.15640140000002,84045025.0,US,USA,840,45025.0,chesterfield,"Chesterfield, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.64137396,-80.15640140000002,84045025.0,US,USA,840,45025.0,chesterfield,"Chesterfield, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.64137396,-80.15640140000002,84045025.0,US,USA,840,45025.0,chesterfield,"Chesterfield, South Carolina, US",0,0,0,0
@@ -3821,6 +3859,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.64137396,-80.15640140000002,84045025.0,US,USA,840,45025.0,chesterfield,"Chesterfield, South Carolina, US",44,0,0,0
 2020-04-27,us,south-carolina,34.64137396,-80.15640140000002,84045025.0,US,USA,840,45025.0,chesterfield,"Chesterfield, South Carolina, US",46,2,0,0
 2020-04-28,us,south-carolina,34.64137396,-80.15640140000002,84045025.0,US,USA,840,45025.0,chesterfield,"Chesterfield, South Carolina, US",47,1,0,0
+2020-04-29,us,south-carolina,34.64137396,-80.15640140000002,84045025.0,US,USA,840,45025.0,chesterfield,"Chesterfield, South Carolina, US",48,1,0,0
 2020-01-22,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",0,0,0,0
@@ -3919,6 +3958,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",87,2,3,0
 2020-04-27,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",88,1,3,0
 2020-04-28,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",90,2,4,1
+2020-04-29,us,south-carolina,34.68270843,-80.70513032,84045057.0,US,USA,840,45057.0,lancaster,"Lancaster, South Carolina, US",93,3,4,0
 2020-01-22,us,south-carolina,34.68835752,-81.61730349,84045087.0,US,USA,840,45087.0,union,"Union, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.68835752,-81.61730349,84045087.0,US,USA,840,45087.0,union,"Union, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.68835752,-81.61730349,84045087.0,US,USA,840,45087.0,union,"Union, South Carolina, US",0,0,0,0
@@ -4017,6 +4057,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.68835752,-81.61730349,84045087.0,US,USA,840,45087.0,union,"Union, South Carolina, US",25,0,0,0
 2020-04-27,us,south-carolina,34.68835752,-81.61730349,84045087.0,US,USA,840,45087.0,union,"Union, South Carolina, US",25,0,0,0
 2020-04-28,us,south-carolina,34.68835752,-81.61730349,84045087.0,US,USA,840,45087.0,union,"Union, South Carolina, US",25,0,0,0
+2020-04-29,us,south-carolina,34.68835752,-81.61730349,84045087.0,US,USA,840,45087.0,union,"Union, South Carolina, US",25,0,0,0
 2020-01-22,us,south-carolina,34.69249168,-81.1583216,84045023.0,US,USA,840,45023.0,chester,"Chester, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.69249168,-81.1583216,84045023.0,US,USA,840,45023.0,chester,"Chester, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.69249168,-81.1583216,84045023.0,US,USA,840,45023.0,chester,"Chester, South Carolina, US",0,0,0,0
@@ -4115,6 +4156,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.69249168,-81.1583216,84045023.0,US,USA,840,45023.0,chester,"Chester, South Carolina, US",27,0,0,0
 2020-04-27,us,south-carolina,34.69249168,-81.1583216,84045023.0,US,USA,840,45023.0,chester,"Chester, South Carolina, US",27,0,0,0
 2020-04-28,us,south-carolina,34.69249168,-81.1583216,84045023.0,US,USA,840,45023.0,chester,"Chester, South Carolina, US",27,0,0,0
+2020-04-29,us,south-carolina,34.69249168,-81.1583216,84045023.0,US,USA,840,45023.0,chester,"Chester, South Carolina, US",27,0,0,0
 2020-01-22,us,south-carolina,34.75225169,-83.06742317,84045073.0,US,USA,840,45073.0,oconee,"Oconee, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.75225169,-83.06742317,84045073.0,US,USA,840,45073.0,oconee,"Oconee, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.75225169,-83.06742317,84045073.0,US,USA,840,45073.0,oconee,"Oconee, South Carolina, US",0,0,0,0
@@ -4213,6 +4255,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.75225169,-83.06742317,84045073.0,US,USA,840,45073.0,oconee,"Oconee, South Carolina, US",22,2,0,0
 2020-04-27,us,south-carolina,34.75225169,-83.06742317,84045073.0,US,USA,840,45073.0,oconee,"Oconee, South Carolina, US",24,2,0,0
 2020-04-28,us,south-carolina,34.75225169,-83.06742317,84045073.0,US,USA,840,45073.0,oconee,"Oconee, South Carolina, US",24,0,0,0
+2020-04-29,us,south-carolina,34.75225169,-83.06742317,84045073.0,US,USA,840,45073.0,oconee,"Oconee, South Carolina, US",24,0,0,0
 2020-01-22,us,south-carolina,34.88807695,-82.72791551,84045077.0,US,USA,840,45077.0,pickens,"Pickens, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.88807695,-82.72791551,84045077.0,US,USA,840,45077.0,pickens,"Pickens, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.88807695,-82.72791551,84045077.0,US,USA,840,45077.0,pickens,"Pickens, South Carolina, US",0,0,0,0
@@ -4311,6 +4354,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.88807695,-82.72791551,84045077.0,US,USA,840,45077.0,pickens,"Pickens, South Carolina, US",49,5,0,0
 2020-04-27,us,south-carolina,34.88807695,-82.72791551,84045077.0,US,USA,840,45077.0,pickens,"Pickens, South Carolina, US",53,4,0,0
 2020-04-28,us,south-carolina,34.88807695,-82.72791551,84045077.0,US,USA,840,45077.0,pickens,"Pickens, South Carolina, US",54,1,0,0
+2020-04-29,us,south-carolina,34.88807695,-82.72791551,84045077.0,US,USA,840,45077.0,pickens,"Pickens, South Carolina, US",54,0,0,0
 2020-01-22,us,south-carolina,34.89502264,-82.37295012,84045045.0,US,USA,840,45045.0,greenville,"Greenville, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.89502264,-82.37295012,84045045.0,US,USA,840,45045.0,greenville,"Greenville, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.89502264,-82.37295012,84045045.0,US,USA,840,45045.0,greenville,"Greenville, South Carolina, US",0,0,0,0
@@ -4409,6 +4453,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.89502264,-82.37295012,84045045.0,US,USA,840,45045.0,greenville,"Greenville, South Carolina, US",609,45,19,3
 2020-04-27,us,south-carolina,34.89502264,-82.37295012,84045045.0,US,USA,840,45045.0,greenville,"Greenville, South Carolina, US",649,40,20,1
 2020-04-28,us,south-carolina,34.89502264,-82.37295012,84045045.0,US,USA,840,45045.0,greenville,"Greenville, South Carolina, US",661,12,22,2
+2020-04-29,us,south-carolina,34.89502264,-82.37295012,84045045.0,US,USA,840,45045.0,greenville,"Greenville, South Carolina, US",689,28,34,12
 2020-01-22,us,south-carolina,34.92960077,-81.99225984,84045083.0,US,USA,840,45083.0,spartanburg,"Spartanburg, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.92960077,-81.99225984,84045083.0,US,USA,840,45083.0,spartanburg,"Spartanburg, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.92960077,-81.99225984,84045083.0,US,USA,840,45083.0,spartanburg,"Spartanburg, South Carolina, US",0,0,0,0
@@ -4507,6 +4552,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.92960077,-81.99225984,84045083.0,US,USA,840,45083.0,spartanburg,"Spartanburg, South Carolina, US",249,6,8,0
 2020-04-27,us,south-carolina,34.92960077,-81.99225984,84045083.0,US,USA,840,45083.0,spartanburg,"Spartanburg, South Carolina, US",255,6,8,0
 2020-04-28,us,south-carolina,34.92960077,-81.99225984,84045083.0,US,USA,840,45083.0,spartanburg,"Spartanburg, South Carolina, US",258,3,8,0
+2020-04-29,us,south-carolina,34.92960077,-81.99225984,84045083.0,US,USA,840,45083.0,spartanburg,"Spartanburg, South Carolina, US",262,4,9,1
 2020-01-22,us,south-carolina,34.97281497,-81.18085944,84045091.0,US,USA,840,45091.0,york,"York, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,34.97281497,-81.18085944,84045091.0,US,USA,840,45091.0,york,"York, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,34.97281497,-81.18085944,84045091.0,US,USA,840,45091.0,york,"York, South Carolina, US",0,0,0,0
@@ -4605,6 +4651,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.97281497,-81.18085944,84045091.0,US,USA,840,45091.0,york,"York, South Carolina, US",181,4,3,0
 2020-04-27,us,south-carolina,34.97281497,-81.18085944,84045091.0,US,USA,840,45091.0,york,"York, South Carolina, US",186,5,3,0
 2020-04-28,us,south-carolina,34.97281497,-81.18085944,84045091.0,US,USA,840,45091.0,york,"York, South Carolina, US",188,2,3,0
+2020-04-29,us,south-carolina,34.97281497,-81.18085944,84045091.0,US,USA,840,45091.0,york,"York, South Carolina, US",197,9,3,0
 2020-01-22,us,south-carolina,35.05122251,-81.61828622,84045021.0,US,USA,840,45021.0,cherokee,"Cherokee, South Carolina, US",0,0,0,0
 2020-01-23,us,south-carolina,35.05122251,-81.61828622,84045021.0,US,USA,840,45021.0,cherokee,"Cherokee, South Carolina, US",0,0,0,0
 2020-01-24,us,south-carolina,35.05122251,-81.61828622,84045021.0,US,USA,840,45021.0,cherokee,"Cherokee, South Carolina, US",0,0,0,0
@@ -4703,3 +4750,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,35.05122251,-81.61828622,84045021.0,US,USA,840,45021.0,cherokee,"Cherokee, South Carolina, US",14,0,0,0
 2020-04-27,us,south-carolina,35.05122251,-81.61828622,84045021.0,US,USA,840,45021.0,cherokee,"Cherokee, South Carolina, US",15,1,0,0
 2020-04-28,us,south-carolina,35.05122251,-81.61828622,84045021.0,US,USA,840,45021.0,cherokee,"Cherokee, South Carolina, US",15,0,0,0
+2020-04-29,us,south-carolina,35.05122251,-81.61828622,84045021.0,US,USA,840,45021.0,cherokee,"Cherokee, South Carolina, US",15,0,0,0

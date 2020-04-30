@@ -97,3 +97,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",171,2,12,0
 2020-04-27,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",173,2,12,0
 2020-04-28,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",177,4,13,1
+2020-04-29,us,florida,28.70181754,-82.0794267,84012119.0,US,USA,840,12119.0,sumter,"Sumter, Florida, US",176,-1,13,0

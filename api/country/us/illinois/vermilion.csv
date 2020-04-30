@@ -97,3 +97,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,illinois,40.18417171,-87.73384359,84017183.0,US,USA,840,17183.0,vermilion,"Vermilion, Illinois, US",11,0,0,0
 2020-04-27,us,illinois,40.18417171,-87.73384359,84017183.0,US,USA,840,17183.0,vermilion,"Vermilion, Illinois, US",14,3,0,0
 2020-04-28,us,illinois,40.18417171,-87.73384359,84017183.0,US,USA,840,17183.0,vermilion,"Vermilion, Illinois, US",16,2,0,0
+2020-04-29,us,illinois,40.18417171,-87.73384359,84017183.0,US,USA,840,17183.0,vermilion,"Vermilion, Illinois, US",16,0,1,1

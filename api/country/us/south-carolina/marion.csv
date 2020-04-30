@@ -97,3 +97,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",32,3,1,0
 2020-04-27,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",33,1,1,0
 2020-04-28,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",32,-1,1,0
+2020-04-29,us,south-carolina,34.07859748,-79.36400756,84045067.0,US,USA,840,45067.0,marion,"Marion, South Carolina, US",32,0,2,1

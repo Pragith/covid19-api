@@ -97,3 +97,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-26,us,kansas,39.34948772,-97.16518128,84020027.0,US,USA,840,20027.0,clay,"Clay, Kansas, US",4,0,0,0
 2020-04-27,us,kansas,39.34948772,-97.16518128,84020027.0,US,USA,840,20027.0,clay,"Clay, Kansas, US",4,0,1,1
 2020-04-28,us,kansas,39.34948772,-97.16518128,84020027.0,US,USA,840,20027.0,clay,"Clay, Kansas, US",5,1,1,0
+2020-04-29,us,kansas,39.34948772,-97.16518128,84020027.0,US,USA,840,20027.0,clay,"Clay, Kansas, US",4,-1,1,0
