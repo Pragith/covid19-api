@@ -98,6 +98,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,0.0,0.0,84070004.0,US,USA,840,,michigan-department-of-corrections-mdoc,"Michigan Department of Corrections (MDOC), Michigan, US",1048,17,37,5
 2020-04-28,us,michigan,0.0,0.0,84070004.0,US,USA,840,,michigan-department-of-corrections-mdoc,"Michigan Department of Corrections (MDOC), Michigan, US",1074,26,38,1
 2020-04-29,us,michigan,0.0,0.0,84070004.0,US,USA,840,,michigan-department-of-corrections-mdoc,"Michigan Department of Corrections (MDOC), Michigan, US",1264,190,41,3
+2020-04-30,us,michigan,0.0,0.0,84070004.0,US,USA,840,,michigan-department-of-corrections-mdoc,"Michigan Department of Corrections (MDOC), Michigan, US",1453,189,42,1
 2020-01-22,us,michigan,0.0,0.0,84070005.0,US,USA,840,,federal-correctional-institution-fci,"Federal Correctional Institution (FCI), Michigan, US",0,0,0,0
 2020-01-23,us,michigan,0.0,0.0,84070005.0,US,USA,840,,federal-correctional-institution-fci,"Federal Correctional Institution (FCI), Michigan, US",0,0,0,0
 2020-01-24,us,michigan,0.0,0.0,84070005.0,US,USA,840,,federal-correctional-institution-fci,"Federal Correctional Institution (FCI), Michigan, US",0,0,0,0
@@ -197,6 +198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,0.0,0.0,84070005.0,US,USA,840,,federal-correctional-institution-fci,"Federal Correctional Institution (FCI), Michigan, US",81,0,1,0
 2020-04-28,us,michigan,0.0,0.0,84070005.0,US,USA,840,,federal-correctional-institution-fci,"Federal Correctional Institution (FCI), Michigan, US",82,1,1,0
 2020-04-29,us,michigan,0.0,0.0,84070005.0,US,USA,840,,federal-correctional-institution-fci,"Federal Correctional Institution (FCI), Michigan, US",86,4,1,0
+2020-04-30,us,michigan,0.0,0.0,84070005.0,US,USA,840,,federal-correctional-institution-fci,"Federal Correctional Institution (FCI), Michigan, US",88,2,2,1
 2020-01-22,us,michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,out-of-mi,"Out of MI, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,out-of-mi,"Out of MI, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,out-of-mi,"Out of MI, Michigan, US",0,0,0,0
@@ -296,6 +298,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,out-of-mi,"Out of MI, Michigan, US",20,-7,1,0
 2020-04-28,us,michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,out-of-mi,"Out of MI, Michigan, US",28,8,1,0
 2020-04-29,us,michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,out-of-mi,"Out of MI, Michigan, US",39,11,0,-1
+2020-04-30,us,michigan,0.0,0.0,84080026.0,US,USA,840,80026.0,out-of-mi,"Out of MI, Michigan, US",32,-7,1,1
 2020-01-22,us,michigan,0.0,0.0,84090026.0,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,0.0,0.0,84090026.0,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,0.0,0.0,84090026.0,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",0,0,0,0
@@ -395,6 +398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,0.0,0.0,84090026.0,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",5,2,1,0
 2020-04-28,us,michigan,0.0,0.0,84090026.0,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",11,6,2,1
 2020-04-29,us,michigan,0.0,0.0,84090026.0,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",0,-11,0,-2
+2020-04-30,us,michigan,0.0,0.0,84090026.0,US,USA,840,90026.0,unassigned,"Unassigned, Michigan, US",1,1,0,0
 2020-01-22,us,michigan,41.88753639,-84.59312019,84026059.0,US,USA,840,26059.0,hillsdale,"Hillsdale, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,41.88753639,-84.59312019,84026059.0,US,USA,840,26059.0,hillsdale,"Hillsdale, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,41.88753639,-84.59312019,84026059.0,US,USA,840,26059.0,hillsdale,"Hillsdale, Michigan, US",0,0,0,0
@@ -494,6 +498,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,41.88753639,-84.59312019,84026059.0,US,USA,840,26059.0,hillsdale,"Hillsdale, Michigan, US",114,1,16,2
 2020-04-28,us,michigan,41.88753639,-84.59312019,84026059.0,US,USA,840,26059.0,hillsdale,"Hillsdale, Michigan, US",118,4,16,0
 2020-04-29,us,michigan,41.88753639,-84.59312019,84026059.0,US,USA,840,26059.0,hillsdale,"Hillsdale, Michigan, US",121,3,17,1
+2020-04-30,us,michigan,41.88753639,-84.59312019,84026059.0,US,USA,840,26059.0,hillsdale,"Hillsdale, Michigan, US",125,4,17,0
 2020-01-22,us,michigan,41.89475156,-84.06603727,84026091.0,US,USA,840,26091.0,lenawee,"Lenawee, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,41.89475156,-84.06603727,84026091.0,US,USA,840,26091.0,lenawee,"Lenawee, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,41.89475156,-84.06603727,84026091.0,US,USA,840,26091.0,lenawee,"Lenawee, Michigan, US",0,0,0,0
@@ -593,6 +598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,41.89475156,-84.06603727,84026091.0,US,USA,840,26091.0,lenawee,"Lenawee, Michigan, US",84,2,1,1
 2020-04-28,us,michigan,41.89475156,-84.06603727,84026091.0,US,USA,840,26091.0,lenawee,"Lenawee, Michigan, US",88,4,1,0
 2020-04-29,us,michigan,41.89475156,-84.06603727,84026091.0,US,USA,840,26091.0,lenawee,"Lenawee, Michigan, US",92,4,1,0
+2020-04-30,us,michigan,41.89475156,-84.06603727,84026091.0,US,USA,840,26091.0,lenawee,"Lenawee, Michigan, US",93,1,2,1
 2020-01-22,us,michigan,41.91441767,-85.52797979,84026149.0,US,USA,840,26149.0,st-joseph,"St. Joseph, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,41.91441767,-85.52797979,84026149.0,US,USA,840,26149.0,st-joseph,"St. Joseph, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,41.91441767,-85.52797979,84026149.0,US,USA,840,26149.0,st-joseph,"St. Joseph, Michigan, US",0,0,0,0
@@ -692,6 +698,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,41.91441767,-85.52797979,84026149.0,US,USA,840,26149.0,st-joseph,"St. Joseph, Michigan, US",29,1,1,0
 2020-04-28,us,michigan,41.91441767,-85.52797979,84026149.0,US,USA,840,26149.0,st-joseph,"St. Joseph, Michigan, US",30,1,1,0
 2020-04-29,us,michigan,41.91441767,-85.52797979,84026149.0,US,USA,840,26149.0,st-joseph,"St. Joseph, Michigan, US",30,0,1,0
+2020-04-30,us,michigan,41.91441767,-85.52797979,84026149.0,US,USA,840,26149.0,st-joseph,"St. Joseph, Michigan, US",32,2,1,0
 2020-01-22,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",0,0,0,0
@@ -791,6 +798,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",27,1,2,0
 2020-04-28,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",27,0,2,0
 2020-04-29,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",29,2,2,0
+2020-04-30,us,michigan,41.91522292,-85.99405727,84026027.0,US,USA,840,26027.0,cass,"Cass, Michigan, US",31,2,2,0
 2020-01-22,us,michigan,41.91600556,-85.05929476,84026023.0,US,USA,840,26023.0,branch,"Branch, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,41.91600556,-85.05929476,84026023.0,US,USA,840,26023.0,branch,"Branch, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,41.91600556,-85.05929476,84026023.0,US,USA,840,26023.0,branch,"Branch, Michigan, US",0,0,0,0
@@ -890,6 +898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,41.91600556,-85.05929476,84026023.0,US,USA,840,26023.0,branch,"Branch, Michigan, US",50,2,2,0
 2020-04-28,us,michigan,41.91600556,-85.05929476,84026023.0,US,USA,840,26023.0,branch,"Branch, Michigan, US",53,3,2,0
 2020-04-29,us,michigan,41.91600556,-85.05929476,84026023.0,US,USA,840,26023.0,branch,"Branch, Michigan, US",56,3,2,0
+2020-04-30,us,michigan,41.91600556,-85.05929476,84026023.0,US,USA,840,26023.0,branch,"Branch, Michigan, US",63,7,2,0
 2020-01-22,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",0,0,0,0
@@ -989,6 +998,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",275,2,12,0
 2020-04-28,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",277,2,12,0
 2020-04-29,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",284,7,12,0
+2020-04-30,us,michigan,41.92734151,-83.53749864,84026115.0,US,USA,840,26115.0,monroe,"Monroe, Michigan, US",287,3,12,0
 2020-01-22,us,michigan,41.95447397,-86.41313079999998,84026021.0,US,USA,840,26021.0,berrien,"Berrien, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,41.95447397,-86.41313079999998,84026021.0,US,USA,840,26021.0,berrien,"Berrien, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,41.95447397,-86.41313079999998,84026021.0,US,USA,840,26021.0,berrien,"Berrien, Michigan, US",0,0,0,0
@@ -1088,6 +1098,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,41.95447397,-86.41313079999998,84026021.0,US,USA,840,26021.0,berrien,"Berrien, Michigan, US",217,2,14,0
 2020-04-28,us,michigan,41.95447397,-86.41313079999998,84026021.0,US,USA,840,26021.0,berrien,"Berrien, Michigan, US",232,15,15,1
 2020-04-29,us,michigan,41.95447397,-86.41313079999998,84026021.0,US,USA,840,26021.0,berrien,"Berrien, Michigan, US",242,10,15,0
+2020-04-30,us,michigan,41.95447397,-86.41313079999998,84026021.0,US,USA,840,26021.0,berrien,"Berrien, Michigan, US",248,6,15,0
 2020-01-22,us,michigan,42.24542231,-85.53038622,84026077.0,US,USA,840,26077.0,kalamazoo,"Kalamazoo, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.24542231,-85.53038622,84026077.0,US,USA,840,26077.0,kalamazoo,"Kalamazoo, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.24542231,-85.53038622,84026077.0,US,USA,840,26077.0,kalamazoo,"Kalamazoo, Michigan, US",0,0,0,0
@@ -1187,6 +1198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.24542231,-85.53038622,84026077.0,US,USA,840,26077.0,kalamazoo,"Kalamazoo, Michigan, US",300,8,12,1
 2020-04-28,us,michigan,42.24542231,-85.53038622,84026077.0,US,USA,840,26077.0,kalamazoo,"Kalamazoo, Michigan, US",327,27,12,0
 2020-04-29,us,michigan,42.24542231,-85.53038622,84026077.0,US,USA,840,26077.0,kalamazoo,"Kalamazoo, Michigan, US",348,21,12,0
+2020-04-30,us,michigan,42.24542231,-85.53038622,84026077.0,US,USA,840,26077.0,kalamazoo,"Kalamazoo, Michigan, US",364,16,13,1
 2020-01-22,us,michigan,42.24633834,-85.00493569,84026025.0,US,USA,840,26025.0,calhoun,"Calhoun, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.24633834,-85.00493569,84026025.0,US,USA,840,26025.0,calhoun,"Calhoun, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.24633834,-85.00493569,84026025.0,US,USA,840,26025.0,calhoun,"Calhoun, Michigan, US",0,0,0,0
@@ -1286,6 +1298,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.24633834,-85.00493569,84026025.0,US,USA,840,26025.0,calhoun,"Calhoun, Michigan, US",203,1,11,1
 2020-04-28,us,michigan,42.24633834,-85.00493569,84026025.0,US,USA,840,26025.0,calhoun,"Calhoun, Michigan, US",210,7,11,0
 2020-04-29,us,michigan,42.24633834,-85.00493569,84026025.0,US,USA,840,26025.0,calhoun,"Calhoun, Michigan, US",219,9,11,0
+2020-04-30,us,michigan,42.24633834,-85.00493569,84026025.0,US,USA,840,26025.0,calhoun,"Calhoun, Michigan, US",228,9,13,2
 2020-01-22,us,michigan,42.24807035,-84.42258681,84026075.0,US,USA,840,26075.0,jackson,"Jackson, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.24807035,-84.42258681,84026075.0,US,USA,840,26075.0,jackson,"Jackson, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.24807035,-84.42258681,84026075.0,US,USA,840,26075.0,jackson,"Jackson, Michigan, US",0,0,0,0
@@ -1385,6 +1398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.24807035,-84.42258681,84026075.0,US,USA,840,26075.0,jackson,"Jackson, Michigan, US",341,14,18,2
 2020-04-28,us,michigan,42.24807035,-84.42258681,84026075.0,US,USA,840,26075.0,jackson,"Jackson, Michigan, US",342,1,18,0
 2020-04-29,us,michigan,42.24807035,-84.42258681,84026075.0,US,USA,840,26075.0,jackson,"Jackson, Michigan, US",351,9,19,1
+2020-04-30,us,michigan,42.24807035,-84.42258681,84026075.0,US,USA,840,26075.0,jackson,"Jackson, Michigan, US",364,13,22,3
 2020-01-22,us,michigan,42.25190229,-86.01939087,84026159.0,US,USA,840,26159.0,van-buren,"Van Buren, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.25190229,-86.01939087,84026159.0,US,USA,840,26159.0,van-buren,"Van Buren, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.25190229,-86.01939087,84026159.0,US,USA,840,26159.0,van-buren,"Van Buren, Michigan, US",0,0,0,0
@@ -1484,6 +1498,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.25190229,-86.01939087,84026159.0,US,USA,840,26159.0,van-buren,"Van Buren, Michigan, US",36,1,2,0
 2020-04-28,us,michigan,42.25190229,-86.01939087,84026159.0,US,USA,840,26159.0,van-buren,"Van Buren, Michigan, US",43,7,2,0
 2020-04-29,us,michigan,42.25190229,-86.01939087,84026159.0,US,USA,840,26159.0,van-buren,"Van Buren, Michigan, US",46,3,2,0
+2020-04-30,us,michigan,42.25190229,-86.01939087,84026159.0,US,USA,840,26159.0,van-buren,"Van Buren, Michigan, US",49,3,2,0
 2020-01-22,us,michigan,42.253105,-83.83853204,84026161.0,US,USA,840,26161.0,washtenaw,"Washtenaw, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.253105,-83.83853204,84026161.0,US,USA,840,26161.0,washtenaw,"Washtenaw, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.253105,-83.83853204,84026161.0,US,USA,840,26161.0,washtenaw,"Washtenaw, Michigan, US",0,0,0,0
@@ -1583,6 +1598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.253105,-83.83853204,84026161.0,US,USA,840,26161.0,washtenaw,"Washtenaw, Michigan, US",1004,3,55,5
 2020-04-28,us,michigan,42.253105,-83.83853204,84026161.0,US,USA,840,26161.0,washtenaw,"Washtenaw, Michigan, US",1033,29,56,1
 2020-04-29,us,michigan,42.253105,-83.83853204,84026161.0,US,USA,840,26161.0,washtenaw,"Washtenaw, Michigan, US",1049,16,59,3
+2020-04-30,us,michigan,42.253105,-83.83853204,84026161.0,US,USA,840,26161.0,washtenaw,"Washtenaw, Michigan, US",1075,26,61,2
 2020-01-22,us,michigan,42.28098405,-83.281255,84026163.0,US,USA,840,26163.0,wayne,"Wayne, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.28098405,-83.281255,84026163.0,US,USA,840,26163.0,wayne,"Wayne, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.28098405,-83.281255,84026163.0,US,USA,840,26163.0,wayne,"Wayne, Michigan, US",0,0,0,0
@@ -1682,6 +1698,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.28098405,-83.281255,84026163.0,US,USA,840,26163.0,wayne,"Wayne, Michigan, US",15872,124,1622,42
 2020-04-28,us,michigan,42.28098405,-83.281255,84026163.0,US,USA,840,26163.0,wayne,"Wayne, Michigan, US",16173,301,1682,60
 2020-04-29,us,michigan,42.28098405,-83.281255,84026163.0,US,USA,840,26163.0,wayne,"Wayne, Michigan, US",16494,321,1727,45
+2020-04-30,us,michigan,42.28098405,-83.281255,84026163.0,US,USA,840,26163.0,wayne,"Wayne, Michigan, US",16729,235,1782,55
 2020-01-22,us,michigan,42.59147037,-85.89102866,84026005.0,US,USA,840,26005.0,allegan,"Allegan, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.59147037,-85.89102866,84026005.0,US,USA,840,26005.0,allegan,"Allegan, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.59147037,-85.89102866,84026005.0,US,USA,840,26005.0,allegan,"Allegan, Michigan, US",0,0,0,0
@@ -1781,6 +1798,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.59147037,-85.89102866,84026005.0,US,USA,840,26005.0,allegan,"Allegan, Michigan, US",72,3,1,0
 2020-04-28,us,michigan,42.59147037,-85.89102866,84026005.0,US,USA,840,26005.0,allegan,"Allegan, Michigan, US",84,12,1,0
 2020-04-29,us,michigan,42.59147037,-85.89102866,84026005.0,US,USA,840,26005.0,allegan,"Allegan, Michigan, US",94,10,2,1
+2020-04-30,us,michigan,42.59147037,-85.89102866,84026005.0,US,USA,840,26005.0,allegan,"Allegan, Michigan, US",98,4,2,0
 2020-01-22,us,michigan,42.59513984,-85.30834519,84026015.0,US,USA,840,26015.0,barry,"Barry, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.59513984,-85.30834519,84026015.0,US,USA,840,26015.0,barry,"Barry, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.59513984,-85.30834519,84026015.0,US,USA,840,26015.0,barry,"Barry, Michigan, US",0,0,0,0
@@ -1880,6 +1898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.59513984,-85.30834519,84026015.0,US,USA,840,26015.0,barry,"Barry, Michigan, US",31,2,1,0
 2020-04-28,us,michigan,42.59513984,-85.30834519,84026015.0,US,USA,840,26015.0,barry,"Barry, Michigan, US",31,0,1,0
 2020-04-29,us,michigan,42.59513984,-85.30834519,84026015.0,US,USA,840,26015.0,barry,"Barry, Michigan, US",34,3,1,0
+2020-04-30,us,michigan,42.59513984,-85.30834519,84026015.0,US,USA,840,26015.0,barry,"Barry, Michigan, US",35,1,1,0
 2020-01-22,us,michigan,42.59599185,-84.83740035,84026045.0,US,USA,840,26045.0,eaton,"Eaton, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.59599185,-84.83740035,84026045.0,US,USA,840,26045.0,eaton,"Eaton, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.59599185,-84.83740035,84026045.0,US,USA,840,26045.0,eaton,"Eaton, Michigan, US",0,0,0,0
@@ -1979,6 +1998,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.59599185,-84.83740035,84026045.0,US,USA,840,26045.0,eaton,"Eaton, Michigan, US",116,1,6,1
 2020-04-28,us,michigan,42.59599185,-84.83740035,84026045.0,US,USA,840,26045.0,eaton,"Eaton, Michigan, US",119,3,6,0
 2020-04-29,us,michigan,42.59599185,-84.83740035,84026045.0,US,USA,840,26045.0,eaton,"Eaton, Michigan, US",124,5,6,0
+2020-04-30,us,michigan,42.59599185,-84.83740035,84026045.0,US,USA,840,26045.0,eaton,"Eaton, Michigan, US",131,7,6,0
 2020-01-22,us,michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,ingham,"Ingham, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,ingham,"Ingham, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,ingham,"Ingham, Michigan, US",0,0,0,0
@@ -2078,6 +2098,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,ingham,"Ingham, Michigan, US",413,7,10,1
 2020-04-28,us,michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,ingham,"Ingham, Michigan, US",426,13,10,0
 2020-04-29,us,michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,ingham,"Ingham, Michigan, US",446,20,10,0
+2020-04-30,us,michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,ingham,"Ingham, Michigan, US",470,24,11,1
 2020-01-22,us,michigan,42.60302282,-83.91297209,84026093.0,US,USA,840,26093.0,livingston,"Livingston, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.60302282,-83.91297209,84026093.0,US,USA,840,26093.0,livingston,"Livingston, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.60302282,-83.91297209,84026093.0,US,USA,840,26093.0,livingston,"Livingston, Michigan, US",0,0,0,0
@@ -2177,6 +2198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.60302282,-83.91297209,84026093.0,US,USA,840,26093.0,livingston,"Livingston, Michigan, US",319,4,14,0
 2020-04-28,us,michigan,42.60302282,-83.91297209,84026093.0,US,USA,840,26093.0,livingston,"Livingston, Michigan, US",326,7,18,4
 2020-04-29,us,michigan,42.60302282,-83.91297209,84026093.0,US,USA,840,26093.0,livingston,"Livingston, Michigan, US",335,9,18,0
+2020-04-30,us,michigan,42.60302282,-83.91297209,84026093.0,US,USA,840,26093.0,livingston,"Livingston, Michigan, US",337,2,19,1
 2020-01-22,us,michigan,42.66090111,-83.38595416,84026125.0,US,USA,840,26125.0,oakland,"Oakland, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.66090111,-83.38595416,84026125.0,US,USA,840,26125.0,oakland,"Oakland, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.66090111,-83.38595416,84026125.0,US,USA,840,26125.0,oakland,"Oakland, Michigan, US",0,0,0,0
@@ -2276,6 +2298,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.66090111,-83.38595416,84026125.0,US,USA,840,26125.0,oakland,"Oakland, Michigan, US",6913,-15,631,11
 2020-04-28,us,michigan,42.66090111,-83.38595416,84026125.0,US,USA,840,26125.0,oakland,"Oakland, Michigan, US",7012,99,654,23
 2020-04-29,us,michigan,42.66090111,-83.38595416,84026125.0,US,USA,840,26125.0,oakland,"Oakland, Michigan, US",7159,147,668,14
+2020-04-30,us,michigan,42.66090111,-83.38595416,84026125.0,US,USA,840,26125.0,oakland,"Oakland, Michigan, US",7267,108,696,28
 2020-01-22,us,michigan,42.69158356,-82.92752801,84026099.0,US,USA,840,26099.0,macomb,"Macomb, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.69158356,-82.92752801,84026099.0,US,USA,840,26099.0,macomb,"Macomb, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.69158356,-82.92752801,84026099.0,US,USA,840,26099.0,macomb,"Macomb, Michigan, US",0,0,0,0
@@ -2375,6 +2398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.69158356,-82.92752801,84026099.0,US,USA,840,26099.0,macomb,"Macomb, Michigan, US",5245,42,527,7
 2020-04-28,us,michigan,42.69158356,-82.92752801,84026099.0,US,USA,840,26099.0,macomb,"Macomb, Michigan, US",5339,94,572,45
 2020-04-29,us,michigan,42.69158356,-82.92752801,84026099.0,US,USA,840,26099.0,macomb,"Macomb, Michigan, US",5430,91,597,25
+2020-04-30,us,michigan,42.69158356,-82.92752801,84026099.0,US,USA,840,26099.0,macomb,"Macomb, Michigan, US",5513,83,603,6
 2020-01-22,us,michigan,42.92655373,-82.67937954,84026147.0,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.92655373,-82.67937954,84026147.0,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.92655373,-82.67937954,84026147.0,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",0,0,0,0
@@ -2474,6 +2498,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.92655373,-82.67937954,84026147.0,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",304,2,18,0
 2020-04-28,us,michigan,42.92655373,-82.67937954,84026147.0,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",309,5,21,3
 2020-04-29,us,michigan,42.92655373,-82.67937954,84026147.0,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",313,4,21,0
+2020-04-30,us,michigan,42.92655373,-82.67937954,84026147.0,US,USA,840,26147.0,st-clair,"St. Clair, Michigan, US",328,15,21,0
 2020-01-22,us,michigan,42.94400871,-84.60145248,84026037.0,US,USA,840,26037.0,clinton,"Clinton, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.94400871,-84.60145248,84026037.0,US,USA,840,26037.0,clinton,"Clinton, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.94400871,-84.60145248,84026037.0,US,USA,840,26037.0,clinton,"Clinton, Michigan, US",0,0,0,0
@@ -2573,6 +2598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.94400871,-84.60145248,84026037.0,US,USA,840,26037.0,clinton,"Clinton, Michigan, US",112,3,9,0
 2020-04-28,us,michigan,42.94400871,-84.60145248,84026037.0,US,USA,840,26037.0,clinton,"Clinton, Michigan, US",114,2,9,0
 2020-04-29,us,michigan,42.94400871,-84.60145248,84026037.0,US,USA,840,26037.0,clinton,"Clinton, Michigan, US",117,3,9,0
+2020-04-30,us,michigan,42.94400871,-84.60145248,84026037.0,US,USA,840,26037.0,clinton,"Clinton, Michigan, US",118,1,9,0
 2020-01-22,us,michigan,42.94502238,-85.07413319,84026067.0,US,USA,840,26067.0,ionia,"Ionia, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.94502238,-85.07413319,84026067.0,US,USA,840,26067.0,ionia,"Ionia, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.94502238,-85.07413319,84026067.0,US,USA,840,26067.0,ionia,"Ionia, Michigan, US",0,0,0,0
@@ -2672,6 +2698,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.94502238,-85.07413319,84026067.0,US,USA,840,26067.0,ionia,"Ionia, Michigan, US",47,4,2,0
 2020-04-28,us,michigan,42.94502238,-85.07413319,84026067.0,US,USA,840,26067.0,ionia,"Ionia, Michigan, US",53,6,2,0
 2020-04-29,us,michigan,42.94502238,-85.07413319,84026067.0,US,USA,840,26067.0,ionia,"Ionia, Michigan, US",60,7,2,0
+2020-04-30,us,michigan,42.94502238,-85.07413319,84026067.0,US,USA,840,26067.0,ionia,"Ionia, Michigan, US",76,16,2,0
 2020-01-22,us,michigan,42.95392800000001,-84.14585902,84026155.0,US,USA,840,26155.0,shiawassee,"Shiawassee, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.95392800000001,-84.14585902,84026155.0,US,USA,840,26155.0,shiawassee,"Shiawassee, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.95392800000001,-84.14585902,84026155.0,US,USA,840,26155.0,shiawassee,"Shiawassee, Michigan, US",0,0,0,0
@@ -2771,6 +2798,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.95392800000001,-84.14585902,84026155.0,US,USA,840,26155.0,shiawassee,"Shiawassee, Michigan, US",166,36,8,1
 2020-04-28,us,michigan,42.95392800000001,-84.14585902,84026155.0,US,USA,840,26155.0,shiawassee,"Shiawassee, Michigan, US",173,7,8,0
 2020-04-29,us,michigan,42.95392800000001,-84.14585902,84026155.0,US,USA,840,26155.0,shiawassee,"Shiawassee, Michigan, US",173,0,8,0
+2020-04-30,us,michigan,42.95392800000001,-84.14585902,84026155.0,US,USA,840,26155.0,shiawassee,"Shiawassee, Michigan, US",180,7,10,2
 2020-01-22,us,michigan,42.95996803,-85.9969107,84026139.0,US,USA,840,26139.0,ottawa,"Ottawa, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,42.95996803,-85.9969107,84026139.0,US,USA,840,26139.0,ottawa,"Ottawa, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,42.95996803,-85.9969107,84026139.0,US,USA,840,26139.0,ottawa,"Ottawa, Michigan, US",0,0,0,0
@@ -2870,6 +2898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,42.95996803,-85.9969107,84026139.0,US,USA,840,26139.0,ottawa,"Ottawa, Michigan, US",191,11,9,0
 2020-04-28,us,michigan,42.95996803,-85.9969107,84026139.0,US,USA,840,26139.0,ottawa,"Ottawa, Michigan, US",210,19,9,0
 2020-04-29,us,michigan,42.95996803,-85.9969107,84026139.0,US,USA,840,26139.0,ottawa,"Ottawa, Michigan, US",224,14,9,0
+2020-04-30,us,michigan,42.95996803,-85.9969107,84026139.0,US,USA,840,26139.0,ottawa,"Ottawa, Michigan, US",236,12,9,0
 2020-01-22,us,michigan,43.02244215,-83.70589709,84026049.0,US,USA,840,26049.0,genesee,"Genesee, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.02244215,-83.70589709,84026049.0,US,USA,840,26049.0,genesee,"Genesee, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.02244215,-83.70589709,84026049.0,US,USA,840,26049.0,genesee,"Genesee, Michigan, US",0,0,0,0
@@ -2969,6 +2998,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.02244215,-83.70589709,84026049.0,US,USA,840,26049.0,genesee,"Genesee, Michigan, US",1483,16,165,4
 2020-04-28,us,michigan,43.02244215,-83.70589709,84026049.0,US,USA,840,26049.0,genesee,"Genesee, Michigan, US",1533,50,174,9
 2020-04-29,us,michigan,43.02244215,-83.70589709,84026049.0,US,USA,840,26049.0,genesee,"Genesee, Michigan, US",1564,31,180,6
+2020-04-30,us,michigan,43.02244215,-83.70589709,84026049.0,US,USA,840,26049.0,genesee,"Genesee, Michigan, US",1581,17,188,8
 2020-01-22,us,michigan,43.03197711,-85.54934642,84026081.0,US,USA,840,26081.0,kent,"Kent, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.03197711,-85.54934642,84026081.0,US,USA,840,26081.0,kent,"Kent, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.03197711,-85.54934642,84026081.0,US,USA,840,26081.0,kent,"Kent, Michigan, US",0,0,0,0
@@ -3068,6 +3098,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.03197711,-85.54934642,84026081.0,US,USA,840,26081.0,kent,"Kent, Michigan, US",1100,69,34,2
 2020-04-28,us,michigan,43.03197711,-85.54934642,84026081.0,US,USA,840,26081.0,kent,"Kent, Michigan, US",1305,205,34,0
 2020-04-29,us,michigan,43.03197711,-85.54934642,84026081.0,US,USA,840,26081.0,kent,"Kent, Michigan, US",1395,90,33,-1
+2020-04-30,us,michigan,43.03197711,-85.54934642,84026081.0,US,USA,840,26081.0,kent,"Kent, Michigan, US",1479,84,33,0
 2020-01-22,us,michigan,43.09052506,-83.22153148,84026087.0,US,USA,840,26087.0,lapeer,"Lapeer, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.09052506,-83.22153148,84026087.0,US,USA,840,26087.0,lapeer,"Lapeer, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.09052506,-83.22153148,84026087.0,US,USA,840,26087.0,lapeer,"Lapeer, Michigan, US",0,0,0,0
@@ -3167,6 +3198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.09052506,-83.22153148,84026087.0,US,USA,840,26087.0,lapeer,"Lapeer, Michigan, US",164,-1,24,0
 2020-04-28,us,michigan,43.09052506,-83.22153148,84026087.0,US,USA,840,26087.0,lapeer,"Lapeer, Michigan, US",166,2,24,0
 2020-04-29,us,michigan,43.09052506,-83.22153148,84026087.0,US,USA,840,26087.0,lapeer,"Lapeer, Michigan, US",167,1,25,1
+2020-04-30,us,michigan,43.09052506,-83.22153148,84026087.0,US,USA,840,26087.0,lapeer,"Lapeer, Michigan, US",170,3,24,-1
 2020-01-22,us,michigan,43.29123859,-86.15176712,84026121.0,US,USA,840,26121.0,muskegon,"Muskegon, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.29123859,-86.15176712,84026121.0,US,USA,840,26121.0,muskegon,"Muskegon, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.29123859,-86.15176712,84026121.0,US,USA,840,26121.0,muskegon,"Muskegon, Michigan, US",0,0,0,0
@@ -3266,6 +3298,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.29123859,-86.15176712,84026121.0,US,USA,840,26121.0,muskegon,"Muskegon, Michigan, US",234,6,13,0
 2020-04-28,us,michigan,43.29123859,-86.15176712,84026121.0,US,USA,840,26121.0,muskegon,"Muskegon, Michigan, US",242,8,15,2
 2020-04-29,us,michigan,43.29123859,-86.15176712,84026121.0,US,USA,840,26121.0,muskegon,"Muskegon, Michigan, US",262,20,16,1
+2020-04-30,us,michigan,43.29123859,-86.15176712,84026121.0,US,USA,840,26121.0,muskegon,"Muskegon, Michigan, US",276,14,17,1
 2020-01-22,us,michigan,43.29265605,-84.60505416,84026057.0,US,USA,840,26057.0,gratiot,"Gratiot, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.29265605,-84.60505416,84026057.0,US,USA,840,26057.0,gratiot,"Gratiot, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.29265605,-84.60505416,84026057.0,US,USA,840,26057.0,gratiot,"Gratiot, Michigan, US",0,0,0,0
@@ -3365,6 +3398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.29265605,-84.60505416,84026057.0,US,USA,840,26057.0,gratiot,"Gratiot, Michigan, US",10,2,1,0
 2020-04-28,us,michigan,43.29265605,-84.60505416,84026057.0,US,USA,840,26057.0,gratiot,"Gratiot, Michigan, US",10,0,1,0
 2020-04-29,us,michigan,43.29265605,-84.60505416,84026057.0,US,USA,840,26057.0,gratiot,"Gratiot, Michigan, US",13,3,1,0
+2020-04-30,us,michigan,43.29265605,-84.60505416,84026057.0,US,USA,840,26057.0,gratiot,"Gratiot, Michigan, US",13,0,1,0
 2020-01-22,us,michigan,43.31082541,-85.15252824,84026117.0,US,USA,840,26117.0,montcalm,"Montcalm, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.31082541,-85.15252824,84026117.0,US,USA,840,26117.0,montcalm,"Montcalm, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.31082541,-85.15252824,84026117.0,US,USA,840,26117.0,montcalm,"Montcalm, Michigan, US",0,0,0,0
@@ -3464,6 +3498,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.31082541,-85.15252824,84026117.0,US,USA,840,26117.0,montcalm,"Montcalm, Michigan, US",32,0,1,0
 2020-04-28,us,michigan,43.31082541,-85.15252824,84026117.0,US,USA,840,26117.0,montcalm,"Montcalm, Michigan, US",37,5,1,0
 2020-04-29,us,michigan,43.31082541,-85.15252824,84026117.0,US,USA,840,26117.0,montcalm,"Montcalm, Michigan, US",38,1,1,0
+2020-04-30,us,michigan,43.31082541,-85.15252824,84026117.0,US,USA,840,26117.0,montcalm,"Montcalm, Michigan, US",40,2,1,0
 2020-01-22,us,michigan,43.33433923,-84.05131209999998,84026145.0,US,USA,840,26145.0,saginaw,"Saginaw, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.33433923,-84.05131209999998,84026145.0,US,USA,840,26145.0,saginaw,"Saginaw, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.33433923,-84.05131209999998,84026145.0,US,USA,840,26145.0,saginaw,"Saginaw, Michigan, US",0,0,0,0
@@ -3563,6 +3598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.33433923,-84.05131209999998,84026145.0,US,USA,840,26145.0,saginaw,"Saginaw, Michigan, US",586,28,47,4
 2020-04-28,us,michigan,43.33433923,-84.05131209999998,84026145.0,US,USA,840,26145.0,saginaw,"Saginaw, Michigan, US",609,23,52,5
 2020-04-29,us,michigan,43.33433923,-84.05131209999998,84026145.0,US,USA,840,26145.0,saginaw,"Saginaw, Michigan, US",632,23,56,4
+2020-04-30,us,michigan,43.33433923,-84.05131209999998,84026145.0,US,USA,840,26145.0,saginaw,"Saginaw, Michigan, US",663,31,59,3
 2020-01-22,us,michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,sanilac,"Sanilac, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,sanilac,"Sanilac, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,sanilac,"Sanilac, Michigan, US",0,0,0,0
@@ -3662,6 +3698,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,sanilac,"Sanilac, Michigan, US",34,0,4,0
 2020-04-28,us,michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,sanilac,"Sanilac, Michigan, US",34,0,4,0
 2020-04-29,us,michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,sanilac,"Sanilac, Michigan, US",34,0,4,0
+2020-04-30,us,michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,sanilac,"Sanilac, Michigan, US",35,1,4,0
 2020-01-22,us,michigan,43.46606813,-83.41897025,84026157.0,US,USA,840,26157.0,tuscola,"Tuscola, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.46606813,-83.41897025,84026157.0,US,USA,840,26157.0,tuscola,"Tuscola, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.46606813,-83.41897025,84026157.0,US,USA,840,26157.0,tuscola,"Tuscola, Michigan, US",0,0,0,0
@@ -3761,105 +3798,107 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.46606813,-83.41897025,84026157.0,US,USA,840,26157.0,tuscola,"Tuscola, Michigan, US",90,8,13,0
 2020-04-28,us,michigan,43.46606813,-83.41897025,84026157.0,US,USA,840,26157.0,tuscola,"Tuscola, Michigan, US",94,4,13,0
 2020-04-29,us,michigan,43.46606813,-83.41897025,84026157.0,US,USA,840,26157.0,tuscola,"Tuscola, Michigan, US",98,4,13,0
-2020-01-22,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-01-23,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-01-24,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-01-25,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-01-26,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-01-27,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-01-28,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-01-29,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-01-30,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-01-31,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-01,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-02,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-03,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-04,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-05,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-06,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-07,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-08,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-09,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-10,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-11,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-12,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-13,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-14,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-15,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-16,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-17,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-18,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-19,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-20,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-21,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-22,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-23,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-24,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-25,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-26,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-27,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-28,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-02-29,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-01,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-02,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-03,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-04,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-05,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-06,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-07,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-08,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-09,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-10,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-11,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-12,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-13,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-14,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-15,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-16,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-17,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-18,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-19,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-20,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-21,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-22,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
-2020-03-23,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,1,0,0
-2020-03-24,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,1,0,0
-2020-03-25,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
-2020-03-26,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
-2020-03-27,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,-1,0,0
-2020-03-28,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,0,0,0
-2020-03-29,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,0,0,0
-2020-03-30,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,0,0,0
-2020-03-31,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,0,0,0
-2020-04-01,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,0,0,0
-2020-04-02,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,1,0,0
-2020-04-03,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
-2020-04-04,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
-2020-04-05,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
-2020-04-06,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
-2020-04-07,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",3,1,0,0
-2020-04-08,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",3,0,0,0
-2020-04-09,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",3,0,0,0
-2020-04-10,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",4,1,0,0
-2020-04-11,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",6,2,0,0
-2020-04-12,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",6,0,0,0
-2020-04-13,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",6,0,0,0
-2020-04-14,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,1,0,0
-2020-04-15,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
-2020-04-16,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
-2020-04-17,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
-2020-04-18,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
-2020-04-19,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
-2020-04-20,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
-2020-04-21,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",10,3,0,0
-2020-04-22,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",12,2,0,0
-2020-04-23,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",12,0,0,0
-2020-04-24,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",13,1,0,0
-2020-04-25,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",14,1,0,0
-2020-04-26,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",15,1,0,0
-2020-04-27,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",14,-1,0,0
-2020-04-28,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",16,2,0,0
-2020-04-29,us,michigan,43.554373999999996,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",22,6,0,0
+2020-04-30,us,michigan,43.46606813,-83.41897025,84026157.0,US,USA,840,26157.0,tuscola,"Tuscola, Michigan, US",105,7,14,1
+2020-01-22,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-01-23,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-01-24,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-01-25,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-01-26,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-01-27,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-01-28,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-01-29,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-01-30,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-01-31,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-01,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-02,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-03,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-04,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-05,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-06,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-07,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-08,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-09,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-10,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-11,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-12,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-13,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-14,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-15,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-16,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-17,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-18,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-19,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-20,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-21,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-22,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-23,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-24,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-25,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-26,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-27,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-28,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-02-29,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-01,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-02,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-03,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-04,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-05,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-06,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-07,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-08,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-09,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-10,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-11,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-12,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-13,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-14,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-15,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-16,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-17,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-18,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-19,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-20,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-21,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-22,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",0,0,0,0
+2020-03-23,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,1,0,0
+2020-03-24,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,1,0,0
+2020-03-25,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
+2020-03-26,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
+2020-03-27,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,-1,0,0
+2020-03-28,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,0,0,0
+2020-03-29,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,0,0,0
+2020-03-30,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,0,0,0
+2020-03-31,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,0,0,0
+2020-04-01,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",1,0,0,0
+2020-04-02,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,1,0,0
+2020-04-03,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
+2020-04-04,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
+2020-04-05,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
+2020-04-06,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",2,0,0,0
+2020-04-07,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",3,1,0,0
+2020-04-08,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",3,0,0,0
+2020-04-09,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",3,0,0,0
+2020-04-10,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",4,1,0,0
+2020-04-11,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",6,2,0,0
+2020-04-12,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",6,0,0,0
+2020-04-13,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",6,0,0,0
+2020-04-14,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,1,0,0
+2020-04-15,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
+2020-04-16,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
+2020-04-17,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
+2020-04-18,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
+2020-04-19,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
+2020-04-20,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",7,0,0,0
+2020-04-21,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",10,3,0,0
+2020-04-22,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",12,2,0,0
+2020-04-23,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",12,0,0,0
+2020-04-24,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",13,1,0,0
+2020-04-25,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",14,1,0,0
+2020-04-26,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",15,1,0,0
+2020-04-27,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",14,-1,0,0
+2020-04-28,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",16,2,0,0
+2020-04-29,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",22,6,0,0
+2020-04-30,us,michigan,43.554374,-85.80070107,84026123.0,US,USA,840,26123.0,newaygo,"Newaygo, Michigan, US",22,0,0,0
 2020-01-22,us,michigan,43.64060976,-84.84664923,84026073.0,US,USA,840,26073.0,isabella,"Isabella, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.64060976,-84.84664923,84026073.0,US,USA,840,26073.0,isabella,"Isabella, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.64060976,-84.84664923,84026073.0,US,USA,840,26073.0,isabella,"Isabella, Michigan, US",0,0,0,0
@@ -3959,6 +3998,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.64060976,-84.84664923,84026073.0,US,USA,840,26073.0,isabella,"Isabella, Michigan, US",57,2,7,0
 2020-04-28,us,michigan,43.64060976,-84.84664923,84026073.0,US,USA,840,26073.0,isabella,"Isabella, Michigan, US",59,2,7,0
 2020-04-29,us,michigan,43.64060976,-84.84664923,84026073.0,US,USA,840,26073.0,isabella,"Isabella, Michigan, US",60,1,7,0
+2020-04-30,us,michigan,43.64060976,-84.84664923,84026073.0,US,USA,840,26073.0,isabella,"Isabella, Michigan, US",61,1,7,0
 2020-01-22,us,michigan,43.64064262,-85.32463223,84026107.0,US,USA,840,26107.0,mecosta,"Mecosta, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.64064262,-85.32463223,84026107.0,US,USA,840,26107.0,mecosta,"Mecosta, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.64064262,-85.32463223,84026107.0,US,USA,840,26107.0,mecosta,"Mecosta, Michigan, US",0,0,0,0
@@ -4058,6 +4098,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.64064262,-85.32463223,84026107.0,US,USA,840,26107.0,mecosta,"Mecosta, Michigan, US",14,0,1,0
 2020-04-28,us,michigan,43.64064262,-85.32463223,84026107.0,US,USA,840,26107.0,mecosta,"Mecosta, Michigan, US",15,1,1,0
 2020-04-29,us,michigan,43.64064262,-85.32463223,84026107.0,US,USA,840,26107.0,mecosta,"Mecosta, Michigan, US",14,-1,1,0
+2020-04-30,us,michigan,43.64064262,-85.32463223,84026107.0,US,USA,840,26107.0,mecosta,"Mecosta, Michigan, US",14,0,1,0
 2020-01-22,us,michigan,43.64124435,-86.26726673,84026127.0,US,USA,840,26127.0,oceana,"Oceana, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.64124435,-86.26726673,84026127.0,US,USA,840,26127.0,oceana,"Oceana, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.64124435,-86.26726673,84026127.0,US,USA,840,26127.0,oceana,"Oceana, Michigan, US",0,0,0,0
@@ -4157,6 +4198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.64124435,-86.26726673,84026127.0,US,USA,840,26127.0,oceana,"Oceana, Michigan, US",7,2,1,0
 2020-04-28,us,michigan,43.64124435,-86.26726673,84026127.0,US,USA,840,26127.0,oceana,"Oceana, Michigan, US",8,1,1,0
 2020-04-29,us,michigan,43.64124435,-86.26726673,84026127.0,US,USA,840,26127.0,oceana,"Oceana, Michigan, US",9,1,1,0
+2020-04-30,us,michigan,43.64124435,-86.26726673,84026127.0,US,USA,840,26127.0,oceana,"Oceana, Michigan, US",9,0,1,0
 2020-01-22,us,michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,midland,"Midland, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,midland,"Midland, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,midland,"Midland, Michigan, US",0,0,0,0
@@ -4256,6 +4298,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,midland,"Midland, Michigan, US",56,4,3,0
 2020-04-28,us,michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,midland,"Midland, Michigan, US",56,0,4,1
 2020-04-29,us,michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,midland,"Midland, Michigan, US",59,3,5,1
+2020-04-30,us,michigan,43.64330771,-84.38804374,84026111.0,US,USA,840,26111.0,midland,"Midland, Michigan, US",61,2,5,0
 2020-01-22,us,michigan,43.70639106,-83.98731479,84026017.0,US,USA,840,26017.0,bay,"Bay, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.70639106,-83.98731479,84026017.0,US,USA,840,26017.0,bay,"Bay, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.70639106,-83.98731479,84026017.0,US,USA,840,26017.0,bay,"Bay, Michigan, US",0,0,0,0
@@ -4355,6 +4398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.70639106,-83.98731479,84026017.0,US,USA,840,26017.0,bay,"Bay, Michigan, US",122,7,3,1
 2020-04-28,us,michigan,43.70639106,-83.98731479,84026017.0,US,USA,840,26017.0,bay,"Bay, Michigan, US",135,13,4,1
 2020-04-29,us,michigan,43.70639106,-83.98731479,84026017.0,US,USA,840,26017.0,bay,"Bay, Michigan, US",142,7,4,0
+2020-04-30,us,michigan,43.70639106,-83.98731479,84026017.0,US,USA,840,26017.0,bay,"Bay, Michigan, US",143,1,4,0
 2020-01-22,us,michigan,43.83353985,-83.04078453,84026063.0,US,USA,840,26063.0,huron,"Huron, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.83353985,-83.04078453,84026063.0,US,USA,840,26063.0,huron,"Huron, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.83353985,-83.04078453,84026063.0,US,USA,840,26063.0,huron,"Huron, Michigan, US",0,0,0,0
@@ -4454,6 +4498,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.83353985,-83.04078453,84026063.0,US,USA,840,26063.0,huron,"Huron, Michigan, US",13,0,0,0
 2020-04-28,us,michigan,43.83353985,-83.04078453,84026063.0,US,USA,840,26063.0,huron,"Huron, Michigan, US",13,0,0,0
 2020-04-29,us,michigan,43.83353985,-83.04078453,84026063.0,US,USA,840,26063.0,huron,"Huron, Michigan, US",16,3,0,0
+2020-04-30,us,michigan,43.83353985,-83.04078453,84026063.0,US,USA,840,26063.0,huron,"Huron, Michigan, US",17,1,0,0
 2020-01-22,us,michigan,43.98794227,-84.84819859999998,84026035.0,US,USA,840,26035.0,clare,"Clare, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.98794227,-84.84819859999998,84026035.0,US,USA,840,26035.0,clare,"Clare, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.98794227,-84.84819859999998,84026035.0,US,USA,840,26035.0,clare,"Clare, Michigan, US",0,0,0,0
@@ -4553,6 +4598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.98794227,-84.84819859999998,84026035.0,US,USA,840,26035.0,clare,"Clare, Michigan, US",11,1,1,0
 2020-04-28,us,michigan,43.98794227,-84.84819859999998,84026035.0,US,USA,840,26035.0,clare,"Clare, Michigan, US",11,0,1,0
 2020-04-29,us,michigan,43.98794227,-84.84819859999998,84026035.0,US,USA,840,26035.0,clare,"Clare, Michigan, US",11,0,1,0
+2020-04-30,us,michigan,43.98794227,-84.84819859999998,84026035.0,US,USA,840,26035.0,clare,"Clare, Michigan, US",11,0,1,0
 2020-01-22,us,michigan,43.98901072,-84.38774817,84026051.0,US,USA,840,26051.0,gladwin,"Gladwin, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.98901072,-84.38774817,84026051.0,US,USA,840,26051.0,gladwin,"Gladwin, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.98901072,-84.38774817,84026051.0,US,USA,840,26051.0,gladwin,"Gladwin, Michigan, US",0,0,0,0
@@ -4652,6 +4698,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.98901072,-84.38774817,84026051.0,US,USA,840,26051.0,gladwin,"Gladwin, Michigan, US",11,0,1,0
 2020-04-28,us,michigan,43.98901072,-84.38774817,84026051.0,US,USA,840,26051.0,gladwin,"Gladwin, Michigan, US",12,1,1,0
 2020-04-29,us,michigan,43.98901072,-84.38774817,84026051.0,US,USA,840,26051.0,gladwin,"Gladwin, Michigan, US",16,4,1,0
+2020-04-30,us,michigan,43.98901072,-84.38774817,84026051.0,US,USA,840,26051.0,gladwin,"Gladwin, Michigan, US",15,-1,1,0
 2020-01-22,us,michigan,43.98992088,-85.32566756,84026133.0,US,USA,840,26133.0,osceola,"Osceola, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.98992088,-85.32566756,84026133.0,US,USA,840,26133.0,osceola,"Osceola, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.98992088,-85.32566756,84026133.0,US,USA,840,26133.0,osceola,"Osceola, Michigan, US",0,0,0,0
@@ -4751,6 +4798,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.98992088,-85.32566756,84026133.0,US,USA,840,26133.0,osceola,"Osceola, Michigan, US",8,0,0,0
 2020-04-28,us,michigan,43.98992088,-85.32566756,84026133.0,US,USA,840,26133.0,osceola,"Osceola, Michigan, US",8,0,0,0
 2020-04-29,us,michigan,43.98992088,-85.32566756,84026133.0,US,USA,840,26133.0,osceola,"Osceola, Michigan, US",8,0,0,0
+2020-04-30,us,michigan,43.98992088,-85.32566756,84026133.0,US,USA,840,26133.0,osceola,"Osceola, Michigan, US",8,0,0,0
 2020-01-22,us,michigan,43.99050893,-85.802173,84026085.0,US,USA,840,26085.0,lake,"Lake, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.99050893,-85.802173,84026085.0,US,USA,840,26085.0,lake,"Lake, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.99050893,-85.802173,84026085.0,US,USA,840,26085.0,lake,"Lake, Michigan, US",0,0,0,0
@@ -4850,6 +4898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.99050893,-85.802173,84026085.0,US,USA,840,26085.0,lake,"Lake, Michigan, US",2,0,0,0
 2020-04-28,us,michigan,43.99050893,-85.802173,84026085.0,US,USA,840,26085.0,lake,"Lake, Michigan, US",2,0,0,0
 2020-04-29,us,michigan,43.99050893,-85.802173,84026085.0,US,USA,840,26085.0,lake,"Lake, Michigan, US",2,0,0,0
+2020-04-30,us,michigan,43.99050893,-85.802173,84026085.0,US,USA,840,26085.0,lake,"Lake, Michigan, US",2,0,0,0
 2020-01-22,us,michigan,43.99509218,-86.24988902,84026105.0,US,USA,840,26105.0,mason,"Mason, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,43.99509218,-86.24988902,84026105.0,US,USA,840,26105.0,mason,"Mason, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,43.99509218,-86.24988902,84026105.0,US,USA,840,26105.0,mason,"Mason, Michigan, US",0,0,0,0
@@ -4949,6 +4998,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,43.99509218,-86.24988902,84026105.0,US,USA,840,26105.0,mason,"Mason, Michigan, US",5,0,0,0
 2020-04-28,us,michigan,43.99509218,-86.24988902,84026105.0,US,USA,840,26105.0,mason,"Mason, Michigan, US",7,2,0,0
 2020-04-29,us,michigan,43.99509218,-86.24988902,84026105.0,US,USA,840,26105.0,mason,"Mason, Michigan, US",8,1,0,0
+2020-04-30,us,michigan,43.99509218,-86.24988902,84026105.0,US,USA,840,26105.0,mason,"Mason, Michigan, US",11,3,0,0
 2020-01-22,us,michigan,44.0636262,-83.89277559,84026011.0,US,USA,840,26011.0,arenac,"Arenac, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.0636262,-83.89277559,84026011.0,US,USA,840,26011.0,arenac,"Arenac, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.0636262,-83.89277559,84026011.0,US,USA,840,26011.0,arenac,"Arenac, Michigan, US",0,0,0,0
@@ -5048,6 +5098,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.0636262,-83.89277559,84026011.0,US,USA,840,26011.0,arenac,"Arenac, Michigan, US",15,-1,1,0
 2020-04-28,us,michigan,44.0636262,-83.89277559,84026011.0,US,USA,840,26011.0,arenac,"Arenac, Michigan, US",18,3,1,0
 2020-04-29,us,michigan,44.0636262,-83.89277559,84026011.0,US,USA,840,26011.0,arenac,"Arenac, Michigan, US",18,0,1,0
+2020-04-30,us,michigan,44.0636262,-83.89277559,84026011.0,US,USA,840,26011.0,arenac,"Arenac, Michigan, US",24,6,1,0
 2020-01-22,us,michigan,44.33352407,-86.05626916,84026101.0,US,USA,840,26101.0,manistee,"Manistee, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.33352407,-86.05626916,84026101.0,US,USA,840,26101.0,manistee,"Manistee, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.33352407,-86.05626916,84026101.0,US,USA,840,26101.0,manistee,"Manistee, Michigan, US",0,0,0,0
@@ -5147,6 +5198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.33352407,-86.05626916,84026101.0,US,USA,840,26101.0,manistee,"Manistee, Michigan, US",11,0,0,0
 2020-04-28,us,michigan,44.33352407,-86.05626916,84026101.0,US,USA,840,26101.0,manistee,"Manistee, Michigan, US",11,0,0,0
 2020-04-29,us,michigan,44.33352407,-86.05626916,84026101.0,US,USA,840,26101.0,manistee,"Manistee, Michigan, US",11,0,0,0
+2020-04-30,us,michigan,44.33352407,-86.05626916,84026101.0,US,USA,840,26101.0,manistee,"Manistee, Michigan, US",11,0,0,0
 2020-01-22,us,michigan,44.33473082,-84.61067651,84026143.0,US,USA,840,26143.0,roscommon,"Roscommon, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.33473082,-84.61067651,84026143.0,US,USA,840,26143.0,roscommon,"Roscommon, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.33473082,-84.61067651,84026143.0,US,USA,840,26143.0,roscommon,"Roscommon, Michigan, US",0,0,0,0
@@ -5246,6 +5298,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.33473082,-84.61067651,84026143.0,US,USA,840,26143.0,roscommon,"Roscommon, Michigan, US",13,0,0,0
 2020-04-28,us,michigan,44.33473082,-84.61067651,84026143.0,US,USA,840,26143.0,roscommon,"Roscommon, Michigan, US",14,1,0,0
 2020-04-29,us,michigan,44.33473082,-84.61067651,84026143.0,US,USA,840,26143.0,roscommon,"Roscommon, Michigan, US",15,1,0,0
+2020-04-30,us,michigan,44.33473082,-84.61067651,84026143.0,US,USA,840,26143.0,roscommon,"Roscommon, Michigan, US",16,1,0,0
 2020-01-22,us,michigan,44.33481032,-84.12725175,84026129.0,US,USA,840,26129.0,ogemaw,"Ogemaw, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.33481032,-84.12725175,84026129.0,US,USA,840,26129.0,ogemaw,"Ogemaw, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.33481032,-84.12725175,84026129.0,US,USA,840,26129.0,ogemaw,"Ogemaw, Michigan, US",0,0,0,0
@@ -5345,6 +5398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.33481032,-84.12725175,84026129.0,US,USA,840,26129.0,ogemaw,"Ogemaw, Michigan, US",10,1,0,0
 2020-04-28,us,michigan,44.33481032,-84.12725175,84026129.0,US,USA,840,26129.0,ogemaw,"Ogemaw, Michigan, US",11,1,0,0
 2020-04-29,us,michigan,44.33481032,-84.12725175,84026129.0,US,USA,840,26129.0,ogemaw,"Ogemaw, Michigan, US",12,1,0,0
+2020-04-30,us,michigan,44.33481032,-84.12725175,84026129.0,US,USA,840,26129.0,ogemaw,"Ogemaw, Michigan, US",13,1,0,0
 2020-01-22,us,michigan,44.33772443,-85.09256478,84026113.0,US,USA,840,26113.0,missaukee,"Missaukee, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.33772443,-85.09256478,84026113.0,US,USA,840,26113.0,missaukee,"Missaukee, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.33772443,-85.09256478,84026113.0,US,USA,840,26113.0,missaukee,"Missaukee, Michigan, US",0,0,0,0
@@ -5444,6 +5498,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.33772443,-85.09256478,84026113.0,US,USA,840,26113.0,missaukee,"Missaukee, Michigan, US",15,0,1,0
 2020-04-28,us,michigan,44.33772443,-85.09256478,84026113.0,US,USA,840,26113.0,missaukee,"Missaukee, Michigan, US",15,0,1,0
 2020-04-29,us,michigan,44.33772443,-85.09256478,84026113.0,US,USA,840,26113.0,missaukee,"Missaukee, Michigan, US",15,0,1,0
+2020-04-30,us,michigan,44.33772443,-85.09256478,84026113.0,US,USA,840,26113.0,missaukee,"Missaukee, Michigan, US",15,0,1,0
 2020-01-22,us,michigan,44.33853602,-85.57712739,84026165.0,US,USA,840,26165.0,wexford,"Wexford, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.33853602,-85.57712739,84026165.0,US,USA,840,26165.0,wexford,"Wexford, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.33853602,-85.57712739,84026165.0,US,USA,840,26165.0,wexford,"Wexford, Michigan, US",0,0,0,0
@@ -5543,6 +5598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.33853602,-85.57712739,84026165.0,US,USA,840,26165.0,wexford,"Wexford, Michigan, US",9,1,2,1
 2020-04-28,us,michigan,44.33853602,-85.57712739,84026165.0,US,USA,840,26165.0,wexford,"Wexford, Michigan, US",9,0,2,0
 2020-04-29,us,michigan,44.33853602,-85.57712739,84026165.0,US,USA,840,26165.0,wexford,"Wexford, Michigan, US",10,1,2,0
+2020-04-30,us,michigan,44.33853602,-85.57712739,84026165.0,US,USA,840,26165.0,wexford,"Wexford, Michigan, US",9,-1,2,0
 2020-01-22,us,michigan,44.35486835,-83.63484895,84026069.0,US,USA,840,26069.0,iosco,"Iosco, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.35486835,-83.63484895,84026069.0,US,USA,840,26069.0,iosco,"Iosco, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.35486835,-83.63484895,84026069.0,US,USA,840,26069.0,iosco,"Iosco, Michigan, US",0,0,0,0
@@ -5642,6 +5698,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.35486835,-83.63484895,84026069.0,US,USA,840,26069.0,iosco,"Iosco, Michigan, US",41,8,4,0
 2020-04-28,us,michigan,44.35486835,-83.63484895,84026069.0,US,USA,840,26069.0,iosco,"Iosco, Michigan, US",48,7,4,0
 2020-04-29,us,michigan,44.35486835,-83.63484895,84026069.0,US,USA,840,26069.0,iosco,"Iosco, Michigan, US",47,-1,4,0
+2020-04-30,us,michigan,44.35486835,-83.63484895,84026069.0,US,USA,840,26069.0,iosco,"Iosco, Michigan, US",52,5,4,0
 2020-01-22,us,michigan,44.63899297,-86.01608482,84026019.0,US,USA,840,26019.0,benzie,"Benzie, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.63899297,-86.01608482,84026019.0,US,USA,840,26019.0,benzie,"Benzie, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.63899297,-86.01608482,84026019.0,US,USA,840,26019.0,benzie,"Benzie, Michigan, US",0,0,0,0
@@ -5741,6 +5798,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.63899297,-86.01608482,84026019.0,US,USA,840,26019.0,benzie,"Benzie, Michigan, US",4,0,0,0
 2020-04-28,us,michigan,44.63899297,-86.01608482,84026019.0,US,USA,840,26019.0,benzie,"Benzie, Michigan, US",4,0,0,0
 2020-04-29,us,michigan,44.63899297,-86.01608482,84026019.0,US,USA,840,26019.0,benzie,"Benzie, Michigan, US",6,2,0,0
+2020-04-30,us,michigan,44.63899297,-86.01608482,84026019.0,US,USA,840,26019.0,benzie,"Benzie, Michigan, US",6,0,0,0
 2020-01-22,us,michigan,44.68192279,-84.12939244,84026135.0,US,USA,840,26135.0,oscoda,"Oscoda, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.68192279,-84.12939244,84026135.0,US,USA,840,26135.0,oscoda,"Oscoda, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.68192279,-84.12939244,84026135.0,US,USA,840,26135.0,oscoda,"Oscoda, Michigan, US",0,0,0,0
@@ -5840,6 +5898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.68192279,-84.12939244,84026135.0,US,USA,840,26135.0,oscoda,"Oscoda, Michigan, US",4,0,0,0
 2020-04-28,us,michigan,44.68192279,-84.12939244,84026135.0,US,USA,840,26135.0,oscoda,"Oscoda, Michigan, US",4,0,0,0
 2020-04-29,us,michigan,44.68192279,-84.12939244,84026135.0,US,USA,840,26135.0,oscoda,"Oscoda, Michigan, US",4,0,0,0
+2020-04-30,us,michigan,44.68192279,-84.12939244,84026135.0,US,USA,840,26135.0,oscoda,"Oscoda, Michigan, US",5,1,0,0
 2020-01-22,us,michigan,44.68255561,-84.61006219,84026039.0,US,USA,840,26039.0,crawford,"Crawford, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.68255561,-84.61006219,84026039.0,US,USA,840,26039.0,crawford,"Crawford, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.68255561,-84.61006219,84026039.0,US,USA,840,26039.0,crawford,"Crawford, Michigan, US",0,0,0,0
@@ -5939,6 +5998,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.68255561,-84.61006219,84026039.0,US,USA,840,26039.0,crawford,"Crawford, Michigan, US",50,4,3,0
 2020-04-28,us,michigan,44.68255561,-84.61006219,84026039.0,US,USA,840,26039.0,crawford,"Crawford, Michigan, US",51,1,4,1
 2020-04-29,us,michigan,44.68255561,-84.61006219,84026039.0,US,USA,840,26039.0,crawford,"Crawford, Michigan, US",54,3,4,0
+2020-04-30,us,michigan,44.68255561,-84.61006219,84026039.0,US,USA,840,26039.0,crawford,"Crawford, Michigan, US",54,0,4,0
 2020-01-22,us,michigan,44.6846864,-83.59507875,84026001.0,US,USA,840,26001.0,alcona,"Alcona, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.6846864,-83.59507875,84026001.0,US,USA,840,26001.0,alcona,"Alcona, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.6846864,-83.59507875,84026001.0,US,USA,840,26001.0,alcona,"Alcona, Michigan, US",0,0,0,0
@@ -6038,6 +6098,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.6846864,-83.59507875,84026001.0,US,USA,840,26001.0,alcona,"Alcona, Michigan, US",4,1,0,0
 2020-04-28,us,michigan,44.6846864,-83.59507875,84026001.0,US,USA,840,26001.0,alcona,"Alcona, Michigan, US",4,0,0,0
 2020-04-29,us,michigan,44.6846864,-83.59507875,84026001.0,US,USA,840,26001.0,alcona,"Alcona, Michigan, US",4,0,0,0
+2020-04-30,us,michigan,44.6846864,-83.59507875,84026001.0,US,USA,840,26001.0,alcona,"Alcona, Michigan, US",4,0,1,1
 2020-01-22,us,michigan,44.68512729,-85.09085699,84026079.0,US,USA,840,26079.0,kalkaska,"Kalkaska, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.68512729,-85.09085699,84026079.0,US,USA,840,26079.0,kalkaska,"Kalkaska, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.68512729,-85.09085699,84026079.0,US,USA,840,26079.0,kalkaska,"Kalkaska, Michigan, US",0,0,0,0
@@ -6137,6 +6198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.68512729,-85.09085699,84026079.0,US,USA,840,26079.0,kalkaska,"Kalkaska, Michigan, US",17,0,2,0
 2020-04-28,us,michigan,44.68512729,-85.09085699,84026079.0,US,USA,840,26079.0,kalkaska,"Kalkaska, Michigan, US",17,0,2,0
 2020-04-29,us,michigan,44.68512729,-85.09085699,84026079.0,US,USA,840,26079.0,kalkaska,"Kalkaska, Michigan, US",17,0,2,0
+2020-04-30,us,michigan,44.68512729,-85.09085699,84026079.0,US,USA,840,26079.0,kalkaska,"Kalkaska, Michigan, US",17,0,2,0
 2020-01-22,us,michigan,44.69565625,-85.55585247,84026055.0,US,USA,840,26055.0,grand-traverse,"Grand Traverse, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.69565625,-85.55585247,84026055.0,US,USA,840,26055.0,grand-traverse,"Grand Traverse, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.69565625,-85.55585247,84026055.0,US,USA,840,26055.0,grand-traverse,"Grand Traverse, Michigan, US",0,0,0,0
@@ -6236,6 +6298,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.69565625,-85.55585247,84026055.0,US,USA,840,26055.0,grand-traverse,"Grand Traverse, Michigan, US",19,0,5,0
 2020-04-28,us,michigan,44.69565625,-85.55585247,84026055.0,US,USA,840,26055.0,grand-traverse,"Grand Traverse, Michigan, US",19,0,5,0
 2020-04-29,us,michigan,44.69565625,-85.55585247,84026055.0,US,USA,840,26055.0,grand-traverse,"Grand Traverse, Michigan, US",19,0,5,0
+2020-04-30,us,michigan,44.69565625,-85.55585247,84026055.0,US,USA,840,26055.0,grand-traverse,"Grand Traverse, Michigan, US",19,0,5,0
 2020-01-22,us,michigan,44.94430054,-85.80150326,84026089.0,US,USA,840,26089.0,leelanau,"Leelanau, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.94430054,-85.80150326,84026089.0,US,USA,840,26089.0,leelanau,"Leelanau, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.94430054,-85.80150326,84026089.0,US,USA,840,26089.0,leelanau,"Leelanau, Michigan, US",0,0,0,0
@@ -6335,6 +6398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.94430054,-85.80150326,84026089.0,US,USA,840,26089.0,leelanau,"Leelanau, Michigan, US",9,0,0,0
 2020-04-28,us,michigan,44.94430054,-85.80150326,84026089.0,US,USA,840,26089.0,leelanau,"Leelanau, Michigan, US",9,0,0,0
 2020-04-29,us,michigan,44.94430054,-85.80150326,84026089.0,US,USA,840,26089.0,leelanau,"Leelanau, Michigan, US",10,1,0,0
+2020-04-30,us,michigan,44.94430054,-85.80150326,84026089.0,US,USA,840,26089.0,leelanau,"Leelanau, Michigan, US",9,-1,0,0
 2020-01-22,us,michigan,44.99690221,-85.15503082,84026009.0,US,USA,840,26009.0,antrim,"Antrim, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,44.99690221,-85.15503082,84026009.0,US,USA,840,26009.0,antrim,"Antrim, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,44.99690221,-85.15503082,84026009.0,US,USA,840,26009.0,antrim,"Antrim, Michigan, US",0,0,0,0
@@ -6434,6 +6498,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,44.99690221,-85.15503082,84026009.0,US,USA,840,26009.0,antrim,"Antrim, Michigan, US",9,-1,0,0
 2020-04-28,us,michigan,44.99690221,-85.15503082,84026009.0,US,USA,840,26009.0,antrim,"Antrim, Michigan, US",9,0,0,0
 2020-04-29,us,michigan,44.99690221,-85.15503082,84026009.0,US,USA,840,26009.0,antrim,"Antrim, Michigan, US",10,1,0,0
+2020-04-30,us,michigan,44.99690221,-85.15503082,84026009.0,US,USA,840,26009.0,antrim,"Antrim, Michigan, US",10,0,0,0
 2020-01-22,us,michigan,45.02085831,-84.59898295,84026137.0,US,USA,840,26137.0,otsego,"Otsego, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,45.02085831,-84.59898295,84026137.0,US,USA,840,26137.0,otsego,"Otsego, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,45.02085831,-84.59898295,84026137.0,US,USA,840,26137.0,otsego,"Otsego, Michigan, US",0,0,0,0
@@ -6533,6 +6598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,45.02085831,-84.59898295,84026137.0,US,USA,840,26137.0,otsego,"Otsego, Michigan, US",87,0,8,0
 2020-04-28,us,michigan,45.02085831,-84.59898295,84026137.0,US,USA,840,26137.0,otsego,"Otsego, Michigan, US",88,1,8,0
 2020-04-29,us,michigan,45.02085831,-84.59898295,84026137.0,US,USA,840,26137.0,otsego,"Otsego, Michigan, US",90,2,8,0
+2020-04-30,us,michigan,45.02085831,-84.59898295,84026137.0,US,USA,840,26137.0,otsego,"Otsego, Michigan, US",92,2,8,0
 2020-01-22,us,michigan,45.0275929,-84.12696227,84026119.0,US,USA,840,26119.0,montmorency,"Montmorency, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,45.0275929,-84.12696227,84026119.0,US,USA,840,26119.0,montmorency,"Montmorency, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,45.0275929,-84.12696227,84026119.0,US,USA,840,26119.0,montmorency,"Montmorency, Michigan, US",0,0,0,0
@@ -6632,6 +6698,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,45.0275929,-84.12696227,84026119.0,US,USA,840,26119.0,montmorency,"Montmorency, Michigan, US",5,0,0,0
 2020-04-28,us,michigan,45.0275929,-84.12696227,84026119.0,US,USA,840,26119.0,montmorency,"Montmorency, Michigan, US",5,0,0,0
 2020-04-29,us,michigan,45.0275929,-84.12696227,84026119.0,US,USA,840,26119.0,montmorency,"Montmorency, Michigan, US",5,0,0,0
+2020-04-30,us,michigan,45.0275929,-84.12696227,84026119.0,US,USA,840,26119.0,montmorency,"Montmorency, Michigan, US",5,0,0,0
 2020-01-22,us,michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,alpena,"Alpena, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,alpena,"Alpena, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,alpena,"Alpena, Michigan, US",0,0,0,0
@@ -6731,6 +6798,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,alpena,"Alpena, Michigan, US",60,0,2,0
 2020-04-28,us,michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,alpena,"Alpena, Michigan, US",67,7,4,2
 2020-04-29,us,michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,alpena,"Alpena, Michigan, US",76,9,4,0
+2020-04-30,us,michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,alpena,"Alpena, Michigan, US",82,6,5,1
 2020-01-22,us,michigan,45.34018577,-83.91498656,84026141.0,US,USA,840,26141.0,presque-isle,"Presque Isle, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,45.34018577,-83.91498656,84026141.0,US,USA,840,26141.0,presque-isle,"Presque Isle, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,45.34018577,-83.91498656,84026141.0,US,USA,840,26141.0,presque-isle,"Presque Isle, Michigan, US",0,0,0,0
@@ -6830,6 +6898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,45.34018577,-83.91498656,84026141.0,US,USA,840,26141.0,presque-isle,"Presque Isle, Michigan, US",11,1,0,0
 2020-04-28,us,michigan,45.34018577,-83.91498656,84026141.0,US,USA,840,26141.0,presque-isle,"Presque Isle, Michigan, US",11,0,0,0
 2020-04-29,us,michigan,45.34018577,-83.91498656,84026141.0,US,USA,840,26141.0,presque-isle,"Presque Isle, Michigan, US",12,1,0,0
+2020-04-30,us,michigan,45.34018577,-83.91498656,84026141.0,US,USA,840,26141.0,presque-isle,"Presque Isle, Michigan, US",11,-1,0,0
 2020-01-22,us,michigan,45.37790017,-85.19614053,84026029.0,US,USA,840,26029.0,charlevoix,"Charlevoix, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,45.37790017,-85.19614053,84026029.0,US,USA,840,26029.0,charlevoix,"Charlevoix, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,45.37790017,-85.19614053,84026029.0,US,USA,840,26029.0,charlevoix,"Charlevoix, Michigan, US",0,0,0,0
@@ -6929,6 +6998,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,45.37790017,-85.19614053,84026029.0,US,USA,840,26029.0,charlevoix,"Charlevoix, Michigan, US",13,0,1,0
 2020-04-28,us,michigan,45.37790017,-85.19614053,84026029.0,US,USA,840,26029.0,charlevoix,"Charlevoix, Michigan, US",13,0,1,0
 2020-04-29,us,michigan,45.37790017,-85.19614053,84026029.0,US,USA,840,26029.0,charlevoix,"Charlevoix, Michigan, US",13,0,1,0
+2020-04-30,us,michigan,45.37790017,-85.19614053,84026029.0,US,USA,840,26029.0,charlevoix,"Charlevoix, Michigan, US",13,0,1,0
 2020-01-22,us,michigan,45.44787015,-84.50122149,84026031.0,US,USA,840,26031.0,cheboygan,"Cheboygan, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,45.44787015,-84.50122149,84026031.0,US,USA,840,26031.0,cheboygan,"Cheboygan, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,45.44787015,-84.50122149,84026031.0,US,USA,840,26031.0,cheboygan,"Cheboygan, Michigan, US",0,0,0,0
@@ -7028,6 +7098,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,45.44787015,-84.50122149,84026031.0,US,USA,840,26031.0,cheboygan,"Cheboygan, Michigan, US",17,0,1,0
 2020-04-28,us,michigan,45.44787015,-84.50122149,84026031.0,US,USA,840,26031.0,cheboygan,"Cheboygan, Michigan, US",17,0,1,0
 2020-04-29,us,michigan,45.44787015,-84.50122149,84026031.0,US,USA,840,26031.0,cheboygan,"Cheboygan, Michigan, US",17,0,1,0
+2020-04-30,us,michigan,45.44787015,-84.50122149,84026031.0,US,USA,840,26031.0,cheboygan,"Cheboygan, Michigan, US",19,2,1,0
 2020-01-22,us,michigan,45.52625509,-84.89083249,84026047.0,US,USA,840,26047.0,emmet,"Emmet, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,45.52625509,-84.89083249,84026047.0,US,USA,840,26047.0,emmet,"Emmet, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,45.52625509,-84.89083249,84026047.0,US,USA,840,26047.0,emmet,"Emmet, Michigan, US",0,0,0,0
@@ -7127,6 +7198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,45.52625509,-84.89083249,84026047.0,US,USA,840,26047.0,emmet,"Emmet, Michigan, US",21,0,2,0
 2020-04-28,us,michigan,45.52625509,-84.89083249,84026047.0,US,USA,840,26047.0,emmet,"Emmet, Michigan, US",21,0,2,0
 2020-04-29,us,michigan,45.52625509,-84.89083249,84026047.0,US,USA,840,26047.0,emmet,"Emmet, Michigan, US",21,0,2,0
+2020-04-30,us,michigan,45.52625509,-84.89083249,84026047.0,US,USA,840,26047.0,emmet,"Emmet, Michigan, US",21,0,2,0
 2020-01-22,us,michigan,45.58038692,-87.55370409,84026109.0,US,USA,840,26109.0,menominee,"Menominee, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,45.58038692,-87.55370409,84026109.0,US,USA,840,26109.0,menominee,"Menominee, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,45.58038692,-87.55370409,84026109.0,US,USA,840,26109.0,menominee,"Menominee, Michigan, US",0,0,0,0
@@ -7226,6 +7298,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,45.58038692,-87.55370409,84026109.0,US,USA,840,26109.0,menominee,"Menominee, Michigan, US",3,0,0,0
 2020-04-28,us,michigan,45.58038692,-87.55370409,84026109.0,US,USA,840,26109.0,menominee,"Menominee, Michigan, US",5,2,0,0
 2020-04-29,us,michigan,45.58038692,-87.55370409,84026109.0,US,USA,840,26109.0,menominee,"Menominee, Michigan, US",5,0,0,0
+2020-04-30,us,michigan,45.58038692,-87.55370409,84026109.0,US,USA,840,26109.0,menominee,"Menominee, Michigan, US",5,0,0,0
 2020-01-22,us,michigan,45.90484910000001,-86.9080745,84026041.0,US,USA,840,26041.0,delta,"Delta, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,45.90484910000001,-86.9080745,84026041.0,US,USA,840,26041.0,delta,"Delta, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,45.90484910000001,-86.9080745,84026041.0,US,USA,840,26041.0,delta,"Delta, Michigan, US",0,0,0,0
@@ -7325,6 +7398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,45.90484910000001,-86.9080745,84026041.0,US,USA,840,26041.0,delta,"Delta, Michigan, US",13,1,2,0
 2020-04-28,us,michigan,45.90484910000001,-86.9080745,84026041.0,US,USA,840,26041.0,delta,"Delta, Michigan, US",13,0,2,0
 2020-04-29,us,michigan,45.90484910000001,-86.9080745,84026041.0,US,USA,840,26041.0,delta,"Delta, Michigan, US",13,0,2,0
+2020-04-30,us,michigan,45.90484910000001,-86.9080745,84026041.0,US,USA,840,26041.0,delta,"Delta, Michigan, US",13,0,2,0
 2020-01-22,us,michigan,46.00999672,-87.86961634,84026043.0,US,USA,840,26043.0,dickinson,"Dickinson, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.00999672,-87.86961634,84026043.0,US,USA,840,26043.0,dickinson,"Dickinson, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.00999672,-87.86961634,84026043.0,US,USA,840,26043.0,dickinson,"Dickinson, Michigan, US",0,0,0,0
@@ -7424,6 +7498,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.00999672,-87.86961634,84026043.0,US,USA,840,26043.0,dickinson,"Dickinson, Michigan, US",3,0,2,0
 2020-04-28,us,michigan,46.00999672,-87.86961634,84026043.0,US,USA,840,26043.0,dickinson,"Dickinson, Michigan, US",3,0,2,0
 2020-04-29,us,michigan,46.00999672,-87.86961634,84026043.0,US,USA,840,26043.0,dickinson,"Dickinson, Michigan, US",3,0,2,0
+2020-04-30,us,michigan,46.00999672,-87.86961634,84026043.0,US,USA,840,26043.0,dickinson,"Dickinson, Michigan, US",3,0,2,0
 2020-01-22,us,michigan,46.07028979,-85.04980537,84026097.0,US,USA,840,26097.0,mackinac,"Mackinac, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.07028979,-85.04980537,84026097.0,US,USA,840,26097.0,mackinac,"Mackinac, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.07028979,-85.04980537,84026097.0,US,USA,840,26097.0,mackinac,"Mackinac, Michigan, US",0,0,0,0
@@ -7523,6 +7598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.07028979,-85.04980537,84026097.0,US,USA,840,26097.0,mackinac,"Mackinac, Michigan, US",5,0,0,0
 2020-04-28,us,michigan,46.07028979,-85.04980537,84026097.0,US,USA,840,26097.0,mackinac,"Mackinac, Michigan, US",5,0,0,0
 2020-04-29,us,michigan,46.07028979,-85.04980537,84026097.0,US,USA,840,26097.0,mackinac,"Mackinac, Michigan, US",6,1,0,0
+2020-04-30,us,michigan,46.07028979,-85.04980537,84026097.0,US,USA,840,26097.0,mackinac,"Mackinac, Michigan, US",6,0,0,0
 2020-01-22,us,michigan,46.19235734,-86.19972234,84026153.0,US,USA,840,26153.0,schoolcraft,"Schoolcraft, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.19235734,-86.19972234,84026153.0,US,USA,840,26153.0,schoolcraft,"Schoolcraft, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.19235734,-86.19972234,84026153.0,US,USA,840,26153.0,schoolcraft,"Schoolcraft, Michigan, US",0,0,0,0
@@ -7622,6 +7698,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.19235734,-86.19972234,84026153.0,US,USA,840,26153.0,schoolcraft,"Schoolcraft, Michigan, US",3,0,0,0
 2020-04-28,us,michigan,46.19235734,-86.19972234,84026153.0,US,USA,840,26153.0,schoolcraft,"Schoolcraft, Michigan, US",3,0,0,0
 2020-04-29,us,michigan,46.19235734,-86.19972234,84026153.0,US,USA,840,26153.0,schoolcraft,"Schoolcraft, Michigan, US",3,0,0,0
+2020-04-30,us,michigan,46.19235734,-86.19972234,84026153.0,US,USA,840,26153.0,schoolcraft,"Schoolcraft, Michigan, US",3,0,0,0
 2020-01-22,us,michigan,46.20974132,-88.53136251,84026071.0,US,USA,840,26071.0,iron,"Iron, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.20974132,-88.53136251,84026071.0,US,USA,840,26071.0,iron,"Iron, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.20974132,-88.53136251,84026071.0,US,USA,840,26071.0,iron,"Iron, Michigan, US",0,0,0,0
@@ -7721,6 +7798,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.20974132,-88.53136251,84026071.0,US,USA,840,26071.0,iron,"Iron, Michigan, US",0,0,0,0
 2020-04-28,us,michigan,46.20974132,-88.53136251,84026071.0,US,USA,840,26071.0,iron,"Iron, Michigan, US",0,0,0,0
 2020-04-29,us,michigan,46.20974132,-88.53136251,84026071.0,US,USA,840,26071.0,iron,"Iron, Michigan, US",0,0,0,0
+2020-04-30,us,michigan,46.20974132,-88.53136251,84026071.0,US,USA,840,26071.0,iron,"Iron, Michigan, US",0,0,0,0
 2020-01-22,us,michigan,46.29552653,-84.54353449,84026033.0,US,USA,840,26033.0,chippewa,"Chippewa, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.29552653,-84.54353449,84026033.0,US,USA,840,26033.0,chippewa,"Chippewa, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.29552653,-84.54353449,84026033.0,US,USA,840,26033.0,chippewa,"Chippewa, Michigan, US",0,0,0,0
@@ -7820,6 +7898,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.29552653,-84.54353449,84026033.0,US,USA,840,26033.0,chippewa,"Chippewa, Michigan, US",2,0,0,0
 2020-04-28,us,michigan,46.29552653,-84.54353449,84026033.0,US,USA,840,26033.0,chippewa,"Chippewa, Michigan, US",2,0,0,0
 2020-04-29,us,michigan,46.29552653,-84.54353449,84026033.0,US,USA,840,26033.0,chippewa,"Chippewa, Michigan, US",2,0,0,0
+2020-04-30,us,michigan,46.29552653,-84.54353449,84026033.0,US,USA,840,26033.0,chippewa,"Chippewa, Michigan, US",2,0,0,0
 2020-01-22,us,michigan,46.40862701,-89.69377193,84026053.0,US,USA,840,26053.0,gogebic,"Gogebic, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.40862701,-89.69377193,84026053.0,US,USA,840,26053.0,gogebic,"Gogebic, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.40862701,-89.69377193,84026053.0,US,USA,840,26053.0,gogebic,"Gogebic, Michigan, US",0,0,0,0
@@ -7919,6 +7998,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.40862701,-89.69377193,84026053.0,US,USA,840,26053.0,gogebic,"Gogebic, Michigan, US",4,0,1,0
 2020-04-28,us,michigan,46.40862701,-89.69377193,84026053.0,US,USA,840,26053.0,gogebic,"Gogebic, Michigan, US",4,0,1,0
 2020-04-29,us,michigan,46.40862701,-89.69377193,84026053.0,US,USA,840,26053.0,gogebic,"Gogebic, Michigan, US",4,0,1,0
+2020-04-30,us,michigan,46.40862701,-89.69377193,84026053.0,US,USA,840,26053.0,gogebic,"Gogebic, Michigan, US",4,0,1,0
 2020-01-22,us,michigan,46.41292944,-86.60260122,84026003.0,US,USA,840,26003.0,alger,"Alger, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.41292944,-86.60260122,84026003.0,US,USA,840,26003.0,alger,"Alger, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.41292944,-86.60260122,84026003.0,US,USA,840,26003.0,alger,"Alger, Michigan, US",0,0,0,0
@@ -8018,6 +8098,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.41292944,-86.60260122,84026003.0,US,USA,840,26003.0,alger,"Alger, Michigan, US",0,0,0,0
 2020-04-28,us,michigan,46.41292944,-86.60260122,84026003.0,US,USA,840,26003.0,alger,"Alger, Michigan, US",0,0,0,0
 2020-04-29,us,michigan,46.41292944,-86.60260122,84026003.0,US,USA,840,26003.0,alger,"Alger, Michigan, US",0,0,0,0
+2020-04-30,us,michigan,46.41292944,-86.60260122,84026003.0,US,USA,840,26003.0,alger,"Alger, Michigan, US",0,0,0,0
 2020-01-22,us,michigan,46.4338914,-87.64043701,84026103.0,US,USA,840,26103.0,marquette,"Marquette, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.4338914,-87.64043701,84026103.0,US,USA,840,26103.0,marquette,"Marquette, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.4338914,-87.64043701,84026103.0,US,USA,840,26103.0,marquette,"Marquette, Michigan, US",0,0,0,0
@@ -8117,6 +8198,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.4338914,-87.64043701,84026103.0,US,USA,840,26103.0,marquette,"Marquette, Michigan, US",42,0,7,0
 2020-04-28,us,michigan,46.4338914,-87.64043701,84026103.0,US,USA,840,26103.0,marquette,"Marquette, Michigan, US",43,1,8,1
 2020-04-29,us,michigan,46.4338914,-87.64043701,84026103.0,US,USA,840,26103.0,marquette,"Marquette, Michigan, US",45,2,8,0
+2020-04-30,us,michigan,46.4338914,-87.64043701,84026103.0,US,USA,840,26103.0,marquette,"Marquette, Michigan, US",46,1,8,0
 2020-01-22,us,michigan,46.47227431,-85.54471223,84026095.0,US,USA,840,26095.0,luce,"Luce, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.47227431,-85.54471223,84026095.0,US,USA,840,26095.0,luce,"Luce, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.47227431,-85.54471223,84026095.0,US,USA,840,26095.0,luce,"Luce, Michigan, US",0,0,0,0
@@ -8216,6 +8298,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.47227431,-85.54471223,84026095.0,US,USA,840,26095.0,luce,"Luce, Michigan, US",1,0,0,0
 2020-04-28,us,michigan,46.47227431,-85.54471223,84026095.0,US,USA,840,26095.0,luce,"Luce, Michigan, US",1,0,0,0
 2020-04-29,us,michigan,46.47227431,-85.54471223,84026095.0,US,USA,840,26095.0,luce,"Luce, Michigan, US",1,0,0,0
+2020-04-30,us,michigan,46.47227431,-85.54471223,84026095.0,US,USA,840,26095.0,luce,"Luce, Michigan, US",1,0,0,0
 2020-01-22,us,michigan,46.665226200000006,-89.31390481,84026131.0,US,USA,840,26131.0,ontonagon,"Ontonagon, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.665226200000006,-89.31390481,84026131.0,US,USA,840,26131.0,ontonagon,"Ontonagon, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.665226200000006,-89.31390481,84026131.0,US,USA,840,26131.0,ontonagon,"Ontonagon, Michigan, US",0,0,0,0
@@ -8315,6 +8398,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.665226200000006,-89.31390481,84026131.0,US,USA,840,26131.0,ontonagon,"Ontonagon, Michigan, US",0,0,0,0
 2020-04-28,us,michigan,46.665226200000006,-89.31390481,84026131.0,US,USA,840,26131.0,ontonagon,"Ontonagon, Michigan, US",0,0,0,0
 2020-04-29,us,michigan,46.665226200000006,-89.31390481,84026131.0,US,USA,840,26131.0,ontonagon,"Ontonagon, Michigan, US",0,0,0,0
+2020-04-30,us,michigan,46.665226200000006,-89.31390481,84026131.0,US,USA,840,26131.0,ontonagon,"Ontonagon, Michigan, US",0,0,0,0
 2020-01-22,us,michigan,46.6720582,-88.36363591,84026013.0,US,USA,840,26013.0,baraga,"Baraga, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.6720582,-88.36363591,84026013.0,US,USA,840,26013.0,baraga,"Baraga, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.6720582,-88.36363591,84026013.0,US,USA,840,26013.0,baraga,"Baraga, Michigan, US",0,0,0,0
@@ -8414,6 +8498,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.6720582,-88.36363591,84026013.0,US,USA,840,26013.0,baraga,"Baraga, Michigan, US",0,0,0,0
 2020-04-28,us,michigan,46.6720582,-88.36363591,84026013.0,US,USA,840,26013.0,baraga,"Baraga, Michigan, US",0,0,0,0
 2020-04-29,us,michigan,46.6720582,-88.36363591,84026013.0,US,USA,840,26013.0,baraga,"Baraga, Michigan, US",0,0,0,0
+2020-04-30,us,michigan,46.6720582,-88.36363591,84026013.0,US,USA,840,26013.0,baraga,"Baraga, Michigan, US",0,0,0,0
 2020-01-22,us,michigan,46.89988536,-88.68495385,84026061.0,US,USA,840,26061.0,houghton,"Houghton, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,46.89988536,-88.68495385,84026061.0,US,USA,840,26061.0,houghton,"Houghton, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,46.89988536,-88.68495385,84026061.0,US,USA,840,26061.0,houghton,"Houghton, Michigan, US",0,0,0,0
@@ -8513,6 +8598,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,46.89988536,-88.68495385,84026061.0,US,USA,840,26061.0,houghton,"Houghton, Michigan, US",2,0,0,0
 2020-04-28,us,michigan,46.89988536,-88.68495385,84026061.0,US,USA,840,26061.0,houghton,"Houghton, Michigan, US",2,0,0,0
 2020-04-29,us,michigan,46.89988536,-88.68495385,84026061.0,US,USA,840,26061.0,houghton,"Houghton, Michigan, US",2,0,0,0
+2020-04-30,us,michigan,46.89988536,-88.68495385,84026061.0,US,USA,840,26061.0,houghton,"Houghton, Michigan, US",2,0,0,0
 2020-01-22,us,michigan,47.63197653,-88.41434263,84026083.0,US,USA,840,26083.0,keweenaw,"Keweenaw, Michigan, US",0,0,0,0
 2020-01-23,us,michigan,47.63197653,-88.41434263,84026083.0,US,USA,840,26083.0,keweenaw,"Keweenaw, Michigan, US",0,0,0,0
 2020-01-24,us,michigan,47.63197653,-88.41434263,84026083.0,US,USA,840,26083.0,keweenaw,"Keweenaw, Michigan, US",0,0,0,0
@@ -8612,3 +8698,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,michigan,47.63197653,-88.41434263,84026083.0,US,USA,840,26083.0,keweenaw,"Keweenaw, Michigan, US",0,0,0,0
 2020-04-28,us,michigan,47.63197653,-88.41434263,84026083.0,US,USA,840,26083.0,keweenaw,"Keweenaw, Michigan, US",0,0,0,0
 2020-04-29,us,michigan,47.63197653,-88.41434263,84026083.0,US,USA,840,26083.0,keweenaw,"Keweenaw, Michigan, US",0,0,0,0
+2020-04-30,us,michigan,47.63197653,-88.41434263,84026083.0,US,USA,840,26083.0,keweenaw,"Keweenaw, Michigan, US",0,0,0,0

@@ -98,3 +98,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,oklahoma,35.61318461,-95.37802952,84040101.0,US,USA,840,40101.0,muskogee,"Muskogee, Oklahoma, US",26,0,4,0
 2020-04-28,us,oklahoma,35.61318461,-95.37802952,84040101.0,US,USA,840,40101.0,muskogee,"Muskogee, Oklahoma, US",26,0,4,0
 2020-04-29,us,oklahoma,35.61318461,-95.37802952,84040101.0,US,USA,840,40101.0,muskogee,"Muskogee, Oklahoma, US",26,0,5,1
+2020-04-30,us,oklahoma,35.61318461,-95.37802952,84040101.0,US,USA,840,40101.0,muskogee,"Muskogee, Oklahoma, US",27,1,5,0

@@ -98,3 +98,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",209,2,35,2
 2020-04-28,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",210,1,35,0
 2020-04-29,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",214,4,35,0
+2020-04-30,us,new-york,42.2689144,-77.3829924,84036101.0,US,USA,840,36101.0,steuben,"Steuben, New York, US",216,2,35,0

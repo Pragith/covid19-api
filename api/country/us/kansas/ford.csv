@@ -98,3 +98,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-27,us,kansas,37.69200114,-99.88825298,84020057.0,US,USA,840,20057.0,ford,"Ford, Kansas, US",516,57,0,0
 2020-04-28,us,kansas,37.69200114,-99.88825298,84020057.0,US,USA,840,20057.0,ford,"Ford, Kansas, US",544,28,0,0
 2020-04-29,us,kansas,37.69200114,-99.88825298,84020057.0,US,USA,840,20057.0,ford,"Ford, Kansas, US",600,56,1,1
+2020-04-30,us,kansas,37.69200114,-99.88825298,84020057.0,US,USA,840,20057.0,ford,"Ford, Kansas, US",675,75,1,0
