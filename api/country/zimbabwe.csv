@@ -98,3 +98,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-27,zimbabwe,,-20.0,30.0,32,4,5.0,1,0,3.0
 2020-04-28,zimbabwe,,-20.0,30.0,32,4,5.0,0,0,0.0
 2020-04-29,zimbabwe,,-20.0,30.0,32,4,5.0,0,0,0.0
+2020-04-30,zimbabwe,,-20.0,30.0,40,4,5.0,8,0,0.0

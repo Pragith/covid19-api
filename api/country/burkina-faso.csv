@@ -98,3 +98,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-27,burkina-faso,,12.2383,-1.5616,635,42,469.0,3,0,16.0
 2020-04-28,burkina-faso,,12.2383,-1.5616,638,42,476.0,3,0,7.0
 2020-04-29,burkina-faso,,12.2383,-1.5616,641,43,498.0,3,1,22.0
+2020-04-30,burkina-faso,,12.2383,-1.5616,645,43,506.0,4,0,8.0

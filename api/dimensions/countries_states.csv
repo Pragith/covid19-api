@@ -37,7 +37,7 @@ burma,,21.9162,95.956
 burundi,,-3.3731,29.9189
 cabo-verde,,16.5388,-23.0418
 cambodia,,11.55,104.9167
-cameroon,,3.8480000000000003,11.5021
+cameroon,,3.848,11.5021
 canada,alberta,53.9333,-116.5765
 canada,british-columbia,49.2827,-123.1207
 canada,diamond-princess,0.0,0.0
@@ -46,7 +46,7 @@ canada,manitoba,53.7609,-98.8139
 canada,new-brunswick,46.5653,-66.4619
 canada,newfoundland-and-labrador,53.1355,-57.6604
 canada,northwest-territories,64.8255,-124.8457
-canada,nova-scotia,44.681999999999995,-63.7443
+canada,nova-scotia,44.682,-63.7443
 canada,ontario,51.2538,-85.3232
 canada,prince-edward-island,46.5107,-63.4168
 canada,quebec,52.9399,-73.5491
@@ -66,8 +66,8 @@ china,guangxi,23.8298,108.7881
 china,guizhou,26.8154,106.8748
 china,hainan,19.1959,109.7453
 china,hebei,39.549,116.1306
-china,heilongjiang,47.861999999999995,127.7615
-china,henan,33.882,113.61399999999999
+china,heilongjiang,47.862,127.7615
+china,henan,33.882,113.614
 china,hong-kong,22.3,114.2
 china,hubei,30.9756,112.2707
 china,hunan,27.6104,111.7088
@@ -81,15 +81,16 @@ china,ningxia,37.2692,106.1655
 china,qinghai,35.7452,95.9956
 china,shaanxi,35.1917,108.8701
 china,shandong,36.3427,118.1498
-china,shanghai,31.201999999999998,121.4491
+china,shanghai,31.202,121.4491
 china,shanxi,37.5777,112.2922
 china,sichuan,30.6171,102.7103
 china,tianjin,39.3054,117.323
 china,tibet,31.6927,88.0924
 china,xinjiang,41.1129,85.2401
-china,yunnan,24.974,101.48700000000001
+china,yunnan,24.974,101.487
 china,zhejiang,29.1832,120.0934
 colombia,,4.5709,-74.2973
+comoros,,-11.6455,43.3333
 congo-brazzaville,,-4.0383,21.7587
 congo-kinshasa,,-4.0383,21.7587
 costa-rica,,9.7489,-83.7534
@@ -97,7 +98,7 @@ cote-d-ivoire,,7.54,-5.5471
 croatia,,45.1,15.2
 cuba,,22.0,-80.0
 cyprus,,35.1264,33.4299
-czechia,,49.8175,15.472999999999999
+czechia,,49.8175,15.473
 denmark,,56.2639,9.5018
 denmark,faroe-islands,61.8926,-6.9118
 denmark,greenland,71.7069,-42.6043
@@ -132,7 +133,7 @@ georgia,,42.3154,43.3569
 germany,,51.0,9.0
 ghana,,7.9465,-1.0232
 greece,,39.0742,21.8243
-grenada,,12.1165,-61.678999999999995
+grenada,,12.1165,-61.679
 guatemala,,15.7835,-90.2308
 guinea,,9.9456,-9.6966
 guinea-bissau,,11.8037,-15.1804
@@ -158,7 +159,7 @@ korea-south,,36.0,128.0
 kosovo,,42.602636,20.902977
 kuwait,,29.5,47.75
 kyrgyzstan,,41.2044,74.7661
-laos,,19.856270000000002,102.495496
+laos,,19.85627,102.495496
 latvia,,56.8796,24.6032
 lebanon,,33.8547,35.8623
 liberia,,6.4281,-9.4295
@@ -223,7 +224,7 @@ slovakia,,48.669,19.699
 slovenia,,46.1512,14.9955
 somalia,,5.1521,46.1996
 south-africa,,-30.5595,22.9375
-south-sudan,,6.8770000000000024,31.307
+south-sudan,,6.877000000000002,31.307
 spain,,40.0,-4.0
 sri-lanka,,7.0,81.0
 sudan,,12.8628,30.2176
@@ -232,6 +233,7 @@ sweden,,63.0,16.0
 switzerland,,46.8182,8.2275
 syria,,34.802075,38.99681500000001
 taiwan,,23.7,121.0
+tajikistan,,38.861034000000004,71.276093
 tanzania,,-6.369,34.8888
 thailand,,15.0,101.0
 timor-leste,,-8.874217,125.727539
@@ -260,6 +262,6 @@ venezuela,,6.4238,-66.5897
 vietnam,,16.0,108.0
 west-bank-and-gaza,,31.9522,35.2332
 western-sahara,,24.2155,-12.8858
-yemen,,15.552726999999999,48.516388
+yemen,,15.552727,48.516388
 zambia,,-15.4167,28.2833
 zimbabwe,,-20.0,30.0

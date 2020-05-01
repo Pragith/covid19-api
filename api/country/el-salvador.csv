@@ -98,3 +98,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-27,el-salvador,,13.7942,-88.8965,323,8,89.0,25,0,6.0
 2020-04-28,el-salvador,,13.7942,-88.8965,345,8,97.0,22,0,8.0
 2020-04-29,el-salvador,,13.7942,-88.8965,377,9,106.0,32,1,9.0
+2020-04-30,el-salvador,,13.7942,-88.8965,395,10,119.0,18,1,13.0

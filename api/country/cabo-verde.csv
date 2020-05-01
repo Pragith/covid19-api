@@ -98,3 +98,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-27,cabo-verde,,16.5388,-23.0418,109,1,1.0,3,0,0.0
 2020-04-28,cabo-verde,,16.5388,-23.0418,114,1,2.0,5,0,1.0
 2020-04-29,cabo-verde,,16.5388,-23.0418,114,1,2.0,0,0,0.0
+2020-04-30,cabo-verde,,16.5388,-23.0418,121,1,4.0,7,0,2.0
