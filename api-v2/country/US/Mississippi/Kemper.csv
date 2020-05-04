@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Mississippi,32.75462946,-88.64105766,84028069.0,US,USA,840,28069.0,Kemper,"Kemper, Mississippi, US",50,1,1,0
 2020-04-29,US,Mississippi,32.75462946,-88.64105766,84028069.0,US,USA,840,28069.0,Kemper,"Kemper, Mississippi, US",56,6,1,0
 2020-04-30,US,Mississippi,32.75462946,-88.64105766,84028069.0,US,USA,840,28069.0,Kemper,"Kemper, Mississippi, US",57,1,2,1
+2020-05-01,US,Mississippi,32.75462946,-88.64105766,84028069.0,US,USA,840,28069.0,Kemper,"Kemper, Mississippi, US",64,7,3,1
+2020-05-02,US,Mississippi,32.75462946,-88.64105766,84028069.0,US,USA,840,28069.0,Kemper,"Kemper, Mississippi, US",67,3,3,0
+2020-05-03,US,Mississippi,32.75462946,-88.64105766,84028069.0,US,USA,840,28069.0,Kemper,"Kemper, Mississippi, US",76,9,3,0

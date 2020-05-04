@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Minnesota,0.0,0.0,84090027.0,US,USA,840,90027.0,Unassigned,"Unassigned, Minnesota, US",6,6,0,0
 2020-04-29,US,Minnesota,0.0,0.0,84090027.0,US,USA,840,90027.0,Unassigned,"Unassigned, Minnesota, US",7,1,0,0
 2020-04-30,US,Minnesota,0.0,0.0,84090027.0,US,USA,840,90027.0,Unassigned,"Unassigned, Minnesota, US",9,2,0,0
+2020-05-01,US,Minnesota,0.0,0.0,84090027.0,US,USA,840,90027.0,Unassigned,"Unassigned, Minnesota, US",13,4,0,0
+2020-05-02,US,Minnesota,0.0,0.0,84090027.0,US,USA,840,90027.0,Unassigned,"Unassigned, Minnesota, US",0,-13,0,0
+2020-05-03,US,Minnesota,0.0,0.0,84090027.0,US,USA,840,90027.0,Unassigned,"Unassigned, Minnesota, US",20,20,0,0

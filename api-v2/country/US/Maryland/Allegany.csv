@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,Allegany,"Allegany, Maryland, US",115,1,5,1
 2020-04-29,US,Maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,Allegany,"Allegany, Maryland, US",116,1,6,1
 2020-04-30,US,Maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,Allegany,"Allegany, Maryland, US",118,2,7,1
+2020-05-01,US,Maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,Allegany,"Allegany, Maryland, US",118,0,7,0
+2020-05-02,US,Maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,Allegany,"Allegany, Maryland, US",121,3,8,1
+2020-05-03,US,Maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,Allegany,"Allegany, Maryland, US",124,3,12,4

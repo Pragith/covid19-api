@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,Sanilac,"Sanilac, Michigan, US",34,0,4,0
 2020-04-29,US,Michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,Sanilac,"Sanilac, Michigan, US",34,0,4,0
 2020-04-30,US,Michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,Sanilac,"Sanilac, Michigan, US",35,1,4,0
+2020-05-01,US,Michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,Sanilac,"Sanilac, Michigan, US",36,1,5,1
+2020-05-02,US,Michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,Sanilac,"Sanilac, Michigan, US",36,0,5,0
+2020-05-03,US,Michigan,43.42406072,-82.82055898,84026151.0,US,USA,840,26151.0,Sanilac,"Sanilac, Michigan, US",37,1,5,0

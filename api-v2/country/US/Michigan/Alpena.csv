@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,Alpena,"Alpena, Michigan, US",67,7,4,2
 2020-04-29,US,Michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,Alpena,"Alpena, Michigan, US",76,9,4,0
 2020-04-30,US,Michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,Alpena,"Alpena, Michigan, US",82,6,5,1
+2020-05-01,US,Michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,Alpena,"Alpena, Michigan, US",82,0,6,1
+2020-05-02,US,Michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,Alpena,"Alpena, Michigan, US",82,0,6,0
+2020-05-03,US,Michigan,45.03477666,-83.62212411,84026007.0,US,USA,840,26007.0,Alpena,"Alpena, Michigan, US",83,1,6,0

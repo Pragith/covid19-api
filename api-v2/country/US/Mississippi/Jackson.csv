@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Mississippi,30.54020656,-88.64184064,84028059.0,US,USA,840,28059.0,Jackson,"Jackson, Mississippi, US",252,12,6,0
 2020-04-29,US,Mississippi,30.54020656,-88.64184064,84028059.0,US,USA,840,28059.0,Jackson,"Jackson, Mississippi, US",255,3,6,0
 2020-04-30,US,Mississippi,30.54020656,-88.64184064,84028059.0,US,USA,840,28059.0,Jackson,"Jackson, Mississippi, US",259,4,6,0
+2020-05-01,US,Mississippi,30.54020656,-88.64184064,84028059.0,US,USA,840,28059.0,Jackson,"Jackson, Mississippi, US",267,8,6,0
+2020-05-02,US,Mississippi,30.54020656,-88.64184064,84028059.0,US,USA,840,28059.0,Jackson,"Jackson, Mississippi, US",267,0,7,1
+2020-05-03,US,Mississippi,30.54020656,-88.64184064,84028059.0,US,USA,840,28059.0,Jackson,"Jackson, Mississippi, US",267,0,7,0

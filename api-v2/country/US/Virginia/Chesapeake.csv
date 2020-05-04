@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Virginia,36.67670048,-76.30545744,84051550.0,US,USA,840,51550.0,Chesapeake,"Chesapeake, Virginia, US",220,6,6,0
 2020-04-29,US,Virginia,36.67670048,-76.30545744,84051550.0,US,USA,840,51550.0,Chesapeake,"Chesapeake, Virginia, US",232,12,6,0
 2020-04-30,US,Virginia,36.67670048,-76.30545744,84051550.0,US,USA,840,51550.0,Chesapeake,"Chesapeake, Virginia, US",242,10,6,0
+2020-05-01,US,Virginia,36.67670048,-76.30545744,84051550.0,US,USA,840,51550.0,Chesapeake,"Chesapeake, Virginia, US",256,14,7,1
+2020-05-02,US,Virginia,36.67670048,-76.30545744,84051550.0,US,USA,840,51550.0,Chesapeake,"Chesapeake, Virginia, US",263,7,7,0
+2020-05-03,US,Virginia,36.67670048,-76.30545744,84051550.0,US,USA,840,51550.0,Chesapeake,"Chesapeake, Virginia, US",279,16,9,2

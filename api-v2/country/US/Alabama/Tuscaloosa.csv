@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,Tuscaloosa,"Tuscaloosa, Alabama, US",199,4,0,0
 2020-04-29,US,Alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,Tuscaloosa,"Tuscaloosa, Alabama, US",202,3,1,1
 2020-04-30,US,Alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,Tuscaloosa,"Tuscaloosa, Alabama, US",208,6,1,0
+2020-05-01,US,Alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,Tuscaloosa,"Tuscaloosa, Alabama, US",210,2,2,1
+2020-05-02,US,Alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,Tuscaloosa,"Tuscaloosa, Alabama, US",216,6,2,0
+2020-05-03,US,Alabama,33.28726072,-87.52556818,84001125.0,US,USA,840,1125.0,Tuscaloosa,"Tuscaloosa, Alabama, US",218,2,2,0

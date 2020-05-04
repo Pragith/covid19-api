@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,Marshall,"Marshall, Alabama, US",313,3,6,1
 2020-04-29,US,Alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,Marshall,"Marshall, Alabama, US",316,3,6,0
 2020-04-30,US,Alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,Marshall,"Marshall, Alabama, US",317,1,6,0
+2020-05-01,US,Alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,Marshall,"Marshall, Alabama, US",328,11,7,1
+2020-05-02,US,Alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,Marshall,"Marshall, Alabama, US",334,6,7,0
+2020-05-03,US,Alabama,34.36975964,-86.30486727,84001095.0,US,USA,840,1095.0,Marshall,"Marshall, Alabama, US",342,8,7,0

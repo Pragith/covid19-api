@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,New London,"New London, Connecticut, US",530,14,34,0
 2020-04-29,US,Connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,New London,"New London, Connecticut, US",540,10,35,1
 2020-04-30,US,Connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,New London,"New London, Connecticut, US",564,24,36,1
+2020-05-01,US,Connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,New London,"New London, Connecticut, US",603,39,42,6
+2020-05-02,US,Connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,New London,"New London, Connecticut, US",623,20,43,1
+2020-05-03,US,Connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,New London,"New London, Connecticut, US",623,0,43,0

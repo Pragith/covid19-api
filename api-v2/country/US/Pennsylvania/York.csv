@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,US,Pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,York,"York, Pennsylvania, US",614,8,9,0
 2020-04-29,US,Pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,York,"York, Pennsylvania, US",624,10,9,0
 2020-04-30,US,Pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,York,"York, Pennsylvania, US",641,17,9,0
+2020-05-01,US,Pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,York,"York, Pennsylvania, US",651,10,11,2
+2020-05-02,US,Pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,York,"York, Pennsylvania, US",664,13,11,0
+2020-05-03,US,Pennsylvania,39.9210089,-76.73040131,84042133.0,US,USA,840,42133.0,York,"York, Pennsylvania, US",679,15,11,0
