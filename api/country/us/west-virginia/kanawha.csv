@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,west-virginia,38.33860077,-81.52857054,84054039.0,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",157,2,4,0
 2020-04-29,us,west-virginia,38.33860077,-81.52857054,84054039.0,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",157,0,4,0
 2020-04-30,us,west-virginia,38.33860077,-81.52857054,84054039.0,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",160,3,5,1
+2020-05-01,us,west-virginia,38.33860077,-81.52857054,84054039.0,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",161,1,7,2
+2020-05-02,us,west-virginia,38.33860077,-81.52857054,84054039.0,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",168,7,9,2
+2020-05-03,us,west-virginia,38.33860077,-81.52857054,84054039.0,US,USA,840,54039.0,kanawha,"Kanawha, West Virginia, US",167,-1,9,0

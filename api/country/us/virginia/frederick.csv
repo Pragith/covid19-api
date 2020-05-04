@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,virginia,39.20172582,-78.25974949,84051069.0,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",97,2,1,1
 2020-04-29,us,virginia,39.20172582,-78.25974949,84051069.0,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",101,4,1,0
 2020-04-30,us,virginia,39.20172582,-78.25974949,84051069.0,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",105,4,1,0
+2020-05-01,us,virginia,39.20172582,-78.25974949,84051069.0,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",115,10,1,0
+2020-05-02,us,virginia,39.20172582,-78.25974949,84051069.0,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",115,0,1,0
+2020-05-03,us,virginia,39.20172582,-78.25974949,84051069.0,US,USA,840,51069.0,frederick,"Frederick, Virginia, US",121,6,1,0

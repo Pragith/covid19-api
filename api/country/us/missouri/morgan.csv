@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",3,0,0,0
 2020-04-29,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",3,0,0,0
 2020-04-30,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",3,0,0,0
+2020-05-01,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",4,1,0,0
+2020-05-02,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",5,1,0,0
+2020-05-03,us,missouri,38.4181765,-92.88791859,84029141.0,US,USA,840,29141.0,morgan,"Morgan, Missouri, US",5,0,0,0

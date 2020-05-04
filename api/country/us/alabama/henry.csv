@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",22,0,1,0
 2020-04-29,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",23,1,1,0
 2020-04-30,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",24,1,1,0
+2020-05-01,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",24,0,1,0
+2020-05-02,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",26,2,1,0
+2020-05-03,us,alabama,31.51148016,-85.24267944,84001067.0,US,USA,840,1067.0,henry,"Henry, Alabama, US",27,1,1,0

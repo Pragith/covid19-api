@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",161,3,4,0
 2020-04-29,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",161,0,4,0
 2020-04-30,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",166,5,5,1
+2020-05-01,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",166,0,5,0
+2020-05-02,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",165,-1,5,0
+2020-05-03,us,colorado,38.66611652,-107.0320729,84008051.0,US,USA,840,8051.0,gunnison,"Gunnison, Colorado, US",165,0,5,0

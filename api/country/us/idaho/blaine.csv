@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,idaho,43.4085812,-113.9752658,84016013.0,US,USA,840,16013.0,blaine,"Blaine, Idaho, US",497,5,5,0
 2020-04-29,us,idaho,43.4085812,-113.9752658,84016013.0,US,USA,840,16013.0,blaine,"Blaine, Idaho, US",497,0,5,0
 2020-04-30,us,idaho,43.4085812,-113.9752658,84016013.0,US,USA,840,16013.0,blaine,"Blaine, Idaho, US",498,1,5,0
+2020-05-01,us,idaho,43.4085812,-113.9752658,84016013.0,US,USA,840,16013.0,blaine,"Blaine, Idaho, US",497,-1,5,0
+2020-05-02,us,idaho,43.4085812,-113.9752658,84016013.0,US,USA,840,16013.0,blaine,"Blaine, Idaho, US",497,0,5,0
+2020-05-03,us,idaho,43.4085812,-113.9752658,84016013.0,US,USA,840,16013.0,blaine,"Blaine, Idaho, US",497,0,5,0

@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",1,0,0,0
 2020-04-29,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",1,0,0,0
 2020-04-30,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",1,0,0,0
+2020-05-01,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",2,1,0,0
+2020-05-02,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",2,0,0,0
+2020-05-03,us,florida,29.98484137,-83.18166636,84012067.0,US,USA,840,12067.0,lafayette,"Lafayette, Florida, US",2,0,0,0

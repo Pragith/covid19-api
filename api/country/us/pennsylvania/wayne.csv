@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",93,0,3,0
 2020-04-29,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",95,2,5,2
 2020-04-30,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",100,5,5,0
+2020-05-01,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",102,2,5,0
+2020-05-02,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",104,2,5,0
+2020-05-03,us,pennsylvania,41.64938475,-75.29956506,84042127.0,US,USA,840,42127.0,wayne,"Wayne, Pennsylvania, US",109,5,5,0

@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,puerto-rico,18.2208,-66.5901,630.0,PR,PRI,630,72.0,,"Puerto Rico, US",1400,11,86,2
 2020-04-29,us,puerto-rico,18.2208,-66.5901,630.0,PR,PRI,630,72.0,,"Puerto Rico, US",1433,33,86,0
 2020-04-30,us,puerto-rico,18.2208,-66.5901,630.0,PR,PRI,630,72.0,,"Puerto Rico, US",1539,106,92,6
+2020-05-01,us,puerto-rico,18.2208,-66.5901,630.0,PR,PRI,630,72.0,,"Puerto Rico, US",1575,36,94,2
+2020-05-02,us,puerto-rico,18.2208,-66.5901,630.0,PR,PRI,630,72.0,,"Puerto Rico, US",1757,182,95,1
+2020-05-03,us,puerto-rico,18.2208,-66.5901,630.0,PR,PRI,630,72.0,,"Puerto Rico, US",1808,51,97,2

@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,iowa,42.77461496,-92.31795937,84019017.0,US,USA,840,19017.0,bremer,"Bremer, Iowa, US",48,3,3,0
 2020-04-29,us,iowa,42.77461496,-92.31795937,84019017.0,US,USA,840,19017.0,bremer,"Bremer, Iowa, US",50,2,3,0
 2020-04-30,us,iowa,42.77461496,-92.31795937,84019017.0,US,USA,840,19017.0,bremer,"Bremer, Iowa, US",51,1,3,0
+2020-05-01,us,iowa,42.77461496,-92.31795937,84019017.0,US,USA,840,19017.0,bremer,"Bremer, Iowa, US",51,0,4,1
+2020-05-02,us,iowa,42.77461496,-92.31795937,84019017.0,US,USA,840,19017.0,bremer,"Bremer, Iowa, US",52,1,4,0
+2020-05-03,us,iowa,42.77461496,-92.31795937,84019017.0,US,USA,840,19017.0,bremer,"Bremer, Iowa, US",53,1,5,1

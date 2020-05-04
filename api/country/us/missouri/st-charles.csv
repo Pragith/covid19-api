@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",572,0,32,0
 2020-04-29,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",596,24,34,2
 2020-04-30,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",596,0,34,0
+2020-05-01,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",591,-5,37,3
+2020-05-02,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",608,17,41,4
+2020-05-03,us,missouri,38.77875681,-90.66662425,84029183.0,US,USA,840,29183.0,st-charles,"St. Charles, Missouri, US",608,0,41,0

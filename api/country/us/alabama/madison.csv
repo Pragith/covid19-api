@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",222,8,4,0
 2020-04-29,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",224,2,4,0
 2020-04-30,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",227,3,4,0
+2020-05-01,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",225,-2,4,0
+2020-05-02,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",233,8,4,0
+2020-05-03,us,alabama,34.76327133,-86.55069633,84001089.0,US,USA,840,1089.0,madison,"Madison, Alabama, US",234,1,4,0

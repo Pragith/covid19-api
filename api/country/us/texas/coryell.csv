@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,texas,31.39078397,-97.79936155,84048099.0,US,USA,840,48099.0,coryell,"Coryell, Texas, US",105,0,1,0
 2020-04-29,us,texas,31.39078397,-97.79936155,84048099.0,US,USA,840,48099.0,coryell,"Coryell, Texas, US",105,0,2,1
 2020-04-30,us,texas,31.39078397,-97.79936155,84048099.0,US,USA,840,48099.0,coryell,"Coryell, Texas, US",155,50,2,0
+2020-05-01,us,texas,31.39078397,-97.79936155,84048099.0,US,USA,840,48099.0,coryell,"Coryell, Texas, US",158,3,2,0
+2020-05-02,us,texas,31.39078397,-97.79936155,84048099.0,US,USA,840,48099.0,coryell,"Coryell, Texas, US",160,2,2,0
+2020-05-03,us,texas,31.39078397,-97.79936155,84048099.0,US,USA,840,48099.0,coryell,"Coryell, Texas, US",162,2,2,0

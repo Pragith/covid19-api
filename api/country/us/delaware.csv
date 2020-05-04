@@ -99,6 +99,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,delaware,0.0,0.0,84080010.0,US,USA,840,80010.0,out-of-de,"Out of DE, Delaware, US",0,0,0,0
 2020-04-29,us,delaware,0.0,0.0,84080010.0,US,USA,840,80010.0,out-of-de,"Out of DE, Delaware, US",0,0,0,0
 2020-04-30,us,delaware,0.0,0.0,84080010.0,US,USA,840,80010.0,out-of-de,"Out of DE, Delaware, US",0,0,0,0
+2020-05-01,us,delaware,0.0,0.0,84080010.0,US,USA,840,80010.0,out-of-de,"Out of DE, Delaware, US",0,0,0,0
+2020-05-02,us,delaware,0.0,0.0,84080010.0,US,USA,840,80010.0,out-of-de,"Out of DE, Delaware, US",0,0,0,0
+2020-05-03,us,delaware,0.0,0.0,84080010.0,US,USA,840,80010.0,out-of-de,"Out of DE, Delaware, US",0,0,0,0
 2020-01-22,us,delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,unassigned,"Unassigned, Delaware, US",0,0,0,0
 2020-01-23,us,delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,unassigned,"Unassigned, Delaware, US",0,0,0,0
 2020-01-24,us,delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,unassigned,"Unassigned, Delaware, US",0,0,0,0
@@ -199,6 +202,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,unassigned,"Unassigned, Delaware, US",32,21,0,0
 2020-04-29,us,delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,unassigned,"Unassigned, Delaware, US",26,-6,0,0
 2020-04-30,us,delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,unassigned,"Unassigned, Delaware, US",25,-1,0,0
+2020-05-01,us,delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,unassigned,"Unassigned, Delaware, US",24,-1,0,0
+2020-05-02,us,delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,unassigned,"Unassigned, Delaware, US",22,-2,0,0
+2020-05-03,us,delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,unassigned,"Unassigned, Delaware, US",23,1,0,0
 2020-01-22,us,delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,sussex,"Sussex, Delaware, US",0,0,0,0
 2020-01-23,us,delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,sussex,"Sussex, Delaware, US",0,0,0,0
 2020-01-24,us,delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,sussex,"Sussex, Delaware, US",0,0,0,0
@@ -299,6 +305,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,sussex,"Sussex, Delaware, US",2114,244,51,6
 2020-04-29,us,delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,sussex,"Sussex, Delaware, US",2169,55,54,3
 2020-04-30,us,delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,sussex,"Sussex, Delaware, US",2216,47,58,4
+2020-05-01,us,delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,sussex,"Sussex, Delaware, US",2292,76,62,4
+2020-05-02,us,delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,sussex,"Sussex, Delaware, US",2359,67,63,1
+2020-05-03,us,delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,sussex,"Sussex, Delaware, US",2461,102,68,5
 2020-01-22,us,delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,kent,"Kent, Delaware, US",0,0,0,0
 2020-01-23,us,delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,kent,"Kent, Delaware, US",0,0,0,0
 2020-01-24,us,delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,kent,"Kent, Delaware, US",0,0,0,0
@@ -399,6 +408,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,kent,"Kent, Delaware, US",728,76,23,0
 2020-04-29,us,delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,kent,"Kent, Delaware, US",743,15,25,2
 2020-04-30,us,delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,kent,"Kent, Delaware, US",759,16,26,1
+2020-05-01,us,delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,kent,"Kent, Delaware, US",773,14,27,1
+2020-05-02,us,delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,kent,"Kent, Delaware, US",793,20,29,2
+2020-05-03,us,delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,kent,"Kent, Delaware, US",821,28,30,1
 2020-01-22,us,delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",0,0,0,0
 2020-01-23,us,delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",0,0,0,0
 2020-01-24,us,delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",0,0,0,0
@@ -499,3 +511,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",1701,72,63,6
 2020-04-29,us,delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",1717,16,65,2
 2020-04-30,us,delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",1734,17,68,3
+2020-05-01,us,delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",1829,95,70,2
+2020-05-02,us,delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",1864,35,76,6
+2020-05-03,us,delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,new-castle,"New Castle, Delaware, US",1903,39,79,3

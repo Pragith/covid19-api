@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,texas,32.77143818,-97.29101614,84048439.0,US,USA,840,48439.0,tarrant,"Tarrant, Texas, US",2019,72,53,0
 2020-04-29,us,texas,32.77143818,-97.29101614,84048439.0,US,USA,840,48439.0,tarrant,"Tarrant, Texas, US",2088,69,58,5
 2020-04-30,us,texas,32.77143818,-97.29101614,84048439.0,US,USA,840,48439.0,tarrant,"Tarrant, Texas, US",2246,158,68,10
+2020-05-01,us,texas,32.77143818,-97.29101614,84048439.0,US,USA,840,48439.0,tarrant,"Tarrant, Texas, US",2246,0,68,0
+2020-05-02,us,texas,32.77143818,-97.29101614,84048439.0,US,USA,840,48439.0,tarrant,"Tarrant, Texas, US",2388,142,69,1
+2020-05-03,us,texas,32.77143818,-97.29101614,84048439.0,US,USA,840,48439.0,tarrant,"Tarrant, Texas, US",2503,115,71,2

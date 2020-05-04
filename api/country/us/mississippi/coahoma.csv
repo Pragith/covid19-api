@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,mississippi,34.22772299,-90.60415045,84028027.0,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",60,2,3,1
 2020-04-29,us,mississippi,34.22772299,-90.60415045,84028027.0,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",61,1,3,0
 2020-04-30,us,mississippi,34.22772299,-90.60415045,84028027.0,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",61,0,3,0
+2020-05-01,us,mississippi,34.22772299,-90.60415045,84028027.0,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",64,3,3,0
+2020-05-02,us,mississippi,34.22772299,-90.60415045,84028027.0,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",66,2,3,0
+2020-05-03,us,mississippi,34.22772299,-90.60415045,84028027.0,US,USA,840,28027.0,coahoma,"Coahoma, Mississippi, US",69,3,3,0

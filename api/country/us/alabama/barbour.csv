@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",37,2,0,0
 2020-04-29,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",37,0,1,1
 2020-04-30,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",39,2,1,0
+2020-05-01,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",42,3,1,0
+2020-05-02,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",43,1,1,0
+2020-05-03,us,alabama,31.868263,-85.3871286,84001005.0,US,USA,840,1005.0,barbour,"Barbour, Alabama, US",45,2,1,0

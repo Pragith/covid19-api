@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",29,4,0,0
 2020-04-29,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",30,1,0,0
 2020-04-30,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",31,1,0,0
+2020-05-01,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",32,1,0,0
+2020-05-02,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",34,2,0,0
+2020-05-03,us,pennsylvania,41.23255967,-77.63785995,84042035.0,US,USA,840,42035.0,clinton,"Clinton, Pennsylvania, US",32,-2,0,0

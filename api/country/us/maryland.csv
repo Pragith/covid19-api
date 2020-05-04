@@ -99,6 +99,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,0.0,0.0,84080024.0,US,USA,840,80024.0,out-of-md,"Out of MD, Maryland, US",0,0,0,0
 2020-04-29,us,maryland,0.0,0.0,84080024.0,US,USA,840,80024.0,out-of-md,"Out of MD, Maryland, US",0,0,0,0
 2020-04-30,us,maryland,0.0,0.0,84080024.0,US,USA,840,80024.0,out-of-md,"Out of MD, Maryland, US",0,0,0,0
+2020-05-01,us,maryland,0.0,0.0,84080024.0,US,USA,840,80024.0,out-of-md,"Out of MD, Maryland, US",0,0,0,0
+2020-05-02,us,maryland,0.0,0.0,84080024.0,US,USA,840,80024.0,out-of-md,"Out of MD, Maryland, US",0,0,0,0
+2020-05-03,us,maryland,0.0,0.0,84080024.0,US,USA,840,80024.0,out-of-md,"Out of MD, Maryland, US",0,0,0,0
 2020-01-22,us,maryland,0.0,0.0,84090024.0,US,USA,840,90024.0,unassigned,"Unassigned, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,0.0,0.0,84090024.0,US,USA,840,90024.0,unassigned,"Unassigned, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,0.0,0.0,84090024.0,US,USA,840,90024.0,unassigned,"Unassigned, Maryland, US",0,0,0,0
@@ -199,6 +202,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,0.0,0.0,84090024.0,US,USA,840,90024.0,unassigned,"Unassigned, Maryland, US",0,0,106,19
 2020-04-29,us,maryland,0.0,0.0,84090024.0,US,USA,840,90024.0,unassigned,"Unassigned, Maryland, US",0,0,87,-19
 2020-04-30,us,maryland,0.0,0.0,84090024.0,US,USA,840,90024.0,unassigned,"Unassigned, Maryland, US",0,0,83,-4
+2020-05-01,us,maryland,0.0,0.0,84090024.0,US,USA,840,90024.0,unassigned,"Unassigned, Maryland, US",0,0,0,-83
+2020-05-02,us,maryland,0.0,0.0,84090024.0,US,USA,840,90024.0,unassigned,"Unassigned, Maryland, US",0,0,85,85
+2020-05-03,us,maryland,0.0,0.0,84090024.0,US,USA,840,90024.0,unassigned,"Unassigned, Maryland, US",0,0,69,-16
 2020-01-22,us,maryland,38.1163542,-75.75118623,84024039.0,US,USA,840,24039.0,somerset,"Somerset, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,38.1163542,-75.75118623,84024039.0,US,USA,840,24039.0,somerset,"Somerset, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,38.1163542,-75.75118623,84024039.0,US,USA,840,24039.0,somerset,"Somerset, Maryland, US",0,0,0,0
@@ -299,6 +305,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,38.1163542,-75.75118623,84024039.0,US,USA,840,24039.0,somerset,"Somerset, Maryland, US",20,1,0,0
 2020-04-29,us,maryland,38.1163542,-75.75118623,84024039.0,US,USA,840,24039.0,somerset,"Somerset, Maryland, US",21,1,0,0
 2020-04-30,us,maryland,38.1163542,-75.75118623,84024039.0,US,USA,840,24039.0,somerset,"Somerset, Maryland, US",26,5,0,0
+2020-05-01,us,maryland,38.1163542,-75.75118623,84024039.0,US,USA,840,24039.0,somerset,"Somerset, Maryland, US",30,4,0,0
+2020-05-02,us,maryland,38.1163542,-75.75118623,84024039.0,US,USA,840,24039.0,somerset,"Somerset, Maryland, US",32,2,0,0
+2020-05-03,us,maryland,38.1163542,-75.75118623,84024039.0,US,USA,840,24039.0,somerset,"Somerset, Maryland, US",33,1,0,0
 2020-01-22,us,maryland,38.21274277,-75.33200012,84024047.0,US,USA,840,24047.0,worcester,"Worcester, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,38.21274277,-75.33200012,84024047.0,US,USA,840,24047.0,worcester,"Worcester, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,38.21274277,-75.33200012,84024047.0,US,USA,840,24047.0,worcester,"Worcester, Maryland, US",0,0,0,0
@@ -399,6 +408,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,38.21274277,-75.33200012,84024047.0,US,USA,840,24047.0,worcester,"Worcester, Maryland, US",54,1,1,1
 2020-04-29,us,maryland,38.21274277,-75.33200012,84024047.0,US,USA,840,24047.0,worcester,"Worcester, Maryland, US",55,1,2,1
 2020-04-30,us,maryland,38.21274277,-75.33200012,84024047.0,US,USA,840,24047.0,worcester,"Worcester, Maryland, US",61,6,2,0
+2020-05-01,us,maryland,38.21274277,-75.33200012,84024047.0,US,USA,840,24047.0,worcester,"Worcester, Maryland, US",65,4,3,1
+2020-05-02,us,maryland,38.21274277,-75.33200012,84024047.0,US,USA,840,24047.0,worcester,"Worcester, Maryland, US",72,7,3,0
+2020-05-03,us,maryland,38.21274277,-75.33200012,84024047.0,US,USA,840,24047.0,worcester,"Worcester, Maryland, US",75,3,3,0
 2020-01-22,us,maryland,38.30058422,-76.60629279999998,84024037.0,US,USA,840,24037.0,st-mary-s,"St. Mary's, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,38.30058422,-76.60629279999998,84024037.0,US,USA,840,24037.0,st-mary-s,"St. Mary's, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,38.30058422,-76.60629279999998,84024037.0,US,USA,840,24037.0,st-mary-s,"St. Mary's, Maryland, US",0,0,0,0
@@ -499,6 +511,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,38.30058422,-76.60629279999998,84024037.0,US,USA,840,24037.0,st-mary-s,"St. Mary's, Maryland, US",145,1,7,1
 2020-04-29,us,maryland,38.30058422,-76.60629279999998,84024037.0,US,USA,840,24037.0,st-mary-s,"St. Mary's, Maryland, US",145,0,8,1
 2020-04-30,us,maryland,38.30058422,-76.60629279999998,84024037.0,US,USA,840,24037.0,st-mary-s,"St. Mary's, Maryland, US",150,5,8,0
+2020-05-01,us,maryland,38.30058422,-76.60629279999998,84024037.0,US,USA,840,24037.0,st-mary-s,"St. Mary's, Maryland, US",159,9,7,-1
+2020-05-02,us,maryland,38.30058422,-76.60629279999998,84024037.0,US,USA,840,24037.0,st-mary-s,"St. Mary's, Maryland, US",164,5,7,0
+2020-05-03,us,maryland,38.30058422,-76.60629279999998,84024037.0,US,USA,840,24037.0,st-mary-s,"St. Mary's, Maryland, US",165,1,7,0
 2020-01-22,us,maryland,38.37301947,-75.62705831,84024045.0,US,USA,840,24045.0,wicomico,"Wicomico, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,38.37301947,-75.62705831,84024045.0,US,USA,840,24045.0,wicomico,"Wicomico, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,38.37301947,-75.62705831,84024045.0,US,USA,840,24045.0,wicomico,"Wicomico, Maryland, US",0,0,0,0
@@ -599,6 +614,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,38.37301947,-75.62705831,84024045.0,US,USA,840,24045.0,wicomico,"Wicomico, Maryland, US",340,4,5,0
 2020-04-29,us,maryland,38.37301947,-75.62705831,84024045.0,US,USA,840,24045.0,wicomico,"Wicomico, Maryland, US",350,10,7,2
 2020-04-30,us,maryland,38.37301947,-75.62705831,84024045.0,US,USA,840,24045.0,wicomico,"Wicomico, Maryland, US",406,56,7,0
+2020-05-01,us,maryland,38.37301947,-75.62705831,84024045.0,US,USA,840,24045.0,wicomico,"Wicomico, Maryland, US",425,19,7,0
+2020-05-02,us,maryland,38.37301947,-75.62705831,84024045.0,US,USA,840,24045.0,wicomico,"Wicomico, Maryland, US",452,27,10,3
+2020-05-03,us,maryland,38.37301947,-75.62705831,84024045.0,US,USA,840,24045.0,wicomico,"Wicomico, Maryland, US",473,21,10,0
 2020-01-22,us,maryland,38.45413522,-76.02752426,84024019.0,US,USA,840,24019.0,dorchester,"Dorchester, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,38.45413522,-76.02752426,84024019.0,US,USA,840,24019.0,dorchester,"Dorchester, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,38.45413522,-76.02752426,84024019.0,US,USA,840,24019.0,dorchester,"Dorchester, Maryland, US",0,0,0,0
@@ -699,6 +717,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,38.45413522,-76.02752426,84024019.0,US,USA,840,24019.0,dorchester,"Dorchester, Maryland, US",52,1,2,0
 2020-04-29,us,maryland,38.45413522,-76.02752426,84024019.0,US,USA,840,24019.0,dorchester,"Dorchester, Maryland, US",51,-1,2,0
 2020-04-30,us,maryland,38.45413522,-76.02752426,84024019.0,US,USA,840,24019.0,dorchester,"Dorchester, Maryland, US",51,0,2,0
+2020-05-01,us,maryland,38.45413522,-76.02752426,84024019.0,US,USA,840,24019.0,dorchester,"Dorchester, Maryland, US",54,3,2,0
+2020-05-02,us,maryland,38.45413522,-76.02752426,84024019.0,US,USA,840,24019.0,dorchester,"Dorchester, Maryland, US",59,5,2,0
+2020-05-03,us,maryland,38.45413522,-76.02752426,84024019.0,US,USA,840,24019.0,dorchester,"Dorchester, Maryland, US",71,12,2,0
 2020-01-22,us,maryland,38.51092331,-76.98580666,84024017.0,US,USA,840,24017.0,charles,"Charles, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,38.51092331,-76.98580666,84024017.0,US,USA,840,24017.0,charles,"Charles, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,38.51092331,-76.98580666,84024017.0,US,USA,840,24017.0,charles,"Charles, Maryland, US",0,0,0,0
@@ -799,6 +820,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,38.51092331,-76.98580666,84024017.0,US,USA,840,24017.0,charles,"Charles, Maryland, US",539,10,39,2
 2020-04-29,us,maryland,38.51092331,-76.98580666,84024017.0,US,USA,840,24017.0,charles,"Charles, Maryland, US",551,12,42,3
 2020-04-30,us,maryland,38.51092331,-76.98580666,84024017.0,US,USA,840,24017.0,charles,"Charles, Maryland, US",564,13,44,2
+2020-05-01,us,maryland,38.51092331,-76.98580666,84024017.0,US,USA,840,24017.0,charles,"Charles, Maryland, US",611,47,46,2
+2020-05-02,us,maryland,38.51092331,-76.98580666,84024017.0,US,USA,840,24017.0,charles,"Charles, Maryland, US",622,11,47,1
+2020-05-03,us,maryland,38.51092331,-76.98580666,84024017.0,US,USA,840,24017.0,charles,"Charles, Maryland, US",637,15,50,3
 2020-01-22,us,maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,calvert,"Calvert, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,calvert,"Calvert, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,calvert,"Calvert, Maryland, US",0,0,0,0
@@ -899,6 +923,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,calvert,"Calvert, Maryland, US",139,1,8,1
 2020-04-29,us,maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,calvert,"Calvert, Maryland, US",142,3,8,0
 2020-04-30,us,maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,calvert,"Calvert, Maryland, US",150,8,8,0
+2020-05-01,us,maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,calvert,"Calvert, Maryland, US",161,11,9,1
+2020-05-02,us,maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,calvert,"Calvert, Maryland, US",160,-1,11,2
+2020-05-03,us,maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,calvert,"Calvert, Maryland, US",162,2,11,0
 2020-01-22,us,maryland,38.76618159,-76.10882561,84024041.0,US,USA,840,24041.0,talbot,"Talbot, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,38.76618159,-76.10882561,84024041.0,US,USA,840,24041.0,talbot,"Talbot, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,38.76618159,-76.10882561,84024041.0,US,USA,840,24041.0,talbot,"Talbot, Maryland, US",0,0,0,0
@@ -999,6 +1026,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,38.76618159,-76.10882561,84024041.0,US,USA,840,24041.0,talbot,"Talbot, Maryland, US",34,0,1,0
 2020-04-29,us,maryland,38.76618159,-76.10882561,84024041.0,US,USA,840,24041.0,talbot,"Talbot, Maryland, US",34,0,1,0
 2020-04-30,us,maryland,38.76618159,-76.10882561,84024041.0,US,USA,840,24041.0,talbot,"Talbot, Maryland, US",35,1,1,0
+2020-05-01,us,maryland,38.76618159,-76.10882561,84024041.0,US,USA,840,24041.0,talbot,"Talbot, Maryland, US",35,0,1,0
+2020-05-02,us,maryland,38.76618159,-76.10882561,84024041.0,US,USA,840,24041.0,talbot,"Talbot, Maryland, US",39,4,1,0
+2020-05-03,us,maryland,38.76618159,-76.10882561,84024041.0,US,USA,840,24041.0,talbot,"Talbot, Maryland, US",44,5,1,0
 2020-01-22,us,maryland,38.83070039,-76.8496441,84024033.0,US,USA,840,24033.0,prince-george-s,"Prince George's, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,38.83070039,-76.8496441,84024033.0,US,USA,840,24033.0,prince-george-s,"Prince George's, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,38.83070039,-76.8496441,84024033.0,US,USA,840,24033.0,prince-george-s,"Prince George's, Maryland, US",0,0,0,0
@@ -1099,6 +1129,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,38.83070039,-76.8496441,84024033.0,US,USA,840,24033.0,prince-george-s,"Prince George's, Maryland, US",5496,233,206,8
 2020-04-29,us,maryland,38.83070039,-76.8496441,84024033.0,US,USA,840,24033.0,prince-george-s,"Prince George's, Maryland, US",5738,242,224,18
 2020-04-30,us,maryland,38.83070039,-76.8496441,84024033.0,US,USA,840,24033.0,prince-george-s,"Prince George's, Maryland, US",6043,305,240,16
+2020-05-01,us,maryland,38.83070039,-76.8496441,84024033.0,US,USA,840,24033.0,prince-george-s,"Prince George's, Maryland, US",6735,692,243,3
+2020-05-02,us,maryland,38.83070039,-76.8496441,84024033.0,US,USA,840,24033.0,prince-george-s,"Prince George's, Maryland, US",7041,306,269,26
+2020-05-03,us,maryland,38.83070039,-76.8496441,84024033.0,US,USA,840,24033.0,prince-george-s,"Prince George's, Maryland, US",7333,292,277,8
 2020-01-22,us,maryland,38.87172293,-75.82904158,84024011.0,US,USA,840,24011.0,caroline,"Caroline, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,38.87172293,-75.82904158,84024011.0,US,USA,840,24011.0,caroline,"Caroline, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,38.87172293,-75.82904158,84024011.0,US,USA,840,24011.0,caroline,"Caroline, Maryland, US",0,0,0,0
@@ -1199,6 +1232,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,38.87172293,-75.82904158,84024011.0,US,USA,840,24011.0,caroline,"Caroline, Maryland, US",69,1,0,0
 2020-04-29,us,maryland,38.87172293,-75.82904158,84024011.0,US,USA,840,24011.0,caroline,"Caroline, Maryland, US",69,0,0,0
 2020-04-30,us,maryland,38.87172293,-75.82904158,84024011.0,US,USA,840,24011.0,caroline,"Caroline, Maryland, US",71,2,0,0
+2020-05-01,us,maryland,38.87172293,-75.82904158,84024011.0,US,USA,840,24011.0,caroline,"Caroline, Maryland, US",74,3,0,0
+2020-05-02,us,maryland,38.87172293,-75.82904158,84024011.0,US,USA,840,24011.0,caroline,"Caroline, Maryland, US",79,5,0,0
+2020-05-03,us,maryland,38.87172293,-75.82904158,84024011.0,US,USA,840,24011.0,caroline,"Caroline, Maryland, US",95,16,0,0
 2020-01-22,us,maryland,39.00670238,-76.60329337,84024003.0,US,USA,840,24003.0,anne-arundel,"Anne Arundel, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.00670238,-76.60329337,84024003.0,US,USA,840,24003.0,anne-arundel,"Anne Arundel, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.00670238,-76.60329337,84024003.0,US,USA,840,24003.0,anne-arundel,"Anne Arundel, Maryland, US",0,0,0,0
@@ -1299,6 +1335,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.00670238,-76.60329337,84024003.0,US,USA,840,24003.0,anne-arundel,"Anne Arundel, Maryland, US",1571,27,78,4
 2020-04-29,us,maryland,39.00670238,-76.60329337,84024003.0,US,USA,840,24003.0,anne-arundel,"Anne Arundel, Maryland, US",1662,91,83,5
 2020-04-30,us,maryland,39.00670238,-76.60329337,84024003.0,US,USA,840,24003.0,anne-arundel,"Anne Arundel, Maryland, US",1725,63,91,8
+2020-05-01,us,maryland,39.00670238,-76.60329337,84024003.0,US,USA,840,24003.0,anne-arundel,"Anne Arundel, Maryland, US",1807,82,90,-1
+2020-05-02,us,maryland,39.00670238,-76.60329337,84024003.0,US,USA,840,24003.0,anne-arundel,"Anne Arundel, Maryland, US",1885,78,94,4
+2020-05-03,us,maryland,39.00670238,-76.60329337,84024003.0,US,USA,840,24003.0,anne-arundel,"Anne Arundel, Maryland, US",1959,74,96,2
 2020-01-22,us,maryland,39.06198912,-76.03530977,84024035.0,US,USA,840,24035.0,queen-anne-s,"Queen Anne's, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.06198912,-76.03530977,84024035.0,US,USA,840,24035.0,queen-anne-s,"Queen Anne's, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.06198912,-76.03530977,84024035.0,US,USA,840,24035.0,queen-anne-s,"Queen Anne's, Maryland, US",0,0,0,0
@@ -1399,6 +1438,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.06198912,-76.03530977,84024035.0,US,USA,840,24035.0,queen-anne-s,"Queen Anne's, Maryland, US",55,1,4,1
 2020-04-29,us,maryland,39.06198912,-76.03530977,84024035.0,US,USA,840,24035.0,queen-anne-s,"Queen Anne's, Maryland, US",55,0,4,0
 2020-04-30,us,maryland,39.06198912,-76.03530977,84024035.0,US,USA,840,24035.0,queen-anne-s,"Queen Anne's, Maryland, US",52,-3,6,2
+2020-05-01,us,maryland,39.06198912,-76.03530977,84024035.0,US,USA,840,24035.0,queen-anne-s,"Queen Anne's, Maryland, US",52,0,7,1
+2020-05-02,us,maryland,39.06198912,-76.03530977,84024035.0,US,USA,840,24035.0,queen-anne-s,"Queen Anne's, Maryland, US",57,5,8,1
+2020-05-03,us,maryland,39.06198912,-76.03530977,84024035.0,US,USA,840,24035.0,queen-anne-s,"Queen Anne's, Maryland, US",60,3,8,0
 2020-01-22,us,maryland,39.13676329,-77.20358245,84024031.0,US,USA,840,24031.0,montgomery,"Montgomery, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.13676329,-77.20358245,84024031.0,US,USA,840,24031.0,montgomery,"Montgomery, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.13676329,-77.20358245,84024031.0,US,USA,840,24031.0,montgomery,"Montgomery, Maryland, US",0,0,0,0
@@ -1499,6 +1541,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.13676329,-77.20358245,84024031.0,US,USA,840,24031.0,montgomery,"Montgomery, Maryland, US",4003,160,221,11
 2020-04-29,us,maryland,39.13676329,-77.20358245,84024031.0,US,USA,840,24031.0,montgomery,"Montgomery, Maryland, US",4152,149,242,21
 2020-04-30,us,maryland,39.13676329,-77.20358245,84024031.0,US,USA,840,24031.0,montgomery,"Montgomery, Maryland, US",4300,148,255,13
+2020-05-01,us,maryland,39.13676329,-77.20358245,84024031.0,US,USA,840,24031.0,montgomery,"Montgomery, Maryland, US",4754,454,262,7
+2020-05-02,us,maryland,39.13676329,-77.20358245,84024031.0,US,USA,840,24031.0,montgomery,"Montgomery, Maryland, US",4919,165,282,20
+2020-05-03,us,maryland,39.13676329,-77.20358245,84024031.0,US,USA,840,24031.0,montgomery,"Montgomery, Maryland, US",5150,231,295,13
 2020-01-22,us,maryland,39.24976208,-76.04741541,84024029.0,US,USA,840,24029.0,kent,"Kent, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.24976208,-76.04741541,84024029.0,US,USA,840,24029.0,kent,"Kent, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.24976208,-76.04741541,84024029.0,US,USA,840,24029.0,kent,"Kent, Maryland, US",0,0,0,0
@@ -1599,6 +1644,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.24976208,-76.04741541,84024029.0,US,USA,840,24029.0,kent,"Kent, Maryland, US",73,3,4,0
 2020-04-29,us,maryland,39.24976208,-76.04741541,84024029.0,US,USA,840,24029.0,kent,"Kent, Maryland, US",73,0,4,0
 2020-04-30,us,maryland,39.24976208,-76.04741541,84024029.0,US,USA,840,24029.0,kent,"Kent, Maryland, US",79,6,5,1
+2020-05-01,us,maryland,39.24976208,-76.04741541,84024029.0,US,USA,840,24029.0,kent,"Kent, Maryland, US",86,7,4,-1
+2020-05-02,us,maryland,39.24976208,-76.04741541,84024029.0,US,USA,840,24029.0,kent,"Kent, Maryland, US",80,-6,4,0
+2020-05-03,us,maryland,39.24976208,-76.04741541,84024029.0,US,USA,840,24029.0,kent,"Kent, Maryland, US",91,11,6,2
 2020-01-22,us,maryland,39.25305293,-76.93126208,84024027.0,US,USA,840,24027.0,howard,"Howard, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.25305293,-76.93126208,84024027.0,US,USA,840,24027.0,howard,"Howard, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.25305293,-76.93126208,84024027.0,US,USA,840,24027.0,howard,"Howard, Maryland, US",0,0,0,0
@@ -1699,6 +1747,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.25305293,-76.93126208,84024027.0,US,USA,840,24027.0,howard,"Howard, Maryland, US",802,24,18,1
 2020-04-29,us,maryland,39.25305293,-76.93126208,84024027.0,US,USA,840,24027.0,howard,"Howard, Maryland, US",831,29,19,1
 2020-04-30,us,maryland,39.25305293,-76.93126208,84024027.0,US,USA,840,24027.0,howard,"Howard, Maryland, US",867,36,19,0
+2020-05-01,us,maryland,39.25305293,-76.93126208,84024027.0,US,USA,840,24027.0,howard,"Howard, Maryland, US",896,29,19,0
+2020-05-02,us,maryland,39.25305293,-76.93126208,84024027.0,US,USA,840,24027.0,howard,"Howard, Maryland, US",931,35,20,1
+2020-05-03,us,maryland,39.25305293,-76.93126208,84024027.0,US,USA,840,24027.0,howard,"Howard, Maryland, US",969,38,20,0
 2020-01-22,us,maryland,39.30211911,-76.61151012,84024510.0,US,USA,840,24510.0,baltimore-city,"Baltimore City, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.30211911,-76.61151012,84024510.0,US,USA,840,24510.0,baltimore-city,"Baltimore City, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.30211911,-76.61151012,84024510.0,US,USA,840,24510.0,baltimore-city,"Baltimore City, Maryland, US",0,0,0,0
@@ -1799,6 +1850,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.30211911,-76.61151012,84024510.0,US,USA,840,24510.0,baltimore-city,"Baltimore City, Maryland, US",1977,44,90,2
 2020-04-29,us,maryland,39.30211911,-76.61151012,84024510.0,US,USA,840,24510.0,baltimore-city,"Baltimore City, Maryland, US",2014,37,101,11
 2020-04-30,us,maryland,39.30211911,-76.61151012,84024510.0,US,USA,840,24510.0,baltimore-city,"Baltimore City, Maryland, US",2068,54,112,11
+2020-05-01,us,maryland,39.30211911,-76.61151012,84024510.0,US,USA,840,24510.0,baltimore-city,"Baltimore City, Maryland, US",2162,94,115,3
+2020-05-02,us,maryland,39.30211911,-76.61151012,84024510.0,US,USA,840,24510.0,baltimore-city,"Baltimore City, Maryland, US",2237,75,126,11
+2020-05-03,us,maryland,39.30211911,-76.61151012,84024510.0,US,USA,840,24510.0,baltimore-city,"Baltimore City, Maryland, US",2319,82,129,3
 2020-01-22,us,maryland,39.45784712,-76.62911955,84024005.0,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.45784712,-76.62911955,84024005.0,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.45784712,-76.62911955,84024005.0,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",0,0,0,0
@@ -1899,6 +1953,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.45784712,-76.62911955,84024005.0,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",2631,83,107,9
 2020-04-29,us,maryland,39.45784712,-76.62911955,84024005.0,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",2740,109,118,11
 2020-04-30,us,maryland,39.45784712,-76.62911955,84024005.0,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",2831,91,123,5
+2020-05-01,us,maryland,39.45784712,-76.62911955,84024005.0,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",3013,182,129,6
+2020-05-02,us,maryland,39.45784712,-76.62911955,84024005.0,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",3183,170,139,10
+2020-05-03,us,maryland,39.45784712,-76.62911955,84024005.0,US,USA,840,24005.0,baltimore,"Baltimore, Maryland, US",3301,118,147,8
 2020-01-22,us,maryland,39.47296601,-77.39999394,84024021.0,US,USA,840,24021.0,frederick,"Frederick, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.47296601,-77.39999394,84024021.0,US,USA,840,24021.0,frederick,"Frederick, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.47296601,-77.39999394,84024021.0,US,USA,840,24021.0,frederick,"Frederick, Maryland, US",0,0,0,0
@@ -1999,6 +2056,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.47296601,-77.39999394,84024021.0,US,USA,840,24021.0,frederick,"Frederick, Maryland, US",870,5,48,0
 2020-04-29,us,maryland,39.47296601,-77.39999394,84024021.0,US,USA,840,24021.0,frederick,"Frederick, Maryland, US",893,23,51,3
 2020-04-30,us,maryland,39.47296601,-77.39999394,84024021.0,US,USA,840,24021.0,frederick,"Frederick, Maryland, US",918,25,56,5
+2020-05-01,us,maryland,39.47296601,-77.39999394,84024021.0,US,USA,840,24021.0,frederick,"Frederick, Maryland, US",942,24,56,0
+2020-05-02,us,maryland,39.47296601,-77.39999394,84024021.0,US,USA,840,24021.0,frederick,"Frederick, Maryland, US",976,34,59,3
+2020-05-03,us,maryland,39.47296601,-77.39999394,84024021.0,US,USA,840,24021.0,frederick,"Frederick, Maryland, US",1004,28,61,2
 2020-01-22,us,maryland,39.52786077,-79.27355126,84024023.0,US,USA,840,24023.0,garrett,"Garrett, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.52786077,-79.27355126,84024023.0,US,USA,840,24023.0,garrett,"Garrett, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.52786077,-79.27355126,84024023.0,US,USA,840,24023.0,garrett,"Garrett, Maryland, US",0,0,0,0
@@ -2099,6 +2159,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.52786077,-79.27355126,84024023.0,US,USA,840,24023.0,garrett,"Garrett, Maryland, US",4,0,0,0
 2020-04-29,us,maryland,39.52786077,-79.27355126,84024023.0,US,USA,840,24023.0,garrett,"Garrett, Maryland, US",4,0,0,0
 2020-04-30,us,maryland,39.52786077,-79.27355126,84024023.0,US,USA,840,24023.0,garrett,"Garrett, Maryland, US",4,0,0,0
+2020-05-01,us,maryland,39.52786077,-79.27355126,84024023.0,US,USA,840,24023.0,garrett,"Garrett, Maryland, US",4,0,0,0
+2020-05-02,us,maryland,39.52786077,-79.27355126,84024023.0,US,USA,840,24023.0,garrett,"Garrett, Maryland, US",4,0,0,0
+2020-05-03,us,maryland,39.52786077,-79.27355126,84024023.0,US,USA,840,24023.0,garrett,"Garrett, Maryland, US",4,0,0,0
 2020-01-22,us,maryland,39.55010644,-76.30775940000002,84024025.0,US,USA,840,24025.0,harford,"Harford, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.55010644,-76.30775940000002,84024025.0,US,USA,840,24025.0,harford,"Harford, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.55010644,-76.30775940000002,84024025.0,US,USA,840,24025.0,harford,"Harford, Maryland, US",0,0,0,0
@@ -2199,6 +2262,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.55010644,-76.30775940000002,84024025.0,US,USA,840,24025.0,harford,"Harford, Maryland, US",358,6,13,2
 2020-04-29,us,maryland,39.55010644,-76.30775940000002,84024025.0,US,USA,840,24025.0,harford,"Harford, Maryland, US",371,13,13,0
 2020-04-30,us,maryland,39.55010644,-76.30775940000002,84024025.0,US,USA,840,24025.0,harford,"Harford, Maryland, US",414,43,13,0
+2020-05-01,us,maryland,39.55010644,-76.30775940000002,84024025.0,US,USA,840,24025.0,harford,"Harford, Maryland, US",437,23,15,2
+2020-05-02,us,maryland,39.55010644,-76.30775940000002,84024025.0,US,USA,840,24025.0,harford,"Harford, Maryland, US",468,31,16,1
+2020-05-03,us,maryland,39.55010644,-76.30775940000002,84024025.0,US,USA,840,24025.0,harford,"Harford, Maryland, US",479,11,16,0
 2020-01-22,us,maryland,39.56453592,-77.02373735,84024013.0,US,USA,840,24013.0,carroll,"Carroll, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.56453592,-77.02373735,84024013.0,US,USA,840,24013.0,carroll,"Carroll, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.56453592,-77.02373735,84024013.0,US,USA,840,24013.0,carroll,"Carroll, Maryland, US",0,0,0,0
@@ -2299,6 +2365,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.56453592,-77.02373735,84024013.0,US,USA,840,24013.0,carroll,"Carroll, Maryland, US",416,13,44,7
 2020-04-29,us,maryland,39.56453592,-77.02373735,84024013.0,US,USA,840,24013.0,carroll,"Carroll, Maryland, US",421,5,45,1
 2020-04-30,us,maryland,39.56453592,-77.02373735,84024013.0,US,USA,840,24013.0,carroll,"Carroll, Maryland, US",436,15,46,1
+2020-05-01,us,maryland,39.56453592,-77.02373735,84024013.0,US,USA,840,24013.0,carroll,"Carroll, Maryland, US",460,24,46,0
+2020-05-02,us,maryland,39.56453592,-77.02373735,84024013.0,US,USA,840,24013.0,carroll,"Carroll, Maryland, US",480,20,46,0
+2020-05-03,us,maryland,39.56453592,-77.02373735,84024013.0,US,USA,840,24013.0,carroll,"Carroll, Maryland, US",494,14,46,0
 2020-01-22,us,maryland,39.56647682,-75.94627411,84024015.0,US,USA,840,24015.0,cecil,"Cecil, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.56647682,-75.94627411,84024015.0,US,USA,840,24015.0,cecil,"Cecil, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.56647682,-75.94627411,84024015.0,US,USA,840,24015.0,cecil,"Cecil, Maryland, US",0,0,0,0
@@ -2399,6 +2468,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.56647682,-75.94627411,84024015.0,US,USA,840,24015.0,cecil,"Cecil, Maryland, US",163,0,6,1
 2020-04-29,us,maryland,39.56647682,-75.94627411,84024015.0,US,USA,840,24015.0,cecil,"Cecil, Maryland, US",164,1,8,2
 2020-04-30,us,maryland,39.56647682,-75.94627411,84024015.0,US,USA,840,24015.0,cecil,"Cecil, Maryland, US",167,3,8,0
+2020-05-01,us,maryland,39.56647682,-75.94627411,84024015.0,US,USA,840,24015.0,cecil,"Cecil, Maryland, US",176,9,8,0
+2020-05-02,us,maryland,39.56647682,-75.94627411,84024015.0,US,USA,840,24015.0,cecil,"Cecil, Maryland, US",187,11,8,0
+2020-05-03,us,maryland,39.56647682,-75.94627411,84024015.0,US,USA,840,24015.0,cecil,"Cecil, Maryland, US",188,1,9,1
 2020-01-22,us,maryland,39.60835778,-77.82002295,84024043.0,US,USA,840,24043.0,washington,"Washington, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.60835778,-77.82002295,84024043.0,US,USA,840,24043.0,washington,"Washington, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.60835778,-77.82002295,84024043.0,US,USA,840,24043.0,washington,"Washington, Maryland, US",0,0,0,0
@@ -2499,6 +2571,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.60835778,-77.82002295,84024043.0,US,USA,840,24043.0,washington,"Washington, Maryland, US",187,6,3,0
 2020-04-29,us,maryland,39.60835778,-77.82002295,84024043.0,US,USA,840,24043.0,washington,"Washington, Maryland, US",197,10,3,0
 2020-04-30,us,maryland,39.60835778,-77.82002295,84024043.0,US,USA,840,24043.0,washington,"Washington, Maryland, US",206,9,4,1
+2020-05-01,us,maryland,39.60835778,-77.82002295,84024043.0,US,USA,840,24043.0,washington,"Washington, Maryland, US",216,10,4,0
+2020-05-02,us,maryland,39.60835778,-77.82002295,84024043.0,US,USA,840,24043.0,washington,"Washington, Maryland, US",225,9,6,2
+2020-05-03,us,maryland,39.60835778,-77.82002295,84024043.0,US,USA,840,24043.0,washington,"Washington, Maryland, US",232,7,6,0
 2020-01-22,us,maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,allegany,"Allegany, Maryland, US",0,0,0,0
 2020-01-23,us,maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,allegany,"Allegany, Maryland, US",0,0,0,0
 2020-01-24,us,maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,allegany,"Allegany, Maryland, US",0,0,0,0
@@ -2599,3 +2674,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,allegany,"Allegany, Maryland, US",115,1,5,1
 2020-04-29,us,maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,allegany,"Allegany, Maryland, US",116,1,6,1
 2020-04-30,us,maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,allegany,"Allegany, Maryland, US",118,2,7,1
+2020-05-01,us,maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,allegany,"Allegany, Maryland, US",118,0,7,0
+2020-05-02,us,maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,allegany,"Allegany, Maryland, US",121,3,8,1
+2020-05-03,us,maryland,39.62357628,-78.69280486,84024001.0,US,USA,840,24001.0,allegany,"Allegany, Maryland, US",124,3,12,4

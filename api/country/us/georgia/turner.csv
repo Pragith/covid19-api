@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,georgia,31.71612656,-83.62069378,84013287.0,US,USA,840,13287.0,turner,"Turner, Georgia, US",66,2,8,0
 2020-04-29,us,georgia,31.71612656,-83.62069378,84013287.0,US,USA,840,13287.0,turner,"Turner, Georgia, US",67,1,8,0
 2020-04-30,us,georgia,31.71612656,-83.62069378,84013287.0,US,USA,840,13287.0,turner,"Turner, Georgia, US",68,1,8,0
+2020-05-01,us,georgia,31.71612656,-83.62069378,84013287.0,US,USA,840,13287.0,turner,"Turner, Georgia, US",68,0,8,0
+2020-05-02,us,georgia,31.71612656,-83.62069378,84013287.0,US,USA,840,13287.0,turner,"Turner, Georgia, US",69,1,8,0
+2020-05-03,us,georgia,31.71612656,-83.62069378,84013287.0,US,USA,840,13287.0,turner,"Turner, Georgia, US",69,0,9,1

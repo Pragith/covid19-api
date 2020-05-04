@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",37,0,3,0
 2020-04-29,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",37,0,3,0
 2020-04-30,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",41,4,3,0
+2020-05-01,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",42,1,3,0
+2020-05-02,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",49,7,3,0
+2020-05-03,us,alabama,32.32688101,-87.10866709999998,84001047.0,US,USA,840,1047.0,dallas,"Dallas, Alabama, US",59,10,3,0

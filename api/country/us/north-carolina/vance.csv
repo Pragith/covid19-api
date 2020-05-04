@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,north-carolina,36.36880673,-78.40670845,84037181.0,US,USA,840,37181.0,vance,"Vance, North Carolina, US",80,0,4,1
 2020-04-29,us,north-carolina,36.36880673,-78.40670845,84037181.0,US,USA,840,37181.0,vance,"Vance, North Carolina, US",84,4,5,1
 2020-04-30,us,north-carolina,36.36880673,-78.40670845,84037181.0,US,USA,840,37181.0,vance,"Vance, North Carolina, US",88,4,6,1
+2020-05-01,us,north-carolina,36.36880673,-78.40670845,84037181.0,US,USA,840,37181.0,vance,"Vance, North Carolina, US",103,15,7,1
+2020-05-02,us,north-carolina,36.36880673,-78.40670845,84037181.0,US,USA,840,37181.0,vance,"Vance, North Carolina, US",113,10,7,0
+2020-05-03,us,north-carolina,36.36880673,-78.40670845,84037181.0,US,USA,840,37181.0,vance,"Vance, North Carolina, US",113,0,7,0

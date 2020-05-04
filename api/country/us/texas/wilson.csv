@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,texas,29.1732598,-98.08693082,84048493.0,US,USA,840,48493.0,wilson,"Wilson, Texas, US",29,0,2,0
 2020-04-29,us,texas,29.1732598,-98.08693082,84048493.0,US,USA,840,48493.0,wilson,"Wilson, Texas, US",31,2,2,0
 2020-04-30,us,texas,29.1732598,-98.08693082,84048493.0,US,USA,840,48493.0,wilson,"Wilson, Texas, US",32,1,3,1
+2020-05-01,us,texas,29.1732598,-98.08693082,84048493.0,US,USA,840,48493.0,wilson,"Wilson, Texas, US",32,0,3,0
+2020-05-02,us,texas,29.1732598,-98.08693082,84048493.0,US,USA,840,48493.0,wilson,"Wilson, Texas, US",33,1,3,0
+2020-05-03,us,texas,29.1732598,-98.08693082,84048493.0,US,USA,840,48493.0,wilson,"Wilson, Texas, US",33,0,3,0

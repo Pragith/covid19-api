@@ -99,6 +99,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,0.0,0.0,84080009.0,US,USA,840,80009.0,out-of-ct,"Out of CT, Connecticut, US",0,0,0,0
 2020-04-29,us,connecticut,0.0,0.0,84080009.0,US,USA,840,80009.0,out-of-ct,"Out of CT, Connecticut, US",0,0,0,0
 2020-04-30,us,connecticut,0.0,0.0,84080009.0,US,USA,840,80009.0,out-of-ct,"Out of CT, Connecticut, US",0,0,0,0
+2020-05-01,us,connecticut,0.0,0.0,84080009.0,US,USA,840,80009.0,out-of-ct,"Out of CT, Connecticut, US",0,0,0,0
+2020-05-02,us,connecticut,0.0,0.0,84080009.0,US,USA,840,80009.0,out-of-ct,"Out of CT, Connecticut, US",0,0,0,0
+2020-05-03,us,connecticut,0.0,0.0,84080009.0,US,USA,840,80009.0,out-of-ct,"Out of CT, Connecticut, US",0,0,0,0
 2020-01-22,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",0,0,0,0
 2020-01-23,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",0,0,0,0
 2020-01-24,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",0,0,0,0
@@ -199,6 +202,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",491,7,1,0
 2020-04-29,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",507,16,3,2
 2020-04-30,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",462,-45,4,1
+2020-05-01,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",371,-91,2,-2
+2020-05-02,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",312,-59,1,-1
+2020-05-03,us,connecticut,0.0,0.0,84090009.0,US,USA,840,90009.0,unassigned,"Unassigned, Connecticut, US",312,0,1,0
 2020-01-22,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",0,0,0,0
 2020-01-23,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",0,0,0,0
 2020-01-24,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",0,0,0,0
@@ -299,106 +305,112 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",10874,111,747,20
 2020-04-29,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",10985,111,774,27
 2020-04-30,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",11294,309,810,36
-2020-01-22,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-01-23,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-01-24,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-01-25,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-01-26,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-01-27,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-01-28,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-01-29,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-01-30,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-01-31,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-01,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-02,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-03,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-04,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-05,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-06,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-07,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-08,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-09,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-10,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-11,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-12,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-13,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-14,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-15,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-16,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-17,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-18,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-19,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-20,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-21,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-22,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-23,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-24,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-25,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-26,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-27,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-28,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-02-29,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-01,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-02,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-03,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-04,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-05,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-06,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-07,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-08,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-09,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-10,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-11,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-12,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-13,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
-2020-03-14,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4,4,0,0
-2020-03-15,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4,0,0,0
-2020-03-16,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4,0,0,0
-2020-03-17,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",8,4,0,0
-2020-03-18,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",10,2,0,0
-2020-03-19,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",23,13,0,0
-2020-03-20,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",23,0,0,0
-2020-03-21,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",23,0,0,0
-2020-03-22,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",29,6,0,0
-2020-03-23,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",41,12,0,0
-2020-03-24,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",89,48,0,0
-2020-03-25,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",127,38,2,2
-2020-03-26,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",156,29,2,0
-2020-03-27,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",222,66,6,4
-2020-03-28,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",236,14,6,0
-2020-03-29,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",280,44,6,0
-2020-03-30,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",373,93,6,0
-2020-03-31,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",517,144,12,6
-2020-04-01,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",611,94,15,3
-2020-04-02,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",647,36,17,2
-2020-04-03,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",891,244,18,1
-2020-04-04,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",1024,133,29,11
-2020-04-05,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",1162,138,36,7
-2020-04-06,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",1468,306,41,5
-2020-04-07,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",1664,196,60,19
-2020-04-08,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",1664,0,60,0
-2020-04-09,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",2183,519,78,18
-2020-04-10,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",2383,200,98,20
-2020-04-11,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",2715,332,107,9
-2020-04-12,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",2946,231,119,12
-2020-04-13,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",3358,412,135,16
-2020-04-14,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",3543,185,151,16
-2020-04-15,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",3758,215,195,44
-2020-04-16,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4163,405,214,19
-2020-04-17,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4520,357,229,15
-2020-04-18,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4743,223,241,12
-2020-04-19,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4871,128,257,16
-2020-04-20,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",5272,401,301,44
-2020-04-21,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",5493,221,322,21
-2020-04-22,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",5811,318,345,23
-2020-04-23,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",6064,253,372,27
-2020-04-24,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",6286,222,396,24
-2020-04-25,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",6509,223,416,20
-2020-04-26,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",6715,206,429,13
-2020-04-27,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",6993,278,456,27
-2020-04-28,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",7089,96,478,22
-2020-04-29,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",7205,116,493,15
-2020-04-30,us,connecticut,41.4080325,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",7536,331,512,19
+2020-05-01,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",11612,318,839,29
+2020-05-02,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",11801,189,865,26
+2020-05-03,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",11801,0,865,0
+2020-01-22,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-01-23,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-01-24,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-01-25,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-01-26,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-01-27,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-01-28,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-01-29,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-01-30,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-01-31,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-01,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-02,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-03,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-04,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-05,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-06,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-07,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-08,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-09,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-10,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-11,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-12,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-13,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-14,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-15,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-16,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-17,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-18,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-19,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-20,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-21,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-22,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-23,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-24,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-25,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-26,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-27,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-28,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-02-29,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-01,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-02,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-03,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-04,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-05,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-06,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-07,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-08,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-09,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-10,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-11,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-12,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-13,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",0,0,0,0
+2020-03-14,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4,4,0,0
+2020-03-15,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4,0,0,0
+2020-03-16,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4,0,0,0
+2020-03-17,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",8,4,0,0
+2020-03-18,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",10,2,0,0
+2020-03-19,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",23,13,0,0
+2020-03-20,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",23,0,0,0
+2020-03-21,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",23,0,0,0
+2020-03-22,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",29,6,0,0
+2020-03-23,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",41,12,0,0
+2020-03-24,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",89,48,0,0
+2020-03-25,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",127,38,2,2
+2020-03-26,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",156,29,2,0
+2020-03-27,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",222,66,6,4
+2020-03-28,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",236,14,6,0
+2020-03-29,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",280,44,6,0
+2020-03-30,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",373,93,6,0
+2020-03-31,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",517,144,12,6
+2020-04-01,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",611,94,15,3
+2020-04-02,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",647,36,17,2
+2020-04-03,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",891,244,18,1
+2020-04-04,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",1024,133,29,11
+2020-04-05,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",1162,138,36,7
+2020-04-06,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",1468,306,41,5
+2020-04-07,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",1664,196,60,19
+2020-04-08,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",1664,0,60,0
+2020-04-09,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",2183,519,78,18
+2020-04-10,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",2383,200,98,20
+2020-04-11,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",2715,332,107,9
+2020-04-12,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",2946,231,119,12
+2020-04-13,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",3358,412,135,16
+2020-04-14,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",3543,185,151,16
+2020-04-15,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",3758,215,195,44
+2020-04-16,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4163,405,214,19
+2020-04-17,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4520,357,229,15
+2020-04-18,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4743,223,241,12
+2020-04-19,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",4871,128,257,16
+2020-04-20,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",5272,401,301,44
+2020-04-21,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",5493,221,322,21
+2020-04-22,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",5811,318,345,23
+2020-04-23,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",6064,253,372,27
+2020-04-24,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",6286,222,396,24
+2020-04-25,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",6509,223,416,20
+2020-04-26,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",6715,206,429,13
+2020-04-27,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",6993,278,456,27
+2020-04-28,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",7089,96,478,22
+2020-04-29,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",7205,116,493,15
+2020-04-30,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",7536,331,512,19
+2020-05-01,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",7900,364,533,21
+2020-05-02,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",8024,124,565,32
+2020-05-03,us,connecticut,41.408032500000004,-72.93620426,84009009.0,US,USA,840,9009.0,new-haven,"New Haven, Connecticut, US",8024,0,565,0
 2020-01-22,us,connecticut,41.45949668,-72.53714864,84009007.0,US,USA,840,9007.0,middlesex,"Middlesex, Connecticut, US",0,0,0,0
 2020-01-23,us,connecticut,41.45949668,-72.53714864,84009007.0,US,USA,840,9007.0,middlesex,"Middlesex, Connecticut, US",0,0,0,0
 2020-01-24,us,connecticut,41.45949668,-72.53714864,84009007.0,US,USA,840,9007.0,middlesex,"Middlesex, Connecticut, US",0,0,0,0
@@ -499,6 +511,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,41.45949668,-72.53714864,84009007.0,US,USA,840,9007.0,middlesex,"Middlesex, Connecticut, US",618,9,70,1
 2020-04-29,us,connecticut,41.45949668,-72.53714864,84009007.0,US,USA,840,9007.0,middlesex,"Middlesex, Connecticut, US",631,13,76,6
 2020-04-30,us,connecticut,41.45949668,-72.53714864,84009007.0,US,USA,840,9007.0,middlesex,"Middlesex, Connecticut, US",657,26,79,3
+2020-05-01,us,connecticut,41.45949668,-72.53714864,84009007.0,US,USA,840,9007.0,middlesex,"Middlesex, Connecticut, US",687,30,82,3
+2020-05-02,us,connecticut,41.45949668,-72.53714864,84009007.0,US,USA,840,9007.0,middlesex,"Middlesex, Connecticut, US",707,20,91,9
+2020-05-03,us,connecticut,41.45949668,-72.53714864,84009007.0,US,USA,840,9007.0,middlesex,"Middlesex, Connecticut, US",707,0,91,0
 2020-01-22,us,connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,new-london,"New London, Connecticut, US",0,0,0,0
 2020-01-23,us,connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,new-london,"New London, Connecticut, US",0,0,0,0
 2020-01-24,us,connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,new-london,"New London, Connecticut, US",0,0,0,0
@@ -599,6 +614,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,new-london,"New London, Connecticut, US",530,14,34,0
 2020-04-29,us,connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,new-london,"New London, Connecticut, US",540,10,35,1
 2020-04-30,us,connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,new-london,"New London, Connecticut, US",564,24,36,1
+2020-05-01,us,connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,new-london,"New London, Connecticut, US",603,39,42,6
+2020-05-02,us,connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,new-london,"New London, Connecticut, US",623,20,43,1
+2020-05-03,us,connecticut,41.48896435,-72.10430976,84009011.0,US,USA,840,9011.0,new-london,"New London, Connecticut, US",623,0,43,0
 2020-01-22,us,connecticut,41.7937534,-73.2451475,84009005.0,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",0,0,0,0
 2020-01-23,us,connecticut,41.7937534,-73.2451475,84009005.0,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",0,0,0,0
 2020-01-24,us,connecticut,41.7937534,-73.2451475,84009005.0,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",0,0,0,0
@@ -699,6 +717,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,41.7937534,-73.2451475,84009005.0,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",900,8,76,1
 2020-04-29,us,connecticut,41.7937534,-73.2451475,84009005.0,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",919,19,79,3
 2020-04-30,us,connecticut,41.7937534,-73.2451475,84009005.0,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",963,44,80,1
+2020-05-01,us,connecticut,41.7937534,-73.2451475,84009005.0,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",1014,51,86,6
+2020-05-02,us,connecticut,41.7937534,-73.2451475,84009005.0,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",1036,22,89,3
+2020-05-03,us,connecticut,41.7937534,-73.2451475,84009005.0,US,USA,840,9005.0,litchfield,"Litchfield, Connecticut, US",1036,0,89,0
 2020-01-22,us,connecticut,41.80283011,-72.73103891,84009003.0,US,USA,840,9003.0,hartford,"Hartford, Connecticut, US",0,0,0,0
 2020-01-23,us,connecticut,41.80283011,-72.73103891,84009003.0,US,USA,840,9003.0,hartford,"Hartford, Connecticut, US",0,0,0,0
 2020-01-24,us,connecticut,41.80283011,-72.73103891,84009003.0,US,USA,840,9003.0,hartford,"Hartford, Connecticut, US",0,0,0,0
@@ -799,6 +820,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,41.80283011,-72.73103891,84009003.0,US,USA,840,9003.0,hartford,"Hartford, Connecticut, US",5224,67,643,31
 2020-04-29,us,connecticut,41.80283011,-72.73103891,84009003.0,US,USA,840,9003.0,hartford,"Hartford, Connecticut, US",5388,164,670,27
 2020-04-30,us,connecticut,41.80283011,-72.73103891,84009003.0,US,USA,840,9003.0,hartford,"Hartford, Connecticut, US",5601,213,698,28
+2020-05-01,us,connecticut,41.80283011,-72.73103891,84009003.0,US,USA,840,9003.0,hartford,"Hartford, Connecticut, US",5931,330,715,17
+2020-05-02,us,connecticut,41.80283011,-72.73103891,84009003.0,US,USA,840,9003.0,hartford,"Hartford, Connecticut, US",6112,181,741,26
+2020-05-03,us,connecticut,41.80283011,-72.73103891,84009003.0,US,USA,840,9003.0,hartford,"Hartford, Connecticut, US",6112,0,741,0
 2020-01-22,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",0,0,0,0
 2020-01-23,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",0,0,0,0
 2020-01-24,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",0,0,0,0
@@ -899,6 +923,9 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",164,0,3,0
 2020-04-29,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",165,1,3,0
 2020-04-30,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",186,21,2,-1
+2020-05-01,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",200,14,2,0
+2020-05-02,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",211,11,2,0
+2020-05-03,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",211,0,2,0
 2020-01-22,us,connecticut,41.85853803,-72.3308481,84009013.0,US,USA,840,9013.0,tolland,"Tolland, Connecticut, US",0,0,0,0
 2020-01-23,us,connecticut,41.85853803,-72.3308481,84009013.0,US,USA,840,9013.0,tolland,"Tolland, Connecticut, US",0,0,0,0
 2020-01-24,us,connecticut,41.85853803,-72.3308481,84009013.0,US,USA,840,9013.0,tolland,"Tolland, Connecticut, US",0,0,0,0
@@ -999,3 +1026,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,41.85853803,-72.3308481,84009013.0,US,USA,840,9013.0,tolland,"Tolland, Connecticut, US",422,3,35,0
 2020-04-29,us,connecticut,41.85853803,-72.3308481,84009013.0,US,USA,840,9013.0,tolland,"Tolland, Connecticut, US",427,5,36,1
 2020-04-30,us,connecticut,41.85853803,-72.3308481,84009013.0,US,USA,840,9013.0,tolland,"Tolland, Connecticut, US",437,10,36,0
+2020-05-01,us,connecticut,41.85853803,-72.3308481,84009013.0,US,USA,840,9013.0,tolland,"Tolland, Connecticut, US",446,9,38,2
+2020-05-02,us,connecticut,41.85853803,-72.3308481,84009013.0,US,USA,840,9013.0,tolland,"Tolland, Connecticut, US",461,15,39,1
+2020-05-03,us,connecticut,41.85853803,-72.3308481,84009013.0,US,USA,840,9013.0,tolland,"Tolland, Connecticut, US",461,0,39,0

@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,mississippi,32.7536828,-89.52402044,84028079.0,US,USA,840,28079.0,leake,"Leake, Mississippi, US",179,18,1,0
 2020-04-29,us,mississippi,32.7536828,-89.52402044,84028079.0,US,USA,840,28079.0,leake,"Leake, Mississippi, US",190,11,2,1
 2020-04-30,us,mississippi,32.7536828,-89.52402044,84028079.0,US,USA,840,28079.0,leake,"Leake, Mississippi, US",204,14,2,0
+2020-05-01,us,mississippi,32.7536828,-89.52402044,84028079.0,US,USA,840,28079.0,leake,"Leake, Mississippi, US",219,15,2,0
+2020-05-02,us,mississippi,32.7536828,-89.52402044,84028079.0,US,USA,840,28079.0,leake,"Leake, Mississippi, US",229,10,1,-1
+2020-05-03,us,mississippi,32.7536828,-89.52402044,84028079.0,US,USA,840,28079.0,leake,"Leake, Mississippi, US",233,4,2,1

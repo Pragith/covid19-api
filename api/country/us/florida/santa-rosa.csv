@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",151,1,7,1
 2020-04-29,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",153,2,7,0
 2020-04-30,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",154,1,7,0
+2020-05-01,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",158,4,8,1
+2020-05-02,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",157,-1,8,0
+2020-05-03,us,florida,30.69341450000001,-87.02458128,84012113.0,US,USA,840,12113.0,santa-rosa,"Santa Rosa, Florida, US",157,0,8,0

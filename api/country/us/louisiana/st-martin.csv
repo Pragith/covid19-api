@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,louisiana,30.13112107,-91.61403569,84022099.0,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",226,3,15,0
 2020-04-29,us,louisiana,30.13112107,-91.61403569,84022099.0,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",228,2,16,1
 2020-04-30,us,louisiana,30.13112107,-91.61403569,84022099.0,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",232,4,17,1
+2020-05-01,us,louisiana,30.13112107,-91.61403569,84022099.0,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",241,9,17,0
+2020-05-02,us,louisiana,30.13112107,-91.61403569,84022099.0,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",244,3,18,1
+2020-05-03,us,louisiana,30.13112107,-91.61403569,84022099.0,US,USA,840,22099.0,st-martin,"St. Martin, Louisiana, US",244,0,18,0

@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,kentucky,36.88007070000001,-88.32803576,84021157.0,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",34,1,0,0
 2020-04-29,us,kentucky,36.88007070000001,-88.32803576,84021157.0,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",34,0,0,0
 2020-04-30,us,kentucky,36.88007070000001,-88.32803576,84021157.0,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",34,0,0,0
+2020-05-01,us,kentucky,36.88007070000001,-88.32803576,84021157.0,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",34,0,0,0
+2020-05-02,us,kentucky,36.88007070000001,-88.32803576,84021157.0,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",34,0,1,1
+2020-05-03,us,kentucky,36.88007070000001,-88.32803576,84021157.0,US,USA,840,21157.0,marshall,"Marshall, Kentucky, US",34,0,1,0

@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,arkansas,36.04188196,-91.10867198,84005075.0,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",45,2,1,0
 2020-04-29,us,arkansas,36.04188196,-91.10867198,84005075.0,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",46,1,1,0
 2020-04-30,us,arkansas,36.04188196,-91.10867198,84005075.0,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",59,13,2,1
+2020-05-01,us,arkansas,36.04188196,-91.10867198,84005075.0,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",59,0,2,0
+2020-05-02,us,arkansas,36.04188196,-91.10867198,84005075.0,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",60,1,4,2
+2020-05-03,us,arkansas,36.04188196,-91.10867198,84005075.0,US,USA,840,5075.0,lawrence,"Lawrence, Arkansas, US",66,6,4,0

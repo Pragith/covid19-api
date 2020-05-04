@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",10874,111,747,20
 2020-04-29,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",10985,111,774,27
 2020-04-30,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",11294,309,810,36
+2020-05-01,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",11612,318,839,29
+2020-05-02,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",11801,189,865,26
+2020-05-03,us,connecticut,41.26809896,-73.3881171,84009001.0,US,USA,840,9001.0,fairfield,"Fairfield, Connecticut, US",11801,0,865,0

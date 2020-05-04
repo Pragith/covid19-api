@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",22,0,1,0
 2020-04-29,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",22,0,1,0
 2020-04-30,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",23,1,1,0
+2020-05-01,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",24,1,1,0
+2020-05-02,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",23,-1,1,0
+2020-05-03,us,florida,30.16548905,-84.39895211,84012129.0,US,USA,840,12129.0,wakulla,"Wakulla, Florida, US",24,1,1,0

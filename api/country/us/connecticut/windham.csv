@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",164,0,3,0
 2020-04-29,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",165,1,3,0
 2020-04-30,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",186,21,2,-1
+2020-05-01,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",200,14,2,0
+2020-05-02,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",211,11,2,0
+2020-05-03,us,connecticut,41.82972709,-71.98182316,84009015.0,US,USA,840,9015.0,windham,"Windham, Connecticut, US",211,0,2,0

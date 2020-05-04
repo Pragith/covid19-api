@@ -99,3 +99,6 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-04-28,us,indiana,41.0469907,-86.26252745,84018049.0,US,USA,840,18049.0,fulton,"Fulton, Indiana, US",26,3,0,0
 2020-04-29,us,indiana,41.0469907,-86.26252745,84018049.0,US,USA,840,18049.0,fulton,"Fulton, Indiana, US",26,0,0,0
 2020-04-30,us,indiana,41.0469907,-86.26252745,84018049.0,US,USA,840,18049.0,fulton,"Fulton, Indiana, US",27,1,1,1
+2020-05-01,us,indiana,41.0469907,-86.26252745,84018049.0,US,USA,840,18049.0,fulton,"Fulton, Indiana, US",30,3,1,0
+2020-05-02,us,indiana,41.0469907,-86.26252745,84018049.0,US,USA,840,18049.0,fulton,"Fulton, Indiana, US",31,1,1,0
+2020-05-03,us,indiana,41.0469907,-86.26252745,84018049.0,US,USA,840,18049.0,fulton,"Fulton, Indiana, US",33,2,1,0
