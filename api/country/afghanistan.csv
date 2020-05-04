@@ -99,3 +99,6 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-04-28,afghanistan,,33.0,65.0,1828,58,228.0,125,1,8.0
 2020-04-29,afghanistan,,33.0,65.0,1939,60,252.0,111,2,24.0
 2020-04-30,afghanistan,,33.0,65.0,2171,64,260.0,232,4,8.0
+2020-05-01,afghanistan,,33.0,65.0,2335,68,310.0,164,4,50.0
+2020-05-02,afghanistan,,33.0,65.0,2469,72,331.0,134,4,21.0
+2020-05-03,afghanistan,,33.0,65.0,2704,85,345.0,235,13,14.0
