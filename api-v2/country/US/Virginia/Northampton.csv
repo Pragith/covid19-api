@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Virginia,37.34062933,-75.87751591,84051131.0,US,USA,840,51131.0,Northampton,"Northampton, Virginia, US",82,18,0,0
 2020-05-02,US,Virginia,37.34062933,-75.87751591,84051131.0,US,USA,840,51131.0,Northampton,"Northampton, Virginia, US",94,12,0,0
 2020-05-03,US,Virginia,37.34062933,-75.87751591,84051131.0,US,USA,840,51131.0,Northampton,"Northampton, Virginia, US",134,40,1,1
+2020-05-04,US,Virginia,37.34062933,-75.87751591,84051131.0,US,USA,840,51131.0,Northampton,"Northampton, Virginia, US",139,5,1,0

@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Georgia,33.54187245,-84.35594188,84013063.0,US,USA,840,13063.0,Clayton,"Clayton, Georgia, US",727,14,33,6
 2020-05-02,US,Georgia,33.54187245,-84.35594188,84013063.0,US,USA,840,13063.0,Clayton,"Clayton, Georgia, US",777,50,33,0
 2020-05-03,US,Georgia,33.54187245,-84.35594188,84013063.0,US,USA,840,13063.0,Clayton,"Clayton, Georgia, US",793,16,33,0
+2020-05-04,US,Georgia,33.54187245,-84.35594188,84013063.0,US,USA,840,13063.0,Clayton,"Clayton, Georgia, US",804,11,32,-1

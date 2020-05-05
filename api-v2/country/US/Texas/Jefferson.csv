@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Texas,29.8832777,-94.16434171,84048245.0,US,USA,840,48245.0,Jefferson,"Jefferson, Texas, US",307,2,21,0
 2020-05-02,US,Texas,29.8832777,-94.16434171,84048245.0,US,USA,840,48245.0,Jefferson,"Jefferson, Texas, US",318,11,22,1
 2020-05-03,US,Texas,29.8832777,-94.16434171,84048245.0,US,USA,840,48245.0,Jefferson,"Jefferson, Texas, US",319,1,22,0
+2020-05-04,US,Texas,29.8832777,-94.16434171,84048245.0,US,USA,840,48245.0,Jefferson,"Jefferson, Texas, US",325,6,23,1

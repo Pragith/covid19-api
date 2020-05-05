@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Mississippi,32.2656285,-90.44435448,84028049.0,US,USA,840,28049.0,Hinds,"Hinds, Mississippi, US",496,26,8,0
 2020-05-02,US,Mississippi,32.2656285,-90.44435448,84028049.0,US,USA,840,28049.0,Hinds,"Hinds, Mississippi, US",505,9,8,0
 2020-05-03,US,Mississippi,32.2656285,-90.44435448,84028049.0,US,USA,840,28049.0,Hinds,"Hinds, Mississippi, US",507,2,8,0
+2020-05-04,US,Mississippi,32.2656285,-90.44435448,84028049.0,US,USA,840,28049.0,Hinds,"Hinds, Mississippi, US",542,35,9,1

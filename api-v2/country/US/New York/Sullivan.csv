@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,New York,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,Sullivan,"Sullivan, New York, US",880,42,22,0
 2020-05-02,US,New York,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,Sullivan,"Sullivan, New York, US",931,51,22,0
 2020-05-03,US,New York,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,Sullivan,"Sullivan, New York, US",951,20,22,0
+2020-05-04,US,New York,41.71579493,-74.76394559,84036105.0,US,USA,840,36105.0,Sullivan,"Sullivan, New York, US",976,25,23,1

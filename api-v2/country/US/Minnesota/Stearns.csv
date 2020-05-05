@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Minnesota,45.55192576,-94.61078221,84027145.0,US,USA,840,27145.0,Stearns,"Stearns, Minnesota, US",435,168,0,0
 2020-05-02,US,Minnesota,45.55192576,-94.61078221,84027145.0,US,USA,840,27145.0,Stearns,"Stearns, Minnesota, US",531,96,0,0
 2020-05-03,US,Minnesota,45.55192576,-94.61078221,84027145.0,US,USA,840,27145.0,Stearns,"Stearns, Minnesota, US",589,58,0,0
+2020-05-04,US,Minnesota,45.55192576,-94.61078221,84027145.0,US,USA,840,27145.0,Stearns,"Stearns, Minnesota, US",728,139,2,2

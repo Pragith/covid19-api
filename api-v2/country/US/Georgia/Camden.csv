@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Georgia,30.92951916,-81.66601818,84013039.0,US,USA,840,13039.0,Camden,"Camden, Georgia, US",33,0,1,0
 2020-05-02,US,Georgia,30.92951916,-81.66601818,84013039.0,US,USA,840,13039.0,Camden,"Camden, Georgia, US",34,1,1,0
 2020-05-03,US,Georgia,30.92951916,-81.66601818,84013039.0,US,USA,840,13039.0,Camden,"Camden, Georgia, US",35,1,1,0
+2020-05-04,US,Georgia,30.92951916,-81.66601818,84013039.0,US,USA,840,13039.0,Camden,"Camden, Georgia, US",33,-2,1,0

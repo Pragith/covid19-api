@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,New York,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,Chautauqua,"Chautauqua, New York, US",35,2,3,0
 2020-05-02,US,New York,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,Chautauqua,"Chautauqua, New York, US",35,0,3,0
 2020-05-03,US,New York,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,Chautauqua,"Chautauqua, New York, US",36,1,3,0
+2020-05-04,US,New York,42.22769210000001,-79.36691763,84036013.0,US,USA,840,36013.0,Chautauqua,"Chautauqua, New York, US",37,1,4,1

@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Georgia,33.35777107,-82.07026432,84013245.0,US,USA,840,13245.0,Richmond,"Richmond, Georgia, US",412,6,15,0
 2020-05-02,US,Georgia,33.35777107,-82.07026432,84013245.0,US,USA,840,13245.0,Richmond,"Richmond, Georgia, US",415,3,16,1
 2020-05-03,US,Georgia,33.35777107,-82.07026432,84013245.0,US,USA,840,13245.0,Richmond,"Richmond, Georgia, US",417,2,16,0
+2020-05-04,US,Georgia,33.35777107,-82.07026432,84013245.0,US,USA,840,13245.0,Richmond,"Richmond, Georgia, US",422,5,15,-1

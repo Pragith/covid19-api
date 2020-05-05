@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,Montour,"Montour, Pennsylvania, US",48,1,0,0
 2020-05-02,US,Pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,Montour,"Montour, Pennsylvania, US",49,1,0,0
 2020-05-03,US,Pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,Montour,"Montour, Pennsylvania, US",50,1,0,0
+2020-05-04,US,Pennsylvania,41.03023987,-76.66345939,84042093.0,US,USA,840,42093.0,Montour,"Montour, Pennsylvania, US",50,0,0,0

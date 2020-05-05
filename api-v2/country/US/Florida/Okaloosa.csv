@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,Okaloosa,"Okaloosa, Florida, US",156,2,4,0
 2020-05-02,US,Florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,Okaloosa,"Okaloosa, Florida, US",158,2,5,1
 2020-05-03,US,Florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,Okaloosa,"Okaloosa, Florida, US",160,2,5,0
+2020-05-04,US,Florida,30.69143028,-86.59267105,84012091.0,US,USA,840,12091.0,Okaloosa,"Okaloosa, Florida, US",160,0,5,0

@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Mississippi,33.12345854,-90.08923538,84028051.0,US,USA,840,28051.0,Holmes,"Holmes, Mississippi, US",153,20,9,4
 2020-05-02,US,Mississippi,33.12345854,-90.08923538,84028051.0,US,USA,840,28051.0,Holmes,"Holmes, Mississippi, US",159,6,9,0
 2020-05-03,US,Mississippi,33.12345854,-90.08923538,84028051.0,US,USA,840,28051.0,Holmes,"Holmes, Mississippi, US",161,2,9,0
+2020-05-04,US,Mississippi,33.12345854,-90.08923538,84028051.0,US,USA,840,28051.0,Holmes,"Holmes, Mississippi, US",168,7,10,1

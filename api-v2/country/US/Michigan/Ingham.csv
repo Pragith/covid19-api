@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,Ingham,"Ingham, Michigan, US",483,13,12,1
 2020-05-02,US,Michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,Ingham,"Ingham, Michigan, US",497,14,13,1
 2020-05-03,US,Michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,Ingham,"Ingham, Michigan, US",506,9,13,0
+2020-05-04,US,Michigan,42.59716886,-84.37472069,84026065.0,US,USA,840,26065.0,Ingham,"Ingham, Michigan, US",506,0,13,0

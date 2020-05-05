@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,Calvert,"Calvert, Maryland, US",161,11,9,1
 2020-05-02,US,Maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,Calvert,"Calvert, Maryland, US",160,-1,11,2
 2020-05-03,US,Maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,Calvert,"Calvert, Maryland, US",162,2,11,0
+2020-05-04,US,Maryland,38.53961642,-76.56820632,84024009.0,US,USA,840,24009.0,Calvert,"Calvert, Maryland, US",171,9,11,0

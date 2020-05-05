@@ -102,6 +102,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Delaware,0.0,0.0,84080010.0,US,USA,840,80010.0,Out of DE,"Out of DE, Delaware, US",0,0,0,0
 2020-05-02,US,Delaware,0.0,0.0,84080010.0,US,USA,840,80010.0,Out of DE,"Out of DE, Delaware, US",0,0,0,0
 2020-05-03,US,Delaware,0.0,0.0,84080010.0,US,USA,840,80010.0,Out of DE,"Out of DE, Delaware, US",0,0,0,0
+2020-05-04,US,Delaware,0.0,0.0,84080010.0,US,USA,840,80010.0,Out of DE,"Out of DE, Delaware, US",0,0,0,0
 2020-01-22,US,Delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,Unassigned,"Unassigned, Delaware, US",0,0,0,0
 2020-01-23,US,Delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,Unassigned,"Unassigned, Delaware, US",0,0,0,0
 2020-01-24,US,Delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,Unassigned,"Unassigned, Delaware, US",0,0,0,0
@@ -205,6 +206,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,Unassigned,"Unassigned, Delaware, US",24,-1,0,0
 2020-05-02,US,Delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,Unassigned,"Unassigned, Delaware, US",22,-2,0,0
 2020-05-03,US,Delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,Unassigned,"Unassigned, Delaware, US",23,1,0,0
+2020-05-04,US,Delaware,0.0,0.0,84090010.0,US,USA,840,90010.0,Unassigned,"Unassigned, Delaware, US",24,1,0,0
 2020-01-22,US,Delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,Sussex,"Sussex, Delaware, US",0,0,0,0
 2020-01-23,US,Delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,Sussex,"Sussex, Delaware, US",0,0,0,0
 2020-01-24,US,Delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,Sussex,"Sussex, Delaware, US",0,0,0,0
@@ -308,6 +310,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,Sussex,"Sussex, Delaware, US",2292,76,62,4
 2020-05-02,US,Delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,Sussex,"Sussex, Delaware, US",2359,67,63,1
 2020-05-03,US,Delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,Sussex,"Sussex, Delaware, US",2461,102,68,5
+2020-05-04,US,Delaware,38.66143781,-75.39031349,84010005.0,US,USA,840,10005.0,Sussex,"Sussex, Delaware, US",2497,36,70,2
 2020-01-22,US,Delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,Kent,"Kent, Delaware, US",0,0,0,0
 2020-01-23,US,Delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,Kent,"Kent, Delaware, US",0,0,0,0
 2020-01-24,US,Delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,Kent,"Kent, Delaware, US",0,0,0,0
@@ -411,6 +414,7 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,Kent,"Kent, Delaware, US",773,14,27,1
 2020-05-02,US,Delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,Kent,"Kent, Delaware, US",793,20,29,2
 2020-05-03,US,Delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,Kent,"Kent, Delaware, US",821,28,30,1
+2020-05-04,US,Delaware,39.08646628,-75.56884914,84010001.0,US,USA,840,10001.0,Kent,"Kent, Delaware, US",833,12,30,0
 2020-01-22,US,Delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,New Castle,"New Castle, Delaware, US",0,0,0,0
 2020-01-23,US,Delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,New Castle,"New Castle, Delaware, US",0,0,0,0
 2020-01-24,US,Delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,New Castle,"New Castle, Delaware, US",0,0,0,0
@@ -514,3 +518,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,New Castle,"New Castle, Delaware, US",1829,95,70,2
 2020-05-02,US,Delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,New Castle,"New Castle, Delaware, US",1864,35,76,6
 2020-05-03,US,Delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,New Castle,"New Castle, Delaware, US",1903,39,79,3
+2020-05-04,US,Delaware,39.57992638,-75.64054974,84010003.0,US,USA,840,10003.0,New Castle,"New Castle, Delaware, US",1934,31,82,3

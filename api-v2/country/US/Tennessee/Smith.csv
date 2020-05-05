@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Tennessee,36.25359775,-85.95411046,84047159.0,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",22,1,1,0
 2020-05-02,US,Tennessee,36.25359775,-85.95411046,84047159.0,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",22,0,1,0
 2020-05-03,US,Tennessee,36.25359775,-85.95411046,84047159.0,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",22,0,1,0
+2020-05-04,US,Tennessee,36.25359775,-85.95411046,84047159.0,US,USA,840,47159.0,Smith,"Smith, Tennessee, US",24,2,1,0

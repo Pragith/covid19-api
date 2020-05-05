@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,Lamar,"Lamar, Alabama, US",11,0,0,0
 2020-05-02,US,Alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,Lamar,"Lamar, Alabama, US",11,0,0,0
 2020-05-03,US,Alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,Lamar,"Lamar, Alabama, US",11,0,0,0
+2020-05-04,US,Alabama,33.77995024,-88.09668032,84001075.0,US,USA,840,1075.0,Lamar,"Lamar, Alabama, US",12,1,0,0

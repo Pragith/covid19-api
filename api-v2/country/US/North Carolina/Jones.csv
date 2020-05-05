@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,North Carolina,35.02254606,-77.35870791,84037103.0,US,USA,840,37103.0,Jones,"Jones, North Carolina, US",15,1,2,0
 2020-05-02,US,North Carolina,35.02254606,-77.35870791,84037103.0,US,USA,840,37103.0,Jones,"Jones, North Carolina, US",17,2,2,0
 2020-05-03,US,North Carolina,35.02254606,-77.35870791,84037103.0,US,USA,840,37103.0,Jones,"Jones, North Carolina, US",18,1,2,0
+2020-05-04,US,North Carolina,35.02254606,-77.35870791,84037103.0,US,USA,840,37103.0,Jones,"Jones, North Carolina, US",18,0,2,0

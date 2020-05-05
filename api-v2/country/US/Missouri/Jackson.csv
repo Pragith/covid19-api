@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,Jackson,"Jackson, Missouri, US",328,13,14,0
 2020-05-02,US,Missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,Jackson,"Jackson, Missouri, US",339,11,14,0
 2020-05-03,US,Missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,Jackson,"Jackson, Missouri, US",342,3,14,0
+2020-05-04,US,Missouri,39.01002188,-94.34724536,84029095.0,US,USA,840,29095.0,Jackson,"Jackson, Missouri, US",335,-7,15,1

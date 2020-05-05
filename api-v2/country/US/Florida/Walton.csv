@@ -102,3 +102,4 @@ date,country,state,lat,long,UID,iso2,iso3,code3,FIPS,region,Combined_Key,confirm
 2020-05-01,US,Florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,Walton,"Walton, Florida, US",38,0,0,0
 2020-05-02,US,Florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,Walton,"Walton, Florida, US",43,5,0,0
 2020-05-03,US,Florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,Walton,"Walton, Florida, US",49,6,0,0
+2020-05-04,US,Florida,30.64204028,-86.16935664,84012131.0,US,USA,840,12131.0,Walton,"Walton, Florida, US",50,1,1,1
