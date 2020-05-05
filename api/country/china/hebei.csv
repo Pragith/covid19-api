@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-05-01,china,hebei,39.549,116.1306,328,0,6,0,318.0,0.0
 2020-05-02,china,hebei,39.549,116.1306,328,0,6,0,318.0,0.0
 2020-05-03,china,hebei,39.549,116.1306,328,0,6,0,318.0,0.0
+2020-05-04,china,hebei,39.549,116.1306,328,0,6,0,320.0,2.0

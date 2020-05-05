@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,honduras,,15.2,-86.2419,804,75,112.0,33,4,33.0
 2020-05-02,honduras,,15.2,-86.2419,1010,76,116.0,206,1,4.0
 2020-05-03,honduras,,15.2,-86.2419,1055,82,118.0,45,6,2.0
+2020-05-04,honduras,,15.2,-86.2419,1178,83,122.0,123,1,4.0

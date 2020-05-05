@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,costa-rica,,9.7489,-83.7534,725,6,355.0,6,0,17.0
 2020-05-02,costa-rica,,9.7489,-83.7534,733,6,372.0,8,0,17.0
 2020-05-03,costa-rica,,9.7489,-83.7534,739,6,386.0,6,0,14.0
+2020-05-04,costa-rica,,9.7489,-83.7534,742,6,399.0,3,0,13.0

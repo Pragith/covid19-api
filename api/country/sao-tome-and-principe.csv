@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,sao-tome-and-principe,,0.18636,6.613081,16,1,4.0,2,1,0.0
 2020-05-02,sao-tome-and-principe,,0.18636,6.613081,16,1,4.0,0,0,0.0
 2020-05-03,sao-tome-and-principe,,0.18636,6.613081,16,1,4.0,0,0,0.0
+2020-05-04,sao-tome-and-principe,,0.18636,6.613081,23,3,4.0,7,2,0.0

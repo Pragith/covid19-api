@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-05-01,australia,victoria,-37.8136,144.9631,1371,7,18,0,1300.0,7.0
 2020-05-02,australia,victoria,-37.8136,144.9631,1384,13,18,0,1300.0,0.0
 2020-05-03,australia,victoria,-37.8136,144.9631,1406,22,18,0,1300.0,0.0
+2020-05-04,australia,victoria,-37.8136,144.9631,1423,17,18,0,1311.0,11.0

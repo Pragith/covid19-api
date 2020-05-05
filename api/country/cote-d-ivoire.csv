@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,cote-d-ivoire,,7.54,-5.5471,1333,15,597.0,58,1,23.0
 2020-05-02,cote-d-ivoire,,7.54,-5.5471,1362,15,622.0,29,0,25.0
 2020-05-03,cote-d-ivoire,,7.54,-5.5471,1398,17,653.0,36,2,31.0
+2020-05-04,cote-d-ivoire,,7.54,-5.5471,1432,17,693.0,34,0,40.0

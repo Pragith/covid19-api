@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-05-01,canada,ontario,51.2538,-85.3232,17880,485,1265,60,0.0,0.0
 2020-05-02,canada,ontario,51.2538,-85.3232,18321,441,1292,27,0.0,0.0
 2020-05-03,canada,ontario,51.2538,-85.3232,18574,253,1326,34,0.0,0.0
+2020-05-04,canada,ontario,51.2538,-85.3232,19097,523,1446,120,0.0,0.0

@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,congo-brazzaville,,-4.0383,21.7587,229,9,25.0,9,0,6.0
 2020-05-02,congo-brazzaville,,-4.0383,21.7587,229,9,25.0,0,0,0.0
 2020-05-03,congo-brazzaville,,-4.0383,21.7587,229,9,25.0,0,0,0.0
+2020-05-04,congo-brazzaville,,-4.0383,21.7587,236,10,26.0,7,1,1.0

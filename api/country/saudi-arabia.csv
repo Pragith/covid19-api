@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,saudi-arabia,,24.0,45.0,24097,169,3555.0,1344,7,392.0
 2020-05-02,saudi-arabia,,24.0,45.0,25459,176,3765.0,1362,7,210.0
 2020-05-03,saudi-arabia,,24.0,45.0,27011,184,4134.0,1552,8,369.0
+2020-05-04,saudi-arabia,,24.0,45.0,28656,191,4476.0,1645,7,342.0

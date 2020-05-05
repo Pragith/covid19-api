@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,west-bank-and-gaza,,31.9522,35.2332,353,2,76.0,9,0,0.0
 2020-05-02,west-bank-and-gaza,,31.9522,35.2332,353,2,76.0,0,0,0.0
 2020-05-03,west-bank-and-gaza,,31.9522,35.2332,353,2,77.0,0,0,1.0
+2020-05-04,west-bank-and-gaza,,31.9522,35.2332,362,2,102.0,9,0,25.0

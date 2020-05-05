@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,jordan,,31.24,36.51,459,8,364.0,6,0,2.0
 2020-05-02,jordan,,31.24,36.51,460,9,367.0,1,1,3.0
 2020-05-03,jordan,,31.24,36.51,461,9,367.0,1,0,0.0
+2020-05-04,jordan,,31.24,36.51,465,9,370.0,4,0,3.0

@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,ethiopia,,9.145,40.4897,133,3,66.0,2,0,7.0
 2020-05-02,ethiopia,,9.145,40.4897,133,3,69.0,0,0,3.0
 2020-05-03,ethiopia,,9.145,40.4897,135,3,75.0,2,0,6.0
+2020-05-04,ethiopia,,9.145,40.4897,140,3,75.0,5,0,0.0

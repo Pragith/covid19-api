@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-05-01,australia,new-south-wales,-33.8688,151.2093,3030,5,41,0,2293.0,0.0
 2020-05-02,australia,new-south-wales,-33.8688,151.2093,3035,5,42,1,2306.0,13.0
 2020-05-03,australia,new-south-wales,-33.8688,151.2093,3033,-2,42,0,2328.0,22.0
+2020-05-04,australia,new-south-wales,-33.8688,151.2093,3035,2,43,1,2349.0,21.0

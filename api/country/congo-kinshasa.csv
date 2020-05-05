@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,congo-kinshasa,,-4.0383,21.7587,604,32,75.0,32,1,2.0
 2020-05-02,congo-kinshasa,,-4.0383,21.7587,674,33,75.0,70,1,0.0
 2020-05-03,congo-kinshasa,,-4.0383,21.7587,674,33,75.0,0,0,0.0
+2020-05-04,congo-kinshasa,,-4.0383,21.7587,682,34,80.0,8,1,5.0

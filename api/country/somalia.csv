@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,somalia,,5.1521,46.1996,601,28,31.0,0,0,0.0
 2020-05-02,somalia,,5.1521,46.1996,671,31,34.0,70,3,3.0
 2020-05-03,somalia,,5.1521,46.1996,722,32,44.0,51,1,10.0
+2020-05-04,somalia,,5.1521,46.1996,756,35,61.0,34,3,17.0

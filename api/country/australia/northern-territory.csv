@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,confirmed_new,deaths,deaths_new,recovered,
 2020-05-01,australia,northern-territory,-12.4634,130.8456,27,-1,0,0,24.0,-1.0
 2020-05-02,australia,northern-territory,-12.4634,130.8456,29,2,0,0,24.0,0.0
 2020-05-03,australia,northern-territory,-12.4634,130.8456,29,0,0,0,24.0,0.0
+2020-05-04,australia,northern-territory,-12.4634,130.8456,29,0,0,0,24.0,0.0

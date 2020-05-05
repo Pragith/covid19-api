@@ -514,3 +514,8 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-03,netherlands,bonaire-sint-eustatius-and-saba,12.1784,-68.2385,6,0,0.0,0,0,0.0
 2020-05-03,netherlands,curacao,12.1696,-68.99,16,1,13.0,0,0,0.0
 2020-05-03,netherlands,sint-maarten,18.0425,-63.0548,76,13,44.0,0,0,0.0
+2020-05-04,netherlands,,52.1326,5.2913,40770,5082,0.0,199,26,0.0
+2020-05-04,netherlands,aruba,12.5186,-70.0358,100,2,81.0,0,0,0.0
+2020-05-04,netherlands,bonaire-sint-eustatius-and-saba,12.1784,-68.2385,6,0,0.0,0,0,0.0
+2020-05-04,netherlands,curacao,12.1696,-68.99,16,1,13.0,0,0,0.0
+2020-05-04,netherlands,sint-maarten,18.0425,-63.0548,76,13,44.0,0,0,0.0

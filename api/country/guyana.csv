@@ -102,3 +102,4 @@ date,country,state,lat,long,confirmed,deaths,recovered,confirmed_new,deaths_new,
 2020-05-01,guyana,,5.0,-58.75,82,9,22.0,0,0,0.0
 2020-05-02,guyana,,5.0,-58.75,82,9,22.0,0,0,0.0
 2020-05-03,guyana,,5.0,-58.75,82,9,22.0,0,0,0.0
+2020-05-04,guyana,,5.0,-58.75,92,9,27.0,10,0,5.0
